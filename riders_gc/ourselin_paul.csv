@@ -1,0 +1,893 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-05-09,2017,4-jours-de-dunkerque,gc,Direct Energie,2.HC,,0,0,,115.0,,,155.0
+2017-04-16,2017,amstel-gold-race,gc,Direct Energie,1.UWT,,,1,,0.0,,,11.0
+2017-08-10,2017,arctic-race-of-norway,gc,Direct Energie,2.HC,,0,0,,13.0,,,13.0
+2017-05-28,2017,boucles-de-l-aulne,gc,Direct Energie,1.1,,,1,,0.0,,,10.0
+2017-06-01,2017,boucles-de-la-mayenne,gc,Direct Energie,2.1,,0,0,,26.0,,,29.0
+2017-04-12,2017,brabantse-pijl,gc,Direct Energie,1.HC,,0,0,,0.0,,,20.0
+2017-08-27,2017,bretagne-classic,gc,Direct Energie,1.UWT,,,1,,0.0,,,40.0
+2017-09-02,2017,brussels-cycling-classic,gc,Direct Energie,1.HC,,0,0,,0.0,,,3.0
+2017-10-15,2017,chrono-des-nations,gc,Direct Energie,1.1,,0,0,,0.0,,,32.0
+2017-10-15,2017,chrono-des-nations-u23,gc,Direct Energie,1.2U,,0,0,,0.0,,,0.0
+2017-10-01,2017,circuit-franco-belge,gc,Direct Energie,1.HC,,,1,,0.0,,,3.0
+2017-02-12,2017,clasica-de-almeria,gc,Direct Energie,1.1,,,1,,0.0,,,5.0
+2017-03-28,2017,classic-brugge-de-panne,gc,Direct Energie,2.HC,,0,0,,108.0,,,108.0
+2017-03-18,2017,classic-loire-atlantique,gc,Direct Energie,1.1,,,1,,0.0,,,85.0
+2017-08-23,2017,druivenkoers-overijse,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2017-03-22,2017,dwars-door-vlaanderen,gc,Direct Energie,1.UWT,,0,0,,0.0,,,5.0
+2017-03-24,2017,e3-harelbeke,gc,Direct Energie,1.UWT,,0,0,,0.0,,,10.0
+2017-02-01,2017,etoile-de-besseges,gc,Direct Energie,2.1,,0,0,,175.0,,,194.0
+2017-08-05,2017,european-championships-mu,gc,Direct Energie,CC,,0,0,,0.0,,,0.0
+2017-02-25,2017,faun-ardeche-classic,gc,Direct Energie,1.1,,,1,,0.0,,,28.0
+2017-07-19,2017,gp-cerami,gc,Direct Energie,1.1,,0,0,,0.0,,,15.0
+2017-09-17,2017,gp-d-isbergues,gc,Direct Energie,1.1,,0,0,,0.0,,,3.0
+2017-01-29,2017,gp-d-ouverture,gc,Direct Energie,1.1,,,1,,0.0,,,78.0
+2017-04-13,2017,gp-de-denain,gc,Direct Energie,1.HC,,0,0,,0.0,,,8.0
+2017-09-03,2017,gp-de-fourmies,gc,Direct Energie,1.HC,,,1,,0.0,,,0.0
+2017-05-21,2017,gp-de-la-somme,gc,Direct Energie,1.1,,,1,,0.0,,,188.0
+2017-03-05,2017,gp-de-la-ville-de-lillers,gc,Direct Energie,1.2,,,1,,0.0,,,40.0
+2017-05-27,2017,gp-de-plumelec,gc,Direct Energie,1.1,,,1,,0.0,,,88.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,Direct Energie,1.HC,,0,0,,0.0,,,75.0
+2017-08-22,2017,gp-stad-zottegem,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2017-10-07,2017,il-lombardia,gc,Direct Energie,1.UWT,,,1,,0.0,,,10.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Direct Energie,1.HC,,0,0,,0.0,,,5.0
+2017-02-26,2017,la-drome-classic,gc,Direct Energie,1.1,,,1,,0.0,,,35.0
+2017-04-19,2017,la-fleche-wallonne,gc,Direct Energie,1.UWT,,,1,,0.0,,,24.0
+2017-07-30,2017,la-poly-normande,gc,Direct Energie,1.1,,,1,,0.0,,,34.0
+2017-04-02,2017,la-roue-tourangelle,gc,Direct Energie,1.1,,0,0,,0.0,,,100.0
+2017-06-15,2017,la-route-d-occitanie,gc,Direct Energie,2.1,89.0,0.0,1,,3.0,,,3.0
+2017-02-27,2017,la-tropicale-amissa-bongo,gc,Direct Energie,2.1,,0,0,,151.0,,,184.0
+2017-04-23,2017,liege-bastogne-liege,gc,Direct Energie,1.UWT,,0,0,,0.0,,,3.0
+2017-10-03,2017,memorial-frank-vandenbroucke,gc,Direct Energie,1.1,,0,0,,0.0,,,3.0
+2017-06-25,2017,nc-canada2,gc,Direct Energie,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-france,gc,Direct Energie,NC,,,1,,0.0,,,0.0
+2017-06-22,2017,nc-france-itt,gc,Direct Energie,NC,,,1,,0.0,,,15.0
+2017-03-15,2017,nokere-koerse,gc,Direct Energie,1.HC,,,1,,0.0,,,6.0
+2017-09-30,2017,omloop-eurometropool,gc,Direct Energie,1.1,,,1,,0.0,,,15.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Direct Energie,1.UWT,,0,0,,0.0,,,52.0
+2017-10-05,2017,paris-bourges,gc,Direct Energie,1.1,,0,0,,0.0,,,3.0
+2017-04-11,2017,paris-camembert,gc,Direct Energie,1.1,,,1,,0.0,,,6.0
+2017-09-24,2017,paris-chauny-classique,gc,Direct Energie,1.2,,0,0,,0.0,,,40.0
+2017-03-05,2017,paris-nice,gc,Direct Energie,2.UWT,,0,0,,30.0,,,30.0
+2017-04-09,2017,paris-roubaix,gc,Direct Energie,1.UWT,,0,0,,0.0,,,130.0
+2017-10-08,2017,paris-tours,gc,Direct Energie,1.HC,,0,0,,0.0,,,0.0
+2017-03-12,2017,paris-troyes,gc,Direct Energie,1.2,,,1,,0.0,,,30.0
+2017-04-04,2017,region-pays-de-la-loire,gc,Direct Energie,2.1,71.0,0.0,1,,128.0,,,170.0
+2017-05-03,2017,rhone-alpes-isere-tour,gc,Direct Energie,2.2,44.0,0.0,1,,10.0,,,17.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Direct Energie,1.UWT,,0,0,,0.0,,,120.0
+2017-03-31,2017,route-adelie-de-vitre,gc,Direct Energie,1.1,,,1,,0.0,,,30.0
+2017-02-15,2017,ruta-del-sol,gc,Direct Energie,2.HC,,0,0,,0.0,,,20.0
+2017-10-14,2017,tacx-pro-classic,gc,Direct Energie,1.1,,,1,,0.0,,,15.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Direct Energie,2.UWT,,0,0,,15.0,,,25.0
+2017-02-21,2017,tour-cycliste-international-la-provence,gc,Direct Energie,2.1,,0,0,,60.0,,,63.0
+2017-07-09,2017,tour-de-delta,gc,Direct Energie,1.2,,0,0,,0.0,,,5.0
+2017-07-01,2017,tour-de-france,gc,Direct Energie,2.UWT,,0,0,,65.0,0.0,0.0,190.0
+2017-07-01,2017,tour-de-france,kom,Direct Energie,2.UWT,,0,0,,65.0,0.0,0.0,190.0
+2017-07-01,2017,tour-de-france,points,Direct Energie,2.UWT,,0,0,,65.0,0.0,0.0,190.0
+2017-08-08,2017,tour-de-l-ain,gc,Direct Energie,2.1,46.0,0.0,1,,0.0,,,0.0
+2017-06-10,2017,tour-de-suisse,gc,Direct Energie,2.UWT,,0,0,,25.0,,,25.0
+2017-10-01,2017,tour-de-vendee,gc,Direct Energie,1.1,,0,0,,0.0,,,56.0
+2017-07-22,2017,tour-de-wallonie,gc,Direct Energie,2.HC,,0,0,,5.0,,,15.0
+2017-04-28,2017,tour-de-yorkshire,gc,Direct Energie,2.1,,0,0,,70.0,,,76.0
+2017-02-18,2017,tour-des-alpes-maritimes,gc,Direct Energie,2.1,,0,0,,80.0,,,80.0
+2017-09-10,2017,tour-du-doubs,gc,Direct Energie,1.1,,0,0,,0.0,,,53.0
+2017-04-15,2017,tour-du-finistere,gc,Direct Energie,1.1,,0,0,,0.0,,,23.0
+2017-09-23,2017,tour-du-gevaudan-languedoc-roussillon,gc,Direct Energie,2.2,32.0,0.0,1,,30.0,,,33.0
+2017-08-15,2017,tour-du-limousin,gc,Direct Energie,2.1,24.0,3.0,1,,78.0,,,78.0
+2017-08-22,2017,tour-du-poitou-charentes-et-de-la-vienne,gc,Direct Energie,2.1,,0,0,,20.0,,,20.0
+2017-05-24,2017,tour-of-belgium,gc,Direct Energie,2.HC,,0,0,,20.0,,,40.0
+2017-09-12,2017,tour-of-denmark,gc,Direct Energie,2.HC,50.0,0.0,1,,20.0,,,20.0
+2017-04-17,2017,tro-bro-leon,gc,Direct Energie,1.1,,0,0,,0.0,,,28.0
+2017-02-12,2017,trofeo-laigueglia,gc,Direct Energie,1.HC,,0,0,,0.0,,,18.0
+2017-08-01,2017,vuelta-a-burgos,gc,Direct Energie,2.HC,,0,0,,8.0,,,8.0
+2017-05-19,2017,vuelta-a-castilla-y-leon,gc,Direct Energie,2.1,,0,0,,128.0,,,142.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Direct Energie,2.1,,0,0,,0.0,,,17.0
+2017-02-11,2017,vuelta-ciclista-a-la-region-de-murcia,gc,Direct Energie,1.1,,,1,,0.0,,,10.0
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,Direct Energie,1.1,,0,0,,0.0,,,8.0
+2018-05-08,2018,4-jours-de-dunkerque,gc,Direct Energie,2.HC,28.0,5.0,1,,16.0,,,16.0
+2018-08-16,2018,arctic-race-of-norway,gc,Direct Energie,2.HC,,0,0,,10.0,,,10.0
+2018-05-27,2018,boucles-de-l-aulne,gc,Direct Energie,1.1,,,1,,0.0,,,10.0
+2018-05-31,2018,boucles-de-la-mayenne,gc,Direct Energie,2.1,,0,0,,3.0,,,3.0
+2018-04-11,2018,brabantse-pijl,gc,Direct Energie,1.HC,,0,0,,0.0,,,5.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Direct Energie,1.HC,,,1,,0.0,,,10.0
+2018-08-26,2018,bretagne-classic,gc,Direct Energie,1.UWT,,,1,,0.0,,,24.0
+2018-09-01,2018,brussels-cycling-classic,gc,Direct Energie,1.HC,,0,0,,0.0,,,125.0
+2018-03-25,2018,cholet-pays-de-loire,gc,Direct Energie,1.1,,0,0,,0.0,,,175.0
+2018-10-14,2018,chrono-des-nations,gc,Direct Energie,1.1,,,1,,0.0,,,56.0
+2018-04-06,2018,circuit-des-ardennes,gc,Direct Energie,2.2,41.0,0.0,1,,25.0,,,32.0
+2018-09-22,2018,circuit-franco-belge,gc,Direct Energie,1.HC,,0,0,,0.0,,,0.0
+2018-02-11,2018,clasica-de-almeria,gc,Direct Energie,1.HC,,0,0,,0.0,,,33.0
+2018-03-21,2018,classic-brugge-de-panne,gc,Direct Energie,1.HC,,0,0,,0.0,,,3.0
+2018-03-24,2018,classic-loire-atlantique,gc,Direct Energie,1.1,,,1,,0.0,,,5.0
+2018-09-15,2018,coppa-agostoni,gc,Direct Energie,1.1,,,1,,0.0,,,88.0
+2018-09-16,2018,coppa-bernocchi,gc,Direct Energie,1.1,,,1,,0.0,,,5.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Direct Energie,1.UWT,,0,0,,0.0,,,0.0
+2018-03-23,2018,e3-harelbeke,gc,Direct Energie,1.UWT,,0,0,,0.0,,,24.0
+2018-01-31,2018,etoile-de-besseges,gc,Direct Energie,2.1,,0,0,,153.0,,,166.0
+2018-09-27,2018,famenne-ardenne-classic,gc,Direct Energie,1.1,,,1,,0.0,,,63.0
+2018-02-24,2018,faun-ardeche-classic,gc,Direct Energie,1.1,,0,0,,0.0,,,90.0
+2018-07-26,2018,gp-cerami,gc,Direct Energie,1.1,,,1,,0.0,,,15.0
+2018-09-23,2018,gp-d-isbergues,gc,Direct Energie,1.1,,,1,,0.0,,,3.0
+2018-01-28,2018,gp-d-ouverture,gc,Direct Energie,1.1,,0,0,,0.0,,,73.0
+2018-03-18,2018,gp-de-denain,gc,Direct Energie,1.HC,,0,0,,0.0,,,45.0
+2018-09-02,2018,gp-de-fourmies,gc,Direct Energie,1.HC,,0,0,,0.0,,,10.0
+2018-05-26,2018,gp-de-plumelec,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2018-09-12,2018,gp-de-wallonie,gc,Direct Energie,1.1,,0,0,,0.0,,,35.0
+2018-09-15,2018,gp-impanis-van-petegem,gc,Direct Energie,1.HC,,0,0,,0.0,,,10.0
+2018-02-27,2018,gp-samyn,gc,Direct Energie,1.1,,0,0,,0.0,,,153.0
+2018-03-31,2018,gran-premio-miguel-indurain,gc,Direct Energie,1.1,,0,0,,0.0,,,30.0
+2018-08-24,2018,great-war-remembrance-race,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2018-09-14,2018,kampioenschap-van-vlaanderen1,gc,Direct Energie,1.1,,0,0,,0.0,,,15.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Direct Energie,1.HC,,0,0,,0.0,,,5.0
+2018-02-25,2018,la-drome-classic,gc,Direct Energie,1.1,,,1,,0.0,,,168.0
+2018-08-05,2018,la-poly-normande,gc,Direct Energie,1.1,,,1,,0.0,,,0.0
+2018-04-01,2018,la-roue-tourangelle,gc,Direct Energie,1.1,,0,0,,0.0,,,40.0
+2018-06-14,2018,la-route-d-occitanie,gc,Direct Energie,2.1,,0,0,,0.0,,,0.0
+2018-01-15,2018,la-tropicale-amissa-bongo,gc,Direct Energie,2.1,,0,0,,106.0,,,116.0
+2018-04-22,2018,liege-bastogne-liege,gc,Direct Energie,1.UWT,,,1,,0.0,,,5.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-estonia,gc,Direct Energie,NC,,0,0,,0.0,,,40.0
+2018-07-01,2018,nc-france,gc,Direct Energie,NC,,,1,,0.0,,,10.0
+2018-06-28,2018,nc-france-itt,gc,Direct Energie,NC,,,1,,0.0,,,3.0
+2018-03-14,2018,nokere-koerse,gc,Direct Energie,1.HC,,0,0,,0.0,,,5.0
+2018-08-25,2018,omloop-mandel-leie-schelde-meulebeke,gc,Direct Energie,1.1,,0,0,,0.0,,,3.0
+2018-10-04,2018,paris-bourges,gc,Direct Energie,1.1,,,1,,0.0,,,0.0
+2018-04-10,2018,paris-camembert,gc,Direct Energie,1.1,,,1,,0.0,,,128.0
+2018-06-24,2018,paris-chauny-classique,gc,Direct Energie,1.1,,0,0,,0.0,,,48.0
+2018-03-04,2018,paris-nice,gc,Direct Energie,2.UWT,,0,0,,15.0,,,135.0
+2018-04-08,2018,paris-roubaix,gc,Direct Energie,1.UWT,,0,0,,0.0,,,10.0
+2018-10-07,2018,paris-tours,gc,Direct Energie,1.HC,,,1,,0.0,,,6.0
+2018-03-11,2018,paris-troyes,gc,Direct Energie,1.2,,,1,,0.0,,,40.0
+2018-04-03,2018,region-pays-de-la-loire,gc,Direct Energie,2.1,,0,0,,5.0,,,5.0
+2018-03-30,2018,route-adelie-de-vitre,gc,Direct Energie,1.1,,,1,,0.0,,,50.0
+2018-02-14,2018,ruta-del-sol,gc,Direct Energie,2.HC,,0,0,,3.0,,,23.0
+2018-10-13,2018,tacx-pro-classic,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2018-02-08,2018,tour-cycliste-international-la-provence,gc,Direct Energie,2.1,,0,0,,140.0,,,150.0
+2018-07-07,2018,tour-de-france,gc,Direct Energie,2.UWT,,0,0,,55.0,0.0,0.0,80.0
+2018-07-07,2018,tour-de-france,kom,Direct Energie,2.UWT,,0,0,,55.0,0.0,0.0,80.0
+2018-07-07,2018,tour-de-france,points,Direct Energie,2.UWT,,0,0,,55.0,0.0,0.0,80.0
+2018-05-18,2018,tour-de-l-ain,gc,Direct Energie,2.1,,0,0,,95.0,,,98.0
+2018-05-30,2018,tour-de-luxembourg,gc,Direct Energie,2.HC,,0,0,,78.0,,,108.0
+2018-06-10,2018,tour-de-suisse,gc,Direct Energie,2.UWT,87.0,0.0,1,,15.0,,,15.0
+2018-10-06,2018,tour-de-vendee,gc,Direct Energie,1.1,,0,0,,0.0,,,84.0
+2018-07-28,2018,tour-de-wallonie,gc,Direct Energie,2.HC,88.0,0.0,1,,8.0,,,33.0
+2018-05-03,2018,tour-de-yorkshire,gc,Direct Energie,2.1,,0,0,,23.0,,,23.0
+2018-02-17,2018,tour-des-alpes-maritimes,gc,Direct Energie,2.1,54.0,0.0,1,,140.0,,,168.0
+2018-06-21,2018,tour-des-pays-de-savoie,gc,Direct Energie,2.2,,0,0,,0.0,,,0.0
+2018-09-09,2018,tour-du-doubs,gc,Direct Energie,1.1,,0,0,,0.0,,,88.0
+2018-04-14,2018,tour-du-finistere,gc,Direct Energie,1.1,,,1,,0.0,,,225.0
+2018-09-23,2018,tour-du-gevaudan-languedoc-roussillon,gc,Direct Energie,1.2,,0,0,,0.0,,,33.0
+2018-08-15,2018,tour-du-limousin,gc,Direct Energie,2.1,48.0,0.0,1,,30.0,,,33.0
+2018-08-21,2018,tour-du-poitou-charentes-et-de-la-vienne,gc,Direct Energie,2.1,,0,0,,91.0,,,96.0
+2018-09-02,2018,tour-of-britain,gc,Direct Energie,2.HC,38.0,3.0,1,,16.0,,,16.0
+2018-04-15,2018,tro-bro-leon,gc,Direct Energie,1.1,,0,0,,0.0,,,85.0
+2018-05-11,2018,vuelta-a-aragon,gc,Direct Energie,2.1,,0,0,,70.0,,,70.0
+2018-08-07,2018,vuelta-a-burgos,gc,Direct Energie,2.HC,,0,0,,8.0,,,8.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Direct Energie,2.1,101.0,0.0,1,,0.0,,,0.0
+2018-02-10,2018,vuelta-ciclista-a-la-region-de-murcia,gc,Direct Energie,1.1,,,1,,0.0,,,3.0
+2019-05-14,2019,4-jours-de-dunkerque,gc,Team Total Direct Energie,2.HC,,0,0,,100.0,,,100.0
+2019-09-08,2019,antwerp-port-epic,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,35.0
+2019-08-15,2019,arctic-race-of-norway,gc,Team Total Direct Energie,2.HC,,0,0,,110.0,,,110.0
+2019-06-02,2019,boucles-de-l-aulne,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,10.0
+2019-06-06,2019,boucles-de-la-mayenne,gc,Team Total Direct Energie,2.1,,0,0,,0.0,,,3.0
+2019-04-17,2019,brabantse-pijl,gc,Team Total Direct Energie,1.HC,,0,0,,0.0,,,5.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Direct Energie,1.HC,,0,0,,0.0,,,40.0
+2019-09-01,2019,bretagne-classic,gc,Team Total Direct Energie,1.UWT,,,1,,0.0,,,32.0
+2019-09-07,2019,brussels-cycling-classic,gc,Team Total Direct Energie,1.HC,,0,0,,0.0,,,5.0
+2019-03-31,2019,cholet-pays-de-loire,gc,Direct Energie,1.1,,0,0,,0.0,,,73.0
+2019-10-20,2019,chrono-des-nations,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,23.0
+2019-06-17,2019,cic-mont-ventoux,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,70.0
+2019-05-30,2019,circuit-de-wallonie,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,245.0
+2019-04-12,2019,circuit-des-ardennes,gc,Team Total Direct Energie,2.2,13.0,0.0,1,,0.0,,,0.0
+2019-06-23,2019,circuit-des-xi-villes,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2019-10-05,2019,circuit-franco-belge,gc,Team Total Direct Energie,1.HC,,0,0,,0.0,,,5.0
+2019-02-17,2019,clasica-de-almeria,gc,Direct Energie,1.HC,,,1,,0.0,,,75.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Direct Energie,1.UWT,,0,0,,0.0,,,12.0
+2019-03-30,2019,classic-loire-atlantique,gc,Direct Energie,1.1,,,1,,0.0,,,50.0
+2019-09-14,2019,coppa-agostoni,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,0.0
+2019-09-15,2019,coppa-bernocchi,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,0.0
+2019-02-02,2019,deia-trophy,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2019-08-28,2019,druivenkoers-overijse,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,3.0
+2019-06-21,2019,dwars-door-het-hageland,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,85.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Direct Energie,1.UWT,,0,0,,0.0,,,294.0
+2019-03-29,2019,e3-harelbeke,gc,Direct Energie,1.UWT,,0,0,,0.0,,,36.0
+2019-05-01,2019,eschborn-frankfurt,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,5.0
+2019-02-07,2019,etoile-de-besseges,gc,Direct Energie,2.1,49.0,0.0,1,,28.0,,,28.0
+2019-10-06,2019,famenne-ardenne-classic,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,60.0
+2019-03-02,2019,faun-ardeche-classic,gc,Direct Energie,1.1,,,1,,0.0,,,128.0
+2019-03-31,2019,gent-wevelgem,gc,Direct Energie,1.UWT,,0,0,,0.0,,,245.0
+2019-07-25,2019,gp-cerami,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,50.0
+2019-09-22,2019,gp-d-isbergues,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,3.0
+2019-02-03,2019,gp-d-ouverture,gc,Direct Energie,1.1,,,1,,0.0,,,165.0
+2019-03-24,2019,gp-de-denain,gc,Direct Energie,1.HC,,0,0,,0.0,,,35.0
+2019-09-08,2019,gp-de-fourmies,gc,Team Total Direct Energie,1.HC,,,1,,0.0,,,5.0
+2019-05-12,2019,gp-de-la-somme,gc,Team Total Direct Energie,1.2,,0,0,,0.0,,,3.0
+2019-06-01,2019,gp-de-plumelec,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,8.0
+2019-09-18,2019,gp-de-wallonie,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,113.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,Team Total Direct Energie,1.HC,,,1,,0.0,,,75.0
+2019-09-21,2019,gp-impanis-van-petegem,gc,Team Total Direct Energie,1.HC,,0,0,,0.0,,,10.0
+2019-09-01,2019,gp-jef-scherens,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,125.0
+2019-03-05,2019,gp-samyn,gc,Direct Energie,1.1,,0,0,,0.0,,,73.0
+2019-08-20,2019,gp-stad-zottegem,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,Direct Energie,1.1,,0,0,,0.0,,,125.0
+2019-05-26,2019,grote-prijs-marcel-kint,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,15.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,63.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Direct Energie,1.HC,,0,0,,0.0,,,130.0
+2019-03-03,2019,la-drome-classic,gc,Direct Energie,1.1,,,1,,0.0,,,3.0
+2019-08-18,2019,la-poly-normande,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,120.0
+2019-04-07,2019,la-roue-tourangelle,gc,Direct Energie,1.1,,,1,,0.0,,,60.0
+2019-06-20,2019,la-route-d-occitanie,gc,Team Total Direct Energie,2.1,,0,0,,3.0,,,3.0
+2019-01-21,2019,la-tropicale-amissa-bongo,gc,Direct Energie,2.1,,0,0,,133.0,,,183.0
+2019-04-28,2019,liege-bastogne-liege,gc,Team Total Direct Energie,1.UWT,,,1,,0.0,,,0.0
+2019-10-08,2019,memorial-frank-vandenbroucke,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2019-09-21,2019,memorial-marco-pantani,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,0.0
+2019-10-13,2019,memorial-rik-van-steenbergen,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2019-03-23,2019,milano-sanremo,gc,Direct Energie,1.UWT,,,1,,0.0,,,23.0
+2019-10-03,2019,munsterland-giro,gc,Team Total Direct Energie,1.HC,,0,0,,0.0,,,35.0
+2019-06-30,2019,nc-estonia,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-estonia-itt,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-france,gc,Team Total Direct Energie,NC,,,1,,0.0,,,58.0
+2019-06-27,2019,nc-france-itt,gc,Team Total Direct Energie,NC,,,1,,0.0,,,1.0
+2019-06-30,2019,nc-italy,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-netherlands,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,1.0
+2019-06-26,2019,nc-netherlands-itt,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,10.0
+2019-03-20,2019,nokere-koerse,gc,Direct Energie,1.HC,,0,0,,0.0,,,25.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Direct Energie,1.UWT,,0,0,,0.0,,,25.0
+2019-08-31,2019,omloop-mandel-leie-schelde-meulebeke,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,125.0
+2019-09-25,2019,omloop-van-het-houtland-lichtervelde,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,33.0
+2019-10-10,2019,paris-bourges,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,40.0
+2019-04-16,2019,paris-camembert,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,45.0
+2019-09-29,2019,paris-chauny-classique,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,128.0
+2019-03-10,2019,paris-nice,gc,Direct Energie,2.UWT,,0,0,,40.0,,,40.0
+2019-04-14,2019,paris-roubaix,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,65.0
+2019-10-13,2019,paris-tours,gc,Team Total Direct Energie,1.HC,,0,0,,0.0,,,158.0
+2019-03-17,2019,paris-troyes,gc,Direct Energie,1.2,,,1,,0.0,,,3.0
+2019-04-09,2019,region-pays-de-la-loire,gc,Direct Energie,2.1,,0,0,,0.0,,,0.0
+2019-04-11,2019,region-pays-de-la-loire,gc,Team Total Direct Energie,2.1,,0,0,,6.0,,,6.0
+2019-08-12,2019,renewi-tour,gc,Team Total Direct Energie,2.UWT,,0,0,,0.0,,,0.0
+2019-08-04,2019,ride-london-classic,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,12.0
+2019-03-17,2019,ronde-van-drenthe,gc,Direct Energie,1.HC,,0,0,,0.0,,,208.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Direct Energie,1.UWT,,0,0,,0.0,,,50.0
+2019-04-05,2019,route-adelie-de-vitre,gc,Direct Energie,1.1,,,1,,0.0,,,30.0
+2019-08-25,2019,schaal-schels,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,65.0
+2019-04-10,2019,scheldeprijs,gc,Direct Energie,1.HC,,0,0,,0.0,,,8.0
+2019-10-12,2019,tacx-pro-classic,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,8.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Direct Energie,2.1,,0,0,,15.0,,,15.0
+2019-07-06,2019,tour-de-france,gc,Team Total Direct Energie,2.UWT,95.0,0.0,1,,0.0,0.0,0.0,30.0
+2019-07-06,2019,tour-de-france,kom,Team Total Direct Energie,2.UWT,,,1,,0.0,0.0,0.0,30.0
+2019-07-06,2019,tour-de-france,points,Team Total Direct Energie,2.UWT,44.0,0.0,1,,0.0,0.0,0.0,30.0
+2019-05-24,2019,tour-de-l-ain,gc,Team Total Direct Energie,2.1,,0,0,,70.0,,,70.0
+2019-06-05,2019,tour-de-luxembourg,gc,Team Total Direct Energie,2.HC,,0,0,,118.0,,,133.0
+2019-06-15,2019,tour-de-suisse,gc,Team Total Direct Energie,2.UWT,57.0,3.0,1,,33.0,,,33.0
+2019-10-06,2019,tour-de-vendee,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,38.0
+2019-07-27,2019,tour-de-wallonie,gc,Team Total Direct Energie,2.HC,,0,0,,3.0,,,3.0
+2019-05-02,2019,tour-de-yorkshire,gc,Team Total Direct Energie,2.HC,26.0,5.0,1,,10.0,,,10.0
+2019-02-22,2019,tour-des-alpes-maritimes,gc,Direct Energie,2.1,40.0,0.0,1,,15.0,,,15.0
+2019-09-15,2019,tour-du-doubs,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,35.0
+2019-04-20,2019,tour-du-finistere,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,35.0
+2019-08-21,2019,tour-du-limousin,gc,Team Total Direct Energie,2.1,49.0,0.0,1,,85.0,,,99.0
+2019-08-27,2019,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Total Direct Energie,2.1,,0,0,,95.0,,,98.0
+2019-06-12,2019,tour-of-belgium,gc,Team Total Direct Energie,2.HC,,0,0,,5.0,,,5.0
+2019-10-17,2019,tour-of-guangxi,gc,Team Total Direct Energie,2.UWT,58.0,1.0,1,,51.0,,,51.0
+2019-02-16,2019,tour-of-oman,gc,Direct Energie,2.HC,,0,0,,3.0,,,13.0
+2019-02-24,2019,tour-of-rwanda,gc,Direct Energie,2.1,,0,0,,85.0,,,90.0
+2019-04-22,2019,tro-bro-leon,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,55.0
+2019-09-22,2019,trofeo-matteotti,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,3.0
+2019-02-03,2019,trofeo-palma,gc,Direct Energie,1.1,,0,0,,0.0,,,8.0
+2019-02-01,2019,trofeo-pollenca-port-d-andratx,gc,Direct Energie,1.1,,0,0,,0.0,,,0.0
+2019-01-31,2019,trofeo-ses-salines-felanitx,gc,Direct Energie,1.1,,0,0,,0.0,,,5.0
+2019-05-17,2019,vuelta-a-aragon,gc,Team Total Direct Energie,2.1,27.0,0.0,1,,70.0,,,89.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Team Total Direct Energie,2.1,,0,0,,70.0,,,73.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Direct Energie,2.1,,0,0,,0.0,,,0.0
+2019-02-15,2019,vuelta-ciclista-a-la-region-de-murcia,gc,Direct Energie,2.1,64.0,0.0,1,,0.0,,,0.0
+2019-05-10,2019,vuelta-international-a-la-cominudad-de-madrid,gc,Team Total Direct Energie,2.1,,0,0,,3.0,,,22.0
+2020-02-04,2020,alula-tour,gc,Team Total Direct Energie,2.1,,0,0,,25.0,,,44.0
+2020-09-13,2020,antwerp-port-epic,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2020-10-07,2020,brabantse-pijl,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,50.0
+2020-08-25,2020,bretagne-classic,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,16.0
+2020-08-30,2020,brussels-cycling-classic,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,10.0
+2020-08-06,2020,cic-mont-ventoux,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,0.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,17.0
+2020-08-29,2020,druivenkoers-overijse,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,6.0
+2020-08-15,2020,dwars-door-het-hageland,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,25.0
+2020-02-05,2020,etoile-de-besseges,gc,Team Total Direct Energie,2.1,,,1,,53.0,,,53.0
+2020-02-29,2020,faun-ardeche-classic,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,33.0
+2020-10-11,2020,gent-wevelgem,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,20.0
+2020-09-20,2020,gp-d-isbergues,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,88.0
+2020-02-02,2020,gp-d-ouverture,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,33.0
+2020-03-03,2020,gp-samyn,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,23.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,63.0
+2020-03-01,2020,la-drome-classic,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,100.0
+2020-09-30,2020,la-fleche-wallonne,gc,Team Total Direct Energie,1.UWT,,,1,,0.0,,,32.0
+2020-08-01,2020,la-route-d-occitanie,gc,Team Total Direct Energie,2.1,,0,0,,0.0,,,3.0
+2020-01-20,2020,la-tropicale-amissa-bongo,gc,Team Total Direct Energie,2.1,,0,0,,70.0,,,89.0
+2020-10-04,2020,liege-bastogne-liege,gc,Team Total Direct Energie,1.UWT,,,1,,0.0,,,35.0
+2020-08-08,2020,milano-sanremo,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,43.0
+2020-09-22,2020,nc-belgium,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-france,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,40.0
+2020-08-21,2020,nc-france-itt,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-italy,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-netherlands,gc,Team Total Direct Energie,NC,,0,0,,0.0,,,1.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,29.0
+2020-09-22,2020,paris-camembert,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,3.0
+2020-09-27,2020,paris-chauny-classique,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,5.0
+2020-03-08,2020,paris-nice,gc,Team Total Direct Energie,2.UWT,,0,0,,6.0,,,66.0
+2020-10-11,2020,paris-tours,gc,Team Total Direct Energie,1.Pro,,,1,,0.0,,,25.0
+2020-09-29,2020,renewi-tour,gc,Team Total Direct Energie,2.UWT,,0,0,,24.0,,,24.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,285.0
+2020-02-19,2020,ruta-del-sol,gc,Team Total Direct Energie,2.Pro,,0,0,,6.0,,,6.0
+2020-10-14,2020,scheldeprijs,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,185.0
+2020-09-07,2020,tirreno-adriatico,gc,Team Total Direct Energie,2.UWT,,0,0,,0.0,,,0.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Team Total Direct Energie,2.UWT,,0,0,,10.0,,,10.0
+2020-02-13,2020,tour-cycliste-international-la-provence,gc,Team Total Direct Energie,2.Pro,,0,0,,3.0,,,3.0
+2020-08-29,2020,tour-de-france,gc,Team Total Direct Energie,2.UWT,,0,0,,25.0,0.0,0.0,25.0
+2020-08-29,2020,tour-de-france,kom,Team Total Direct Energie,2.UWT,,0,0,,25.0,0.0,0.0,25.0
+2020-08-29,2020,tour-de-france,points,Team Total Direct Energie,2.UWT,,0,0,,25.0,0.0,0.0,25.0
+2020-08-07,2020,tour-de-l-ain,gc,Team Total Direct Energie,2.1,31.0,0.0,1,,0.0,,,0.0
+2020-08-16,2020,tour-de-wallonie,gc,Team Total Direct Energie,2.Pro,,0,0,,5.0,,,5.0
+2020-02-21,2020,tour-des-alpes-maritimes,gc,Team Total Direct Energie,2.1,,0,0,,15.0,,,23.0
+2020-09-06,2020,tour-du-doubs,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2020-08-18,2020,tour-du-limousin,gc,Team Total Direct Energie,2.1,,,1,,0.0,,,0.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Total Direct Energie,2.1,,0,0,,0.0,,,0.0
+2020-02-23,2020,tour-of-rwanda,gc,Team Total Direct Energie,2.1,29.0,0.0,1,,0.0,,,5.0
+2020-10-20,2020,vuelta-a-espana,gc,Team Total Direct Energie,2.UWT,78.0,0.0,1,,16.0,0.0,0.0,20.0
+2020-10-20,2020,vuelta-a-espana,kom,Team Total Direct Energie,2.UWT,,,1,,16.0,0.0,0.0,20.0
+2020-10-20,2020,vuelta-a-espana,points,Team Total Direct Energie,2.UWT,,,1,,16.0,0.0,0.0,20.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Team Total Direct Energie,2.Pro,,0,0,,10.0,,,10.0
+2021-08-05,2021,arctic-race-of-norway,gc,TotalEnergies,2.Pro,,0,0,,23.0,,,33.0
+2021-10-17,2021,boucles-de-l-aulne,gc,TotalEnergies,1.1,,,1,,0.0,,,106.0
+2021-05-27,2021,boucles-de-la-mayenne,gc,Team Total Direct Energie,2.Pro,,0,0,,60.0,,,70.0
+2021-04-14,2021,brabantse-pijl,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,3.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Team Total Direct Energie,1.Pro,,,1,,0.0,,,0.0
+2021-08-29,2021,bretagne-classic,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,56.0
+2021-08-28,2021,brussels-cycling-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,5.0
+2021-03-28,2021,cholet-pays-de-loire,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,8.0
+2021-10-17,2021,chrono-des-nations,gc,TotalEnergies,1.1,,0,0,,0.0,,,36.0
+2021-06-08,2021,cic-mont-ventoux,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,53.0
+2021-06-06,2021,circuit-des-xi-villes,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2021-09-29,2021,circuit-franco-belge,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,6.0
+2021-08-01,2021,circuito-de-getxo,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2021-02-14,2021,clasica-de-almeria,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,20.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,40.0
+2021-09-03,2021,classic-grand-besancon-doubs,gc,TotalEnergies,1.1,,0,0,,0.0,,,5.0
+2021-10-02,2021,classic-loire-atlantique,gc,TotalEnergies,1.1,,0,0,,0.0,,,35.0
+2021-10-04,2021,coppa-bernocchi,gc,TotalEnergies,1.Pro,,,1,,0.0,,,40.0
+2021-08-26,2021,druivenkoers-overijse,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2021-06-05,2021,dwars-door-het-hageland,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,53.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,83.0
+2021-03-26,2021,e3-harelbeke,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,64.0
+2021-02-03,2021,etoile-de-besseges,gc,Team Total Direct Energie,2.1,,0,0,,3.0,,,3.0
+2021-02-27,2021,faun-ardeche-classic,gc,Team Total Direct Energie,1.Pro,,,1,,0.0,,,3.0
+2021-03-28,2021,gent-wevelgem,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,136.0
+2021-10-02,2021,giro-dell-emilia,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,5.0
+2021-09-15,2021,giro-di-toscana,gc,TotalEnergies,1.1,,0,0,,0.0,,,5.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,133.0
+2021-09-19,2021,gp-d-isbergues,gc,TotalEnergies,1.1,,,1,,0.0,,,6.0
+2021-01-31,2021,gp-d-ouverture,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,16.0
+2021-09-21,2021,gp-de-denain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,5.0
+2021-09-12,2021,gp-de-fourmies,gc,TotalEnergies,1.Pro,,,1,,0.0,,,5.0
+2021-10-16,2021,gp-de-plumelec,gc,TotalEnergies,1.Pro,,,1,,0.0,,,30.0
+2021-01-24,2021,gp-de-valence,gc,Team Total Direct Energie,1.2,,0,0,,0.0,,,40.0
+2021-09-15,2021,gp-de-wallonie,gc,TotalEnergies,1.Pro,,,1,,0.0,,,15.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,23.0
+2021-08-15,2021,gp-jef-scherens,gc,TotalEnergies,1.1,,0,0,,0.0,,,125.0
+2021-03-02,2021,gp-samyn,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,3.0
+2021-08-17,2021,gp-stad-zottegem,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,33.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,0.0
+2021-08-20,2021,grote-prijs-marcel-kint,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2021-04-05,2021,itzulia-basque-country,gc,Team Total Direct Energie,2.UWT,,0,0,,28.0,,,28.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,TotalEnergies,1.1,,,1,,0.0,,,50.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,150.0
+2021-02-28,2021,la-drome-classic,gc,Team Total Direct Energie,1.Pro,,,1,,0.0,,,103.0
+2021-08-15,2021,la-poly-normande,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2021-04-04,2021,la-roue-tourangelle,gc,Team Total Direct Energie,1.1,,,1,,0.0,,,20.0
+2021-06-10,2021,la-route-d-occitanie,gc,Team Total Direct Energie,2.1,,0,0,,60.0,,,60.0
+2021-04-25,2021,liege-bastogne-liege,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,10.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2021-09-18,2021,memorial-marco-pantani,gc,TotalEnergies,1.1,,0,0,,0.0,,,43.0
+2021-05-24,2021,mercan-tour-classic-alpes-maritimes,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,41.0
+2021-03-20,2021,milano-sanremo,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,105.0
+2021-06-20,2021,nc-belgium,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-france,gc,TotalEnergies,NC,,0,0,,0.0,,,41.0
+2021-06-17,2021,nc-france-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,18.0
+2021-06-20,2021,nc-italy,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-netherlands,gc,TotalEnergies,NC,,0,0,,0.0,,,1.0
+2021-06-20,2021,nc-norway,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-norway-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2021-10-17,2021,ncgreat-britain,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,150.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,20.0
+2021-10-07,2021,paris-bourges,gc,TotalEnergies,1.1,,,1,,0.0,,,73.0
+2021-06-15,2021,paris-camembert,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,56.0
+2021-09-26,2021,paris-chauny-classique,gc,TotalEnergies,1.1,,,1,,0.0,,,6.0
+2021-03-07,2021,paris-nice,gc,Team Total Direct Energie,2.UWT,,0,0,,30.0,,,30.0
+2021-10-03,2021,paris-roubaix,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,80.0
+2021-10-10,2021,paris-tours,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,8.0
+2021-03-14,2021,paris-troyes,gc,Team Total Direct Energie,1.2,,,1,,0.0,,,3.0
+2021-07-25,2021,prueba-villafranca,gc,TotalEnergies,1.1,,0,0,,0.0,,,28.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Team Total Direct Energie,1.UWT,,0,0,,0.0,,,135.0
+2021-10-01,2021,route-adelie-de-vitre,gc,TotalEnergies,1.1,,,1,,0.0,,,5.0
+2021-07-31,2021,san-sebastian,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,0.0
+2021-04-07,2021,scheldeprijs,gc,Team Total Direct Energie,1.Pro,,0,0,,0.0,,,38.0
+2021-03-10,2021,tirreno-adriatico,gc,Team Total Direct Energie,2.UWT,,0,0,,55.0,,,55.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Team Total Direct Energie,2.Pro,,0,0,,5.0,,,5.0
+2021-06-26,2021,tour-de-france,gc,TotalEnergies,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,kom,TotalEnergies,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,points,TotalEnergies,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-07-29,2021,tour-de-l-ain,gc,TotalEnergies,2.1,,0,0,,10.0,,,10.0
+2021-09-14,2021,tour-de-luxembourg,gc,TotalEnergies,2.Pro,,0,0,,88.0,,,93.0
+2021-06-06,2021,tour-de-suisse,gc,Team Total Direct Energie,2.UWT,,0,0,,90.0,,,90.0
+2021-10-09,2021,tour-de-vendee,gc,TotalEnergies,1.1,,0,0,,0.0,,,51.0
+2021-07-20,2021,tour-de-wallonie,gc,TotalEnergies,2.Pro,,0,0,,0.0,,,0.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Team Total Direct Energie,2.1,,0,0,,3.0,,,3.0
+2021-09-05,2021,tour-du-doubs,gc,TotalEnergies,1.1,,0,0,,0.0,,,35.0
+2021-05-22,2021,tour-du-finistere,gc,Team Total Direct Energie,1.1,,0,0,,0.0,,,111.0
+2021-09-04,2021,tour-du-jura-cycliste,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2021-08-17,2021,tour-du-limousin,gc,TotalEnergies,2.1,,0,0,,3.0,,,3.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,TotalEnergies,2.1,,0,0,,53.0,,,53.0
+2021-06-09,2021,tour-of-belgium,gc,Team Total Direct Energie,2.Pro,,0,0,,10.0,,,10.0
+2021-05-02,2021,tour-of-rwanda,gc,Team Total Direct Energie,2.1,,0,0,,166.0,,,204.0
+2021-10-05,2021,tre-valli-varesine,gc,TotalEnergies,1.Pro,,,1,,0.0,,,5.0
+2021-05-16,2021,tro-bro-leon,gc,Team Total Direct Energie,1.Pro,,,1,,0.0,,,13.0
+2021-09-19,2021,trofeo-matteotti,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2021-08-03,2021,vuelta-a-burgos,gc,TotalEnergies,2.Pro,,0,0,,5.0,,,5.0
+2021-04-30,2021,vuelta-asturias,gc,Team Total Direct Energie,2.1,55.0,0.0,1,,130.0,,,150.0
+2022-05-03,2022,4-jours-de-dunkerque,gc,TotalEnergies,2.Pro,,0,0,,110.0,,,120.0
+2022-02-01,2022,alula-tour,gc,TotalEnergies,2.1,,0,0,,70.0,,,70.0
+2022-04-10,2022,amstel-gold-race,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,8.0
+2022-08-11,2022,arctic-race-of-norway,gc,TotalEnergies,2.Pro,,0,0,,35.0,,,45.0
+2022-05-22,2022,boucles-de-l-aulne,gc,TotalEnergies,1.1,,,1,,0.0,,,101.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,TotalEnergies,2.Pro,,0,0,,153.0,,,153.0
+2022-03-18,2022,bredene-koksijde-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,20.0
+2022-08-28,2022,bretagne-classic,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,72.0
+2022-03-20,2022,cholet-pays-de-loire,gc,TotalEnergies,1.1,,,1,,0.0,,,53.0
+2022-10-16,2022,chrono-des-nations,gc,TotalEnergies,1.1,,0,0,,0.0,,,40.0
+2022-06-14,2022,cic-mont-ventoux,gc,TotalEnergies,1.1,,0,0,,0.0,,,40.0
+2022-05-26,2022,circuit-de-wallonie,gc,TotalEnergies,1.1,,0,0,,0.0,,,80.0
+2022-08-10,2022,circuit-franco-belge,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,210.0
+2022-07-31,2022,circuito-de-getxo,gc,TotalEnergies,1.1,,0,0,,0.0,,,78.0
+2022-02-13,2022,clasica-de-almeria,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,30.0
+2022-03-23,2022,classic-brugge-de-panne,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,30.0
+2022-04-15,2022,classic-grand-besancon-doubs,gc,TotalEnergies,1.1,,,1,,0.0,,,73.0
+2022-03-19,2022,classic-loire-atlantique,gc,TotalEnergies,1.1,,,1,,0.0,,,75.0
+2022-09-29,2022,coppa-agostoni,gc,TotalEnergies,1.1,,,1,,0.0,,,6.0
+2022-10-03,2022,coppa-bernocchi,gc,TotalEnergies,1.Pro,,,1,,0.0,,,26.0
+2022-08-21,2022,cyclassics-hamburg,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,68.0
+2022-08-24,2022,druivenkoers-overijse,gc,TotalEnergies,1.1,,,1,,0.0,,,128.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,14.0
+2022-03-25,2022,e3-harelbeke,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,50.0
+2022-05-01,2022,eschborn-frankfurt,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,97.0
+2022-02-02,2022,etoile-de-besseges,gc,TotalEnergies,2.1,,0,0,,116.0,,,119.0
+2022-10-02,2022,famenne-ardenne-classic,gc,TotalEnergies,1.1,,0,0,,0.0,,,18.0
+2022-02-26,2022,faun-ardeche-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,63.0
+2022-03-27,2022,gent-wevelgem,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,345.0
+2022-10-12,2022,giro-del-veneto,gc,TotalEnergies,1.1,,0,0,,0.0,,,73.0
+2022-10-01,2022,giro-dell-emilia,gc,TotalEnergies,1.Pro,,,1,,0.0,,,10.0
+2022-09-14,2022,giro-di-toscana,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,25.0
+2022-09-18,2022,gp-d-isbergues,gc,TotalEnergies,1.1,,,1,,0.0,,,65.0
+2022-01-30,2022,gp-d-ouverture,gc,TotalEnergies,1.1,,0,0,,0.0,,,60.0
+2022-03-17,2022,gp-de-denain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,70.0
+2022-09-11,2022,gp-de-fourmies,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,68.0
+2022-05-14,2022,gp-de-plumelec,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,240.0
+2022-01-23,2022,gp-de-valence,gc,TotalEnergies,1.2,,,1,,0.0,,,25.0
+2022-09-14,2022,gp-de-wallonie,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,16.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,TotalEnergies,1.1,,,1,,0.0,,,35.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,80.0
+2022-08-07,2022,gp-jef-scherens,gc,TotalEnergies,1.1,,0,0,,0.0,,,40.0
+2022-09-11,2022,gp-montreal,gc,TotalEnergies,1.UWT,,,1,,0.0,,,40.0
+2022-09-09,2022,gp-quebec,gc,TotalEnergies,1.UWT,,,1,,0.0,,,43.0
+2022-03-01,2022,gp-samyn,gc,TotalEnergies,1.1,,0,0,,0.0,,,35.0
+2022-08-23,2022,gp-stad-zottegem,gc,TotalEnergies,1.1,,0,0,,0.0,,,60.0
+2022-10-06,2022,gran-piemonte,gc,TotalEnergies,1.Pro,,,1,,0.0,,,155.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,170.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,TotalEnergies,1.1,,0,0,,0.0,,,15.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2022-10-08,2022,il-lombardia,gc,TotalEnergies,1.UWT,,,1,,0.0,,,43.0
+2022-04-04,2022,itzulia-basque-country,gc,TotalEnergies,2.UWT,,0,0,,36.0,,,56.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,73.0
+2022-02-27,2022,la-drome-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,110.0
+2022-04-20,2022,la-fleche-wallonne,gc,TotalEnergies,1.UWT,,,1,,0.0,,,84.0
+2022-08-14,2022,la-poly-normande,gc,TotalEnergies,1.1,,,1,,0.0,,,115.0
+2022-03-27,2022,la-roue-tourangelle,gc,TotalEnergies,1.1,,,1,,0.0,,,100.0
+2022-06-16,2022,la-route-d-occitanie,gc,TotalEnergies,2.1,,0,0,,33.0,,,50.0
+2022-04-24,2022,liege-bastogne-liege,gc,TotalEnergies,1.UWT,,,1,,0.0,,,55.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2022-05-31,2022,mercan-tour-classic-alpes-maritimes,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2022-03-19,2022,milano-sanremo,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,420.0
+2022-03-16,2022,milano-torino,gc,TotalEnergies,1.Pro,,,1,,0.0,,,90.0
+2022-06-26,2022,nc-belgium,gc,TotalEnergies,NC,,0,0,,0.0,,,10.0
+2022-06-26,2022,nc-france,gc,TotalEnergies,NC,,,1,,0.0,,,85.0
+2022-06-23,2022,nc-france-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,15.0
+2022-06-26,2022,nc-italy,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-italy-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,3.0
+2022-06-24,2022,nc-netherlands,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,TotalEnergies,NC,,0,0,,0.0,,,60.0
+2022-06-26,2022,nc-poland,gc,TotalEnergies,NC,,0,0,,0.0,,,20.0
+2022-06-22,2022,nc-poland-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,50.0
+2022-06-26,2022,nc-slovakia,gc,TotalEnergies,NC,,0,0,,0.0,,,100.0
+2022-06-26,2022,ncgreat-britain,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,14.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,TotalEnergies,1.1,,0,0,,0.0,,,80.0
+2022-10-06,2022,paris-bourges,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2022-04-12,2022,paris-camembert,gc,TotalEnergies,1.1,,,1,,0.0,,,130.0
+2022-09-25,2022,paris-chauny-classique,gc,TotalEnergies,1.1,,,1,,0.0,,,25.0
+2022-03-06,2022,paris-nice,gc,TotalEnergies,2.UWT,,0,0,,70.0,,,130.0
+2022-04-17,2022,paris-roubaix,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,40.0
+2022-10-09,2022,paris-tours,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,130.0
+2022-07-25,2022,prueba-villafranca,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2022-04-05,2022,region-pays-de-la-loire,gc,TotalEnergies,2.1,16.0,3.0,1,,6.0,,,9.0
+2022-03-13,2022,ronde-van-drenthe,gc,TotalEnergies,1.1,,0,0,,0.0,,,125.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,23.0
+2022-04-01,2022,route-adelie-de-vitre,gc,TotalEnergies,1.1,,,1,,0.0,,,73.0
+2022-02-16,2022,ruta-del-sol,gc,TotalEnergies,2.Pro,,0,0,,150.0,,,150.0
+2022-07-30,2022,san-sebastian,gc,TotalEnergies,1.UWT,,,1,,0.0,,,16.0
+2022-08-21,2022,schaal-schels,gc,TotalEnergies,1.1,,0,0,,0.0,,,120.0
+2022-04-06,2022,scheldeprijs,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,0.0
+2022-03-07,2022,tirreno-adriatico,gc,TotalEnergies,2.UWT,,0,0,,38.0,,,38.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,TotalEnergies,2.UWT,,0,0,,10.0,,,130.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,TotalEnergies,2.Pro,44.0,0.0,1,,93.0,,,93.0
+2022-07-01,2022,tour-de-france,gc,TotalEnergies,2.UWT,,0,0,,20.0,0.0,0.0,85.0
+2022-07-01,2022,tour-de-france,kom,TotalEnergies,2.UWT,,0,0,,20.0,0.0,0.0,85.0
+2022-07-01,2022,tour-de-france,points,TotalEnergies,2.UWT,,0,0,,20.0,0.0,0.0,85.0
+2022-08-09,2022,tour-de-l-ain,gc,TotalEnergies,2.1,19.0,3.0,1,,3.0,,,3.0
+2022-06-12,2022,tour-de-suisse,gc,TotalEnergies,2.UWT,46.0,10.0,1,,40.0,,,100.0
+2022-10-02,2022,tour-de-vendee,gc,TotalEnergies,1.1,,0,0,,0.0,,,58.0
+2022-07-23,2022,tour-de-wallonie,gc,TotalEnergies,2.Pro,,0,0,,0.0,,,0.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,TotalEnergies,2.1,,0,0,,38.0,,,43.0
+2022-09-04,2022,tour-du-doubs,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2022-05-21,2022,tour-du-finistere,gc,TotalEnergies,1.1,,,1,,0.0,,,195.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,TotalEnergies,1.1,,,1,,0.0,,,82.0
+2022-08-16,2022,tour-du-limousin,gc,TotalEnergies,2.1,18.0,3.0,1,,8.0,,,22.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,TotalEnergies,2.1,,0,0,,95.0,,,115.0
+2022-10-04,2022,tre-valli-varesine,gc,TotalEnergies,1.Pro,,,1,,0.0,,,100.0
+2022-05-15,2022,tro-bro-leon,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,8.0
+2022-10-16,2022,veneto-classic,gc,TotalEnergies,1.1,,,1,,0.0,,,5.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,TotalEnergies,2.1,40.0,0.0,1,,38.0,,,38.0
+2022-04-29,2022,vuelta-asturias,gc,TotalEnergies,2.1,25.0,3.0,1,,41.0,,,44.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,TotalEnergies,2.Pro,31.0,3.0,1,,53.0,,,58.0
+2023-04-16,2023,amstel-gold-race,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,100.0
+2023-05-21,2023,antwerp-port-epic,gc,TotalEnergies,1.1,,0,0,,0.0,,,95.0
+2023-05-14,2023,boucles-de-l-aulne,gc,TotalEnergies,1.1,,0,0,,0.0,,,20.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,TotalEnergies,2.Pro,,0,0,,85.0,,,88.0
+2023-03-17,2023,bredene-koksijde-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,8.0
+2023-09-03,2023,bretagne-classic,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,422.0
+2023-06-04,2023,brussels-cycling-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,98.0
+2023-03-19,2023,cholet-pays-de-loire,gc,TotalEnergies,1.1,,0,0,,0.0,,,81.0
+2023-10-15,2023,chrono-des-nations,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2023-06-13,2023,cic-mont-ventoux,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,8.0
+2023-05-18,2023,circuit-de-wallonie,gc,TotalEnergies,1.1,,0,0,,0.0,,,65.0
+2023-09-28,2023,circuit-franco-belge,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,45.0
+2023-07-30,2023,circuito-de-getxo,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2023-02-12,2023,clasica-de-almeria,gc,TotalEnergies,1.Pro,,,1,,0.0,,,63.0
+2023-03-22,2023,classic-brugge-de-panne,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,10.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2023-03-18,2023,classic-loire-atlantique,gc,TotalEnergies,1.1,,0,0,,0.0,,,10.0
+2023-09-28,2023,coppa-agostoni,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,TotalEnergies,1.Pro,,,1,,0.0,,,5.0
+2023-08-20,2023,cyclassics-hamburg,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,56.0
+2023-08-23,2023,deutschland-tour,gc,TotalEnergies,2.Pro,,0,0,,13.0,,,18.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,20.0
+2023-03-24,2023,e3-harelbeke,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,14.0
+2023-05-01,2023,eschborn-frankfurt,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,34.0
+2023-02-01,2023,etoile-de-besseges,gc,TotalEnergies,2.1,,0,0,,76.0,,,84.0
+2023-10-01,2023,famenne-ardenne-classic,gc,TotalEnergies,1.1,,0,0,,0.0,,,35.0
+2023-02-25,2023,faun-ardeche-classic,gc,TotalEnergies,1.Pro,,,1,,0.0,,,35.0
+2023-03-26,2023,gent-wevelgem,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,20.0
+2023-09-13,2023,giro-di-toscana,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,40.0
+2023-09-17,2023,gp-d-isbergues,gc,TotalEnergies,1.1,,0,0,,0.0,,,60.0
+2023-01-29,2023,gp-d-ouverture,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2023-03-16,2023,gp-de-denain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,100.0
+2023-09-10,2023,gp-de-fourmies,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,40.0
+2023-05-06,2023,gp-de-plumelec,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,85.0
+2023-01-22,2023,gp-de-valence,gc,TotalEnergies,1.1,,0,0,,0.0,,,73.0
+2023-09-13,2023,gp-de-wallonie,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,56.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,TotalEnergies,1.1,,,1,,0.0,,,0.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,205.0
+2023-08-15,2023,gp-jef-scherens,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,13.0
+2023-06-03,2023,heist-op-den-berg,gc,TotalEnergies,1.1,,0,0,,0.0,,,9.0
+2023-10-07,2023,il-lombardia,gc,TotalEnergies,1.UWT,,,1,,0.0,,,45.0
+2023-04-03,2023,itzulia-basque-country,gc,TotalEnergies,2.UWT,,0,0,,30.0,,,5.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,8.0
+2023-02-26,2023,la-drome-classic,gc,TotalEnergies,1.Pro,,,1,,0.0,,,5.0
+2023-04-19,2023,la-fleche-wallonne,gc,TotalEnergies,1.UWT,,,1,,0.0,,,20.0
+2023-08-13,2023,la-poly-normande,gc,TotalEnergies,1.1,,0,0,,0.0,,,93.0
+2023-03-26,2023,la-roue-tourangelle,gc,TotalEnergies,1.1,,,1,,0.0,,,5.0
+2023-06-15,2023,la-route-d-occitanie,gc,TotalEnergies,2.1,,0,0,,0.0,,,19.0
+2023-01-23,2023,la-tropicale-amissa-bongo,gc,TotalEnergies,2.1,6.0,40.0,1,,190.0,,,253.0
+2023-04-23,2023,liege-bastogne-liege,gc,TotalEnergies,1.UWT,,,1,,0.0,,,40.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2023-09-16,2023,memorial-marco-pantani,gc,TotalEnergies,1.1,,0,0,,0.0,,,10.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,TotalEnergies,1.1,,,1,,0.0,,,0.0
+2023-03-18,2023,milano-sanremo,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,190.0
+2023-06-25,2023,nc-belgium,gc,TotalEnergies,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-france,gc,TotalEnergies,NC,,,1,,0.0,,,2.0
+2023-06-22,2023,nc-france-itt,gc,TotalEnergies,NC,,,1,,0.0,,,30.0
+2023-06-24,2023,nc-italy,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-norway,gc,TotalEnergies,NC,,0,0,,0.0,,,1.0
+2023-06-22,2023,nc-poland-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-slovakia,gc,TotalEnergies,NC,,0,0,,0.0,,,75.0
+2023-06-25,2023,nc-spain,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-spain-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,3.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,5.0
+2023-10-05,2023,paris-bourges,gc,TotalEnergies,1.1,,0,0,,0.0,,,25.0
+2023-04-11,2023,paris-camembert,gc,TotalEnergies,1.1,,,1,,0.0,,,131.0
+2023-09-24,2023,paris-chauny-classique,gc,TotalEnergies,1.1,,0,0,,0.0,,,100.0
+2023-03-05,2023,paris-nice,gc,TotalEnergies,2.UWT,69.0,0.0,1,,50.0,,,52.0
+2023-04-09,2023,paris-roubaix,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,50.0
+2023-10-08,2023,paris-tours,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,20.0
+2023-07-25,2023,prueba-villafranca,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2023-04-04,2023,region-pays-de-la-loire,gc,TotalEnergies,2.1,,0,0,,75.0,,,75.0
+2023-03-12,2023,ronde-van-drenthe,gc,TotalEnergies,1.1,,0,0,,0.0,,,15.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,TotalEnergies,1.UWT,,,1,,0.0,,,80.0
+2023-03-31,2023,route-adelie-de-vitre,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2023-02-15,2023,ruta-del-sol,gc,TotalEnergies,2.Pro,,,1,,3.0,,,18.0
+2023-07-29,2023,san-sebastian,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,2.0
+2023-03-04,2023,strade-bianche,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,8.0
+2023-03-06,2023,tirreno-adriatico,gc,TotalEnergies,2.UWT,,0,0,,0.0,,,0.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,TotalEnergies,2.UWT,,0,0,,20.0,,,60.0
+2023-07-01,2023,tour-de-france,gc,TotalEnergies,2.UWT,,0,0,,35.0,0.0,0.0,595.0
+2023-07-01,2023,tour-de-france,kom,TotalEnergies,2.UWT,,0,0,,35.0,0.0,0.0,595.0
+2023-07-01,2023,tour-de-france,points,TotalEnergies,2.UWT,,0,0,,35.0,0.0,0.0,595.0
+2023-07-31,2023,tour-de-l-ain,gc,TotalEnergies,2.1,38.0,0.0,1,,0.0,,,0.0
+2023-06-11,2023,tour-de-suisse,gc,TotalEnergies,2.UWT,52.0,5.0,1,,5.0,,,50.0
+2023-10-01,2023,tour-de-vendee,gc,TotalEnergies,1.1,,0,0,,0.0,,,113.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,TotalEnergies,2.1,,0,0,,3.0,,,3.0
+2023-04-16,2023,tour-du-doubs,gc,TotalEnergies,1.1,,,1,,0.0,,,38.0
+2023-05-13,2023,tour-du-finistere,gc,TotalEnergies,1.1,,,1,,0.0,,,85.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2023-08-15,2023,tour-du-limousin,gc,TotalEnergies,2.1,41.0,0.0,1,,13.0,,,13.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,TotalEnergies,2.1,,0,0,,55.0,,,55.0
+2023-02-19,2023,tour-of-rwanda,gc,TotalEnergies,2.1,,0,0,,63.0,,,88.0
+2023-10-03,2023,tre-valli-varesine,gc,TotalEnergies,1.Pro,,,1,,0.0,,,5.0
+2023-05-07,2023,tro-bro-leon,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,33.0
+2023-09-17,2023,trofeo-matteotti,gc,TotalEnergies,1.1,,0,0,,0.0,,,43.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,TotalEnergies,2.1,,0,0,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,TotalEnergies,2.UWT,26.0,30.0,1,,210.0,0.0,0.0,812.0
+2023-08-27,2023,vuelta-a-espana,kom,TotalEnergies,2.UWT,57.0,0.0,1,,210.0,0.0,0.0,812.0
+2023-08-27,2023,vuelta-a-espana,points,TotalEnergies,2.UWT,45.0,0.0,1,,210.0,0.0,0.0,812.0
+2023-04-28,2023,vuelta-asturias,gc,TotalEnergies,2.1,,0,0,,50.0,,,53.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,TotalEnergies,2.Pro,,0,0,,20.0,,,35.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,TotalEnergies,1.1,,,1,,0.0,,,0.0
+2024-05-14,2024,4-jours-de-dunkerque,gc,TotalEnergies,2.Pro,,0,0,,71.0,,,71.0
+2024-01-30,2024,alula-tour,gc,TotalEnergies,2.1,57.0,0.0,1,,0.0,,,0.0
+2024-05-19,2024,antwerp-port-epic,gc,TotalEnergies,1.1,,0,0,,0.0,,,125.0
+2024-08-04,2024,arctic-race-of-norway,gc,TotalEnergies,2.Pro,,0,0,,30.0,,,40.0
+2024-05-12,2024,boucles-de-l-aulne,gc,TotalEnergies,1.1,,,1,,0.0,,,66.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,TotalEnergies,2.Pro,39.0,3.0,1,,88.0,,,111.0
+2024-04-10,2024,brabantse-pijl,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,25.0
+2024-03-15,2024,bredene-koksijde-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,60.0
+2024-08-25,2024,bretagne-classic,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,44.0
+2024-06-02,2024,brussels-cycling-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,3.0
+2024-03-17,2024,cholet-pays-de-loire,gc,TotalEnergies,1.1,,,1,,0.0,,,40.0
+2024-10-13,2024,chrono-des-nations,gc,TotalEnergies,1.1,,0,0,,0.0,,,43.0
+2024-05-09,2024,circuit-de-wallonie,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2024-05-29,2024,circuit-franco-belge,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,88.0
+2024-08-11,2024,circuito-de-getxo,gc,TotalEnergies,1.1,,0,0,,0.0,,,18.0
+2024-02-11,2024,clasica-de-almeria,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,68.0
+2024-03-20,2024,classic-brugge-de-panne,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,240.0
+2024-04-12,2024,classic-grand-besancon-doubs,gc,TotalEnergies,1.1,,,1,,0.0,,,20.0
+2024-03-16,2024,classic-loire-atlantique,gc,TotalEnergies,1.1,,,1,,0.0,,,5.0
+2024-02-16,2024,classic-var,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2024-10-06,2024,coppa-agostoni,gc,TotalEnergies,1.1,,0,0,,0.0,,,40.0
+2024-10-07,2024,coppa-bernocchi,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,5.0
+2024-08-22,2024,deutschland-tour,gc,TotalEnergies,2.Pro,,0,0,,5.0,,,8.0
+2024-06-08,2024,dwars-door-het-hageland,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,0.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,74.0
+2024-02-01,2024,etoile-de-besseges,gc,TotalEnergies,2.1,,0,0,,5.0,,,-10.0
+2024-04-28,2024,famenne-ardenne-classic,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2024-02-24,2024,faun-ardeche-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,50.0
+2024-03-24,2024,gent-wevelgem,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,50.0
+2024-09-11,2024,giro-di-toscana,gc,TotalEnergies,1.1,,,1,,0.0,,,75.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,33.0
+2024-09-15,2024,gp-d-isbergues,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2024-01-28,2024,gp-d-ouverture,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2024-03-14,2024,gp-de-denain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,135.0
+2024-09-08,2024,gp-de-fourmies,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,60.0
+2024-05-04,2024,gp-de-plumelec,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,40.0
+2024-01-20,2024,gp-de-valence,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2024-09-18,2024,gp-de-wallonie,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,20.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,105.0
+2024-09-08,2024,gp-industria-artigianato,gc,TotalEnergies,1.Pro,,,1,,0.0,,,65.0
+2024-08-15,2024,gp-jef-scherens,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2024-02-27,2024,gp-samyn,gc,TotalEnergies,1.1,,0,0,,0.0,,,6.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,50.0
+2024-03-02,2024,grand-prix-criquielion,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2024-03-03,2024,grote-prijs-jean-pierre-monsere,gc,TotalEnergies,1.1,,0,0,,0.0,,,53.0
+2024-04-01,2024,itzulia-basque-country,gc,TotalEnergies,2.UWT,,0,0,,24.0,,,24.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,TotalEnergies,1.1,,0,0,,0.0,,,6.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,78.0
+2024-02-25,2024,la-drome-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,35.0
+2024-04-17,2024,la-fleche-wallonne,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,48.0
+2024-08-11,2024,la-poly-normande,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2024-03-24,2024,la-roue-tourangelle,gc,TotalEnergies,1.1,,,1,,0.0,,,125.0
+2024-04-21,2024,liege-bastogne-liege,gc,TotalEnergies,1.UWT,,,1,,0.0,,,0.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2024-09-14,2024,memorial-marco-pantani,gc,TotalEnergies,1.1,,,1,,0.0,,,8.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,TotalEnergies,1.1,,,1,,0.0,,,0.0
+2024-03-13,2024,milano-torino,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,3.0
+2024-10-03,2024,munsterland-giro,gc,TotalEnergies,1.Pro,,,1,,0.0,,,5.0
+2024-08-28,2024,muur-classic-geraardsbergen,gc,TotalEnergies,1.1,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-belgium,gc,TotalEnergies,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-france,gc,TotalEnergies,NC,,,1,,0.0,,,150.0
+2024-06-20,2024,nc-france-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,10.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,TotalEnergies,1.1,,0,0,,0.0,,,20.0
+2024-03-27,2024,paris-camembert,gc,TotalEnergies,1.1,,,1,,0.0,,,6.0
+2024-09-22,2024,paris-chauny-classique,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2024-03-03,2024,paris-nice,gc,TotalEnergies,2.UWT,,0,0,,10.0,,,25.0
+2024-04-07,2024,paris-roubaix,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,135.0
+2024-10-06,2024,paris-tours,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,35.0
+2024-07-25,2024,prueba-villafranca,gc,TotalEnergies,1.1,,,1,,0.0,,,0.0
+2024-04-02,2024,region-pays-de-la-loire,gc,TotalEnergies,2.1,55.0,0.0,1,,5.0,,,8.0
+2024-05-20,2024,ronde-van-limburg,gc,TotalEnergies,1.1,,0,0,,0.0,,,5.0
+2024-03-29,2024,route-adelie-de-vitre,gc,TotalEnergies,1.1,,,1,,0.0,,,85.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2024-08-10,2024,san-sebastian,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,16.0
+2024-04-03,2024,scheldeprijs,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,10.0
+2024-02-09,2024,tour-cycliste-international-la-provence,gc,TotalEnergies,2.1,,0,0,,3.0,,,3.0
+2024-06-29,2024,tour-de-france,gc,TotalEnergies,2.UWT,,0,0,,130.0,0.0,0.0,650.0
+2024-06-29,2024,tour-de-france,kom,TotalEnergies,2.UWT,,0,0,,130.0,0.0,0.0,650.0
+2024-06-29,2024,tour-de-france,points,TotalEnergies,2.UWT,,0,0,,130.0,0.0,0.0,650.0
+2024-10-12,2024,tour-de-kyushu,gc,TotalEnergies,2.1,,0,0,,205.0,,,238.0
+2024-07-13,2024,tour-de-l-ain,gc,TotalEnergies,2.1,38.0,0.0,1,,3.0,,,3.0
+2024-09-18,2024,tour-de-luxembourg,gc,TotalEnergies,2.Pro,,,1,,58.0,,,68.0
+2024-07-22,2024,tour-de-wallonie,gc,TotalEnergies,2.Pro,,0,0,,5.0,,,33.0
+2024-02-17,2024,tour-des-alpes-maritimes,gc,TotalEnergies,2.1,,0,0,,6.0,,,6.0
+2024-04-14,2024,tour-du-doubs,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2024-05-11,2024,tour-du-finistere,gc,TotalEnergies,1.1,,,1,,0.0,,,6.0
+2024-04-13,2024,tour-du-jura-cycliste,gc,TotalEnergies,1.1,,,1,,0.0,,,85.0
+2024-08-13,2024,tour-du-limousin,gc,TotalEnergies,2.1,50.0,0.0,1,,70.0,,,84.0
+2024-08-20,2024,tour-du-poitou-charentes-et-de-la-vienne,gc,TotalEnergies,2.1,,0,0,,93.0,,,96.0
+2024-06-12,2024,tour-of-belgium,gc,TotalEnergies,2.Pro,,0,0,,15.0,,,15.0
+2024-09-12,2024,tour-of-istanbul,gc,TotalEnergies,2.1,,0,0,,240.0,,,288.0
+2024-02-19,2024,tour-of-rwanda,gc,TotalEnergies,2.1,23.0,3.0,1,,68.0,,,90.0
+2024-06-12,2024,tour-of-slovenia,gc,TotalEnergies,2.Pro,,0,0,,55.0,,,65.0
+2024-10-09,2024,tour-of-taihu-lake,gc,TotalEnergies,2.Pro,7.0,60.0,1,,80.0,,,103.0
+2024-10-08,2024,tre-valli-varesine,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,0.0
+2024-05-05,2024,tro-bro-leon,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,83.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,TotalEnergies,1.1,,,1,,0.0,,,3.0
+2024-04-26,2024,vuelta-asturias,gc,TotalEnergies,2.1,60.0,0.0,1,,6.0,,,9.0
+2024-02-10,2024,vuelta-ciclista-a-la-region-de-murcia,gc,TotalEnergies,1.1,,0,0,,0.0,,,30.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Cofidis,2.Pro,,0,0,,95.0,,,95.0
+2025-04-20,2025,amstel-gold-race,gc,Cofidis,1.UWT,,0,0,,0.0,,,10.0
+2025-06-09,2025,antwerp-port-epic,gc,Cofidis,1.1,,0,0,,0.0,,,25.0
+2025-08-07,2025,arctic-race-of-norway,gc,Cofidis,2.Pro,,0,0,,21.0,,,21.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Cofidis,1.1,,,1,,0.0,,,20.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Cofidis,2.Pro,,0,0,,80.0,,,90.0
+2025-04-18,2025,brabantse-pijl,gc,Cofidis,1.Pro,,0,0,,0.0,,,105.0
+2025-03-21,2025,bredene-koksijde-classic,gc,Cofidis,1.Pro,,0,0,,0.0,,,68.0
+2025-08-31,2025,bretagne-classic,gc,Cofidis,1.UWT,,0,0,,0.0,,,32.0
+2025-06-08,2025,brussels-cycling-classic,gc,Cofidis,1.Pro,,0,0,,0.0,,,155.0
+2025-03-23,2025,cholet-pays-de-loire,gc,Cofidis,1.1,,0,0,,0.0,,,88.0
+2025-10-19,2025,chrono-des-nations,gc,Cofidis,1.1,,0,0,,0.0,,,41.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Cofidis,1.1,,0,0,,0.0,,,6.0
+2025-08-15,2025,circuit-franco-belge,gc,Cofidis,1.Pro,,0,0,,0.0,,,85.0
+2025-08-03,2025,circuito-de-getxo,gc,Cofidis,1.1,,0,0,,0.0,,,76.0
+2025-02-16,2025,clasica-de-almeria,gc,Cofidis,1.Pro,,0,0,,0.0,,,203.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Cofidis,1.UWT,,0,0,,0.0,,,95.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,Cofidis,1.1,,,1,,0.0,,,53.0
+2025-02-21,2025,classic-var,gc,Cofidis,1.1,,,1,,0.0,,,13.0
+2025-05-13,2025,classique-dunkerque,gc,Cofidis,1.Pro,,0,0,,0.0,,,90.0
+2025-06-22,2025,copenhagen-sprint,gc,Cofidis,1.UWT,,,1,,0.0,,,315.0
+2025-10-05,2025,coppa-agostoni,gc,Cofidis,1.1,,0,0,,0.0,,,35.0
+2025-10-06,2025,coppa-bernocchi,gc,Cofidis,1.Pro,,0,0,,0.0,,,16.0
+2025-08-17,2025,cyclassics-hamburg,gc,Cofidis,1.UWT,,0,0,,0.0,,,88.0
+2025-01-31,2025,deia-trophy,gc,Cofidis,1.1,,0,0,,0.0,,,0.0
+2025-06-14,2025,dwars-door-het-hageland,gc,Cofidis,1.Pro,,0,0,,0.0,,,0.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Cofidis,1.UWT,,0,0,,0.0,,,17.0
+2025-03-28,2025,e3-harelbeke,gc,Cofidis,1.UWT,,0,0,,0.0,,,120.0
+2025-05-01,2025,eschborn-frankfurt,gc,Cofidis,1.UWT,,,1,,0.0,,,147.0
+2025-02-05,2025,etoile-de-besseges,gc,Cofidis,2.1,,0,0,,136.0,,,139.0
+2025-03-01,2025,faun-ardeche-classic,gc,Cofidis,1.Pro,,0,0,,0.0,,,5.0
+2025-02-16,2025,figueira-champions-classic,gc,Cofidis,1.Pro,,0,0,,0.0,,,26.0
+2025-03-30,2025,gent-wevelgem,gc,Cofidis,1.UWT,,0,0,,0.0,,,30.0
+2025-05-09,2025,giro-d-italia,gc,Cofidis,2.UWT,,0,0,,15.0,0.0,0.0,325.0
+2025-05-09,2025,giro-d-italia,kom,Cofidis,2.UWT,,0,0,,15.0,0.0,0.0,325.0
+2025-05-09,2025,giro-d-italia,points,Cofidis,2.UWT,,0,0,,15.0,0.0,0.0,325.0
+2025-10-15,2025,giro-del-veneto,gc,Cofidis,1.Pro,,0,0,,0.0,,,70.0
+2025-10-04,2025,giro-dell-emilia,gc,Cofidis,1.Pro,,0,0,,0.0,,,5.0
+2025-09-10,2025,giro-di-toscana,gc,Cofidis,1.1,,0,0,,0.0,,,0.0
+2025-09-21,2025,gooikse-pijl,gc,Cofidis,1.1,,0,0,,0.0,,,30.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Cofidis,1.Pro,,0,0,,0.0,,,161.0
+2025-09-21,2025,gp-d-isbergues,gc,Cofidis,1.1,,0,0,,0.0,,,60.0
+2025-02-02,2025,gp-d-ouverture,gc,Cofidis,1.1,,0,0,,0.0,,,130.0
+2025-03-20,2025,gp-de-denain,gc,Cofidis,1.Pro,,0,0,,0.0,,,25.0
+2025-09-14,2025,gp-de-fourmies,gc,Cofidis,1.Pro,,0,0,,0.0,,,100.0
+2025-05-10,2025,gp-de-plumelec,gc,Cofidis,1.Pro,,,1,,0.0,,,33.0
+2025-01-26,2025,gp-de-valence,gc,Cofidis,1.1,,0,0,,0.0,,,3.0
+2025-09-17,2025,gp-de-wallonie,gc,Cofidis,1.Pro,,0,0,,0.0,,,55.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Cofidis,1.1,,0,0,,0.0,,,0.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Cofidis,1.Pro,,0,0,,0.0,,,3.0
+2025-09-07,2025,gp-industria-artigianato,gc,Cofidis,1.Pro,,0,0,,0.0,,,8.0
+2025-09-14,2025,gp-montreal,gc,Cofidis,1.UWT,,0,0,,0.0,,,185.0
+2025-09-12,2025,gp-quebec,gc,Cofidis,1.UWT,,0,0,,0.0,,,30.0
+2025-10-09,2025,gran-piemonte,gc,Cofidis,1.Pro,,0,0,,0.0,,,16.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,Cofidis,1.Pro,,0,0,,0.0,,,88.0
+2025-03-08,2025,grand-prix-criquielion,gc,Cofidis,1.1,,0,0,,0.0,,,65.0
+2025-02-02,2025,great-ocean-road-race,gc,Cofidis,1.UWT,,,1,,0.0,,,36.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,Cofidis,1.1,,0,0,,0.0,,,63.0
+2025-06-07,2025,heist-op-den-berg,gc,Cofidis,1.1,,0,0,,0.0,,,43.0
+2025-10-11,2025,il-lombardia,gc,Cofidis,1.UWT,,0,0,,0.0,,,95.0
+2025-04-07,2025,itzulia-basque-country,gc,Cofidis,2.UWT,,0,0,,120.0,,,220.0
+2025-10-19,2025,japan-cup,gc,Cofidis,1.Pro,,,1,,0.0,,,185.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Cofidis,1.1,,0,0,,0.0,,,5.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Cofidis,1.Pro,,0,0,,0.0,,,13.0
+2025-03-02,2025,la-drome-classic,gc,Cofidis,1.Pro,,0,0,,0.0,,,28.0
+2025-04-23,2025,la-fleche-wallonne,gc,Cofidis,1.UWT,,,1,,0.0,,,10.0
+2025-08-17,2025,la-poly-normande,gc,Cofidis,1.1,,0,0,,0.0,,,6.0
+2025-03-30,2025,la-roue-tourangelle,gc,Cofidis,1.1,,,1,,0.0,,,85.0
+2025-06-18,2025,la-route-d-occitanie,gc,Cofidis,2.1,,0,0,,50.0,,,50.0
+2025-04-27,2025,liege-bastogne-liege,gc,Cofidis,1.UWT,,,1,,0.0,,,70.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,Cofidis,1.1,,0,0,,0.0,,,0.0
+2025-09-13,2025,memorial-marco-pantani,gc,Cofidis,1.1,,0,0,,0.0,,,0.0
+2025-05-26,2025,mercan-tour-classic-alpes-maritimes,gc,Cofidis,1.1,,0,0,,0.0,,,63.0
+2025-03-22,2025,milano-sanremo,gc,Cofidis,1.UWT,,,1,,0.0,,,55.0
+2025-10-03,2025,munsterland-giro,gc,Cofidis,1.Pro,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-belgium,gc,Cofidis,NC,,0,0,,0.0,,,1.0
+2025-06-29,2025,nc-france,gc,Cofidis,NC,,,1,,0.0,,,0.0
+2025-06-26,2025,nc-france-itt,gc,Cofidis,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-germany,gc,Cofidis,NC,,0,0,,0.0,,,30.0
+2025-06-26,2025,nc-great-britain-itt,gc,Cofidis,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-italy,gc,Cofidis,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-poland,gc,Cofidis,NC,,0,0,,0.0,,,1.0
+2025-06-29,2025,nc-spain,gc,Cofidis,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,Cofidis,NC,,0,0,,0.0,,,20.0
+2025-03-19,2025,nokere-koerse,gc,Cofidis,1.Pro,,0,0,,0.0,,,200.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Cofidis,1.UWT,,0,0,,0.0,,,125.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Cofidis,1.1,,0,0,,0.0,,,43.0
+2025-04-02,2025,paris-camembert,gc,Cofidis,1.1,,,1,,0.0,,,25.0
+2025-09-28,2025,paris-chauny-classique,gc,Cofidis,1.1,,0,0,,0.0,,,8.0
+2025-03-09,2025,paris-nice,gc,Cofidis,2.UWT,,0,0,,0.0,,,0.0
+2025-04-13,2025,paris-roubaix,gc,Cofidis,1.UWT,,0,0,,0.0,,,30.0
+2025-10-12,2025,paris-tours,gc,Cofidis,1.Pro,,0,0,,0.0,,,0.0
+2025-07-25,2025,prueba-villafranca,gc,Cofidis,1.1,,0,0,,0.0,,,6.0
+2025-01-30,2025,race-torquay,gc,Cofidis,1.1,,,1,,0.0,,,43.0
+2025-04-08,2025,region-pays-de-la-loire,gc,Cofidis,2.1,,,1,,41.0,,,41.0
+2025-08-20,2025,renewi-tour,gc,Cofidis,2.UWT,,0,0,,16.0,,,16.0
+2025-04-16,2025,ronde-van-limburg,gc,Cofidis,1.1,,0,0,,0.0,,,125.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Cofidis,1.UWT,,0,0,,0.0,,,50.0
+2025-04-04,2025,route-adelie-de-vitre,gc,Cofidis,1.1,,,1,,0.0,,,23.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Cofidis,1.1,,0,0,,0.0,,,5.0
+2025-08-02,2025,san-sebastian,gc,Cofidis,1.UWT,,0,0,,0.0,,,34.0
+2025-04-09,2025,scheldeprijs,gc,Cofidis,1.Pro,,0,0,,0.0,,,170.0
+2025-03-08,2025,strade-bianche,gc,Cofidis,1.UWT,,,1,,0.0,,,8.0
+2025-03-10,2025,tirreno-adriatico,gc,Cofidis,2.UWT,70.0,0.0,1,,40.0,,,73.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Cofidis,2.UWT,115.0,0.0,1,,70.0,,,83.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,Cofidis,2.1,,0,0,,21.0,,,24.0
+2025-07-05,2025,tour-de-france,gc,Cofidis,2.UWT,,0,0,,40.0,0.0,0.0,155.0
+2025-07-05,2025,tour-de-france,kom,Cofidis,2.UWT,,0,0,,40.0,0.0,0.0,155.0
+2025-07-05,2025,tour-de-france,points,Cofidis,2.UWT,,0,0,,40.0,0.0,0.0,155.0
+2025-08-06,2025,tour-de-l-ain,gc,Cofidis,2.1,,0,0,,55.0,,,58.0
+2025-08-04,2025,tour-de-pologne,gc,Cofidis,2.UWT,,,1,,16.0,,,36.0
+2025-04-29,2025,tour-de-romandie,gc,Cofidis,2.UWT,,0,0,,45.0,,,45.0
+2025-06-15,2025,tour-de-suisse,gc,Cofidis,2.UWT,,0,0,,33.0,,,35.0
+2025-10-11,2025,tour-de-vendee,gc,Cofidis,1.1,,0,0,,0.0,,,20.0
+2025-07-26,2025,tour-de-wallonie,gc,Cofidis,2.Pro,,0,0,,135.0,,,195.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,Cofidis,2.1,72.0,0.0,1,,0.0,,,0.0
+2025-01-21,2025,tour-down-under,gc,Cofidis,2.UWT,60.0,3.0,1,,28.0,,,148.0
+2025-04-20,2025,tour-du-doubs,gc,Cofidis,1.1,,0,0,,0.0,,,8.0
+2025-05-09,2025,tour-du-finistere,gc,Cofidis,1.1,,0,0,,0.0,,,30.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,Cofidis,1.1,,0,0,,0.0,,,55.0
+2025-08-19,2025,tour-du-limousin,gc,Cofidis,2.1,,0,0,,98.0,,,112.0
+2025-08-26,2025,tour-du-poitou-charentes-et-de-la-vienne,gc,Cofidis,2.1,,0,0,,26.0,,,34.0
+2025-10-14,2025,tour-of-guangxi,gc,Cofidis,2.UWT,,0,0,,23.0,,,89.0
+2025-10-09,2025,tour-of-taihu-lake,gc,Cofidis,2.Pro,39.0,3.0,1,,161.0,,,184.0
+2025-10-07,2025,tre-valli-varesine,gc,Cofidis,1.Pro,,0,0,,0.0,,,38.0
+2025-05-11,2025,tro-bro-leon,gc,Cofidis,1.Pro,,0,0,,0.0,,,0.0
+2025-01-29,2025,trofeo-calvia,gc,Cofidis,1.1,,0,0,,0.0,,,30.0
+2025-03-05,2025,trofeo-laigueglia,gc,Cofidis,1.Pro,,0,0,,0.0,,,15.0
+2025-09-14,2025,trofeo-matteotti,gc,Cofidis,1.1,,0,0,,0.0,,,3.0
+2025-02-02,2025,trofeo-palma,gc,Cofidis,1.1,,0,0,,0.0,,,85.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Cofidis,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Cofidis,1.1,,0,0,,0.0,,,0.0
+2025-10-19,2025,veneto-classic,gc,Cofidis,1.Pro,,0,0,,0.0,,,80.0
+2025-03-24,2025,volta-a-catalunya,gc,Cofidis,2.UWT,,0,0,,16.0,,,37.0
+2025-02-19,2025,volta-ao-algarve,gc,Cofidis,2.Pro,,0,0,,23.0,,,46.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Cofidis,1.1,,0,0,,0.0,,,103.0
+2025-08-23,2025,vuelta-a-espana,gc,Cofidis,2.UWT,,,1,,25.0,0.0,0.0,112.0
+2025-08-23,2025,vuelta-a-espana,kom,Cofidis,2.UWT,,,1,,25.0,0.0,0.0,112.0
+2025-08-23,2025,vuelta-a-espana,points,Cofidis,2.UWT,,,1,,25.0,0.0,0.0,112.0

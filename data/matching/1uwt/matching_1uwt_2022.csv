@@ -1,0 +1,20 @@
+jour,mois,annee,stage,nom_pcs,categorie,fichier_gpx,fichier_pcs,score,statut
+26,2,2022,result,omloop-het-nieuwsblad,1.UWT,2022 Omloop Het Nieuwsblad Elite.gpx,26_February_2022__result__omloop-het-nieuwsblad_2022__1.UWT.csv,100,match
+5,3,2022,result,strade-bianche,1.UWT,2022 Strade Bianche.gpx,05_March_2022__result__strade-bianche_2022__1.UWT.csv,100,match
+19,3,2022,result,milano-sanremo,1.UWT,2022 Milano-Sanremo.gpx,19_March_2022__result__milano-sanremo_2022__1.UWT.csv,100,match
+23,3,2022,result,classic-brugge-de-panne,1.UWT,2022 Minerva Classic Brugge-De Panne.gpx,23_March_2022__result__classic-brugge-de-panne_2022__1.UWT.csv,100,match
+25,3,2022,result,e3-harelbeke,1.UWT,2022 E3 Saxo Bank Classic.gpx,25_March_2022__result__e3-harelbeke_2022__1.UWT.csv,72,match
+27,3,2022,result,gent-wevelgem,1.UWT,2022 Gent-Wevelgem in Flanders Fields.gpx,27_March_2022__result__gent-wevelgem_2022__1.UWT.csv,100,match
+30,3,2022,result,dwars-door-vlaanderen,1.UWT,2022 Dwars door Vlaanderen / A travers la Flandre.gpx,30_March_2022__result__dwars-door-vlaanderen_2022__1.UWT.csv,100,match
+3,4,2022,result,ronde-van-vlaanderen,1.UWT,2022 Ronde van Vlaanderen - Tour des Flandres.gpx,03_April_2022__result__ronde-van-vlaanderen_2022__1.UWT.csv,100,match
+10,4,2022,result,amstel-gold-race,1.UWT,2022 Amstel Gold Race.gpx,10_April_2022__result__amstel-gold-race_2022__1.UWT.csv,100,match
+17,4,2022,result,paris-roubaix,1.UWT,2022 Paris-Roubaix.gpx,17_April_2022__result__paris-roubaix_2022__1.UWT.csv,100,match
+20,4,2022,result,la-fleche-wallonne,1.UWT,2022 La Fleche Wallonne.gpx,20_April_2022__result__la-fleche-wallonne_2022__1.UWT.csv,100,match
+24,4,2022,result,liege-bastogne-liege,1.UWT,2022 Liege - Bastogne - Liege.gpx,24_April_2022__result__liege-bastogne-liege_2022__1.UWT.csv,100,match
+1,5,2022,result,eschborn-frankfurt,1.UWT,2022 Eschborn-Frankfurt.gpx,01_May_2022__result__eschborn-frankfurt_2022__1.UWT.csv,100,match
+30,7,2022,result,san-sebastian,1.UWT,2022 Donostia San Sebastian Klasikoa.gpx,30_July_2022__result__san-sebastian_2022__1.UWT.csv,100,match
+21,8,2022,result,cyclassics-hamburg,1.UWT,2022 BEMER Cyclassics.gpx,21_August_2022__result__cyclassics-hamburg_2022__1.UWT.csv,100,match
+28,8,2022,result,bretagne-classic,1.UWT,2022 Bretagne Classic - Ouest-France.gpx,28_August_2022__result__bretagne-classic_2022__1.UWT.csv,100,match
+9,9,2022,result,gp-quebec,1.UWT,2022 Grand Prix Cycliste de Quebec.gpx,09_September_2022__result__gp-quebec_2022__1.UWT.csv,100,match
+11,9,2022,result,gp-montreal,1.UWT,2022 Grand Prix Cycliste de Montreal.gpx,11_September_2022__result__gp-montreal_2022__1.UWT.csv,100,match
+8,10,2022,result,il-lombardia,1.UWT,2022 Il Lombardia.gpx,08_October_2022__result__il-lombardia_2022__1.UWT.csv,100,match

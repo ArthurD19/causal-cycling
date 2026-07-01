@@ -1,0 +1,69 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-05-22,2022,albani-classic-fyen-rundt,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-10-16,2022,chrono-des-nations,gc,Motala AIF Serneke Allebike,1.1,,0,0,,0.0,,,5.0
+2022-04-06,2022,circuit-des-ardennes,gc,Sweden,2.2,,0,0,,0.0,,,0.0
+2022-09-18,2022,gooikse-pijl,gc,Motala AIF Serneke Allebike,1.1,,,1,,0.0,,,0.0
+2022-05-21,2022,gp-herning,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-09-17,2022,grote-prijs-rik-van-looy,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-09-04,2022,gylne-gutuer,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,15.0
+2022-05-07,2022,hadeland-gp,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Motala AIF Serneke Allebike,2.2,129.0,0.0,1,,0.0,,,0.0
+2022-09-03,2022,lillehammer-gp,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-sweden,gc,Motala AIF Serneke Allebike,NC,,,1,,0.0,,,83.0
+2022-06-23,2022,nc-sweden-itt,gc,Motala AIF Serneke Allebike,NC,,,1,,0.0,,,83.0
+2022-09-08,2022,okolo-jiznich-cech,gc,Sweden,2.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-05-08,2022,ringerike-gp,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-08-06,2022,scandinavian-race-uppsala,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,10.0
+2022-04-13,2022,tour-du-loir-et-cher,gc,Sweden,2.2,35.0,0.0,1,,0.0,,,0.0
+2022-05-26,2022,tour-of-estonia,gc,Sweden,2.1,28.0,0.0,1,,3.0,,,3.0
+2022-03-02,2022,trofej-umag,gc,Motala AIF Serneke Allebike,1.2,,,1,,0.0,,,0.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Sweden,CC,,0,0,,0.0,,,0.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Sweden,CC,,0,0,,0.0,,,5.0
+2022-09-25,2022,world-championship,gc,Sweden,WC,,0,0,,0.0,,,0.0
+2023-09-03,2023,grand-prix-de-plouay,gc,AVC Aix-en-Provence,1.2,,0,0,,0.0,,,20.0
+2023-06-22,2023,nc-france-itt,gc,AVC Aix-en-Provence,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-sweden,gc,AVC Aix-en-Provence,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-sweden-itt,gc,AVC Aix-en-Provence,NC,,,1,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,AVC Aix-en-Provence,NC,,0,0,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,AVC Aix-en-Provence,1.2,,0,0,,0.0,,,15.0
+2023-07-27,2023,tour-alsace,gc,AVC Aix-en-Provence,2.2,,0,0,,0.0,,,1.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,AVC Aix-en-Provence,2.2,,0,0,,3.0,,,3.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,AVC Aix-en-Provence,2.2,,0,0,,3.0,,,6.0
+2023-04-12,2023,tour-du-loir-et-cher,gc,Sweden,2.2,100.0,0.0,1,,0.0,,,7.0
+2023-04-12,2023,tour-du-loir-et-cher,gc,AVC Aix-en-Provence,2.2,,0,0,,0.0,,,0.0
+2023-05-26,2023,tour-of-estonia,gc,Sweden,2.1,14.0,5.0,1,,40.0,,,40.0
+2023-08-06,2023,world-championship,gc,Sweden,WC,,0,0,,0.0,,,15.0
+2024-06-22,2024,nc-canada2,gc,AVC Aix-en-Provence,NC,,0,0,,0.0,,,1.0
+2024-06-20,2024,nc-france-itt,gc,AVC Aix-en-Provence,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-sweden,gc,AVC Aix-en-Provence,NC,,,1,,0.0,,,5.0
+2024-06-18,2024,nc-sweden-itt,gc,AVC Aix-en-Provence,NC,,,1,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,AVC Aix-en-Provence,NC,,0,0,,0.0,,,0.0
+2024-08-03,2024,olympic-games,gc,Sweden,Olympics,,0,0,,0.0,,,5.0
+2024-05-20,2024,paris-troyes,gc,AVC Aix-en-Provence,1.2,,0,0,,0.0,,,30.0
+2024-07-25,2024,tour-alsace,gc,AVC Aix-en-Provence,2.2,,0,0,,0.0,,,-5.0
+2024-09-27,2024,tour-d-eure-et-loir,gc,AVC Aix-en-Provence,2.2,,0,0,,3.0,,,6.0
+2024-05-24,2024,tour-de-la-mirabelle,gc,AVC Aix-en-Provence,2.2,,0,0,,50.0,,,58.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,AVC Aix-en-Provence,2.2,,0,0,,0.0,,,0.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Sweden,2.2,,0,0,,20.0,,,26.0
+2024-05-24,2024,tour-of-estonia,gc,Sweden,2.1,23.0,3.0,1,,3.0,,,3.0
+2024-04-21,2024,trofeo-torino-biella-giro-della-provincia-di-biell,gc,AVC Aix-en-Provence,1.2,,0,0,,0.0,,,0.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Sweden,CC,,0,0,,0.0,,,0.0
+2024-09-29,2024,world-championship,gc,Sweden,WC,,0,0,,0.0,,,0.0
+2025-04-09,2025,circuit-des-ardennes,gc,AVC Aix Provence Dole,2.2,98.0,0.0,1,,0.0,,,0.0
+2025-01-24,2025,classica-camp-de-morvedre,gc,AVC Aix Provence Dole,1.2,,,1,,0.0,,,0.0
+2025-09-04,2025,giro-della-regione-friuli-venezia-giulia,gc,AVC Aix Provence Dole,2.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-ireland,gc,AVC Aix Provence Dole,NC,,0,0,,0.0,,,75.0
+2025-06-29,2025,nc-sweden,gc,AVC Aix Provence Dole,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,AVC Aix Provence Dole,NC,,0,0,,0.0,,,0.0
+2025-06-09,2025,paris-troyes,gc,AVC Aix Provence Dole,1.2,,,1,,0.0,,,0.0
+2025-03-16,2025,popolarissima,gc,AVC Aix Provence Dole,1.2,,,1,,0.0,,,0.0
+2025-05-28,2025,rhone-alpes-isere-tour,gc,AVC Aix Provence Dole,2.2,,0,0,,0.0,,,3.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,AVC Aix Provence Dole,1.1,,,1,,0.0,,,0.0
+2025-07-31,2025,tour-alsace,gc,AVC Aix Provence Dole,2.2,,0,0,,0.0,,,0.0
+2025-09-26,2025,tour-de-la-mirabelle,gc,AVC Aix Provence Dole,1.2,,0,0,,0.0,,,0.0
+2025-04-16,2025,tour-du-loir-et-cher,gc,AVC Aix Provence Dole,2.2,88.0,0.0,1,,0.0,,,0.0
+2025-04-16,2025,tour-du-loir-et-cher,gc,Sweden,2.2,,0,0,,0.0,,,0.0
+2025-05-30,2025,tour-of-estonia,gc,Sweden,2.1,30.0,0.0,1,,6.0,,,11.0
+2025-04-27,2025,trofeo-torino-biella-giro-della-provincia-di-biell,gc,AVC Aix Provence Dole,1.2,,0,0,,0.0,,,0.0
+2025-10-01,2025,uec-road-european-championships-itt,gc,Sweden,CC,,0,0,,0.0,,,0.0

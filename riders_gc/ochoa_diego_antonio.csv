@@ -1,0 +1,59 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-26,2017,nc-colombia,gc,EPM,NC,,,1,,0.0,,,15.0
+2017-02-24,2017,nc-colombia-itt,gc,EPM,NC,,0,0,,0.0,,,0.0
+2017-08-02,2017,vuelta-pilsen-a-colombia,gc,EPM,2.2,32.0,0.0,1,,25.0,,,38.0
+2018-02-06,2018,colombia-21,gc,EPM,2.1,19.0,3.0,1,,14.0,,,14.0
+2018-05-27,2018,juegos-suramericanos-itt,gc,EPM,JR,,0,0,,0.0,,,0.0
+2018-06-03,2018,juegos-suramericanos-road-race,gc,EPM,JR,,0,0,,0.0,,,0.0
+2018-02-04,2018,nc-colombia,gc,EPM,NC,,,1,,0.0,,,77.0
+2018-02-02,2018,nc-colombia-itt,gc,EPM,NC,,0,0,,0.0,,,15.0
+2018-05-03,2018,panamerican-champ-itt,gc,EPM,CC,,0,0,,0.0,,,30.0
+2018-05-06,2018,panamerican-championships,gc,EPM,CC,,,1,,0.0,,,0.0
+2019-02-13,2019,colombia-21,gc,Manzana Postobon,2.1,33.0,0.0,1,,0.0,,,3.0
+2019-05-12,2019,gp-de-la-somme,gc,Manzana Postobon,1.2,,,1,,0.0,,,3.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,Manzana Postobon,1.1,,0,0,,0.0,,,6.0
+2019-04-08,2019,itzulia-basque-country,gc,Manzana Postobon,2.UWT,,0,0,,24.0,,,24.0
+2019-04-14,2019,klasika-primavera,gc,Manzana Postobon,1.1,,0,0,,0.0,,,120.0
+2019-04-07,2019,la-roue-tourangelle,gc,Manzana Postobon,1.1,,,1,,0.0,,,3.0
+2019-02-03,2019,nc-colombia,gc,Manzana Postobon,NC,,,1,,0.0,,,78.0
+2019-02-01,2019,nc-colombia-itt,gc,Manzana Postobon,NC,,0,0,,0.0,,,0.0
+2019-04-09,2019,region-pays-de-la-loire,gc,Manzana Postobon,2.1,,,1,,50.0,,,50.0
+2019-04-05,2019,route-adelie-de-vitre,gc,Manzana Postobon,1.1,,,1,,0.0,,,3.0
+2019-05-17,2019,tour-d-eure-et-loir,gc,Manzana Postobon,2.2,25.0,0.0,1,,0.0,,,0.0
+2019-03-17,2019,tour-de-taiwan,gc,Manzana Postobon,2.1,5.0,50.0,1,,55.0,,,69.0
+2019-04-22,2019,tour-of-the-alps,gc,Manzana Postobon,2.HC,,0,0,,10.0,,,20.0
+2019-04-16,2019,tour-of-turkey,gc,Manzana Postobon,2.UWT,36.0,5.0,1,,136.0,,,142.0
+2019-05-17,2019,vuelta-a-aragon,gc,Manzana Postobon,2.1,,0,0,,3.0,,,3.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Manzana Postobon,2.1,,,1,,10.0,,,13.0
+2019-05-03,2019,vuelta-asturias,gc,Manzana Postobon,2.1,,0,0,,20.0,,,39.0
+2019-05-10,2019,vuelta-international-a-la-cominudad-de-madrid,gc,Manzana Postobon,2.1,,0,0,,35.0,,,35.0
+2020-02-12,2020,colombia-21,gc,EPM - Scott,2.1,28.0,0.0,1,,53.0,,,53.0
+2020-02-02,2020,nc-colombia,gc,EPM - Scott,NC,,,1,,0.0,,,4.0
+2020-01-30,2020,nc-colombia-itt,gc,EPM - Scott,NC,,0,0,,0.0,,,3.0
+2021-06-15,2021,adriatica-ionica-race,gc,Colombia,2.1,,0,0,,11.0,,,11.0
+2021-06-24,2021,giro-dell-appennino,gc,Colombia,1.1,,0,0,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Colombia,Olympics,,0,0,,0.0,,,160.0
+2021-07-28,2021,olympic-games-itt,gc,Colombia,Olympics,,0,0,,0.0,,,70.0
+2021-08-13,2021,panamerican-champ-itt,gc,Colombia,CC,,0,0,,0.0,,,70.0
+2021-08-15,2021,panamerican-championships,gc,Colombia,CC,,,1,,0.0,,,383.0
+2021-04-16,2021,vuelta-pilsen-a-colombia,gc,EPM - Scott,2.2,48.0,0.0,1,,15.0,,,33.0
+2021-09-26,2021,world-championship,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2021-09-19,2021,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2022-06-24,2022,juegos-bolivarianos-me-itt,gc,Colombia,JR,,0,0,,0.0,,,0.0
+2022-06-26,2022,juegos-bolivarianos-me-road-race,gc,Colombia,JR,,,1,,0.0,,,0.0
+2022-10-03,2022,juegos-suramericanos-itt,gc,Colombia,1.2,,0,0,,0.0,,,70.0
+2022-10-05,2022,juegos-suramericanos-road-race,gc,Colombia,1.2,,0,0,,0.0,,,23.0
+2022-02-13,2022,nc-colombia,gc,EPM - Scott,NC,,0,0,,0.0,,,1.0
+2022-02-10,2022,nc-colombia-itt,gc,EPM - Scott,NC,,0,0,,0.0,,,10.0
+2022-05-12,2022,panamerican-champ-itt,gc,Colombia,CC,,0,0,,0.0,,,125.0
+2022-05-15,2022,panamerican-championships,gc,Colombia,CC,,,1,,0.0,,,124.0
+2022-10-23,2022,vuelta-a-guatemala,gc,Colombia,2.2,,0,0,,0.0,,,0.0
+2022-06-03,2022,vuelta-pilsen-a-colombia,gc,EPM - Scott,2.2,86.0,0.0,1,,33.0,,,40.0
+2022-09-25,2022,world-championship,gc,Colombia,WC,,0,0,,0.0,,,20.0
+2022-09-18,2022,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Team Saitel,2.1,94.0,0.0,1,,0.0,,,0.0
+2024-02-03,2024,nc-ecuador,gc,Team Saitel,NC,,0,0,,0.0,,,0.0
+2024-11-11,2024,vuelta-a-ecuador,gc,Team Saitel,2.2,,0,0,,3.0,,,7.0
+2024-05-01,2024,vuelta-bantrab,gc,Team Saitel,2.2,,,1,,0.0,,,-5.0
+2024-10-06,2024,vuelta-ciclista-a-venezuela,gc,Team Saitel,2.2,39.0,0.0,1,,0.0,,,8.0
+2024-06-14,2024,vuelta-pilsen-a-colombia,gc,Team Saitel,2.2,105.0,0.0,1,,0.0,,,-7.0

@@ -1,0 +1,74 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-12,2017,classica-aldeias-do-xisto-cylin-portugal,gc,Louletano - Hospital de Loulé,1.2,,0,0,,0.0,,,40.0
+2017-07-05,2017,gp-int-torres-vedras,gc,Louletano - Hospital de Loulé,2.2,75.0,0.0,1,,13.0,,,13.0
+2017-06-02,2017,gp-internacional-beiras-e-serra-da-estrela,gc,Louletano - Hospital de Loulé,2.1,,,1,,13.0,,,18.0
+2017-06-25,2017,nc-spain,gc,Louletano - Hospital de Loulé,NC,,0,0,,0.0,,,5.0
+2017-03-05,2017,trofeu-da-arrabida,gc,Louletano - Hospital de Loulé,1.2,,,1,,0.0,,,20.0
+2017-08-04,2017,volta-a-portugal,gc,Louletano - Hospital de Loulé,2.1,85.0,0.0,1,,73.0,,,103.0
+2017-02-22,2017,volta-ao-alentejo,gc,Louletano - Hospital de Loulé,2.1,113.0,0.0,1,,3.0,,,3.0
+2017-02-15,2017,volta-ao-algarve,gc,Louletano - Hospital de Loulé,2.HC,,,1,,8.0,,,18.0
+2017-04-29,2017,vuelta-asturias,gc,Louletano - Hospital de Loulé,2.1,,0,0,,3.0,,,3.0
+2017-04-02,2017,vuelta-ciclista-a-la-rioja,gc,Louletano - Hospital de Loulé,1.1,,,1,,0.0,,,15.0
+2018-07-18,2018,Grande-Premio-de-Portugal-N2,gc,Efapel,2.2,62.0,0.0,1,,5.0,,,8.0
+2018-03-25,2018,classica-aldeias-do-xisto-cylin-portugal,gc,Efapel,1.2,,0,0,,0.0,,,43.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Efapel,2.1,,0,0,,91.0,,,99.0
+2018-06-22,2018,nc-portugal,gc,Efapel,NC,,,1,,0.0,,,0.0
+2018-06-24,2018,nc-portugal2,gc,Efapel,NC,,,1,,0.0,,,63.0
+2018-06-24,2018,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,10.0
+2018-06-22,2018,nc-spain-itt,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Efapel,1.2,,,1,,0.0,,,0.0
+2018-08-01,2018,volta-a-portugal,gc,Efapel,2.1,,0,0,,29.0,,,37.0
+2018-03-14,2018,volta-ao-alentejo,gc,Efapel,2.2,,,1,,0.0,,,0.0
+2018-02-14,2018,volta-ao-algarve,gc,Efapel,2.HC,146.0,0.0,1,,6.0,,,6.0
+2018-04-20,2018,vuelta-a-castilla-y-leon,gc,Efapel,2.1,,0,0,,30.0,,,30.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Efapel,2.1,,0,0,,10.0,,,10.0
+2019-02-13,2019,colombia-21,gc,Efapel,2.1,,0,0,,0.0,,,0.0
+2019-07-11,2019,gp-int-torres-vedras,gc,Efapel,2.2,,0,0,,65.0,,,73.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,Efapel,2.1,,0,0,,98.0,,,112.0
+2019-06-28,2019,nc-portugal,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-portugal2,gc,Efapel,NC,,0,0,,0.0,,,41.0
+2019-06-30,2019,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,30.0
+2019-06-28,2019,nc-spain-itt,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2019-03-17,2019,trofeu-da-arrabida,gc,Efapel,1.2,,0,0,,0.0,,,0.0
+2019-07-31,2019,volta-a-portugal,gc,Efapel,2.1,,0,0,,111.0,,,125.0
+2019-03-20,2019,volta-ao-alentejo,gc,Efapel,2.2,70.0,0.0,1,,0.0,,,1.0
+2019-02-20,2019,volta-ao-algarve,gc,Efapel,2.HC,125.0,0.0,1,,0.0,,,0.0
+2019-05-17,2019,vuelta-a-aragon,gc,Efapel,2.1,,0,0,,14.0,,,14.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Efapel,2.1,,,1,,5.0,,,5.0
+2020-08-02,2020,circuito-de-getxo,gc,Efapel,1.1,,0,0,,0.0,,,0.0
+2020-02-12,2020,colombia-21,gc,Efapel,2.1,,0,0,,0.0,,,0.0
+2020-09-19,2020,gp-int-torres-vedras,gc,Efapel,2.2,,0,0,,28.0,,,36.0
+2020-08-14,2020,nc-portugal,gc,Efapel,NC,,0,0,,0.0,,,30.0
+2020-08-16,2020,nc-portugal2,gc,Efapel,NC,,,1,,0.0,,,43.0
+2020-08-23,2020,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-spain-itt,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2020-10-12,2020,prueba-villafranca,gc,Efapel,1.1,,,1,,0.0,,,20.0
+2020-09-27,2020,volta-a-portugal,gc,Efapel,2.1,,0,0,,103.0,,,136.0
+2020-02-19,2020,volta-ao-algarve,gc,Efapel,2.Pro,,,1,,0.0,,,0.0
+2021-07-16,2021,gp-int-torres-vedras,gc,Tavfer-Measindot-Mortágua,2.2,73.0,0.0,1,,15.0,,,16.0
+2021-06-18,2021,nc-portugal,gc,Tavfer-Measindot-Mortágua,NC,,0,0,,0.0,,,6.0
+2021-06-20,2021,nc-portugal2,gc,Tavfer-Measindot-Mortágua,NC,,,1,,0.0,,,60.0
+2021-10-17,2021,ncgreat-britain,gc,Tavfer-Measindot-Mortágua,NC,,0,0,,0.0,,,0.0
+2021-05-02,2021,trofeu-da-arrabida,gc,Tavfer-Measindot-Mortágua,1.2,,0,0,,0.0,,,20.0
+2021-08-04,2021,volta-a-portugal,gc,Tavfer-Measindot-Mortágua,2.1,88.0,0.0,1,,16.0,,,16.0
+2021-06-23,2021,volta-ao-alentejo,gc,Tavfer-Measindot-Mortágua,2.2,109.0,0.0,1,,3.0,,,21.0
+2021-05-05,2021,volta-ao-algarve,gc,Tavfer-Measindot-Mortágua,2.Pro,141.0,0.0,1,,10.0,,,10.0
+2023-06-07,2023,aziz-shusha,gc,NSJBI Victoria Sports Cycling Team,2.2,,0,0,,15.0,,,15.0
+2023-07-30,2023,circuito-de-getxo,gc,NSJBI Victoria Sports Cycling Team,1.1,,,1,,0.0,,,0.0
+2023-05-26,2023,gp-internacional-beiras-e-serra-da-estrela,gc,NSJBI Victoria Sports Cycling Team,2.2,,,1,,0.0,,,0.0
+2023-08-27,2023,international-azerbaijan-tour,gc,NSJBI Victoria Sports Cycling Team,2.1,,,1,,30.0,,,30.0
+2023-06-30,2023,nc-philippines,gc,NSJBI Victoria Sports Cycling Team,NC,,0,0,,0.0,,,0.0
+2023-06-28,2023,nc-philippines-itt,gc,NSJBI Victoria Sports Cycling Team,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-portugal,gc,NSJBI Victoria Sports Cycling Team,NC,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-portugal2,gc,NSJBI Victoria Sports Cycling Team,NC,,,1,,0.0,,,0.0
+2023-07-25,2023,prueba-villafranca,gc,NSJBI Victoria Sports Cycling Team,1.1,,,1,,0.0,,,0.0
+2023-05-10,2023,the-tour-oqtosh-chorvoq-mountain,gc,Victoria Sports Cycling,1.2,,,1,,0.0,,,0.0
+2023-05-10,2023,the-tour-oqtosh-chorvoq-mountain,gc,NSJBI Victoria Sports Cycling Team,1.2,,0,0,,0.0,,,10.0
+2023-05-11,2023,the-tour-oqtosh-chorvoq-mountain-ii,gc,NSJBI Victoria Sports Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-05-11,2023,the-tour-oqtosh-chorvoq-mountain-ii,gc,Victoria Sports Cycling,1.2,,0,0,,0.0,,,5.0
+2023-05-13,2023,tour-of-bostonliq,gc,NSJBI Victoria Sports Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-05-14,2023,tour-of-bostonliq-ii,gc,NSJBI Victoria Sports Cycling Team,1.2,,,1,,0.0,,,5.0
+2023-08-26,2023,tour-of-kandovan,gc,NSJBI Victoria Sports Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-06-01,2023,tour-of-malopolska,gc,NSJBI Victoria Sports Cycling Team,2.2,126.0,0.0,1,,10.0,,,5.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,NSJBI Victoria Sports Cycling Team,2.1,,,1,,0.0,,,0.0
+2023-04-28,2023,vuelta-asturias,gc,NSJBI Victoria Sports Cycling Team,2.1,,0,0,,0.0,,,0.0

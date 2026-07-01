@@ -1,0 +1,49 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-07-31,2018,circuito-de-getxo,gc,Polartec-Kometa,1.1,,,1,,0.0,,,3.0
+2018-09-15,2018,coppa-agostoni,gc,Polartec-Kometa,1.1,,0,0,,0.0,,,0.0
+2018-09-16,2018,coppa-bernocchi,gc,Polartec-Kometa,1.1,,,1,,0.0,,,0.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Polartec-Kometa,2.2U,,0,0,,28.0,,,33.0
+2018-06-03,2018,gp-lugano,gc,Polartec-Kometa,1.1,,,1,,0.0,,,0.0
+2018-03-31,2018,gran-premio-miguel-indurain,gc,Polartec-Kometa,1.1,,,1,,0.0,,,0.0
+2018-04-08,2018,klasika-primavera,gc,Polartec-Kometa,1.1,,,1,,0.0,,,3.0
+2018-04-25,2018,le-tour-de-bretagne,gc,Polartec-Kometa,2.2,,,1,,0.0,,,0.0
+2018-06-29,2018,nc-austria-itt,gc,Polartec-Kometa,NC,,0,0,,0.0,,,5.0
+2018-07-01,2018,nc-austria2,gc,Polartec-Kometa,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-eritrea,gc,Polartec-Kometa,NC,,0,0,,0.0,,,10.0
+2018-06-22,2018,nc-eritrea-itt,gc,Polartec-Kometa,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-spain,gc,Polartec-Kometa,NC,,,1,,0.0,,,0.0
+2018-06-22,2018,nc-spain-itt,gc,Polartec-Kometa,NC,,,1,,0.0,,,0.0
+2018-07-25,2018,prueba-villafranca,gc,Polartec-Kometa,1.1,,,1,,0.0,,,6.0
+2018-03-04,2018,rhodes-gp,gc,Polartec-Kometa,1.2,,,1,,0.0,,,40.0
+2018-02-08,2018,tour-cycliste-international-la-provence,gc,Polartec-Kometa,2.1,53.0,0.0,1,,3.0,,,3.0
+2018-08-14,2018,tour-de-hongrie,gc,Polartec-Kometa,2.1,35.0,0.0,1,,3.0,,,27.0
+2018-05-18,2018,tour-de-l-ain,gc,Polartec-Kometa,2.1,,0,0,,15.0,,,15.0
+2018-03-19,2018,tour-de-normadie,gc,Polartec-Kometa,2.2,23.0,0.0,1,,0.0,,,14.0
+2018-02-17,2018,tour-des-alpes-maritimes,gc,Polartec-Kometa,2.1,71.0,0.0,1,,3.0,,,3.0
+2018-02-22,2018,tour-of-antalya,gc,Polartec-Kometa,2.2,,0,0,,25.0,,,42.0
+2018-03-09,2018,tour-of-rhodes,gc,Polartec-Kometa,2.2,18.0,0.0,1,,20.0,,,27.0
+2018-05-11,2018,vuelta-a-aragon,gc,Polartec-Kometa,2.1,104.0,0.0,1,,0.0,,,0.0
+2018-08-07,2018,vuelta-a-burgos,gc,Polartec-Kometa,2.HC,87.0,0.0,1,,0.0,,,20.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Polartec-Kometa,2.1,153.0,0.0,1,,0.0,,,0.0
+2019-07-31,2019,circuito-de-getxo,gc,Kometa Cycling Team,1.1,,,1,,0.0,,,11.0
+2019-04-03,2019,giro-di-sicilia,gc,Kometa Cycling Team,2.1,,0,0,,33.0,,,33.0
+2019-03-14,2019,istrian-spring-tour,gc,Kometa Cycling Team,2.2,138.0,0.0,1,,15.0,,,18.0
+2019-04-14,2019,klasika-primavera,gc,Kometa Cycling Team,1.1,,,1,,0.0,,,5.0
+2019-06-30,2019,nc-hungary,gc,Kometa Cycling Team,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-hungary-itt,gc,Kometa Cycling Team,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-luxembourg,gc,Kometa Cycling Team,NC,,0,0,,0.0,,,1.0
+2019-06-30,2019,nc-spain,gc,Kometa Cycling Team,NC,,,1,,0.0,,,3.0
+2019-06-28,2019,nc-spain-itt,gc,Kometa Cycling Team,NC,,,1,,0.0,,,0.0
+2019-03-09,2019,porec-trophy,gc,Kometa Cycling Team,1.2,,,1,,0.0,,,5.0
+2019-07-25,2019,prueba-villafranca,gc,Kometa Cycling Team,1.1,,,1,,0.0,,,28.0
+2019-06-11,2019,tour-de-hongrie,gc,Kometa Cycling Team,2.1,,0,0,,160.0,,,160.0
+2019-05-24,2019,tour-de-l-ain,gc,Kometa Cycling Team,2.1,,0,0,,5.0,,,5.0
+2019-02-21,2019,tour-of-antalya,gc,Kometa Cycling Team,2.2,109.0,0.0,1,,20.0,,,23.0
+2019-03-06,2019,trofej-umag,gc,Kometa Cycling Team,1.2,,,1,,0.0,,,3.0
+2019-05-17,2019,vuelta-a-aragon,gc,Kometa Cycling Team,2.1,96.0,0.0,1,,0.0,,,0.0
+2019-08-13,2019,vuelta-a-burgos,gc,Kometa Cycling Team,2.HC,76.0,0.0,1,,8.0,,,8.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Kometa Cycling Team,2.1,20.0,3.0,1,,21.0,,,21.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Kometa Cycling Team,2.1,139.0,0.0,1,,0.0,,,0.0
+2019-05-03,2019,vuelta-asturias,gc,Kometa Cycling Team,2.1,76.0,0.0,1,,0.0,,,0.0
+2019-02-15,2019,vuelta-ciclista-a-la-region-de-murcia,gc,Kometa Cycling Team,2.1,,,1,,0.0,,,0.0
+2019-05-10,2019,vuelta-international-a-la-cominudad-de-madrid,gc,Kometa Cycling Team,2.1,85.0,0.0,1,,0.0,,,0.0

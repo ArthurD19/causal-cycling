@@ -1,0 +1,22 @@
+jour,mois,annee,stage,nom_pcs,categorie,fichier_gpx,fichier_pcs,score,statut
+27,1,2019,result,great-ocean-road-race,1.UWT,2019 Cadel Evans Great Ocean Road Race.gpx,27_January_2019__result__great-ocean-road-race_2019__1.UWT.csv,100,match
+2,3,2019,result,omloop-het-nieuwsblad,1.UWT,2019 Omloop Het Nieuwsblad Elite.gpx,02_March_2019__result__omloop-het-nieuwsblad_2019__1.UWT.csv,100,match
+9,3,2019,result,strade-bianche,1.UWT,2019 Strade Bianche.gpx,09_March_2019__result__strade-bianche_2019__1.UWT.csv,100,match
+23,3,2019,result,milano-sanremo,1.UWT,2019 Milano - Sanremo.gpx,23_March_2019__result__milano-sanremo_2019__1.UWT.csv,100,match
+27,3,2019,result,classic-brugge-de-panne,1.UWT,2019 Driedaagse Brugge-De Panne.gpx,27_March_2019__result__classic-brugge-de-panne_2019__1.UWT.csv,84,match
+29,3,2019,result,e3-harelbeke,1.UWT,2019 E3 Binckbank Classic.gpx,29_March_2019__result__e3-harelbeke_2019__1.UWT.csv,70,match
+31,3,2019,result,gent-wevelgem,1.UWT,2019 Gent-Wevelgem in Flanders Fields.gpx,31_March_2019__result__gent-wevelgem_2019__1.UWT.csv,100,match
+3,4,2019,result,dwars-door-vlaanderen,1.UWT,2019 Dwars door Vlaanderen - A travers la Flandre.gpx,03_April_2019__result__dwars-door-vlaanderen_2019__1.UWT.csv,100,match
+7,4,2019,result,ronde-van-vlaanderen,1.UWT,2019 Ronde Van Vlaanderen.gpx,07_April_2019__result__ronde-van-vlaanderen_2019__1.UWT.csv,100,match
+14,4,2019,result,paris-roubaix,1.UWT,2019 Paris-Roubaix.gpx,14_April_2019__result__paris-roubaix_2019__1.UWT.csv,100,match
+21,4,2019,result,amstel-gold-race,1.UWT,2019 Amstel Gold Race.gpx,21_April_2019__result__amstel-gold-race_2019__1.UWT.csv,100,match
+24,4,2019,result,la-fleche-wallonne,1.UWT,2019 La Fleche Wallonne.gpx,24_April_2019__result__la-fleche-wallonne_2019__1.UWT.csv,100,match
+28,4,2019,result,liege-bastogne-liege,1.UWT,2019 Liege - Bastogne - Liege.gpx,28_April_2019__result__liege-bastogne-liege_2019__1.UWT.csv,100,match
+1,5,2019,result,eschborn-frankfurt,1.UWT,2019 Eschborn-Frankfurt.gpx,01_May_2019__result__eschborn-frankfurt_2019__1.UWT.csv,100,match
+3,8,2019,result,san-sebastian,1.UWT,2019 Clasica Ciclista San Sebastian.gpx,03_August_2019__result__san-sebastian_2019__1.UWT.csv,65,match
+4,8,2019,result,ride-london-classic,1.UWT,2019 Prudential RideLondon-Surrey Classic.gpx,04_August_2019__result__ride-london-classic_2019__1.UWT.csv,68,match
+25,8,2019,result,cyclassics-hamburg,1.UWT,2019 EuroEyes Cyclassics.gpx,25_August_2019__result__cyclassics-hamburg_2019__1.UWT.csv,84,match
+1,9,2019,result,bretagne-classic,1.UWT,2019 Bretagne Classic - Ouest France.gpx,01_September_2019__result__bretagne-classic_2019__1.UWT.csv,100,match
+13,9,2019,result,gp-quebec,1.UWT,2019 Grand Prix Cycliste de Quebec.gpx,13_September_2019__result__gp-quebec_2019__1.UWT.csv,100,match
+15,9,2019,result,gp-montreal,1.UWT,2019 Grand Prix Cycliste de Montreal.gpx,15_September_2019__result__gp-montreal_2019__1.UWT.csv,100,match
+12,10,2019,result,il-lombardia,1.UWT,2019 Il Lombardia.gpx,12_October_2019__result__il-lombardia_2019__1.UWT.csv,100,match

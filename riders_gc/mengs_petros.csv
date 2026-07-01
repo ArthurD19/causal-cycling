@@ -1,0 +1,64 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-03-27,2022,african-championships,gc,Eritrea,CC,,,1,,0.0,,,340.0
+2022-03-24,2022,african-continental-championships-itt,gc,Eritrea,CC,,0,0,,0.0,,,85.0
+2022-09-25,2022,world-championship,gc,Eritrea,WC,,0,0,,0.0,,,5.0
+2023-08-01,2023,100th-anniversary-tour-of-the-republic,gc,Beykoz Belediyesi Spor Kulübü,2.2,1.0,40.0,1,,65.0,,,77.0
+2023-03-04,2023,alanya-cup,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,15.0
+2023-06-11,2023,courts-mammouth-classique-de-l-ile-maurice,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,45.0
+2023-03-17,2023,gp-de-la-ville-d-alger,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,3.0
+2023-07-30,2023,grand-prix-altinkale,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,53.0
+2023-02-04,2023,grand-prix-apollon-temple-me,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,43.0
+2023-09-08,2023,grand-prix-boukraa,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,60.0
+2023-09-10,2023,grand-prix-el-marsa,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,40.0
+2023-07-08,2023,grand-prix-erciyes-mimar-sinan-me,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,51.0
+2023-09-09,2023,grand-prix-es-semara,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,5.0
+2023-08-19,2023,grand-prix-kaisareiame,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,43.0
+2023-01-23,2023,la-tropicale-amissa-bongo,gc,Beykoz Belediyesi Spor Kulübü,2.1,,0,0,,60.0,,,63.0
+2023-02-05,2023,nc-colombia,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-eritrea,gc,Eri-tel Cycling Team,NC,,,1,,0.0,,,75.0
+2023-06-25,2023,nc-eritrea,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,30.0
+2023-06-23,2023,nc-turkey,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,10.0
+2023-06-24,2023,nc-turkey-itt,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,20.0
+2023-06-18,2023,nc-ukraine,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,20.0
+2023-06-06,2023,skoda-tour-de-maurice,gc,Beykoz Belediyesi Spor Kulübü,2.2,,0,0,,0.0,,,12.0
+2023-03-26,2023,syedra-ancient-city,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,8.0
+2023-03-07,2023,tour-d-algerie-cycliste,gc,Beykoz Belediyesi Spor Kulübü,2.2,,0,0,,3.0,,,8.0
+2023-09-28,2023,tour-of-istanbul,gc,Beykoz Belediyesi Spor Kulübü,2.2,31.0,0.0,1,,0.0,,,0.0
+2023-05-17,2023,tour-of-konya,gc,Beykoz Belediyesi Spor Kulübü,2.2,,0,0,,3.0,,,3.0
+2023-10-08,2023,tour-of-turkey,gc,Beykoz Belediyesi Spor Kulübü,2.1,81.0,0.0,1,,3.0,,,3.0
+2023-09-07,2023,tour-of-van,gc,Beykoz Belediyesi Spor Kulübü,2.2,,0,0,,20.0,,,18.0
+2023-08-25,2023,tour-of-yigido,gc,Beykoz Belediyesi Spor Kulübü,2.2,7.0,5.0,1,,48.0,,,63.0
+2024-02-25,2024,alanya-cup,gc,Beykoz Belediyesi Spor Türkiye,1.2,,,1,,0.0,,,38.0
+2024-01-27,2024,gp-antalya,gc,Beykoz Belediyesi Spor Türkiye,1.2,,,1,,0.0,,,33.0
+2024-07-13,2024,grand-prix-altinkale,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,0,0,,0.0,,,53.0
+2024-02-03,2024,grand-prix-apollon-temple-me,gc,Beykoz Belediyesi Spor Türkiye,1.2,,,1,,0.0,,,0.0
+2024-07-06,2024,grand-prix-erciyes-mimar-sinan-me,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,0,0,,0.0,,,66.0
+2024-08-25,2024,grand-prix-kaisareiame,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,,1,,0.0,,,40.0
+2024-08-24,2024,grand-prix-soganli,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,,1,,0.0,,,60.0
+2024-06-15,2024,nc-eritrea,gc,Beykoz Belediyesi Spor Türkiye,NC,,,1,,0.0,,,1.0
+2024-06-23,2024,nc-turkey,gc,Beykoz Belediyesi Spor Türkiye,NC,,0,0,,0.0,,,16.0
+2024-06-21,2024,nc-turkey-itt,gc,Beykoz Belediyesi Spor Türkiye,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,Beykoz Belediyesi Spor Türkiye,NC,,0,0,,0.0,,,0.0
+2024-03-02,2024,syedra-ancient-city,gc,Beykoz Belediyesi Spor Türkiye,1.2,,,1,,0.0,,,25.0
+2024-03-10,2024,tour-de-taiwan,gc,Beykoz Belediyesi Spor Türkiye,2.1,76.0,0.0,1,,0.0,,,-15.0
+2024-05-31,2024,tour-du-maroc,gc,Beykoz Belediyesi Spor Türkiye,2.2,28.0,0.0,1,,25.0,,,29.0
+2024-02-08,2024,tour-of-antalya,gc,Beykoz Belediyesi Spor Türkiye,2.1,94.0,0.0,1,,0.0,,,0.0
+2024-09-12,2024,tour-of-istanbul,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.1,58.0,0.0,1,,0.0,,,-15.0
+2024-05-16,2024,tour-of-konya,gc,Beykoz Belediyesi Spor Türkiye,2.2,,0,0,,0.0,,,0.0
+2024-08-30,2024,tour-of-samsun,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.2,20.0,0.0,1,,3.0,,,3.0
+2024-04-21,2024,tour-of-turkey,gc,Beykoz Belediyesi Spor Türkiye,2.Pro,69.0,0.0,1,,5.0,,,5.0
+2025-02-01,2025,gp-antalya,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,,1,,0.0,,,18.0
+2025-03-23,2025,grand-prix-apollon-temple-me,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,0,0,,0.0,,,0.0
+2025-02-08,2025,grand-prix-aspendos,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,,1,,0.0,,,5.0
+2025-08-24,2025,grand-prix-ordu,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,,1,,0.0,,,10.0
+2025-05-27,2025,international-azerbaijan-tour,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.1,,0,0,,46.0,,,49.0
+2025-06-29,2025,nc-eritrea,gc,Istanbul Büyükșehir Belediye Spor Türkiye,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-spain,gc,Istanbul Büyükșehir Belediye Spor Türkiye,NC,,0,0,,0.0,,,0.0
+2025-06-28,2025,nc-turkey,gc,Istanbul Büyükșehir Belediye Spor Türkiye,NC,,0,0,,0.0,,,10.0
+2025-06-26,2025,nc-turkey-itt,gc,Istanbul Büyükșehir Belediye Spor Türkiye,NC,,0,0,,0.0,,,15.0
+2025-04-06,2025,syedra-ancient-city,gc,Istanbul Büyükșehir Belediye Spor Türkiye,1.2,,,1,,0.0,,,5.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.Pro,73.0,0.0,1,,6.0,,,6.0
+2025-04-10,2025,tour-of-mersin,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.2,8.0,3.0,1,,3.0,,,3.0
+2025-08-27,2025,tour-of-samsun,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.2,25.0,0.0,1,,20.0,,,21.0
+2025-01-24,2025,tour-of-sharjah,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.2,25.0,0.0,1,,0.0,,,0.0
+2025-04-27,2025,tour-of-turkey,gc,Istanbul Büyükșehir Belediye Spor Türkiye,2.Pro,53.0,0.0,1,,0.0,,,0.0

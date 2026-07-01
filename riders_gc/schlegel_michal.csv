@@ -1,0 +1,444 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-04-16,2017,amstel-gold-race,gc,CCC Sprandi Polkowice,1.UWT,,0,0,,0.0,,,0.0
+2017-08-10,2017,arctic-race-of-norway,gc,CCC Sprandi Polkowice,2.HC,,0,0,,55.0,,,55.0
+2017-05-17,2017,baltyk-karkonosze-tour,gc,CCC Sprandi Polkowice,2.2,,0,0,,15.0,,,16.0
+2017-04-12,2017,brabantse-pijl,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,3.0
+2017-03-17,2017,bredene-koksijde-classic,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,15.0
+2017-09-02,2017,brussels-cycling-classic,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,11.0
+2017-02-12,2017,clasica-de-almeria,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,43.0
+2017-09-13,2017,coppa-agostoni,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,50.0
+2017-09-14,2017,coppa-bernocchi,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,3.0
+2017-06-28,2017,course-cycliste-de-solidarnosc,gc,CCC Sprandi Polkowice,2.2,,0,0,,3.0,,,14.0
+2017-06-01,2017,course-de-la-paix-u23,gc,CCC Sprandi Polkowice,2.Ncup,3.0,40.0,1,,40.0,,,40.0
+2017-08-20,2017,cyclassics-hamburg,gc,CCC Sprandi Polkowice,1.UWT,,0,0,,0.0,,,26.0
+2017-08-11,2017,czech-tour,gc,CCC Sprandi Polkowice,2.1,9.0,25.0,1,,195.0,,,200.0
+2017-07-25,2017,dookola-mazowsza,gc,CCC Sprandi Polkowice,2.2,,0,0,,18.0,,,22.0
+2017-05-01,2017,eschborn-frankfurt,gc,CCC Sprandi Polkowice,1.UWT,,0,0,,0.0,,,36.0
+2017-08-05,2017,european-championships-mu,gc,CCC Sprandi Polkowice,CC,,0,0,,0.0,,,0.0
+2017-02-25,2017,faun-ardeche-classic,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,0.0
+2017-05-05,2017,giro-d-italia,gc,CCC Sprandi Polkowice,2.UWT,45.0,16.0,1,,116.0,0.0,0.0,120.0
+2017-05-05,2017,giro-d-italia,kom,CCC Sprandi Polkowice,2.UWT,,,1,,116.0,0.0,0.0,120.0
+2017-05-05,2017,giro-d-italia,points,CCC Sprandi Polkowice,2.UWT,,,1,,116.0,0.0,0.0,120.0
+2017-09-30,2017,giro-dell-emilia,gc,CCC Sprandi Polkowice,1.HC,,,1,,0.0,,,0.0
+2017-10-01,2017,gp-bruno-beghelli,gc,CCC Sprandi Polkowice,1.HC,,,1,,0.0,,,0.0
+2017-06-18,2017,korona-kocich-gor,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,68.0
+2017-02-26,2017,la-drome-classic,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,0.0
+2017-05-01,2017,memorial-andrzeja-trochanowskiego,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,10.0
+2017-08-12,2017,memorial-henryka-lasaka,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,40.0
+2017-06-17,2017,memorial-im-j.-grundmanna-j-wizowskiego,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,43.0
+2017-09-16,2017,memorial-marco-pantani,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,0.0
+2017-05-02,2017,memorial-romana-sieminskiego,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,30.0
+2017-10-03,2017,munsterland-giro,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,25.0
+2017-06-25,2017,nc-austria2,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,0.0
+2017-06-22,2017,nc-belarus-itt,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-bulgaria,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,70.0
+2017-06-25,2017,nc-czech-republic2,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-germany,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-italy,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-poland,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,110.0
+2017-06-21,2017,nc-poland-itt,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,29.0
+2017-06-25,2017,nc-slovenia,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,30.0
+2017-03-15,2017,nokere-koerse,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,70.0
+2017-06-07,2017,okolo-slovenska,gc,CCC Sprandi Polkowice,2.1,,0,0,,195.0,,,217.0
+2017-08-25,2017,pro-otztaler-5500,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,43.0
+2017-08-13,2017,puchar-uzdrowisk-karpackich,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,43.0
+2017-03-05,2017,rhodes-gp,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,40.0
+2017-07-30,2017,ride-london-classic,gc,CCC Sprandi Polkowice,1.UWT,,0,0,,0.0,,,37.0
+2017-03-11,2017,ronde-van-drenthe,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,23.0
+2017-02-15,2017,ruta-del-sol,gc,CCC Sprandi Polkowice,2.HC,23.0,5.0,1,,8.0,,,8.0
+2017-07-05,2017,sibiu-cycling-tour,gc,CCC Sprandi Polkowice,2.1,,0,0,,38.0,,,46.0
+2017-05-05,2017,szlakiem-grodow-piastowskich,gc,CCC Sprandi Polkowice,2.2,,0,0,,30.0,,,41.0
+2017-06-01,2017,szlakiem-walk-majora-hubala,gc,CCC Sprandi Polkowice,2.1,,0,0,,191.0,,,205.0
+2017-07-29,2017,tour-de-pologne,gc,CCC Sprandi Polkowice,2.UWT,33.0,8.0,1,,16.0,,,16.0
+2017-06-10,2017,tour-de-suisse,gc,CCC Sprandi Polkowice,2.UWT,,0,0,,25.0,,,25.0
+2017-05-24,2017,tour-des-fjords,gc,CCC Sprandi Polkowice,2.1,,0,0,,5.0,,,5.0
+2017-04-08,2017,tour-des-flandres-espoirs,gc,CCC Sprandi Polkowice,1.Ncup,,0,0,,0.0,,,0.0
+2017-07-02,2017,tour-of-austria,gc,CCC Sprandi Polkowice,2.1,38.0,0.0,1,,60.0,,,60.0
+2017-09-03,2017,tour-of-britain,gc,CCC Sprandi Polkowice,2.HC,,0,0,,8.0,,,8.0
+2017-04-18,2017,tour-of-croatia,gc,CCC Sprandi Polkowice,2.1,7.0,35.0,1,,170.0,,,173.0
+2017-06-09,2017,tour-of-malopolska,gc,CCC Sprandi Polkowice,2.2,23.0,0.0,1,,55.0,,,72.0
+2017-05-17,2017,tour-of-norway,gc,CCC Sprandi Polkowice,2.HC,,0,0,,8.0,,,8.0
+2017-02-14,2017,tour-of-oman,gc,CCC Sprandi Polkowice,2.HC,,0,0,,8.0,,,8.0
+2017-03-10,2017,tour-of-rhodes,gc,CCC Sprandi Polkowice,2.2,,0,0,,0.0,,,3.0
+2017-10-10,2017,tour-of-turkey,gc,CCC Sprandi Polkowice,2.UWT,,0,0,,52.0,,,52.0
+2017-09-17,2017,visegrad-4-bicycle-race-gp-polski-via-odra,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,20.0
+2017-03-20,2017,volta-a-catalunya,gc,CCC Sprandi Polkowice,2.UWT,,0,0,,24.0,,,24.0
+2017-02-22,2017,volta-ao-alentejo,gc,CCC Sprandi Polkowice,2.1,,,1,,30.0,,,30.0
+2017-04-01,2017,volta-nxt-classic,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,13.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,CCC Sprandi Polkowice,2.1,,0,0,,0.0,,,0.0
+2017-02-11,2017,vuelta-ciclista-a-la-region-de-murcia,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,18.0
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,5.0
+2018-09-02,2018,antwerp-port-epic,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,5.0
+2018-05-16,2018,baltyk-karkonosze-tour,gc,CCC Sprandi Polkowice,2.2,,0,0,,63.0,,,80.0
+2018-04-11,2018,brabantse-pijl,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,91.0
+2018-03-16,2018,bredene-koksijde-classic,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,43.0
+2018-09-01,2018,brussels-cycling-classic,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,40.0
+2018-04-28,2018,carpathia-couriers-paths,gc,CCC Sprandi Polkowice,2.2U,,0,0,,0.0,,,0.0
+2018-02-11,2018,clasica-de-almeria,gc,CCC Sprandi Polkowice,1.HC,,,1,,0.0,,,80.0
+2018-03-21,2018,classic-brugge-de-panne,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,5.0
+2018-02-06,2018,colombia-21,gc,CCC Sprandi Polkowice,2.1,,0,0,,0.0,,,0.0
+2018-09-15,2018,coppa-agostoni,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,0.0
+2018-09-16,2018,coppa-bernocchi,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,20.0
+2018-08-19,2018,cyclassics-hamburg,gc,CCC Sprandi Polkowice,1.UWT,,0,0,,0.0,,,48.0
+2018-08-10,2018,czech-tour,gc,CCC Sprandi Polkowice,2.1,,0,0,,63.0,,,69.0
+2018-07-25,2018,dookola-mazowsza,gc,CCC Sprandi Polkowice,2.2,,0,0,,58.0,,,80.0
+2018-05-01,2018,eschborn-frankfurt,gc,CCC Sprandi Polkowice,1.UWT,,0,0,,0.0,,,80.0
+2018-04-22,2018,giro-dell-appennino,gc,CCC Sprandi Polkowice,1.1,,,1,,0.0,,,88.0
+2018-03-18,2018,gp-de-denain,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,0.0
+2018-03-04,2018,gp-industria-artigianato,gc,CCC Sprandi Polkowice,1.HC,,,1,,0.0,,,5.0
+2018-08-21,2018,gp-stad-zottegem,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,75.0
+2018-02-18,2018,grand-prix-alanya,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,15.0
+2018-08-24,2018,great-war-remembrance-race,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,85.0
+2018-06-17,2018,international-race-grand-prix-doliny-baryczy-milic,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,65.0
+2018-05-01,2018,memorial-andrzeja-trochanowskiego,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,25.0
+2018-06-16,2018,memorial-im-j.-grundmanna-j-wizowskiego,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,63.0
+2018-09-22,2018,memorial-marco-pantani,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,0.0
+2018-05-02,2018,memorial-romana-sieminskiego,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,55.0
+2018-10-03,2018,munsterland-giro,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,50.0
+2018-06-24,2018,nc-czech-republic2,gc,CCC Sprandi Polkowice,NC,,,1,,0.0,,,1.0
+2018-07-01,2018,nc-germany,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,30.0
+2018-06-29,2018,nc-germany-itt,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-poland,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,76.0
+2018-06-22,2018,nc-poland-itt,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,9.0
+2018-06-24,2018,nc-portugal2,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-slovenia,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,50.0
+2018-06-08,2018,nc-slovenia-itt,gc,CCC Sprandi Polkowice,NC,,0,0,,0.0,,,30.0
+2018-03-14,2018,nokere-koerse,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,35.0
+2018-09-12,2018,okolo-slovenska,gc,CCC Sprandi Polkowice,2.1,,0,0,,110.0,,,110.0
+2018-07-29,2018,ride-london-classic,gc,CCC Sprandi Polkowice,1.UWT,,,1,,0.0,,,82.0
+2018-03-11,2018,ronde-van-drenthe,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,208.0
+2018-06-10,2018,rund-um-koln,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,73.0
+2018-02-14,2018,ruta-del-sol,gc,CCC Sprandi Polkowice,2.HC,,0,0,,3.0,,,3.0
+2018-08-26,2018,schaal-schels,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,25.0
+2018-04-04,2018,scheldeprijs,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,0.0
+2018-07-05,2018,sibiu-cycling-tour,gc,CCC Sprandi Polkowice,2.1,,0,0,,60.0,,,60.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,CCC Sprandi Polkowice,2.2,,0,0,,74.0,,,89.0
+2018-06-01,2018,szlakiem-walk-majora-hubala,gc,CCC Sprandi Polkowice,2.1,,0,0,,233.0,,,244.0
+2018-08-14,2018,tour-de-hongrie,gc,CCC Sprandi Polkowice,2.1,,0,0,,158.0,,,167.0
+2018-03-18,2018,tour-de-langkawi,gc,CCC Sprandi Polkowice,2.HC,52.0,0.0,1,,180.0,,,180.0
+2018-05-30,2018,tour-de-luxembourg,gc,CCC Sprandi Polkowice,2.HC,,0,0,,166.0,,,171.0
+2018-08-04,2018,tour-de-pologne,gc,CCC Sprandi Polkowice,2.UWT,,,1,,34.0,,,34.0
+2018-05-22,2018,tour-des-fjords,gc,CCC Sprandi Polkowice,2.HC,36.0,3.0,1,,28.0,,,28.0
+2018-02-22,2018,tour-of-antalya,gc,CCC Sprandi Polkowice,2.2,,0,0,,0.0,,,1.0
+2018-07-07,2018,tour-of-austria,gc,CCC Sprandi Polkowice,2.1,36.0,0.0,1,,8.0,,,13.0
+2018-04-17,2018,tour-of-croatia,gc,CCC Sprandi Polkowice,2.HC,,0,0,,8.0,,,23.0
+2018-06-08,2018,tour-of-malopolska,gc,CCC Sprandi Polkowice,2.2,,0,0,,70.0,,,83.0
+2018-05-16,2018,tour-of-norway,gc,CCC Sprandi Polkowice,2.HC,,,1,,50.0,,,60.0
+2018-06-13,2018,tour-of-slovenia,gc,CCC Sprandi Polkowice,2.1,15.0,5.0,1,,5.0,,,10.0
+2018-04-16,2018,tour-of-the-alps,gc,CCC Sprandi Polkowice,2.HC,15.0,10.0,1,,10.0,,,10.0
+2018-10-09,2018,tour-of-turkey,gc,CCC Sprandi Polkowice,2.UWT,,0,0,,22.0,,,22.0
+2018-02-11,2018,trofeo-laigueglia,gc,CCC Sprandi Polkowice,1.HC,,0,0,,0.0,,,6.0
+2018-09-23,2018,trofeo-matteotti,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,33.0
+2018-08-22,2018,veenendaal-veenendaal,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,25.0
+2018-05-12,2018,visegrad-4-bicycle-race-gp-hungary,gc,CCC Sprandi Polkowice,1.2,,,1,,0.0,,,95.0
+2018-04-22,2018,visegrad-4-bicycle-race-gp-polski-via-odra,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,3.0
+2018-03-31,2018,visegrad-4-bicycle-race-gp-slovakia,gc,CCC Sprandi Polkowice,1.2,,0,0,,0.0,,,60.0
+2018-03-31,2018,volta-nxt-classic,gc,CCC Sprandi Polkowice,1.1,,0,0,,0.0,,,133.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,CCC Sprandi Polkowice,2.1,,,1,,20.0,,,20.0
+2018-02-10,2018,vuelta-ciclista-a-la-region-de-murcia,gc,CCC Sprandi Polkowice,1.1,,,1,,0.0,,,3.0
+2019-09-01,2019,1st-ljubljana-zagreb,gc,Elkov - Author Cycling Team,1.2,,,1,,0.0,,,20.0
+2019-04-12,2019,circuit-des-ardennes,gc,Elkov - Author Cycling Team,2.2,68.0,0.0,1,,0.0,,,1.0
+2019-08-16,2019,czech-tour,gc,Elkov - Author Cycling Team,2.1,,0,0,,178.0,,,181.0
+2019-07-24,2019,dookola-mazowsza,gc,Elkov - Author Cycling Team,2.2,18.0,0.0,1,,35.0,,,36.0
+2019-06-23,2019,european-games,gc,Czech Republic,JC,,0,0,,0.0,,,73.0
+2019-06-25,2019,european-games-itt,gc,Czech Republic,JC,,0,0,,0.0,,,50.0
+2019-05-29,2019,fleche-du-sud,gc,Elkov - Author Cycling Team,2.2,50.0,0.0,1,,20.0,,,23.0
+2019-04-07,2019,gp-adria-mobil,gc,Elkov - Author Cycling Team,1.2,,,1,,0.0,,,35.0
+2019-02-24,2019,gp-izola-butan-plin,gc,Elkov - Author Cycling Team,1.2,,,1,,0.0,,,0.0
+2019-03-14,2019,istrian-spring-tour,gc,Elkov - Author Cycling Team,2.2,6.0,10.0,1,,10.0,,,10.0
+2019-05-01,2019,memorial-andrzeja-trochanowskiego,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,68.0
+2019-05-02,2019,memorial-romana-sieminskiego,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,75.0
+2019-06-27,2019,nc-czech-republic-itt,gc,Elkov - Author Cycling Team,NC,,,1,,0.0,,,76.0
+2019-06-30,2019,nc-czech-republic2,gc,Elkov - Author Cycling Team,NC,,,1,,0.0,,,177.0
+2019-05-24,2019,paris-arras-tour,gc,Elkov - Author Cycling Team,2.2,34.0,0.0,1,,3.0,,,4.0
+2019-03-09,2019,porec-trophy,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-05-09,2019,rhone-alpes-isere-tour,gc,Elkov - Author Cycling Team,2.2,19.0,0.0,1,,20.0,,,23.0
+2019-07-03,2019,sibiu-cycling-tour,gc,Elkov - Author Cycling Team,2.1,6.0,40.0,1,,46.0,,,52.0
+2019-08-01,2019,tour-alsace,gc,Elkov - Author Cycling Team,2.2,2.0,30.0,1,,33.0,,,43.0
+2019-06-11,2019,tour-de-hongrie,gc,Elkov - Author Cycling Team,2.1,,0,0,,43.0,,,57.0
+2019-03-25,2019,tour-de-normadie,gc,Elkov - Author Cycling Team,2.2,34.0,0.0,1,,0.0,,,2.0
+2019-04-17,2019,tour-du-loir-et-cher,gc,Elkov - Author Cycling Team,2.2,16.0,0.0,1,,40.0,,,44.0
+2019-06-07,2019,tour-of-bihor-bellotto,gc,Elkov - Author Cycling Team,2.1,8.0,30.0,1,,118.0,,,118.0
+2019-03-06,2019,trofej-umag,gc,Elkov - Author Cycling Team,1.2,,,1,,0.0,,,40.0
+2019-09-11,2019,turul-romaniei,gc,Elkov - Author Cycling Team,2.1,52.0,0.0,1,,128.0,,,133.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Czech Republic,CC,,,1,,0.0,,,0.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Czech Republic,CC,,,1,,0.0,,,0.0
+2019-05-11,2019,visegrad-4-bicycle-race-gp-hungary,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,3.0
+2019-04-28,2019,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,40.0
+2019-05-12,2019,visegrad-4-bicycle-race-gp-slovakia,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,100.0
+2019-09-29,2019,world-championship,gc,Czech Republic,WC,,0,0,,0.0,,,70.0
+2019-09-25,2019,world-championship-itt,gc,Czech Republic,WC,,0,0,,0.0,,,0.0
+2020-08-07,2020,czech-tour,gc,Elkov - Kasper,2.1,54.0,0.0,1,,110.0,,,113.0
+2020-07-16,2020,dookola-mazowsza,gc,Elkov - Kasper,2.2,32.0,0.0,1,,40.0,,,47.0
+2020-07-26,2020,gp-kranj,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,15.0
+2020-08-20,2020,nc-czech-republic-itt,gc,Elkov - Kasper,NC,,,1,,0.0,,,72.0
+2020-08-22,2020,nc-czech-republic2,gc,Elkov - Kasper,NC,,,1,,0.0,,,213.0
+2020-03-08,2020,porec-trophy,gc,Elkov - Kasper,1.2,,,1,,0.0,,,0.0
+2020-07-23,2020,sibiu-cycling-tour,gc,Elkov - Kasper,2.1,16.0,3.0,1,,11.0,,,11.0
+2020-08-12,2020,tour-bitwa-warszawska-1920,gc,Elkov - Kasper,2.2,,0,0,,0.0,,,1.0
+2020-08-29,2020,tour-de-hongrie,gc,Elkov - Kasper,2.1,22.0,3.0,1,,8.0,,,11.0
+2020-03-04,2020,trofej-umag,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,5.0
+2020-10-10,2020,visegrad-4-bicycle-race-gp-slovakia,gc,Elkov - Kasper,1.2,,,1,,0.0,,,35.0
+2021-10-07,2021,circuit-des-ardennes,gc,Elkov - Kasper,2.2,,0,0,,46.0,,,46.0
+2021-06-23,2021,course-cycliste-de-solidarnosc,gc,Elkov - Kasper,2.2,,0,0,,70.0,,,77.0
+2021-08-05,2021,czech-tour,gc,Elkov - Kasper,2.1,,0,0,,25.0,,,28.0
+2021-07-14,2021,dookola-mazowsza,gc,Elkov - Kasper,2.2,,0,0,,25.0,,,29.0
+2021-03-28,2021,gp-adria-mobil,gc,Elkov - Kasper,1.2,,,1,,0.0,,,25.0
+2021-07-17,2021,gp-czech-republic,gc,Czech Republic,1.2,,0,0,,0.0,,,0.0
+2021-07-17,2021,gp-czech-republic,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,55.0
+2021-03-21,2021,gp-izola-butan-plin,gc,Elkov - Kasper,1.2,,,1,,0.0,,,18.0
+2021-05-30,2021,gp-slovenia,gc,Elkov - Kasper,1.2,,,1,,0.0,,,28.0
+2021-03-11,2021,istrian-spring-tour,gc,Elkov - Kasper,2.2,45.0,0.0,1,,15.0,,,15.0
+2021-08-15,2021,memorial-henryka-lasaka,gc,Elkov - Kasper,1.2,,,1,,0.0,,,68.0
+2021-06-17,2021,nc-czech-republic-itt,gc,Elkov - Kasper,NC,,,1,,0.0,,,78.0
+2021-06-20,2021,nc-czech-republic2,gc,Elkov - Kasper,NC,,,1,,0.0,,,176.0
+2021-09-10,2021,okolo-jiznich-cech,gc,Elkov - Kasper,2.2,38.0,0.0,1,,0.0,,,0.0
+2021-09-15,2021,okolo-slovenska,gc,Elkov - Kasper,2.1,,,1,,10.0,,,10.0
+2021-07-24,2021,olympic-games,gc,Czech Republic,Olympics,,,1,,0.0,,,10.0
+2021-07-28,2021,olympic-games-itt,gc,Czech Republic,Olympics,,0,0,,0.0,,,0.0
+2021-09-03,2021,paris-arras-tour,gc,Elkov - Kasper,2.2,,0,0,,0.0,,,0.0
+2021-03-07,2021,porec-trophy,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,0.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Elkov - Kasper,2.2,12.0,0.0,1,,28.0,,,34.0
+2021-10-24,2021,ronde-van-drenthe,gc,Elkov - Kasper,1.1,,0,0,,0.0,,,3.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Elkov - Kasper,2.1,3.0,70.0,1,,113.0,,,113.0
+2021-07-22,2021,tour-alsace,gc,Elkov - Kasper,2.2,,0,0,,0.0,,,0.0
+2021-06-03,2021,tour-of-malopolska,gc,Elkov - Kasper,2.2,1.0,40.0,1,,45.0,,,53.0
+2021-03-03,2021,trofej-umag,gc,Elkov - Kasper,1.2,,,1,,0.0,,,0.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Czech Republic,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Czech Republic,CC,,0,0,,0.0,,,5.0
+2021-07-10,2021,visegrad-4-bicycle-race-gp-hungary,gc,Elkov - Kasper,1.2,,,1,,0.0,,,60.0
+2021-07-18,2021,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,40.0
+2021-07-11,2021,visegrad-4-bicycle-race-gp-slovakia,gc,Elkov - Kasper,1.2,,,1,,0.0,,,45.0
+2021-09-26,2021,world-championship,gc,Czech Republic,WC,,0,0,,0.0,,,185.0
+2021-09-19,2021,world-championship-itt,gc,Czech Republic,WC,,0,0,,0.0,,,0.0
+2022-05-22,2022,boucles-de-l-aulne,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,6.0,,,16.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2022-06-14,2022,cic-mont-ventoux,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2022-07-31,2022,circuito-de-getxo,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,23.0
+2022-02-13,2022,clasica-de-almeria,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,14.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,11.0
+2022-09-29,2022,coppa-agostoni,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2022-10-03,2022,coppa-bernocchi,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,13.0
+2022-01-28,2022,deia-trophy,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2022-10-01,2022,giro-dell-emilia,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,0.0
+2022-01-30,2022,gp-d-ouverture,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,15.0
+2022-05-14,2022,gp-de-plumelec,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,40.0
+2022-01-23,2022,gp-de-valence,gc,Caja Rural - Seguros RGA,1.2,,0,0,,0.0,,,0.0
+2022-06-30,2022,gp-int-torres-vedras,gc,Caja Rural - Seguros RGA,2.2,50.0,0.0,1,,43.0,,,53.0
+2022-02-24,2022,gran-camino,gc,Caja Rural - Seguros RGA,2.1,,0,0,,8.0,,,8.0
+2022-10-06,2022,gran-piemonte,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,0.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,28.0
+2022-10-08,2022,il-lombardia,gc,Caja Rural - Seguros RGA,1.UWT,,,1,,0.0,,,0.0
+2022-04-04,2022,itzulia-basque-country,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,32.0,,,32.0
+2022-03-27,2022,la-roue-tourangelle,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,6.0
+2022-06-16,2022,la-route-d-occitanie,gc,Caja Rural - Seguros RGA,2.1,,0,0,,3.0,,,3.0
+2022-02-13,2022,nc-colombia,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-czech-republic2,gc,Caja Rural - Seguros RGA,NC,,,1,,0.0,,,1.0
+2022-06-26,2022,nc-spain,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,9.0
+2022-06-24,2022,nc-spain-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2022-06-11,2022,nc-venezuela,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,100.0
+2022-06-09,2022,nc-venezuela-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,50.0
+2022-06-26,2022,ncgreat-britain,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2022-09-13,2022,okolo-slovenska,gc,Caja Rural - Seguros RGA,2.1,26.0,0.0,1,,58.0,,,58.0
+2022-07-25,2022,prueba-villafranca,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,38.0
+2022-06-02,2022,ronde-de-l-oise,gc,Caja Rural - Seguros RGA,2.2,,0,0,,40.0,,,53.0
+2022-02-16,2022,ruta-del-sol,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,30.0,,,30.0
+2022-07-30,2022,san-sebastian,gc,Caja Rural - Seguros RGA,1.UWT,,0,0,,0.0,,,50.0
+2022-05-11,2022,tour-de-hongrie,gc,Caja Rural - Seguros RGA,2.1,,0,0,,8.0,,,8.0
+2022-09-13,2022,tour-de-luxembourg,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,8.0,,,8.0
+2022-07-30,2022,tour-de-pologne,gc,Caja Rural - Seguros RGA,2.UWT,62.0,0.0,1,,24.0,,,24.0
+2022-05-21,2022,tour-du-finistere,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2022-08-16,2022,tour-du-limousin,gc,Caja Rural - Seguros RGA,2.1,82.0,0.0,1,,6.0,,,6.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,Caja Rural - Seguros RGA,2.1,,0,0,,3.0,,,3.0
+2022-09-04,2022,tour-of-britain,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,36.0,,,36.0
+2022-09-27,2022,tour-of-croatia,gc,Caja Rural - Seguros RGA,2.1,16.0,3.0,1,,46.0,,,46.0
+2022-04-27,2022,tour-of-hellas,gc,Caja Rural - Seguros RGA,2.1,35.0,0.0,1,,18.0,,,26.0
+2022-05-24,2022,tour-of-norway,gc,Caja Rural - Seguros RGA,2.Pro,55.0,0.0,1,,25.0,,,30.0
+2022-06-15,2022,tour-of-slovenia,gc,Caja Rural - Seguros RGA,2.Pro,47.0,0.0,1,,115.0,,,120.0
+2022-04-18,2022,tour-of-the-alps,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,5.0,,,10.0
+2022-04-10,2022,tour-of-turkey,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,13.0,,,13.0
+2022-10-04,2022,tre-valli-varesine,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,0.0
+2022-05-15,2022,tro-bro-leon,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,0.0
+2022-01-30,2022,trofeo-palma,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,0.0
+2022-03-13,2022,trofeu-da-arrabida,gc,Caja Rural - Seguros RGA,1.2,,0,0,,0.0,,,40.0
+2022-09-06,2022,turul-romaniei,gc,Caja Rural - Seguros RGA,2.1,20.0,3.0,1,,36.0,,,36.0
+2022-03-21,2022,volta-a-catalunya,gc,Caja Rural - Seguros RGA,2.UWT,88.0,0.0,1,,8.0,,,16.0
+2022-08-04,2022,volta-a-portugal,gc,Caja Rural - Seguros RGA,2.1,,0,0,,28.0,,,31.0
+2022-03-16,2022,volta-ao-alentejo,gc,Caja Rural - Seguros RGA,2.2,,0,0,,43.0,,,64.0
+2022-02-16,2022,volta-ao-algarve,gc,Caja Rural - Seguros RGA,2.Pro,,,1,,8.0,,,8.0
+2022-08-02,2022,vuelta-a-burgos,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,23.0,,,23.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Caja Rural - Seguros RGA,2.1,,0,0,,76.0,,,79.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,8.0,,,8.0
+2022-04-29,2022,vuelta-asturias,gc,Caja Rural - Seguros RGA,2.1,,0,0,,15.0,,,15.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,45.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,73.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Caja Rural - Seguros RGA,2.Pro,58.0,0.0,1,,25.0,,,25.0
+2023-06-13,2023,cic-mont-ventoux,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,8.0
+2023-07-30,2023,circuito-de-getxo,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,45.0
+2023-02-12,2023,clasica-de-almeria,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,3.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2023-01-28,2023,deia-trophy,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,8.0
+2023-02-12,2023,figueira-champions-classic,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,6.0
+2023-01-29,2023,gp-d-ouverture,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,0.0
+2023-05-06,2023,gp-de-plumelec,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,115.0
+2023-01-22,2023,gp-de-valence,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2023-07-13,2023,gp-int-torres-vedras,gc,Caja Rural - Seguros RGA,2.2,4.0,20.0,1,,20.0,,,30.0
+2023-05-26,2023,gp-internacional-beiras-e-serra-da-estrela,gc,Caja Rural - Seguros RGA,2.2,,0,0,,35.0,,,56.0
+2023-02-23,2023,gran-camino,gc,Caja Rural - Seguros RGA,2.1,77.0,0.0,1,,3.0,,,3.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,13.0
+2023-04-03,2023,itzulia-basque-country,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,0.0,,,15.0
+2023-06-15,2023,la-route-d-occitanie,gc,Caja Rural - Seguros RGA,2.1,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-czech-republic2,gc,Caja Rural - Seguros RGA,NC,,,1,,0.0,,,83.0
+2023-02-12,2023,nc-ecuador,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,75.0
+2023-02-11,2023,nc-ecuador-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-ethiopia,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-portugal2,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,12.0
+2023-06-23,2023,nc-spain-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2023-07-16,2023,nc-venezuela,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,50.0
+2023-07-14,2023,nc-venezuela-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,25.0
+2023-09-13,2023,okolo-slovenska,gc,Caja Rural - Seguros RGA,2.1,,0,0,,63.0,,,68.0
+2023-07-25,2023,prueba-villafranca,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,35.0
+2023-06-01,2023,ronde-de-l-oise,gc,Caja Rural - Seguros RGA,2.2,31.0,0.0,1,,0.0,,,0.0
+2023-02-15,2023,ruta-del-sol,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,10.0,,,10.0
+2023-07-29,2023,san-sebastian,gc,Caja Rural - Seguros RGA,1.UWT,,,1,,0.0,,,18.0
+2023-05-10,2023,tour-de-hongrie,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,45.0,,,45.0
+2023-09-23,2023,tour-de-langkawi,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,50.0,,,93.0
+2023-05-13,2023,tour-du-finistere,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,6.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,Caja Rural - Seguros RGA,2.1,,0,0,,0.0,,,0.0
+2023-09-26,2023,tour-of-croatia,gc,Caja Rural - Seguros RGA,2.1,,0,0,,128.0,,,144.0
+2023-05-02,2023,tour-of-hellas,gc,Caja Rural - Seguros RGA,2.1,44.0,0.0,1,,133.0,,,160.0
+2023-05-26,2023,tour-of-norway,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,3.0,,,3.0
+2023-06-14,2023,tour-of-slovenia,gc,Caja Rural - Seguros RGA,2.Pro,23.0,5.0,1,,21.0,,,32.0
+2023-04-17,2023,tour-of-the-alps,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,0.0,,,0.0
+2023-05-07,2023,tro-bro-leon,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,0.0
+2023-01-25,2023,trofeo-calvia,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2023-01-29,2023,trofeo-palma,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,30.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,40.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2023-03-19,2023,trofeu-da-arrabida,gc,Caja Rural - Seguros RGA,1.2,,,1,,0.0,,,50.0
+2023-03-20,2023,volta-a-catalunya,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,0.0,,,-25.0
+2023-08-09,2023,volta-a-portugal,gc,Caja Rural - Seguros RGA,2.1,,0,0,,13.0,,,38.0
+2023-03-22,2023,volta-ao-alentejo,gc,Caja Rural - Seguros RGA,2.2,43.0,0.0,1,,43.0,,,53.0
+2023-02-15,2023,volta-ao-algarve,gc,Caja Rural - Seguros RGA,2.Pro,83.0,0.0,1,,3.0,,,3.0
+2023-08-15,2023,vuelta-a-burgos,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,8.0,,,11.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Caja Rural - Seguros RGA,2.1,,0,0,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,Caja Rural - Seguros RGA,2.UWT,114.0,0.0,1,,20.0,0.0,0.0,532.0
+2023-08-27,2023,vuelta-a-espana,kom,Caja Rural - Seguros RGA,2.UWT,,,1,,20.0,0.0,0.0,532.0
+2023-08-27,2023,vuelta-a-espana,points,Caja Rural - Seguros RGA,2.UWT,,,1,,20.0,0.0,0.0,532.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,0.0,,,0.0
+2023-04-28,2023,vuelta-asturias,gc,Caja Rural - Seguros RGA,2.1,,0,0,,6.0,,,6.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2024-05-19,2024,antwerp-port-epic,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,5.0
+2024-05-12,2024,boucles-de-l-aulne,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,38.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,11.0,,,26.0
+2024-04-10,2024,brabantse-pijl,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,125.0
+2024-06-02,2024,brussels-cycling-classic,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,0.0
+2024-05-29,2024,circuit-franco-belge,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,75.0
+2024-08-11,2024,circuito-de-getxo,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,218.0
+2024-02-11,2024,clasica-de-almeria,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,18.0
+2024-02-12,2024,clasica-jaen-paraiso-interior,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,6.0
+2024-07-15,2024,clasica-terres-de-l-ebre,gc,Caja Rural - Seguros RGA,1.2,,,1,,0.0,,,43.0
+2024-04-12,2024,classic-grand-besancon-doubs,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,40.0
+2024-01-26,2024,deia-trophy,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2024-08-22,2024,deutschland-tour,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,46.0,,,46.0
+2024-02-10,2024,figueira-champions-classic,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,45.0
+2024-09-11,2024,giro-di-toscana,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2024-09-22,2024,gooikse-pijl,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,63.0
+2024-01-28,2024,gp-d-ouverture,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,33.0
+2024-05-04,2024,gp-de-plumelec,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,78.0
+2024-01-20,2024,gp-de-valence,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,18.0
+2024-09-18,2024,gp-de-wallonie,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,38.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,6.0
+2024-09-08,2024,gp-industria-artigianato,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,213.0
+2024-07-11,2024,gp-int-torres-vedras,gc,Caja Rural - Seguros RGA,2.2,,0,0,,60.0,,,79.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Caja Rural - Seguros RGA,2.2,,0,0,,0.0,,,7.0
+2024-02-22,2024,gran-camino,gc,Caja Rural - Seguros RGA,2.1,,0,0,,65.0,,,68.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,35.0
+2024-03-02,2024,grand-prix-criquielion,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,8.0
+2024-03-03,2024,grote-prijs-jean-pierre-monsere,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,0.0
+2024-06-01,2024,heist-op-den-berg,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2024-04-01,2024,itzulia-basque-country,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,16.0,,,56.0
+2024-09-14,2024,memorial-marco-pantani,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-czech-republic2,gc,Caja Rural - Seguros RGA,NC,,,1,,0.0,,,0.0
+2024-02-03,2024,nc-ecuador,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,60.0
+2024-02-01,2024,nc-ecuador-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,30.0
+2024-06-30,2024,nc-ethiopia,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2024-06-26,2024,nc-ethiopia-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-spain,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,1.0
+2024-06-21,2024,nc-spain-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2024-01-21,2024,nc-uruguay,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,3.0
+2024-01-20,2024,nc-uruguay-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,20.0
+2024-06-24,2024,nc-venezuela,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,30.0
+2024-06-21,2024,nc-venezuela-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,50.0
+2024-06-27,2024,okolo-slovenska,gc,Caja Rural - Seguros RGA,2.1,23.0,3.0,1,,11.0,,,11.0
+2024-08-03,2024,olympic-games,gc,Czech Republic,Olympics,,0,0,,0.0,,,75.0
+2024-07-27,2024,olympic-games-itt,gc,Czech Republic,Olympics,,0,0,,0.0,,,55.0
+2024-07-25,2024,prueba-villafranca,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,105.0
+2024-05-20,2024,ronde-van-limburg,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,8.0
+2024-03-29,2024,route-adelie-de-vitre,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2024-05-26,2024,rund-um-koln,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,6.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,66.0
+2024-02-16,2024,ruta-del-sol,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,0.0,,,5.0
+2024-08-10,2024,san-sebastian,gc,Caja Rural - Seguros RGA,1.UWT,,0,0,,0.0,,,44.0
+2024-04-14,2024,tour-du-doubs,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,10.0
+2024-05-11,2024,tour-du-finistere,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,81.0
+2024-04-13,2024,tour-du-jura-cycliste,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,36.0
+2024-08-13,2024,tour-du-limousin,gc,Caja Rural - Seguros RGA,2.1,,0,0,,140.0,,,173.0
+2024-08-20,2024,tour-du-poitou-charentes-et-de-la-vienne,gc,Caja Rural - Seguros RGA,2.1,23.0,3.0,1,,6.0,,,6.0
+2024-10-01,2024,tour-of-croatia,gc,Caja Rural - Seguros RGA,2.1,,0,0,,5.0,,,5.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,475.0,,,528.0
+2024-06-12,2024,tour-of-slovenia,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,18.0,,,28.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,98.0,,,116.0
+2024-04-21,2024,tour-of-turkey,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,8.0,,,21.0
+2024-05-05,2024,tro-bro-leon,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2024-02-28,2024,trofeo-laigueglia,gc,Caja Rural - Seguros RGA,1.Pro,,,1,,0.0,,,10.0
+2024-09-15,2024,trofeo-matteotti,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,145.0
+2024-01-28,2024,trofeo-palma,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,38.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,6.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,8.0
+2024-03-17,2024,trofeu-da-arrabida,gc,Caja Rural - Seguros RGA,1.2,,,1,,0.0,,,65.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Czech Republic,CC,,0,0,,0.0,,,85.0
+2024-05-18,2024,veenendaal-veenendaal,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,35.0
+2024-03-18,2024,volta-a-catalunya,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,8.0,,,42.0
+2024-07-24,2024,volta-a-portugal,gc,Caja Rural - Seguros RGA,2.1,29.0,0.0,1,,15.0,,,15.0
+2024-03-20,2024,volta-ao-alentejo,gc,Caja Rural - Seguros RGA,2.2,48.0,0.0,1,,55.0,,,92.0
+2024-02-14,2024,volta-ao-algarve,gc,Caja Rural - Seguros RGA,2.Pro,96.0,0.0,1,,5.0,,,5.0
+2024-08-05,2024,vuelta-a-burgos,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,73.0,,,83.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,55.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,5.0,,,10.0
+2024-04-26,2024,vuelta-asturias,gc,Caja Rural - Seguros RGA,2.1,,0,0,,40.0,,,40.0
+2024-02-10,2024,vuelta-ciclista-a-la-region-de-murcia,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2024-09-29,2024,world-championship,gc,Czech Republic,WC,,,1,,0.0,,,45.0
+2024-09-22,2024,world-championship-itt,gc,Czech Republic,WC,,0,0,,0.0,,,0.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,0.0
+2025-04-09,2025,circuit-des-ardennes,gc,Elkov - Kasper,2.2,,0,0,,0.0,,,0.0
+2025-08-14,2025,czech-tour,gc,Elkov - Kasper,2.1,30.0,0.0,1,,3.0,,,3.0
+2025-03-27,2025,gp-brda-collio,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,0.0
+2025-05-03,2025,gp-herning,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,0.0
+2025-03-23,2025,gp-izola-butan-plin,gc,Elkov - Kasper,1.2,,,1,,0.0,,,0.0
+2025-05-01,2025,gp-vorarlberg,gc,Elkov - Kasper,1.2,,,1,,0.0,,,0.0
+2025-03-13,2025,istrian-spring-tour,gc,Elkov - Kasper,2.2,88.0,0.0,1,,0.0,,,0.0
+2025-08-02,2025,kreiz-breizh-elites,gc,Elkov - Kasper,2.2,66.0,0.0,1,,0.0,,,0.0
+2025-06-26,2025,nc-czech-republic-itt,gc,Elkov - Kasper,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-czech-republic2,gc,Elkov - Kasper,NC,,,1,,0.0,,,93.0
+2025-06-29,2025,nc-slovakia,gc,Elkov - Kasper,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-slovakia-itt,gc,Elkov - Kasper,NC,,0,0,,0.0,,,1.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Elkov - Kasper,2.2,,0,0,,30.0,,,30.0
+2025-09-17,2025,okolo-slovenska,gc,Elkov - Kasper,2.1,,,1,,0.0,,,0.0
+2025-03-09,2025,porec-trophy,gc,Elkov - Kasper,1.2,,,1,,0.0,,,5.0
+2025-08-31,2025,ronde-van-de-achterhoek,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,3.0
+2025-05-10,2025,silesian-classic,gc,Elkov - Kasper,1.2,,,1,,0.0,,,5.0
+2025-08-30,2025,slag-om-norg,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,0.0
+2025-04-13,2025,slezanski-mnich1,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,3.0
+2025-04-16,2025,tour-du-loir-et-cher,gc,Elkov - Kasper,2.2,,0,0,,0.0,,,0.0
+2025-04-02,2025,tour-of-hellas,gc,Elkov - Kasper,2.1,,,1,,15.0,,,15.0
+2025-03-05,2025,trofej-umag,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,0.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,Elkov - Kasper,1.2,,,1,,0.0,,,3.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Elkov - Kasper,1.2,,0,0,,0.0,,,0.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,Elkov - Kasper,1.2,,,1,,0.0,,,28.0

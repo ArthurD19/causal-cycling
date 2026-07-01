@@ -1,0 +1,63 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-07-16,2021,gp-int-torres-vedras,gc,Efapel,2.2,83.0,0.0,1,,40.0,,,50.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Efapel,1.Pro,,,1,,0.0,,,5.0
+2021-06-18,2021,nc-portugal,gc,Efapel,NC,,0,0,,0.0,,,31.0
+2021-06-20,2021,nc-portugal2,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-russia-itt,gc,Efapel,NC,,0,0,,0.0,,,5.0
+2021-06-20,2021,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2021-05-02,2021,trofeu-da-arrabida,gc,Efapel,1.2,,0,0,,0.0,,,18.0
+2021-08-04,2021,volta-a-portugal,gc,Efapel,2.1,,0,0,,173.0,,,275.0
+2021-06-23,2021,volta-ao-alentejo,gc,Efapel,2.2,,0,0,,65.0,,,77.0
+2021-05-05,2021,volta-ao-algarve,gc,Efapel,2.Pro,128.0,0.0,1,,0.0,,,10.0
+2021-07-29,2021,vuelta-a-castilla-y-leon,gc,Efapel,1.1,,,1,,0.0,,,70.0
+2022-05-03,2022,4-jours-de-dunkerque,gc,Burgos - BH,2.Pro,,0,0,,5.0,,,5.0
+2022-08-11,2022,arctic-race-of-norway,gc,Burgos - BH,2.Pro,,0,0,,10.0,,,10.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Burgos - BH,2.Pro,,0,0,,13.0,,,13.0
+2022-04-13,2022,brabantse-pijl,gc,Burgos - BH,1.Pro,,0,0,,0.0,,,0.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Burgos - BH,1.1,,0,0,,0.0,,,25.0
+2022-06-14,2022,cic-mont-ventoux,gc,Burgos - BH,1.1,,0,0,,0.0,,,0.0
+2022-07-31,2022,circuito-de-getxo,gc,Burgos - BH,1.1,,0,0,,0.0,,,3.0
+2022-02-13,2022,clasica-de-almeria,gc,Burgos - BH,1.Pro,,0,0,,0.0,,,20.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Burgos - BH,1.1,,0,0,,0.0,,,0.0
+2022-04-15,2022,classic-grand-besancon-doubs,gc,Burgos - BH,1.1,,0,0,,0.0,,,3.0
+2022-01-28,2022,deia-trophy,gc,Burgos - BH,1.1,,,1,,0.0,,,0.0
+2022-05-01,2022,eschborn-frankfurt,gc,Burgos - BH,1.UWT,,0,0,,0.0,,,17.0
+2022-05-14,2022,gp-de-plumelec,gc,Burgos - BH,1.Pro,,0,0,,0.0,,,0.0
+2022-01-23,2022,gp-de-valence,gc,Burgos - BH,1.2,,0,0,,0.0,,,10.0
+2022-06-30,2022,gp-int-torres-vedras,gc,Burgos - BH,2.2,,0,0,,13.0,,,14.0
+2022-02-24,2022,gran-camino,gc,Burgos - BH,2.1,,0,0,,3.0,,,3.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Burgos - BH,1.Pro,,0,0,,0.0,,,3.0
+2022-04-04,2022,itzulia-basque-country,gc,Burgos - BH,2.UWT,,0,0,,16.0,,,16.0
+2022-03-27,2022,la-roue-tourangelle,gc,Burgos - BH,1.1,,0,0,,0.0,,,3.0
+2022-06-16,2022,la-route-d-occitanie,gc,Burgos - BH,2.1,,0,0,,5.0,,,5.0
+2022-06-26,2022,nc-estonia,gc,Burgos - BH,NC,,0,0,,0.0,,,100.0
+2022-06-26,2022,nc-spain,gc,Burgos - BH,NC,,0,0,,0.0,,,11.0
+2022-06-24,2022,nc-spain-itt,gc,Burgos - BH,NC,,0,0,,0.0,,,0.0
+2022-07-25,2022,prueba-villafranca,gc,Burgos - BH,1.1,,0,0,,0.0,,,16.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Burgos - BH,1.1,,0,0,,0.0,,,20.0
+2022-02-16,2022,ruta-del-sol,gc,Burgos - BH,2.Pro,,0,0,,3.0,,,8.0
+2022-07-30,2022,san-sebastian,gc,Burgos - BH,1.UWT,,0,0,,0.0,,,14.0
+2022-10-11,2022,tour-de-langkawi,gc,Burgos - BH,2.Pro,,0,0,,10.0,,,35.0
+2022-09-13,2022,tour-de-luxembourg,gc,Burgos - BH,2.Pro,,0,0,,0.0,,,0.0
+2022-10-02,2022,tour-de-vendee,gc,Burgos - BH,1.1,,0,0,,0.0,,,6.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,Burgos - BH,1.1,,0,0,,0.0,,,0.0
+2022-05-26,2022,tour-of-estonia,gc,Burgos - BH,2.1,,0,0,,36.0,,,36.0
+2022-02-10,2022,tour-of-oman,gc,Burgos - BH,2.Pro,,0,0,,10.0,,,10.0
+2022-04-10,2022,tour-of-turkey,gc,Burgos - BH,2.Pro,,0,0,,25.0,,,25.0
+2022-05-15,2022,tro-bro-leon,gc,Burgos - BH,1.Pro,,0,0,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Burgos - BH,1.1,,,1,,0.0,,,3.0
+2022-01-30,2022,trofeo-palma,gc,Burgos - BH,1.1,,0,0,,0.0,,,21.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Burgos - BH,1.1,,,1,,0.0,,,0.0
+2022-03-13,2022,trofeu-da-arrabida,gc,Burgos - BH,1.2,,0,0,,0.0,,,0.0
+2022-03-21,2022,volta-a-catalunya,gc,Burgos - BH,2.UWT,,0,0,,24.0,,,24.0
+2022-08-04,2022,volta-a-portugal,gc,Burgos - BH,2.1,,0,0,,0.0,,,14.0
+2022-03-16,2022,volta-ao-alentejo,gc,Burgos - BH,2.2,,0,0,,5.0,,,5.0
+2022-08-02,2022,vuelta-a-burgos,gc,Burgos - BH,2.Pro,,0,0,,13.0,,,13.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Burgos - BH,2.1,,0,0,,3.0,,,3.0
+2022-08-20,2022,vuelta-a-espana,gc,Burgos - BH,2.UWT,,0,0,,64.0,0.0,0.0,64.0
+2022-08-20,2022,vuelta-a-espana,kom,Burgos - BH,2.UWT,,0,0,,64.0,0.0,0.0,64.0
+2022-08-20,2022,vuelta-a-espana,points,Burgos - BH,2.UWT,,0,0,,64.0,0.0,0.0,64.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Burgos - BH,2.Pro,,0,0,,8.0,,,18.0
+2022-04-29,2022,vuelta-asturias,gc,Burgos - BH,2.1,,0,0,,0.0,,,0.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Burgos - BH,1.1,,0,0,,0.0,,,25.0
+2022-06-08,2022,zlm-tour,gc,Burgos - BH,2.Pro,,0,0,,11.0,,,11.0

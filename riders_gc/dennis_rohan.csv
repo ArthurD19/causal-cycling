@@ -1,0 +1,548 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-05,2017,3daagse-van-west-vlaanderen,gc,BMC Racing Team,1.1,,0,0,,0.0,,,88.0
+2017-02-23,2017,abu-dhabi-tour,gc,BMC Racing Team,2.UWT,,0,0,,21.0,,,21.0
+2017-04-16,2017,amstel-gold-race,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,70.0
+2017-08-10,2017,arctic-race-of-norway,gc,BMC Racing Team,2.HC,,0,0,,206.0,,,256.0
+2017-05-20,2017,berner-rundfahrt-tour-de-berne,gc,BMC Racing Team,1.2,,0,0,,0.0,,,0.0
+2017-04-12,2017,brabantse-pijl,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,56.0
+2017-08-27,2017,bretagne-classic,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,88.0
+2017-10-01,2017,circuit-franco-belge,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,96.0
+2017-08-10,2017,colorado-classic,gc,BMC Racing Team,2.HC,,0,0,,268.0,,,278.0
+2017-08-20,2017,cyclassics-hamburg,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,68.0
+2017-01-31,2017,dubai-tour,gc,BMC Racing Team,2.HC,,0,0,,138.0,,,138.0
+2017-03-22,2017,dwars-door-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,57.0
+2017-03-24,2017,e3-harelbeke,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,444.0
+2017-05-01,2017,eschborn-frankfurt,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,258.0
+2017-08-05,2017,european-championships-mu,gc,BMC Racing Team,CC,,0,0,,0.0,,,5.0
+2017-03-26,2017,gent-wevelgem,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,540.0
+2017-05-05,2017,giro-d-italia,gc,BMC Racing Team,2.UWT,,,1,,40.0,0.0,0.0,264.0
+2017-05-05,2017,giro-d-italia,kom,BMC Racing Team,2.UWT,,,1,,40.0,0.0,0.0,264.0
+2017-05-05,2017,giro-d-italia,points,BMC Racing Team,2.UWT,,,1,,40.0,0.0,0.0,264.0
+2017-09-30,2017,giro-dell-emilia,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,135.0
+2017-07-19,2017,gp-cerami,gc,BMC Racing Team,1.1,,0,0,,0.0,,,141.0
+2017-09-13,2017,gp-de-wallonie,gc,BMC Racing Team,1.1,,0,0,,0.0,,,69.0
+2017-06-08,2017,gp-du-canton-d-argovie,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,5.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,170.0
+2017-09-10,2017,gp-montreal,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,180.0
+2017-09-08,2017,gp-quebec,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,400.0
+2017-01-29,2017,great-ocean-road-race,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,22.0
+2017-10-07,2017,il-lombardia,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,110.0
+2017-04-03,2017,itzulia-basque-country,gc,BMC Racing Team,2.UWT,,0,0,,8.0,,,8.0
+2017-10-22,2017,japan-cup,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,46.0
+2017-09-15,2017,kampioenschap-van-vlaanderen1,gc,BMC Racing Team,1.1,,0,0,,0.0,,,0.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,83.0
+2017-04-19,2017,la-fleche-wallonne,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,276.0
+2017-06-15,2017,la-route-d-occitanie,gc,BMC Racing Team,2.1,,0,0,,128.0,,,133.0
+2017-04-23,2017,liege-bastogne-liege,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,105.0
+2017-03-18,2017,milano-sanremo,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,30.0
+2017-01-08,2017,nc-australia,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2017-01-05,2017,nc-australia-itt,gc,BMC Racing Team,NC,,,1,,0.0,,,40.0
+2017-06-25,2017,nc-belgium,gc,BMC Racing Team,NC,,0,0,,0.0,,,25.0
+2017-06-22,2017,nc-belgium-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,20.0
+2017-06-25,2017,nc-ireland,gc,BMC Racing Team,NC,,0,0,,0.0,,,30.0
+2017-06-22,2017,nc-ireland-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,nc-italy,gc,BMC Racing Team,NC,,0,0,,0.0,,,30.0
+2017-06-23,2017,nc-italy-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,21.0
+2017-06-21,2017,nc-luxembourg-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,30.0
+2017-06-21,2017,nc-netherlands-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-spain,gc,BMC Racing Team,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-switserland,gc,BMC Racing Team,NC,,0,0,,0.0,,,165.0
+2017-06-22,2017,nc-switzerland-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2017-06-25,2017,nc-united-states,gc,BMC Racing Team,NC,,0,0,,0.0,,,23.0
+2017-06-24,2017,nc-usa-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,55.0
+2017-03-15,2017,nokere-koerse,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,16.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,322.0
+2017-03-05,2017,paris-nice,gc,BMC Racing Team,2.UWT,,0,0,,113.0,,,183.0
+2017-04-09,2017,paris-roubaix,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,523.0
+2017-05-28,2017,paris-roubaix-u23,gc,BMC Racing Team,1.2U,,0,0,,0.0,,,10.0
+2017-10-08,2017,paris-tours,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,53.0
+2017-10-01,2017,piccolo-giro-di-lombardia,gc,BMC Racing Team,1.2U,,0,0,,0.0,,,0.0
+2017-08-07,2017,renewi-tour,gc,BMC Racing Team,2.UWT,,0,0,,252.0,,,310.0
+2017-07-30,2017,ride-london-classic,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,149.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,420.0
+2017-07-29,2017,san-sebastian,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,170.0
+2017-03-04,2017,strade-bianche,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,287.0
+2017-10-14,2017,tacx-pro-classic,gc,BMC Racing Team,1.1,,0,0,,0.0,,,25.0
+2017-03-09,2017,tirreno-adriatico,gc,BMC Racing Team,2.UWT,2.0,400.0,1,,490.0,,,550.0
+2017-07-26,2017,tour-alsace,gc,Australia,2.2,,0,0,,43.0,,,46.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,BMC Racing Team,2.UWT,,0,0,,420.0,,,505.0
+2017-02-21,2017,tour-cycliste-international-la-provence,gc,BMC Racing Team,2.1,1.0,125.0,1,,153.0,,,163.0
+2017-07-01,2017,tour-de-france,gc,BMC Racing Team,2.UWT,,0,0,,210.0,0.0,0.0,370.0
+2017-07-01,2017,tour-de-france,kom,BMC Racing Team,2.UWT,,0,0,,210.0,0.0,0.0,370.0
+2017-07-01,2017,tour-de-france,points,BMC Racing Team,2.UWT,,0,0,,210.0,0.0,0.0,370.0
+2017-05-31,2017,tour-de-luxembourg,gc,BMC Racing Team,2.HC,,0,0,,208.0,,,303.0
+2017-07-29,2017,tour-de-pologne,gc,BMC Racing Team,2.UWT,45.0,8.0,1,,444.0,,,494.0
+2017-04-25,2017,tour-de-romandie,gc,BMC Racing Team,2.UWT,,0,0,,675.0,,,795.0
+2017-06-10,2017,tour-de-suisse,gc,BMC Racing Team,2.UWT,97.0,0.0,1,,445.0,,,650.0
+2017-07-22,2017,tour-de-wallonie,gc,BMC Racing Team,2.HC,,0,0,,240.0,,,305.0
+2017-04-28,2017,tour-de-yorkshire,gc,BMC Racing Team,2.1,,0,0,,85.0,,,85.0
+2017-02-18,2017,tour-des-alpes-maritimes,gc,BMC Racing Team,2.1,,0,0,,113.0,,,113.0
+2017-01-17,2017,tour-down-under,gc,BMC Racing Team,2.UWT,6.0,175.0,1,,685.0,,,805.0
+2017-09-09,2017,tour-du-jura,gc,BMC Racing Team,1.2,,0,0,,0.0,,,15.0
+2017-08-22,2017,tour-du-poitou-charentes-et-de-la-vienne,gc,BMC Racing Team,2.1,,0,0,,76.0,,,82.0
+2017-09-03,2017,tour-of-britain,gc,BMC Racing Team,2.HC,,0,0,,175.0,,,175.0
+2017-05-14,2017,tour-of-california,gc,BMC Racing Team,2.UWT,,0,0,,216.0,,,231.0
+2017-10-19,2017,tour-of-guangxi,gc,BMC Racing Team,2.UWT,,0,0,,416.0,,,422.0
+2017-02-14,2017,tour-of-oman,gc,BMC Racing Team,2.HC,,0,0,,211.0,,,261.0
+2017-04-17,2017,tour-of-the-alps,gc,BMC Racing Team,2.HC,19.0,5.0,1,,43.0,,,78.0
+2017-07-31,2017,tour-of-utah,gc,BMC Racing Team,2.HC,,0,0,,108.0,,,138.0
+2017-03-20,2017,volta-a-catalunya,gc,BMC Racing Team,2.UWT,,,1,,188.0,,,188.0
+2017-04-01,2017,volta-nxt-classic,gc,BMC Racing Team,1.1,,0,0,,0.0,,,28.0
+2017-08-20,2017,vuelta-a-espana,gc,BMC Racing Team,2.UWT,,,1,,208.0,0.0,0.0,212.0
+2017-08-20,2017,vuelta-a-espana,kom,BMC Racing Team,2.UWT,,,1,,208.0,0.0,0.0,212.0
+2017-08-20,2017,vuelta-a-espana,points,BMC Racing Team,2.UWT,,,1,,208.0,0.0,0.0,212.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,BMC Racing Team,2.1,,0,0,,158.0,,,158.0
+2017-09-24,2017,world-championship,gc,Australia,WC,,0,0,,0.0,,,403.0
+2017-09-20,2017,world-championship-itt,gc,Australia,WC,,,1,,0.0,,,70.0
+2018-02-21,2018,abu-dhabi-tour,gc,BMC Racing Team,2.UWT,9.0,60.0,1,,89.0,,,135.0
+2018-04-15,2018,amstel-gold-race,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,70.0
+2018-08-16,2018,arctic-race-of-norway,gc,BMC Racing Team,2.HC,,0,0,,221.0,,,221.0
+2018-04-11,2018,brabantse-pijl,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,60.0
+2018-03-16,2018,bredene-koksijde-classic,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,13.0
+2018-08-26,2018,bretagne-classic,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,20.0
+2018-09-22,2018,circuit-franco-belge,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,155.0
+2018-04-14,2018,commonwealth-games,gc,Australia,JR,,0,0,,0.0,,,0.0
+2018-04-10,2018,commonwealth-games-itt2,gc,Australia,JR,,0,0,,0.0,,,0.0
+2018-08-19,2018,cyclassics-hamburg,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,76.0
+2018-08-23,2018,deutschland-tour,gc,BMC Racing Team,2.1,,0,0,,53.0,,,56.0
+2018-02-06,2018,dubai-tour,gc,BMC Racing Team,2.HC,,0,0,,280.0,,,280.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,120.0
+2018-03-23,2018,e3-harelbeke,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,416.0
+2018-03-25,2018,gent-wevelgem,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,40.0
+2018-05-04,2018,giro-d-italia,gc,BMC Racing Team,2.UWT,16.0,56.0,1,,72.0,0.0,0.0,236.0
+2018-05-04,2018,giro-d-italia,kom,BMC Racing Team,2.UWT,45.0,0.0,1,,72.0,0.0,0.0,236.0
+2018-05-04,2018,giro-d-italia,points,BMC Racing Team,2.UWT,19.0,0.0,1,,72.0,0.0,0.0,236.0
+2018-10-06,2018,giro-dell-emilia,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,330.0
+2018-07-26,2018,gp-cerami,gc,BMC Racing Team,1.1,,0,0,,0.0,,,55.0
+2018-09-23,2018,gp-d-isbergues,gc,BMC Racing Team,1.1,,0,0,,0.0,,,15.0
+2018-09-15,2018,gp-impanis-van-petegem,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,21.0
+2018-09-09,2018,gp-montreal,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,360.0
+2018-09-07,2018,gp-quebec,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,410.0
+2018-10-11,2018,gran-piemonte,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,6.0
+2018-01-28,2018,great-ocean-road-race,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,124.0
+2018-01-28,2018,great-ocean-road-race,gc,Australia,1.UWT,,0,0,,0.0,,,100.0
+2018-08-24,2018,great-war-remembrance-race,gc,BMC Racing Team,1.1,,0,0,,0.0,,,28.0
+2018-01-31,2018,herald-sun-tour,gc,Australia,2.1,,0,0,,23.0,,,23.0
+2018-10-13,2018,il-lombardia,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,335.0
+2018-04-02,2018,itzulia-basque-country,gc,BMC Racing Team,2.UWT,,0,0,,60.0,,,80.0
+2018-10-21,2018,japan-cup,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,120.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,78.0
+2018-04-18,2018,la-fleche-wallonne,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,24.0
+2018-04-22,2018,liege-bastogne-liege,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,50.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,BMC Racing Team,1.1,,0,0,,0.0,,,40.0
+2018-03-17,2018,milano-sanremo,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,278.0
+2018-10-10,2018,milano-torino,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,3.0
+2018-01-07,2018,nc-australia,gc,BMC Racing Team,NC,,,1,,0.0,,,1.0
+2018-01-05,2018,nc-australia-itt,gc,BMC Racing Team,NC,,,1,,0.0,,,85.0
+2018-06-24,2018,nc-belgium,gc,BMC Racing Team,NC,,0,0,,0.0,,,21.0
+2018-06-21,2018,nc-belgium-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-ireland,gc,BMC Racing Team,NC,,0,0,,0.0,,,30.0
+2018-06-30,2018,nc-italy,gc,BMC Racing Team,NC,,0,0,,0.0,,,20.0
+2018-10-04,2018,nc-italy-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,15.0
+2018-07-01,2018,nc-switserland,gc,BMC Racing Team,NC,,0,0,,0.0,,,62.0
+2018-06-27,2018,nc-switzerland-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2018-06-24,2018,nc-united-states,gc,BMC Racing Team,NC,,0,0,,0.0,,,23.0
+2018-06-21,2018,nc-usa-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2018-03-14,2018,nokere-koerse,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,25.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,29.0
+2018-03-04,2018,paris-nice,gc,BMC Racing Team,2.UWT,,0,0,,195.0,,,220.0
+2018-04-08,2018,paris-roubaix,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,300.0
+2018-08-13,2018,renewi-tour,gc,BMC Racing Team,2.UWT,,0,0,,158.0,,,228.0
+2018-07-29,2018,ride-london-classic,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,129.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,260.0
+2018-08-04,2018,san-sebastian,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,222.0
+2018-03-03,2018,strade-bianche,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,30.0
+2018-03-08,2018,tirreno-adriatico,gc,BMC Racing Team,2.UWT,79.0,0.0,1,,433.0,,,493.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,BMC Racing Team,2.UWT,,0,0,,250.0,,,250.0
+2018-07-07,2018,tour-de-france,gc,BMC Racing Team,2.UWT,,0,0,,120.0,0.0,0.0,210.0
+2018-07-07,2018,tour-de-france,kom,BMC Racing Team,2.UWT,,0,0,,120.0,0.0,0.0,210.0
+2018-07-07,2018,tour-de-france,points,BMC Racing Team,2.UWT,,0,0,,120.0,0.0,0.0,210.0
+2018-08-04,2018,tour-de-pologne,gc,BMC Racing Team,2.UWT,60.0,2.0,1,,202.0,,,242.0
+2018-04-24,2018,tour-de-romandie,gc,BMC Racing Team,2.UWT,7.0,150.0,1,,491.0,,,526.0
+2018-06-10,2018,tour-de-suisse,gc,BMC Racing Team,2.UWT,,0,0,,540.0,,,620.0
+2018-05-03,2018,tour-de-yorkshire,gc,BMC Racing Team,2.1,,0,0,,160.0,,,170.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Australia,1.Ncup,,0,0,,0.0,,,113.0
+2018-06-21,2018,tour-des-pays-de-savoie,gc,BMC Racing Team,2.2,,0,0,,5.0,,,8.0
+2018-01-16,2018,tour-down-under,gc,BMC Racing Team,2.UWT,30.0,20.0,1,,433.0,,,493.0
+2018-04-14,2018,tour-du-finistere,gc,BMC Racing Team,1.1,,0,0,,0.0,,,36.0
+2018-09-02,2018,tour-of-britain,gc,BMC Racing Team,2.HC,,0,0,,108.0,,,128.0
+2018-05-13,2018,tour-of-california,gc,BMC Racing Team,2.UWT,,0,0,,296.0,,,351.0
+2018-10-16,2018,tour-of-guangxi,gc,BMC Racing Team,2.UWT,,0,0,,30.0,,,30.0
+2018-02-13,2018,tour-of-oman,gc,BMC Racing Team,2.HC,,0,0,,10.0,,,45.0
+2018-10-09,2018,tour-of-turkey,gc,BMC Racing Team,2.UWT,,0,0,,132.0,,,144.0
+2018-08-06,2018,tour-of-utah,gc,BMC Racing Team,2.HC,,0,0,,118.0,,,163.0
+2018-03-19,2018,volta-a-catalunya,gc,BMC Racing Team,2.UWT,,0,0,,32.0,,,32.0
+2018-02-14,2018,volta-ao-algarve,gc,BMC Racing Team,2.HC,,0,0,,130.0,,,135.0
+2018-08-25,2018,vuelta-a-espana,gc,BMC Racing Team,2.UWT,,,1,,40.0,0.0,0.0,496.0
+2018-08-25,2018,vuelta-a-espana,kom,BMC Racing Team,2.UWT,,,1,,40.0,0.0,0.0,496.0
+2018-08-25,2018,vuelta-a-espana,points,BMC Racing Team,2.UWT,,,1,,40.0,0.0,0.0,496.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,BMC Racing Team,2.1,,0,0,,31.0,,,48.0
+2018-09-30,2018,world-championship,gc,Australia,WC,,,1,,0.0,,,30.0
+2018-09-26,2018,world-championship-itt,gc,Australia,WC,,,1,,0.0,,,350.0
+2019-07-25,2019,adriatica-ionica-race,gc,Bahrain Merida,2.1,,0,0,,125.0,,,139.0
+2019-04-21,2019,amstel-gold-race,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,20.0
+2019-04-17,2019,brabantse-pijl,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,0.0
+2019-09-01,2019,bretagne-classic,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,56.0
+2019-10-20,2019,chrono-des-nations,gc,Bahrain Merida,1.1,,0,0,,0.0,,,30.0
+2019-09-14,2019,coppa-agostoni,gc,Bahrain Merida,1.1,,0,0,,0.0,,,20.0
+2019-09-15,2019,coppa-bernocchi,gc,Bahrain Merida,1.1,,0,0,,0.0,,,125.0
+2019-08-25,2019,cyclassics-hamburg,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,80.0
+2019-08-29,2019,deutschland-tour,gc,Bahrain Merida,2.HC,,0,0,,155.0,,,190.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,95.0
+2019-03-29,2019,e3-harelbeke,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,74.0
+2019-05-01,2019,eschborn-frankfurt,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,95.0
+2019-03-31,2019,gent-wevelgem,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,100.0
+2019-05-11,2019,giro-d-italia,gc,Bahrain Merida,2.UWT,,0,0,,756.0,20.0,0.0,876.0
+2019-05-11,2019,giro-d-italia,kom,Bahrain Merida,2.UWT,,0,0,,756.0,20.0,0.0,876.0
+2019-05-11,2019,giro-d-italia,points,Bahrain Merida,2.UWT,,0,0,,756.0,20.0,0.0,876.0
+2019-10-05,2019,giro-dell-emilia,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,5.0
+2019-09-18,2019,giro-di-toscana,gc,Bahrain Merida,1.1,,0,0,,0.0,,,3.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,260.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Bahrain Merida,1.1,,0,0,,0.0,,,85.0
+2019-06-09,2019,gp-lugano,gc,Bahrain Merida,1.1,,0,0,,0.0,,,123.0
+2019-09-15,2019,gp-montreal,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,355.0
+2019-09-13,2019,gp-quebec,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,20.0
+2019-10-10,2019,gran-piemonte,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,8.0
+2019-10-12,2019,il-lombardia,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,18.0
+2019-04-08,2019,itzulia-basque-country,gc,Bahrain Merida,2.UWT,,,1,,18.0,,,18.0
+2019-10-20,2019,japan-cup,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,30.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,20.0
+2019-04-24,2019,la-fleche-wallonne,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,44.0
+2019-04-28,2019,liege-bastogne-liege,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,238.0
+2019-09-21,2019,memorial-marco-pantani,gc,Bahrain Merida,1.1,,0,0,,0.0,,,50.0
+2019-03-23,2019,milano-sanremo,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,360.0
+2019-10-09,2019,milano-torino,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,5.0
+2019-01-06,2019,nc-australia,gc,Bahrain Merida,NC,,0,0,,0.0,,,0.0
+2019-01-08,2019,nc-australia-itt,gc,Bahrain Merida,NC,,,1,,0.0,,,30.0
+2019-06-30,2019,nc-austria2,gc,Bahrain Merida,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,nc-belgium,gc,Bahrain Merida,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-italy,gc,Bahrain Merida,NC,,0,0,,0.0,,,76.0
+2019-06-30,2019,nc-japan,gc,Bahrain Merida,NC,,0,0,,0.0,,,75.0
+2019-06-27,2019,nc-japan-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-slovenia,gc,Bahrain Merida,NC,,0,0,,0.0,,,176.0
+2019-06-07,2019,nc-slovenia-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,50.0
+2019-06-23,2019,nc-taiwan,gc,Bahrain Merida,NC,,0,0,,0.0,,,0.0
+2019-06-22,2019,nc-taiwan-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,25.0
+2019-06-30,2019,nc-ukraine,gc,Bahrain Merida,NC,,0,0,,0.0,,,10.0
+2019-06-27,2019,nc-ukraine-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,50.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,130.0
+2019-03-10,2019,paris-nice,gc,Bahrain Merida,2.UWT,,0,0,,73.0,,,98.0
+2019-04-14,2019,paris-roubaix,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,70.0
+2019-08-12,2019,renewi-tour,gc,Bahrain Merida,2.UWT,,0,0,,120.0,,,120.0
+2019-08-04,2019,ride-london-classic,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,39.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,70.0
+2019-02-20,2019,ruta-del-sol,gc,Bahrain Merida,2.HC,,0,0,,40.0,,,45.0
+2019-08-03,2019,san-sebastian,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,24.0
+2019-03-09,2019,strade-bianche,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,20.0
+2019-03-14,2019,tirreno-adriatico,gc,Bahrain Merida,2.UWT,95.0,0.0,1,,65.0,,,65.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Bahrain Merida,2.UWT,,0,0,,205.0,,,265.0
+2019-07-06,2019,tour-de-france,gc,Bahrain Merida,2.UWT,,,1,,55.0,0.0,0.0,365.0
+2019-07-06,2019,tour-de-france,kom,Bahrain Merida,2.UWT,,,1,,55.0,0.0,0.0,365.0
+2019-07-06,2019,tour-de-france,points,Bahrain Merida,2.UWT,,,1,,55.0,0.0,0.0,365.0
+2019-08-03,2019,tour-de-pologne,gc,Bahrain Merida,2.UWT,,0,0,,72.0,,,122.0
+2019-04-30,2019,tour-de-romandie,gc,Bahrain Merida,2.UWT,,0,0,,15.0,,,85.0
+2019-06-15,2019,tour-de-suisse,gc,Bahrain Merida,2.UWT,2.0,400.0,1,,550.0,,,670.0
+2019-01-15,2019,tour-down-under,gc,Bahrain Merida,2.UWT,5.0,225.0,1,,305.0,,,305.0
+2019-05-12,2019,tour-of-california,gc,Bahrain Merida,2.UWT,11.0,40.0,1,,60.0,,,100.0
+2019-10-01,2019,tour-of-croatia,gc,Bahrain Merida,2.1,,0,0,,50.0,,,63.0
+2019-10-17,2019,tour-of-guangxi,gc,Bahrain Merida,2.UWT,,0,0,,24.0,,,24.0
+2019-02-16,2019,tour-of-oman,gc,Bahrain Merida,2.HC,,0,0,,156.0,,,191.0
+2019-06-19,2019,tour-of-slovenia,gc,Bahrain Merida,2.HC,,0,0,,25.0,,,35.0
+2019-04-22,2019,tour-of-the-alps,gc,Bahrain Merida,2.HC,,0,0,,141.0,,,151.0
+2019-10-08,2019,tre-valli-varesine,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,40.0
+2019-02-25,2019,uae-tour,gc,Bahrain Merida,2.UWT,70.0,0.0,1,,10.0,,,10.0
+2019-03-25,2019,volta-a-catalunya,gc,Bahrain Merida,2.UWT,,0,0,,56.0,,,84.0
+2019-08-25,2019,vuelta-a-espana,gc,Bahrain Merida,2.UWT,,0,0,,160.0,0.0,0.0,232.0
+2019-08-25,2019,vuelta-a-espana,kom,Bahrain Merida,2.UWT,,0,0,,160.0,0.0,0.0,232.0
+2019-08-25,2019,vuelta-a-espana,points,Bahrain Merida,2.UWT,,0,0,,160.0,0.0,0.0,232.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Bahrain Merida,2.1,,0,0,,50.0,,,50.0
+2019-09-29,2019,world-championship,gc,Australia,WC,,,1,,0.0,,,20.0
+2019-09-25,2019,world-championship-itt,gc,Australia,WC,,,1,,0.0,,,375.0
+2020-10-07,2020,brabantse-pijl,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,70.0
+2020-10-21,2020,classic-brugge-de-panne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,15.0
+2020-02-12,2020,colombia-21,gc,Team INEOS,2.1,,0,0,,60.0,,,68.0
+2020-10-11,2020,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,60.0
+2020-10-03,2020,giro-d-italia,gc,INEOS Grenadiers,2.UWT,35.0,20.0,1,,958.0,40.0,0.0,1910.0
+2020-10-03,2020,giro-d-italia,kom,INEOS Grenadiers,2.UWT,4.0,0.0,1,,958.0,40.0,0.0,1910.0
+2020-10-03,2020,giro-d-italia,points,INEOS Grenadiers,2.UWT,26.0,0.0,1,,958.0,40.0,0.0,1910.0
+2020-09-19,2020,giro-dell-appennino,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2020-08-18,2020,giro-dell-emilia,gc,Team INEOS,1.Pro,,0,0,,0.0,,,105.0
+2020-09-16,2020,giro-di-toscana,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,85.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,43.0
+2020-08-12,2020,gran-piemonte,gc,Team INEOS,1.Pro,,0,0,,0.0,,,13.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Team INEOS,1.Pro,,0,0,,0.0,,,143.0
+2020-02-02,2020,great-ocean-road-race,gc,Team INEOS,1.UWT,,0,0,,0.0,,,383.0
+2020-08-15,2020,il-lombardia,gc,Team INEOS,1.UWT,,0,0,,0.0,,,63.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Team INEOS,1.Pro,,0,0,,0.0,,,50.0
+2020-09-30,2020,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,142.0
+2020-08-01,2020,la-route-d-occitanie,gc,Team INEOS,2.1,,0,0,,210.0,,,229.0
+2020-10-04,2020,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,85.0
+2020-08-30,2020,memorial-marco-pantani,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,85.0
+2020-08-08,2020,milano-sanremo,gc,Team INEOS,1.UWT,,0,0,,0.0,,,55.0
+2020-08-05,2020,milano-torino,gc,Team INEOS,1.Pro,,0,0,,0.0,,,46.0
+2020-01-08,2020,nc-australia-itt,gc,Team INEOS,NC,,,1,,0.0,,,30.0
+2020-02-02,2020,nc-colombia,gc,Team INEOS,NC,,0,0,,0.0,,,75.0
+2020-01-30,2020,nc-colombia-itt,gc,Team INEOS,NC,,0,0,,0.0,,,35.0
+2020-08-23,2020,nc-germany,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-italy-itt,gc,Team INEOS,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-poland,gc,Team INEOS,NC,,0,0,,0.0,,,40.0
+2020-08-23,2020,nc-spain,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Team INEOS,1.UWT,,0,0,,0.0,,,12.0
+2020-01-30,2020,race-torquay,gc,Team INEOS,1.1,,0,0,,0.0,,,0.0
+2020-09-29,2020,renewi-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,44.0,,,44.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,140.0
+2020-10-14,2020,scheldeprijs,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,3.0
+2020-08-01,2020,strade-bianche,gc,Team INEOS,1.UWT,,0,0,,0.0,,,35.0
+2020-09-07,2020,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,87.0,0.0,1,,420.0,,,515.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Team INEOS,2.UWT,,0,0,,100.0,,,110.0
+2020-02-13,2020,tour-cycliste-international-la-provence,gc,Team INEOS,2.Pro,,0,0,,75.0,,,95.0
+2020-08-29,2020,tour-de-france,gc,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-29,2020,tour-de-france,kom,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-29,2020,tour-de-france,points,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-07,2020,tour-de-l-ain,gc,Team INEOS,2.1,,0,0,,93.0,,,103.0
+2020-08-05,2020,tour-de-pologne,gc,Team INEOS,2.UWT,78.0,0.0,1,,24.0,,,74.0
+2020-08-16,2020,tour-de-wallonie,gc,Team INEOS,2.Pro,,0,0,,50.0,,,50.0
+2020-01-21,2020,tour-down-under,gc,Team INEOS,2.UWT,4.0,275.0,1,,530.0,,,530.0
+2020-02-23,2020,uae-tour,gc,Team INEOS,2.UWT,,0,0,,40.0,,,40.0
+2020-02-19,2020,volta-ao-algarve,gc,Team INEOS,2.Pro,55.0,0.0,1,,25.0,,,35.0
+2020-07-28,2020,vuelta-a-burgos,gc,Team INEOS,2.Pro,,0,0,,80.0,,,100.0
+2020-10-20,2020,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,,0,0,,708.0,20.0,40.0,848.0
+2020-10-20,2020,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,0,0,,708.0,20.0,40.0,848.0
+2020-10-20,2020,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,0,0,,708.0,20.0,40.0,848.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Team INEOS,2.Pro,,0,0,,163.0,,,168.0
+2020-09-27,2020,world-championship,gc,Australia,WC,,0,0,,0.0,,,205.0
+2020-09-25,2020,world-championship-itt,gc,Australia,WC,,,1,,0.0,,,140.0
+2021-04-18,2021,amstel-gold-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,545.0
+2021-04-14,2021,brabantse-pijl,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,205.0
+2021-03-19,2021,bredene-koksijde-classic,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2021-08-29,2021,bretagne-classic,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,228.0
+2021-09-29,2021,circuit-franco-belge,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,10.0
+2021-10-04,2021,coppa-bernocchi,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,357.0
+2021-03-26,2021,e3-harelbeke,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,144.0
+2021-02-03,2021,etoile-de-besseges,gc,INEOS Grenadiers,2.1,,0,0,,93.0,,,124.0
+2021-03-28,2021,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,175.0
+2021-05-08,2021,giro-d-italia,gc,INEOS Grenadiers,2.UWT,,0,0,,1310.0,40.0,0.0,1842.0
+2021-05-08,2021,giro-d-italia,kom,INEOS Grenadiers,2.UWT,,0,0,,1310.0,40.0,0.0,1842.0
+2021-05-08,2021,giro-d-italia,points,INEOS Grenadiers,2.UWT,,0,0,,1310.0,40.0,0.0,1842.0
+2021-06-24,2021,giro-dell-appennino,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,3.0
+2021-10-02,2021,giro-dell-emilia,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,105.0
+2021-09-15,2021,giro-di-toscana,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,33.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,68.0
+2021-09-21,2021,gp-de-denain,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,133.0
+2021-03-07,2021,gp-industria-artigianato,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,105.0
+2021-06-27,2021,gp-lugano,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2021-10-07,2021,gran-piemonte,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,35.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,48.0
+2021-10-09,2021,il-lombardia,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,358.0
+2021-04-05,2021,itzulia-basque-country,gc,INEOS Grenadiers,2.UWT,,0,0,,252.0,,,252.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,130.0
+2021-04-21,2021,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,260.0
+2021-06-10,2021,la-route-d-occitanie,gc,INEOS Grenadiers,2.1,,0,0,,0.0,,,0.0
+2021-04-25,2021,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,110.0
+2021-09-18,2021,memorial-marco-pantani,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,25.0
+2021-03-20,2021,milano-sanremo,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,85.0
+2021-10-06,2021,milano-torino,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,155.0
+2021-10-14,2021,nc-great-britain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2021-10-03,2021,nc-ireland,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2021-06-18,2021,nc-italy-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-poland,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-spain,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,10.0
+2021-06-18,2021,nc-spain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,20.0
+2021-10-17,2021,ncgreat-britain,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,160.0
+2021-03-17,2021,nokere-koerse,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,48.0
+2021-07-24,2021,olympic-games,gc,Australia,Olympics,,0,0,,0.0,,,10.0
+2021-07-28,2021,olympic-games-itt,gc,Australia,Olympics,,,1,,0.0,,,200.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,24.0
+2021-03-07,2021,paris-nice,gc,INEOS Grenadiers,2.UWT,45.0,10.0,1,,80.0,,,80.0
+2021-10-03,2021,paris-roubaix,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,278.0
+2021-08-30,2021,renewi-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,52.0,,,52.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,100.0
+2021-05-18,2021,ruta-del-sol,gc,INEOS Grenadiers,2.Pro,,0,0,,168.0,,,208.0
+2021-07-31,2021,san-sebastian,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,124.0
+2021-03-06,2021,strade-bianche,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,347.0
+2021-03-10,2021,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,,0,0,,335.0,,,345.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,INEOS Grenadiers,2.UWT,,0,0,,923.0,,,1033.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,INEOS Grenadiers,2.Pro,,0,0,,333.0,,,363.0
+2021-06-26,2021,tour-de-france,gc,INEOS Grenadiers,2.UWT,,0,0,,785.0,0.0,0.0,835.0
+2021-06-26,2021,tour-de-france,kom,INEOS Grenadiers,2.UWT,,0,0,,785.0,0.0,0.0,835.0
+2021-06-26,2021,tour-de-france,points,INEOS Grenadiers,2.UWT,,0,0,,785.0,0.0,0.0,835.0
+2021-08-09,2021,tour-de-pologne,gc,INEOS Grenadiers,2.UWT,,0,0,,264.0,,,264.0
+2021-04-27,2021,tour-de-romandie,gc,INEOS Grenadiers,2.UWT,17.0,30.0,1,,940.0,,,1055.0
+2021-06-06,2021,tour-de-suisse,gc,INEOS Grenadiers,2.UWT,37.0,10.0,1,,585.0,,,645.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,INEOS Grenadiers,2.1,64.0,0.0,1,,23.0,,,31.0
+2021-09-05,2021,tour-of-britain,gc,INEOS Grenadiers,2.Pro,6.0,70.0,1,,260.0,,,300.0
+2021-08-19,2021,tour-of-norway,gc,INEOS Grenadiers,2.Pro,,0,0,,206.0,,,246.0
+2021-04-19,2021,tour-of-the-alps,gc,INEOS Grenadiers,2.Pro,,0,0,,98.0,,,148.0
+2021-10-05,2021,tre-valli-varesine,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2021-03-03,2021,trofeo-laigueglia,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,153.0
+2021-02-21,2021,uae-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,251.0,,,312.0
+2021-03-22,2021,volta-a-catalunya,gc,INEOS Grenadiers,2.UWT,46.0,8.0,1,,1004.0,,,1112.0
+2021-05-05,2021,volta-ao-algarve,gc,INEOS Grenadiers,2.Pro,,0,0,,205.0,,,225.0
+2021-08-03,2021,vuelta-a-burgos,gc,INEOS Grenadiers,2.Pro,,0,0,,103.0,,,103.0
+2021-08-14,2021,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,,0,0,,800.0,0.0,0.0,904.0
+2021-08-14,2021,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,0,0,,800.0,0.0,0.0,904.0
+2021-08-14,2021,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,0,0,,800.0,0.0,0.0,904.0
+2021-09-26,2021,world-championship,gc,Australia,WC,,0,0,,0.0,,,20.0
+2022-04-10,2022,amstel-gold-race,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,365.0
+2022-08-28,2022,bretagne-classic,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,400.0
+2022-10-16,2022,chrono-des-nations,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,93.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,127.0
+2022-08-07,2022,commonwealth-games,gc,Australia,JR,,,1,,0.0,,,0.0
+2022-08-04,2022,commonwealth-games-itt2,gc,Australia,JR,,,1,,0.0,,,0.0
+2022-08-21,2022,cyclassics-hamburg,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,322.0
+2022-08-24,2022,deutschland-tour,gc,Jumbo-Visma,2.Pro,,0,0,,21.0,,,21.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,274.0
+2022-03-25,2022,e3-harelbeke,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,872.0
+2022-02-26,2022,faun-ardeche-classic,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,138.0
+2022-03-27,2022,gent-wevelgem,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,475.0
+2022-05-06,2022,giro-d-italia,gc,Jumbo-Visma,2.UWT,,0,0,,108.0,100.0,0.0,440.0
+2022-05-06,2022,giro-d-italia,kom,Jumbo-Visma,2.UWT,,0,0,,108.0,100.0,0.0,440.0
+2022-05-06,2022,giro-d-italia,points,Jumbo-Visma,2.UWT,,0,0,,108.0,100.0,0.0,440.0
+2022-10-01,2022,giro-dell-emilia,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,18.0
+2022-03-17,2022,gp-de-denain,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,33.0
+2022-09-11,2022,gp-montreal,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,413.0
+2022-09-09,2022,gp-quebec,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,288.0
+2022-03-01,2022,gp-samyn,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,3.0
+2022-10-06,2022,gran-piemonte,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,25.0
+2022-06-04,2022,heist-op-den-berg,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,3.0
+2022-10-08,2022,il-lombardia,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,40.0
+2022-04-04,2022,itzulia-basque-country,gc,Jumbo-Visma,2.UWT,,0,0,,244.0,,,294.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,70.0
+2022-02-27,2022,la-drome-classic,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,213.0
+2022-04-20,2022,la-fleche-wallonne,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,62.0
+2022-04-24,2022,liege-bastogne-liege,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,340.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,128.0
+2022-03-19,2022,milano-sanremo,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,178.0
+2022-10-03,2022,munsterland-giro,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,200.0
+2022-01-16,2022,nc-australia,gc,Jumbo-Visma,NC,,,1,,0.0,,,5.0
+2022-01-12,2022,nc-australia-itt,gc,Jumbo-Visma,NC,,,1,,0.0,,,50.0
+2022-06-26,2022,nc-belgium,gc,Jumbo-Visma,NC,,0,0,,0.0,,,1.0
+2022-06-26,2022,nc-germany,gc,Jumbo-Visma,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-germany-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,1.0
+2022-06-26,2022,nc-italy,gc,Jumbo-Visma,NC,,0,0,,0.0,,,3.0
+2022-06-22,2022,nc-italy-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,20.0
+2022-06-24,2022,nc-netherlands,gc,Jumbo-Visma,NC,,0,0,,0.0,,,174.0
+2022-06-22,2022,nc-netherlands-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,46.0
+2022-06-26,2022,nc-norway,gc,Jumbo-Visma,NC,,0,0,,0.0,,,10.0
+2022-06-23,2022,nc-norway-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,50.0
+2022-04-10,2022,oceania-championships,gc,Australia,CC,,0,0,,0.0,,,280.0
+2022-04-09,2022,oceania-continental-championships-itt,gc,Australia,CC,,0,0,,0.0,,,133.0
+2022-09-13,2022,okolo-slovenska,gc,Jumbo-Visma,2.1,,0,0,,126.0,,,154.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,312.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,3.0
+2022-03-06,2022,paris-nice,gc,Jumbo-Visma,2.UWT,,,1,,530.0,,,870.0
+2022-04-17,2022,paris-roubaix,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,440.0
+2022-10-09,2022,paris-tours,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,31.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Jumbo-Visma,2.1,,0,0,,125.0,,,153.0
+2022-03-13,2022,ronde-van-drenthe,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,125.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,190.0
+2022-07-30,2022,san-sebastian,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,272.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Jumbo-Visma,2.1,,0,0,,9.0,,,9.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Jumbo-Visma,2.1,,0,0,,75.0,,,89.0
+2022-03-05,2022,strade-bianche,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,15.0
+2022-03-07,2022,tirreno-adriatico,gc,Jumbo-Visma,2.UWT,,0,0,,410.0,,,495.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Jumbo-Visma,2.UWT,,0,0,,930.0,,,1220.0
+2022-07-01,2022,tour-de-france,gc,Jumbo-Visma,2.UWT,,0,0,,1130.0,120.0,120.0,2275.0
+2022-07-01,2022,tour-de-france,kom,Jumbo-Visma,2.UWT,,0,0,,1130.0,120.0,120.0,2275.0
+2022-07-01,2022,tour-de-france,points,Jumbo-Visma,2.UWT,,0,0,,1130.0,120.0,120.0,2275.0
+2022-05-11,2022,tour-de-hongrie,gc,Jumbo-Visma,2.1,,0,0,,0.0,,,14.0
+2022-07-30,2022,tour-de-pologne,gc,Jumbo-Visma,2.UWT,,0,0,,2.0,,,72.0
+2022-04-26,2022,tour-de-romandie,gc,Jumbo-Visma,2.UWT,8.0,125.0,1,,340.0,,,400.0
+2022-06-12,2022,tour-de-suisse,gc,Jumbo-Visma,2.UWT,,,1,,0.0,,,0.0
+2022-09-27,2022,tour-of-croatia,gc,Jumbo-Visma,2.1,,0,0,,93.0,,,121.0
+2022-08-16,2022,tour-of-denmark,gc,Jumbo-Visma,2.Pro,,0,0,,266.0,,,341.0
+2022-05-24,2022,tour-of-norway,gc,Jumbo-Visma,2.Pro,,0,0,,35.0,,,45.0
+2022-10-04,2022,tre-valli-varesine,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,35.0
+2022-02-20,2022,uae-tour,gc,Jumbo-Visma,2.UWT,,0,0,,50.0,,,71.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,10.0
+2022-03-21,2022,volta-a-catalunya,gc,Jumbo-Visma,2.UWT,54.0,4.0,1,,104.0,,,104.0
+2022-02-16,2022,volta-ao-algarve,gc,Jumbo-Visma,2.Pro,,0,0,,78.0,,,78.0
+2022-04-02,2022,volta-nxt-classic,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,43.0
+2022-08-02,2022,vuelta-a-burgos,gc,Jumbo-Visma,2.Pro,,0,0,,3.0,,,38.0
+2022-08-20,2022,vuelta-a-espana,gc,Jumbo-Visma,2.UWT,51.0,12.0,1,,76.0,0.0,0.0,320.0
+2022-08-20,2022,vuelta-a-espana,kom,Jumbo-Visma,2.UWT,20.0,0.0,1,,76.0,0.0,0.0,320.0
+2022-08-20,2022,vuelta-a-espana,points,Jumbo-Visma,2.UWT,82.0,0.0,1,,76.0,0.0,0.0,320.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Jumbo-Visma,2.Pro,,0,0,,0.0,,,0.0
+2022-09-25,2022,world-championship,gc,Australia,WC,,0,0,,0.0,,,420.0
+2022-09-18,2022,world-championship-itt,gc,Australia,WC,,0,0,,0.0,,,30.0
+2022-06-08,2022,zlm-tour,gc,Jumbo-Visma,2.Pro,,0,0,,345.0,,,425.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Jumbo-Visma,2.Pro,,0,0,,153.0,,,218.0
+2023-04-16,2023,amstel-gold-race,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,65.0
+2023-09-03,2023,bretagne-classic,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,168.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,263.0
+2023-10-02,2023,coppa-bernocchi,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,315.0
+2023-08-20,2023,cyclassics-hamburg,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,32.0
+2023-07-27,2023,czech-tour,gc,Jumbo-Visma,2.1,,0,0,,53.0,,,72.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,312.0
+2023-03-24,2023,e3-harelbeke,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,472.0
+2023-10-04,2023,elfsteden-race,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,115.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,60.0
+2023-03-26,2023,gent-wevelgem,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,1055.0
+2023-05-06,2023,giro-d-italia,gc,Jumbo-Visma,2.UWT,41.0,20.0,1,,1310.0,0.0,0.0,2190.0
+2023-05-06,2023,giro-d-italia,kom,Jumbo-Visma,2.UWT,,,1,,1310.0,0.0,0.0,2190.0
+2023-05-06,2023,giro-d-italia,points,Jumbo-Visma,2.UWT,,,1,,1310.0,0.0,0.0,2190.0
+2023-09-30,2023,giro-dell-emilia,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,220.0
+2023-09-17,2023,gooikse-pijl,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,85.0
+2023-03-16,2023,gp-de-denain,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,158.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,114.0
+2023-09-10,2023,gp-montreal,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,105.0
+2023-09-08,2023,gp-quebec,gc,Jumbo-Visma,1.UWT,,,1,,0.0,,,190.0
+2023-02-23,2023,gran-camino,gc,Jumbo-Visma,2.1,70.0,0.0,1,,185.0,,,235.0
+2023-10-05,2023,gran-piemonte,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,0.0
+2023-06-03,2023,heist-op-den-berg,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,140.0
+2023-10-07,2023,il-lombardia,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,540.0
+2023-04-03,2023,itzulia-basque-country,gc,Jumbo-Visma,2.UWT,,,1,,464.0,,,615.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,426.0
+2023-04-19,2023,la-fleche-wallonne,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,178.0
+2023-04-23,2023,liege-bastogne-liege,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,315.0
+2023-03-18,2023,milano-sanremo,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,620.0
+2023-10-03,2023,munsterland-giro,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,343.0
+2023-06-25,2023,nc-belgium,gc,Jumbo-Visma,NC,,0,0,,0.0,,,50.0
+2023-06-22,2023,nc-belgium-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-germany,gc,Jumbo-Visma,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-hungary,gc,Jumbo-Visma,NC,,0,0,,0.0,,,100.0
+2023-06-22,2023,nc-hungary-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,50.0
+2023-06-24,2023,nc-italy,gc,Jumbo-Visma,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-netherlands,gc,Jumbo-Visma,NC,,0,0,,0.0,,,200.0
+2023-06-21,2023,nc-netherlands-itt,gc,Jumbo-Visma,NC,,0,0,,0.0,,,54.0
+2023-06-25,2023,nc-norway,gc,Jumbo-Visma,NC,,0,0,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,Jumbo-Visma,2.1,,0,0,,103.0,,,106.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,547.0
+2023-03-05,2023,paris-nice,gc,Jumbo-Visma,2.UWT,85.0,0.0,1,,360.0,,,570.0
+2023-04-09,2023,paris-roubaix,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,735.0
+2023-10-08,2023,paris-tours,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,73.0
+2023-08-23,2023,renewi-tour,gc,Jumbo-Visma,2.UWT,,0,0,,18.0,,,76.0
+2023-03-12,2023,ronde-van-drenthe,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,125.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,715.0
+2023-07-29,2023,san-sebastian,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,92.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Jumbo-Visma,2.1,,0,0,,26.0,,,26.0
+2023-03-04,2023,strade-bianche,gc,Jumbo-Visma,1.UWT,,0,0,,0.0,,,448.0
+2023-03-06,2023,tirreno-adriatico,gc,Jumbo-Visma,2.UWT,,0,0,,530.0,,,729.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Jumbo-Visma,2.UWT,,0,0,,540.0,,,885.0
+2023-07-01,2023,tour-de-france,gc,Jumbo-Visma,2.UWT,,0,0,,1620.0,110.0,0.0,3550.0
+2023-07-01,2023,tour-de-france,kom,Jumbo-Visma,2.UWT,,0,0,,1620.0,110.0,0.0,3550.0
+2023-07-01,2023,tour-de-france,points,Jumbo-Visma,2.UWT,,0,0,,1620.0,110.0,0.0,3550.0
+2023-09-20,2023,tour-de-luxembourg,gc,Jumbo-Visma,2.Pro,,0,0,,65.0,,,63.0
+2023-07-29,2023,tour-de-pologne,gc,Jumbo-Visma,2.UWT,,0,0,,32.0,,,115.0
+2023-04-26,2023,tour-de-romandie,gc,Jumbo-Visma,2.UWT,,0,0,,80.0,,,90.0
+2023-06-11,2023,tour-de-suisse,gc,Jumbo-Visma,2.UWT,,,1,,311.0,,,476.0
+2023-01-17,2023,tour-down-under,gc,Jumbo-Visma,2.UWT,50.0,10.0,1,,30.0,,,98.0
+2023-09-03,2023,tour-of-britain,gc,Jumbo-Visma,2.Pro,,0,0,,200.0,,,345.0
+2023-10-12,2023,tour-of-guangxi,gc,Jumbo-Visma,2.UWT,,0,0,,313.0,,,474.0
+2023-05-26,2023,tour-of-norway,gc,Jumbo-Visma,2.Pro,,0,0,,115.0,,,130.0
+2023-10-03,2023,tre-valli-varesine,gc,Jumbo-Visma,1.Pro,,0,0,,0.0,,,115.0
+2023-02-20,2023,uae-tour,gc,Jumbo-Visma,2.UWT,,0,0,,138.0,,,218.0
+2023-03-20,2023,volta-a-catalunya,gc,Jumbo-Visma,2.UWT,,0,0,,440.0,,,611.0
+2023-02-15,2023,volta-ao-algarve,gc,Jumbo-Visma,2.Pro,,0,0,,103.0,,,106.0
+2023-04-01,2023,volta-nxt-classic,gc,Jumbo-Visma,1.1,,0,0,,0.0,,,8.0
+2023-08-15,2023,vuelta-a-burgos,gc,Jumbo-Visma,2.Pro,,0,0,,215.0,,,265.0
+2023-08-27,2023,vuelta-a-espana,gc,Jumbo-Visma,2.UWT,,0,0,,2875.0,130.0,0.0,4874.0
+2023-08-27,2023,vuelta-a-espana,kom,Jumbo-Visma,2.UWT,,0,0,,2875.0,130.0,0.0,4874.0
+2023-08-27,2023,vuelta-a-espana,points,Jumbo-Visma,2.UWT,,0,0,,2875.0,130.0,0.0,4874.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Jumbo-Visma,2.Pro,,0,0,,80.0,,,110.0
+2023-08-06,2023,world-championship,gc,Australia,WC,,0,0,,0.0,,,310.0
+2023-08-11,2023,world-championship-itt,gc,Australia,WC,,,1,,0.0,,,110.0
+2023-06-07,2023,zlm-tour,gc,Jumbo-Visma,2.Pro,,0,0,,270.0,,,315.0

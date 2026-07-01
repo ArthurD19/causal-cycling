@@ -1,0 +1,51 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-04-20,2017,tour-of-mersin,gc,Kocaeli Brisaspor,2.2,10.0,3.0,1,,3.0,,,3.0
+2018-02-22,2018,tour-of-antalya,gc,Brisaspor,2.2,52.0,0.0,1,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,Bisiklet Sporunu Kalkindirma Kulübü,2.2,119.0,0.0,1,,0.0,,,0.0
+2020-02-16,2020,gp-antalya,gc,ISS Bisiklet Takımı,1.2,,,1,,0.0,,,0.0
+2020-01-25,2020,gp-belek,gc,ISS Bisiklet Takımı,1.2,,,1,,0.0,,,3.0
+2020-02-09,2020,gp-manavgat,gc,ISS Bisiklet Takımı,1.2,,,1,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,ISS Bisiklet Takımı,1.2,,,1,,0.0,,,0.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,15.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Velo Alanya,1.2,,,1,,0.0,,,0.0
+2020-09-03,2020,grand-prix-develi,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-09-03,2020,grand-prix-develi,gc,Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-02-14,2020,grand-prix-gazipasa,gc,ISS Bisiklet Takımı,1.2,,,1,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Istanbul Regional Team,1.2,,,1,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,15.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Istanbul Regional Team,1.2,,,1,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Velo Alanya,1.2,,,1,,0.0,,,0.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,30.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2021-07-03,2021,germenica-grand-prix-road-race-me,gc,Turkey,1.2,,,1,,0.0,,,0.0
+2021-02-06,2021,grand-prix-alanya,gc,NF Kimya Cycling,1.2,,,1,,0.0,,,0.0
+2021-07-10,2021,grand-prix-erciyes-mimar-sinan-me,gc,Turkey,1.2,,,1,,0.0,,,0.0
+2021-02-07,2021,grand-prix-gazipasa,gc,NF Kimya Cycling,1.2,,,1,,0.0,,,0.0
+2021-07-04,2021,kahramanmaras-grand-prix-road-race-me,gc,Turkey,1.2,,,1,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Turkey,Olympics,,0,0,,0.0,,,0.0
+2021-09-09,2021,tour-de-serbie,gc,Turkey,2.2,,0,0,,0.0,,,1.0
+2021-06-03,2021,tour-of-malopolska,gc,Turkey,2.2,,0,0,,0.0,,,0.0
+2022-03-05,2022,grand-prix-gazipasa,gc,NF Kimya Cycling,1.2,,,1,,0.0,,,0.0
+2022-03-20,2022,grand-prix-gundogmus-me,gc,NF Kimya Cycling,1.2,,0,0,,0.0,,,0.0
+2022-03-19,2022,grand-prix-manavgat-side,gc,NF Kimya Cycling,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,grand-prix-mediterrennean,gc,NF Kimya Cycling,1.2,,,1,,0.0,,,0.0
+2023-08-01,2023,100th-anniversary-tour-of-the-republic,gc,Spor Toto Cycling Team,2.2,,0,0,,6.0,,,24.0
+2023-03-04,2023,alanya-cup,gc,Spor Toto Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-07-30,2023,grand-prix-altinkale,gc,Spor Toto Cycling Team,1.2,,0,0,,0.0,,,10.0
+2023-02-04,2023,grand-prix-apollon-temple-me,gc,Spor Toto Cycling Team,1.2,,0,0,,0.0,,,0.0
+2023-01-28,2023,grand-prix-aspendos,gc,Spor Toto Cycling Team,1.2,,,1,,0.0,,,25.0
+2023-07-08,2023,grand-prix-erciyes-mimar-sinan-me,gc,Spor Toto Cycling Team,1.2,,0,0,,0.0,,,20.0
+2023-08-19,2023,grand-prix-kaisareiame,gc,Spor Toto Cycling Team,1.2,,0,0,,0.0,,,20.0
+2023-06-10,2023,kirikkale-road-race,gc,Spor Toto Cycling Team,2.2,,0,0,,33.0,,,41.0
+2023-06-23,2023,nc-turkey,gc,Spor Toto Cycling Team,NC,,,1,,0.0,,,229.0
+2023-06-24,2023,nc-turkey-itt,gc,Spor Toto Cycling Team,NC,,,1,,0.0,,,58.0
+2023-03-26,2023,syedra-ancient-city,gc,Spor Toto Cycling Team,1.2,,,1,,0.0,,,3.0
+2023-09-28,2023,tour-of-istanbul,gc,Spor Toto Cycling Team,2.2,57.0,0.0,1,,0.0,,,0.0
+2023-05-17,2023,tour-of-konya,gc,Spor Toto Cycling Team,2.2,,0,0,,0.0,,,0.0
+2023-10-08,2023,tour-of-turkey,gc,Spor Toto Cycling Team,2.1,,0,0,,0.0,,,0.0
+2023-09-07,2023,tour-of-van,gc,Spor Toto Cycling Team,2.2,12.0,0.0,1,,0.0,,,0.0
+2023-08-25,2023,tour-of-yigido,gc,Spor Toto Cycling Team,2.2,,0,0,,35.0,,,39.0

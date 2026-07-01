@@ -1,0 +1,701 @@
+fichier_gpx,route_url,road_km,state_road_km,street_km,cycleway_km,access_road_km,path_km,singletrack_km,asphalt_km,paved_km,cobblestones_km,unknown_km,unpaved_km,off-grid_(unknown)_km,compacted_gravel_km,alpine_km
+2021 100^ Tre Valli Varesine.gpx,https://www.komoot.com/tour/2973359259,110.0,31.7,31.4,15.9,0.851,0.277,0.1,182.0,6.85,0.851,0.243,0.0,0.0,0.0,0.0
+2021 17eme Tour Alsace Prologue.gpx,https://www.komoot.com/tour/2973360085,0.0,0.0,3.87,0.502,0.0,0.0,0.0,1.62,2.57,0.0,0.131,0.0,0.0,0.0,0.0
+2021 17eme Tour Alsace Stage 1.gpx,https://www.komoot.com/tour/2973361286,142.0,13.5,1.13,1.97,0.0,0.206,0.0,156.0,3.31,0.0,0.0,0.206,0.0,0.0,0.0
+2021 17eme Tour Alsace Stage 2.gpx,https://www.komoot.com/tour/2973362298,135.0,7.05,0.579,1.47,0.0,0.0,0.0,141.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 17eme Tour Alsace Stage 3.gpx,https://www.komoot.com/tour/2973363369,148.0,6.57,2.55,1.03,0.0,0.743,0.0,151.0,5.87,0.76,0.459,0.743,0.42,0.0,0.0
+2021 17eme Tour Alsace Stage 4.gpx,https://www.komoot.com/tour/2973364910,117.0,20.8,3.76,18.6,0.0,0.0,0.0,152.0,8.59,0.0,0.293,0.0,0.0,0.0,0.0
+2021 45e Dorpenomloop Rucphen.gpx,https://www.komoot.com/tour/2973366008,102.0,0.0,1.1,51.4,0.0,1.63,0.459,74.8,94.7,0.0,23.4,2.09,22.6,0.0,0.0
+2021 57esimo Giro della Regione Friuli Venezia Giulia Stage 1.gpx,https://www.komoot.com/tour/2973367308,101.0,50.9,0.0,0.0,0.0,0.0,0.0,142.0,9.8,0.0,0.716,0.0,0.716,0.0,0.0
+2021 57esimo Giro della Regione Friuli Venezia Giulia Stage 2.gpx,https://www.komoot.com/tour/2973368152,126.0,12.2,0.435,2.99,0.0,0.208,0.0,140.0,1.45,0.208,0.857,0.0,1.09,0.0,0.0
+2021 57esimo Giro della Regione Friuli Venezia Giulia Stage 3.gpx,https://www.komoot.com/tour/2973369167,131.0,24.9,0.224,0.718,0.0,0.121,0.0,157.0,0.148,0.282,0.0,0.0,0.0,0.0,0.0
+2021 66esimo Trofeo Alcide Degasperi.gpx,https://www.komoot.com/tour/2973370590,131.0,10.4,2.47,0.351,0.0,3.25,0.0,143.0,0.314,1.12,15.3,0.826,13.4,0.0,0.0
+2021 74th Gran Premio della Liberazione.gpx,https://www.komoot.com/tour/2973372568,67.0,8.07,6.67,19.2,0.0,24.2,0.0,106.0,17.1,0.0,12.3,0.0,9.98,0.0,0.0
+2021 76 Grand Prix International de la ville de Nogent-sur-Oise.gpx,https://www.komoot.com/tour/2973373758,135.0,21.8,3.97,13.1,0.0,0.0,0.0,170.0,2.09,1.88,0.0,0.0,0.0,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Prologue.gpx,https://www.komoot.com/tour/2973374832,0.0,4.54,0.524,0.0,0.0,0.262,0.0,5.07,0.0,0.203,0.0,0.0,0.0,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 1.gpx,https://www.komoot.com/tour/2973376048,15.2,156.0,1.47,0.0,0.0,0.206,0.0,170.0,1.1,2.08,1.88,0.0,1.82,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 10.gpx,https://www.komoot.com/tour/2973376909,9.59,10.5,0.0,0.0,0.0,0.0,0.0,20.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 2.gpx,https://www.komoot.com/tour/2973377963,40.3,121.0,0.925,0.0,0.0,0.0,0.0,160.0,0.87,1.05,0.0,0.0,0.0,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 3.gpx,https://www.komoot.com/tour/2973379090,52.0,114.0,2.38,1.88,0.0,0.153,0.0,160.0,8.36,1.26,0.181,0.0,0.181,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 4.gpx,https://www.komoot.com/tour/2973380196,85.7,90.3,1.11,3.12,0.0,0.0,0.0,162.0,15.8,2.4,1.84,0.0,1.84,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 5.gpx,https://www.komoot.com/tour/2973381540,66.9,96.8,3.26,2.85,0.0,0.392,0.388,162.0,6.11,1.48,2.01,0.263,0.888,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 6.gpx,https://www.komoot.com/tour/2973382510,20.3,161.0,0.971,0.0,0.0,0.0,0.0,179.0,0.602,2.83,0.0,0.0,0.0,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 7.gpx,https://www.komoot.com/tour/2973383479,0.988,191.0,0.432,0.0,0.0,0.0,0.0,192.0,0.445,0.0,0.0,0.0,0.0,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 8.gpx,https://www.komoot.com/tour/2973384307,22.5,136.0,0.626,0.0,0.0,1.28,0.0,157.0,1.99,0.0,0.0,1.28,0.0,0.0,0.0
+2021 82^ Volta a Portugal em Bicicleta Santander Stage 9.gpx,https://www.komoot.com/tour/2973385276,73.4,72.0,0.0,0.0,0.0,0.0,0.0,141.0,3.19,1.72,0.0,0.0,0.0,0.0,0.0
+2021 Albert Achterhes Profronde van Drenthe.gpx,https://www.komoot.com/tour/2973386642,100.0,0.0,14.2,37.7,0.0,17.2,0.617,90.7,56.7,27.0,8.12,3.65,2.07,0.0,0.0
+2021 Alpes Isere Tour Stage 1.gpx,https://www.komoot.com/tour/2973387679,135.0,0.459,0.0,1.6,0.0,0.0,0.0,128.0,9.34,0.0,0.0,0.0,0.375,0.0,0.0
+2021 Alpes Isere Tour Stage 2.gpx,https://www.komoot.com/tour/2973388732,151.0,0.304,7.23,8.88,0.0,0.0,0.0,153.0,13.9,0.0,0.763,0.0,0.763,0.0,0.0
+2021 Alpes Isere Tour Stage 3.gpx,https://www.komoot.com/tour/2973389623,141.0,0.18,12.8,3.47,0.0,0.0,0.0,122.0,35.7,0.0,0.213,0.0,0.213,0.0,0.0
+2021 Alpes Isere Tour Stage 4.gpx,https://www.komoot.com/tour/2973390570,172.0,0.331,1.8,0.639,0.0,0.0,0.0,161.0,13.6,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Alpes Isere Tour Stage 5.gpx,https://www.komoot.com/tour/2973391601,130.0,6.81,0.148,4.56,0.106,0.573,0.0,136.0,5.61,0.0,0.271,0.0,0.217,0.409,0.0
+2021 Amstel Gold Race.gpx,https://www.komoot.com/tour/2973392975,80.1,0.0,3.61,113.0,0.0,0.0,0.0,188.0,24.4,3.21,0.515,0.0,0.0,0.0,0.0
+2021 Arctic Race of Norway Stage 1.gpx,https://www.komoot.com/tour/2973394187,64.4,72.7,2.32,1.95,0.0,0.151,0.0,139.0,1.26,0.761,0.151,0.0,0.0,0.0,0.0
+2021 Arctic Race of Norway Stage 2.gpx,https://www.komoot.com/tour/2973395411,37.2,138.0,1.6,0.0,0.0,0.0,0.0,176.0,0.0,0.0,1.18,0.0,0.0,0.0,0.0
+2021 Arctic Race of Norway Stage 3.gpx,https://www.komoot.com/tour/2973396191,15.6,168.0,0.0,0.0,0.0,0.0,0.0,179.0,4.39,0.0,0.0,0.0,0.922,0.0,0.0
+2021 Arctic Race of Norway Stage 4.gpx,https://www.komoot.com/tour/2973397101,45.5,110.0,6.85,0.496,0.174,0.322,0.0,161.0,1.72,0.0,0.765,0.0,0.527,0.0,0.0
+2021 Australian Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973397867,29.9,0.0,6.8,0.838,0.0,0.0,0.0,14.1,23.5,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Australian Road National Championships.gpx,https://www.komoot.com/tour/2973398726,87.7,14.3,23.6,14.8,0.0,0.0,0.0,17.5,123.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Austrian Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973399499,0.0,27.2,0.288,0.0,0.0,0.0,0.0,27.2,0.0,0.0,0.163,0.0,0.0,0.0,0.0
+2021 Austrian Road National Championships.gpx,https://www.komoot.com/tour/2973400602,146.0,24.9,0.0,5.79,0.0,0.0,0.0,177.0,0.0,0.0,0.141,0.0,0.355,0.0,0.0
+2021 Axion SWISS Bank Gran Premio Citta di Lugano.gpx,https://www.komoot.com/tour/2973401737,166.0,0.102,20.7,0.0,0.0,0.0,0.0,173.0,13.4,0.24,0.0,0.0,0.0,0.0,0.0
+2021 Baloise Belgium Tour Stage 1.gpx,https://www.komoot.com/tour/2973402771,61.7,2.86,8.98,89.8,0.0,0.222,0.193,102.0,68.9,4.44,0.104,0.203,0.0,0.0,0.0
+2021 Baloise Belgium Tour Stage 2.gpx,https://www.komoot.com/tour/2973403702,2.97,0.0,0.355,5.28,0.0,0.0,0.0,9.66,1.37,0.0,0.194,0.0,0.0,0.0,0.0
+2021 Baloise Belgium Tour Stage 3.gpx,https://www.komoot.com/tour/2973404600,52.6,2.09,7.47,93.7,0.0,0.346,2.15,63.6,109.0,1.6,0.0,0.233,0.0,0.0,0.0
+2021 Baloise Belgium Tour Stage 4.gpx,https://www.komoot.com/tour/2973405457,99.8,33.8,8.95,9.9,0.0,0.0,0.0,142.0,10.4,0.206,0.0,0.0,0.0,0.0,0.0
+2021 Baloise Belgium Tour Stage 5.gpx,https://www.komoot.com/tour/2973406516,30.6,2.0,31.4,79.9,0.0,0.84,0.0,115.0,59.1,3.48,1.29,0.28,0.725,0.715,0.0
+2021 Baltic Chain Tour Stage 1.gpx,https://www.komoot.com/tour/2973407597,146.0,0.0,0.305,17.2,0.0,0.533,0.0,160.0,4.23,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Baltic Chain Tour Stage 2.gpx,https://www.komoot.com/tour/2973408321,163.0,0.0,0.0,0.0,0.0,0.0,0.0,137.0,11.3,0.0,0.0,12.8,0.0,1.33,0.0
+2021 Baltic Chain Tour Stage 3.gpx,https://www.komoot.com/tour/2973409464,2.08,163.0,1.34,0.0,0.0,0.362,0.0,165.0,0.181,1.01,0.0,0.139,0.0,0.0,0.0
+2021 Belgian Road National Championships.gpx,https://www.komoot.com/tour/2973410882,72.9,0.0,28.2,102.0,0.0,0.0,0.0,119.0,90.4,6.18,3.29,1.42,3.29,0.0,0.0
+2021 Belgrade Banjaluka Stage 1.gpx,https://www.komoot.com/tour/2973411747,7.85,75.8,5.06,0.0,0.0,1.24,0.0,86.3,3.54,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Belgrade Banjaluka Stage 2.gpx,https://www.komoot.com/tour/2973412669,45.6,72.3,3.42,0.0,0.0,1.24,0.0,120.0,2.27,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Belgrade Banjaluka Stage 3.gpx,https://www.komoot.com/tour/2973413569,35.8,85.1,2.81,0.0,0.0,0.457,0.0,124.0,0.16,0.0,0.0,0.0,0.0,0.457,0.0
+2021 Belgrade Banjaluka Stage 4.gpx,https://www.komoot.com/tour/2973414710,43.3,106.0,1.28,9.72,0.0,0.349,0.0,151.0,9.27,0.174,0.775,0.0,0.77,0.0,0.0
+2021 Benelux Tour Stage 1.gpx,https://www.komoot.com/tour/2973415648,57.1,15.1,5.07,37.0,0.0,1.73,0.462,104.0,22.9,13.5,30.6,1.02,29.5,0.199,0.0
+2021 Benelux Tour Stage 2.gpx,https://www.komoot.com/tour/2973416660,1.74,0.0,0.942,5.55,0.0,0.138,0.0,4.57,4.58,0.498,1.56,0.0,0.871,0.0,0.0
+2021 Benelux Tour Stage 3.gpx,https://www.komoot.com/tour/2973417799,84.1,0.0,3.2,51.6,0.0,0.306,0.48,114.0,45.5,8.16,0.276,1.22,0.0,0.0,0.0
+2021 Benelux Tour Stage 4.gpx,https://www.komoot.com/tour/2973419096,48.7,0.523,6.69,99.2,0.0,0.274,0.0,86.5,77.8,0.807,1.74,0.112,1.48,0.0,0.0
+2021 Benelux Tour Stage 5.gpx,https://www.komoot.com/tour/2973420327,106.0,5.13,12.3,52.8,0.0,0.12,0.0,143.0,42.8,1.84,0.0,0.0,0.0,0.0,0.0
+2021 Benelux Tour Stage 6.gpx,https://www.komoot.com/tour/2973421502,156.0,14.2,4.77,30.4,0.0,0.0,0.0,195.0,9.34,0.0,0.474,0.0,0.383,0.0,0.0
+2021 Benelux Tour Stage 7.gpx,https://www.komoot.com/tour/2973422373,67.2,15.9,28.9,64.2,0.74,0.219,0.0,119.0,52.4,8.68,1.58,0.0,0.831,0.0,0.0
+2021 Boucles de l'Aulne - Chateaulin.gpx,https://www.komoot.com/tour/2973423579,118.0,52.4,8.64,0.0,0.0,0.0,0.0,167.0,10.9,0.616,0.0,0.0,0.0,0.0,0.0
+2021 Boucles de la Mayenne Stage 1.gpx,https://www.komoot.com/tour/2973424669,165.0,3.07,5.39,0.462,0.0,0.0,0.0,161.0,12.4,0.0,0.994,0.0,0.0,0.0,0.0
+2021 Boucles de la Mayenne Stage 2.gpx,https://www.komoot.com/tour/2973425751,160.0,2.9,9.64,0.0,0.182,0.0,0.0,150.0,22.8,0.337,0.182,0.0,0.0,0.0,0.0
+2021 Boucles de la Mayenne Stage 3.gpx,https://www.komoot.com/tour/2973426736,177.0,0.488,2.12,1.52,0.0,0.0,0.0,145.0,35.8,0.0,0.6,0.0,0.596,0.0,0.0
+2021 Boucles de la Mayenne Stage 4.gpx,https://www.komoot.com/tour/2973427702,168.0,3.61,5.4,4.04,0.0,0.0,0.0,162.0,18.7,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Bredene Koksijde Classic.gpx,https://www.komoot.com/tour/2973428691,104.0,2.81,9.54,50.8,0.0,0.325,0.355,137.0,59.5,2.63,0.569,0.602,0.0,0.0,0.0
+2021 Bretagne Classic - Ouest-France.gpx,https://www.komoot.com/tour/2973429845,238.0,7.78,5.08,1.82,0.0,0.0,0.0,189.0,64.5,0.0,0.24,0.0,0.24,0.0,0.0
+2021 Brussels Cycling Classic.gpx,https://www.komoot.com/tour/2973431052,95.0,11.9,27.3,54.7,0.795,0.718,0.0,140.0,47.4,8.21,9.84,0.402,9.31,0.0,0.0
+2021 CAC African Road Championships - ITT.gpx,https://www.komoot.com/tour/2973432387,5.85,34.5,0.0,0.0,0.0,0.0,0.0,40.4,0.0,0.0,1.22,0.0,1.83,0.0,0.0
+2021 CAC African Road Championships - TTT.gpx,https://www.komoot.com/tour/2973433285,5.85,34.5,0.0,0.0,0.0,0.0,0.0,40.4,0.0,0.0,1.22,0.0,1.83,0.0,0.0
+2021 CAC African Road Championships.gpx,https://www.komoot.com/tour/2973434595,15.3,66.9,0.0,0.0,0.0,0.0,0.0,82.2,0.0,0.0,1.09,0.0,1.31,0.0,0.0
+2021 CCC Tour - Grody Piastowskie Stage 1.gpx,https://www.komoot.com/tour/2973436577,81.1,0.0,4.75,7.84,0.0,0.912,0.0,88.6,5.54,0.391,2.08,0.0,2.02,0.0,0.0
+2021 CCC Tour - Grody Piastowskie Stage 2.gpx,https://www.komoot.com/tour/2973438247,136.0,0.0,3.94,0.0,0.0,0.5,0.0,134.0,5.26,1.57,0.985,0.0,0.668,0.0,0.0
+2021 CCC Tour - Grody Piastowskie Stage 3.gpx,https://www.komoot.com/tour/2973439604,116.0,0.0,8.57,0.0,0.424,0.617,0.0,106.0,18.4,0.616,0.184,0.0,0.0,0.0,0.0
+2021 COPACI Campeonato Panamericano de Ruta - ITT.gpx,https://www.komoot.com/tour/2973440755,38.9,0.0,0.0,0.0,0.0,1.24,0.0,38.9,0.183,0.0,0.882,0.0,0.0,0.0,0.0
+2021 COPACI Campeonato Panamericano de Ruta.gpx,https://www.komoot.com/tour/2973441969,87.8,0.0,0.0,0.0,0.0,2.79,0.0,87.8,0.411,0.0,2.2,0.0,0.0,0.0,0.0
+2021 Canadian Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973443142,33.0,0.0,1.02,0.0,0.0,0.0,0.0,33.0,1.02,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Canadian Road National Championships.gpx,https://www.komoot.com/tour/2973444186,198.0,0.0,0.571,0.0,0.0,0.0,0.0,189.0,2.26,0.0,0.0,6.95,0.0,0.0,0.0
+2021 Cholet - Pays de la Loire.gpx,https://www.komoot.com/tour/2973445555,157.0,1.1,24.8,13.9,0.405,0.315,0.294,168.0,28.9,0.0,5.66,0.294,5.02,0.0,0.0
+2021 Chrono des Nations.gpx,https://www.komoot.com/tour/2973446546,43.4,0.131,0.499,0.557,0.0,0.0,0.0,44.1,0.499,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Circuit de Wallonie.gpx,https://www.komoot.com/tour/2973447454,99.5,54.3,9.37,29.1,0.0,0.0,0.0,165.0,23.2,3.42,3.39,0.0,3.15,0.0,0.0
+2021 Circuit des Ardennes International Stage 1.gpx,https://www.komoot.com/tour/2973448356,107.0,3.61,10.5,0.0,0.0,0.0,0.0,115.0,6.02,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Circuit des Ardennes International Stage 2.gpx,https://www.komoot.com/tour/2973449157,160.0,24.4,2.7,0.0,0.0,0.0,0.0,183.0,3.86,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Circuit des Ardennes International Stage 3.gpx,https://www.komoot.com/tour/2973450091,142.0,19.2,2.76,1.22,0.0,0.159,0.0,124.0,40.5,0.0,0.186,0.0,0.0,0.0,0.0
+2021 Circuit des Ardennes International Stage 4.gpx,https://www.komoot.com/tour/2973451079,149.0,6.85,6.89,5.95,0.0,0.0,0.0,150.0,16.8,1.7,2.65,0.0,2.65,0.0,0.0
+2021 Circuito de Getxo - Memorial Hermanos Otxoa.gpx,https://www.komoot.com/tour/2973452928,52.0,84.3,34.3,23.0,0.0,1.07,0.0,166.0,23.8,4.64,0.147,0.0,0.0,0.0,0.0
+2021 Circuito del Porto - Trofeo Arvedi.gpx,https://www.komoot.com/tour/2973454061,111.0,45.8,0.0,19.9,0.0,0.0,0.0,177.0,0.0,0.0,2.65,0.0,2.86,0.0,0.0
+2021 Clasica de Almeria.gpx,https://www.komoot.com/tour/2973455317,156.0,10.5,3.32,1.11,0.0,0.344,0.441,165.0,4.66,0.0,14.4,2.33,14.2,0.0,0.0
+2021 Classic Grand Besancon Doubs.gpx,https://www.komoot.com/tour/2973456423,157.0,0.261,11.3,3.22,0.0,0.0,0.0,155.0,17.2,0.0,0.437,0.0,0.339,0.0,0.0
+2021 Classic Loire Atlantique.gpx,https://www.komoot.com/tour/2973457445,147.0,0.0,29.3,7.77,0.0,0.0,0.0,163.0,20.7,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Classica Comunitat Valenciana 1969 - Gran Premio Valencia.gpx,https://www.komoot.com/tour/2973458617,79.1,12.6,0.794,0.461,0.0,0.0,0.0,95.2,0.677,0.0,0.28,0.0,0.191,0.0,0.0
+2021 Classica da Arrabida - Cyclin'Portugal.gpx,https://www.komoot.com/tour/2973459787,69.0,99.7,6.41,0.0,0.0,3.21,0.0,162.0,13.4,0.24,1.13,3.21,1.13,0.0,0.0
+2021 Classique Paris-Chauny.gpx,https://www.komoot.com/tour/2973460748,181.0,10.9,6.37,3.87,0.0,0.0,0.0,192.0,9.55,0.0,0.338,0.0,0.208,0.0,0.0
+2021 Colombian Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973461615,0.0,36.5,0.913,0.0,0.0,0.0,0.0,36.5,0.0,0.0,2.19,0.0,1.28,0.0,0.0
+2021 Colombian Road National Championships.gpx,https://www.komoot.com/tour/2973462990,0.0,106.0,0.0,0.0,0.0,0.172,0.0,94.4,11.9,0.0,0.172,0.0,0.0,0.169,0.0
+2021 Coppa Agostoni - Giro delle Brianze.gpx,https://www.komoot.com/tour/2973464075,174.0,0.267,5.09,2.05,0.0,0.153,0.0,155.0,26.8,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Coppa Bernocchi - GP BPM.gpx,https://www.komoot.com/tour/2973465312,161.0,24.8,8.99,1.45,0.253,0.0,0.0,188.0,8.3,0.44,0.192,0.0,0.0,0.0,0.0
+2021 Coppa Sabatini - Gran Premio citta di Peccioli.gpx,https://www.komoot.com/tour/2973466341,160.0,44.3,5.25,0.0,0.0,0.0,0.0,183.0,26.4,0.708,1.09,0.0,1.09,0.0,0.0
+2021 Course Cycliste de Solidarnosc et des Champions Olympiques Stage 1-1.gpx,https://www.komoot.com/tour/2973467284,61.0,0.0,5.23,4.6,0.0,0.824,0.0,70.3,3.95,0.905,0.44,0.0,0.0,0.0,0.0
+2021 Course Cycliste de Solidarnosc et des Champions Olympiques Stage 1-2.gpx,https://www.komoot.com/tour/2973468124,93.4,0.69,1.27,0.774,0.0,0.284,0.0,85.4,10.6,0.408,0.0,0.0,0.0,0.0,0.0
+2021 Course Cycliste de Solidarnosc et des Champions Olympiques Stage 2.gpx,https://www.komoot.com/tour/2973469107,171.0,14.1,3.49,0.101,0.506,2.3,0.0,187.0,2.77,1.26,1.33,0.349,0.339,0.0,0.0
+2021 Course Cycliste de Solidarnosc et des Champions Olympiques Stage 3.gpx,https://www.komoot.com/tour/2973470384,154.0,30.7,11.0,9.78,0.0,3.56,0.0,199.0,6.51,2.43,0.911,0.0,0.0,0.0,0.0
+2021 Course Cycliste de Solidarnosc et des Champions Olympiques Stage 4.gpx,https://www.komoot.com/tour/2973471769,124.0,12.9,12.9,11.4,0.0,0.258,0.299,151.0,1.09,9.51,0.275,0.299,0.201,0.0,0.0
+2021 Criterium du Dauphine Stage 1.gpx,https://www.komoot.com/tour/2973472669,178.0,0.0,0.0,4.35,0.0,0.0,0.0,181.0,1.59,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Criterium du Dauphine Stage 2.gpx,https://www.komoot.com/tour/2973473706,172.0,0.0,0.0,0.996,0.0,0.0,0.0,173.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Criterium du Dauphine Stage 3.gpx,https://www.komoot.com/tour/2973474810,119.0,51.2,0.0,0.864,0.0,0.0,0.0,165.0,6.22,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Criterium du Dauphine Stage 4.gpx,https://www.komoot.com/tour/2973475634,13.5,0.0,1.41,1.42,0.0,0.0,0.0,13.1,3.29,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Criterium du Dauphine Stage 5.gpx,https://www.komoot.com/tour/2973476674,163.0,2.79,3.88,0.557,0.0,0.0,0.0,161.0,9.63,0.0,0.498,0.0,0.498,0.0,0.0
+2021 Criterium du Dauphine Stage 6.gpx,https://www.komoot.com/tour/2973478289,88.0,56.9,0.0,20.8,0.0,0.0,0.0,166.0,0.143,0.0,1.42,0.0,1.42,0.0,0.0
+2021 Criterium du Dauphine Stage 7.gpx,https://www.komoot.com/tour/2973479600,117.0,13.2,0.444,41.0,0.0,0.0,0.0,171.0,0.193,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Criterium du Dauphine Stage 8.gpx,https://www.komoot.com/tour/2973480733,115.0,22.9,0.501,6.05,0.0,0.0,0.0,143.0,1.01,0.0,3.79,0.0,3.5,0.0,0.0
+2021 CroRace Stage 1.gpx,https://www.komoot.com/tour/2973481843,30.8,158.0,2.49,41.9,0.0,1.44,0.0,231.0,2.26,0.694,3.5,0.338,3.4,0.0,0.0
+2021 CroRace Stage 2.gpx,https://www.komoot.com/tour/2973482816,57.2,129.0,0.6,0.0,0.0,0.755,0.0,185.0,1.55,0.0,0.0,0.755,0.227,0.0,0.0
+2021 CroRace Stage 3.gpx,https://www.komoot.com/tour/2973483968,17.3,134.0,6.09,0.0,0.0,2.7,0.283,155.0,2.76,0.206,10.1,1.78,9.24,0.391,0.0
+2021 CroRace Stage 4.gpx,https://www.komoot.com/tour/2973485170,3.67,188.0,6.08,0.0,0.0,0.109,0.0,197.0,0.241,0.135,0.0,0.0,0.0,0.0,0.0
+2021 CroRace Stage 5.gpx,https://www.komoot.com/tour/2973486404,73.5,55.2,2.39,0.0,0.0,0.308,0.0,129.0,2.14,0.0,6.84,0.0,6.84,0.0,0.0
+2021 CroRace Stage 6.gpx,https://www.komoot.com/tour/2973487827,62.3,21.8,7.63,9.9,0.218,5.7,0.816,125.0,2.14,1.3,26.3,2.72,25.3,0.0,0.0
+2021 Croatian Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973488658,24.9,0.0,0.0,0.0,0.0,0.0,0.0,24.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Croatian Road National Championships.gpx,https://www.komoot.com/tour/2973489712,52.3,0.0,0.0,0.0,0.0,0.0,0.0,18.3,34.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Cycling Tour of Szeklerland Stage 1.gpx,https://www.komoot.com/tour/2973490697,60.7,57.2,0.0,3.32,0.0,0.0,0.0,121.0,0.162,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Cycling Tour of Szeklerland Stage 2.gpx,https://www.komoot.com/tour/2973491667,56.3,62.0,2.4,0.665,0.133,0.0,0.0,118.0,3.67,0.151,0.0,0.0,0.0,0.0,0.0
+2021 Cycling Tour of Szeklerland Stage 3.gpx,https://www.komoot.com/tour/2973492490,19.3,98.3,0.103,0.0,0.0,0.0,0.0,104.0,3.83,9.74,0.0,0.0,0.0,0.0,0.0
+2021 Cycling Tour of Szeklerland Stage 4.gpx,https://www.komoot.com/tour/2973493853,78.5,31.7,7.81,9.36,0.92,6.64,0.0,132.0,4.28,7.07,0.926,0.0,0.0,0.0,0.0
+2021 Danilith Nokere Koerse.gpx,https://www.komoot.com/tour/2973494753,99.3,3.87,19.1,57.6,0.0,0.0,0.226,109.0,66.5,17.2,1.32,0.226,1.32,0.0,0.0
+2021 De Brabantse Pijl - La Fleche Brabanconne.gpx,https://www.komoot.com/tour/2973495961,79.3,11.7,20.9,85.0,0.0,0.782,0.0,134.0,64.4,3.47,0.681,0.0,0.681,0.0,0.0
+2021 Deutschland Tour Stage 1.gpx,https://www.komoot.com/tour/2973497871,112.0,36.2,5.85,9.39,0.0,0.166,0.405,178.0,9.5,1.7,1.23,0.344,0.754,0.121,0.0
+2021 Deutschland Tour Stage 2.gpx,https://www.komoot.com/tour/2973499191,121.0,41.5,6.07,5.84,0.0,0.0,0.0,174.0,3.75,2.54,4.71,0.0,0.0,0.0,0.0
+2021 Deutschland Tour Stage 3.gpx,https://www.komoot.com/tour/2973500273,175.0,2.59,3.66,8.41,0.0,1.25,0.0,185.0,6.65,1.06,0.0,0.143,0.0,0.0,0.0
+2021 Deutschland Tour Stage 4.gpx,https://www.komoot.com/tour/2973501728,114.0,17.0,5.23,17.4,0.259,0.601,0.0,144.0,6.78,5.62,0.0,0.0,0.0,0.188,0.0
+2021 Donostia San Sebastian Klasikoa.gpx,https://www.komoot.com/tour/2973503556,136.0,69.7,9.89,5.83,0.0,1.01,0.0,215.0,1.32,0.957,1.23,3.94,0.4,0.0,0.0
+2021 Dookola Mazowsza Stage 1.gpx,https://www.komoot.com/tour/2973504719,150.0,0.0,0.0,18.8,0.0,0.0,0.0,150.0,0.0,18.8,0.0,0.0,0.0,0.0,0.0
+2021 Dookola Mazowsza Stage 2.gpx,https://www.komoot.com/tour/2973505774,169.0,0.0,0.0,0.0,0.0,0.0,0.0,133.0,36.6,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Dookola Mazowsza Stage 3.gpx,https://www.komoot.com/tour/2973506965,161.0,0.0,5.79,0.0,0.0,0.0,0.0,164.0,2.27,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Dookola Mazowsza Stage 4.gpx,https://www.komoot.com/tour/2973507931,85.0,68.0,11.4,0.0,0.0,0.198,0.191,149.0,15.2,0.198,0.732,0.191,0.732,0.0,0.0
+2021 Druivenkoers - Overijse.gpx,https://www.komoot.com/tour/2973509103,84.6,1.52,15.4,82.0,0.0,0.0,0.0,86.6,98.4,7.5,0.0,0.0,0.0,0.0,0.0
+2021 Dwars door Vlaanderen - A travers la Flandre.gpx,https://www.komoot.com/tour/2973510493,76.3,2.0,14.6,72.6,0.0,0.0,0.0,114.0,59.8,7.2,2.91,0.0,2.7,0.0,0.0
+2021 Dwars door het Hageland.gpx,https://www.komoot.com/tour/2973511888,30.4,1.04,19.2,66.9,0.0,37.5,0.106,61.2,75.0,3.31,0.998,10.2,0.812,26.5,0.0
+2021 E3 Saxo Bank Classic.gpx,https://www.komoot.com/tour/2973513046,86.1,11.6,25.9,68.2,0.0,0.119,0.0,120.0,68.7,14.8,0.516,0.0,0.439,0.0,0.0
+2021 Elfstedenronde.gpx,https://www.komoot.com/tour/2973514121,92.9,3.85,18.5,63.1,0.184,0.709,0.0,105.0,70.1,16.8,0.802,0.322,0.0,0.0,0.0
+2021 Elite Road Central American Championships - ITT.gpx,https://www.komoot.com/tour/2973515022,0.0,39.0,0.0,0.0,0.0,0.373,0.0,39.0,0.0,0.0,0.186,0.0,0.0,0.0,0.0
+2021 Eschborn-Frankfurt.gpx,https://www.komoot.com/tour/2973518876,119.0,13.5,4.76,30.6,0.489,2.08,1.21,168.0,6.42,3.16,9.9,0.18,9.82,0.249,0.0
+2021 Ethias Tour de Wallonie Stage 1.gpx,https://www.komoot.com/tour/2973519984,130.0,36.3,0.936,13.0,0.0,0.0,0.0,172.0,9.2,0.605,0.252,0.0,0.0,0.0,0.0
+2021 Ethias Tour de Wallonie Stage 2.gpx,https://www.komoot.com/tour/2973521160,0.0,0.0,14.1,7.3,0.0,1.49,28.6,2.45,7.3,0.0,81.8,30.1,70.2,0.0,0.0
+2021 Ethias Tour de Wallonie Stage 3.gpx,https://www.komoot.com/tour/2973522877,114.0,47.7,1.49,8.51,0.0,0.0,0.0,152.0,19.1,0.525,0.0,0.0,0.0,0.0,0.0
+2021 Ethias Tour de Wallonie Stage 4.gpx,https://www.komoot.com/tour/2973524158,176.0,11.4,6.5,9.87,0.0,0.459,0.0,187.0,14.6,2.14,0.541,0.409,0.491,0.0,0.0
+2021 Ethias Tour de Wallonie Stage 5.gpx,https://www.komoot.com/tour/2973525283,90.2,76.7,6.62,14.1,0.0,0.0,0.0,171.0,14.7,1.38,1.79,0.0,1.79,0.0,0.0
+2021 Etoile de Besseges - Tour du Gard Stage 1.gpx,https://www.komoot.com/tour/2973526355,104.0,35.6,2.91,0.399,0.0,0.537,0.0,142.0,0.578,0.0,1.1,0.0,0.568,0.0,0.0
+2021 Etoile de Besseges - Tour du Gard Stage 2.gpx,https://www.komoot.com/tour/2973527208,148.0,4.63,1.29,0.0,0.0,0.0,0.0,148.0,5.89,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Etoile de Besseges - Tour du Gard Stage 3.gpx,https://www.komoot.com/tour/2973528279,142.0,8.9,1.62,0.0,0.0,0.0,0.0,151.0,1.65,0.0,2.35,0.0,2.09,0.0,0.0
+2021 Etoile de Besseges - Tour du Gard Stage 4.gpx,https://www.komoot.com/tour/2973529217,129.0,19.4,0.635,1.96,0.0,1.16,0.0,144.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Etoile de Besseges - Tour du Gard Stage 5.gpx,https://www.komoot.com/tour/2973530212,4.4,5.49,0.479,0.148,0.0,0.0,0.0,10.3,0.159,0.0,0.251,0.0,0.251,0.0,0.0
+2021 Faun-Ardeche Classic.gpx,https://www.komoot.com/tour/2973531418,125.0,31.6,0.0,13.4,0.0,0.141,0.0,160.0,10.1,0.0,0.144,0.0,0.464,0.0,0.0
+2021 Five Rings of Moscow Prologue.gpx,https://www.komoot.com/tour/2973532396,0.0,0.0,4.41,0.0,0.0,0.0,0.0,3.66,0.0,0.0,0.752,0.0,0.0,0.0,0.0
+2021 Five Rings of Moscow Stage 1.gpx,https://www.komoot.com/tour/2973533550,10.9,0.0,0.86,139.0,0.0,0.0,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Five Rings of Moscow Stage 2.gpx,https://www.komoot.com/tour/2973534700,9.95,0.0,0.782,126.0,0.0,0.0,0.0,137.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Five Rings of Moscow Stage 3.gpx,https://www.komoot.com/tour/2973535486,157.0,0.0,0.0,0.0,0.0,0.0,0.0,157.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Fyn Rundt - Tour of Funen.gpx,https://www.komoot.com/tour/2973538929,155.0,1.81,3.39,38.0,0.0,0.0,0.0,190.0,15.4,0.674,0.229,0.0,0.0,0.0,0.0
+2021 GP Adria Mobil.gpx,https://www.komoot.com/tour/2973540166,129.0,36.9,7.78,4.98,0.0,1.72,0.0,167.0,11.2,1.57,0.284,0.0,0.0,0.0,0.0
+2021 GP Himmerland Rundt.gpx,https://www.komoot.com/tour/2973541352,156.0,12.1,2.96,26.9,0.0,1.08,0.0,165.0,23.5,4.03,0.186,6.81,0.0,0.0,0.0
+2021 GP Industria & Artigianato.gpx,https://www.komoot.com/tour/2973542282,169.0,18.1,4.06,0.0,0.0,0.0,0.0,162.0,29.6,0.0,0.29,0.0,0.0,0.0,0.0
+2021 GP Kranj.gpx,https://www.komoot.com/tour/2973544654,1.19,18.1,59.0,45.4,0.0,22.7,0.883,120.0,25.7,5.55,2.31,0.0,0.0,0.0,0.0
+2021 GP Slovenia.gpx,https://www.komoot.com/tour/2973545742,137.0,5.01,19.6,9.66,0.0,0.93,0.0,151.0,20.6,0.93,0.0,0.0,0.0,0.0,0.0
+2021 GP Slovenian Istria.gpx,https://www.komoot.com/tour/2973547029,72.2,72.2,2.1,7.3,0.0,0.0,0.0,150.0,3.08,0.0,0.817,0.0,0.0,0.0,0.0
+2021 GP Torres Vedras - Trofeu Joaquim Agostinho Stage 1.gpx,https://www.komoot.com/tour/2973548078,61.8,20.2,2.46,0.406,0.0,0.393,0.0,77.0,7.11,0.302,0.53,0.316,0.0,0.0,0.0
+2021 GP Torres Vedras - Trofeu Joaquim Agostinho Stage 2.gpx,https://www.komoot.com/tour/2973549198,109.0,58.5,0.149,0.0,0.0,0.0,0.0,167.0,0.669,0.149,0.186,0.0,0.398,0.0,0.0
+2021 GP Torres Vedras - Trofeu Joaquim Agostinho Stage 3.gpx,https://www.komoot.com/tour/2973550209,82.7,90.5,8.29,4.11,0.0,0.0,0.0,175.0,10.1,0.609,0.0,0.0,0.0,0.0,0.0
+2021 Gent-Wevelgem in Flanders Fields.gpx,https://www.komoot.com/tour/2973551224,119.0,5.91,3.95,105.0,0.0,4.13,0.0,163.0,75.9,5.02,2.92,4.15,2.46,0.0,0.0
+2021 German Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973552134,24.5,0.0,2.75,0.206,0.0,2.78,0.0,28.1,1.87,0.0,0.236,0.0,0.184,0.163,0.0
+2021 German Road National Championships.gpx,https://www.komoot.com/tour/2973554021,165.0,0.0,21.1,0.0,0.0,0.0,0.0,186.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Germenica Grand Prix Road Race.gpx,https://www.komoot.com/tour/2973555491,23.3,126.0,0.0,0.0,0.0,0.0,0.0,149.0,0.0,0.0,3.11,0.0,4.22,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 1.gpx,https://www.komoot.com/tour/2973556648,133.0,3.15,0.446,5.5,0.0,0.0,0.0,129.0,12.8,0.0,0.377,0.0,0.229,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 10.gpx,https://www.komoot.com/tour/2973557919,117.0,27.6,7.21,9.09,0.0,0.23,0.0,149.0,10.3,1.78,1.11,0.0,0.914,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 2.gpx,https://www.komoot.com/tour/2973559142,111.0,20.5,1.74,4.73,0.0,0.208,0.0,134.0,3.43,0.0,0.197,0.0,0.0,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 3.gpx,https://www.komoot.com/tour/2973560092,120.0,10.8,1.24,1.14,0.0,0.0,0.0,132.0,0.106,0.227,0.105,0.0,0.0,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 4.gpx,https://www.komoot.com/tour/2973560848,15.7,0.0,3.59,6.08,0.0,0.0,0.0,23.4,1.0,0.896,0.0,0.0,0.0,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 5.gpx,https://www.komoot.com/tour/2973561866,116.0,24.4,1.76,0.0,0.0,0.48,0.0,132.0,9.16,0.48,0.27,0.0,0.27,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 6.gpx,https://www.komoot.com/tour/2973563091,92.2,66.2,3.41,0.578,0.0,1.79,0.0,152.0,9.93,0.324,13.7,2.12,13.6,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 7.gpx,https://www.komoot.com/tour/2973564065,114.0,0.491,4.66,0.121,0.0,0.0,0.0,107.0,11.6,0.73,0.526,0.0,0.526,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 8.gpx,https://www.komoot.com/tour/2973565056,6.33,109.0,0.0,0.0,0.0,0.0,0.0,116.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Giro Ciclistico d'Italia Stage 9.gpx,https://www.komoot.com/tour/2973565997,89.3,74.5,1.39,1.92,0.0,0.241,0.23,159.0,7.94,0.798,0.121,0.0,0.0,0.0,0.0
+2021 Giro d'Italia Stage 1.gpx,https://www.komoot.com/tour/2973566824,5.13,0.357,0.441,0.208,0.0,1.38,0.0,7.41,0.0,0.0,0.782,0.0,0.769,0.0,0.0
+2021 Giro d'Italia Stage 10.gpx,https://www.komoot.com/tour/2973567899,43.2,90.5,0.566,0.764,0.0,0.0,0.0,134.0,1.32,0.0,4.91,0.0,5.12,0.0,0.0
+2021 Giro d'Italia Stage 11.gpx,https://www.komoot.com/tour/2973568997,77.7,61.4,16.3,0.0,0.0,7.17,0.0,130.0,0.0,0.713,0.244,21.7,0.244,10.1,0.0
+2021 Giro d'Italia Stage 12.gpx,https://www.komoot.com/tour/2973570111,76.2,136.0,0.0,0.273,0.0,0.0,0.0,212.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Giro d'Italia Stage 13.gpx,https://www.komoot.com/tour/2973571383,66.3,127.0,2.67,2.09,0.143,0.426,0.0,196.0,2.72,0.0,0.42,0.0,0.0,0.0,0.0
+2021 Giro d'Italia Stage 14.gpx,https://www.komoot.com/tour/2973572539,134.0,65.6,1.68,4.23,0.0,0.184,0.0,198.0,7.76,0.4,0.63,0.0,0.63,0.0,0.0
+2021 Giro d'Italia Stage 15.gpx,https://www.komoot.com/tour/2973573712,117.0,21.2,2.47,2.56,0.0,0.418,0.0,136.0,9.35,0.868,0.606,0.165,0.606,0.0,0.0
+2021 Giro d'Italia Stage 16.gpx,https://www.komoot.com/tour/2973574739,90.2,61.5,0.211,0.786,0.0,0.388,0.149,152.0,0.719,0.432,0.0,0.0,0.0,0.0,0.0
+2021 Giro d'Italia Stage 17.gpx,https://www.komoot.com/tour/2973576042,166.0,24.2,0.0,2.88,0.0,0.323,0.0,192.0,0.0,0.519,1.01,0.0,1.01,0.0,0.0
+2021 Giro d'Italia Stage 18.gpx,https://www.komoot.com/tour/2973577498,96.1,124.0,4.96,5.68,0.0,0.529,0.0,226.0,4.35,1.35,0.0,0.0,0.0,0.0,0.0
+2021 Giro d'Italia Stage 19.gpx,https://www.komoot.com/tour/2973578659,81.3,79.9,1.59,3.27,0.0,0.0,0.0,163.0,2.78,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Giro d'Italia Stage 2.gpx,https://www.komoot.com/tour/2973579916,96.2,80.5,1.29,0.438,0.0,0.0,0.0,174.0,3.24,0.907,0.653,0.0,0.653,0.0,0.0
+2021 Giro d'Italia Stage 20.gpx,https://www.komoot.com/tour/2973581244,39.5,109.0,2.55,9.87,0.0,0.216,0.0,159.0,0.771,1.6,3.23,0.0,3.13,0.0,0.0
+2021 Giro d'Italia Stage 21.gpx,https://www.komoot.com/tour/2973582545,18.7,1.77,2.72,6.16,0.0,0.508,0.0,28.5,0.796,0.542,0.552,0.0,0.435,0.0,0.0
+2021 Giro d'Italia Stage 3.gpx,https://www.komoot.com/tour/2973584055,103.0,77.2,1.87,8.91,0.0,0.0,0.0,180.0,8.78,0.216,0.275,1.13,0.196,0.0,0.0
+2021 Giro d'Italia Stage 4.gpx,https://www.komoot.com/tour/2973585555,119.0,63.0,3.52,0.966,0.0,0.0,0.0,177.0,9.38,0.0,1.05,0.0,1.05,0.0,0.0
+2021 Giro d'Italia Stage 5.gpx,https://www.komoot.com/tour/2973587483,36.3,113.0,5.41,17.2,0.0,2.13,0.124,169.0,3.15,1.81,3.12,0.0,2.45,0.13,0.0
+2021 Giro d'Italia Stage 6.gpx,https://www.komoot.com/tour/2973588461,90.5,67.5,1.46,0.11,0.0,0.18,0.0,159.0,0.429,0.207,0.997,0.0,1.24,0.0,0.0
+2021 Giro d'Italia Stage 7.gpx,https://www.komoot.com/tour/2973590090,82.5,91.1,5.74,0.744,0.0,0.0,0.0,180.0,0.415,0.0,2.16,0.0,2.12,0.0,0.0
+2021 Giro d'Italia Stage 8.gpx,https://www.komoot.com/tour/2973591093,78.0,83.5,4.44,1.01,0.0,0.0,0.0,161.0,4.15,0.0,6.86,0.0,4.67,0.0,0.0
+2021 Giro d'Italia Stage 9.gpx,https://www.komoot.com/tour/2973591998,31.0,122.0,1.64,0.0,0.0,1.35,0.0,152.0,2.73,0.157,1.55,1.52,1.48,0.0,0.0
+2021 Giro del Medio Brenta.gpx,https://www.komoot.com/tour/2973593384,129.0,32.5,5.26,3.43,0.0,0.351,0.0,166.0,4.04,0.115,0.0,0.0,0.0,0.0,0.0
+2021 Giro del Veneto.gpx,https://www.komoot.com/tour/2973594879,150.0,7.93,1.53,7.16,0.0,0.488,0.21,164.0,2.31,1.27,0.691,0.0,0.381,0.0,0.0
+2021 Giro dell'Appennino.gpx,https://www.komoot.com/tour/2973596228,114.0,34.8,3.17,38.9,0.323,0.287,0.0,185.0,4.19,0.0,3.27,0.574,1.84,0.0,0.0
+2021 Giro dell'Emilia.gpx,https://www.komoot.com/tour/2973597585,150.0,33.6,0.628,8.71,0.0,1.03,0.0,188.0,1.06,5.15,0.247,0.0,0.217,0.0,0.0
+2021 Giro della Toscana - Memorial Alfredo Martini.gpx,https://www.komoot.com/tour/2973598871,154.0,38.4,0.245,0.0,0.0,0.0,0.0,190.0,2.57,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Giro di Sicilia - Tour of Sicily Stage 1.gpx,https://www.komoot.com/tour/2973600252,113.0,61.7,3.16,0.0,0.0,0.62,0.137,174.0,2.15,1.6,0.916,0.0,0.792,0.0,0.0
+2021 Giro di Sicilia - Tour of Sicily Stage 2.gpx,https://www.komoot.com/tour/2973601433,110.0,59.1,2.85,0.0,0.0,0.288,0.0,170.0,1.75,0.0,1.54,0.0,1.33,0.0,0.0
+2021 Giro di Sicilia - Tour of Sicily Stage 3.gpx,https://www.komoot.com/tour/2973602529,113.0,66.2,0.0,0.0,0.0,0.0,0.0,179.0,0.0,0.0,0.212,0.0,0.43,0.0,0.0
+2021 Giro di Sicilia - Tour of Sicily Stage 4.gpx,https://www.komoot.com/tour/2973603687,90.3,82.4,1.98,1.83,0.0,1.0,0.0,172.0,3.02,2.73,3.02,0.0,3.02,0.0,0.0
+2021 Gooikse Pijl.gpx,https://www.komoot.com/tour/2973604738,112.0,0.0,0.0,87.2,0.0,0.0,0.0,100.0,98.9,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Gran Piemonte.gpx,https://www.komoot.com/tour/2973605814,118.0,46.9,0.551,1.69,0.0,0.0,0.0,164.0,0.335,3.2,0.302,0.0,0.302,0.0,0.0
+2021 Gran Premio Miguel Indurain.gpx,https://www.komoot.com/tour/2973606939,135.0,57.4,7.05,1.75,0.0,0.0,0.0,188.0,10.8,2.34,2.66,0.0,2.66,0.0,0.0
+2021 Grand Prix Alanya.gpx,https://www.komoot.com/tour/2973608256,109.0,33.8,2.16,0.0,0.0,0.0,0.0,116.0,27.4,2.1,2.12,0.0,2.12,0.0,0.0
+2021 Grand Prix Chantal Biya Stage 1.gpx,https://www.komoot.com/tour/2973609106,77.3,43.5,0.0,0.0,0.0,0.0,0.0,8.3,113.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix Chantal Biya Stage 2.gpx,https://www.komoot.com/tour/2973609872,6.4,123.0,0.0,0.0,0.0,0.0,0.0,120.0,9.3,0.0,0.632,0.0,0.632,0.0,0.0
+2021 Grand Prix Chantal Biya Stage 3.gpx,https://www.komoot.com/tour/2973610582,5.07,164.0,0.464,0.0,0.0,0.0,0.0,110.0,54.9,0.0,1.55,4.78,1.55,0.0,0.0
+2021 Grand Prix Chantal Biya Stage 4.gpx,https://www.komoot.com/tour/2973611308,38.9,71.6,0.0,0.0,0.0,0.0,0.0,16.5,62.1,0.0,0.466,31.9,0.466,0.0,0.0
+2021 Grand Prix Chantal Biya Stage 5.gpx,https://www.komoot.com/tour/2973612185,0.476,168.0,0.202,0.0,0.168,0.0,0.0,137.0,31.1,0.0,0.442,0.0,0.436,0.0,0.0
+2021 Grand Prix Cycliste la Marseillaise.gpx,https://www.komoot.com/tour/2973613790,130.0,39.8,0.0,0.893,0.0,0.0,0.0,170.0,0.494,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix Develi.gpx,https://www.komoot.com/tour/2973614560,79.4,51.3,0.0,0.0,0.0,0.0,0.0,131.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix Erciyes - Mimar Sinan.gpx,https://www.komoot.com/tour/2973615650,47.3,102.0,0.0,0.0,0.0,0.0,0.0,149.0,0.542,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix Gazipasa.gpx,https://www.komoot.com/tour/2973616565,58.7,96.7,0.0,0.0,0.0,0.0,0.0,154.0,1.43,0.0,0.472,0.0,0.406,0.0,0.0
+2021 Grand Prix Gundogmus.gpx,https://www.komoot.com/tour/2973617569,36.3,68.6,0.698,0.0,0.0,0.293,0.0,105.0,1.08,0.229,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix Herning.gpx,https://www.komoot.com/tour/2973618305,155.0,2.81,7.63,12.4,0.0,8.19,0.961,162.0,3.53,0.783,2.99,23.8,1.26,3.44,0.0
+2021 Grand Prix Kayseri.gpx,https://www.komoot.com/tour/2973619159,19.1,114.0,3.39,0.0,0.0,0.137,0.0,133.0,2.1,0.0,0.77,0.137,0.0,0.0,0.0
+2021 Grand Prix Mediterrennean.gpx,https://www.komoot.com/tour/2973620677,32.5,120.0,1.65,0.0,0.0,2.99,0.0,152.0,1.79,0.828,2.74,0.0,0.425,0.0,0.0
+2021 Grand Prix Velo Alanya.gpx,https://www.komoot.com/tour/2973621892,36.3,68.6,0.698,0.0,0.0,0.293,0.0,105.0,1.08,0.229,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix Velo Erciyes.gpx,https://www.komoot.com/tour/2973622648,60.8,48.0,0.0,0.0,0.0,0.0,0.0,109.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix Velo Manavgat.gpx,https://www.komoot.com/tour/2973623855,13.1,133.0,0.939,0.0,0.0,0.608,0.0,145.0,1.09,1.76,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix d'Isbergues - Pas de Calais.gpx,https://www.komoot.com/tour/2973624740,107.0,34.5,57.6,1.29,0.0,0.0,0.0,133.0,67.4,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix de Denain - Porte du Hainaut.gpx,https://www.komoot.com/tour/2973625756,162.0,7.56,13.8,12.9,0.0,3.92,0.0,170.0,9.82,19.5,0.0,0.441,0.0,1.24,0.0
+2021 Grand Prix de Wallonie.gpx,https://www.komoot.com/tour/2973627083,131.0,33.5,19.0,25.7,0.0,0.0,0.0,191.0,18.5,0.196,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix de la Somme Conseil Departemental 80.gpx,https://www.komoot.com/tour/2973628155,173.0,0.0,6.15,0.0,0.0,0.0,0.0,168.0,11.1,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix de la ville de Perenchies.gpx,https://www.komoot.com/tour/2973629094,124.0,4.01,3.48,31.5,0.0,0.0,0.0,153.0,4.33,5.7,0.0,0.0,0.0,0.0,0.0
+2021 Grand Prix du Morbihan.gpx,https://www.komoot.com/tour/2973630313,156.0,14.4,1.93,3.2,0.0,0.0,0.0,157.0,18.3,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Gravel and Tar Classic.gpx,https://www.komoot.com/tour/2973631211,146.0,4.65,5.24,3.33,0.0,0.0,0.0,7.84,115.0,0.0,4.34,36.4,4.34,0.0,0.0
+2021 Grosser Preis des Kantons Aargau.gpx,https://www.komoot.com/tour/2973632203,134.0,24.4,0.845,5.12,0.0,3.72,0.168,104.0,66.4,0.0,5.5,3.8,0.0,0.0,0.0
+2021 Grote Prijs Marcel Kint.gpx,https://www.komoot.com/tour/2973634610,59.7,1.41,20.6,105.0,0.0,0.0,0.0,138.0,49.7,8.46,8.98,0.0,0.0,0.0,0.0
+2021 Grote prijs Jean-Pierre Monsere.gpx,https://www.komoot.com/tour/2973636116,80.7,0.0,22.9,80.3,0.0,0.0,0.0,99.5,93.1,8.03,0.296,0.0,0.0,0.0,0.0
+2021 Gylne Gutuer.gpx,https://www.komoot.com/tour/2973636966,146.0,17.2,3.21,0.0,0.0,2.8,0.0,93.4,12.5,0.0,2.2,4.26,0.0,57.2,0.0
+2021 Henryk LASAK Memorial.gpx,https://www.komoot.com/tour/2973637933,138.0,0.0,1.86,0.0,0.0,5.3,0.0,138.0,0.0,3.43,0.724,2.24,0.0,0.0,0.0
+2021 Heylen Vastgoed Heistse Pijl.gpx,https://www.komoot.com/tour/2973639010,7.54,0.825,27.1,131.0,0.0,0.614,0.164,91.9,90.9,7.13,2.12,0.449,1.98,0.242,0.0
+2021 Il Lombardia.gpx,https://www.komoot.com/tour/2973640526,200.0,18.4,2.98,9.39,0.0,1.04,0.824,230.0,1.17,0.177,6.92,0.856,6.72,0.414,0.0
+2021 In the Footsteps of the Romans Stage 1.gpx,https://www.komoot.com/tour/2973641767,121.0,0.0,5.24,0.0,0.0,0.0,0.0,61.8,64.2,0.0,0.219,0.0,0.219,0.0,0.0
+2021 In the Footsteps of the Romans Stage 2.gpx,https://www.komoot.com/tour/2973642544,132.0,0.0,4.88,0.0,0.0,0.0,0.0,90.9,45.8,0.0,0.242,0.0,0.242,0.0,0.0
+2021 International Rhodes GP Powered by Mitsis Hotels.gpx,https://www.komoot.com/tour/2973643592,148.0,35.9,0.651,1.21,0.0,0.515,0.448,185.0,0.53,0.0,0.542,0.448,0.0,0.0,0.0
+2021 International Tour of Rhodes Prologue.gpx,https://www.komoot.com/tour/2973644334,1.88,0.0,0.0,0.0,0.0,0.0,0.0,1.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 International Tour of Rhodes Stage 1.gpx,https://www.komoot.com/tour/2973645129,137.0,1.19,0.115,0.0,0.0,0.0,0.0,139.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 International Tour of Rhodes Stage 2.gpx,https://www.komoot.com/tour/2973645904,128.0,22.4,0.0,0.0,0.0,0.0,0.0,137.0,13.5,0.0,0.0,0.0,0.0,0.0,0.0
+2021 International Tour of Rhodes Stage 3.gpx,https://www.komoot.com/tour/2973646769,104.0,49.0,0.0,0.0,0.0,0.0,0.0,153.0,0.163,0.0,0.79,0.0,0.79,0.0,0.0
+2021 Israeli Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973647530,0.0,0.0,0.0,0.0,0.0,1.88,0.0,0.0,0.0,0.0,26.4,1.88,26.4,0.0,0.0
+2021 Israeli Road National Championships.gpx,https://www.komoot.com/tour/2973648230,28.4,123.0,0.0,0.0,0.0,0.0,0.0,152.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Istrian Spring Trophy Prologue.gpx,https://www.komoot.com/tour/2973648857,0.0,0.0,0.0,0.973,0.0,0.0,0.0,0.0,0.973,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Istrian Spring Trophy Stage 1.gpx,https://www.komoot.com/tour/2973649680,88.2,69.7,1.61,0.0,0.0,6.58,0.0,158.0,1.56,0.0,0.0,6.56,0.0,0.0,0.0
+2021 Istrian Spring Trophy Stage 2.gpx,https://www.komoot.com/tour/2973650726,124.0,37.6,2.69,0.0,0.0,0.0,0.0,163.0,1.19,0.393,0.126,0.0,0.0,0.0,0.0
+2021 Istrian Spring Trophy Stage 3.gpx,https://www.komoot.com/tour/2973651532,62.6,78.5,0.0,0.0,0.0,0.0,0.0,141.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Italian Road National Championships.gpx,https://www.komoot.com/tour/2973652336,134.0,41.0,0.191,0.775,0.0,0.0,0.0,172.0,4.02,0.0,0.477,0.0,0.477,0.0,0.0
+2021 Itzulia Basque Country Stage 1.gpx,https://www.komoot.com/tour/2973653052,8.19,2.69,1.98,0.392,0.0,0.615,0.0,13.6,0.123,0.124,0.0,0.0,0.0,0.0,0.0
+2021 Itzulia Basque Country Stage 2.gpx,https://www.komoot.com/tour/2973654098,116.0,28.9,3.21,4.82,0.0,0.475,0.0,148.0,4.69,0.201,0.877,0.0,0.773,0.0,0.0
+2021 Itzulia Basque Country Stage 3.gpx,https://www.komoot.com/tour/2973655179,137.0,23.9,2.74,0.371,0.0,3.17,0.0,161.0,5.51,0.0,0.438,0.0,0.438,0.271,0.0
+2021 Itzulia Basque Country Stage 4.gpx,https://www.komoot.com/tour/2973656401,144.0,32.5,6.33,1.18,0.0,1.27,0.0,184.0,0.844,0.0,5.2,0.0,5.03,0.0,0.0
+2021 Itzulia Basque Country Stage 5.gpx,https://www.komoot.com/tour/2973657720,63.5,88.2,5.2,1.73,0.242,0.175,0.0,152.0,1.44,0.545,1.29,3.94,0.382,0.0,0.0
+2021 Itzulia Basque Country Stage 6.gpx,https://www.komoot.com/tour/2973658966,81.6,24.2,5.12,0.947,0.0,0.0,0.0,109.0,2.55,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Japanese Road National Championships.gpx,https://www.komoot.com/tour/2973659946,0.0,0.0,0.0,97.4,0.0,0.0,0.0,0.0,97.4,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Joe Martin Stage Race Stage 1.gpx,https://www.komoot.com/tour/2973660728,90.9,88.4,0.646,3.35,0.0,0.0,0.0,182.0,1.2,0.0,0.0,0.0,1.09,0.0,0.0
+2021 Joe Martin Stage Race Stage 2.gpx,https://www.komoot.com/tour/2973661498,97.8,65.3,2.13,2.46,0.0,0.0,0.0,165.0,3.15,0.0,0.367,0.0,0.367,0.0,0.0
+2021 Joe Martin Stage Race Stage 3.gpx,https://www.komoot.com/tour/2973662198,4.55,0.0,0.106,0.0,0.0,0.0,0.0,4.55,0.0,0.0,0.166,0.0,0.0,0.0,0.0
+2021 Joe Martin Stage Race Stage 4.gpx,https://www.komoot.com/tour/2973663382,0.0,0.0,14.6,38.5,0.0,0.0,0.0,53.1,0.0,0.0,7.9,0.0,8.18,0.0,0.0
+2021 Kahramanmaras Grand Prix Road Race.gpx,https://www.komoot.com/tour/2973664274,36.7,96.0,0.291,0.0,0.0,0.0,0.0,133.0,0.291,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Kampioenschap van Vlaanderen.gpx,https://www.komoot.com/tour/2973665027,70.9,5.46,18.9,102.0,0.0,0.0,0.0,100.0,96.4,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Kreiz Breizh Elites Stage 1.gpx,https://www.komoot.com/tour/2973665634,12.6,0.0,0.0,0.0,0.0,0.0,0.0,7.77,4.81,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Kreiz Breizh Elites Stage 2.gpx,https://www.komoot.com/tour/2973666515,169.0,10.9,7.79,2.36,0.0,0.0,0.0,144.0,45.9,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Kreiz Breizh Elites Stage 3.gpx,https://www.komoot.com/tour/2973667619,167.0,0.162,13.1,0.294,0.0,0.0,0.0,170.0,9.96,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Kreiz Breizh Elites Stage 4.gpx,https://www.komoot.com/tour/2973668551,156.0,0.0,24.8,0.0,0.0,0.0,0.0,142.0,38.9,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Kuurne - Bruxelles - Kuurne.gpx,https://www.komoot.com/tour/2973669402,80.8,19.1,19.8,68.6,0.0,0.0,0.0,127.0,63.8,6.03,0.12,0.0,0.0,0.0,0.0
+2021 La Fleche Wallonne.gpx,https://www.komoot.com/tour/2973670328,149.0,21.1,11.8,10.4,0.108,0.0,0.0,173.0,19.5,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Poly Normande.gpx,https://www.komoot.com/tour/2973671195,169.0,0.0,0.0,0.0,0.0,0.0,0.0,115.0,54.2,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Roue Tourangelle Centre Val de Loire - Trophee Harmonie Mutuelle.gpx,https://www.komoot.com/tour/2973672132,180.0,5.5,14.1,3.56,0.0,0.0,0.0,169.0,33.6,0.751,0.348,0.0,0.2,0.0,0.0
+2021 La Route Adelie de Vitre.gpx,https://www.komoot.com/tour/2973673192,166.0,15.3,7.28,9.0,0.0,0.0,0.0,168.0,30.5,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Route d'Occitanie - La Depeche du Midi Stage 1.gpx,https://www.komoot.com/tour/2973673935,145.0,10.2,0.47,0.0,0.0,0.0,0.0,149.0,6.42,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Route d'Occitanie - La Depeche du Midi Stage 2.gpx,https://www.komoot.com/tour/2973674819,156.0,40.3,0.249,1.52,0.0,0.462,0.263,193.0,4.9,0.101,0.735,0.346,0.207,0.0,0.0
+2021 La Route d'Occitanie - La Depeche du Midi Stage 3.gpx,https://www.komoot.com/tour/2973675651,169.0,21.7,0.759,0.0,0.0,0.328,0.0,181.0,11.2,0.0,0.339,0.328,0.339,0.0,0.0
+2021 La Route d'Occitanie - La Depeche du Midi Stage 4.gpx,https://www.komoot.com/tour/2973676463,127.0,22.8,0.778,0.0,0.0,0.0,0.0,149.0,2.11,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 1.gpx,https://www.komoot.com/tour/2973677258,0.975,1.68,3.12,0.0,0.0,0.571,0.0,5.22,0.0,1.17,0.771,0.0,0.769,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 10.gpx,https://www.komoot.com/tour/2973678391,51.7,135.0,2.42,0.736,0.187,0.0,0.0,188.0,1.37,0.496,0.49,0.0,0.49,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 11.gpx,https://www.komoot.com/tour/2973679344,67.6,64.9,1.24,0.0,0.0,0.0,0.0,133.0,1.13,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 12.gpx,https://www.komoot.com/tour/2973680654,71.4,90.5,0.819,2.21,0.0,8.68,0.0,169.0,0.826,0.424,1.39,0.461,1.65,3.04,0.0
+2021 La Vuelta ciclista a Espana Stage 13.gpx,https://www.komoot.com/tour/2973681658,142.0,57.4,2.2,1.53,0.0,0.54,0.0,186.0,16.4,0.0,1.11,0.54,0.633,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 14.gpx,https://www.komoot.com/tour/2973682524,77.1,88.9,0.0,0.331,0.0,0.0,0.0,137.0,29.1,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 15.gpx,https://www.komoot.com/tour/2973683761,174.0,22.4,1.08,0.0,0.0,0.179,0.0,197.0,1.22,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 16.gpx,https://www.komoot.com/tour/2973684808,81.5,93.8,3.69,1.32,0.0,0.177,0.0,175.0,4.16,1.08,0.221,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 17.gpx,https://www.komoot.com/tour/2973685846,83.7,102.0,0.143,0.0,0.0,0.0,0.0,185.0,0.143,0.0,0.814,0.0,0.814,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 18.gpx,https://www.komoot.com/tour/2973686946,142.0,20.9,0.0,0.0,0.0,0.0,0.0,162.0,0.128,0.0,0.446,0.0,0.446,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 19.gpx,https://www.komoot.com/tour/2973688173,50.5,137.0,3.08,0.0,0.0,0.0,0.0,188.0,2.93,0.0,0.191,0.0,0.191,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 2.gpx,https://www.komoot.com/tour/2973689239,142.0,22.1,1.74,0.988,0.0,0.258,0.0,166.0,0.674,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 20.gpx,https://www.komoot.com/tour/2973690465,162.0,39.9,0.402,0.0,0.0,0.0,0.0,171.0,31.0,0.0,0.271,0.0,0.271,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 21.gpx,https://www.komoot.com/tour/2973691413,15.8,16.6,0.608,0.399,0.0,0.594,0.0,31.8,1.15,0.954,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 3.gpx,https://www.komoot.com/tour/2973692608,123.0,78.0,0.601,0.0,0.108,0.481,0.0,193.0,8.38,0.0,0.561,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 4.gpx,https://www.komoot.com/tour/2973693814,53.7,110.0,0.168,0.0,0.0,0.0,0.0,164.0,0.108,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 5.gpx,https://www.komoot.com/tour/2973694766,58.7,123.0,2.68,0.0,0.0,0.357,0.0,182.0,1.83,0.0,0.326,0.357,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 6.gpx,https://www.komoot.com/tour/2973695894,128.0,28.3,0.795,1.71,0.0,0.0,0.0,154.0,5.42,0.0,0.0,0.0,0.0,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 7.gpx,https://www.komoot.com/tour/2973696852,131.0,20.7,0.267,0.0,0.0,0.0,0.0,143.0,8.04,0.245,0.497,0.0,0.45,0.0,0.0
+2021 La Vuelta ciclista a Espana Stage 8.gpx,https://www.komoot.com/tour/2973698411,58.8,103.0,2.89,3.66,0.0,0.406,0.0,164.0,3.67,0.0,5.45,0.462,5.78,0.102,0.0
+2021 La Vuelta ciclista a Espana Stage 9.gpx,https://www.komoot.com/tour/2973699294,139.0,26.1,11.7,0.0,0.0,2.7,0.0,163.0,0.932,0.0,20.7,3.91,9.51,0.0,0.0
+2021 Le Samyn.gpx,https://www.komoot.com/tour/2973700361,129.0,7.63,27.1,39.7,0.0,0.0,0.0,144.0,44.5,14.7,1.77,0.106,1.59,0.0,0.0
+2021 Le Tour de Bretagne Stage 1.gpx,https://www.komoot.com/tour/2973701179,158.0,0.654,0.662,0.27,0.0,0.0,0.0,113.0,47.0,0.0,0.224,0.0,0.185,0.0,0.0
+2021 Le Tour de Bretagne Stage 2.gpx,https://www.komoot.com/tour/2973702208,133.0,27.0,4.63,2.29,0.0,5.63,0.0,137.0,29.5,0.0,0.0,0.0,0.0,5.63,0.0
+2021 Le Tour de Bretagne Stage 3.gpx,https://www.komoot.com/tour/2973703137,170.0,0.178,0.539,0.365,0.0,0.0,0.0,129.0,43.0,0.0,0.204,0.0,0.204,0.0,0.0
+2021 Le Tour de Bretagne Stage 4.gpx,https://www.komoot.com/tour/2973704363,164.0,1.77,0.0,2.03,0.0,0.0,0.0,119.0,48.9,0.0,0.444,0.0,0.444,0.0,0.0
+2021 Le Tour de Bretagne Stage 5.gpx,https://www.komoot.com/tour/2973705181,203.0,0.0,0.659,13.3,0.0,0.0,0.0,169.0,39.6,0.0,0.0,0.0,0.0,8.02,0.0
+2021 Le Tour de Bretagne Stage 6.gpx,https://www.komoot.com/tour/2973706162,149.0,4.62,10.1,2.0,0.0,0.358,0.0,123.0,41.2,1.85,1.43,0.0,1.43,0.0,0.0
+2021 Le Tour de Bretagne Stage 7.gpx,https://www.komoot.com/tour/2973707151,145.0,2.97,6.88,3.13,0.0,0.0,0.0,134.0,20.9,3.8,1.05,0.0,1.05,0.0,0.0
+2021 Le Tour de Savoie Mont Blanc Prologue.gpx,https://www.komoot.com/tour/2973707860,4.81,0.11,0.406,0.0,0.0,0.221,0.0,2.12,3.46,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Le Tour de Savoie Mont Blanc Stage 1.gpx,https://www.komoot.com/tour/2973709017,83.2,33.5,4.58,0.659,0.0,0.0,0.0,105.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Le Tour de Savoie Mont Blanc Stage 2.gpx,https://www.komoot.com/tour/2973710036,77.6,46.4,0.218,25.9,0.0,0.276,0.0,150.0,0.269,0.0,0.253,0.0,0.164,0.0,0.0
+2021 Le Tour de Savoie Mont Blanc Stage 3.gpx,https://www.komoot.com/tour/2973711025,73.6,38.3,3.53,11.1,0.0,0.0,0.0,126.0,0.0,0.0,1.03,0.0,0.922,0.0,0.0
+2021 Le Tour de Savoie Mont Blanc Stage 4.gpx,https://www.komoot.com/tour/2973712053,120.0,2.7,0.79,0.0,0.0,0.0,0.0,123.0,0.124,0.0,0.193,0.0,0.447,0.0,0.0
+2021 Liege - Bastogne - Liege.gpx,https://www.komoot.com/tour/2973712957,181.0,61.3,5.84,10.3,0.0,0.137,0.0,249.0,8.66,0.479,0.971,0.0,0.818,0.0,0.0
+2021 Lillehammer GP.gpx,https://www.komoot.com/tour/2973714313,112.0,18.4,0.698,1.06,0.0,0.0,0.0,132.0,0.0,0.0,0.266,0.714,0.0,0.0,0.0
+2021 Luxembourg Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973714985,19.4,0.0,0.0,0.0,0.0,0.0,0.0,19.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Luxembourg Road National Championships.gpx,https://www.komoot.com/tour/2973715928,94.8,32.3,0.0,0.0,0.0,18.7,0.0,126.0,19.8,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Memorial Marco Pantani.gpx,https://www.komoot.com/tour/2973716837,178.0,3.09,11.5,0.958,0.0,0.531,0.0,177.0,16.7,0.0,4.99,0.0,5.58,0.0,0.0
+2021 Mercan'Tour Classic Alpes-Maritimes.gpx,https://www.komoot.com/tour/2973717718,138.0,5.14,0.0,5.59,0.0,0.0,0.0,148.0,0.678,0.0,0.0,0.0,1.11,0.0,0.0
+2021 Milano - Torino.gpx,https://www.komoot.com/tour/2973718733,71.9,111.0,0.295,1.58,0.0,1.34,0.0,182.0,1.29,0.374,4.63,1.93,4.49,0.0,0.0
+2021 Milano-Sanremo.gpx,https://www.komoot.com/tour/2973720281,63.5,230.0,1.93,1.87,0.229,0.491,0.0,292.0,4.21,1.12,1.14,0.0,1.13,0.0,0.0
+2021 Mont Ventoux Denivele Challenge.gpx,https://www.komoot.com/tour/2973721230,107.0,6.17,0.0,39.5,0.0,0.0,0.0,151.0,2.09,0.0,0.353,0.0,0.353,0.0,0.0
+2021 New Zealand Cycle Classic Stage 1.gpx,https://www.komoot.com/tour/2973721936,10.1,0.0,0.0,0.0,0.0,0.0,0.0,6.2,3.94,0.0,0.0,0.0,0.0,0.0,0.0
+2021 New Zealand Cycle Classic Stage 2.gpx,https://www.komoot.com/tour/2973722552,157.0,0.0,1.1,0.0,0.0,0.0,0.0,5.47,153.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 New Zealand Cycle Classic Stage 3.gpx,https://www.komoot.com/tour/2973723216,128.0,0.0,0.0,0.0,0.0,0.0,0.0,62.1,66.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 New Zealand Cycle Classic Stage 4.gpx,https://www.komoot.com/tour/2973723932,124.0,0.0,0.0,0.0,0.0,0.0,0.0,49.2,75.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 New Zealand Cycle Classic Stage 5.gpx,https://www.komoot.com/tour/2973724830,0.464,0.0,0.0,0.0,0.0,9.43,0.0,0.0,9.83,0.0,0.0,0.0,0.0,0.0,0.0
+2021 New Zealand Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973725396,43.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 New Zealand Road National Championships.gpx,https://www.komoot.com/tour/2973726062,170.0,0.0,4.71,0.0,0.0,0.0,0.0,31.9,142.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Norwegian Road National Championships.gpx,https://www.komoot.com/tour/2973727414,70.2,78.0,0.0,0.0,0.0,0.0,0.0,148.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Oita Urban Classic.gpx,https://www.komoot.com/tour/2973729129,118.0,0.0,28.7,0.0,0.0,0.0,1.09,118.0,0.0,0.0,30.4,1.09,3.12,0.0,0.0
+2021 Omloop Het Nieuwsblad Elite.gpx,https://www.komoot.com/tour/2973730012,64.5,2.67,40.8,81.8,0.186,0.174,0.0,95.5,82.5,20.5,2.38,0.0,2.17,0.0,0.0
+2021 Omloop van het Houtland Middelkerke-Lichtervelde.gpx,https://www.komoot.com/tour/2973731167,97.5,0.0,21.7,56.7,0.0,0.0,0.0,102.0,81.6,5.27,0.925,0.0,0.0,0.0,0.0
+2021 Oxyclean Classic Brugge-De Panne.gpx,https://www.komoot.com/tour/2973732467,70.2,10.0,38.4,61.8,0.0,0.0,0.177,138.0,58.2,4.36,1.88,0.177,1.65,0.0,0.0
+2021 PWZ Zuidenveld Tour.gpx,https://www.komoot.com/tour/2973733343,127.0,0.0,0.807,36.9,0.0,2.34,0.21,118.0,65.2,16.0,1.8,2.33,1.69,0.0,0.0
+2021 Paris - Bourges.gpx,https://www.komoot.com/tour/2973734164,173.0,15.8,0.595,4.66,0.0,0.0,0.0,191.0,3.29,0.0,0.397,0.0,0.287,0.0,0.0
+2021 Paris - Camembert.gpx,https://www.komoot.com/tour/2973734873,183.0,22.2,4.14,0.0,0.0,0.0,0.0,159.0,51.1,0.0,0.0,0.0,0.47,0.0,0.0
+2021 Paris - Tours Elite.gpx,https://www.komoot.com/tour/2973735989,180.0,7.07,10.5,6.36,0.0,7.97,0.0,182.0,21.1,0.0,0.675,6.56,0.675,2.33,0.0
+2021 Paris - Troyes.gpx,https://www.komoot.com/tour/2973736823,171.0,7.83,0.672,2.28,0.0,1.04,0.0,181.0,0.711,0.0,0.0,1.04,0.0,0.0,0.0
+2021 Paris-Mantes Cycliste.gpx,https://www.komoot.com/tour/2973738026,124.0,26.1,10.6,4.63,0.0,0.0,0.0,139.0,25.8,0.0,0.282,0.0,0.282,0.0,0.0
+2021 Paris-Nice Stage 1.gpx,https://www.komoot.com/tour/2973739302,88.5,63.3,0.111,13.5,0.0,0.0,0.0,165.0,0.0,0.489,0.479,0.0,0.479,0.0,0.0
+2021 Paris-Nice Stage 2.gpx,https://www.komoot.com/tour/2973740537,124.0,59.2,1.3,2.33,0.0,0.0,0.0,185.0,1.75,0.0,0.924,0.0,0.924,0.0,0.0
+2021 Paris-Nice Stage 3.gpx,https://www.komoot.com/tour/2973741311,9.72,0.0,3.15,1.06,0.0,0.415,0.0,9.41,4.96,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Paris-Roubaix.gpx,https://www.komoot.com/tour/2973742803,172.0,45.9,10.8,17.9,0.0,9.52,0.313,201.0,2.39,51.3,0.996,0.756,0.9,1.32,0.0
+2021 Per Sempre Alfredo.gpx,https://www.komoot.com/tour/2973744213,118.0,35.5,5.31,0.919,0.0,0.109,0.0,155.0,4.0,0.119,2.02,0.0,1.85,0.0,0.0
+2021 Polish National Road Championships.gpx,https://www.komoot.com/tour/2973745259,125.0,0.0,0.225,5.66,0.0,2.56,0.0,126.0,4.41,2.38,0.225,0.0,0.0,0.177,0.0
+2021 PostNord Danmark Rundt - Tour of Denmark Stage 1.gpx,https://www.komoot.com/tour/2973746217,81.7,7.62,9.19,42.1,0.208,0.623,0.968,166.0,6.19,0.364,1.47,1.64,0.25,0.209,0.0
+2021 PostNord Danmark Rundt - Tour of Denmark Stage 2.gpx,https://www.komoot.com/tour/2973747248,111.0,9.94,8.83,46.3,0.0,0.582,0.319,165.0,22.0,1.75,1.53,0.319,0.0,0.0,0.0
+2021 PostNord Danmark Rundt - Tour of Denmark Stage 3.gpx,https://www.komoot.com/tour/2973748279,159.0,7.49,11.2,25.1,0.0,0.433,0.112,205.0,11.1,0.212,2.07,0.443,0.848,0.0,0.0
+2021 PostNord Danmark Rundt - Tour of Denmark Stage 4.gpx,https://www.komoot.com/tour/2973749589,107.0,1.15,10.5,66.1,0.0,0.0,0.144,133.0,55.4,0.0,0.351,0.144,0.0,0.0,0.0
+2021 PostNord Danmark Rundt - Tour of Denmark Stage 5.gpx,https://www.komoot.com/tour/2973750494,0.44,0.0,0.0,9.82,0.0,0.143,0.0,0.44,9.82,0.0,0.117,0.0,0.0,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 1.gpx,https://www.komoot.com/tour/2973752040,20.4,49.7,1.42,0.756,0.0,0.0,0.0,70.2,1.75,0.0,0.5,0.0,0.239,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 2.gpx,https://www.komoot.com/tour/2973753438,75.5,67.7,0.781,0.749,0.0,0.0,0.0,143.0,1.37,0.0,0.239,0.0,0.239,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 3.gpx,https://www.komoot.com/tour/2973754660,35.5,164.0,9.26,0.0,0.0,3.91,0.0,197.0,9.09,3.27,2.88,0.0,0.701,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 4.gpx,https://www.komoot.com/tour/2973756468,26.4,157.0,0.578,0.0,0.0,0.293,0.0,184.0,0.465,0.229,0.273,0.0,0.0,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 5.gpx,https://www.komoot.com/tour/2973757703,34.5,122.0,1.17,0.0,0.0,0.412,0.0,155.0,1.44,0.0,3.8,0.412,3.18,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 6.gpx,https://www.komoot.com/tour/2973761879,8.89,120.0,0.158,0.0,0.0,0.0,0.0,127.0,0.0,1.29,0.752,0.0,0.655,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 7.gpx,https://www.komoot.com/tour/2973762908,1.05,179.0,0.196,0.0,0.0,0.322,0.0,179.0,0.954,0.0,0.121,0.0,0.0,0.0,0.0
+2021 Presidential Cycling Tour of Turkey Stage 8.gpx,https://www.komoot.com/tour/2973763982,3.58,154.0,0.797,0.0,0.0,1.52,0.0,157.0,1.86,0.0,1.07,0.0,0.337,0.0,0.0
+2021 Primus Classic.gpx,https://www.komoot.com/tour/2973764775,119.0,4.54,17.6,48.0,0.0,0.137,0.0,149.0,44.2,3.85,0.167,0.137,0.0,0.0,0.0
+2021 Prueba Villafranca - Ordiziako Klasika.gpx,https://www.komoot.com/tour/2973765650,156.0,0.0,4.87,2.9,0.0,2.75,0.0,165.0,0.376,1.29,0.0,0.0,0.0,0.0,0.0
+2021 Puchar Mon.gpx,https://www.komoot.com/tour/2973766587,125.0,16.4,14.1,2.13,0.0,0.0,0.0,157.0,0.697,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Rent Liv Lobet Skive.gpx,https://www.komoot.com/tour/2973767666,138.0,2.98,0.222,43.7,0.0,0.0,0.0,154.0,33.4,0.0,0.214,0.0,0.373,0.0,0.0
+2021 Road Elite Caribbean Cycling Championship - ITT.gpx,https://www.komoot.com/tour/2973768649,29.2,0.0,0.0,0.0,0.0,0.931,0.0,29.2,0.137,0.0,0.575,0.0,0.0,0.0,0.0
+2021 Road Elite Caribbean Cycling Championship.gpx,https://www.komoot.com/tour/2973769858,127.0,0.0,0.0,0.0,0.0,4.03,0.0,127.0,0.594,0.0,3.26,0.0,0.0,0.0,0.0
+2021 Ronde van Vlaanderen - Tour des Flandres.gpx,https://www.komoot.com/tour/2973771355,100.0,12.2,29.8,97.1,0.0,0.248,0.0,130.0,103.0,20.7,1.17,0.21,0.834,0.0,0.0
+2021 Ronde van de Achterhoek.gpx,https://www.komoot.com/tour/2973772594,111.0,10.4,10.3,37.3,0.0,20.1,0.642,140.0,24.7,16.4,6.8,6.26,4.8,13.0,0.0
+2021 Royal Bernard Drome Classic.gpx,https://www.komoot.com/tour/2973773662,146.0,18.9,9.72,3.79,0.0,0.112,0.0,148.0,30.6,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Sazka Tour Stage 2.gpx,https://www.komoot.com/tour/2973774879,153.0,36.5,12.5,0.698,0.0,0.229,0.0,201.0,2.41,0.0,0.668,0.0,0.61,0.0,0.0
+2021 Sazka Tour Stage 3.gpx,https://www.komoot.com/tour/2973775720,70.7,37.4,16.5,0.0,0.0,18.8,0.0,141.0,2.76,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Sazka Tour Stage 4.gpx,https://www.komoot.com/tour/2973776671,111.0,47.2,14.6,1.14,0.0,0.0,0.0,169.0,2.24,2.46,0.0,0.0,0.0,0.0,0.0
+2021 Scheldeprijs.gpx,https://www.komoot.com/tour/2973777629,55.2,4.18,9.29,80.7,0.0,1.27,5.45,73.0,94.7,8.15,17.7,0.935,16.8,0.0,0.0
+2021 Settimana Ciclistica Italiana Stage 1.gpx,https://www.komoot.com/tour/2973778608,145.0,8.82,0.0,1.94,0.0,0.0,0.0,154.0,1.94,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Settimana Ciclistica Italiana Stage 2.gpx,https://www.komoot.com/tour/2973779609,177.0,8.06,0.139,0.0,0.0,0.0,0.0,184.0,0.415,0.0,0.272,0.0,0.86,0.0,0.0
+2021 Settimana Ciclistica Italiana Stage 3.gpx,https://www.komoot.com/tour/2973780400,107.0,70.7,0.257,0.0,0.0,0.0,0.0,177.0,0.246,0.58,2.73,0.0,3.02,0.0,0.0
+2021 Settimana Ciclistica Italiana Stage 4.gpx,https://www.komoot.com/tour/2973781212,114.0,51.8,0.0,0.0,0.136,0.0,0.0,166.0,0.0,0.0,2.23,0.0,2.1,0.0,0.0
+2021 Settimana Ciclistica Italiana Stage 5.gpx,https://www.komoot.com/tour/2973782077,108.0,56.9,0.203,0.0,0.0,0.0,0.0,164.0,0.0,0.58,3.62,0.0,5.34,0.0,0.0
+2021 Sibiu Cycling Tour Prologue.gpx,https://www.komoot.com/tour/2973782933,0.402,0.0,1.25,0.0,0.0,0.803,0.0,0.976,0.0,1.48,0.186,0.0,0.186,0.0,0.0
+2021 Sibiu Cycling Tour Stage 1.gpx,https://www.komoot.com/tour/2973783711,83.8,92.0,0.735,0.0,0.0,0.0,0.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Sibiu Cycling Tour Stage 2.gpx,https://www.komoot.com/tour/2973784709,109.0,74.8,0.0,3.06,0.0,0.133,0.0,185.0,1.75,0.0,0.133,0.0,0.0,0.0,0.0
+2021 Sibiu Cycling Tour Stage 3.gpx,https://www.komoot.com/tour/2973785670,101.0,99.6,0.534,0.649,0.0,0.222,0.0,202.0,0.159,0.434,0.693,0.0,0.537,0.0,0.0
+2021 Skoda-Tour de Luxembourg Stage 1.gpx,https://www.komoot.com/tour/2973786758,109.0,26.7,0.735,0.122,0.0,0.483,0.0,136.0,0.0,0.828,1.29,0.0,2.35,0.0,0.0
+2021 Skoda-Tour de Luxembourg Stage 2.gpx,https://www.komoot.com/tour/2973787760,137.0,43.1,1.28,1.34,0.0,0.228,0.0,182.0,0.0,0.568,0.205,0.0,0.205,0.228,0.0
+2021 Skoda-Tour de Luxembourg Stage 3.gpx,https://www.komoot.com/tour/2973788876,122.0,56.6,2.65,5.43,0.0,2.56,0.0,188.0,0.436,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Skoda-Tour de Luxembourg Stage 4.gpx,https://www.komoot.com/tour/2973789682,6.19,14.3,4.74,0.123,0.0,0.0,0.0,23.9,1.38,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Skoda-Tour de Luxembourg Stage 5.gpx,https://www.komoot.com/tour/2973790846,106.0,69.6,3.82,1.67,0.0,1.12,0.439,182.0,0.18,0.435,0.579,0.494,0.454,0.0,0.0
+2021 Slovakian Road National Championship - ITT.gpx,https://www.komoot.com/tour/2973791657,40.4,0.0,0.0,0.0,0.0,0.0,0.0,40.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Slovakian Road National Championship.gpx,https://www.komoot.com/tour/2973792481,88.8,2.22,3.66,0.0,0.0,1.42,0.0,91.1,4.38,0.0,0.571,0.0,0.0,0.0,0.0
+2021 Slovenian Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973793254,11.8,0.0,3.61,12.5,1.35,1.01,0.0,30.2,0.0,0.0,1.08,0.0,1.02,0.0,0.0
+2021 Slovenian Road National Championships.gpx,https://www.komoot.com/tour/2973794891,160.0,8.93,0.0,4.7,0.0,0.0,0.0,142.0,31.6,0.0,0.0,0.0,0.0,0.0,0.0
+2021 South African Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973795754,39.8,0.0,0.0,0.0,0.0,0.0,0.0,39.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 South African Road National Championships.gpx,https://www.komoot.com/tour/2973796501,173.0,0.0,6.09,0.0,0.0,0.0,0.0,177.0,2.04,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Spanish Road National Championships - ITT.gpx,https://www.komoot.com/tour/2973797434,31.7,0.0,0.257,0.0,0.0,0.0,0.0,28.8,2.96,0.0,0.257,0.0,0.0,0.0,0.0
+2021 Spanish Road National Championships.gpx,https://www.komoot.com/tour/2973798397,72.9,28.4,0.0,5.88,0.0,0.0,0.0,101.0,5.87,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Sparkassen Munsterland Giro.gpx,https://www.komoot.com/tour/2973799679,122.0,1.44,10.9,26.2,0.0,1.84,1.42,176.0,8.66,3.29,0.185,0.0,0.0,0.0,0.0
+2021 Strade Bianche.gpx,https://www.komoot.com/tour/2973801060,111.0,25.9,45.5,0.0,0.0,0.379,0.0,120.0,2.9,0.841,0.667,12.1,0.619,47.2,0.0
+2021 Tirreno-Adriatico Stage 1.gpx,https://www.komoot.com/tour/2973802488,127.0,28.8,0.0,0.0,0.0,0.342,0.0,156.0,0.0,0.0,0.182,0.0,0.0,0.0,0.0
+2021 Tirreno-Adriatico Stage 2.gpx,https://www.komoot.com/tour/2973803541,122.0,80.5,0.353,0.0,0.0,0.0,0.0,199.0,3.31,0.0,0.244,0.0,0.244,0.0,0.0
+2021 Tirreno-Adriatico Stage 3.gpx,https://www.komoot.com/tour/2973804391,192.0,26.4,1.04,0.0,0.117,0.0,0.0,218.0,1.08,0.0,0.0,0.0,0.0,0.117,0.0
+2021 Tirreno-Adriatico Stage 4.gpx,https://www.komoot.com/tour/2973805265,38.9,106.0,0.389,1.41,0.103,0.217,0.0,146.0,1.45,0.0,1.0,0.0,0.785,0.0,0.0
+2021 Tirreno-Adriatico Stage 5.gpx,https://www.komoot.com/tour/2973806478,97.6,92.2,8.85,1.04,0.0,1.34,0.524,194.0,5.33,0.109,4.66,0.351,4.37,0.373,0.0
+2021 Tirreno-Adriatico Stage 6.gpx,https://www.komoot.com/tour/2973807506,126.0,33.4,2.73,4.03,0.0,2.49,0.0,166.0,1.73,0.524,1.3,0.0,0.994,0.0,0.0
+2021 Tirreno-Adriatico Stage 7.gpx,https://www.komoot.com/tour/2973808557,3.3,0.0,0.24,4.12,0.0,0.86,0.0,3.7,4.52,0.0,2.11,0.0,1.77,0.0,0.0
+2021 Tokyo 2020 Olympic Road Race.gpx,https://www.komoot.com/tour/2973809958,95.0,109.0,8.73,0.0,0.284,1.36,0.0,114.0,92.1,0.0,26.7,0.0,17.8,0.0,0.0
+2021 Tokyo 2020 Olympics - ITT.gpx,https://www.komoot.com/tour/2973810884,24.6,0.0,6.78,0.0,0.0,0.0,0.0,23.7,1.42,0.0,18.8,0.0,12.5,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Prologue.gpx,https://www.komoot.com/tour/2973811644,3.3,1.3,0.0,0.0,0.0,0.0,0.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 61th Craft Ster van Zwolle.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Adriatica Ionica Race / Sulle Rotte della Serenissima Stage 1.gpx,https://www.komoot.com/tour/2987023967,131.0,46.3,0.948,0.0,0.0,0.0,0.0,169.0,8.82,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Adriatica Ionica Race / Sulle Rotte della Serenissima Stage 2.gpx,https://www.komoot.com/tour/2987024817,137.0,2.69,1.24,2.3,0.0,0.0,0.0,133.0,9.9,0.545,1.25,0.0,1.16,0.0,0.0
+2021 Adriatica Ionica Race / Sulle Rotte della Serenissima Stage 3.gpx,https://www.komoot.com/tour/2987025519,136.0,12.0,2.12,0.0,0.0,0.0,0.0,117.0,15.3,0.0,0.0,16.7,0.0,0.517,0.0
+2021 Antwerp Port Epic / Sels Trophy.gpx,https://www.komoot.com/tour/2987026359,63.4,3.39,11.3,32.5,0.241,23.9,4.13,77.1,36.6,26.0,15.0,27.3,14.6,0.697,0.0
+2021 Binche - Chimay - Binche / Memorial Frank Vandenbroucke.gpx,https://www.komoot.com/tour/2987027115,89.4,93.6,7.09,11.4,0.0,0.0,0.0,183.0,13.2,4.93,0.643,0.0,0.0,0.0,0.0
+2021 Elite Road Central American Championships.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Five Rings of Moscow Stage 4.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 GP de Fourmies / La Voix du Nord.gpx,https://www.komoot.com/tour/2987030602,187.0,0.0,5.48,4.68,0.0,0.0,0.0,183.0,13.4,0.0,0.964,0.0,0.0,0.0,0.0
+2021 Grote Prijs Jef Scherens - Rondom Leuven.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Okolo Slovenska / Tour de Slovaquie Prologue.gpx,https://www.komoot.com/tour/2987032608,0.0,0.0,0.0,0.843,0.0,0.0,0.0,0.771,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Okolo Slovenska / Tour de Slovaquie Stage 1.gpx,https://www.komoot.com/tour/2987033504,155.0,0.589,0.571,0.0,0.0,0.211,0.0,156.0,0.173,0.0,2.71,0.0,2.56,0.0,0.0
+2021 Okolo Slovenska / Tour de Slovaquie Stage 2.gpx,https://www.komoot.com/tour/2987034361,155.0,18.0,3.29,2.93,0.0,0.131,0.0,177.0,1.81,0.0,0.265,0.101,0.0,0.0,0.0
+2021 Okolo Slovenska / Tour de Slovaquie Stage 3.gpx,https://www.komoot.com/tour/2987035182,159.0,27.8,5.65,0.817,0.0,0.695,0.0,191.0,2.68,0.431,0.0,0.0,0.0,0.0,0.0
+2021 Okolo Slovenska / Tour de Slovaquie Stage 4.gpx,https://www.komoot.com/tour/2987035839,150.0,4.12,2.61,1.75,0.0,0.773,0.0,158.0,0.421,0.419,0.0,0.0,0.0,0.0,0.0
+2021 Okolo jiznich Cech / Tour of South Bohemia Stage 1.gpx,https://www.komoot.com/tour/2987036718,0.0,0.0,1.55,0.0,0.0,0.561,0.0,1.28,0.0,0.851,0.0,0.0,0.0,0.0,0.0
+2021 Okolo jiznich Cech / Tour of South Bohemia Stage 2.gpx,https://www.komoot.com/tour/2987037484,136.0,0.0,7.47,0.0,0.0,0.0,0.0,127.0,16.3,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Okolo jiznich Cech / Tour of South Bohemia Stage 3.gpx,https://www.komoot.com/tour/2987038288,158.0,0.167,4.08,0.183,0.0,0.0,0.0,151.0,10.8,0.377,0.0,0.0,0.0,0.0,0.0
+2021 Okolo jiznich Cech / Tour of South Bohemia Stage 4.gpx,https://www.komoot.com/tour/2987039070,169.0,0.368,13.1,0.474,0.0,1.32,0.0,173.0,9.41,2.25,0.53,0.0,0.53,0.0,0.0
+2021 Ronde van Limburg.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 1.gpx,https://www.komoot.com/tour/2987039914,71.0,69.1,1.48,2.31,0.0,0.0,0.192,143.0,0.0,0.0,4.83,0.192,4.8,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 2.gpx,https://www.komoot.com/tour/2987040795,43.0,79.9,4.03,1.7,0.0,2.32,0.406,122.0,6.22,0.0,16.1,2.0,15.6,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 3.gpx,https://www.komoot.com/tour/2987041695,44.7,67.6,3.78,6.86,0.288,4.52,1.05,117.0,4.63,0.0,27.9,4.78,25.6,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 4.gpx,https://www.komoot.com/tour/2987043095,23.4,105.0,1.43,8.17,0.0,1.99,0.0,133.0,3.7,0.0,7.25,1.83,6.32,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 5.gpx,https://www.komoot.com/tour/2987044582,99.7,49.9,0.563,0.0,0.0,0.0,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 6.gpx,https://www.komoot.com/tour/2987045477,11.4,116.0,3.7,10.3,0.0,3.44,1.14,135.0,5.49,0.0,23.6,3.61,22.7,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 7.gpx,https://www.komoot.com/tour/2987046384,107.0,27.9,0.0,0.0,0.0,0.0,0.0,135.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 8.gpx,https://www.komoot.com/tour/2987046937,2.08,7.94,0.0,0.0,0.0,0.0,0.0,8.68,1.35,0.0,0.248,0.0,0.23,0.0,0.0
+2021 Tour Cycliste International de la Guadeloupe Stage 9.gpx,https://www.komoot.com/tour/2987048119,55.9,81.3,0.0,0.452,0.0,0.517,0.0,138.0,0.0,0.0,4.65,0.47,4.84,0.0,0.0
+2021 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 1.gpx,https://www.komoot.com/tour/2987048733,189.0,4.9,3.86,0.0,0.0,0.0,0.0,190.0,7.69,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 2.gpx,https://www.komoot.com/tour/2987049475,191.0,0.0,0.963,0.129,0.0,0.0,0.0,192.0,0.963,0.0,0.756,0.0,0.717,0.0,0.0
+2021 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 3-1.gpx,https://www.komoot.com/tour/2987050198,100.0,3.2,4.68,1.33,0.0,0.0,0.0,100.0,8.87,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 3-2.gpx,https://www.komoot.com/tour/2987050807,22.3,0.0,1.42,0.0,0.0,0.0,0.0,21.5,2.07,0.0,0.324,0.0,0.21,0.0,0.0
+2021 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 4.gpx,https://www.komoot.com/tour/2987051540,155.0,0.334,9.28,2.32,0.0,0.0,0.0,155.0,11.3,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour d'Eure-et-Loir Stage 1.gpx,https://www.komoot.com/tour/2987052347,110.0,6.53,0.0,1.92,0.0,0.0,0.0,116.0,3.11,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour d'Eure-et-Loir Stage 2.gpx,https://www.komoot.com/tour/2987053167,169.0,9.7,3.72,1.99,0.0,0.0,0.0,179.0,5.9,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour d'Eure-et-Loir Stage 3.gpx,https://www.komoot.com/tour/2987053927,168.0,18.1,1.32,3.61,0.0,0.0,1.06,188.0,2.94,0.0,0.427,1.06,0.415,0.0,0.0
+2021 Tour de France Stage 1.gpx,https://www.komoot.com/tour/2987054893,143.0,45.1,3.72,5.87,0.0,0.108,0.0,193.0,3.96,0.328,0.1,0.0,0.0,0.0,0.0
+2021 Tour de France Stage 10.gpx,https://www.komoot.com/tour/2987056050,64.8,85.3,0.188,38.7,0.0,0.0,0.0,188.0,0.615,0.0,1.63,0.0,1.63,0.0,0.0
+2021 Tour de France Stage 11.gpx,https://www.komoot.com/tour/2987057177,146.0,5.52,0.574,46.9,0.0,0.426,0.0,197.0,1.53,0.0,0.426,0.0,0.0,0.0,0.0
+2021 Tour de France Stage 12.gpx,https://www.komoot.com/tour/2987058199,118.0,38.9,0.819,1.36,0.0,0.0,0.0,159.0,0.508,0.0,0.492,0.0,0.439,0.0,0.0
+2021 Tour de France Stage 13.gpx,https://www.komoot.com/tour/2987059337,212.0,1.58,0.487,4.16,0.0,0.19,0.0,207.0,11.4,0.0,1.62,0.0,1.43,0.0,0.0
+2021 Tour de France Stage 14.gpx,https://www.komoot.com/tour/2987060274,149.0,33.1,0.191,1.85,0.0,0.101,0.0,176.0,0.0,0.0,0.143,7.95,0.0,0.0,0.0
+2021 Tour de France Stage 15.gpx,https://www.komoot.com/tour/2987061420,54.3,129.0,0.742,5.1,0.0,1.72,0.0,189.0,1.57,0.308,0.993,0.0,0.551,0.0,0.0
+2021 Tour de France Stage 16.gpx,https://www.komoot.com/tour/2987062438,126.0,40.1,0.666,3.02,0.0,0.0,0.0,162.0,7.07,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de France Stage 17.gpx,https://www.komoot.com/tour/2987063315,156.0,6.2,1.22,14.8,0.0,0.0,0.0,174.0,3.93,0.114,0.294,0.0,0.294,0.0,0.0
+2021 Tour de France Stage 18.gpx,https://www.komoot.com/tour/2987064355,124.0,5.67,0.0,0.0,0.0,0.138,0.0,129.0,0.0,0.0,0.0,0.178,0.0,0.0,0.0
+2021 Tour de France Stage 19.gpx,https://www.komoot.com/tour/2987065339,161.0,35.8,1.75,3.48,0.0,1.34,0.0,197.0,4.97,0.0,3.79,1.18,3.48,0.0,0.0
+2021 Tour de France Stage 2.gpx,https://www.komoot.com/tour/2987066344,157.0,19.9,2.26,4.31,0.0,0.0,0.0,181.0,2.3,0.279,0.291,0.0,0.278,0.0,0.0
+2021 Tour de France Stage 20.gpx,https://www.komoot.com/tour/2987066949,24.8,4.63,0.177,0.649,0.0,0.664,0.0,28.9,2.03,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de France Stage 21.gpx,https://www.komoot.com/tour/2987069240,17.0,47.1,0.7,38.7,0.0,1.07,2.03,66.9,2.71,38.4,0.794,0.241,0.781,0.0,0.0
+2021 Tour de France Stage 3.gpx,https://www.komoot.com/tour/2987070140,132.0,44.2,0.869,4.69,0.0,0.608,0.0,178.0,3.63,0.416,0.0,0.0,0.0,0.268,0.0
+2021 Tour de France Stage 4.gpx,https://www.komoot.com/tour/2987070985,76.2,71.5,1.1,1.09,0.0,0.0,0.0,150.0,0.329,0.0,0.196,0.0,0.196,0.0,0.0
+2021 Tour de France Stage 5.gpx,https://www.komoot.com/tour/2987071834,23.1,2.08,1.34,0.256,0.0,0.0,0.0,25.4,1.36,0.0,0.263,0.0,0.245,0.0,0.0
+2021 Tour de France Stage 6.gpx,https://www.komoot.com/tour/2987072512,81.2,71.8,1.13,5.13,0.0,0.0,0.0,160.0,0.515,0.0,1.28,0.0,0.0,0.0,0.0
+2021 Tour de France Stage 7.gpx,https://www.komoot.com/tour/2987073386,149.0,89.3,1.16,8.49,0.253,0.0,0.0,248.0,0.7,0.0,0.518,0.0,0.265,0.0,0.0
+2021 Tour de France Stage 8.gpx,https://www.komoot.com/tour/2987074176,97.2,47.5,1.81,1.88,0.0,0.185,0.0,148.0,0.0,0.0,2.66,0.0,2.54,0.0,0.0
+2021 Tour de France Stage 9.gpx,https://www.komoot.com/tour/2987075240,89.4,51.4,0.286,3.13,0.0,0.139,0.0,144.0,0.366,0.0,0.249,0.0,0.189,0.0,0.0
+2021 Tour de Hongrie Stage 1.gpx,https://www.komoot.com/tour/2987076510,138.0,18.4,5.5,6.3,0.0,1.23,0.0,167.0,1.65,0.0,0.677,0.586,3.29,0.0,0.0
+2021 Tour de Hongrie Stage 2.gpx,https://www.komoot.com/tour/2987077606,138.0,39.8,1.14,3.96,0.0,0.165,0.0,180.0,1.84,0.331,0.314,0.0,0.236,0.0,0.0
+2021 Tour de Hongrie Stage 3.gpx,https://www.komoot.com/tour/2987078579,97.9,39.2,1.68,0.545,0.0,0.344,0.0,138.0,0.808,0.0,2.51,0.344,2.51,0.0,0.0
+2021 Tour de Hongrie Stage 4.gpx,https://www.komoot.com/tour/2987079649,99.4,92.6,1.74,5.21,0.0,0.0,0.0,199.0,0.0,0.0,3.54,0.0,3.32,0.0,0.0
+2021 Tour de Hongrie Stage 5.gpx,https://www.komoot.com/tour/2987081082,37.0,0.0,15.0,40.9,0.0,0.0,0.0,92.0,1.02,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Pologne Stage 1.gpx,https://www.komoot.com/tour/2987082184,202.0,0.888,11.8,1.09,0.0,0.887,0.232,207.0,5.62,2.68,3.42,0.736,2.33,0.0,0.0
+2021 Tour de Pologne Stage 2.gpx,https://www.komoot.com/tour/2987083388,189.0,7.05,0.616,3.7,0.0,0.406,0.0,196.0,0.604,4.2,0.0,0.26,0.0,0.0,0.0
+2021 Tour de Pologne Stage 3.gpx,https://www.komoot.com/tour/2987084397,184.0,28.1,7.23,2.11,0.0,3.68,0.0,220.0,3.66,1.9,0.511,0.539,0.0,0.0,0.0
+2021 Tour de Pologne Stage 4.gpx,https://www.komoot.com/tour/2987085046,140.0,7.26,6.82,4.02,0.0,2.66,0.0,142.0,17.0,1.64,0.245,0.241,0.0,0.0,0.0
+2021 Tour de Pologne Stage 5.gpx,https://www.komoot.com/tour/2987086003,165.0,1.96,4.36,0.0,0.0,0.0,0.0,167.0,5.21,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Pologne Stage 6.gpx,https://www.komoot.com/tour/2987086640,11.4,1.14,1.29,4.19,0.0,0.297,0.0,17.4,0.0,0.857,0.417,0.0,0.375,0.0,0.0
+2021 Tour de Pologne Stage 7.gpx,https://www.komoot.com/tour/2987088252,131.0,3.86,1.49,6.64,0.0,0.0,0.0,144.0,0.0,0.0,0.373,0.0,0.0,0.0,0.0
+2021 Tour de Romandie Prologue.gpx,https://www.komoot.com/tour/2987089000,1.83,0.0,0.0,2.17,0.0,0.0,0.0,3.51,0.484,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Romandie Stage 1.gpx,https://www.komoot.com/tour/2987090037,104.0,8.36,2.6,52.3,0.0,1.02,0.0,161.0,7.38,0.0,0.366,0.0,0.0,0.0,0.0
+2021 Tour de Romandie Stage 2.gpx,https://www.komoot.com/tour/2987090944,121.0,24.2,2.31,17.3,0.0,0.408,0.0,147.0,17.9,0.314,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Romandie Stage 3.gpx,https://www.komoot.com/tour/2987091817,163.0,0.0,1.99,3.19,0.0,0.76,0.0,162.0,6.68,0.0,0.26,0.0,0.0,0.0,0.0
+2021 Tour de Romandie Stage 4.gpx,https://www.komoot.com/tour/2987092958,140.0,2.23,2.62,15.4,0.205,0.825,0.0,157.0,3.45,0.0,0.796,0.151,0.0,0.0,0.0
+2021 Tour de Romandie Stage 5.gpx,https://www.komoot.com/tour/2987093620,10.2,0.0,1.03,4.17,0.0,0.707,0.0,13.7,1.3,1.08,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Serbie Stage 1.gpx,https://www.komoot.com/tour/2987094453,73.4,67.2,0.325,0.0,0.0,1.4,0.0,138.0,3.12,0.0,4.98,1.74,5.32,0.0,0.0
+2021 Tour de Serbie Stage 2.gpx,https://www.komoot.com/tour/2987095100,51.7,91.3,0.265,0.0,0.0,0.198,0.0,142.0,0.618,0.0,0.522,0.438,0.508,0.0,0.0
+2021 Tour de Serbie Stage 3.gpx,https://www.komoot.com/tour/2987095659,79.8,69.5,3.97,0.0,0.0,0.0,0.0,153.0,0.768,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Serbie Stage 4.gpx,https://www.komoot.com/tour/2987096272,80.2,72.3,4.04,0.0,0.0,0.188,0.0,156.0,0.809,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Suisse Stage 1.gpx,https://www.komoot.com/tour/2987096722,3.67,0.142,0.551,4.81,0.0,1.44,0.0,10.3,0.657,0.0,0.355,0.0,0.0,0.0,0.0
+2021 Tour de Suisse Stage 2.gpx,https://www.komoot.com/tour/2987097750,97.1,41.0,5.23,28.0,0.0,1.56,0.0,173.0,4.41,0.0,0.177,0.528,0.0,0.0,0.0
+2021 Tour de Suisse Stage 3.gpx,https://www.komoot.com/tour/2987099081,118.0,25.4,1.58,36.3,0.0,0.648,0.0,163.0,17.9,0.0,0.232,0.0,0.0,0.0,0.0
+2021 Tour de Suisse Stage 4.gpx,https://www.komoot.com/tour/2987100190,51.7,80.1,0.799,29.5,0.0,1.31,0.0,164.0,4.08,0.0,3.2,0.0,1.37,0.0,0.0
+2021 Tour de Suisse Stage 5.gpx,https://www.komoot.com/tour/2987101422,102.0,43.2,1.87,27.7,0.0,0.342,0.129,171.0,1.04,0.0,1.15,2.69,0.193,0.0,0.0
+2021 Tour de Suisse Stage 6.gpx,https://www.komoot.com/tour/2987102401,61.9,57.7,0.394,10.3,0.0,0.0,0.0,123.0,5.96,0.957,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Suisse Stage 7.gpx,https://www.komoot.com/tour/2987102919,0.624,20.8,0.11,1.64,0.0,0.0,0.0,22.7,0.0,0.385,0.0,0.0,0.0,0.0,0.0
+2021 Tour de Suisse Stage 8.gpx,https://www.komoot.com/tour/2987103644,69.3,73.2,0.596,12.0,0.0,0.626,0.397,141.0,7.19,6.86,1.04,0.873,0.837,0.0,0.0
+2021 Tour de Vendee.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de l'Ain Stage 1.gpx,https://www.komoot.com/tour/2987107060,132.0,2.67,2.22,1.54,0.0,0.0,0.0,133.0,5.69,0.0,0.24,0.0,0.214,0.0,0.0
+2021 Tour de l'Ain Stage 2.gpx,https://www.komoot.com/tour/2987107893,125.0,5.38,0.691,0.0,0.0,0.716,0.0,129.0,1.78,0.0,0.0,0.716,0.0,0.0,0.0
+2021 Tour de l'Ain Stage 3.gpx,https://www.komoot.com/tour/2987108380,117.0,0.117,0.149,0.0,0.0,0.137,0.256,110.0,6.52,0.0,0.177,0.256,0.0,0.0,0.0
+2021 Tour de la Mirabelle Prologue.gpx,https://www.komoot.com/tour/2987108933,2.16,0.0,0.384,0.271,0.0,0.0,0.0,2.83,0.0,0.0,0.197,0.0,0.172,0.0,0.0
+2021 Tour de la Mirabelle Stage 1.gpx,https://www.komoot.com/tour/2987109474,113.0,42.8,3.45,0.0,0.0,0.0,0.0,150.0,8.82,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de la Mirabelle Stage 2.gpx,https://www.komoot.com/tour/2987110212,124.0,51.6,0.285,1.96,0.0,0.0,0.0,176.0,1.16,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de la Mirabelle Stage 3.gpx,https://www.komoot.com/tour/2987110788,167.0,16.3,1.7,4.7,0.0,0.0,0.0,186.0,3.86,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de la Provence Stage 1.gpx,https://www.komoot.com/tour/2987111638,140.0,35.1,0.0,7.23,0.0,0.165,0.0,182.0,0.0,0.0,0.0,0.165,0.0,0.0,0.0
+2021 Tour de la Provence Stage 2.gpx,https://www.komoot.com/tour/2987112701,138.0,35.5,0.276,1.4,0.0,0.242,0.0,174.0,0.333,0.0,0.0,0.23,0.0,0.0,0.0
+2021 Tour de la Provence Stage 3.gpx,https://www.komoot.com/tour/2987113585,139.0,11.2,0.0,3.94,0.0,0.0,0.0,150.0,4.21,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour de la Provence Stage 4.gpx,https://www.komoot.com/tour/2987114706,133.0,24.8,2.14,2.72,0.0,0.0,0.0,162.0,0.39,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour des Alpes Maritimes et du Var Stage 1.gpx,https://www.komoot.com/tour/2987115676,153.0,17.2,0.286,15.7,0.217,0.0,0.182,186.0,0.0,0.0,0.771,0.182,1.02,0.0,0.0
+2021 Tour des Alpes Maritimes et du Var Stage 2.gpx,https://www.komoot.com/tour/2987116477,160.0,5.79,2.12,0.0,0.0,0.0,0.0,163.0,4.25,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour des Alpes Maritimes et du Var Stage 3.gpx,https://www.komoot.com/tour/2987117117,120.0,6.82,2.13,1.65,0.0,0.0,0.0,131.0,0.0,0.0,0.0,0.0,0.375,0.0,0.0
+2021 Tour du Doubs.gpx,https://www.komoot.com/tour/2987117808,180.0,17.3,2.36,0.797,0.0,0.0,0.0,193.0,7.03,0.0,0.749,0.0,0.324,0.0,0.0
+2021 Tour du Faso Stage 1.gpx,https://www.komoot.com/tour/2987118526,9.93,114.0,0.0,0.0,0.0,0.0,0.0,116.0,8.71,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Faso Stage 10.gpx,https://www.komoot.com/tour/2987119314,16.3,79.7,1.5,10.6,0.0,0.0,0.0,93.8,14.1,0.0,1.41,0.357,1.37,0.0,0.0
+2021 Tour du Faso Stage 2.gpx,https://www.komoot.com/tour/2987119889,1.01,176.0,0.574,0.0,0.0,0.0,0.0,177.0,1.33,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Faso Stage 3.gpx,https://www.komoot.com/tour/2987120487,0.878,134.0,0.0,0.0,0.0,0.0,0.0,108.0,17.0,0.0,0.0,7.79,0.0,1.87,0.0
+2021 Tour du Faso Stage 4.gpx,https://www.komoot.com/tour/2987121059,0.137,149.0,0.455,0.0,0.0,0.0,0.0,95.0,50.0,0.0,0.484,3.22,0.484,1.0,0.0
+2021 Tour du Faso Stage 5.gpx,https://www.komoot.com/tour/2987121575,7.65,85.2,1.87,0.0,0.0,0.0,0.0,87.4,0.363,0.0,0.0,6.98,0.0,0.0,0.0
+2021 Tour du Faso Stage 6.gpx,https://www.komoot.com/tour/2987122109,0.0,148.0,0.0,0.0,0.0,0.0,0.0,148.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Faso Stage 7.gpx,https://www.komoot.com/tour/2987122631,0.0,31.4,0.0,0.0,0.0,0.0,0.0,31.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Faso Stage 8.gpx,https://www.komoot.com/tour/2987123379,2.88,125.0,0.368,0.0,0.0,0.0,0.247,125.0,3.25,0.0,0.709,0.247,0.709,0.0,0.0
+2021 Tour du Faso Stage 9.gpx,https://www.komoot.com/tour/2987124302,2.86,121.0,0.577,7.56,0.0,0.0,0.214,121.0,11.0,0.0,0.715,0.214,0.715,0.0,0.0
+2021 Tour du Finistere.gpx,https://www.komoot.com/tour/2987125217,171.0,6.92,3.84,11.8,0.0,0.238,0.0,167.0,26.5,0.127,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Jura Cycliste.gpx,https://www.komoot.com/tour/2987126102,157.0,4.27,8.23,10.0,0.0,0.606,0.0,174.0,6.72,0.0,0.0,0.0,0.0,0.125,0.0
+2021 Tour du Limousin - Nouvelle Aquitaine Stage 1.gpx,https://www.komoot.com/tour/2987126696,181.0,1.54,1.81,0.0,0.0,0.0,0.0,163.0,20.9,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Limousin - Nouvelle Aquitaine Stage 2.gpx,https://www.komoot.com/tour/2987127193,170.0,0.892,0.71,0.0,0.0,0.0,0.0,131.0,40.4,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Limousin - Nouvelle Aquitaine Stage 3.gpx,https://www.komoot.com/tour/2987127859,168.0,16.1,0.462,0.0,0.166,0.0,0.0,162.0,22.2,0.0,0.166,0.0,0.0,0.0,0.0
+2021 Tour du Limousin - Nouvelle Aquitaine Stage 4.gpx,https://www.komoot.com/tour/2987128490,151.0,7.24,10.5,1.23,0.0,0.0,0.0,142.0,27.9,0.0,0.308,0.0,0.308,0.0,0.0
+2021 Tour du Rwanda Stage 1.gpx,https://www.komoot.com/tour/2987128978,6.45,110.0,0.0,0.0,0.0,0.0,0.0,116.0,0.323,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Rwanda Stage 2.gpx,https://www.komoot.com/tour/2987129596,0.0,119.0,1.88,0.0,0.0,0.0,0.101,17.0,104.0,0.0,0.25,0.101,0.25,0.0,0.0
+2021 Tour du Rwanda Stage 3.gpx,https://www.komoot.com/tour/2987130153,0.0,168.0,1.47,0.0,0.0,0.0,0.0,39.7,129.0,0.0,0.753,0.0,0.694,0.0,0.0
+2021 Tour du Rwanda Stage 4.gpx,https://www.komoot.com/tour/2987130847,23.5,100.0,0.0,0.0,0.0,0.0,0.0,27.2,96.4,0.0,0.395,0.0,0.395,0.0,0.0
+2021 Tour du Rwanda Stage 5.gpx,https://www.komoot.com/tour/2987131409,1.67,150.0,0.0,0.0,0.0,0.0,0.0,75.5,75.8,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour du Rwanda Stage 6.gpx,https://www.komoot.com/tour/2987131993,5.24,141.0,3.25,0.0,0.0,0.0,0.0,99.1,50.3,0.0,0.317,0.0,0.317,0.0,0.0
+2021 Tour du Rwanda Stage 7.gpx,https://www.komoot.com/tour/2987132484,4.17,0.0,0.0,0.0,0.0,0.0,0.0,1.72,2.44,0.0,0.379,0.0,0.379,0.0,0.0
+2021 Tour du Rwanda Stage 8.gpx,https://www.komoot.com/tour/2987133083,50.8,9.8,15.1,0.0,0.0,0.0,0.0,29.0,43.7,2.91,1.14,0.0,1.14,0.0,0.0
+2021 Tour of Britain Stage 1.gpx,https://www.komoot.com/tour/2987133869,104.0,69.7,0.129,6.51,0.125,0.367,0.0,174.0,6.22,0.181,0.0,0.0,0.265,0.307,0.0
+2021 Tour of Britain Stage 2.gpx,https://www.komoot.com/tour/2987134902,98.7,78.8,1.8,0.495,0.0,0.867,3.27,173.0,7.13,0.0,0.682,3.18,0.183,0.0,0.0
+2021 Tour of Britain Stage 3.gpx,https://www.komoot.com/tour/2987135913,17.2,0.537,0.337,0.0,0.0,0.0,0.0,14.0,3.94,0.0,0.16,0.0,0.0,0.0,0.0
+2021 Tour of Britain Stage 4.gpx,https://www.komoot.com/tour/2987136632,84.0,124.0,0.627,0.462,0.0,1.01,0.0,208.0,2.17,0.0,0.21,0.0,0.21,0.0,0.0
+2021 Tour of Britain Stage 5.gpx,https://www.komoot.com/tour/2987137391,79.5,68.8,1.37,2.5,0.0,0.811,0.0,147.0,5.6,0.0,0.17,0.0,0.0,0.0,0.0
+2021 Tour of Britain Stage 6.gpx,https://www.komoot.com/tour/2987138135,109.0,88.7,0.0,0.0,0.0,0.0,0.0,194.0,3.23,0.0,0.527,0.0,0.527,0.0,0.0
+2021 Tour of Britain Stage 7.gpx,https://www.komoot.com/tour/2987138813,154.0,36.9,1.04,3.4,0.0,0.0,0.0,193.0,1.08,0.0,0.374,0.0,0.0,0.0,0.0
+2021 Tour of Britain Stage 8.gpx,https://www.komoot.com/tour/2987139492,135.0,34.7,0.0,3.1,0.0,0.0,0.0,173.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Bulgaria Prologue.gpx,https://www.komoot.com/tour/2987140097,0.0,0.0,0.0,0.0,0.0,0.124,0.436,0.0,0.0,0.559,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Bulgaria Stage 1.gpx,https://www.komoot.com/tour/2987140892,125.0,53.7,3.71,1.3,0.0,0.0,0.0,174.0,8.28,0.0,1.79,0.503,0.637,0.0,0.0
+2021 Tour of Bulgaria Stage 2.gpx,https://www.komoot.com/tour/2987141564,95.9,18.7,0.561,0.0,0.281,0.178,0.0,110.0,5.47,0.178,0.281,0.0,0.0,0.0,0.0
+2021 Tour of Bulgaria Stage 3.gpx,https://www.komoot.com/tour/2987142146,75.4,120.0,0.0,0.0,0.0,0.0,0.0,172.0,23.2,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Bulgaria Stage 4.gpx,https://www.komoot.com/tour/2987142744,7.95,97.5,0.0,0.0,0.0,0.266,0.0,105.0,0.417,0.266,0.0,0.0,0.417,0.0,0.0
+2021 Tour of Bulgaria Stage 5.gpx,https://www.komoot.com/tour/2987143395,5.17,183.0,0.162,0.0,0.0,0.0,0.0,188.0,0.0,0.0,0.806,0.0,0.828,0.0,0.0
+2021 Tour of Estonia Stage 1.gpx,https://www.komoot.com/tour/2987144014,178.0,1.26,3.97,2.57,0.0,0.238,0.0,183.0,2.33,0.293,0.443,0.0,0.345,0.0,0.0
+2021 Tour of Estonia Stage 2.gpx,https://www.komoot.com/tour/2987145457,69.8,0.0,76.5,9.19,0.0,5.14,0.0,127.0,19.9,12.8,4.54,0.0,3.89,0.0,0.0
+2021 Tour of Japan Stage 1.gpx,https://www.komoot.com/tour/2987146271,75.4,0.443,0.109,0.0,0.0,0.0,0.0,71.8,4.11,0.0,2.27,0.0,2.71,0.0,0.0
+2021 Tour of Japan Stage 2.gpx,https://www.komoot.com/tour/2987147010,76.3,33.3,0.0,0.0,0.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Japan Stage 3.gpx,https://www.komoot.com/tour/2987148145,30.9,75.4,0.0,0.0,0.0,0.95,0.0,107.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Kosovo Stage 1.gpx,https://www.komoot.com/tour/2987148797,3.12,24.7,3.41,0.0,0.0,2.3,0.0,25.3,4.69,0.0,114.0,2.27,113.0,0.0,0.0
+2021 Tour of Kosovo Stage 2.gpx,https://www.komoot.com/tour/2987149366,1.89,24.0,4.28,0.0,0.0,0.501,0.0,24.3,4.19,0.0,117.0,0.501,116.0,0.0,0.0
+2021 Tour of Kosovo Stage 3.gpx,https://www.komoot.com/tour/2987150175,1.73,24.7,2.62,0.0,0.0,2.14,0.0,25.6,2.5,0.0,127.0,1.93,125.0,0.0,0.0
+2021 Tour of Malopolska Prologue.gpx,https://www.komoot.com/tour/2987150770,0.0,0.0,0.0,0.0,0.0,1.35,0.0,1.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Malopolska Stage 1.gpx,https://www.komoot.com/tour/2987151372,128.0,0.0,2.63,0.0,0.0,2.22,0.0,123.0,6.8,2.26,0.359,0.0,0.0,0.0,0.0
+2021 Tour of Malopolska Stage 2.gpx,https://www.komoot.com/tour/2987152108,134.0,7.65,3.59,1.09,0.0,0.662,0.0,145.0,0.438,0.867,0.247,0.0,0.0,0.0,0.0
+2021 Tour of Malopolska Stage 3.gpx,https://www.komoot.com/tour/2987152811,117.0,3.48,0.211,2.95,0.0,0.578,0.0,124.0,0.0,0.328,0.667,0.283,0.552,0.0,0.0
+2021 Tour of Mevlana Stage 1.gpx,https://www.komoot.com/tour/2987153641,44.4,93.0,0.0,0.779,0.0,0.0,0.0,138.0,0.12,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Mevlana Stage 2.gpx,https://www.komoot.com/tour/2987154331,60.5,71.3,1.44,2.84,0.0,0.0,0.0,132.0,3.81,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Mevlana Stage 3.gpx,https://www.komoot.com/tour/2987154861,104.0,0.0,0.284,8.51,0.0,1.07,0.0,112.0,0.284,0.0,0.0,1.07,0.0,0.0,0.0
+2021 Tour of Mevlana Stage 4.gpx,https://www.komoot.com/tour/2987155822,41.3,86.3,1.75,3.29,0.0,0.0,0.0,129.0,3.13,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Norway Stage 1.gpx,https://www.komoot.com/tour/2987156495,51.4,94.1,1.59,1.19,0.0,2.02,0.0,146.0,3.68,0.0,1.05,0.0,0.778,0.0,0.0
+2021 Tour of Norway Stage 2.gpx,https://www.komoot.com/tour/2987157079,23.8,158.0,1.84,0.442,0.0,1.31,0.0,182.0,2.36,0.0,0.734,0.0,0.0,0.0,0.0
+2021 Tour of Norway Stage 3.gpx,https://www.komoot.com/tour/2987157569,64.5,82.9,1.42,9.89,0.0,0.0,0.0,157.0,0.877,0.0,1.13,0.0,0.697,0.0,0.0
+2021 Tour of Norway Stage 4.gpx,https://www.komoot.com/tour/2987158815,49.1,97.7,2.3,5.51,0.0,0.502,0.979,154.0,1.06,0.424,0.693,0.0,0.338,0.0,0.0
+2021 Tour of Qinghai Lake Stage 1.gpx,https://www.komoot.com/tour/2987159457,16.7,16.7,1.68,0.0,0.0,1.11,0.0,33.4,0.0,0.0,80.0,0.0,77.2,0.0,0.0
+2021 Tour of Qinghai Lake Stage 2.gpx,https://www.komoot.com/tour/2987160100,6.84,17.6,0.843,0.0,0.0,0.0,0.0,21.7,3.43,0.0,138.0,0.0,138.0,0.0,0.0
+2021 Tour of Qinghai Lake Stage 3.gpx,https://www.komoot.com/tour/2987160663,3.96,5.9,3.89,0.0,0.0,0.22,0.0,8.64,4.01,0.0,147.0,0.201,146.0,0.0,0.0
+2021 Tour of Qinghai Lake Stage 4.gpx,https://www.komoot.com/tour/2987161440,0.985,9.79,0.591,0.0,0.0,0.0,0.0,10.4,0.974,0.0,91.0,0.0,91.0,0.0,0.0
+2021 Tour of Qinghai Lake Stage 5.gpx,https://www.komoot.com/tour/2987162128,0.441,0.94,0.183,7.33,0.0,0.0,0.0,8.41,0.484,0.0,118.0,0.0,118.0,0.0,0.0
+2021 Tour of Qinghai Lake Stage 6.gpx,https://www.komoot.com/tour/2987162675,0.424,12.0,0.0,30.9,0.0,0.0,0.0,43.3,0.0,0.0,96.9,0.0,96.9,0.0,0.0
+2021 Tour of Qinghai Lake Stage 7.gpx,https://www.komoot.com/tour/2987163114,27.1,15.9,0.418,0.0,0.0,0.0,0.0,16.4,26.7,0.0,48.2,0.0,47.8,0.0,0.0
+2021 Tour of Qinghai Lake Stage 8.gpx,https://www.komoot.com/tour/2987163537,3.05,1.37,0.0,0.0,0.0,0.0,0.0,4.4,0.0,0.0,97.6,0.0,97.6,0.0,0.0
+2021 Tour of Slovenia Stage 1.gpx,https://www.komoot.com/tour/2987164253,121.0,11.9,4.04,13.1,0.0,0.467,0.0,147.0,4.74,0.0,0.553,0.203,0.505,0.0,0.0
+2021 Tour of Slovenia Stage 2.gpx,https://www.komoot.com/tour/2987165123,114.0,11.1,6.59,13.5,0.0,0.834,0.118,126.0,21.0,0.285,0.257,0.118,0.0,0.0,0.0
+2021 Tour of Slovenia Stage 3.gpx,https://www.komoot.com/tour/2987166117,146.0,10.5,6.06,5.2,0.0,0.0,0.0,151.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Slovenia Stage 4.gpx,https://www.komoot.com/tour/2987167778,137.0,13.2,8.93,1.06,0.0,0.221,0.0,144.0,16.4,0.0,1.25,0.0,0.938,0.0,0.0
+2021 Tour of Slovenia Stage 5.gpx,https://www.komoot.com/tour/2987168883,142.0,2.05,2.95,28.2,0.0,1.21,0.0,160.0,17.7,0.902,0.105,0.0,0.0,0.0,0.0
+2021 Tour of Thailand Stage 1.gpx,https://www.komoot.com/tour/2987169543,96.2,62.6,0.716,0.0,0.0,0.0,0.0,146.0,13.1,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Thailand Stage 2.gpx,https://www.komoot.com/tour/2987170162,167.0,58.1,0.973,0.0,0.0,0.288,0.0,209.0,16.8,0.0,0.26,0.288,0.26,0.0,0.0
+2021 Tour of Thailand Stage 3.gpx,https://www.komoot.com/tour/2987170780,107.0,37.5,0.0,0.0,0.0,0.0,0.0,138.0,3.81,0.0,0.0,2.77,0.0,0.0,0.0
+2021 Tour of Thailand Stage 4.gpx,https://www.komoot.com/tour/2987171295,108.0,33.5,2.38,0.0,0.0,0.0,0.0,137.0,7.47,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Thailand Stage 5.gpx,https://www.komoot.com/tour/2987171818,26.7,136.0,0.0,0.0,0.0,0.0,0.0,162.0,0.805,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Tour of Thailand Stage 6.gpx,https://www.komoot.com/tour/2987172510,31.3,130.0,0.11,0.0,0.0,0.0,0.0,158.0,3.67,0.0,0.313,0.0,0.202,0.0,0.0
+2021 Tour of the Alps Stage 1.gpx,https://www.komoot.com/tour/2987173373,55.5,80.1,1.99,0.902,0.0,0.561,0.0,139.0,0.418,0.125,1.27,0.19,1.27,0.0,0.0
+2021 Tour of the Alps Stage 2.gpx,https://www.komoot.com/tour/2987174021,76.3,37.0,3.7,3.91,0.0,0.765,0.0,121.0,0.592,0.0,0.224,0.399,0.224,0.0,0.0
+2021 Tour of the Alps Stage 3.gpx,https://www.komoot.com/tour/2987175008,77.7,79.7,2.82,0.0,0.0,0.179,0.295,160.0,0.233,0.499,1.83,0.0,1.83,0.0,0.295
+2021 Tour of the Alps Stage 4.gpx,https://www.komoot.com/tour/2987175779,78.6,85.4,2.07,0.951,0.0,0.0,0.14,155.0,12.0,0.0,2.23,0.197,2.13,0.0,0.0
+2021 Tour of the Alps Stage 5.gpx,https://www.komoot.com/tour/2987177015,48.9,67.0,0.64,2.22,0.0,1.64,0.303,119.0,0.443,1.25,0.21,0.0,0.0,0.0,0.0
+2021 Tro-Bro Leon.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Trofej Porec - Porec Trophy.gpx,https://www.komoot.com/tour/2987180265,91.6,57.1,0.417,0.417,0.0,0.0,0.0,149.0,0.684,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Trofej Umag - Umag Trophy.gpx,https://www.komoot.com/tour/2987181139,109.0,42.6,2.16,0.0,0.0,0.0,0.0,153.0,0.001,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Trofeo Alcudia - Port D' Alcudia.gpx,https://www.komoot.com/tour/2987182186,50.0,102.0,0.605,21.9,0.0,0.135,0.0,173.0,1.14,0.0,0.107,0.0,0.0,0.461,0.0
+2021 Trofeo Andratx - Mirador des Colomer (Puerto Pollenca).gpx,https://www.komoot.com/tour/2987183148,150.0,3.91,3.62,4.64,0.0,0.0,0.0,160.0,1.79,0.0,0.154,0.0,0.0,0.0,0.0
+2021 Trofeo Calvia.gpx,https://www.komoot.com/tour/2987183946,157.0,5.38,0.588,5.09,0.0,0.0,0.0,168.0,0.271,0.0,0.0,0.0,0.392,0.0,0.0
+2021 Trofeo Laigueglia.gpx,https://www.komoot.com/tour/2987185094,117.0,68.1,8.08,7.46,0.0,0.0,0.0,182.0,19.1,0.0,1.22,0.0,1.76,0.0,0.0
+2021 Trofeo Matteotti.gpx,https://www.komoot.com/tour/2987186130,167.0,0.0,8.62,16.8,0.0,1.6,0.0,192.0,1.15,0.111,0.0,0.0,0.0,0.0,0.0
+2021 Trofeo Serra de Tramuntana (Lloseta - Deia).gpx,https://www.komoot.com/tour/2987187083,125.0,12.7,1.82,17.7,0.0,0.53,0.0,158.0,0.733,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Turul Romaniei Prologue.gpx,https://www.komoot.com/tour/2987187954,0.895,0.0,0.356,1.07,0.0,0.0,0.0,3.57,0.0,0.645,1.86,0.0,0.0,0.0,0.0
+2021 Turul Romaniei Stage 1.gpx,https://www.komoot.com/tour/2987188733,74.9,125.0,0.35,1.18,0.0,0.0,0.0,201.0,0.294,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Turul Romaniei Stage 2.gpx,https://www.komoot.com/tour/2987189284,52.4,102.0,0.326,0.0,0.0,0.0,0.0,155.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Turul Romaniei Stage 3.gpx,https://www.komoot.com/tour/2987190039,119.0,63.6,1.0,1.42,0.0,0.376,0.0,184.0,0.206,0.0,1.44,0.37,1.18,0.0,0.0
+2021 Turul Romaniei Stage 4.gpx,https://www.komoot.com/tour/2987190852,1.41,153.0,0.661,2.01,0.0,0.408,0.0,157.0,0.0,0.0,2.17,0.0,1.96,0.0,0.0
+2021 Turul Romaniei Stage 5.gpx,https://www.komoot.com/tour/2987191667,0.0,3.65,1.46,56.2,0.0,0.355,0.0,58.4,0.0,3.28,3.83,0.0,3.83,0.0,0.0
+2021 UAE Tour Stage 1.gpx,https://www.komoot.com/tour/2987192428,155.0,0.15,2.91,0.0,0.0,1.07,0.0,154.0,4.26,0.0,18.3,0.0,17.7,0.0,0.0
+2021 UAE Tour Stage 2.gpx,https://www.komoot.com/tour/2987192976,0.0,0.0,0.211,11.4,0.0,0.0,0.0,11.2,0.226,0.0,1.63,0.0,1.42,0.0,0.0
+2021 UAE Tour Stage 3.gpx,https://www.komoot.com/tour/2987193824,34.8,77.0,2.09,0.0,0.0,1.64,0.0,110.0,3.85,0.0,52.9,0.0,51.5,0.0,0.0
+2021 UAE Tour Stage 4.gpx,https://www.komoot.com/tour/2987194622,40.5,38.5,2.32,0.0,0.129,0.706,0.0,76.5,2.71,0.0,126.0,0.701,123.0,0.0,0.0
+2021 UAE Tour Stage 5.gpx,https://www.komoot.com/tour/2987195315,48.7,42.0,4.3,0.0,0.0,0.734,0.0,87.3,6.67,0.0,74.5,0.734,74.1,0.0,0.0
+2021 UAE Tour Stage 6.gpx,https://www.komoot.com/tour/2987196646,32.7,108.0,4.15,0.0,0.0,5.18,0.0,138.0,0.0,7.39,20.1,0.0,15.6,0.0,0.0
+2021 UAE Tour Stage 7.gpx,https://www.komoot.com/tour/2987197729,78.2,11.7,3.26,2.8,0.0,1.52,0.0,92.2,1.99,2.51,49.8,0.0,50.1,0.0,0.0
+2021 UCI Road World Championships - ITT.gpx,https://www.komoot.com/tour/2987198521,19.1,0.2,2.2,16.6,0.0,1.17,0.0,35.3,5.76,1.88,0.634,0.0,0.0,0.0,0.0
+2021 UCI Road World Championships.gpx,https://www.komoot.com/tour/2987199721,36.9,2.56,28.7,63.1,0.309,2.85,0.228,88.1,55.0,12.8,6.05,0.503,5.56,0.0,0.0
+2021 UEC European Championships - ITT.gpx,https://www.komoot.com/tour/2987200320,20.9,0.0,0.0,0.489,0.0,0.232,0.0,21.3,0.0,0.271,0.883,0.0,0.883,0.0,0.0
+2021 UEC European Championships.gpx,https://www.komoot.com/tour/2987201300,70.7,0.0,3.13,8.25,0.0,0.341,0.0,78.5,0.28,3.7,0.671,0.0,0.671,0.0,0.0
+2021 USA Road National Championships - ITT.gpx,https://www.komoot.com/tour/2987202148,29.2,0.0,4.92,0.0,0.0,0.0,0.0,33.5,0.642,0.0,0.0,0.0,0.0,0.0,0.0
+2021 USA Road National Championships.gpx,https://www.komoot.com/tour/2987203584,43.2,0.0,44.5,41.5,0.0,0.16,3.22,82.7,49.7,0.0,60.2,0.0,60.0,0.0,0.0
+2021 Veneto Classic.gpx,https://www.komoot.com/tour/2987205174,145.0,44.3,3.25,12.4,0.0,0.371,0.52,194.0,11.3,1.11,0.702,0.0,0.456,0.0,0.0
+2021 Visegrad 4 Bicycle Race - GP Czech Republic.gpx,https://www.komoot.com/tour/2987205947,177.0,0.0,3.48,1.11,0.0,1.68,0.0,170.0,11.6,0.717,0.345,0.735,0.0,0.0,0.0
+2021 Visegrad 4 Bicycle Race - GP Slovakia.gpx,https://www.komoot.com/tour/2987206654,136.0,0.0,4.71,0.0,0.0,0.0,0.0,118.0,23.5,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Visegrad 4 Bicycle Race Grand Prix Poland.gpx,https://www.komoot.com/tour/2987207345,135.0,0.0,3.18,1.92,0.263,0.253,0.368,138.0,0.975,0.887,0.594,0.29,0.0,0.0,0.0
+2021 Visegrad 4 Kerekparverseny.gpx,https://www.komoot.com/tour/2987208189,93.3,64.5,1.46,0.247,0.0,0.208,0.0,158.0,0.405,0.519,0.597,0.0,0.421,0.0,0.0
+2021 Volta Ciclista a Catalunya Stage 1.gpx,https://www.komoot.com/tour/2987209278,146.0,27.4,0.467,0.0,0.0,1.6,0.0,157.0,16.8,0.0,2.5,1.21,4.72,0.0,0.0
+2021 Volta Ciclista a Catalunya Stage 2.gpx,https://www.komoot.com/tour/2987210230,16.6,0.0,1.77,0.0,0.0,0.173,0.0,14.6,3.82,0.0,0.173,0.0,0.0,0.0,0.0
+2021 Volta Ciclista a Catalunya Stage 3.gpx,https://www.komoot.com/tour/2987211372,133.0,57.8,2.85,0.959,0.0,0.0,0.0,190.0,4.3,0.112,9.66,0.0,9.63,0.0,0.0
+2021 Volta Ciclista a Catalunya Stage 4.gpx,https://www.komoot.com/tour/2987212317,58.3,109.0,0.828,0.0,0.0,0.383,0.0,150.0,18.2,0.0,0.243,0.201,0.0,0.0,0.0
+2021 Volta Ciclista a Catalunya Stage 5.gpx,https://www.komoot.com/tour/2987213299,146.0,50.9,0.613,0.269,0.0,3.04,0.0,200.0,0.632,0.106,0.0,0.0,0.0,0.0,0.0
+2021 Volta Ciclista a Catalunya Stage 6.gpx,https://www.komoot.com/tour/2987214353,164.0,21.0,1.4,0.0,0.0,0.511,1.64,185.0,0.9,0.0,6.23,2.15,6.69,0.0,0.0
+2021 Volta Ciclista a Catalunya Stage 7.gpx,https://www.komoot.com/tour/2987216814,67.3,29.5,17.6,5.19,0.0,5.53,0.946,113.0,11.1,0.544,10.4,0.298,8.38,0.0,0.0
+2021 Volta a la Comunitat Valenciana Stage 1.gpx,https://www.komoot.com/tour/2987217868,142.0,20.9,0.789,1.69,0.0,0.114,0.0,164.0,1.73,0.0,2.44,0.0,2.92,0.0,0.0
+2021 Volta a la Comunitat Valenciana Stage 2.gpx,https://www.komoot.com/tour/2987218845,105.0,62.8,1.03,0.14,0.0,0.0,2.15,167.0,2.79,0.0,6.04,2.23,6.04,0.0,0.0
+2021 Volta a la Comunitat Valenciana Stage 3.gpx,https://www.komoot.com/tour/2987219919,136.0,27.6,1.2,0.0,0.0,0.0,0.0,132.0,32.3,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Volta a la Comunitat Valenciana Stage 4.gpx,https://www.komoot.com/tour/2987220676,5.67,7.89,0.794,0.0,0.0,0.0,0.0,14.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Volta a la Comunitat Valenciana Stage 5.gpx,https://www.komoot.com/tour/2987221653,69.2,15.0,0.0,5.68,0.0,0.219,0.0,89.9,0.0,0.0,1.41,0.219,1.41,0.0,0.0
+2021 Volta ao Alentejo Stage 1.gpx,https://www.komoot.com/tour/2987222572,108.0,86.7,2.47,0.0,0.0,0.0,0.0,193.0,3.37,0.454,0.598,0.0,0.598,0.0,0.0
+2021 Volta ao Alentejo Stage 2.gpx,https://www.komoot.com/tour/2987223462,24.4,171.0,1.99,0.508,0.0,0.0,0.0,179.0,19.7,0.0,0.498,0.0,0.463,0.0,0.0
+2021 Volta ao Alentejo Stage 3.gpx,https://www.komoot.com/tour/2987224132,53.2,117.0,1.54,0.0,0.0,0.0,0.0,170.0,0.769,1.09,0.0,0.0,0.424,0.0,0.0
+2021 Volta ao Alentejo Stage 4-1.gpx,https://www.komoot.com/tour/2987224785,36.5,46.9,1.42,0.0,0.0,0.0,0.0,81.5,2.87,0.378,0.0,0.0,0.0,0.0,0.0
+2021 Volta ao Algarve em Bicicleta Stage 1.gpx,https://www.komoot.com/tour/2987225491,94.2,92.5,1.09,1.73,0.0,0.0,0.0,173.0,16.7,0.0,0.0,0.124,0.0,0.0,0.0
+2021 Volta ao Algarve em Bicicleta Stage 2.gpx,https://www.komoot.com/tour/2987226998,62.7,118.0,1.21,0.0,0.0,0.0,0.0,179.0,3.39,0.146,0.0,0.0,0.0,0.0,0.0
+2021 Volta ao Algarve em Bicicleta Stage 3.gpx,https://www.komoot.com/tour/2987227593,124.0,78.4,0.38,0.512,0.0,0.0,0.0,190.0,12.3,1.4,0.0,0.0,0.0,0.0,0.0
+2021 Volta ao Algarve em Bicicleta Stage 4.gpx,https://www.komoot.com/tour/2987228058,19.1,0.0,0.379,0.0,0.0,0.0,0.0,17.4,1.85,0.278,0.599,0.0,0.599,0.0,0.0
+2021 Volta ao Algarve em Bicicleta Stage 5.gpx,https://www.komoot.com/tour/2987228743,88.4,79.8,0.121,1.09,0.0,0.392,0.0,169.0,0.138,0.356,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta Asturias Julio Alvarez Mendo Stage 1.gpx,https://www.komoot.com/tour/2987229645,155.0,25.5,4.72,0.632,0.0,0.0,0.0,185.0,0.751,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta Asturias Julio Alvarez Mendo Stage 2.gpx,https://www.komoot.com/tour/2987230290,93.9,105.0,1.81,0.0,0.0,0.0,0.0,189.0,11.3,0.0,0.33,0.0,0.33,0.0,0.0
+2021 Vuelta Asturias Julio Alvarez Mendo Stage 3.gpx,https://www.komoot.com/tour/2987231339,62.6,58.7,4.73,0.0,0.0,0.0,0.0,125.0,0.768,0.0,0.3,0.0,0.3,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 1.gpx,https://www.komoot.com/tour/2987232410,9.02,90.9,0.198,0.0,0.0,0.0,0.0,36.1,63.8,0.0,0.0,0.0,0.791,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 2.gpx,https://www.komoot.com/tour/2987232948,6.52,2.41,11.3,0.0,0.0,0.0,0.0,11.6,7.77,0.0,96.6,0.536,96.3,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 3.gpx,https://www.komoot.com/tour/2987233400,1.8,3.57,3.98,0.0,0.0,0.151,0.0,4.94,2.47,0.0,155.0,1.36,161.0,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 4.gpx,https://www.komoot.com/tour/2987233840,0.0,109.0,15.2,0.0,0.0,0.0,0.0,109.0,15.2,0.0,8.21,0.0,8.95,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 5.gpx,https://www.komoot.com/tour/2987234542,0.0,74.7,14.1,0.0,0.0,0.0,0.0,74.7,1.69,0.0,40.9,0.0,28.8,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 6.gpx,https://www.komoot.com/tour/2987235284,25.3,16.1,7.52,0.0,0.0,0.289,0.0,41.1,3.7,0.0,124.0,1.28,153.0,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 7.gpx,https://www.komoot.com/tour/2987236167,141.0,0.0,7.89,0.0,0.0,0.0,0.0,141.0,7.07,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta Ciclista a Venezuela Stage 8.gpx,https://www.komoot.com/tour/2987236731,18.7,87.7,1.16,0.475,0.0,0.0,0.0,102.0,5.49,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta Ciclista a la Region de Murcia Costa Calida.gpx,https://www.komoot.com/tour/2987237578,86.6,94.6,4.46,0.605,0.0,0.282,0.0,179.0,7.29,0.197,2.28,0.282,4.21,0.0,0.0
+2021 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 1.gpx,https://www.komoot.com/tour/2987238842,100.0,44.2,6.05,0.0,0.0,0.0,0.0,146.0,3.45,0.48,0.83,0.0,0.83,0.0,0.0
+2021 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 2.gpx,https://www.komoot.com/tour/2987239502,114.0,64.7,2.98,0.0,0.0,0.0,0.0,178.0,3.82,0.0,3.05,0.0,3.05,0.0,0.0
+2021 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 3.gpx,https://www.komoot.com/tour/2987240156,176.0,0.0,0.715,0.0,0.0,0.0,0.0,176.0,0.459,0.0,0.494,0.0,0.494,0.0,0.0
+2021 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 4.gpx,https://www.komoot.com/tour/2987241352,122.0,51.8,1.25,0.0,0.0,3.91,0.0,175.0,2.4,0.0,4.13,1.96,3.83,0.0,0.0
+2021 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 5.gpx,https://www.komoot.com/tour/2987242461,97.2,7.82,0.855,0.0,0.0,0.0,0.0,103.0,0.929,0.0,1.19,1.95,1.19,0.0,0.0
+2021 Vuelta a Burgos Stage 1.gpx,https://www.komoot.com/tour/2987243098,120.0,32.1,5.77,0.0,0.0,2.56,0.0,158.0,0.162,0.882,2.33,0.0,0.593,0.0,0.0
+2021 Vuelta a Burgos Stage 2.gpx,https://www.komoot.com/tour/2987243609,154.0,20.8,0.121,0.0,0.0,0.0,0.0,175.0,0.13,0.0,0.198,0.0,0.198,0.0,0.0
+2021 Vuelta a Burgos Stage 3.gpx,https://www.komoot.com/tour/2987244275,111.0,60.3,0.0,0.0,0.0,0.42,0.0,163.0,8.54,0.0,0.134,0.285,0.0,0.0,0.0
+2021 Vuelta a Burgos Stage 4.gpx,https://www.komoot.com/tour/2987244965,140.0,7.89,0.0,0.484,0.0,0.0,0.0,148.0,0.188,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta a Burgos Stage 5.gpx,https://www.komoot.com/tour/2987245674,96.0,47.3,1.55,0.0,0.0,0.272,0.388,144.0,0.746,0.0,0.728,0.654,0.721,0.0,0.0
+2021 Vuelta a Castilla y Leon.gpx,https://www.komoot.com/tour/2987246435,119.0,62.5,4.96,0.0,0.0,0.0,0.0,183.0,3.52,0.0,0.265,0.0,0.0,0.0,0.0
+2021 Vuelta a Colombia Prologue.gpx,https://www.komoot.com/tour/2987246979,6.97,0.0,0.503,0.0,0.0,0.0,0.0,6.85,0.624,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta a Colombia Stage 1.gpx,https://www.komoot.com/tour/2987247575,4.24,181.0,0.213,0.0,0.0,0.0,0.0,179.0,6.68,0.0,1.56,0.0,1.56,0.0,0.0
+2021 Vuelta a Colombia Stage 2.gpx,https://www.komoot.com/tour/2987248350,1.83,140.0,0.203,0.0,0.0,0.0,0.0,141.0,0.203,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta a Colombia Stage 3.gpx,https://www.komoot.com/tour/2987248998,2.25,178.0,0.171,0.132,0.0,0.0,0.0,178.0,2.43,0.0,1.09,0.0,1.09,0.0,0.0
+2021 Vuelta a Colombia Stage 4.gpx,https://www.komoot.com/tour/2987249656,0.0,123.0,0.0,1.77,0.0,0.0,0.0,123.0,1.82,0.0,0.659,0.0,0.579,0.0,0.0
+2021 Vuelta a Colombia Stage 5.gpx,https://www.komoot.com/tour/2987250277,13.6,131.0,0.232,0.789,0.0,0.0,0.0,145.0,0.817,0.0,0.37,0.0,0.166,0.0,0.0
+2021 Vuelta a Colombia Stage 6.gpx,https://www.komoot.com/tour/2987250860,0.767,18.9,0.0,0.0,0.0,0.155,0.0,19.7,0.0,0.0,0.0,0.0,0.187,0.0,0.0
+2021 Vuelta a Colombia Stage 7.gpx,https://www.komoot.com/tour/2987251625,0.442,117.0,0.0,0.0,0.0,0.0,0.0,117.0,0.478,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta a Colombia Stage 8.gpx,https://www.komoot.com/tour/2987252276,0.0,140.0,0.145,0.0,0.0,0.0,0.0,140.0,0.163,0.0,0.245,0.0,0.245,0.0,0.0
+2021 Vuelta a Colombia Stage 9.gpx,https://www.komoot.com/tour/2987253807,12.5,93.7,1.91,8.17,0.0,0.133,0.0,115.0,0.0,0.0,8.55,0.0,7.83,0.0,0.0
+2021 Vuelta al Ecuador Stage 1.gpx,https://www.komoot.com/tour/2987254702,3.03,101.0,0.856,0.141,0.0,0.0,0.0,104.0,0.674,0.0,0.508,0.0,0.508,0.0,0.0
+2021 Vuelta al Ecuador Stage 2.gpx,https://www.komoot.com/tour/2987255594,4.9,208.0,0.183,3.22,0.0,0.0,0.0,70.2,146.0,0.0,0.137,0.0,0.324,0.0,0.0
+2021 Vuelta al Ecuador Stage 3.gpx,https://www.komoot.com/tour/2987256596,2.14,183.0,0.0,0.0,0.0,0.0,0.0,108.0,76.7,0.0,0.263,0.0,0.263,0.0,0.0
+2021 Vuelta al Ecuador Stage 4.gpx,https://www.komoot.com/tour/2987257272,0.74,101.0,0.656,0.0,0.0,0.0,0.0,101.0,1.27,0.562,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta al Ecuador Stage 5.gpx,https://www.komoot.com/tour/2987258086,1.67,135.0,1.14,0.0,0.0,1.51,0.0,137.0,1.2,0.138,0.287,0.0,0.176,0.0,0.0
+2021 Vuelta al Ecuador Stage 6.gpx,https://www.komoot.com/tour/2987258779,28.6,118.0,11.2,0.0,0.0,1.26,0.0,130.0,16.3,0.0,0.732,13.0,0.838,0.0,0.0
+2021 Vuelta al Ecuador Stage 7.gpx,https://www.komoot.com/tour/2987259572,1.21,178.0,2.59,0.0,0.0,0.0,0.0,179.0,2.57,0.0,0.445,0.0,0.264,0.0,0.0
+2021 Vuelta al Ecuador Stage 8.gpx,https://www.komoot.com/tour/2987262210,0.206,88.2,8.06,4.99,0.0,0.133,0.0,93.4,0.0,6.32,10.1,0.0,8.27,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 1.gpx,https://www.komoot.com/tour/2987263096,1.6,1.02,4.06,0.0,0.0,0.0,0.0,2.46,4.2,0.0,126.0,0.0,126.0,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 2.gpx,https://www.komoot.com/tour/2987264033,67.8,10.4,36.3,0.0,0.0,0.0,0.0,78.5,35.9,0.0,0.0,0.0,0.0,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 3.gpx,https://www.komoot.com/tour/2987264744,0.303,26.7,4.84,0.0,0.0,0.0,0.0,26.9,4.94,0.0,99.0,0.0,99.4,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 4.gpx,https://www.komoot.com/tour/2987265411,13.1,0.0,2.26,0.0,0.0,0.0,0.0,13.6,1.64,0.0,2.25,0.0,2.14,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 5.gpx,https://www.komoot.com/tour/2987266141,65.7,9.08,2.33,0.0,0.0,0.0,0.0,74.8,2.07,0.0,70.3,0.137,70.1,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 6.gpx,https://www.komoot.com/tour/2987266920,22.7,1.41,5.33,0.0,0.0,0.732,0.0,16.5,11.9,0.0,124.0,0.0,122.0,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 7.gpx,https://www.komoot.com/tour/2987267644,14.6,44.0,7.11,0.0,0.0,0.0,0.0,57.2,8.55,0.0,56.8,0.0,56.8,0.0,0.0
+2021 Vuelta al Tachira en Bicicleta Stage 8.gpx,https://www.komoot.com/tour/2987268377,65.2,1.91,11.2,0.0,0.0,2.2,0.0,70.2,7.18,0.0,31.9,0.0,30.5,0.0,0.0

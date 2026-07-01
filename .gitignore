@@ -1,0 +1,31 @@
+# Fichiers GPX bruts (remplacés par gpx_profiles.parquet)
+data/gpx_files_2/
+data/gpx_files_ele2/
+
+# Données sources brutes non utilisées par l'app
+data/pcs/
+data/pcs2018/
+data/pcs2019/
+data/pcs2020/
+data/pcs2021/
+data/pcs2022/
+data/pcs2023/
+data/pcs2024/
+data/pcs2025/
+data/pcsall/
+rider_data_excluded/
+
+# Index GPX (se régénère automatiquement)
+gpx_index.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Claude Code settings (local, ne pas partager)
+.claude/
+
+# macOS
+.DS_Store

@@ -1,0 +1,53 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-09-12,2021,antwerp-port-epic,gc,Team BridgeLane,1.1,,,1,,0.0,,,0.0
+2021-10-03,2021,gylne-gutuer,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Team BridgeLane,1.1,,,1,,0.0,,,3.0
+2021-09-20,2021,le-tour-de-bretagne,gc,Team BridgeLane,2.2,98.0,0.0,1,,3.0,,,3.0
+2021-10-02,2021,lillehammer-gp,gc,Team BridgeLane,1.2,,,1,,0.0,,,3.0
+2021-02-07,2021,nc-australia,gc,Team BridgeLane,NC,,0,0,,0.0,,,51.0
+2021-02-03,2021,nc-australia-itt,gc,Team BridgeLane,NC,,0,0,,0.0,,,5.0
+2021-09-03,2021,paris-arras-tour,gc,Team BridgeLane,2.2,,,1,,20.0,,,23.0
+2021-07-22,2021,tour-alsace,gc,Team BridgeLane,2.2,,,1,,0.0,,,0.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Team BridgeLane,2.2,72.0,0.0,1,,0.0,,,0.0
+2022-05-08,2022,fleche-ardennaise,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2022-08-06,2022,la-maurienne,gc,Team BridgeLane,1.2,,0,0,,0.0,,,65.0
+2022-04-25,2022,le-tour-de-bretagne,gc,Team BridgeLane,2.2,,,1,,0.0,,,0.0
+2022-01-16,2022,nc-australia,gc,Team BridgeLane,NC,,0,0,,0.0,,,145.0
+2022-01-12,2022,nc-australia-itt,gc,Team BridgeLane,NC,,0,0,,0.0,,,10.0
+2022-04-10,2022,oceania-championships,gc,Team BridgeLane,CC,,0,0,,0.0,,,0.0
+2022-05-07,2022,ronde-van-overijssel,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,Team BridgeLane,2.2,,0,0,,6.0,,,6.0
+2022-06-10,2022,tour-d-eure-et-loir,gc,Team BridgeLane,2.2,81.0,0.0,1,,0.0,,,0.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Team BridgeLane,2.2,,0,0,,18.0,,,19.0
+2022-04-13,2022,tour-du-loir-et-cher,gc,Team BridgeLane,2.2,103.0,0.0,1,,0.0,,,0.0
+2022-06-17,2022,tour-du-pays-de-montbeliard,gc,Team BridgeLane,2.2,,0,0,,30.0,,,31.0
+2023-05-21,2023,antwerp-port-epic,gc,Team BridgeLane,1.1,,0,0,,0.0,,,0.0
+2023-05-18,2023,circuit-de-wallonie,gc,Team BridgeLane,1.1,,0,0,,0.0,,,0.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Team BridgeLane,1.1,,0,0,,0.0,,,3.0
+2023-07-02,2023,midden-brabant-poort-omloop,gc,Team BridgeLane,1.2,,0,0,,0.0,,,0.0
+2023-01-08,2023,nc-australia,gc,Team BridgeLane,NC,,0,0,,0.0,,,8.0
+2023-01-10,2023,nc-australia-itt,gc,Team BridgeLane,NC,,0,0,,0.0,,,1.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Team BridgeLane,2.2,,0,0,,0.0,,,0.0
+2023-04-01,2023,oceania-championships,gc,Team BridgeLane,CC,,,1,,0.0,,,298.0
+2023-03-30,2023,oceania-continental-championships-itt,gc,Team BridgeLane,CC,,0,0,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,Team BridgeLane,1.2,,0,0,,0.0,,,0.0
+2023-06-01,2023,ronde-de-l-oise,gc,Team BridgeLane,2.2,,0,0,,0.0,,,-5.0
+2023-05-06,2023,ronde-van-overijssel,gc,Team BridgeLane,1.2,,0,0,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,Team BridgeLane,2.2,,0,0,,0.0,,,0.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,Team BridgeLane,2.2,,0,0,,0.0,,,0.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Team BridgeLane,2.2,,0,0,,10.0,,,10.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,Team BridgeLane,2.2,,0,0,,0.0,,,-5.0
+2024-07-22,2024,banyuwangi-tour-de-ijen,gc,St George Continental Cycling Team,2.2,,0,0,,25.0,,,28.0
+2024-01-07,2024,nc-australia,gc,St George Continental Cycling Team,NC,,,1,,0.0,,,1.0
+2024-02-10,2024,nc-new-zealand,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-02-08,2024,nc-new-zealand-itt,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,4.0
+2024-01-10,2024,new-zealand-cycle-classic,gc,St George Continental Cycling Team,2.2,,,1,,10.0,,,13.0
+2024-04-12,2024,oceania-championships,gc,St George Continental Cycling Team,CC,,0,0,,0.0,,,6.0
+2024-03-10,2024,tour-de-taiwan,gc,St George Continental Cycling Team,2.1,,,1,,25.0,,,10.0
+2024-08-27,2024,tour-of-hainan,gc,St George Continental Cycling Team,2.Pro,,0,0,,0.0,,,0.0
+2024-09-26,2024,tour-of-huangshan,gc,St George Continental Cycling Team,2.2,,0,0,,3.0,,,3.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,St George Continental Cycling Team,2.Pro,,0,0,,0.0,,,0.0
+2024-09-04,2024,tour-of-poyang-lake,gc,St George Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-10-09,2024,tour-of-taihu-lake,gc,St George Continental Cycling Team,2.Pro,,0,0,,3.0,,,3.0
+2024-04-01,2024,tour-of-thailand,gc,St George Continental Cycling Team,2.1,,0,0,,46.0,,,60.0
+2024-08-23,2024,trans-himalaya-cycling-race,gc,St George Continental Cycling Team,2.2,,0,0,,0.0,,,0.0

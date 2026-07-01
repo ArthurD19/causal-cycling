@@ -1,0 +1,34 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-02-12,2020,colombia-21,gc,Ecuador,2.1,,0,0,,3.0,,,3.0
+2020-11-23,2020,vuelta-a-ecuador,gc,Ecuador,2.2,,,1,,43.0,,,56.0
+2020-09-27,2020,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,20.0
+2021-10-07,2021,circuit-des-ardennes,gc,Ecuador,2.2,,,1,,0.0,,,0.0
+2021-06-18,2021,nc-ecuador,gc,Best PC Ecuador,NC,,0,0,,0.0,,,76.0
+2021-06-17,2021,nc-ecuador-itt,gc,Best PC Ecuador,NC,,0,0,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Ecuador,Olympics,,0,0,,0.0,,,610.0
+2021-08-13,2021,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,3.0
+2021-08-15,2021,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,376.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Ecuador,2.2,61.0,0.0,1,,0.0,,,0.0
+2021-12-08,2021,vuelta-a-ecuador,gc,Best PC Ecuador,2.2,19.0,0.0,1,,55.0,,,74.0
+2021-01-17,2021,vuelta-al-tachira,gc,Best PC Ecuador,2.2,,0,0,,0.0,,,7.0
+2021-09-26,2021,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,0.0
+2022-02-20,2022,nc-ecuador,gc,Movistar - Best PC,NC,,,1,,0.0,,,54.0
+2022-02-18,2022,nc-ecuador-itt,gc,Movistar - Best PC,NC,,0,0,,0.0,,,25.0
+2022-11-12,2022,vuelta-a-ecuador,gc,Movistar - Best PC,2.2,20.0,0.0,1,,25.0,,,47.0
+2022-10-23,2022,vuelta-a-guatemala,gc,Movistar - Best PC,2.2,21.0,0.0,1,,35.0,,,46.0
+2022-07-24,2022,vuelta-ciclista-a-venezuela,gc,Movistar - Best PC,2.2,52.0,0.0,1,,0.0,,,0.0
+2022-12-16,2022,vuelta-internacional-a-costa-rica,gc,Movistar - Best PC,2.2,25.0,0.0,1,,40.0,,,61.0
+2022-06-03,2022,vuelta-pilsen-a-colombia,gc,Movistar - Best PC,2.2,,,1,,0.0,,,0.0
+2023-02-05,2023,nc-colombia,gc,Movistar - Best PC,NC,,0,0,,0.0,,,1.0
+2023-02-12,2023,nc-ecuador,gc,Movistar - Best PC,NC,,,1,,0.0,,,10.0
+2023-02-11,2023,nc-ecuador-itt,gc,Movistar - Best PC,NC,,0,0,,0.0,,,13.0
+2023-08-04,2023,tour-cycliste-international-de-la-guadeloupe,gc,Movistar - Best PC,2.2,,0,0,,10.0,,,10.0
+2023-05-04,2023,tour-de-catamarca-internacional,gc,Movistar - Best PC,2.2,,0,0,,30.0,,,40.0
+2023-09-25,2023,vuelta-a-ecuador,gc,Movistar - Best PC,2.2,19.0,0.0,1,,45.0,,,70.0
+2023-05-11,2023,vuelta-a-formosa-internacional,gc,Movistar - Best PC,2.2,,0,0,,0.0,,,0.0
+2023-11-17,2023,vuelta-a-guatemala,gc,Movistar - Best PC,2.2,,0,0,,30.0,,,43.0
+2023-01-15,2023,vuelta-al-tachira,gc,Movistar - Best PC,2.2,,0,0,,25.0,,,28.0
+2023-03-29,2023,vuelta-bantrab,gc,Movistar - Best PC,2.2,,0,0,,50.0,,,63.0
+2023-12-16,2023,vuelta-internacional-a-costa-rica,gc,Movistar - Best PC,2.2,,0,0,,75.0,,,86.0
+2023-06-16,2023,vuelta-pilsen-a-colombia,gc,Movistar - Best PC,2.2,,0,0,,3.0,,,10.0
+2024-11-11,2024,vuelta-a-ecuador,gc,C&S Technology,2.2,6.0,10.0,1,,13.0,,,26.0

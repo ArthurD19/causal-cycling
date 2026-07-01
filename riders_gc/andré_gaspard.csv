@@ -1,0 +1,22 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-07-10,2022,gp-de-la-ville-de-nogent-sur-oise,gc,Laval Cyclisme 53,1.2,,0,0,,0.0,,,28.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,Laval Cyclisme 53,1.2,,0,0,,0.0,,,10.0
+2022-08-05,2022,tour-cycliste-international-de-la-guadeloupe,gc,Laval Cyclisme 53,2.2,13.0,0.0,1,,25.0,,,53.0
+2022-03-21,2022,tour-de-normadie,gc,Laval Cyclisme 53,2.2,,0,0,,0.0,,,3.0
+2023-09-03,2023,grand-prix-de-plouay,gc,Sojasun Espoir - ACNC,1.2,,0,0,,0.0,,,0.0
+2023-07-28,2023,kreiz-breizh-elites,gc,Sojasun Espoir - ACNC,2.2,45.0,0.0,1,,0.0,,,0.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Sojasun Espoir - ACNC,2.2,,0,0,,0.0,,,0.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Bourg-en-Bresse Ain Cyclisme,2.2,,,1,,25.0,,,28.0
+2024-06-23,2024,nc-norway,gc,Bourg-en-Bresse Ain Cyclisme,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-norway-itt,gc,Bourg-en-Bresse Ain Cyclisme,NC,,0,0,,0.0,,,15.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,Auvergne - Rhône-Alpes,2.2,45.0,0.0,1,,0.0,,,0.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,Bourg-en-Bresse Ain Cyclisme,2.2,,0,0,,5.0,,,8.0
+2024-05-24,2024,tour-de-la-mirabelle,gc,Bourg-en-Bresse Ain Cyclisme,2.2,,0,0,,0.0,,,0.0
+2025-04-05,2025,boucle-de-l-artois,gc,CC Étupes,1.2,,,1,,0.0,,,3.0
+2025-03-09,2025,gp-de-la-ville-de-lillers,gc,CC Étupes,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,grand-prix-de-plouay,gc,CC Étupes,1.2,,,1,,0.0,,,3.0
+2025-03-08,2025,le-tour-des-100-communes,gc,CC Étupes,1.2,,0,0,,0.0,,,3.0
+2025-06-28,2025,nc-canada2,gc,CC Étupes,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-norway,gc,CC Étupes,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,CC Étupes,NC,,0,0,,0.0,,,0.0
+2025-06-09,2025,paris-troyes,gc,CC Étupes,1.2,,0,0,,0.0,,,0.0

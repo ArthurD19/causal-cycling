@@ -1,0 +1,141 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2024-04-04,2024,circuit-des-ardennes,gc,Vendée U Pays de la Loire,2.2,,0,0,,0.0,,,0.0
+2024-05-12,2024,fleche-ardennaise,gc,Vendée U Pays de la Loire,1.2,,0,0,,0.0,,,0.0
+2024-05-08,2024,fleche-du-sud,gc,Vendée U Pays de la Loire,2.2,65.0,0.0,1,,0.0,,,0.0
+2024-08-25,2024,grand-prix-de-plouay,gc,Vendée U Pays de la Loire,1.2,,,1,,0.0,,,5.0
+2024-06-23,2024,nc-bermuda,gc,Vendée U Pays de la Loire,NC,,0,0,,0.0,,,50.0
+2024-06-20,2024,nc-bermuda-itt,gc,Vendée U Pays de la Loire,NC,,0,0,,0.0,,,25.0
+2024-06-20,2024,nc-france-itt,gc,Vendée U Pays de la Loire,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-poland,gc,Vendée U Pays de la Loire,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,Vendée U Pays de la Loire,NC,,0,0,,0.0,,,0.0
+2024-07-25,2024,tour-alsace,gc,Vendée U Pays de la Loire,2.2,,0,0,,0.0,,,0.0
+2024-08-24,2024,tour-cycliste-international-de-la-guadeloupe,gc,Vendée U Pays de la Loire,2.2,,0,0,,35.0,,,64.0
+2024-09-27,2024,tour-d-eure-et-loir,gc,Vendée U Pays de la Loire,2.2,,0,0,,0.0,,,0.0
+2024-05-31,2024,tour-du-maroc,gc,Vendée U Pays de la Loire,2.2,18.0,0.0,1,,10.0,,,28.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,TotalEnergies,2.Pro,,0,0,,70.0,,,75.0
+2025-01-28,2025,alula-tour,gc,TotalEnergies,2.1,,0,0,,20.0,,,20.0
+2025-04-20,2025,amstel-gold-race,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,43.0
+2025-06-22,2025,andorra-morabanc-classica,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2025-06-09,2025,antwerp-port-epic,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2025-08-07,2025,arctic-race-of-norway,gc,TotalEnergies,2.Pro,,0,0,,10.0,,,10.0
+2025-04-05,2025,boucle-de-l-artois,gc,Vendée U Pays de la Loire,1.2,,,1,,0.0,,,0.0
+2025-05-08,2025,boucles-de-l-aulne,gc,TotalEnergies,1.1,,0,0,,0.0,,,60.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,TotalEnergies,2.Pro,,0,0,,160.0,,,195.0
+2025-04-18,2025,brabantse-pijl,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,5.0
+2025-03-21,2025,bredene-koksijde-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,5.0
+2025-08-31,2025,bretagne-classic,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,416.0
+2025-06-08,2025,brussels-cycling-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,85.0
+2025-03-23,2025,cholet-pays-de-loire,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2025-10-19,2025,chrono-des-nations,gc,TotalEnergies,1.1,,0,0,,0.0,,,10.0
+2025-06-15,2025,circuit-des-xi-villes,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2025-08-15,2025,circuit-franco-belge,gc,TotalEnergies,1.Pro,,,1,,0.0,,,5.0
+2025-08-03,2025,circuito-de-getxo,gc,TotalEnergies,1.1,,0,0,,0.0,,,25.0
+2025-02-16,2025,clasica-de-almeria,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,125.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,TotalEnergies,1.1,,0,0,,0.0,,,38.0
+2025-03-26,2025,classic-brugge-de-panne,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,29.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,TotalEnergies,1.1,,0,0,,0.0,,,60.0
+2025-02-21,2025,classic-var,gc,TotalEnergies,1.1,,0,0,,0.0,,,23.0
+2025-01-24,2025,classica-camp-de-morvedre,gc,TotalEnergies,1.2,,0,0,,0.0,,,35.0
+2025-05-13,2025,classique-dunkerque,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,50.0
+2025-06-22,2025,copenhagen-sprint,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,215.0
+2025-01-31,2025,deia-trophy,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2025-08-20,2025,deutschland-tour,gc,TotalEnergies,2.Pro,,0,0,,15.0,,,35.0
+2025-06-14,2025,dwars-door-het-hageland,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,3.0
+2025-03-28,2025,e3-harelbeke,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,30.0
+2025-02-05,2025,etoile-de-besseges,gc,TotalEnergies,2.1,,0,0,,88.0,,,88.0
+2025-05-04,2025,famenne-ardenne-classic,gc,TotalEnergies,1.1,,0,0,,0.0,,,60.0
+2025-03-01,2025,faun-ardeche-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,10.0
+2025-05-03,2025,fleche-ardennaise,gc,Vendée U Pays de la Loire,1.2,,,1,,0.0,,,0.0
+2025-05-28,2025,fleche-du-sud,gc,Vendée U Pays de la Loire,2.2,,0,0,,0.0,,,0.0
+2025-03-30,2025,gent-wevelgem,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,60.0
+2025-09-10,2025,giro-di-toscana,gc,TotalEnergies,1.1,,0,0,,0.0,,,111.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,95.0
+2025-09-21,2025,gp-d-isbergues,gc,TotalEnergies,1.1,,0,0,,0.0,,,73.0
+2025-02-02,2025,gp-d-ouverture,gc,TotalEnergies,1.1,,0,0,,0.0,,,10.0
+2025-03-20,2025,gp-de-denain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,10.0
+2025-09-14,2025,gp-de-fourmies,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,25.0
+2025-03-09,2025,gp-de-la-ville-de-lillers,gc,Vendée U Pays de la Loire,1.2,,0,0,,0.0,,,0.0
+2025-05-10,2025,gp-de-plumelec,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,70.0
+2025-01-26,2025,gp-de-valence,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2025-09-17,2025,gp-de-wallonie,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,155.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,55.0
+2025-09-07,2025,gp-industria-artigianato,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,93.0
+2025-03-04,2025,gp-samyn,gc,TotalEnergies,1.1,,0,0,,0.0,,,70.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,36.0
+2025-03-08,2025,grand-prix-criquielion,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2025-08-31,2025,grand-prix-de-plouay,gc,Vendée U Pays de la Loire,1.2,,,1,,0.0,,,0.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,TotalEnergies,1.1,,0,0,,0.0,,,128.0
+2025-06-07,2025,heist-op-den-berg,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2025-04-07,2025,itzulia-basque-country,gc,TotalEnergies,2.UWT,,0,0,,64.0,,,83.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,TotalEnergies,1.1,,0,0,,0.0,,,25.0
+2025-03-02,2025,la-drome-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,50.0
+2025-08-17,2025,la-poly-normande,gc,TotalEnergies,1.1,,0,0,,0.0,,,135.0
+2025-03-30,2025,la-roue-tourangelle,gc,TotalEnergies,1.1,,0,0,,0.0,,,35.0
+2025-06-18,2025,la-route-d-occitanie,gc,TotalEnergies,2.1,,0,0,,70.0,,,76.0
+2025-03-08,2025,le-tour-des-100-communes,gc,Vendée U Pays de la Loire,1.2,,0,0,,0.0,,,0.0
+2025-04-27,2025,liege-bastogne-liege,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,30.0
+2025-09-06,2025,maryland-cycling-classic,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,203.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,TotalEnergies,1.1,,0,0,,0.0,,,20.0
+2025-09-13,2025,memorial-marco-pantani,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2025-05-26,2025,mercan-tour-classic-alpes-maritimes,gc,TotalEnergies,1.1,,0,0,,0.0,,,31.0
+2025-03-19,2025,milano-torino,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,53.0
+2025-10-03,2025,munsterland-giro,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,75.0
+2025-02-07,2025,muscat-classic,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2025-08-27,2025,muur-classic-geraardsbergen,gc,TotalEnergies,1.1,,,1,,0.0,,,50.0
+2025-06-27,2025,nc-belgium-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-france,gc,TotalEnergies,NC,,0,0,,0.0,,,50.0
+2025-06-26,2025,nc-france-itt,gc,TotalEnergies,NC,,0,0,,0.0,,,5.0
+2025-06-26,2025,nc-france-itt,gc,Vendée U Pays de la Loire,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,Vendée U Pays de la Loire,NC,,0,0,,0.0,,,0.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2025-04-02,2025,paris-camembert,gc,TotalEnergies,1.1,,0,0,,0.0,,,20.0
+2025-09-28,2025,paris-chauny-classique,gc,TotalEnergies,1.1,,0,0,,0.0,,,38.0
+2025-03-09,2025,paris-nice,gc,TotalEnergies,2.UWT,,0,0,,30.0,,,90.0
+2025-04-13,2025,paris-roubaix,gc,TotalEnergies,1.UWT,,0,0,,0.0,,,45.0
+2025-10-12,2025,paris-tours,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,10.0
+2025-06-09,2025,paris-troyes,gc,Vendée U Pays de la Loire,1.2,,,1,,0.0,,,3.0
+2025-07-25,2025,prueba-villafranca,gc,TotalEnergies,1.1,,0,0,,0.0,,,6.0
+2025-04-08,2025,region-pays-de-la-loire,gc,TotalEnergies,2.1,,0,0,,88.0,,,91.0
+2025-04-16,2025,ronde-van-limburg,gc,TotalEnergies,1.1,,0,0,,0.0,,,40.0
+2025-04-04,2025,route-adelie-de-vitre,gc,TotalEnergies,1.1,,0,0,,0.0,,,73.0
+2025-05-18,2025,rund-um-koln,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,TotalEnergies,1.1,,0,0,,0.0,,,25.0
+2025-02-19,2025,ruta-del-sol,gc,TotalEnergies,2.Pro,,0,0,,103.0,,,121.0
+2025-04-09,2025,scheldeprijs,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,10.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,TotalEnergies,2.1,,0,0,,43.0,,,46.0
+2025-07-31,2025,tour-alsace,gc,Vendée U Pays de la Loire,2.2,,,1,,0.0,,,0.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,TotalEnergies,2.UWT,,0,0,,58.0,,,88.0
+2025-08-01,2025,tour-cycliste-international-de-la-guadeloupe,gc,Vendée U Pays de la Loire,2.2,,0,0,,0.0,,,5.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,TotalEnergies,2.1,,0,0,,3.0,,,3.0
+2025-07-05,2025,tour-de-france,gc,TotalEnergies,2.UWT,,0,0,,265.0,0.0,0.0,565.0
+2025-07-05,2025,tour-de-france,kom,TotalEnergies,2.UWT,,0,0,,265.0,0.0,0.0,565.0
+2025-07-05,2025,tour-de-france,points,TotalEnergies,2.UWT,,0,0,,265.0,0.0,0.0,565.0
+2025-10-11,2025,tour-de-kyushu,gc,TotalEnergies,2.1,,0,0,,75.0,,,83.0
+2025-08-06,2025,tour-de-l-ain,gc,TotalEnergies,2.1,,0,0,,40.0,,,40.0
+2025-09-26,2025,tour-de-la-mirabelle,gc,Vendée U Pays de la Loire,1.2,,0,0,,0.0,,,0.0
+2025-09-28,2025,tour-de-langkawi,gc,TotalEnergies,2.Pro,,0,0,,205.0,,,228.0
+2025-09-17,2025,tour-de-luxembourg,gc,TotalEnergies,2.Pro,98.0,0.0,1,,35.0,,,50.0
+2025-10-11,2025,tour-de-vendee,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2025-07-26,2025,tour-de-wallonie,gc,TotalEnergies,2.Pro,,0,0,,10.0,,,18.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,TotalEnergies,2.1,,0,0,,3.0,,,3.0
+2025-04-20,2025,tour-du-doubs,gc,TotalEnergies,1.1,,0,0,,0.0,,,125.0
+2025-05-09,2025,tour-du-finistere,gc,TotalEnergies,1.1,,0,0,,0.0,,,70.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,TotalEnergies,1.1,,0,0,,0.0,,,40.0
+2025-08-19,2025,tour-du-limousin,gc,TotalEnergies,2.1,,0,0,,85.0,,,110.0
+2025-04-16,2025,tour-du-loir-et-cher,gc,Vendée U Pays de la Loire,2.2,,0,0,,0.0,,,0.0
+2025-08-26,2025,tour-du-poitou-charentes-et-de-la-vienne,gc,TotalEnergies,2.1,,0,0,,175.0,,,203.0
+2025-06-18,2025,tour-of-belgium,gc,TotalEnergies,2.Pro,,0,0,,20.0,,,26.0
+2025-10-14,2025,tour-of-holland,gc,TotalEnergies,2.1,,0,0,,63.0,,,63.0
+2025-09-04,2025,tour-of-istanbul,gc,TotalEnergies,2.1,,0,0,,155.0,,,173.0
+2025-02-08,2025,tour-of-oman,gc,TotalEnergies,2.Pro,,0,0,,0.0,,,0.0
+2025-02-23,2025,tour-of-rwanda,gc,TotalEnergies,2.1,,0,0,,165.0,,,193.0
+2025-05-11,2025,tro-bro-leon,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,115.0
+2025-01-29,2025,trofeo-calvia,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0
+2025-03-05,2025,trofeo-laigueglia,gc,TotalEnergies,1.Pro,,0,0,,0.0,,,45.0
+2025-09-14,2025,trofeo-matteotti,gc,TotalEnergies,1.1,,0,0,,0.0,,,50.0
+2025-02-02,2025,trofeo-palma,gc,TotalEnergies,1.1,,0,0,,0.0,,,40.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,TotalEnergies,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,TotalEnergies,1.1,,0,0,,0.0,,,85.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,TotalEnergies,1.1,,0,0,,0.0,,,25.0
+2025-04-24,2025,vuelta-asturias,gc,TotalEnergies,2.1,,0,0,,30.0,,,49.0
+2025-02-15,2025,vuelta-ciclista-a-la-region-de-murcia,gc,TotalEnergies,1.1,,0,0,,0.0,,,3.0

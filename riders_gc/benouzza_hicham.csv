@@ -1,0 +1,25 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-04-07,2017,tour-du-maroc,gc,Maroc Regionale Nord,2.2,73.0,0.0,1,,0.0,,,3.0
+2018-04-06,2018,tour-du-maroc,gc,Morocco Regional Team,2.2,,,1,,0.0,,,0.0
+2022-11-11,2022,challenge-du-prince,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,0.0
+2022-11-10,2022,challenge-du-prince-trophee-de-l-anniversaire,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,40.0
+2022-11-08,2022,challenge-du-prince-trophee-princier,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,3.0
+2022-11-06,2022,gp-al-massira,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,30.0
+2022-11-05,2022,gp-oued-eddahab,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,3.0
+2022-11-03,2022,gp-sakia-el-hamra,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,0.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,0.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,0.0
+2022-09-29,2022,international-azerbaijan-tour,gc,Sidi Ali - Unlock Team,2.1,,0,0,,0.0,,,3.0
+2022-06-19,2022,nc-morocco,gc,Sidi Ali - Unlock Team,NC,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-turkey,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,1.0
+2022-06-24,2022,nc-turkey-itt,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2022-01-28,2022,tour-of-sharjah,gc,Al Shafar Jumeirah Cycling Team,2.2,42.0,0.0,1,,0.0,,,7.0
+2023-06-25,2023,nc-morocco,gc,Al Shafar Jumeirah Cycling Team,NC,,0,0,,0.0,,,60.0
+2023-06-23,2023,nc-morocco-itt,gc,Al Shafar Jumeirah Cycling Team,NC,,0,0,,0.0,,,20.0
+2023-01-27,2023,tour-of-sharjah,gc,Al Shafar Jumeirah Cycling Team,2.2,63.0,0.0,1,,0.0,,,3.0
+2025-02-08,2025,grand-prix-aspendos,gc,Agadir Vélo Propulsion,1.2,,,1,,0.0,,,0.0
+2025-05-04,2025,grand-prix-de-cotonou,gc,Agadir Vélo Propulsion,1.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-morocco,gc,Agadir Vélo Propulsion,NC,,0,0,,0.0,,,23.0
+2025-06-27,2025,nc-morocco-itt,gc,Agadir Vélo Propulsion,NC,,0,0,,0.0,,,0.0
+2025-04-28,2025,tour-du-benin,gc,Agadir Vélo Propulsion,2.2,,0,0,,38.0,,,53.0
+2025-01-22,2025,tour-du-sahel,gc,Agadir Vélo Propulsion,2.2,20.0,0.0,1,,28.0,,,49.0

@@ -1,0 +1,485 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-05-16,2018,baltyk-karkonosze-tour,gc,Astana City,2.2,,0,0,,3.0,,,9.0
+2018-04-28,2018,carpathia-couriers-paths,gc,UCI WCC Men's Team,2.2U,,0,0,,0.0,,,0.0
+2018-04-06,2018,circuit-des-ardennes,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-05-06,2018,circuito-del-porto-trofeo-arvedi,gc,Astana City,1.2,,0,0,,0.0,,,0.0
+2018-07-04,2018,course-cycliste-de-solidarnosc,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-08-10,2018,czech-tour,gc,Astana City,2.1,95.0,0.0,1,,3.0,,,3.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Astana City,2.2U,,0,0,,30.0,,,36.0
+2018-04-22,2018,giro-dell-appennino,gc,Astana City,1.1,,0,0,,0.0,,,0.0
+2018-08-16,2018,gp-capodarco,gc,Astana City,1.2U,,0,0,,0.0,,,0.0
+2018-07-29,2018,gp-kranj,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-04-03,2018,gp-palio-del-recioto,gc,Astana City,1.2U,,0,0,,0.0,,,0.0
+2018-02-18,2018,grand-prix-alanya,gc,Astana City,1.2,,0,0,,0.0,,,0.0
+2018-04-25,2018,le-tour-de-bretagne,gc,Astana City,2.2,,0,0,,0.0,,,0.0
+2018-04-25,2018,le-tour-de-bretagne,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-06-30,2018,mediterranean-games-itt,gc,UCI WCC Men's Team,JR,,0,0,,0.0,,,0.0
+2018-08-11,2018,memorial-henryka-lasaka,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-croatia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-hungary,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,50.0
+2018-06-28,2018,nc-hungary-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,25.0
+2018-07-01,2018,nc-kazakhstan,gc,UCI WCC Men's Team,NC,,,1,,0.0,,,0.0
+2018-07-01,2018,nc-kazakhstan,gc,Astana City,NC,,0,0,,0.0,,,82.0
+2018-06-27,2018,nc-kazakhstan-itt,gc,UCI WCC Men's Team,NC,,,1,,0.0,,,30.0
+2018-06-27,2018,nc-kazakhstan-itt,gc,Astana City,NC,,0,0,,0.0,,,3.0
+2018-06-25,2018,nc-mongolia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,3.0
+2018-07-01,2018,nc-panama,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,15.0
+2018-06-29,2018,nc-panama-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,25.0
+2018-06-24,2018,nc-poland,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-serbia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,20.0
+2018-06-22,2018,nc-serbia-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,25.0
+2018-05-18,2018,paris-arras-tour,gc,UCI WCC Men's Team,2.2,,,1,,0.0,,,0.0
+2018-05-27,2018,paris-roubaix-u23,gc,UCI WCC Men's Team,1.2U,,0,0,,0.0,,,0.0
+2018-08-12,2018,puchar-uzdrowisk-karpackich,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,Astana City,2.2,,0,0,,0.0,,,0.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-06-01,2018,szlakiem-walk-majora-hubala,gc,Astana City,2.1,,0,0,,3.0,,,3.0
+2018-08-02,2018,tour-alsace,gc,Astana City,2.2,,,1,,10.0,,,10.0
+2018-08-02,2018,tour-alsace,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-04-23,2018,tour-de-limpopo,gc,UCI WCC Men's Team,2.2,,0,0,,15.0,,,18.0
+2018-06-08,2018,tour-de-serbie,gc,UCI WCC Men's Team,2.2,,0,0,,5.0,,,5.0
+2018-02-22,2018,tour-of-antalya,gc,Astana City,2.2,,0,0,,0.0,,,0.0
+2018-06-01,2018,tour-of-bihor-bellotto,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-03-29,2018,tour-of-faith-sultan-mehmet,gc,Astana City,2.2,,0,0,,73.0,,,83.0
+2018-06-08,2018,tour-of-malopolska,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-03-02,2018,tour-of-mediterrennean,gc,Astana City,2.2,,0,0,,0.0,,,0.0
+2018-04-19,2018,tour-of-mersin,gc,Astana City,2.2,,0,0,,10.0,,,10.0
+2018-09-03,2018,tour-of-xingtai,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-07-22,2018,v4-special-series-debrecen---ibrany,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-04-22,2018,visegrad-4-bicycle-race-gp-polski-via-odra,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2019-05-22,2019,baltyk-karkonosze-tour,gc,Astana City,2.2,,0,0,,5.0,,,5.0
+2019-05-23,2019,chabany-race,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,5.0
+2019-05-01,2019,five-rings-of-moscow,gc,Vino - Astana Motors,2.2,,0,0,,20.0,,,25.0
+2019-02-10,2019,grand-prix-alanya,gc,Astana City,1.2,,0,0,,0.0,,,20.0
+2019-02-10,2019,grand-prix-alanya,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2019-02-09,2019,grand-prix-gazipasa,gc,Astana City,1.2,,0,0,,0.0,,,0.0
+2019-02-09,2019,grand-prix-gazipasa,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2019-03-10,2019,grand-prix-justiniano-hotels,gc,Astana City,1.2,,0,0,,0.0,,,0.0
+2019-03-10,2019,grand-prix-justiniano-hotels,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,15.0
+2019-05-12,2019,grand-prix-minsk,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2019-03-09,2019,grand-prix-velo-alanya,gc,Astana City,1.2,,,1,,0.0,,,3.0
+2019-03-09,2019,grand-prix-velo-alanya,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2019-05-26,2019,horizon-park-classic,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,15.0
+2019-10-02,2019,international-azerbaijan-tour,gc,Vino - Astana Motors,2.1,15.0,5.0,1,,11.0,,,25.0
+2019-04-25,2019,le-tour-de-bretagne,gc,Astana City,2.2,,0,0,,0.0,,,7.0
+2019-05-11,2019,minsk-cup,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-kazakhstan,gc,Astana City,NC,,,1,,0.0,,,114.0
+2019-06-30,2019,nc-kazakhstan,gc,Vino - Astana Motors,NC,,0,0,,0.0,,,5.0
+2019-06-26,2019,nc-kazakhstan-itt,gc,Astana City,NC,,,1,,0.0,,,5.0
+2019-06-26,2019,nc-kazakhstan-itt,gc,Vino - Astana Motors,NC,,0,0,,0.0,,,1.0
+2019-06-02,2019,odessa-gp,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,40.0
+2019-05-24,2019,race-horizon-park,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,3.0
+2019-05-25,2019,race-horizon-park-2,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2019-05-31,2019,szlakiem-walk-majora-hubala,gc,Astana City,2.1,,0,0,,3.0,,,3.0
+2019-08-01,2019,tour-alsace,gc,Astana City,2.2,,0,0,,0.0,,,0.0
+2019-08-02,2019,tour-cycliste-international-de-la-guadeloupe,gc,Vino - Astana Motors,2.2,,0,0,,30.0,,,32.0
+2019-05-17,2019,tour-d-eure-et-loir,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2019-06-12,2019,tour-de-korea,gc,Vino - Astana Motors,2.1,,0,0,,13.0,,,13.0
+2019-05-24,2019,tour-de-l-ain,gc,Vino - Astana Motors,2.1,,0,0,,35.0,,,35.0
+2019-04-06,2019,tour-de-langkawi,gc,Vino - Astana Motors,2.HC,,0,0,,135.0,,,135.0
+2019-06-01,2019,tour-de-ribas,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,25.0
+2019-07-30,2019,tour-de-serbie,gc,Vino - Astana Motors,2.2,,0,0,,25.0,,,26.0
+2019-04-17,2019,tour-du-loir-et-cher,gc,Astana City,2.2,,,1,,0.0,,,0.0
+2019-08-30,2019,tour-of-almaty,gc,Vino - Astana Motors,2.1,16.0,3.0,1,,3.0,,,8.0
+2019-02-21,2019,tour-of-antalya,gc,Astana City,2.2,,,1,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2019-07-06,2019,tour-of-austria,gc,Vino - Astana Motors,2.1,,0,0,,0.0,,,0.0
+2019-09-07,2019,tour-of-china,gc,Vino - Astana Motors,2.1,,0,0,,0.0,,,0.0
+2019-09-16,2019,tour-of-china-ii,gc,Vino - Astana Motors,2.1,,0,0,,23.0,,,23.0
+2019-09-27,2019,tour-of-mevlana,gc,Astana City,2.2,,0,0,,0.0,,,1.0
+2019-10-15,2019,tour-of-peninsula,gc,Vino - Astana Motors,2.1,2.0,85.0,1,,110.0,,,110.0
+2019-04-01,2019,tour-of-thailand,gc,Vino - Astana Motors,2.1,,0,0,,0.0,,,0.0
+2019-06-02,2019,trofeo-alcide-degasperi,gc,Astana City,1.2,,0,0,,0.0,,,0.0
+2020-09-04,2020,banja-luka-belgrade-i,gc,Vino - Astana Motors,2.1,,,1,,81.0,,,86.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,46.0
+2020-02-15,2020,malaysian-international-classic-race,gc,Vino - Astana Motors,1.1,,,1,,0.0,,,63.0
+2020-09-27,2020,paris-chauny-classique,gc,Vino - Astana Motors,1.1,,0,0,,0.0,,,0.0
+2020-08-12,2020,tour-bitwa-warszawska-1920,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2020-02-07,2020,tour-de-langkawi,gc,Vino - Astana Motors,2.Pro,19.0,5.0,1,,163.0,,,193.0
+2020-09-01,2020,tour-de-serbie,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,1.0
+2020-02-20,2020,tour-of-antalya,gc,Vino - Astana Motors,2.1,,0,0,,6.0,,,6.0
+2020-07-28,2020,tour-of-bulgaria,gc,Vino - Astana Motors,2.2,41.0,0.0,1,,0.0,,,0.0
+2020-09-17,2020,tour-of-malopolska,gc,Vino - Astana Motors,2.2,,0,0,,3.0,,,3.0
+2020-02-23,2020,tour-of-rwanda,gc,Vino - Astana Motors,2.1,37.0,0.0,1,,6.0,,,20.0
+2020-08-05,2020,tour-of-szeklerland,gc,Vino - Astana Motors,2.2,9.0,3.0,1,,8.0,,,15.0
+2020-09-08,2020,turul-romaniei,gc,Vino - Astana Motors,2.2,24.0,0.0,1,,3.0,,,10.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,Vino - Astana Motors,2.1,,0,0,,0.0,,,0.0
+2021-06-09,2021,five-rings-of-moscow,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2021-01-24,2021,gp-de-valence,gc,Vino - Astana Motors,1.2,,,1,,0.0,,,0.0
+2021-07-16,2021,gp-int-torres-vedras,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2021-04-25,2021,gran-premio-della-liberazione,gc,Vino - Astana Motors,1.2U,,,1,,0.0,,,0.0
+2021-03-11,2021,istrian-spring-tour,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2021-05-24,2021,mercan-tour-classic-alpes-maritimes,gc,Vino - Astana Motors,1.1,,0,0,,0.0,,,0.0
+2021-06-19,2021,nc-kazakhstan,gc,Vino - Astana Motors,NC,,0,0,,0.0,,,63.0
+2021-06-16,2021,nc-kazakhstan-itt,gc,Vino - Astana Motors,NC,,0,0,,0.0,,,0.0
+2021-03-07,2021,porec-trophy,gc,Vino - Astana Motors,1.2,,,1,,0.0,,,0.0
+2021-08-20,2021,szlakiem-grodow-piastowskich,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2021-05-14,2021,tour-d-eure-et-loir,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2021-06-03,2021,tour-of-malopolska,gc,Vino - Astana Motors,2.2,,0,0,,0.0,,,0.0
+2021-03-03,2021,trofej-umag,gc,Vino - Astana Motors,1.2,,0,0,,0.0,,,0.0
+2021-08-31,2021,turul-romaniei,gc,Vino - Astana Motors,2.1,,0,0,,6.0,,,6.0
+2022-06-04,2022,adriatica-ionica-race,gc,Astana Qazaqstan Team,2.1,,0,0,,70.0,,,73.0
+2022-04-10,2022,amstel-gold-race,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,3.0
+2022-08-11,2022,arctic-race-of-norway,gc,Astana Qazaqstan Team,2.Pro,54.0,0.0,1,,5.0,,,15.0
+2022-03-29,2022,asian-championships-me,gc,Kazakhstan,CC,,,1,,0.0,,,430.0
+2022-03-27,2022,asian-cycling-championships-itt,gc,Kazakhstan,CC,,0,0,,0.0,,,70.0
+2022-08-28,2022,bretagne-classic,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,24.0
+2022-06-14,2022,cic-mont-ventoux,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,30.0
+2022-02-13,2022,clasica-de-almeria,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,33.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,128.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,5.0
+2022-09-29,2022,coppa-agostoni,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,33.0
+2022-10-03,2022,coppa-bernocchi,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,85.0
+2022-08-21,2022,cyclassics-hamburg,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,24.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2022-03-25,2022,e3-harelbeke,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,8.0
+2022-02-26,2022,faun-ardeche-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2022-03-27,2022,gent-wevelgem,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2022-05-06,2022,giro-d-italia,gc,Astana Qazaqstan Team,2.UWT,,0,0,,540.0,0.0,0.0,552.0
+2022-05-06,2022,giro-d-italia,kom,Astana Qazaqstan Team,2.UWT,,0,0,,540.0,0.0,0.0,552.0
+2022-05-06,2022,giro-d-italia,points,Astana Qazaqstan Team,2.UWT,,0,0,,540.0,0.0,0.0,552.0
+2022-10-12,2022,giro-del-veneto,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,0.0
+2022-10-01,2022,giro-dell-emilia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2022-04-12,2022,giro-di-sicilia,gc,Astana Qazaqstan Team,2.1,,0,0,,108.0,,,113.0
+2022-09-14,2022,giro-di-toscana,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,65.0
+2022-03-27,2022,gp-industria-artigianato,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,30.0
+2022-09-11,2022,gp-montreal,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,30.0
+2022-09-09,2022,gp-quebec,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,30.0
+2022-10-06,2022,gran-piemonte,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,5.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,13.0
+2022-02-05,2022,grand-prix-alanya,gc,Almaty Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-08-21,2022,grand-prix-cappadocia,gc,Almaty Cycling Team,1.2,,0,0,,0.0,,,51.0
+2022-08-20,2022,grand-prix-develi,gc,Almaty Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-03-05,2022,grand-prix-gazipasa,gc,Almaty Cycling Team,1.2,,0,0,,0.0,,,10.0
+2022-03-05,2022,grand-prix-gazipasa,gc,Kazakhstan,1.2,,0,0,,0.0,,,28.0
+2022-03-20,2022,grand-prix-gundogmus-me,gc,Almaty Cycling Team,1.2,,,1,,0.0,,,25.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Almaty Cycling Team,1.2,,,1,,0.0,,,3.0
+2022-08-19,2022,grand-prix-kapuzbasi,gc,Almaty Cycling Team,1.2,,0,0,,0.0,,,36.0
+2022-03-19,2022,grand-prix-manavgat-side,gc,Almaty Cycling Team,1.2,,,1,,0.0,,,28.0
+2022-03-06,2022,grand-prix-mediterrennean,gc,Almaty Cycling Team,1.2,,,1,,0.0,,,41.0
+2022-03-06,2022,grand-prix-mediterrennean,gc,Kazakhstan,1.2,,0,0,,0.0,,,0.0
+2022-01-30,2022,grand-prix-megasaray,gc,Almaty Cycling Team,1.2,,,1,,0.0,,,3.0
+2022-08-18,2022,grand-prix-tomarza,gc,Almaty Cycling Team,1.2,,0,0,,0.0,,,8.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Almaty Cycling Team,1.2,,,1,,0.0,,,43.0
+2022-10-08,2022,il-lombardia,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,23.0
+2022-04-04,2022,itzulia-basque-country,gc,Astana Qazaqstan Team,2.UWT,,0,0,,8.0,,,8.0
+2022-02-27,2022,la-drome-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2022-04-20,2022,la-fleche-wallonne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,16.0
+2022-06-16,2022,la-route-d-occitanie,gc,Astana Qazaqstan Team,2.1,,0,0,,20.0,,,20.0
+2022-04-24,2022,liege-bastogne-liege,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,25.0
+2022-03-19,2022,milano-sanremo,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,10.0
+2022-03-16,2022,milano-torino,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2022-06-26,2022,nc-italy,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,61.0
+2022-06-25,2022,nc-kazakhstan,gc,Almaty Cycling Team,NC,,,1,,0.0,,,55.0
+2022-06-25,2022,nc-kazakhstan,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,295.0
+2022-06-22,2022,nc-kazakhstan-itt,gc,Almaty Cycling Team,NC,,,1,,0.0,,,80.0
+2022-06-22,2022,nc-kazakhstan-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,50.0
+2022-09-13,2022,okolo-slovenska,gc,Astana Qazaqstan Team,2.1,20.0,3.0,1,,63.0,,,68.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2022-03-06,2022,paris-nice,gc,Astana Qazaqstan Team,2.UWT,,0,0,,20.0,,,20.0
+2022-04-17,2022,paris-roubaix,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2022-07-25,2022,prueba-villafranca,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,50.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2022-02-16,2022,ruta-del-sol,gc,Astana Qazaqstan Team,2.Pro,,0,0,,190.0,,,210.0
+2022-07-30,2022,san-sebastian,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,64.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Astana Qazaqstan Team,2.1,,0,0,,15.0,,,15.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Astana Qazaqstan Team,2.1,,0,0,,60.0,,,60.0
+2022-03-05,2022,strade-bianche,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,12.0
+2022-03-07,2022,tirreno-adriatico,gc,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,,,40.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Astana Qazaqstan Team,2.UWT,,0,0,,33.0,,,33.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Astana Qazaqstan Team,2.Pro,,0,0,,63.0,,,63.0
+2022-07-01,2022,tour-de-france,gc,Astana Qazaqstan Team,2.UWT,,0,0,,350.0,0.0,0.0,355.0
+2022-07-01,2022,tour-de-france,kom,Astana Qazaqstan Team,2.UWT,,0,0,,350.0,0.0,0.0,355.0
+2022-07-01,2022,tour-de-france,points,Astana Qazaqstan Team,2.UWT,,0,0,,350.0,0.0,0.0,355.0
+2022-05-11,2022,tour-de-hongrie,gc,Astana Qazaqstan Team,2.1,,0,0,,70.0,,,70.0
+2022-10-11,2022,tour-de-langkawi,gc,Astana Qazaqstan Team,2.Pro,48.0,0.0,1,,43.0,,,68.0
+2022-07-30,2022,tour-de-pologne,gc,Astana Qazaqstan Team,2.UWT,,0,0,,152.0,,,152.0
+2022-04-26,2022,tour-de-romandie,gc,Astana Qazaqstan Team,2.UWT,,0,0,,36.0,,,36.0
+2022-06-12,2022,tour-de-suisse,gc,Astana Qazaqstan Team,2.UWT,,0,0,,46.0,,,56.0
+2022-08-25,2022,tour-of-konya,gc,Almaty Cycling Team,2.2,3.0,25.0,1,,25.0,,,27.0
+2022-06-15,2022,tour-of-slovenia,gc,Astana Qazaqstan Team,2.Pro,,0,0,,30.0,,,30.0
+2022-04-18,2022,tour-of-the-alps,gc,Astana Qazaqstan Team,2.Pro,,0,0,,16.0,,,46.0
+2022-04-10,2022,tour-of-turkey,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,5.0
+2022-10-04,2022,tre-valli-varesine,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,25.0
+2022-03-02,2022,trofeo-laigueglia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,20.0
+2022-02-20,2022,uae-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,86.0,,,86.0
+2022-10-16,2022,veneto-classic,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,10.0
+2022-03-21,2022,volta-a-catalunya,gc,Astana Qazaqstan Team,2.UWT,,0,0,,42.0,,,42.0
+2022-02-16,2022,volta-ao-algarve,gc,Astana Qazaqstan Team,2.Pro,,0,0,,0.0,,,10.0
+2022-08-02,2022,vuelta-a-burgos,gc,Astana Qazaqstan Team,2.Pro,,0,0,,35.0,,,35.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Astana Qazaqstan Team,2.1,,0,0,,40.0,,,40.0
+2022-08-20,2022,vuelta-a-espana,gc,Astana Qazaqstan Team,2.UWT,,0,0,,76.0,0.0,0.0,106.0
+2022-08-20,2022,vuelta-a-espana,kom,Astana Qazaqstan Team,2.UWT,,0,0,,76.0,0.0,0.0,106.0
+2022-08-20,2022,vuelta-a-espana,points,Astana Qazaqstan Team,2.UWT,,0,0,,76.0,0.0,0.0,106.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Astana Qazaqstan Team,2.Pro,,0,0,,43.0,,,43.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,0.0
+2022-09-25,2022,world-championship,gc,Kazakhstan,WC,,0,0,,0.0,,,20.0
+2022-09-18,2022,world-championship-itt,gc,Kazakhstan,WC,,0,0,,0.0,,,0.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Astana Qazaqstan Team,2.Pro,,,1,,128.0,,,141.0
+2023-01-30,2023,alula-tour,gc,Astana Qazaqstan Team,2.1,,,1,,43.0,,,49.0
+2023-04-16,2023,amstel-gold-race,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,270.0
+2023-08-17,2023,arctic-race-of-norway,gc,Astana Qazaqstan Team,2.Pro,95.0,0.0,1,,153.0,,,208.0
+2023-06-13,2023,asian-championships-me,gc,Kazakhstan,CC,,,1,,0.0,,,455.0
+2023-06-10,2023,asian-cycling-championships-itt,gc,Kazakhstan,CC,,,1,,0.0,,,100.0
+2023-04-19,2023,banja-luka-belgrade-i,gc,Astana Qazaqstan Development Team,2.2,,0,0,,0.0,,,0.0
+2023-09-03,2023,bretagne-classic,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,24.0
+2023-07-30,2023,circuito-de-getxo,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,198.0
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-02-12,2023,clasica-de-almeria,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,6.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,2.0
+2023-09-28,2023,coppa-agostoni,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,65.0
+2023-08-20,2023,cyclassics-hamburg,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,24.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,0.0
+2023-03-24,2023,e3-harelbeke,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-02-25,2023,faun-ardeche-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-03-26,2023,gent-wevelgem,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,13.0
+2023-05-06,2023,giro-d-italia,gc,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,680.0
+2023-05-06,2023,giro-d-italia,kom,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,680.0
+2023-05-06,2023,giro-d-italia,points,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,680.0
+2023-10-11,2023,giro-del-veneto,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,68.0
+2023-09-30,2023,giro-dell-emilia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,10.0
+2023-04-11,2023,giro-di-sicilia,gc,Astana Qazaqstan Team,2.1,,0,0,,128.0,,,142.0
+2023-09-13,2023,giro-di-toscana,gc,Astana Qazaqstan Team,1.1,,,1,,0.0,,,3.0
+2023-03-26,2023,gp-adria-mobil,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,118.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,3.0
+2023-03-26,2023,gp-industria-artigianato,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,43.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,20.0
+2023-09-10,2023,gp-montreal,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,235.0
+2023-09-08,2023,gp-quebec,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,20.0
+2023-02-23,2023,gran-camino,gc,Astana Qazaqstan Team,2.1,,0,0,,30.0,,,30.0
+2023-10-05,2023,gran-piemonte,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,55.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,40.0
+2023-01-28,2023,grand-prix-aspendos,gc,Kazakhstan,1.2,,0,0,,0.0,,,0.0
+2023-09-03,2023,grand-prix-de-plouay,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-10-07,2023,il-lombardia,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,Astana Qazaqstan Development Team,2.2,,0,0,,0.0,,,0.0
+2023-04-03,2023,itzulia-basque-country,gc,Astana Qazaqstan Team,2.UWT,,0,0,,28.0,,,35.0
+2023-07-28,2023,kreiz-breizh-elites,gc,Kazakhstan,2.2,,0,0,,0.0,,,0.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-02-26,2023,la-drome-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-04-19,2023,la-fleche-wallonne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,8.0
+2023-04-23,2023,liege-bastogne-liege,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,50.0
+2023-09-03,2023,maryland-cycling-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2023-09-16,2023,memorial-marco-pantani,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,145.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Astana Qazaqstan Team,1.1,,,1,,0.0,,,25.0
+2023-03-18,2023,milano-sanremo,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,20.0
+2023-03-15,2023,milano-torino,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,16.0
+2023-02-10,2023,muscat-classic,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-estonia,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,108.0
+2023-06-22,2023,nc-italy-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,16.0
+2023-06-25,2023,nc-kazakhstan,gc,Astana Qazaqstan Team,NC,,,1,,0.0,,,233.0
+2023-06-25,2023,nc-kazakhstan,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,23.0
+2023-06-21,2023,nc-kazakhstan-itt,gc,Astana Qazaqstan Team,NC,,,1,,0.0,,,103.0
+2023-06-21,2023,nc-kazakhstan-itt,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-netherlands,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-spain-itt,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,Astana Qazaqstan Team,2.1,,0,0,,3.0,,,18.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-03-05,2023,paris-nice,gc,Astana Qazaqstan Team,2.UWT,,0,0,,83.0,,,68.0
+2023-04-09,2023,paris-roubaix,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,45.0
+2023-03-05,2023,porec-trophy,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,3.0
+2023-07-25,2023,prueba-villafranca,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2023-08-23,2023,renewi-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,2.0,,,2.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,0.0
+2023-02-15,2023,ruta-del-sol,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,15.0
+2023-07-29,2023,san-sebastian,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,26.0
+2023-04-05,2023,scheldeprijs,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,125.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Astana Qazaqstan Team,2.1,49.0,0.0,1,,0.0,,,0.0
+2023-03-04,2023,strade-bianche,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,56.0
+2023-10-05,2023,summer-asian-games,gc,Kazakhstan,JC,,0,0,,0.0,,,555.0
+2023-10-03,2023,summer-asian-games-itt,gc,Kazakhstan,JC,,0,0,,0.0,,,70.0
+2023-05-10,2023,the-tour-oqtosh-chorvoq-mountain,gc,Kazakhstan,1.2,,0,0,,0.0,,,65.0
+2023-05-11,2023,the-tour-oqtosh-chorvoq-mountain-ii,gc,Kazakhstan,1.2,,0,0,,0.0,,,23.0
+2023-03-06,2023,tirreno-adriatico,gc,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,,,0.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,10.0
+2023-07-01,2023,tour-de-france,gc,Astana Qazaqstan Team,2.UWT,,0,0,,70.0,0.0,0.0,615.0
+2023-07-01,2023,tour-de-france,kom,Astana Qazaqstan Team,2.UWT,,0,0,,70.0,0.0,0.0,615.0
+2023-07-01,2023,tour-de-france,points,Astana Qazaqstan Team,2.UWT,,0,0,,70.0,0.0,0.0,615.0
+2023-10-07,2023,tour-de-kyushu,gc,Astana Qazaqstan Team,2.1,47.0,0.0,1,,210.0,,,229.0
+2023-07-31,2023,tour-de-l-ain,gc,Astana Qazaqstan Development Team,2.1,79.0,0.0,1,,0.0,,,0.0
+2023-09-23,2023,tour-de-langkawi,gc,Astana Qazaqstan Team,2.Pro,,0,0,,120.0,,,193.0
+2023-07-29,2023,tour-de-pologne,gc,Astana Qazaqstan Team,2.UWT,,0,0,,122.0,,,143.0
+2023-04-26,2023,tour-de-romandie,gc,Astana Qazaqstan Team,2.UWT,,0,0,,23.0,,,43.0
+2023-06-11,2023,tour-de-suisse,gc,Astana Qazaqstan Team,2.UWT,,0,0,,85.0,,,65.0
+2023-03-12,2023,tour-de-taiwan,gc,Astana Qazaqstan Development Team,2.1,,0,0,,18.0,,,18.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Astana Qazaqstan Development Team,2.1,,0,0,,0.0,,,0.0
+2023-01-17,2023,tour-down-under,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,10.0
+2023-06-14,2023,tour-of-belgium,gc,Astana Qazaqstan Team,2.Pro,,0,0,,0.0,,,5.0
+2023-05-13,2023,tour-of-bostonliq,gc,Kazakhstan,1.2,,0,0,,0.0,,,64.0
+2023-05-14,2023,tour-of-bostonliq-ii,gc,Kazakhstan,1.2,,0,0,,0.0,,,71.0
+2023-09-28,2023,tour-of-istanbul,gc,Astana Qazaqstan Development Team,2.2,,0,0,,28.0,,,29.0
+2023-05-17,2023,tour-of-konya,gc,Astana Qazaqstan Development Team,2.2,,0,0,,40.0,,,51.0
+2023-02-11,2023,tour-of-oman,gc,Astana Qazaqstan Team,2.Pro,,0,0,,10.0,,,10.0
+2023-04-17,2023,tour-of-the-alps,gc,Astana Qazaqstan Team,2.Pro,,,1,,10.0,,,10.0
+2023-10-08,2023,tour-of-turkey,gc,Astana Qazaqstan Team,2.1,,0,0,,195.0,,,238.0
+2023-09-07,2023,tour-of-van,gc,Kazakhstan,2.2,,0,0,,85.0,,,108.0
+2023-10-03,2023,tre-valli-varesine,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2023-03-01,2023,trofej-umag,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-06-02,2023,trofeo-alcide-degasperi,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-02-20,2023,uae-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,17.0,,,56.0
+2023-10-15,2023,veneto-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,75.0
+2023-03-20,2023,volta-a-catalunya,gc,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,,,7.0
+2023-08-15,2023,vuelta-a-burgos,gc,Astana Qazaqstan Team,2.Pro,,0,0,,100.0,,,103.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Astana Qazaqstan Team,2.1,,0,0,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-08-27,2023,vuelta-a-espana,kom,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-08-27,2023,vuelta-a-espana,points,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Astana Qazaqstan Team,2.Pro,,0,0,,8.0,,,38.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Astana Qazaqstan Team,2.Pro,,0,0,,18.0,,,26.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-08-06,2023,world-championship,gc,Kazakhstan,WC,,,1,,0.0,,,15.0
+2023-08-11,2023,world-championship-itt,gc,Kazakhstan,WC,,,1,,0.0,,,0.0
+2023-06-07,2023,zlm-tour,gc,Astana Qazaqstan Team,2.Pro,,0,0,,125.0,,,125.0
+2024-02-25,2024,alanya-cup,gc,Kazakhstan,1.2,,0,0,,0.0,,,25.0
+2024-01-30,2024,alula-tour,gc,Astana Qazaqstan Team,2.1,80.0,0.0,1,,0.0,,,5.0
+2024-04-14,2024,amstel-gold-race,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,55.0
+2024-08-04,2024,arctic-race-of-norway,gc,Astana Qazaqstan Team,2.Pro,,0,0,,28.0,,,31.0
+2024-06-12,2024,asian-championships-me,gc,Kazakhstan,CC,,,1,,0.0,,,265.0
+2024-06-09,2024,asian-cycling-championships-itt,gc,Kazakhstan,CC,,0,0,,0.0,,,125.0
+2024-08-25,2024,bretagne-classic,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,56.0
+2024-08-11,2024,circuito-de-getxo,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,0.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,47.0
+2024-02-06,2024,colombia-21,gc,Astana Qazaqstan Team,2.1,,0,0,,43.0,,,74.0
+2024-10-06,2024,coppa-agostoni,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,8.0
+2024-10-07,2024,coppa-bernocchi,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2024-09-08,2024,cyclassics-hamburg,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,18.0
+2024-06-23,2024,danish-championships,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2024-08-22,2024,deutschland-tour,gc,Astana Qazaqstan Team,2.Pro,,0,0,,3.0,,,28.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,5.0
+2024-03-22,2024,e3-harelbeke,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,4.0
+2024-02-10,2024,figueira-champions-classic,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,180.0
+2024-03-24,2024,gent-wevelgem,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,Astana Qazaqstan Team,2.1,,0,0,,125.0,,,147.0
+2024-05-04,2024,giro-d-italia,gc,Astana Qazaqstan Team,2.UWT,,0,0,,175.0,0.0,0.0,680.0
+2024-05-04,2024,giro-d-italia,kom,Astana Qazaqstan Team,2.UWT,,0,0,,175.0,0.0,0.0,680.0
+2024-05-04,2024,giro-d-italia,points,Astana Qazaqstan Team,2.UWT,,0,0,,175.0,0.0,0.0,680.0
+2024-10-16,2024,giro-del-veneto,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,58.0
+2024-07-14,2024,giro-dell-appennino,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,85.0
+2024-10-05,2024,giro-dell-emilia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,90.0
+2024-09-11,2024,giro-di-toscana,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,0.0
+2024-09-22,2024,gooikse-pijl,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,65.0
+2024-01-27,2024,gp-antalya,gc,Kazakhstan,1.2,,0,0,,0.0,,,0.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-01-20,2024,gp-de-valence,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,50.0
+2024-09-18,2024,gp-de-wallonie,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2024-09-15,2024,gp-montreal,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,5.0
+2024-09-13,2024,gp-quebec,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,30.0
+2024-10-10,2024,gran-piemonte,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,75.0
+2024-02-03,2024,grand-prix-apollon-temple-me,gc,Kazakhstan,1.2,,0,0,,0.0,,,3.0
+2024-01-28,2024,great-ocean-road-race,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,92.0
+2024-10-12,2024,il-lombardia,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,65.0
+2024-04-01,2024,itzulia-basque-country,gc,Astana Qazaqstan Team,2.UWT,,,1,,8.0,,,41.0
+2024-10-20,2024,japan-cup,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,10.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,8.0
+2024-04-17,2024,la-fleche-wallonne,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,8.0
+2024-04-21,2024,liege-bastogne-liege,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,225.0
+2024-09-14,2024,memorial-marco-pantani,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,Astana Qazaqstan Team,1.1,,,1,,0.0,,,5.0
+2024-03-16,2024,milano-sanremo,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,75.0
+2024-03-13,2024,milano-torino,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,8.0
+2024-02-09,2024,muscat-classic,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2024-01-28,2024,nc-colombia,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,1.0
+2024-06-15,2024,nc-eritrea,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,20.0
+2024-06-13,2024,nc-eritrea-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-germany,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-kazakhstan,gc,Astana Qazaqstan Team,NC,,,1,,0.0,,,305.0
+2024-06-19,2024,nc-kazakhstan-itt,gc,Astana Qazaqstan Team,NC,,,1,,0.0,,,128.0
+2024-06-23,2024,nc-netherlands,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,40.0
+2024-08-03,2024,olympic-games,gc,Kazakhstan,Olympics,,0,0,,0.0,,,10.0
+2024-07-27,2024,olympic-games-itt,gc,Kazakhstan,Olympics,,0,0,,0.0,,,3.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,10.0
+2024-03-03,2024,paris-nice,gc,Astana Qazaqstan Team,2.UWT,,0,0,,50.0,,,90.0
+2024-04-07,2024,paris-roubaix,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,65.0
+2024-10-06,2024,paris-tours,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,73.0
+2024-07-25,2024,prueba-villafranca,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,75.0
+2024-01-25,2024,race-torquay,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,43.0
+2024-08-28,2024,renewi-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,68.0,,,84.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2024-02-16,2024,ruta-del-sol,gc,Astana Qazaqstan Team,2.Pro,,0,0,,0.0,,,0.0
+2024-08-10,2024,san-sebastian,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,16.0
+2024-04-03,2024,scheldeprijs,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,100.0
+2024-03-02,2024,strade-bianche,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,10.0
+2024-03-04,2024,tirreno-adriatico,gc,Astana Qazaqstan Team,2.UWT,,0,0,,75.0,,,90.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,45.0
+2024-06-29,2024,tour-de-france,gc,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,0.0,0.0,395.0
+2024-06-29,2024,tour-de-france,kom,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,0.0,0.0,395.0
+2024-06-29,2024,tour-de-france,points,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,0.0,0.0,395.0
+2024-05-08,2024,tour-de-hongrie,gc,Astana Qazaqstan Team,2.Pro,,0,0,,0.0,,,20.0
+2024-10-12,2024,tour-de-kyushu,gc,Astana Qazaqstan Team,2.1,,0,0,,130.0,,,152.0
+2024-09-29,2024,tour-de-langkawi,gc,Astana Qazaqstan Team,2.Pro,,0,0,,125.0,,,186.0
+2024-08-12,2024,tour-de-pologne,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,10.0
+2024-04-23,2024,tour-de-romandie,gc,Astana Qazaqstan Team,2.UWT,,,1,,20.0,,,-5.0
+2024-06-09,2024,tour-de-suisse,gc,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,,,30.0
+2024-01-16,2024,tour-down-under,gc,Astana Qazaqstan Team,2.UWT,,0,0,,20.0,,,78.0
+2024-10-15,2024,tour-of-guangxi,gc,Astana Qazaqstan Team,2.UWT,,0,0,,85.0,,,154.0
+2024-08-27,2024,tour-of-hainan,gc,Astana Qazaqstan Team,2.Pro,,0,0,,150.0,,,180.0
+2024-09-12,2024,tour-of-istanbul,gc,Astana Qazaqstan Team,2.1,,0,0,,88.0,,,98.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Astana Qazaqstan Team,2.Pro,50.0,0.0,1,,165.0,,,186.0
+2024-02-10,2024,tour-of-oman,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,30.0
+2024-04-21,2024,tour-of-turkey,gc,Astana Qazaqstan Team,2.Pro,,0,0,,120.0,,,158.0
+2024-10-08,2024,tre-valli-varesine,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofeo-laigueglia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,155.0
+2024-09-15,2024,trofeo-matteotti,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,70.0
+2024-02-19,2024,uae-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,37.0,,,47.0
+2024-10-20,2024,veneto-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2024-03-18,2024,volta-a-catalunya,gc,Astana Qazaqstan Team,2.UWT,,0,0,,68.0,,,72.0
+2024-02-14,2024,volta-ao-algarve,gc,Astana Qazaqstan Team,2.Pro,73.0,0.0,1,,35.0,,,40.0
+2024-08-05,2024,vuelta-a-burgos,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,20.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,60.0
+2024-08-17,2024,vuelta-a-espana,gc,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,337.0
+2024-08-17,2024,vuelta-a-espana,kom,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,337.0
+2024-08-17,2024,vuelta-a-espana,points,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,337.0
+2024-09-29,2024,world-championship,gc,Kazakhstan,WC,,,1,,0.0,,,0.0
+2024-09-22,2024,world-championship-itt,gc,Kazakhstan,WC,,,1,,0.0,,,0.0
+2024-06-05,2024,zlm-tour,gc,Astana Qazaqstan Team,2.1,,0,0,,125.0,,,138.0
+2025-02-16,2025,asian-championships-me,gc,Kazakhstan,CC,,,1,,0.0,,,90.0
+2025-02-11,2025,asian-cycling-championships-itt,gc,Kazakhstan,CC,,0,0,,0.0,,,125.0
+2025-07-28,2025,banyuwangi-tour-de-ijen,gc,China Anta - Mentech Cycling Team,2.2,,0,0,,15.0,,,16.0
+2025-02-01,2025,gp-antalya,gc,Kazakhstan,1.2,,0,0,,0.0,,,3.0
+2025-02-22,2025,gp-de-la-ville-d-alger,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,30.0
+2025-05-23,2025,gp-internacional-beiras-e-serra-da-estrela,gc,China Glory - Mentech Continental Cycling Team,2.1,,0,0,,0.0,,,0.0
+2025-03-23,2025,grand-prix-apollon-temple-me,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-03-23,2025,grand-prix-apollon-temple-me,gc,Kazakhstan,1.2,,0,0,,0.0,,,8.0
+2025-02-08,2025,grand-prix-aspendos,gc,Kazakhstan,1.2,,0,0,,0.0,,,23.0
+2025-02-20,2025,grand-prix-sonatrach,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,5.0
+2025-06-26,2025,nc-china,gc,China Anta - Mentech Cycling Team,NC,,0,0,,0.0,,,60.0
+2025-06-22,2025,nc-china-itt,gc,China Glory - Mentech Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-estonia,gc,China Anta - Mentech Cycling Team,NC,,0,0,,0.0,,,20.0
+2025-06-21,2025,nc-estonia-itt,gc,China Glory - Mentech Continental Cycling Team,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-kazakhstan,gc,China Anta - Mentech Cycling Team,NC,,,1,,0.0,,,30.0
+2025-06-26,2025,nc-kazakhstan-itt,gc,China Anta - Mentech Cycling Team,NC,,,1,,0.0,,,15.0
+2025-06-22,2025,nc-macau,gc,China Glory - Mentech Continental Cycling Team,NC,,0,0,,0.0,,,50.0
+2025-03-08,2025,rhodes-gp,gc,China Glory - Mentech Continental Cycling Team,1.2,,,1,,0.0,,,3.0
+2025-03-01,2025,south-aegean-tour,gc,China Glory - Mentech Continental Cycling Team,2.2,34.0,0.0,1,,0.0,,,0.0
+2025-04-06,2025,syedra-ancient-city,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-02-09,2025,tour-d-algerie-cycliste,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,0.0,,,5.0
+2025-06-04,2025,tour-de-gyeongnam,gc,China Glory - Mentech Continental Cycling Team,2.2,,,1,,0.0,,,3.0
+2025-09-09,2025,tour-of-binzhou,gc,China Anta - Mentech Cycling Team,1.1,,0,0,,0.0,,,50.0
+2025-04-28,2025,tour-of-bostonliq,gc,Kazakhstan,2.2,,0,0,,3.0,,,3.0
+2025-04-07,2025,tour-of-hainan,gc,China Glory - Mentech Continental Cycling Team,2.Pro,29.0,5.0,1,,10.0,,,43.0
+2025-09-19,2025,tour-of-huangshan,gc,China Anta - Mentech Cycling Team,2.1,,0,0,,3.0,,,6.0
+2025-06-04,2025,tour-of-lithuania,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,10.0,,,10.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,China Anta - Mentech Cycling Team,2.Pro,,,1,,25.0,,,25.0
+2025-04-10,2025,tour-of-mersin,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-09-15,2025,tour-of-poyang-lake,gc,China Anta - Mentech Cycling Team,2.2,,0,0,,23.0,,,30.0
+2025-03-13,2025,tour-of-rhodes,gc,China Glory - Mentech Continental Cycling Team,2.2,16.0,0.0,1,,0.0,,,0.0
+2025-09-05,2025,tour-of-shanghai,gc,China Anta - Mentech Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-10-09,2025,tour-of-taihu-lake,gc,China Anta - Mentech Cycling Team,2.Pro,,0,0,,126.0,,,126.0
+2025-03-24,2025,tour-of-thailand,gc,China Glory - Mentech Continental Cycling Team,2.1,,0,0,,43.0,,,48.0
+2025-04-27,2025,tour-of-turkey,gc,China Glory - Mentech Continental Cycling Team,2.Pro,51.0,0.0,1,,3.0,,,3.0
+2025-08-07,2025,trans-himalaya-cycling-race,gc,China Anta - Mentech Cycling Team,2.1,,0,0,,0.0,,,0.0

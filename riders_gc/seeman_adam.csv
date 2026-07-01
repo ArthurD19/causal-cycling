@@ -1,0 +1,33 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-04-06,2023,circuit-des-ardennes,gc,Development Team DSM,2.2,,0,0,,0.0,,,0.0
+2023-03-12,2023,dorpenomloop-rucphen,gc,Development Team DSM,1.2,,0,0,,0.0,,,0.0
+2023-05-17,2023,fleche-du-sud,gc,Development Team DSM,2.2,,0,0,,0.0,,,-4.0
+2023-09-17,2023,grote-prijs-rik-van-looy,gc,Development Team dsm-firmenich,1.2,,,1,,0.0,,,0.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Development Team DSM,2.2,,0,0,,5.0,,,5.0
+2023-06-25,2023,nc-czech-republic2,gc,Development Team DSM,NC,,,1,,0.0,,,1.0
+2023-06-18,2023,nc-finland,gc,Development Team DSM,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,nc-germany,gc,Development Team DSM,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,Development Team DSM,NC,,0,0,,0.0,,,0.0
+2023-03-22,2023,olympias-tour,gc,Development Team DSM,2.2,56.0,0.0,1,,0.0,,,10.0
+2023-05-24,2023,rhone-alpes-isere-tour,gc,Development Team DSM,2.2,,,1,,30.0,,,36.0
+2023-08-27,2023,ronde-van-de-achterhoek,gc,Development Team dsm-firmenich,1.2,,,1,,0.0,,,0.0
+2023-03-04,2023,ster-van-zwolle,gc,Development Team DSM,1.2,,,1,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,Development Team dsm-firmenich,2.2,,0,0,,25.0,,,35.0
+2024-04-04,2024,circuit-des-ardennes,gc,Development Team dsm-firmenich PostNL,2.2,,0,0,,0.0,,,0.0
+2024-03-17,2024,dorpenomloop-rucphen,gc,Development Team dsm-firmenich PostNL,1.2,,0,0,,0.0,,,55.0
+2024-05-12,2024,fleche-ardennaise,gc,Development Team dsm-firmenich PostNL,1.2,,0,0,,0.0,,,0.0
+2024-09-07,2024,grote-prijs-rik-van-looy,gc,Development Team dsm-firmenich PostNL,1.2,,,1,,0.0,,,0.0
+2024-04-25,2024,le-tour-de-bretagne,gc,Development Team dsm-firmenich PostNL,2.2,,0,0,,0.0,,,1.0
+2024-06-23,2024,nc-czech-republic2,gc,Development Team dsm-firmenich PostNL,NC,,,1,,0.0,,,0.0
+2024-06-22,2024,nc-estonia,gc,Development Team dsm-firmenich PostNL,NC,,0,0,,0.0,,,0.0
+2024-06-18,2024,nc-estonia-itt,gc,Development Team dsm-firmenich PostNL,NC,,0,0,,0.0,,,3.0
+2024-06-16,2024,nc-finland,gc,Development Team dsm-firmenich PostNL,NC,,0,0,,0.0,,,15.0
+2024-06-14,2024,nc-finland-itt,gc,Development Team dsm-firmenich PostNL,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-switserland,gc,Development Team dsm-firmenich PostNL,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,Development Team dsm-firmenich PostNL,NC,,0,0,,0.0,,,0.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,Development Team dsm-firmenich PostNL,2.2,,0,0,,0.0,,,1.0
+2024-05-30,2024,ronde-de-l-oise,gc,Development Team dsm-firmenich PostNL,2.2,,0,0,,3.0,,,1.0
+2024-05-04,2024,ronde-van-overijssel,gc,Development Team dsm-firmenich PostNL,1.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,ster-van-zwolle,gc,Development Team dsm-firmenich PostNL,1.2,,0,0,,0.0,,,25.0
+2024-07-25,2024,tour-alsace,gc,Development Team dsm-firmenich PostNL,2.2,107.0,0.0,1,,0.0,,,0.0
+2024-03-30,2024,volta-nxt-classic,gc,Development Team dsm-firmenich PostNL,1.1,,0,0,,0.0,,,25.0

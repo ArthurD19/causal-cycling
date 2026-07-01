@@ -1,0 +1,878 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-05,2017,3daagse-van-west-vlaanderen,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,26.0
+2017-02-23,2017,abu-dhabi-tour,gc,Quick-Step Floors,2.UWT,,0,0,,137.0,,,177.0
+2017-04-16,2017,amstel-gold-race,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,520.0
+2017-04-12,2017,brabantse-pijl,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,255.0
+2017-03-17,2017,bredene-koksijde-classic,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,20.0
+2017-08-27,2017,bretagne-classic,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,56.0
+2017-09-02,2017,brussels-cycling-classic,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,40.0
+2017-06-18,2017,circuit-des-xi-villes,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,31.0
+2017-10-01,2017,circuit-franco-belge,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,30.0
+2017-03-28,2017,classic-brugge-de-panne,gc,Quick-Step Floors,2.HC,,0,0,,211.0,,,236.0
+2017-08-20,2017,cyclassics-hamburg,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,158.0
+2017-01-31,2017,dubai-tour,gc,Quick-Step Floors,2.HC,,0,0,,200.0,,,260.0
+2017-03-22,2017,dwars-door-vlaanderen,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,575.0
+2017-03-24,2017,e3-harelbeke,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,472.0
+2017-05-01,2017,eschborn-frankfurt,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,87.0
+2017-03-26,2017,gent-wevelgem,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,580.0
+2017-05-05,2017,giro-d-italia,gc,Quick-Step Floors,2.UWT,129.0,0.0,1,,260.0,0.0,100.0,840.0
+2017-05-05,2017,giro-d-italia,kom,Quick-Step Floors,2.UWT,,,1,,260.0,0.0,100.0,840.0
+2017-05-05,2017,giro-d-italia,points,Quick-Step Floors,2.UWT,1.0,100.0,1,,260.0,0.0,100.0,840.0
+2017-07-19,2017,gp-cerami,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,81.0
+2017-09-03,2017,gp-de-fourmies,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,33.0
+2017-09-13,2017,gp-de-wallonie,gc,Quick-Step Floors,1.1,,,1,,0.0,,,30.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,Quick-Step Floors,1.HC,,,1,,0.0,,,310.0
+2017-08-20,2017,gp-jef-scherens,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,20.0
+2017-09-10,2017,gp-montreal,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,130.0
+2017-09-08,2017,gp-quebec,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,210.0
+2017-03-01,2017,gp-samyn,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,95.0
+2017-01-29,2017,great-ocean-road-race,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,214.0
+2017-06-21,2017,halle-ingooigem,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,70.0
+2017-10-07,2017,il-lombardia,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,430.0
+2017-04-03,2017,itzulia-basque-country,gc,Quick-Step Floors,2.UWT,,0,0,,260.0,,,330.0
+2017-09-15,2017,kampioenschap-van-vlaanderen1,gc,Quick-Step Floors,1.1,,,1,,0.0,,,128.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,128.0
+2017-04-19,2017,la-fleche-wallonne,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,332.0
+2017-04-23,2017,liege-bastogne-liege,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,413.0
+2017-10-03,2017,memorial-frank-vandenbroucke,gc,Quick-Step Floors,1.1,,,1,,0.0,,,155.0
+2017-03-18,2017,milano-sanremo,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,575.0
+2017-10-05,2017,milano-torino,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,35.0
+2017-10-03,2017,munsterland-giro,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,108.0
+2017-06-25,2017,nc-belgium,gc,Quick-Step Floors,NC,,0,0,,0.0,,,10.0
+2017-06-22,2017,nc-belgium-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,41.0
+2017-06-22,2017,nc-czech-republic-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,nc-czech-republic2,gc,Quick-Step Floors,NC,,0,0,,0.0,,,110.0
+2017-06-25,2017,nc-france,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2017-06-22,2017,nc-france-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-germany,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2017-06-23,2017,nc-germany-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2017-06-25,2017,nc-italy,gc,Quick-Step Floors,NC,,0,0,,0.0,,,5.0
+2017-06-25,2017,nc-luxembourg,gc,Quick-Step Floors,NC,,0,0,,0.0,,,70.0
+2017-06-21,2017,nc-luxembourg-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2017-01-08,2017,nc-new-zealand,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2017-01-06,2017,nc-new-zealand-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,30.0
+2017-09-30,2017,omloop-eurometropool,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,8.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,117.0
+2017-08-26,2017,omloop-mandel-leie-schelde-meulebeke,gc,Quick-Step Floors,1.1,,,1,,0.0,,,130.0
+2017-03-05,2017,paris-nice,gc,Quick-Step Floors,2.UWT,,0,0,,630.0,,,785.0
+2017-04-09,2017,paris-roubaix,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,460.0
+2017-10-08,2017,paris-tours,gc,Quick-Step Floors,1.HC,,,1,,0.0,,,475.0
+2017-08-07,2017,renewi-tour,gc,Quick-Step Floors,2.UWT,,0,0,,158.0,,,178.0
+2017-07-30,2017,ride-london-classic,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,52.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,905.0
+2017-07-29,2017,san-sebastian,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,34.0
+2017-04-05,2017,scheldeprijs,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,205.0
+2017-03-04,2017,strade-bianche,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,204.0
+2017-03-09,2017,tirreno-adriatico,gc,Quick-Step Floors,2.UWT,100.0,0.0,1,,60.0,,,120.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Quick-Step Floors,2.UWT,,0,0,,325.0,,,350.0
+2017-07-01,2017,tour-de-france,gc,Quick-Step Floors,2.UWT,,0,0,,415.0,0.0,0.0,1110.0
+2017-07-01,2017,tour-de-france,kom,Quick-Step Floors,2.UWT,,0,0,,415.0,0.0,0.0,1110.0
+2017-07-01,2017,tour-de-france,points,Quick-Step Floors,2.UWT,,0,0,,415.0,0.0,0.0,1110.0
+2017-07-29,2017,tour-de-pologne,gc,Quick-Step Floors,2.UWT,,0,0,,56.0,,,64.0
+2017-04-25,2017,tour-de-romandie,gc,Quick-Step Floors,2.UWT,,0,0,,185.0,,,185.0
+2017-06-10,2017,tour-de-suisse,gc,Quick-Step Floors,2.UWT,,0,0,,20.0,,,100.0
+2017-01-17,2017,tour-down-under,gc,Quick-Step Floors,2.UWT,,0,0,,70.0,,,70.0
+2017-05-24,2017,tour-of-belgium,gc,Quick-Step Floors,2.HC,,0,0,,345.0,,,355.0
+2017-09-03,2017,tour-of-britain,gc,Quick-Step Floors,2.HC,25.0,5.0,1,,24.0,,,69.0
+2017-05-14,2017,tour-of-california,gc,Quick-Step Floors,2.UWT,,0,0,,55.0,,,95.0
+2017-10-19,2017,tour-of-guangxi,gc,Quick-Step Floors,2.UWT,50.0,5.0,1,,226.0,,,401.0
+2017-02-14,2017,tour-of-oman,gc,Quick-Step Floors,2.HC,,0,0,,50.0,,,50.0
+2017-03-20,2017,volta-a-catalunya,gc,Quick-Step Floors,2.UWT,,0,0,,160.0,,,180.0
+2017-02-15,2017,volta-ao-algarve,gc,Quick-Step Floors,2.HC,,,1,,76.0,,,116.0
+2017-08-01,2017,vuelta-a-burgos,gc,Quick-Step Floors,2.HC,,0,0,,280.0,,,335.0
+2017-08-20,2017,vuelta-a-espana,gc,Quick-Step Floors,2.UWT,,0,0,,16.0,0.0,40.0,716.0
+2017-08-20,2017,vuelta-a-espana,kom,Quick-Step Floors,2.UWT,,0,0,,16.0,0.0,40.0,716.0
+2017-08-20,2017,vuelta-a-espana,points,Quick-Step Floors,2.UWT,,0,0,,16.0,0.0,40.0,716.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Quick-Step Floors,2.1,,0,0,,90.0,,,90.0
+2017-01-23,2017,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Quick-Step Floors,2.1,48.0,0.0,1,,20.0,,,95.0
+2017-09-24,2017,world-championship,gc,Colombia,WC,,,1,,0.0,,,170.0
+2017-09-20,2017,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,313.0
+2018-02-21,2018,abu-dhabi-tour,gc,Quick-Step Floors,2.UWT,,0,0,,182.0,,,228.0
+2018-06-21,2018,adriatica-ionica-race,gc,Quick-Step Floors,2.1,,0,0,,0.0,,,45.0
+2018-04-15,2018,amstel-gold-race,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,210.0
+2018-04-11,2018,brabantse-pijl,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,100.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,220.0
+2018-08-26,2018,bretagne-classic,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,228.0
+2018-09-01,2018,brussels-cycling-classic,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,100.0
+2018-06-17,2018,circuit-des-xi-villes,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,63.0
+2018-09-22,2018,circuit-franco-belge,gc,Quick-Step Floors,1.HC,,,1,,0.0,,,13.0
+2018-02-11,2018,clasica-de-almeria,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,90.0
+2018-03-21,2018,classic-brugge-de-panne,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,208.0
+2018-02-06,2018,colombia-21,gc,Quick-Step Floors,2.1,93.0,0.0,1,,55.0,,,114.0
+2018-08-19,2018,cyclassics-hamburg,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,432.0
+2018-07-01,2018,danish-championships,gc,Quick-Step Floors,NC,,0,0,,0.0,,,100.0
+2018-08-23,2018,deutschland-tour,gc,Quick-Step Floors,2.1,,0,0,,70.0,,,98.0
+2018-02-06,2018,dubai-tour,gc,Quick-Step Floors,2.HC,,0,0,,211.0,,,256.0
+2018-06-15,2018,dwars-door-het-hageland,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,88.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,485.0
+2018-03-23,2018,e3-harelbeke,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,852.0
+2018-05-01,2018,eschborn-frankfurt,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,34.0
+2018-02-24,2018,faun-ardeche-classic,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,128.0
+2018-03-25,2018,gent-wevelgem,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,605.0
+2018-05-04,2018,giro-d-italia,gc,Quick-Step Floors,2.UWT,,0,0,,36.0,0.0,100.0,628.0
+2018-05-04,2018,giro-d-italia,kom,Quick-Step Floors,2.UWT,,0,0,,36.0,0.0,100.0,628.0
+2018-05-04,2018,giro-d-italia,points,Quick-Step Floors,2.UWT,,0,0,,36.0,0.0,100.0,628.0
+2018-09-23,2018,gp-d-isbergues,gc,Quick-Step Floors,1.1,,,1,,0.0,,,208.0
+2018-09-02,2018,gp-de-fourmies,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,133.0
+2018-09-09,2018,gp-montreal,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,33.0
+2018-09-07,2018,gp-quebec,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,185.0
+2018-02-27,2018,gp-samyn,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,215.0
+2018-10-11,2018,gran-piemonte,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,195.0
+2018-01-28,2018,great-ocean-road-race,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,447.0
+2018-08-24,2018,great-war-remembrance-race,gc,Quick-Step Floors,1.1,,,1,,0.0,,,95.0
+2018-06-19,2018,halle-ingooigem,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,88.0
+2018-10-13,2018,il-lombardia,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,35.0
+2018-04-02,2018,itzulia-basque-country,gc,Quick-Step Floors,2.UWT,,0,0,,164.0,,,314.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Quick-Step Floors,1.HC,,,1,,0.0,,,30.0
+2018-02-25,2018,la-drome-classic,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,195.0
+2018-04-18,2018,la-fleche-wallonne,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,540.0
+2018-04-22,2018,liege-bastogne-liege,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,805.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,105.0
+2018-03-17,2018,milano-sanremo,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,70.0
+2018-10-10,2018,milano-torino,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,5.0
+2018-10-03,2018,munsterland-giro,gc,Quick-Step Floors,1.HC,,,1,,0.0,,,78.0
+2018-04-01,2018,nc-argentina,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-belgium,gc,Quick-Step Floors,NC,,0,0,,0.0,,,225.0
+2018-06-21,2018,nc-belgium-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,35.0
+2018-02-04,2018,nc-colombia,gc,Quick-Step Floors,NC,,,1,,0.0,,,0.0
+2018-06-21,2018,nc-czech-republic-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-czech-republic2,gc,Quick-Step Floors,NC,,0,0,,0.0,,,40.0
+2018-06-28,2018,nc-denmark-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2018-07-18,2018,nc-ecuador,gc,Quick-Step Floors,NC,,0,0,,0.0,,,30.0
+2018-07-01,2018,nc-france,gc,Quick-Step Floors,NC,,0,0,,0.0,,,61.0
+2018-06-28,2018,nc-france-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-germany,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-29,2018,nc-germany-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2018-06-30,2018,nc-italy,gc,Quick-Step Floors,NC,,0,0,,0.0,,,103.0
+2018-10-04,2018,nc-italy-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,1.0
+2018-07-01,2018,nc-luxembourg,gc,Quick-Step Floors,NC,,0,0,,0.0,,,100.0
+2018-06-28,2018,nc-luxembourg-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2018-07-01,2018,nc-netherlands,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-27,2018,nc-netherlands-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-spain,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,ncgreat-britain,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-03-14,2018,nokere-koerse,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,211.0
+2018-09-12,2018,okolo-slovenska,gc,Quick-Step Floors,2.1,,0,0,,125.0,,,188.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,147.0
+2018-05-06,2018,panamerican-championships,gc,Quick-Step Floors,CC,,0,0,,0.0,,,200.0
+2018-03-04,2018,paris-nice,gc,Quick-Step Floors,2.UWT,,0,0,,40.0,,,85.0
+2018-04-08,2018,paris-roubaix,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,490.0
+2018-10-07,2018,paris-tours,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,210.0
+2018-08-13,2018,renewi-tour,gc,Quick-Step Floors,2.UWT,,0,0,,372.0,,,446.0
+2018-07-29,2018,ride-london-classic,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,251.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,940.0
+2018-08-04,2018,san-sebastian,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,460.0
+2018-04-04,2018,scheldeprijs,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,211.0
+2018-03-03,2018,strade-bianche,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,172.0
+2018-03-08,2018,tirreno-adriatico,gc,Quick-Step Floors,2.UWT,,,1,,60.0,,,70.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Quick-Step Floors,2.UWT,,0,0,,40.0,,,125.0
+2018-07-07,2018,tour-de-france,gc,Quick-Step Floors,2.UWT,,,1,,175.0,120.0,0.0,840.0
+2018-07-07,2018,tour-de-france,kom,Quick-Step Floors,2.UWT,,,1,,175.0,120.0,0.0,840.0
+2018-07-07,2018,tour-de-france,points,Quick-Step Floors,2.UWT,,,1,,175.0,120.0,0.0,840.0
+2018-08-04,2018,tour-de-pologne,gc,Quick-Step Floors,2.UWT,,0,0,,48.0,,,138.0
+2018-04-24,2018,tour-de-romandie,gc,Quick-Step Floors,2.UWT,,,1,,10.0,,,35.0
+2018-06-10,2018,tour-de-suisse,gc,Quick-Step Floors,2.UWT,,,1,,285.0,,,395.0
+2018-07-28,2018,tour-de-wallonie,gc,Quick-Step Floors,2.HC,,0,0,,280.0,,,300.0
+2018-05-22,2018,tour-des-fjords,gc,Quick-Step Floors,2.HC,,0,0,,8.0,,,28.0
+2018-01-16,2018,tour-down-under,gc,Quick-Step Floors,2.UWT,,0,0,,275.0,,,335.0
+2018-09-02,2018,tour-of-britain,gc,Quick-Step Floors,2.HC,69.0,0.0,1,,285.0,,,330.0
+2018-05-13,2018,tour-of-california,gc,Quick-Step Floors,2.UWT,64.0,0.0,1,,85.0,,,205.0
+2018-10-16,2018,tour-of-guangxi,gc,Quick-Step Floors,2.UWT,,0,0,,270.0,,,371.0
+2018-02-13,2018,tour-of-oman,gc,Quick-Step Floors,2.HC,,0,0,,81.0,,,81.0
+2018-10-09,2018,tour-of-turkey,gc,Quick-Step Floors,2.UWT,,,1,,34.0,,,144.0
+2018-03-19,2018,volta-a-catalunya,gc,Quick-Step Floors,2.UWT,,0,0,,32.0,,,132.0
+2018-02-14,2018,volta-ao-algarve,gc,Quick-Step Floors,2.HC,,0,0,,165.0,,,165.0
+2018-08-25,2018,vuelta-a-espana,gc,Quick-Step Floors,2.UWT,,0,0,,680.0,0.0,20.0,1136.0
+2018-08-25,2018,vuelta-a-espana,kom,Quick-Step Floors,2.UWT,,0,0,,680.0,0.0,20.0,1136.0
+2018-08-25,2018,vuelta-a-espana,points,Quick-Step Floors,2.UWT,,0,0,,680.0,0.0,20.0,1136.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Quick-Step Floors,2.1,,,1,,30.0,,,66.0
+2018-02-10,2018,vuelta-ciclista-a-la-region-de-murcia,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,161.0
+2019-07-25,2019,adriatica-ionica-race,gc,UAE Team Emirates,2.1,,0,0,,35.0,,,35.0
+2019-04-21,2019,amstel-gold-race,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,90.0
+2019-04-17,2019,brabantse-pijl,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,8.0
+2019-03-22,2019,bredene-koksijde-classic,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,50.0
+2019-09-01,2019,bretagne-classic,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,40.0
+2019-09-07,2019,brussels-cycling-classic,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,190.0
+2019-06-23,2019,circuit-des-xi-villes,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,83.0
+2019-03-27,2019,classic-brugge-de-panne,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,255.0
+2019-02-13,2019,colombia-21,gc,UAE Team Emirates,2.1,,,1,,30.0,,,47.0
+2019-09-14,2019,coppa-agostoni,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,128.0
+2019-09-15,2019,coppa-bernocchi,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,88.0
+2019-08-25,2019,cyclassics-hamburg,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,260.0
+2019-02-02,2019,deia-trophy,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,10.0
+2019-08-29,2019,deutschland-tour,gc,UAE Team Emirates,2.HC,,0,0,,93.0,,,133.0
+2019-06-21,2019,dwars-door-het-hageland,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,55.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,49.0
+2019-03-29,2019,e3-harelbeke,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,24.0
+2019-05-01,2019,eschborn-frankfurt,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,227.0
+2019-03-31,2019,gent-wevelgem,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,520.0
+2019-05-11,2019,giro-d-italia,gc,UAE Team Emirates,2.UWT,,,1,,84.0,0.0,0.0,316.0
+2019-05-11,2019,giro-d-italia,kom,UAE Team Emirates,2.UWT,,,1,,84.0,0.0,0.0,316.0
+2019-05-11,2019,giro-d-italia,points,UAE Team Emirates,2.UWT,,,1,,84.0,0.0,0.0,316.0
+2019-10-05,2019,giro-dell-emilia,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,75.0
+2019-04-03,2019,giro-di-sicilia,gc,UAE Team Emirates,2.1,,0,0,,60.0,,,63.0
+2019-09-18,2019,giro-di-toscana,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,10.0
+2019-10-06,2019,gp-bruno-beghelli,gc,UAE Team Emirates,1.HC,,,1,,0.0,,,10.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,5.0
+2019-09-08,2019,gp-de-fourmies,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,180.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,205.0
+2019-03-10,2019,gp-industria-artigianato,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,30.0
+2019-06-09,2019,gp-lugano,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,248.0
+2019-09-15,2019,gp-montreal,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,563.0
+2019-09-13,2019,gp-quebec,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,305.0
+2019-10-10,2019,gran-piemonte,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,90.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,40.0
+2019-01-27,2019,great-ocean-road-race,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,72.0
+2019-06-22,2019,heist-op-den-berg,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,85.0
+2019-10-12,2019,il-lombardia,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,33.0
+2019-04-08,2019,itzulia-basque-country,gc,UAE Team Emirates,2.UWT,,0,0,,532.0,,,592.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,8.0
+2019-04-24,2019,la-fleche-wallonne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,304.0
+2019-04-28,2019,liege-bastogne-liege,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,60.0
+2019-09-21,2019,memorial-marco-pantani,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,60.0
+2019-03-23,2019,milano-sanremo,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,75.0
+2019-10-09,2019,milano-torino,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,11.0
+2019-10-03,2019,munsterland-giro,gc,UAE Team Emirates,1.HC,,,1,,0.0,,,118.0
+2019-06-16,2019,nc-belarus,gc,UAE Team Emirates,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-belgium,gc,UAE Team Emirates,NC,,0,0,,0.0,,,5.0
+2019-06-30,2019,nc-italy,gc,UAE Team Emirates,NC,,0,0,,0.0,,,53.0
+2019-06-30,2019,nc-norway,gc,UAE Team Emirates,NC,,0,0,,0.0,,,21.0
+2019-06-30,2019,nc-slovenia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,20.0
+2019-06-07,2019,nc-slovenia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-switserland,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2019-06-26,2019,nc-switzerland-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2019-03-01,2019,nc-united-arab-emirates,gc,UAE Team Emirates,NC,,0,0,,0.0,,,100.0
+2019-02-23,2019,nc-united-arab-emirates-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2019-03-20,2019,nokere-koerse,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,133.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,5.0
+2019-03-10,2019,paris-nice,gc,UAE Team Emirates,2.UWT,,0,0,,10.0,,,10.0
+2019-04-14,2019,paris-roubaix,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,3.0
+2019-10-13,2019,paris-tours,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,5.0
+2019-08-12,2019,renewi-tour,gc,UAE Team Emirates,2.UWT,,0,0,,28.0,,,56.0
+2019-08-04,2019,ride-london-classic,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,112.0
+2019-06-10,2019,ronde-van-limburg,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,90.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,335.0
+2019-08-03,2019,san-sebastian,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,20.0
+2019-04-10,2019,scheldeprijs,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,40.0
+2019-03-09,2019,strade-bianche,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,17.0
+2019-03-14,2019,tirreno-adriatico,gc,UAE Team Emirates,2.UWT,89.0,0.0,1,,125.0,,,135.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,UAE Team Emirates,2.UWT,,0,0,,148.0,,,148.0
+2019-07-06,2019,tour-de-france,gc,UAE Team Emirates,2.UWT,,0,0,,180.0,0.0,0.0,235.0
+2019-07-06,2019,tour-de-france,kom,UAE Team Emirates,2.UWT,,0,0,,180.0,0.0,0.0,235.0
+2019-07-06,2019,tour-de-france,points,UAE Team Emirates,2.UWT,,0,0,,180.0,0.0,0.0,235.0
+2019-08-03,2019,tour-de-pologne,gc,UAE Team Emirates,2.UWT,89.0,0.0,1,,280.0,,,320.0
+2019-04-30,2019,tour-de-romandie,gc,UAE Team Emirates,2.UWT,,0,0,,420.0,,,490.0
+2019-06-15,2019,tour-de-suisse,gc,UAE Team Emirates,2.UWT,,0,0,,76.0,,,76.0
+2019-01-15,2019,tour-down-under,gc,UAE Team Emirates,2.UWT,,0,0,,190.0,,,250.0
+2019-05-12,2019,tour-of-california,gc,UAE Team Emirates,2.UWT,,0,0,,318.0,,,379.0
+2019-10-17,2019,tour-of-guangxi,gc,UAE Team Emirates,2.UWT,72.0,0.0,1,,32.0,,,142.0
+2019-05-28,2019,tour-of-norway,gc,UAE Team Emirates,2.HC,,0,0,,203.0,,,238.0
+2019-02-16,2019,tour-of-oman,gc,UAE Team Emirates,2.HC,,0,0,,170.0,,,200.0
+2019-06-19,2019,tour-of-slovenia,gc,UAE Team Emirates,2.HC,,0,0,,340.0,,,380.0
+2019-04-16,2019,tour-of-turkey,gc,UAE Team Emirates,2.UWT,,0,0,,365.0,,,380.0
+2019-10-08,2019,tre-valli-varesine,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,5.0
+2019-02-03,2019,trofeo-palma,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,15.0
+2019-02-01,2019,trofeo-pollenca-port-d-andratx,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,11.0
+2019-01-31,2019,trofeo-ses-salines-felanitx,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,30.0
+2019-02-25,2019,uae-tour,gc,UAE Team Emirates,2.UWT,78.0,0.0,1,,135.0,,,205.0
+2019-03-25,2019,volta-a-catalunya,gc,UAE Team Emirates,2.UWT,,0,0,,26.0,,,34.0
+2019-02-20,2019,volta-ao-algarve,gc,UAE Team Emirates,2.HC,,0,0,,225.0,,,250.0
+2019-08-13,2019,vuelta-a-burgos,gc,UAE Team Emirates,2.HC,,0,0,,38.0,,,63.0
+2019-08-25,2019,vuelta-a-espana,gc,UAE Team Emirates,2.UWT,147.0,0.0,1,,591.0,0.0,40.0,915.0
+2019-08-25,2019,vuelta-a-espana,kom,UAE Team Emirates,2.UWT,,,1,,591.0,0.0,40.0,915.0
+2019-08-25,2019,vuelta-a-espana,points,UAE Team Emirates,2.UWT,44.0,0.0,1,,591.0,0.0,40.0,915.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,UAE Team Emirates,2.1,,0,0,,80.0,,,85.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,UAE Team Emirates,2.1,46.0,0.0,1,,60.0,,,98.0
+2020-02-04,2020,alula-tour,gc,UAE Team Emirates,2.1,,0,0,,70.0,,,84.0
+2020-10-07,2020,brabantse-pijl,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,45.0
+2020-08-25,2020,bretagne-classic,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,72.0
+2020-08-30,2020,brussels-cycling-classic,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,88.0
+2020-08-06,2020,cic-mont-ventoux,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,53.0
+2020-08-02,2020,circuito-de-getxo,gc,UAE Team Emirates,1.1,,,1,,0.0,,,0.0
+2020-02-16,2020,clasica-de-almeria,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,150.0
+2020-10-21,2020,classic-brugge-de-panne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,57.0
+2020-02-12,2020,colombia-21,gc,UAE Team Emirates,2.1,,0,0,,36.0,,,78.0
+2020-08-29,2020,druivenkoers-overijse,gc,UAE Team Emirates,1.1,,,1,,0.0,,,25.0
+2020-10-11,2020,gent-wevelgem,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,50.0
+2020-10-03,2020,giro-d-italia,gc,UAE Team Emirates,2.UWT,,,1,,96.0,0.0,0.0,408.0
+2020-10-03,2020,giro-d-italia,kom,UAE Team Emirates,2.UWT,,,1,,96.0,0.0,0.0,408.0
+2020-10-03,2020,giro-d-italia,points,UAE Team Emirates,2.UWT,,,1,,96.0,0.0,0.0,408.0
+2020-09-19,2020,giro-dell-appennino,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,85.0
+2020-08-18,2020,giro-dell-emilia,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,140.0
+2020-09-16,2020,giro-di-toscana,gc,UAE Team Emirates,1.1,,,1,,0.0,,,125.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,175.0
+2020-08-12,2020,gran-piemonte,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,160.0
+2020-08-03,2020,gran-trittico-lombardo,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,80.0
+2020-08-15,2020,il-lombardia,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,128.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,125.0
+2020-09-30,2020,la-fleche-wallonne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,80.0
+2020-10-04,2020,liege-bastogne-liege,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,345.0
+2020-08-30,2020,memorial-marco-pantani,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,70.0
+2020-08-08,2020,milano-sanremo,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,90.0
+2020-08-05,2020,milano-torino,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,68.0
+2020-07-26,2020,nc-belarus,gc,UAE Team Emirates,NC,,0,0,,0.0,,,75.0
+2020-09-22,2020,nc-belgium,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2020-02-02,2020,nc-colombia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,35.0
+2020-01-30,2020,nc-colombia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,1.0
+2020-08-23,2020,nc-italy,gc,UAE Team Emirates,NC,,0,0,,0.0,,,33.0
+2020-08-23,2020,nc-norway,gc,UAE Team Emirates,NC,,0,0,,0.0,,,130.0
+2020-08-14,2020,nc-portugal,gc,UAE Team Emirates,NC,,0,0,,0.0,,,80.0
+2020-08-16,2020,nc-portugal2,gc,UAE Team Emirates,NC,,0,0,,0.0,,,100.0
+2020-06-21,2020,nc-slovenia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,105.0
+2020-06-28,2020,nc-slovenia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,70.0
+2020-07-12,2020,nc-switzerland-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,10.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,5.0
+2020-09-29,2020,renewi-tour,gc,UAE Team Emirates,2.UWT,,0,0,,52.0,,,122.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,360.0
+2020-02-19,2020,ruta-del-sol,gc,UAE Team Emirates,2.Pro,,0,0,,65.0,,,70.0
+2020-10-14,2020,scheldeprijs,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,108.0
+2020-08-01,2020,strade-bianche,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,317.0
+2020-09-07,2020,tirreno-adriatico,gc,UAE Team Emirates,2.UWT,130.0,0.0,1,,40.0,,,90.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,UAE Team Emirates,2.UWT,,0,0,,325.0,,,420.0
+2020-08-29,2020,tour-de-france,gc,UAE Team Emirates,2.UWT,,0,0,,1025.0,120.0,0.0,1600.0
+2020-08-29,2020,tour-de-france,kom,UAE Team Emirates,2.UWT,,0,0,,1025.0,120.0,0.0,1600.0
+2020-08-29,2020,tour-de-france,points,UAE Team Emirates,2.UWT,,0,0,,1025.0,120.0,0.0,1600.0
+2020-08-07,2020,tour-de-l-ain,gc,UAE Team Emirates,2.1,,0,0,,23.0,,,26.0
+2020-09-15,2020,tour-de-luxembourg,gc,UAE Team Emirates,2.Pro,,0,0,,200.0,,,260.0
+2020-08-05,2020,tour-de-pologne,gc,UAE Team Emirates,2.UWT,,0,0,,252.0,,,272.0
+2020-01-21,2020,tour-down-under,gc,UAE Team Emirates,2.UWT,,0,0,,490.0,,,525.0
+2020-08-18,2020,tour-du-limousin,gc,UAE Team Emirates,2.1,61.0,0.0,1,,70.0,,,103.0
+2020-08-29,2020,trofeo-matteotti,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,125.0
+2020-02-23,2020,uae-tour,gc,UAE Team Emirates,2.UWT,111.0,0.0,1,,386.0,,,456.0
+2020-02-19,2020,volta-ao-algarve,gc,UAE Team Emirates,2.Pro,,0,0,,115.0,,,115.0
+2020-07-28,2020,vuelta-a-burgos,gc,UAE Team Emirates,2.Pro,101.0,0.0,1,,90.0,,,110.0
+2020-10-20,2020,vuelta-a-espana,gc,UAE Team Emirates,2.UWT,,0,0,,336.0,0.0,0.0,532.0
+2020-10-20,2020,vuelta-a-espana,kom,UAE Team Emirates,2.UWT,,0,0,,336.0,0.0,0.0,532.0
+2020-10-20,2020,vuelta-a-espana,points,UAE Team Emirates,2.UWT,,0,0,,336.0,0.0,0.0,532.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,UAE Team Emirates,2.Pro,,0,0,,218.0,,,263.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,UAE Team Emirates,2.Pro,83.0,0.0,1,,100.0,,,175.0
+2021-06-15,2021,adriatica-ionica-race,gc,Colombia,2.1,,0,0,,11.0,,,11.0
+2021-04-18,2021,amstel-gold-race,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,80.0
+2021-04-14,2021,brabantse-pijl,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,125.0
+2021-03-19,2021,bredene-koksijde-classic,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,35.0
+2021-08-29,2021,bretagne-classic,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,8.0
+2021-08-28,2021,brussels-cycling-classic,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,195.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,85.0
+2021-09-29,2021,circuit-franco-belge,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,8.0
+2021-08-01,2021,circuito-de-getxo,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,66.0
+2021-02-14,2021,clasica-de-almeria,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,8.0
+2021-03-24,2021,classic-brugge-de-panne,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,35.0
+2021-10-11,2021,coppa-agostoni,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,155.0
+2021-10-04,2021,coppa-bernocchi,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,215.0
+2021-06-20,2021,danish-championships,gc,UAE Team Emirates,NC,,0,0,,0.0,,,1.0
+2021-05-14,2021,deia-trophy,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,65.0
+2021-08-26,2021,deutschland-tour,gc,UAE Team Emirates,2.Pro,,0,0,,170.0,,,210.0
+2021-08-26,2021,druivenkoers-overijse,gc,UAE Team Emirates,1.1,,,1,,0.0,,,23.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,169.0
+2021-03-26,2021,e3-harelbeke,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,40.0
+2021-09-19,2021,eschborn-frankfurt,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,227.0
+2021-02-27,2021,faun-ardeche-classic,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,28.0
+2021-03-28,2021,gent-wevelgem,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,405.0
+2021-05-08,2021,giro-d-italia,gc,UAE Team Emirates,2.UWT,109.0,0.0,1,,132.0,0.0,20.0,356.0
+2021-05-08,2021,giro-d-italia,kom,UAE Team Emirates,2.UWT,,,1,,132.0,0.0,20.0,356.0
+2021-05-08,2021,giro-d-italia,points,UAE Team Emirates,2.UWT,3.0,20.0,1,,132.0,0.0,20.0,356.0
+2021-10-13,2021,giro-del-veneto,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,141.0
+2021-06-24,2021,giro-dell-appennino,gc,Colombia,1.1,,0,0,,0.0,,,0.0
+2021-06-24,2021,giro-dell-appennino,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,178.0
+2021-10-02,2021,giro-dell-emilia,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,50.0
+2021-09-28,2021,giro-di-sicilia,gc,UAE Team Emirates,2.1,,0,0,,75.0,,,114.0
+2021-09-15,2021,giro-di-toscana,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,73.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,20.0
+2021-01-31,2021,gp-d-ouverture,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,38.0
+2021-09-12,2021,gp-de-fourmies,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,125.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,88.0
+2021-06-27,2021,gp-lugano,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,135.0
+2021-10-07,2021,gran-piemonte,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,110.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,5.0
+2021-10-09,2021,il-lombardia,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,550.0
+2021-04-05,2021,itzulia-basque-country,gc,UAE Team Emirates,2.UWT,,0,0,,310.0,,,396.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,103.0
+2021-02-28,2021,la-drome-classic,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,0.0
+2021-04-21,2021,la-fleche-wallonne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,0.0
+2021-04-25,2021,liege-bastogne-liege,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,705.0
+2021-09-18,2021,memorial-marco-pantani,gc,UAE Team Emirates,1.1,,,1,,0.0,,,65.0
+2021-03-20,2021,milano-sanremo,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,80.0
+2021-10-06,2021,milano-torino,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,165.0
+2021-06-20,2021,nc-colombia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-colombia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,20.0
+2021-06-17,2021,nc-denmark-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,30.0
+2021-06-20,2021,nc-italy,gc,UAE Team Emirates,NC,,0,0,,0.0,,,1.0
+2021-06-20,2021,nc-norway,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-portugal2,gc,UAE Team Emirates,NC,,0,0,,0.0,,,75.0
+2021-06-20,2021,nc-slovenia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,115.0
+2021-06-17,2021,nc-slovenia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2021-03-21,2021,nc-south-africa,gc,UAE Team Emirates,NC,,0,0,,0.0,,,10.0
+2021-03-19,2021,nc-south-africa-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-spain,gc,UAE Team Emirates,NC,,0,0,,0.0,,,3.0
+2021-06-18,2021,nc-spain-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,30.0
+2021-06-20,2021,nc-switserland,gc,UAE Team Emirates,NC,,0,0,,0.0,,,10.0
+2021-06-16,2021,nc-switzerland-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,30.0
+2021-03-06,2021,nc-united-arab-emirates,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2021-03-26,2021,nc-united-arab-emirates-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,25.0
+2021-03-17,2021,nokere-koerse,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,35.0
+2021-07-24,2021,olympic-games,gc,Colombia,Olympics,,0,0,,0.0,,,160.0
+2021-07-28,2021,olympic-games-itt,gc,Colombia,Olympics,,0,0,,0.0,,,70.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,82.0
+2021-08-13,2021,panamerican-champ-itt,gc,Colombia,CC,,0,0,,0.0,,,70.0
+2021-08-15,2021,panamerican-championships,gc,Colombia,CC,,0,0,,0.0,,,383.0
+2021-03-07,2021,paris-nice,gc,UAE Team Emirates,2.UWT,,0,0,,30.0,,,30.0
+2021-10-03,2021,paris-roubaix,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,40.0
+2021-07-25,2021,prueba-villafranca,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,85.0
+2021-08-30,2021,renewi-tour,gc,UAE Team Emirates,2.UWT,,,1,,36.0,,,36.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,48.0
+2021-05-18,2021,ruta-del-sol,gc,UAE Team Emirates,2.Pro,,0,0,,40.0,,,45.0
+2021-07-31,2021,san-sebastian,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,232.0
+2021-04-07,2021,scheldeprijs,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,3.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,UAE Team Emirates,2.1,,0,0,,138.0,,,171.0
+2021-03-06,2021,strade-bianche,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,113.0
+2021-03-10,2021,tirreno-adriatico,gc,UAE Team Emirates,2.UWT,125.0,0.0,1,,533.0,,,628.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,UAE Team Emirates,2.UWT,,0,0,,40.0,,,50.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,UAE Team Emirates,2.Pro,,0,0,,3.0,,,3.0
+2021-06-26,2021,tour-de-france,gc,UAE Team Emirates,2.UWT,,0,0,,1045.0,120.0,0.0,1460.0
+2021-06-26,2021,tour-de-france,kom,UAE Team Emirates,2.UWT,,0,0,,1045.0,120.0,0.0,1460.0
+2021-06-26,2021,tour-de-france,points,UAE Team Emirates,2.UWT,,0,0,,1045.0,120.0,0.0,1460.0
+2021-09-14,2021,tour-de-luxembourg,gc,UAE Team Emirates,2.Pro,,0,0,,288.0,,,313.0
+2021-08-09,2021,tour-de-pologne,gc,UAE Team Emirates,2.UWT,116.0,0.0,1,,236.0,,,306.0
+2021-04-27,2021,tour-de-romandie,gc,UAE Team Emirates,2.UWT,,0,0,,80.0,,,90.0
+2021-06-06,2021,tour-de-suisse,gc,UAE Team Emirates,2.UWT,,0,0,,190.0,,,215.0
+2021-07-20,2021,tour-de-wallonie,gc,UAE Team Emirates,2.Pro,55.0,0.0,1,,5.0,,,20.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,UAE Team Emirates,2.1,,0,0,,0.0,,,0.0
+2021-08-19,2021,tour-of-norway,gc,UAE Team Emirates,2.Pro,,0,0,,48.0,,,58.0
+2021-06-09,2021,tour-of-slovenia,gc,UAE Team Emirates,2.Pro,,0,0,,490.0,,,555.0
+2021-04-19,2021,tour-of-the-alps,gc,UAE Team Emirates,2.Pro,,0,0,,8.0,,,13.0
+2021-10-05,2021,tre-valli-varesine,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,335.0
+2021-05-13,2021,trofeo-calvia,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,165.0
+2021-09-19,2021,trofeo-matteotti,gc,UAE Team Emirates,1.1,,,1,,0.0,,,128.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,90.0
+2021-02-21,2021,uae-tour,gc,UAE Team Emirates,2.UWT,71.0,0.0,1,,341.0,,,402.0
+2021-10-17,2021,veneto-classic,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,128.0
+2021-03-22,2021,volta-a-catalunya,gc,UAE Team Emirates,2.UWT,,0,0,,72.0,,,80.0
+2021-05-05,2021,volta-ao-algarve,gc,UAE Team Emirates,2.Pro,,0,0,,3.0,,,3.0
+2021-08-03,2021,vuelta-a-burgos,gc,UAE Team Emirates,2.Pro,,0,0,,115.0,,,160.0
+2021-07-29,2021,vuelta-a-castilla-y-leon,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,18.0
+2021-08-14,2021,vuelta-a-espana,gc,UAE Team Emirates,2.UWT,,0,0,,348.0,0.0,0.0,624.0
+2021-08-14,2021,vuelta-a-espana,kom,UAE Team Emirates,2.UWT,,0,0,,348.0,0.0,0.0,624.0
+2021-08-14,2021,vuelta-a-espana,points,UAE Team Emirates,2.UWT,,0,0,,348.0,0.0,0.0,624.0
+2021-05-23,2021,vuelta-ciclista-a-la-region-de-murcia,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,53.0
+2021-09-26,2021,world-championship,gc,Colombia,WC,,,1,,0.0,,,0.0
+2021-09-19,2021,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2022-02-01,2022,alula-tour,gc,UAE Team Emirates,2.1,35.0,0.0,1,,73.0,,,76.0
+2022-04-10,2022,amstel-gold-race,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,130.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,UAE Team Emirates,2.Pro,,0,0,,3.0,,,23.0
+2022-04-13,2022,brabantse-pijl,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,15.0
+2022-03-18,2022,bredene-koksijde-classic,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,208.0
+2022-08-28,2022,bretagne-classic,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,28.0
+2022-06-05,2022,brussels-cycling-classic,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,5.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,115.0
+2022-06-12,2022,circuit-des-xi-villes,gc,UAE Team Emirates,1.1,,,1,,0.0,,,5.0
+2022-07-31,2022,circuito-de-getxo,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,158.0
+2022-02-13,2022,clasica-de-almeria,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,90.0
+2022-03-23,2022,classic-brugge-de-panne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,12.0
+2022-09-29,2022,coppa-agostoni,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,63.0
+2022-10-03,2022,coppa-bernocchi,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,100.0
+2022-08-21,2022,cyclassics-hamburg,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,88.0
+2022-06-26,2022,danish-championships,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2022-01-28,2022,deia-trophy,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,70.0
+2022-08-24,2022,deutschland-tour,gc,UAE Team Emirates,2.Pro,,,1,,50.0,,,50.0
+2022-06-11,2022,dwars-door-het-hageland,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,8.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,63.0
+2022-03-25,2022,e3-harelbeke,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,16.0
+2022-05-01,2022,eschborn-frankfurt,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,251.0
+2022-02-02,2022,etoile-de-besseges,gc,UAE Team Emirates,2.1,,0,0,,40.0,,,40.0
+2022-02-26,2022,faun-ardeche-classic,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,221.0
+2022-03-27,2022,gent-wevelgem,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,3.0
+2022-05-06,2022,giro-d-italia,gc,UAE Team Emirates,2.UWT,128.0,0.0,1,,72.0,20.0,40.0,308.0
+2022-05-06,2022,giro-d-italia,kom,UAE Team Emirates,2.UWT,,,1,,72.0,20.0,40.0,308.0
+2022-05-06,2022,giro-d-italia,points,UAE Team Emirates,2.UWT,2.0,40.0,1,,72.0,20.0,40.0,308.0
+2022-10-12,2022,giro-del-veneto,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,175.0
+2022-06-02,2022,giro-dell-appennino,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,20.0
+2022-10-01,2022,giro-dell-emilia,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,215.0
+2022-09-14,2022,giro-di-toscana,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,128.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,43.0
+2022-01-30,2022,gp-d-ouverture,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,55.0
+2022-03-17,2022,gp-de-denain,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,10.0
+2022-09-11,2022,gp-de-fourmies,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,8.0
+2022-05-14,2022,gp-de-plumelec,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,23.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,170.0
+2022-03-27,2022,gp-industria-artigianato,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,240.0
+2022-09-11,2022,gp-montreal,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,530.0
+2022-09-09,2022,gp-quebec,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,123.0
+2022-03-01,2022,gp-samyn,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,128.0
+2022-10-06,2022,gran-piemonte,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,45.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,50.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,0.0
+2022-10-08,2022,il-lombardia,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,560.0
+2022-04-04,2022,itzulia-basque-country,gc,UAE Team Emirates,2.UWT,,0,0,,168.0,,,184.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,43.0
+2022-02-27,2022,la-drome-classic,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,115.0
+2022-04-20,2022,la-fleche-wallonne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,80.0
+2022-04-24,2022,liege-bastogne-liege,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,133.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,UAE Team Emirates,1.1,,,1,,0.0,,,0.0
+2022-03-19,2022,milano-sanremo,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,248.0
+2022-03-16,2022,milano-torino,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,38.0
+2022-10-03,2022,munsterland-giro,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,30.0
+2022-06-23,2022,nc-denmark-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-germany,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-italy,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2022-02-13,2022,nc-new-zealand,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2022-02-11,2022,nc-new-zealand-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,13.0
+2022-06-24,2022,nc-portugal,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2022-06-26,2022,nc-portugal2,gc,UAE Team Emirates,NC,,0,0,,0.0,,,160.0
+2022-06-26,2022,nc-slovenia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-slovenia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-spain,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2022-06-24,2022,nc-spain-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-switserland,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-switzerland-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2022-03-12,2022,nc-united-arab-emirates,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2022-03-04,2022,nc-united-arab-emirates-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,25.0
+2022-03-16,2022,nokere-koerse,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,43.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,95.0
+2022-10-06,2022,paris-bourges,gc,UAE Team Emirates,1.1,,,1,,0.0,,,3.0
+2022-03-06,2022,paris-nice,gc,UAE Team Emirates,2.UWT,,0,0,,195.0,,,255.0
+2022-04-17,2022,paris-roubaix,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,10.0
+2022-10-09,2022,paris-tours,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,5.0
+2022-03-20,2022,per-sempre-alfredo,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,125.0
+2022-07-25,2022,prueba-villafranca,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,63.0
+2022-06-06,2022,ronde-van-limburg,gc,UAE Team Emirates,1.1,,,1,,0.0,,,3.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,285.0
+2022-02-16,2022,ruta-del-sol,gc,UAE Team Emirates,2.Pro,,0,0,,23.0,,,48.0
+2022-07-30,2022,san-sebastian,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,48.0
+2022-04-06,2022,scheldeprijs,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,0.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,UAE Team Emirates,2.1,,0,0,,148.0,,,151.0
+2022-03-05,2022,strade-bianche,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,324.0
+2022-03-07,2022,tirreno-adriatico,gc,UAE Team Emirates,2.UWT,,0,0,,565.0,,,695.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,UAE Team Emirates,2.UWT,,0,0,,100.0,,,0.0
+2022-07-01,2022,tour-de-france,gc,UAE Team Emirates,2.UWT,,0,0,,855.0,0.0,25.0,1395.0
+2022-07-01,2022,tour-de-france,kom,UAE Team Emirates,2.UWT,,0,0,,855.0,0.0,25.0,1395.0
+2022-07-01,2022,tour-de-france,points,UAE Team Emirates,2.UWT,,0,0,,855.0,0.0,25.0,1395.0
+2022-08-09,2022,tour-de-l-ain,gc,UAE Team Emirates,2.1,,0,0,,35.0,,,38.0
+2022-10-11,2022,tour-de-langkawi,gc,UAE Team Emirates,2.Pro,,0,0,,105.0,,,60.0
+2022-09-13,2022,tour-de-luxembourg,gc,UAE Team Emirates,2.Pro,,0,0,,105.0,,,125.0
+2022-07-30,2022,tour-de-pologne,gc,UAE Team Emirates,2.UWT,,0,0,,104.0,,,174.0
+2022-04-26,2022,tour-de-romandie,gc,UAE Team Emirates,2.UWT,,,1,,315.0,,,345.0
+2022-06-12,2022,tour-de-suisse,gc,UAE Team Emirates,2.UWT,,0,0,,0.0,,,0.0
+2022-07-23,2022,tour-de-wallonie,gc,UAE Team Emirates,2.Pro,95.0,0.0,1,,5.0,,,10.0
+2022-08-16,2022,tour-du-limousin,gc,UAE Team Emirates,2.1,104.0,0.0,1,,125.0,,,147.0
+2022-02-10,2022,tour-of-oman,gc,UAE Team Emirates,2.Pro,49.0,0.0,1,,130.0,,,170.0
+2022-06-15,2022,tour-of-slovenia,gc,UAE Team Emirates,2.Pro,,0,0,,353.0,,,468.0
+2022-10-04,2022,tre-valli-varesine,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,210.0
+2022-05-15,2022,tro-bro-leon,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,213.0
+2022-03-02,2022,trofeo-laigueglia,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,535.0
+2022-01-30,2022,trofeo-palma,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,88.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,85.0
+2022-02-20,2022,uae-tour,gc,UAE Team Emirates,2.UWT,,0,0,,520.0,,,606.0
+2022-10-16,2022,veneto-classic,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,280.0
+2022-03-21,2022,volta-a-catalunya,gc,UAE Team Emirates,2.UWT,,0,0,,448.0,,,518.0
+2022-02-16,2022,volta-ao-algarve,gc,UAE Team Emirates,2.Pro,,0,0,,153.0,,,158.0
+2022-08-02,2022,vuelta-a-burgos,gc,UAE Team Emirates,2.Pro,,,1,,150.0,,,170.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,UAE Team Emirates,2.1,,0,0,,110.0,,,115.0
+2022-08-20,2022,vuelta-a-espana,gc,UAE Team Emirates,2.UWT,,0,0,,1179.0,0.0,0.0,1586.0
+2022-08-20,2022,vuelta-a-espana,kom,UAE Team Emirates,2.UWT,,0,0,,1179.0,0.0,0.0,1586.0
+2022-08-20,2022,vuelta-a-espana,points,UAE Team Emirates,2.UWT,,0,0,,1179.0,0.0,0.0,1586.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,UAE Team Emirates,2.Pro,,0,0,,10.0,,,20.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,213.0
+2023-01-30,2023,alula-tour,gc,Movistar Team,2.1,,0,0,,158.0,,,172.0
+2023-04-16,2023,amstel-gold-race,gc,Movistar Team,1.UWT,,0,0,,0.0,,,30.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Movistar Team,2.Pro,,0,0,,248.0,,,273.0
+2023-09-03,2023,bretagne-classic,gc,Movistar Team,1.UWT,,0,0,,0.0,,,24.0
+2023-06-13,2023,cic-mont-ventoux,gc,Movistar Team,1.Pro,,0,0,,0.0,,,75.0
+2023-07-30,2023,circuito-de-getxo,gc,Movistar Team,1.1,,0,0,,0.0,,,23.0
+2023-02-12,2023,clasica-de-almeria,gc,Movistar Team,1.Pro,,,1,,0.0,,,63.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Movistar Team,1.1,,0,0,,0.0,,,29.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Movistar Team,1.UWT,,,1,,0.0,,,32.0
+2023-09-28,2023,coppa-agostoni,gc,Movistar Team,1.1,,0,0,,0.0,,,38.0
+2023-10-02,2023,coppa-bernocchi,gc,Movistar Team,1.Pro,,0,0,,0.0,,,25.0
+2023-08-20,2023,cyclassics-hamburg,gc,Movistar Team,1.UWT,,0,0,,0.0,,,106.0
+2023-06-25,2023,danish-championships,gc,Movistar Team,NC,,0,0,,0.0,,,20.0
+2023-01-28,2023,deia-trophy,gc,Movistar Team,1.1,,0,0,,0.0,,,9.0
+2023-08-23,2023,deutschland-tour,gc,Movistar Team,2.Pro,,0,0,,93.0,,,128.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Movistar Team,1.UWT,,,1,,0.0,,,255.0
+2023-03-24,2023,e3-harelbeke,gc,Movistar Team,1.UWT,,,1,,0.0,,,400.0
+2023-03-26,2023,gent-wevelgem,gc,Movistar Team,1.UWT,,,1,,0.0,,,3.0
+2023-05-06,2023,giro-d-italia,gc,Movistar Team,2.UWT,117.0,0.0,1,,190.0,0.0,0.0,737.0
+2023-05-06,2023,giro-d-italia,kom,Movistar Team,2.UWT,,0.0,1,,190.0,0.0,0.0,737.0
+2023-05-06,2023,giro-d-italia,points,Movistar Team,2.UWT,27.0,0.0,1,,190.0,0.0,0.0,737.0
+2023-09-30,2023,giro-dell-emilia,gc,Movistar Team,1.Pro,,0,0,,0.0,,,105.0
+2023-01-22,2023,gp-de-valence,gc,Movistar Team,1.1,,0,0,,0.0,,,63.0
+2023-09-13,2023,gp-de-wallonie,gc,Movistar Team,1.Pro,,0,0,,0.0,,,203.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2023-09-10,2023,gp-montreal,gc,Movistar Team,1.UWT,,0,0,,0.0,,,350.0
+2023-09-08,2023,gp-quebec,gc,Movistar Team,1.UWT,,0,0,,0.0,,,288.0
+2023-02-23,2023,gran-camino,gc,Movistar Team,2.1,,0,0,,130.0,,,143.0
+2023-10-05,2023,gran-piemonte,gc,Movistar Team,1.Pro,,0,0,,0.0,,,130.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Movistar Team,1.Pro,,0,0,,0.0,,,103.0
+2023-10-07,2023,il-lombardia,gc,Movistar Team,1.UWT,,0,0,,0.0,,,50.0
+2023-04-03,2023,itzulia-basque-country,gc,Movistar Team,2.UWT,,0,0,,220.0,,,299.0
+2023-07-07,2023,juegos-deportivos-centroamericanos-y-del-carbie,gc,Colombia,JR,,0,0,,0.0,,,0.0
+2023-07-05,2023,juegos-deportivos-centroamericanos-y-del-carbie-it,gc,Colombia,JR,,0,0,,0.0,,,0.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Movistar Team,1.1,,0,0,,0.0,,,0.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Movistar Team,1.Pro,,0,0,,0.0,,,30.0
+2023-04-19,2023,la-fleche-wallonne,gc,Movistar Team,1.UWT,,0,0,,0.0,,,84.0
+2023-06-15,2023,la-route-d-occitanie,gc,Movistar Team,2.1,,0,0,,115.0,,,115.0
+2023-04-23,2023,liege-bastogne-liege,gc,Movistar Team,1.UWT,,0,0,,0.0,,,30.0
+2023-03-18,2023,milano-sanremo,gc,Movistar Team,1.UWT,,,1,,0.0,,,75.0
+2023-03-15,2023,milano-torino,gc,Movistar Team,1.Pro,,,1,,0.0,,,180.0
+2023-02-10,2023,muscat-classic,gc,Movistar Team,1.1,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-austria2,gc,Movistar Team,NC,,0,0,,0.0,,,100.0
+2023-02-05,2023,nc-colombia,gc,Movistar Team,NC,,0,0,,0.0,,,10.0
+2023-06-22,2023,nc-denmark-itt,gc,Movistar Team,NC,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-germany,gc,Movistar Team,NC,,0,0,,0.0,,,3.0
+2023-06-23,2023,nc-germany-itt,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Movistar Team,NC,,0,0,,0.0,,,160.0
+2023-06-23,2023,nc-spain-itt,gc,Movistar Team,NC,,0,0,,0.0,,,53.0
+2023-06-22,2023,nc-usa-itt,gc,Movistar Team,NC,,0,0,,0.0,,,30.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Movistar Team,1.UWT,,0,0,,0.0,,,35.0
+2023-10-29,2023,pan-american-games,gc,Colombia,JC,,0,0,,0.0,,,69.0
+2023-10-22,2023,pan-american-games---tt,gc,Colombia,JC,,0,0,,0.0,,,70.0
+2023-04-19,2023,panamerican-champ-itt,gc,Colombia,CC,,0,0,,0.0,,,70.0
+2023-04-23,2023,panamerican-championships,gc,Colombia,CC,,0,0,,0.0,,,5.0
+2023-03-05,2023,paris-nice,gc,Movistar Team,2.UWT,,0,0,,145.0,,,200.0
+2023-04-09,2023,paris-roubaix,gc,Movistar Team,1.UWT,,0,0,,0.0,,,-10.0
+2023-07-25,2023,prueba-villafranca,gc,Movistar Team,1.1,,0,0,,0.0,,,66.0
+2023-08-23,2023,renewi-tour,gc,Movistar Team,2.UWT,,0,0,,22.0,,,30.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Movistar Team,1.UWT,,0,0,,0.0,,,195.0
+2023-02-15,2023,ruta-del-sol,gc,Movistar Team,2.Pro,,0,0,,100.0,,,130.0
+2023-07-29,2023,san-sebastian,gc,Movistar Team,1.UWT,,0,0,,0.0,,,152.0
+2023-03-04,2023,strade-bianche,gc,Movistar Team,1.UWT,,0,0,,0.0,,,32.0
+2023-03-06,2023,tirreno-adriatico,gc,Movistar Team,2.UWT,115.0,0.0,1,,215.0,,,262.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Movistar Team,2.UWT,,0,0,,60.0,,,77.0
+2023-07-01,2023,tour-de-france,gc,Movistar Team,2.UWT,,0,0,,100.0,0.0,0.0,480.0
+2023-07-01,2023,tour-de-france,kom,Movistar Team,2.UWT,,0,0,,100.0,0.0,0.0,480.0
+2023-07-01,2023,tour-de-france,points,Movistar Team,2.UWT,,0,0,,100.0,0.0,0.0,480.0
+2023-09-20,2023,tour-de-luxembourg,gc,Movistar Team,2.Pro,,0,0,,30.0,,,55.0
+2023-07-29,2023,tour-de-pologne,gc,Movistar Team,2.UWT,136.0,0.0,1,,16.0,,,41.0
+2023-04-25,2023,tour-de-romandie,gc,Movistar Team,2.UWT,105.0,0.0,1,,485.0,,,650.0
+2023-06-11,2023,tour-de-suisse,gc,Movistar Team,2.UWT,,0,0,,55.0,,,98.0
+2023-01-17,2023,tour-down-under,gc,Movistar Team,2.UWT,,0,0,,120.0,,,120.0
+2023-08-15,2023,tour-du-limousin,gc,Movistar Team,2.1,,0,0,,0.0,,,5.0
+2023-09-03,2023,tour-of-britain,gc,Movistar Team,2.Pro,,,1,,65.0,,,89.0
+2023-10-12,2023,tour-of-guangxi,gc,Movistar Team,2.UWT,,0,0,,123.0,,,151.0
+2023-02-11,2023,tour-of-oman,gc,Movistar Team,2.Pro,,0,0,,235.0,,,275.0
+2023-04-17,2023,tour-of-the-alps,gc,Movistar Team,2.Pro,,0,0,,16.0,,,41.0
+2023-10-03,2023,tre-valli-varesine,gc,Movistar Team,1.Pro,,0,0,,0.0,,,30.0
+2023-01-25,2023,trofeo-calvia,gc,Movistar Team,1.1,,0,0,,0.0,,,10.0
+2023-01-29,2023,trofeo-palma,gc,Movistar Team,1.1,,0,0,,0.0,,,68.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Movistar Team,1.1,,0,0,,0.0,,,25.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Movistar Team,1.1,,0,0,,0.0,,,43.0
+2023-02-20,2023,uae-tour,gc,Movistar Team,2.UWT,121.0,0.0,1,,44.0,,,109.0
+2023-03-20,2023,volta-a-catalunya,gc,Movistar Team,2.UWT,,0,0,,88.0,,,88.0
+2023-08-15,2023,vuelta-a-burgos,gc,Movistar Team,2.Pro,,0,0,,104.0,,,142.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Movistar Team,2.1,,0,0,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,Movistar Team,2.UWT,,0,0,,505.0,0.0,0.0,1142.0
+2023-08-27,2023,vuelta-a-espana,kom,Movistar Team,2.UWT,,0,0,,505.0,0.0,0.0,1142.0
+2023-08-27,2023,vuelta-a-espana,points,Movistar Team,2.UWT,,0,0,,505.0,0.0,0.0,1142.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Movistar Team,2.Pro,,0,0,,54.0,,,80.0
+2023-04-28,2023,vuelta-asturias,gc,Movistar Team,2.1,,0,0,,158.0,,,166.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Movistar Team,2.Pro,55.0,0.0,1,,155.0,,,210.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Movistar Team,1.1,,0,0,,0.0,,,23.0
+2023-08-06,2023,world-championship,gc,Colombia,WC,,,1,,0.0,,,0.0
+2023-08-11,2023,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2024-01-30,2024,alula-tour,gc,Movistar Team,2.1,,0,0,,65.0,,,65.0
+2024-04-14,2024,amstel-gold-race,gc,Movistar Team,1.UWT,,0,0,,0.0,,,10.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,Movistar Team,2.Pro,,0,0,,33.0,,,33.0
+2024-08-25,2024,bretagne-classic,gc,Movistar Team,1.UWT,,0,0,,0.0,,,16.0
+2024-08-11,2024,circuito-de-getxo,gc,Movistar Team,1.1,,0,0,,0.0,,,141.0
+2024-02-11,2024,clasica-de-almeria,gc,Movistar Team,1.Pro,,0,0,,0.0,,,25.0
+2024-02-12,2024,clasica-jaen-paraiso-interior,gc,Movistar Team,1.1,,0,0,,0.0,,,168.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Movistar Team,1.UWT,,,1,,0.0,,,47.0
+2024-02-06,2024,colombia-21,gc,Movistar Team,2.1,108.0,0.0,1,,38.0,,,57.0
+2024-10-06,2024,coppa-agostoni,gc,Movistar Team,1.1,,0,0,,0.0,,,63.0
+2024-10-07,2024,coppa-bernocchi,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2024-09-08,2024,cyclassics-hamburg,gc,Movistar Team,1.UWT,,,1,,0.0,,,44.0
+2024-06-23,2024,danish-championships,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2024-01-26,2024,deia-trophy,gc,Movistar Team,1.1,,0,0,,0.0,,,40.0
+2024-08-22,2024,deutschland-tour,gc,Movistar Team,2.Pro,,0,0,,25.0,,,25.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Movistar Team,1.UWT,,0,0,,0.0,,,67.0
+2024-03-22,2024,e3-harelbeke,gc,Movistar Team,1.UWT,,0,0,,0.0,,,56.0
+2024-05-01,2024,eschborn-frankfurt,gc,Movistar Team,1.UWT,,0,0,,0.0,,,280.0
+2024-02-10,2024,figueira-champions-classic,gc,Movistar Team,1.Pro,,0,0,,0.0,,,83.0
+2024-03-24,2024,gent-wevelgem,gc,Movistar Team,1.UWT,,,1,,0.0,,,3.0
+2024-05-04,2024,giro-d-italia,gc,Movistar Team,2.UWT,137.0,0.0,1,,440.0,0.0,0.0,1455.0
+2024-05-04,2024,giro-d-italia,kom,Movistar Team,2.UWT,,,1,,440.0,0.0,0.0,1455.0
+2024-05-04,2024,giro-d-italia,points,Movistar Team,2.UWT,11.0,0.0,1,,440.0,0.0,0.0,1455.0
+2024-10-16,2024,giro-del-veneto,gc,Movistar Team,1.Pro,,0,0,,0.0,,,35.0
+2024-10-05,2024,giro-dell-emilia,gc,Movistar Team,1.Pro,,0,0,,0.0,,,60.0
+2024-09-11,2024,giro-di-toscana,gc,Movistar Team,1.1,,0,0,,0.0,,,35.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Movistar Team,1.Pro,,0,0,,0.0,,,180.0
+2024-01-20,2024,gp-de-valence,gc,Movistar Team,1.1,,0,0,,0.0,,,100.0
+2024-09-18,2024,gp-de-wallonie,gc,Movistar Team,1.Pro,,0,0,,0.0,,,160.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Movistar Team,1.Pro,,0,0,,0.0,,,38.0
+2024-09-08,2024,gp-industria-artigianato,gc,Movistar Team,1.Pro,,0,0,,0.0,,,110.0
+2024-09-15,2024,gp-montreal,gc,Movistar Team,1.UWT,,0,0,,0.0,,,48.0
+2024-09-13,2024,gp-quebec,gc,Movistar Team,1.UWT,,0,0,,0.0,,,81.0
+2024-02-22,2024,gran-camino,gc,Movistar Team,2.1,,0,0,,41.0,,,46.0
+2024-10-10,2024,gran-piemonte,gc,Movistar Team,1.Pro,,0,0,,0.0,,,130.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Movistar Team,1.Pro,,0,0,,0.0,,,15.0
+2024-10-12,2024,il-lombardia,gc,Movistar Team,1.UWT,,0,0,,0.0,,,425.0
+2024-04-01,2024,itzulia-basque-country,gc,Movistar Team,2.UWT,,0,0,,48.0,,,109.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Movistar Team,1.1,,0,0,,0.0,,,15.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Movistar Team,1.Pro,,0,0,,0.0,,,158.0
+2024-04-17,2024,la-fleche-wallonne,gc,Movistar Team,1.UWT,,0,0,,0.0,,,24.0
+2024-04-21,2024,liege-bastogne-liege,gc,Movistar Team,1.UWT,,0,0,,0.0,,,80.0
+2024-09-14,2024,memorial-marco-pantani,gc,Movistar Team,1.1,,0,0,,0.0,,,85.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,Movistar Team,1.1,,0,0,,0.0,,,123.0
+2024-03-16,2024,milano-sanremo,gc,Movistar Team,1.UWT,,0,0,,0.0,,,60.0
+2024-03-13,2024,milano-torino,gc,Movistar Team,1.Pro,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-austria2,gc,Movistar Team,NC,,0,0,,0.0,,,75.0
+2024-01-28,2024,nc-colombia,gc,Movistar Team,NC,,0,0,,0.0,,,5.0
+2024-01-25,2024,nc-colombia-itt,gc,Movistar Team,NC,,0,0,,0.0,,,18.0
+2024-06-21,2024,nc-denmark-itt,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-france,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-france-itt,gc,Movistar Team,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-italy,gc,Movistar Team,NC,,0,0,,0.0,,,40.0
+2024-06-20,2024,nc-italy-itt,gc,Movistar Team,NC,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-spain,gc,Movistar Team,NC,,0,0,,0.0,,,225.0
+2024-06-21,2024,nc-spain-itt,gc,Movistar Team,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-switserland,gc,Movistar Team,NC,,0,0,,0.0,,,20.0
+2024-06-20,2024,nc-switzerland-itt,gc,Movistar Team,NC,,0,0,,0.0,,,1.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Movistar Team,1.UWT,,0,0,,0.0,,,37.0
+2024-03-03,2024,paris-nice,gc,Movistar Team,2.UWT,,0,0,,68.0,,,43.0
+2024-04-07,2024,paris-roubaix,gc,Movistar Team,1.UWT,,0,0,,0.0,,,15.0
+2024-07-25,2024,prueba-villafranca,gc,Movistar Team,1.1,,0,0,,0.0,,,58.0
+2024-08-28,2024,renewi-tour,gc,Movistar Team,2.UWT,,,1,,16.0,,,17.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Movistar Team,1.UWT,,0,0,,0.0,,,30.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Movistar Team,1.1,,0,0,,0.0,,,70.0
+2024-02-16,2024,ruta-del-sol,gc,Movistar Team,2.Pro,,0,0,,0.0,,,0.0
+2024-08-10,2024,san-sebastian,gc,Movistar Team,1.UWT,,0,0,,0.0,,,16.0
+2024-03-02,2024,strade-bianche,gc,Movistar Team,1.UWT,,0,0,,0.0,,,160.0
+2024-03-04,2024,tirreno-adriatico,gc,Movistar Team,2.UWT,,0,0,,123.0,,,161.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Movistar Team,2.UWT,,0,0,,180.0,,,255.0
+2024-06-29,2024,tour-de-france,gc,Movistar Team,2.UWT,,,1,,155.0,0.0,0.0,1055.0
+2024-06-29,2024,tour-de-france,kom,Movistar Team,2.UWT,,,1,,155.0,0.0,0.0,1055.0
+2024-06-29,2024,tour-de-france,points,Movistar Team,2.UWT,,,1,,155.0,0.0,0.0,1055.0
+2024-07-13,2024,tour-de-l-ain,gc,Movistar Team,2.1,,0,0,,35.0,,,35.0
+2024-09-18,2024,tour-de-luxembourg,gc,Movistar Team,2.Pro,,0,0,,20.0,,,5.0
+2024-08-12,2024,tour-de-pologne,gc,Movistar Team,2.UWT,,0,0,,70.0,,,55.0
+2024-04-23,2024,tour-de-romandie,gc,Movistar Team,2.UWT,,0,0,,210.0,,,270.0
+2024-06-09,2024,tour-de-suisse,gc,Movistar Team,2.UWT,,0,0,,245.0,,,302.0
+2024-07-22,2024,tour-de-wallonie,gc,Movistar Team,2.Pro,,0,0,,65.0,,,23.0
+2024-01-16,2024,tour-down-under,gc,Movistar Team,2.UWT,,0,0,,60.0,,,85.0
+2024-06-12,2024,tour-of-belgium,gc,Movistar Team,2.Pro,,0,0,,155.0,,,178.0
+2024-10-15,2024,tour-of-guangxi,gc,Movistar Team,2.UWT,,0,0,,19.0,,,38.0
+2024-04-15,2024,tour-of-the-alps,gc,Movistar Team,2.Pro,,0,0,,48.0,,,28.0
+2024-10-08,2024,tre-valli-varesine,gc,Movistar Team,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,Movistar Team,1.1,,0,0,,0.0,,,75.0
+2024-01-28,2024,trofeo-palma,gc,Movistar Team,1.1,,0,0,,0.0,,,0.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Movistar Team,1.1,,0,0,,0.0,,,128.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Movistar Team,1.1,,0,0,,0.0,,,43.0
+2024-02-19,2024,uae-tour,gc,Movistar Team,2.UWT,,,1,,48.0,,,66.0
+2024-10-20,2024,veneto-classic,gc,Movistar Team,1.Pro,,0,0,,0.0,,,13.0
+2024-03-18,2024,volta-a-catalunya,gc,Movistar Team,2.UWT,,0,0,,214.0,,,221.0
+2024-08-05,2024,vuelta-a-burgos,gc,Movistar Team,2.Pro,,0,0,,35.0,,,68.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Movistar Team,1.1,,0,0,,0.0,,,85.0
+2024-08-17,2024,vuelta-a-espana,gc,Movistar Team,2.UWT,,0,0,,805.0,0.0,0.0,1481.0
+2024-08-17,2024,vuelta-a-espana,kom,Movistar Team,2.UWT,,0,0,,805.0,0.0,0.0,1481.0
+2024-08-17,2024,vuelta-a-espana,points,Movistar Team,2.UWT,,0,0,,805.0,0.0,0.0,1481.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Movistar Team,2.Pro,,0,0,,45.0,,,75.0
+2024-04-26,2024,vuelta-asturias,gc,Movistar Team,2.1,76.0,0.0,1,,38.0,,,43.0
+2024-02-10,2024,vuelta-ciclista-a-la-region-de-murcia,gc,Movistar Team,1.1,,0,0,,0.0,,,6.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Movistar Team,2.Pro,75.0,0.0,1,,125.0,,,140.0
+2025-04-20,2025,amstel-gold-race,gc,Movistar Team,1.UWT,,0,0,,0.0,,,30.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Movistar Team,1.1,,0,0,,0.0,,,70.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Movistar Team,1.1,,0,0,,0.0,,,28.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Movistar Team,2.Pro,,0,0,,11.0,,,11.0
+2025-08-31,2025,bretagne-classic,gc,Movistar Team,1.UWT,,0,0,,0.0,,,-23.0
+2025-08-15,2025,circuit-franco-belge,gc,Movistar Team,1.Pro,,0,0,,0.0,,,30.0
+2025-08-03,2025,circuito-de-getxo,gc,Movistar Team,1.1,,0,0,,0.0,,,35.0
+2025-02-16,2025,clasica-de-almeria,gc,Movistar Team,1.Pro,,0,0,,0.0,,,58.0
+2025-02-17,2025,clasica-jaen-paraiso-interior,gc,Movistar Team,1.1,,0,0,,0.0,,,36.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,Movistar Team,1.1,,0,0,,0.0,,,36.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Movistar Team,1.UWT,,0,0,,0.0,,,14.0
+2025-05-13,2025,classique-dunkerque,gc,Movistar Team,1.Pro,,,1,,0.0,,,5.0
+2025-10-05,2025,coppa-agostoni,gc,Movistar Team,1.1,,0,0,,0.0,,,138.0
+2025-10-06,2025,coppa-bernocchi,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2025-08-17,2025,cyclassics-hamburg,gc,Movistar Team,1.UWT,,,1,,0.0,,,58.0
+2025-06-29,2025,danish-championships,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-01-31,2025,deia-trophy,gc,Movistar Team,1.1,,0,0,,0.0,,,63.0
+2025-08-20,2025,deutschland-tour,gc,Movistar Team,2.Pro,,0,0,,35.0,,,38.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Movistar Team,1.UWT,,0,0,,0.0,,,13.0
+2025-03-28,2025,e3-harelbeke,gc,Movistar Team,1.UWT,,0,0,,0.0,,,34.0
+2025-05-01,2025,eschborn-frankfurt,gc,Movistar Team,1.UWT,,0,0,,0.0,,,257.0
+2025-03-01,2025,faun-ardeche-classic,gc,Movistar Team,1.Pro,,0,0,,0.0,,,100.0
+2025-02-16,2025,figueira-champions-classic,gc,Movistar Team,1.Pro,,0,0,,0.0,,,53.0
+2025-03-30,2025,gent-wevelgem,gc,Movistar Team,1.UWT,,0,0,,0.0,,,50.0
+2025-05-09,2025,giro-d-italia,gc,Movistar Team,2.UWT,,0,0,,380.0,0.0,0.0,992.0
+2025-05-09,2025,giro-d-italia,kom,Movistar Team,2.UWT,,0,0,,380.0,0.0,0.0,992.0
+2025-05-09,2025,giro-d-italia,points,Movistar Team,2.UWT,,0,0,,380.0,0.0,0.0,992.0
+2025-10-04,2025,giro-dell-emilia,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2025-09-10,2025,giro-di-toscana,gc,Movistar Team,1.1,,0,0,,0.0,,,26.0
+2025-09-21,2025,gooikse-pijl,gc,Movistar Team,1.1,,,1,,0.0,,,3.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Movistar Team,1.Pro,,0,0,,0.0,,,28.0
+2025-05-10,2025,gp-de-plumelec,gc,Movistar Team,1.Pro,,,1,,0.0,,,38.0
+2025-01-26,2025,gp-de-valence,gc,Movistar Team,1.1,,0,0,,0.0,,,3.0
+2025-09-17,2025,gp-de-wallonie,gc,Movistar Team,1.Pro,,,1,,0.0,,,55.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Movistar Team,1.Pro,,,1,,0.0,,,3.0
+2025-09-07,2025,gp-industria-artigianato,gc,Movistar Team,1.Pro,,0,0,,0.0,,,8.0
+2025-09-14,2025,gp-montreal,gc,Movistar Team,1.UWT,,0,0,,0.0,,,10.0
+2025-09-12,2025,gp-quebec,gc,Movistar Team,1.UWT,,0,0,,0.0,,,5.0
+2025-02-26,2025,gran-camino,gc,Movistar Team,2.1,,0,0,,40.0,,,48.0
+2025-10-09,2025,gran-piemonte,gc,Movistar Team,1.Pro,,0,0,,0.0,,,40.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,Movistar Team,1.Pro,,0,0,,0.0,,,10.0
+2025-02-02,2025,great-ocean-road-race,gc,Movistar Team,1.UWT,,0,0,,0.0,,,218.0
+2025-10-11,2025,il-lombardia,gc,Movistar Team,1.UWT,,0,0,,0.0,,,125.0
+2025-04-07,2025,itzulia-basque-country,gc,Movistar Team,2.UWT,,0,0,,328.0,,,373.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Movistar Team,1.Pro,,0,0,,0.0,,,10.0
+2025-03-02,2025,la-drome-classic,gc,Movistar Team,1.Pro,,0,0,,0.0,,,6.0
+2025-04-23,2025,la-fleche-wallonne,gc,Movistar Team,1.UWT,,0,0,,0.0,,,36.0
+2025-04-27,2025,liege-bastogne-liege,gc,Movistar Team,1.UWT,,0,0,,0.0,,,20.0
+2025-09-13,2025,memorial-marco-pantani,gc,Movistar Team,1.1,,0,0,,0.0,,,126.0
+2025-03-22,2025,milano-sanremo,gc,Movistar Team,1.UWT,,0,0,,0.0,,,125.0
+2025-03-19,2025,milano-torino,gc,Movistar Team,1.Pro,,0,0,,0.0,,,88.0
+2025-02-07,2025,muscat-classic,gc,Movistar Team,1.1,,,1,,0.0,,,33.0
+2025-02-09,2025,nc-colombia,gc,Movistar Team,NC,,0,0,,0.0,,,50.0
+2025-01-31,2025,nc-ecuador-itt,gc,Movistar Team,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-eritrea,gc,Movistar Team,NC,,0,0,,0.0,,,60.0
+2025-06-29,2025,nc-germany,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-germany-itt,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-italy-itt,gc,Movistar Team,NC,,0,0,,0.0,,,6.0
+2025-06-29,2025,nc-spain,gc,Movistar Team,NC,,0,0,,0.0,,,100.0
+2025-06-27,2025,nc-spain-itt,gc,Movistar Team,NC,,0,0,,0.0,,,15.0
+2025-06-29,2025,nc-venezuela,gc,Movistar Team,NC,,0,0,,0.0,,,100.0
+2025-06-26,2025,nc-venezuela-itt,gc,Movistar Team,NC,,0,0,,0.0,,,50.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Movistar Team,1.UWT,,0,0,,0.0,,,0.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Movistar Team,1.1,,,1,,0.0,,,25.0
+2025-03-09,2025,paris-nice,gc,Movistar Team,2.UWT,,0,0,,133.0,,,158.0
+2025-04-13,2025,paris-roubaix,gc,Movistar Team,1.UWT,,0,0,,0.0,,,0.0
+2025-07-25,2025,prueba-villafranca,gc,Movistar Team,1.1,,0,0,,0.0,,,43.0
+2025-01-30,2025,race-torquay,gc,Movistar Team,1.1,,0,0,,0.0,,,83.0
+2025-08-20,2025,renewi-tour,gc,Movistar Team,2.UWT,89.0,0.0,1,,16.0,,,29.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Movistar Team,1.UWT,,0,0,,0.0,,,185.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Movistar Team,1.1,,0,0,,0.0,,,46.0
+2025-02-19,2025,ruta-del-sol,gc,Movistar Team,2.Pro,,0,0,,8.0,,,31.0
+2025-08-02,2025,san-sebastian,gc,Movistar Team,1.UWT,,0,0,,0.0,,,8.0
+2025-03-08,2025,strade-bianche,gc,Movistar Team,1.UWT,,0,0,,0.0,,,32.0
+2025-03-10,2025,tirreno-adriatico,gc,Movistar Team,2.UWT,,0,0,,50.0,,,58.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Movistar Team,2.UWT,,0,0,,190.0,,,275.0
+2025-07-05,2025,tour-de-france,gc,Movistar Team,2.UWT,,0,0,,115.0,0.0,0.0,475.0
+2025-07-05,2025,tour-de-france,kom,Movistar Team,2.UWT,,0,0,,115.0,0.0,0.0,475.0
+2025-07-05,2025,tour-de-france,points,Movistar Team,2.UWT,,0,0,,115.0,0.0,0.0,475.0
+2025-08-04,2025,tour-de-pologne,gc,Movistar Team,2.UWT,112.0,0.0,1,,40.0,,,56.0
+2025-04-29,2025,tour-de-romandie,gc,Movistar Team,2.UWT,,0,0,,100.0,,,128.0
+2025-06-15,2025,tour-de-suisse,gc,Movistar Team,2.UWT,,0,0,,180.0,,,198.0
+2025-07-26,2025,tour-de-wallonie,gc,Movistar Team,2.Pro,,0,0,,176.0,,,216.0
+2025-01-21,2025,tour-down-under,gc,Movistar Team,2.UWT,,0,0,,420.0,,,500.0
+2025-05-09,2025,tour-du-finistere,gc,Movistar Team,1.1,,,1,,0.0,,,28.0
+2025-06-18,2025,tour-of-belgium,gc,Movistar Team,2.Pro,109.0,0.0,1,,70.0,,,85.0
+2025-10-14,2025,tour-of-guangxi,gc,Movistar Team,2.UWT,97.0,0.0,1,,30.0,,,51.0
+2025-02-08,2025,tour-of-oman,gc,Movistar Team,2.Pro,,,1,,33.0,,,43.0
+2025-10-07,2025,tre-valli-varesine,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2025-05-11,2025,tro-bro-leon,gc,Movistar Team,1.Pro,,0,0,,0.0,,,11.0
+2025-01-29,2025,trofeo-calvia,gc,Movistar Team,1.1,,0,0,,0.0,,,40.0
+2025-09-14,2025,trofeo-matteotti,gc,Movistar Team,1.1,,0,0,,0.0,,,13.0
+2025-02-02,2025,trofeo-palma,gc,Movistar Team,1.1,,,1,,0.0,,,3.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Movistar Team,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Movistar Team,1.1,,,1,,0.0,,,50.0
+2025-02-17,2025,uae-tour,gc,Movistar Team,2.UWT,,,1,,295.0,,,351.0
+2025-03-24,2025,volta-a-catalunya,gc,Movistar Team,2.UWT,,0,0,,284.0,,,319.0
+2025-08-05,2025,vuelta-a-burgos,gc,Movistar Team,2.Pro,,0,0,,43.0,,,43.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Movistar Team,1.1,,0,0,,0.0,,,8.0
+2025-08-23,2025,vuelta-a-espana,gc,Movistar Team,2.UWT,,0,0,,40.0,0.0,0.0,962.0
+2025-08-23,2025,vuelta-a-espana,kom,Movistar Team,2.UWT,,0,0,,40.0,0.0,0.0,962.0
+2025-08-23,2025,vuelta-a-espana,points,Movistar Team,2.UWT,,0,0,,40.0,0.0,0.0,962.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Movistar Team,2.Pro,,0,0,,140.0,,,168.0
+2025-04-24,2025,vuelta-asturias,gc,Movistar Team,2.1,64.0,0.0,1,,48.0,,,65.0
+2025-02-15,2025,vuelta-ciclista-a-la-region-de-murcia,gc,Movistar Team,1.1,,0,0,,0.0,,,55.0

@@ -1,0 +1,88 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-07-19,2017,cascade-cycling-classic,gc,Team Ecuador,2.2,,0,0,,0.0,,,4.0
+2017-09-24,2017,nc-ecuador,gc,Team Ecuador,NC,,0,0,,0.0,,,20.0
+2017-09-23,2017,nc-ecuador-itt,gc,Team Ecuador,NC,,0,0,,0.0,,,0.0
+2017-05-07,2017,panamerican-championships,gc,Team Ecuador,CC,,0,0,,0.0,,,25.0
+2017-04-19,2017,tour-of-the-gila,gc,Team Ecuador,2.2,53.0,0.0,1,,0.0,,,0.0
+2017-10-23,2017,vuelta-a-guatemala,gc,Team Ecuador,2.2,24.0,0.0,1,,15.0,,,15.0
+2017-02-27,2017,vuelta-independencia-nacional,gc,Team Ecuador,2.2,10.0,3.0,1,,13.0,,,14.0
+2018-05-27,2018,juegos-suramericanos-itt,gc,Team Ecuador,JR,,0,0,,0.0,,,0.0
+2018-06-03,2018,juegos-suramericanos-road-race,gc,Team Ecuador,JR,,0,0,,0.0,,,0.0
+2018-07-18,2018,nc-ecuador,gc,Team Ecuador,NC,,,1,,0.0,,,55.0
+2018-07-17,2018,nc-ecuador-itt,gc,Team Ecuador,NC,,,1,,0.0,,,28.0
+2018-06-24,2018,nc-venezuela,gc,Team Ecuador,NC,,0,0,,0.0,,,0.0
+2018-05-03,2018,panamerican-champ-itt,gc,Team Ecuador,CC,,0,0,,0.0,,,0.0
+2018-05-06,2018,panamerican-championships,gc,Team Ecuador,CC,,0,0,,0.0,,,3.0
+2018-08-01,2018,volta-a-portugal,gc,Team Ecuador,2.1,33.0,0.0,1,,0.0,,,0.0
+2018-01-12,2018,vuelta-al-tachira,gc,Team Ecuador,2.2,,0,0,,0.0,,,3.0
+2018-07-05,2018,vuelta-ciclista-a-venezuela,gc,Team Ecuador,2.2,19.0,0.0,1,,25.0,,,33.0
+2019-06-23,2019,nc-ecuador,gc,Movistar Team Ecuador,NC,,0,0,,0.0,,,5.0
+2019-06-22,2019,nc-ecuador-itt,gc,Movistar Team Ecuador,NC,,0,0,,0.0,,,15.0
+2019-06-30,2019,nc-venezuela,gc,Movistar Team Ecuador,NC,,0,0,,0.0,,,5.0
+2019-06-28,2019,nc-venezuela-itt,gc,Movistar Team Ecuador,NC,,0,0,,0.0,,,3.0
+2019-01-11,2019,vuelta-al-tachira,gc,Movistar Team Ecuador,2.2,20.0,0.0,1,,10.0,,,10.0
+2019-07-09,2019,vuelta-ciclista-a-miranda,gc,Movistar Team Ecuador,2.2,1.0,40.0,1,,55.0,,,55.0
+2019-07-17,2019,vuelta-ciclista-a-venezuela,gc,Movistar Team Ecuador,2.2,6.0,10.0,1,,18.0,,,21.0
+2020-02-12,2020,colombia-21,gc,Ecuador,2.1,,0,0,,3.0,,,3.0
+2020-11-23,2020,vuelta-a-ecuador,gc,Ecuador,2.2,9.0,3.0,1,,43.0,,,56.0
+2020-09-27,2020,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,20.0
+2021-10-07,2021,circuit-des-ardennes,gc,Ecuador,2.2,,0,0,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Ecuador,Olympics,,0,0,,0.0,,,610.0
+2021-08-13,2021,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,3.0
+2021-08-15,2021,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,376.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Ecuador,2.2,,0,0,,0.0,,,0.0
+2021-12-08,2021,vuelta-a-ecuador,gc,Team Pichincha,2.2,1.0,40.0,1,,40.0,,,50.0
+2021-09-26,2021,world-championship,gc,Ecuador,WC,,,1,,0.0,,,0.0
+2022-06-24,2022,juegos-bolivarianos-me-itt,gc,Ecuador,JR,,0,0,,0.0,,,0.0
+2022-06-26,2022,juegos-bolivarianos-me-road-race,gc,Ecuador,JR,,0,0,,0.0,,,0.0
+2022-10-03,2022,juegos-suramericanos-itt,gc,Ecuador,1.2,,0,0,,0.0,,,20.0
+2022-10-05,2022,juegos-suramericanos-road-race,gc,Ecuador,1.2,,0,0,,0.0,,,5.0
+2022-02-13,2022,nc-colombia,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,0.0
+2022-02-20,2022,nc-ecuador,gc,Team Banco Guayaquil - Ecuador,NC,,,1,,0.0,,,159.0
+2022-02-18,2022,nc-ecuador-itt,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,50.0
+2022-05-12,2022,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,20.0
+2022-05-15,2022,panamerican-championships,gc,Ecuador,CC,,,1,,0.0,,,310.0
+2022-11-12,2022,vuelta-a-ecuador,gc,Team Banco Guayaquil - Ecuador,2.2,5.0,15.0,1,,58.0,,,74.0
+2022-04-07,2022,vuelta-a-formosa-internacional,gc,Team Banco Guayaquil - Ecuador,2.2,6.0,10.0,1,,10.0,,,10.0
+2022-10-23,2022,vuelta-a-guatemala,gc,Team Banco Guayaquil - Ecuador,2.2,4.0,20.0,1,,20.0,,,40.0
+2022-12-16,2022,vuelta-internacional-a-costa-rica,gc,Team Banco Guayaquil - Ecuador,2.2,19.0,0.0,1,,30.0,,,48.0
+2022-06-03,2022,vuelta-pilsen-a-colombia,gc,Team Banco Guayaquil - Ecuador,2.2,71.0,0.0,1,,3.0,,,10.0
+2022-09-25,2022,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,10.0
+2023-01-08,2023,nc-australia,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,0.0
+2023-02-05,2023,nc-colombia,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,0.0
+2023-02-12,2023,nc-ecuador,gc,Team Banco Guayaquil - Ecuador,NC,,,1,,0.0,,,55.0
+2023-02-11,2023,nc-ecuador-itt,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,18.0
+2023-10-29,2023,pan-american-games,gc,Ecuador,JC,,0,0,,0.0,,,330.0
+2023-10-22,2023,pan-american-games---tt,gc,Ecuador,JC,,0,0,,0.0,,,55.0
+2023-04-19,2023,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,10.0
+2023-04-23,2023,panamerican-championships,gc,Ecuador,CC,,,1,,0.0,,,120.0
+2023-05-04,2023,tour-de-catamarca-internacional,gc,Team Banco Guayaquil - Ecuador,2.2,22.0,0.0,1,,25.0,,,28.0
+2023-09-25,2023,vuelta-a-ecuador,gc,Team Banco Guayaquil - Ecuador,2.2,25.0,0.0,1,,85.0,,,102.0
+2023-05-11,2023,vuelta-a-formosa-internacional,gc,Team Banco Guayaquil - Ecuador,2.2,28.0,0.0,1,,0.0,,,1.0
+2023-11-17,2023,vuelta-a-guatemala,gc,Ecuador,2.2,,0,0,,25.0,,,30.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Team Banco Guayaquil - Ecuador,2.Pro,46.0,0.0,1,,0.0,,,-15.0
+2023-06-16,2023,vuelta-pilsen-a-colombia,gc,Team Banco Guayaquil - Ecuador,2.2,,0,0,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,0.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,Bialini Team Global,1.2,,0,0,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Ecuador,2.1,35.0,0.0,1,,0.0,,,0.0
+2024-06-26,2024,course-cycliste-de-solidarnosc,gc,Bialini Team Global,2.2,43.0,0.0,1,,0.0,,,0.0
+2024-08-04,2024,cupa-max-ausnit,gc,Bialini Team Global,1.2,,0,0,,0.0,,,0.0
+2024-05-19,2024,gp-gorenjska,gc,Bialini Team Global,1.2,,0,0,,0.0,,,0.0
+2024-04-05,2024,jamaica-international-cycling-classic,gc,Elevation Cycling Club,2.2,4.0,20.0,1,,30.0,,,31.0
+2024-06-30,2024,national-championships-trinidad-tobago-me-road-rac,gc,Elevation Cycling Club,NC,,0,0,,0.0,,,0.0
+2024-06-29,2024,nc-cyprus,gc,Bialini Team Global,NC,,0,0,,0.0,,,20.0
+2024-08-03,2024,olympic-games,gc,Ecuador,Olympics,,0,0,,0.0,,,15.0
+2024-05-23,2024,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,10.0
+2024-05-26,2024,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,45.0
+2024-05-11,2024,silesian-classic,gc,Bialini Team Global,1.2,,0,0,,0.0,,,0.0
+2024-06-12,2024,tour-de-kurpie,gc,Bialini Team Global,2.2,61.0,0.0,1,,0.0,,,0.0
+2024-05-30,2024,tour-of-malopolska,gc,Bialini Team Global,2.2,40.0,0.0,1,,0.0,,,0.0
+2024-08-07,2024,tour-of-szeklerland,gc,Bialini Team Global,2.2,,0,0,,0.0,,,0.0
+2024-07-21,2024,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Bialini Team Global,1.2,,,1,,0.0,,,0.0
+2024-07-07,2024,visegrad-4-bicycle-race-gp-slovakia,gc,Bialini Team Global,1.2,,,1,,0.0,,,0.0
+2024-11-11,2024,vuelta-a-ecuador,gc,Team Toscana,2.2,5.0,15.0,1,,18.0,,,25.0
+2024-09-29,2024,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,0.0
+2025-04-04,2025,jamaica-international-cycling-classic,gc,Tow by Us,2.2,7.0,5.0,1,,38.0,,,45.0
+2025-02-02,2025,nc-ecuador,gc,Liv / Giant Toscana Mitsubishi Team,NC,,,1,,0.0,,,40.0
+2025-01-31,2025,nc-ecuador-itt,gc,Liv / Giant Toscana Mitsubishi Team,NC,,,1,,0.0,,,15.0
+2025-12-12,2025,vuelta-internacional-a-costa-rica,gc,Liv / Giant Toscana Mitsubishi Team,2.2,31.0,0.0,1,,0.0,,,10.0

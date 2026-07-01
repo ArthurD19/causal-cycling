@@ -1,0 +1,54 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-09-11,2022,gp-de-la-somme,gc,USSA Pavilly Barentin,1.2,,,1,,0.0,,,0.0
+2022-03-21,2022,tour-de-normadie,gc,Comité Regional Normandie,2.2,56.0,0.0,1,,0.0,,,0.0
+2023-09-10,2023,gp-de-la-somme,gc,USSA Pavilly Barentin,1.2,,,1,,0.0,,,0.0
+2024-04-04,2024,circuit-des-ardennes,gc,Dinan Sport Cycling,2.2,,,1,,0.0,,,0.0
+2024-09-15,2024,gp-de-la-ville-de-nogent-sur-oise,gc,Dinan Sport Cycling,1.2,,,1,,0.0,,,0.0
+2024-08-25,2024,grand-prix-de-plouay,gc,Dinan Sport Cycling,1.2,,,1,,0.0,,,0.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Dinan Sport Cycling,2.2,53.0,0.0,1,,0.0,,,0.0
+2024-04-25,2024,le-tour-de-bretagne,gc,Dinan Sport Cycling,2.2,26.0,0.0,1,,0.0,,,0.0
+2024-06-20,2024,nc-france-itt,gc,Dinan Sport Cycling,NC,,0,0,,0.0,,,0.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,St Michel - Preference Home - Auber93,2.Pro,94.0,0.0,1,,30.0,,,30.0
+2025-05-08,2025,boucles-de-l-aulne,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,0.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,St Michel - Preference Home - Auber93,2.Pro,,0,0,,8.0,,,8.0
+2025-03-23,2025,cholet-pays-de-loire,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,28.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,20.0
+2025-02-21,2025,classic-var,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,3.0
+2025-01-24,2025,classica-camp-de-morvedre,gc,St Michel - Preference Home - Auber93,1.2,,,1,,0.0,,,33.0
+2025-05-13,2025,classique-dunkerque,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,0.0
+2025-02-05,2025,etoile-de-besseges,gc,St Michel - Preference Home - Auber93,2.1,,,1,,80.0,,,88.0
+2025-03-01,2025,faun-ardeche-classic,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,0.0
+2025-09-21,2025,gp-d-isbergues,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,6.0
+2025-02-02,2025,gp-d-ouverture,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,5.0
+2025-03-20,2025,gp-de-denain,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,75.0
+2025-09-14,2025,gp-de-fourmies,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,3.0
+2025-03-09,2025,gp-de-la-ville-de-lillers,gc,St Michel - Preference Home - Auber93,1.2,,0,0,,0.0,,,3.0
+2025-05-10,2025,gp-de-plumelec,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,33.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,3.0
+2025-03-02,2025,la-drome-classic,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,5.0
+2025-08-17,2025,la-poly-normande,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,63.0
+2025-03-30,2025,la-roue-tourangelle,gc,St Michel - Preference Home - Auber93,1.1,,0,0,,0.0,,,30.0
+2025-06-18,2025,la-route-d-occitanie,gc,St Michel - Preference Home - Auber93,2.1,103.0,0.0,1,,0.0,,,0.0
+2025-03-08,2025,le-tour-des-100-communes,gc,St Michel - Preference Home - Auber93,1.2,,0,0,,0.0,,,25.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-france,gc,St Michel - Preference Home - Auber93,NC,,,1,,0.0,,,0.0
+2025-06-26,2025,nc-france-itt,gc,St Michel - Preference Home - Auber93,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-ireland,gc,St Michel - Preference Home - Auber93,NC,,0,0,,0.0,,,0.0
+2025-04-02,2025,paris-camembert,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,10.0
+2025-09-28,2025,paris-chauny-classique,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,0.0
+2025-10-12,2025,paris-tours,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,5.0
+2025-04-08,2025,region-pays-de-la-loire,gc,St Michel - Preference Home - Auber93,2.1,,0,0,,23.0,,,26.0
+2025-04-04,2025,route-adelie-de-vitre,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,3.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,St Michel - Preference Home - Auber93,1.1,,0,0,,0.0,,,0.0
+2025-07-31,2025,tour-alsace,gc,St Michel - Preference Home - Auber93,2.2,,0,0,,15.0,,,15.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,St Michel - Preference Home - Auber93,2.1,,0,0,,5.0,,,5.0
+2025-08-06,2025,tour-de-l-ain,gc,St Michel - Preference Home - Auber93,2.1,41.0,0.0,1,,6.0,,,6.0
+2025-09-26,2025,tour-de-la-mirabelle,gc,St Michel - Preference Home - Auber93,1.2,,,1,,0.0,,,55.0
+2025-10-11,2025,tour-de-vendee,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,0.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,St Michel - Preference Home - Auber93,2.1,71.0,0.0,1,,0.0,,,0.0
+2025-04-20,2025,tour-du-doubs,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,-12.0
+2025-05-09,2025,tour-du-finistere,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,0.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,St Michel - Preference Home - Auber93,1.1,,,1,,0.0,,,33.0
+2025-08-19,2025,tour-du-limousin,gc,St Michel - Preference Home - Auber93,2.1,32.0,0.0,1,,20.0,,,20.0
+2025-08-26,2025,tour-du-poitou-charentes-et-de-la-vienne,gc,St Michel - Preference Home - Auber93,2.1,,0,0,,30.0,,,30.0
+2025-05-11,2025,tro-bro-leon,gc,St Michel - Preference Home - Auber93,1.Pro,,,1,,0.0,,,8.0

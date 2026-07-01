@@ -1,0 +1,34 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-08-23,2018,baltic-chain-tour,gc,Top Team Cycling,2.2,77.0,0.0,1,,0.0,,,0.0
+2020-08-13,2020,baltic-chain-tour,gc,Memel Cycling Team,2.2,43.0,0.0,1,,15.0,,,18.0
+2021-08-20,2021,baltic-chain-tour,gc,Memel Cycling Team,2.2,37.0,0.0,1,,0.0,,,0.0
+2021-08-20,2021,baltic-chain-tour,gc,Lithuania,2.2,,0,0,,15.0,,,16.0
+2021-07-24,2021,olympic-games,gc,Lithuania,Olympics,,0,0,,0.0,,,0.0
+2021-05-28,2021,tour-of-estonia,gc,Lithuania,2.1,30.0,0.0,1,,23.0,,,23.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Lithuania,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Lithuania,CC,,,1,,0.0,,,0.0
+2021-09-26,2021,world-championship,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2021-09-19,2021,world-championship-itt,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2022-05-22,2022,albani-classic-fyen-rundt,gc,Voltas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-08-18,2022,baltic-chain-tour,gc,Voltas Cycling Team,2.2,,,1,,0.0,,,0.0
+2022-07-27,2022,dookola-mazowsza,gc,Voltas Cycling Team,2.2,,0,0,,0.0,,,0.0
+2022-05-21,2022,gp-herning,gc,Voltas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-04-29,2022,grand-prix-nasielsk-serock,gc,Voltas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-04-30,2022,grand-prix-wyszkow,gc,Voltas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-07-26,2022,memorial-andrzeja-trochanowskiego,gc,Voltas Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-lithuania,gc,Voltas Cycling Team,NC,,,1,,0.0,,,40.0
+2022-06-22,2022,nc-lithuania-itt,gc,Voltas Cycling Team,NC,,0,0,,0.0,,,15.0
+2022-07-31,2022,puchar-ministra-obrony-narodowej,gc,Voltas Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-03-20,2022,rhodes-gp,gc,Voltas Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-05-26,2022,tour-of-estonia,gc,Voltas Cycling Team,2.1,60.0,0.0,1,,0.0,,,0.0
+2022-03-24,2022,tour-of-rhodes,gc,Voltas Cycling Team,2.2,90.0,0.0,1,,0.0,,,0.0
+2023-08-18,2023,baltic-chain-tour,gc,Voltas - Madaris Cycling Team,2.2,18.0,0.0,1,,0.0,,,0.0
+2023-05-13,2023,gp-herning,gc,Voltas - Madaris Cycling Team,1.2,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-latvia,gc,Voltas - Madaris Cycling Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-lithuania,gc,Voltas - Madaris Cycling Team,NC,,0,0,,0.0,,,83.0
+2023-06-22,2023,nc-lithuania-itt,gc,Voltas - Madaris Cycling Team,NC,,0,0,,0.0,,,48.0
+2023-05-26,2023,tour-of-estonia,gc,Voltas - Madaris Cycling Team,2.1,,,1,,0.0,,,0.0
+2024-06-05,2024,tour-of-lithuania,gc,Top Team,2.2,45.0,0.0,1,,0.0,,,0.0
+2025-06-29,2025,nc-lithuania,gc,Top Team,NC,,0,0,,0.0,,,0.0
+2025-06-21,2025,nc-lithuania-itt,gc,Top Team,NC,,0,0,,0.0,,,10.0
+2025-06-04,2025,tour-of-lithuania,gc,Top Team,2.2,,,1,,0.0,,,0.0

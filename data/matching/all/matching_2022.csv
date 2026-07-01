@@ -1,0 +1,1025 @@
+jour,mois,annee,stage,nom_pcs,categorie,fichier_gpx,fichier_pcs,score,statut
+5,1,2022,stage_1,new-zealand-cycle-classic,2.2,2022 New Zealand Cycle Classic Stage 1.gpx,05_January_2022__stage_1__new-zealand-cycle-classic_2022__2.2.csv,100.0,match
+6,1,2022,stage_2,new-zealand-cycle-classic,2.2,2022 New Zealand Cycle Classic Stage 2.gpx,06_January_2022__stage_2__new-zealand-cycle-classic_2022__2.2.csv,100.0,match
+7,1,2022,stage_3,new-zealand-cycle-classic,2.2,2022 New Zealand Cycle Classic Stage 3.gpx,07_January_2022__stage_3__new-zealand-cycle-classic_2022__2.2.csv,100.0,match
+8,1,2022,stage_4,new-zealand-cycle-classic,2.2,2022 New Zealand Cycle Classic Stage 4.gpx,08_January_2022__stage_4__new-zealand-cycle-classic_2022__2.2.csv,100.0,match
+9,1,2022,stage_5,new-zealand-cycle-classic,2.2,2022 New Zealand Cycle Classic Stage 5.gpx,09_January_2022__stage_5__new-zealand-cycle-classic_2022__2.2.csv,100.0,match
+12,1,2022,result,nc-australia-itt,NC,2022 Australian Road National Championships - ITT.gpx,12_January_2022__result__nc-australia-itt_2022__NC.csv,74.0,match
+16,1,2022,stage_1,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 1.gpx,16_January_2022__stage_1__vuelta-al-tachira_2022__2.2.csv,100.0,match
+16,1,2022,result,nc-australia,NC,2022 Australian Road National Championships.gpx,16_January_2022__result__nc-australia_2022__NC.csv,86.0,match
+17,1,2022,stage_2,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 2.gpx,17_January_2022__stage_2__vuelta-al-tachira_2022__2.2.csv,100.0,match
+18,1,2022,stage_3,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 3.gpx,18_January_2022__stage_3__vuelta-al-tachira_2022__2.2.csv,100.0,match
+19,1,2022,stage_4,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 4.gpx,19_January_2022__stage_4__vuelta-al-tachira_2022__2.2.csv,100.0,match
+20,1,2022,stage_5,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 5.gpx,20_January_2022__stage_5__vuelta-al-tachira_2022__2.2.csv,100.0,match
+21,1,2022,stage_6,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 6.gpx,21_January_2022__stage_6__vuelta-al-tachira_2022__2.2.csv,100.0,match
+22,1,2022,stage_7,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 7.gpx,22_January_2022__stage_7__vuelta-al-tachira_2022__2.2.csv,100.0,match
+23,1,2022,result,gp-de-valence,1.2,2022 Classica Comunitat Valenciana 1969 - Gran Premi Valencia.gpx,23_January_2022__result__gp-de-valence_2022__1.2.csv,100.0,match
+23,1,2022,stage_8,vuelta-al-tachira,2.2,2022 Vuelta al Tachira en Bicicleta Stage 8.gpx,23_January_2022__stage_8__vuelta-al-tachira_2022__2.2.csv,100.0,match
+26,1,2022,result,trofeo-calvia,1.1,2022 Trofeo Calvia.gpx,26_January_2022__result__trofeo-calvia_2022__1.1.csv,100.0,match
+27,1,2022,result,challenge-mallorca-trofeo-pollenca-alcudia,1.1,2022 Trofeo Alcudia - Port d'Alcudia.gpx,27_January_2022__result__challenge-mallorca-trofeo-pollenca-alcudia_2022__1.1.csv,69.0,match
+28,1,2022,stage_1,tour-of-sharjah,2.2,2022 Tour of Sharjah Stage 1.gpx,28_January_2022__stage_1__tour-of-sharjah_2022__2.2.csv,100.0,match
+28,1,2022,result,deia-trophy,1.1,2022 Trofeo Serra de Tramuntana (Lloseta).gpx,28_January_2022__result__deia-trophy_2022__1.1.csv,87.0,match
+29,1,2022,stage_2,tour-of-sharjah,2.2,2022 Tour of Sharjah Stage 2.gpx,29_January_2022__stage_2__tour-of-sharjah_2022__2.2.csv,100.0,match
+29,1,2022,result,trofeo-pollenca-port-d-andratx,1.1,2022 Trofeo Pollenca - Port d'Andratx.gpx,29_January_2022__result__trofeo-pollenca-port-d-andratx_2022__1.1.csv,64.0,match
+30,1,2022,result,gp-d-ouverture,1.1,2022 Grand Prix Cycliste de Marseille La Marseillaise.gpx,30_January_2022__result__gp-d-ouverture_2022__1.1.csv,100.0,match
+30,1,2022,result,trofeo-palma,1.1,2022 Trofeo Playa de Palma - Palma.gpx,30_January_2022__result__trofeo-palma_2022__1.1.csv,91.0,match
+30,1,2022,result,grand-prix-megasaray,1.2,2022 Grand Prix Megasaray.gpx,30_January_2022__result__grand-prix-megasaray_2022__1.2.csv,100.0,match
+30,1,2022,stage_3,tour-of-sharjah,2.2,2022 Tour of Sharjah Stage 3.gpx,30_January_2022__stage_3__tour-of-sharjah_2022__2.2.csv,100.0,match
+31,1,2022,stage_4,tour-of-sharjah,2.2,2022 Tour of Sharjah Stage 4.gpx,31_January_2022__stage_4__tour-of-sharjah_2022__2.2.csv,100.0,match
+1,2,2022,stage_5,tour-of-sharjah,2.2,2022 Tour of Sharjah Stage 5.gpx,01_February_2022__stage_5__tour-of-sharjah_2022__2.2.csv,100.0,match
+1,2,2022,stage_1,alula-tour,2.1,2022 Saudi Tour Stage 1.gpx,01_February_2022__stage_1__alula-tour_2022__2.1.csv,100.0,match
+2,2,2022,stage_1,vuelta-a-la-comunidad-valenciana,2.Pro,2022 Volta a la Comunitat Valenciana Stage 1.gpx,02_February_2022__stage_1__vuelta-a-la-comunidad-valenciana_2022__2.Pro.csv,90.0,match
+2,2,2022,stage_1,etoile-de-besseges,2.1,2022 Etoile de Besseges - Tour du Gard Stage 1.gpx,02_February_2022__stage_1__etoile-de-besseges_2022__2.1.csv,100.0,match
+2,2,2022,stage_2,alula-tour,2.1,2022 Saudi Tour Stage 2.gpx,02_February_2022__stage_2__alula-tour_2022__2.1.csv,100.0,match
+3,2,2022,stage_2,vuelta-a-la-comunidad-valenciana,2.Pro,2022 Volta a la Comunitat Valenciana Stage 2.gpx,03_February_2022__stage_2__vuelta-a-la-comunidad-valenciana_2022__2.Pro.csv,90.0,match
+3,2,2022,stage_2,etoile-de-besseges,2.1,2022 Etoile de Besseges - Tour du Gard Stage 2.gpx,03_February_2022__stage_2__etoile-de-besseges_2022__2.1.csv,100.0,match
+3,2,2022,stage_3,alula-tour,2.1,2022 Saudi Tour Stage 3.gpx,03_February_2022__stage_3__alula-tour_2022__2.1.csv,100.0,match
+4,2,2022,stage_4,alula-tour,2.1,2022 Saudi Tour Stage 4.gpx,04_February_2022__stage_4__alula-tour_2022__2.1.csv,100.0,match
+4,2,2022,stage_3,vuelta-a-la-comunidad-valenciana,2.Pro,2022 Volta a la Comunitat Valenciana Stage 3.gpx,04_February_2022__stage_3__vuelta-a-la-comunidad-valenciana_2022__2.Pro.csv,90.0,match
+4,2,2022,stage_3,etoile-de-besseges,2.1,2022 Etoile de Besseges - Tour du Gard Stage 3.gpx,04_February_2022__stage_3__etoile-de-besseges_2022__2.1.csv,100.0,match
+4,2,2022,result,nc-namibia-itt,NC,,04_February_2022__result__nc-namibia-itt_2022__NC.csv,,pcs_only
+5,2,2022,stage_5,alula-tour,2.1,2022 Saudi Tour Stage 5.gpx,05_February_2022__stage_5__alula-tour_2022__2.1.csv,100.0,match
+5,2,2022,stage_4,etoile-de-besseges,2.1,2022 Etoile de Besseges - Tour du Gard Stage 4.gpx,05_February_2022__stage_4__etoile-de-besseges_2022__2.1.csv,100.0,match
+5,2,2022,stage_4,vuelta-a-la-comunidad-valenciana,2.Pro,2022 Volta a la Comunitat Valenciana Stage 4.gpx,05_February_2022__stage_4__vuelta-a-la-comunidad-valenciana_2022__2.Pro.csv,90.0,match
+5,2,2022,result,grand-prix-alanya,1.2,2022 Grand Prix Alanya.gpx,05_February_2022__result__grand-prix-alanya_2022__1.2.csv,100.0,match
+6,2,2022,stage_5,vuelta-a-la-comunidad-valenciana,2.Pro,2022 Volta a la Comunitat Valenciana Stage 5.gpx,06_February_2022__stage_5__vuelta-a-la-comunidad-valenciana_2022__2.Pro.csv,90.0,match
+6,2,2022,stage_5,etoile-de-besseges,2.1,2022 Etoile de Besseges - Tour du Gard Stage 5.gpx,06_February_2022__stage_5__etoile-de-besseges_2022__2.1.csv,100.0,match
+6,2,2022,result,nc-namibia,NC,,06_February_2022__result__nc-namibia_2022__NC.csv,,pcs_only
+9,2,2022,stage_1,vuelta-del-porvenir,2.2,2022 Vuelta del Porvenir San Luis Stage 1.gpx,09_February_2022__stage_1__vuelta-del-porvenir_2022__2.2.csv,100.0,match
+10,2,2022,prologue,tour-cycliste-international-la-provence,2.Pro,2022 Tour de la Provence Prologue.gpx,10_February_2022__Prologue__tour-cycliste-international-la-provence_2022__2.Pro.csv,100.0,match
+10,2,2022,stage_1,tour-of-oman,2.Pro,2022 Tour of Oman Stage 1.gpx,10_February_2022__stage_1__tour-of-oman_2022__2.Pro.csv,100.0,match
+10,2,2022,stage_1,tour-of-antalya,2.1,2022 Tour of Antalya Stage 1.gpx,10_February_2022__stage_1__tour-of-antalya_2022__2.1.csv,100.0,match
+10,2,2022,stage_2,vuelta-del-porvenir,2.2,2022 Vuelta del Porvenir San Luis Stage 2.gpx,10_February_2022__stage_2__vuelta-del-porvenir_2022__2.2.csv,100.0,match
+10,2,2022,result,nc-colombia-itt,NC,,10_February_2022__result__nc-colombia-itt_2022__NC.csv,,pcs_only
+11,2,2022,stage_3,vuelta-del-porvenir,2.2,2022 Vuelta del Porvenir San Luis Stage 3.gpx,11_February_2022__stage_3__vuelta-del-porvenir_2022__2.2.csv,100.0,match
+11,2,2022,result,nc-south-africa-itt,NC,2022 National Road Championships - South Africa - ITT.gpx,11_February_2022__result__nc-south-africa-itt_2022__NC.csv,94.0,match
+11,2,2022,result,nc-new-zealand-itt,NC,2022 National Road Championships - New Zealand - ITT.gpx,11_February_2022__result__nc-new-zealand-itt_2022__NC.csv,94.0,match
+11,2,2022,stage_1,tour-cycliste-international-la-provence,2.Pro,2022 Tour de la Provence Stage 1.gpx,11_February_2022__stage_1__tour-cycliste-international-la-provence_2022__2.Pro.csv,100.0,match
+11,2,2022,stage_2,tour-of-oman,2.Pro,2022 Tour of Oman Stage 2.gpx,11_February_2022__stage_2__tour-of-oman_2022__2.Pro.csv,100.0,match
+11,2,2022,stage_2,tour-of-antalya,2.1,2022 Tour of Antalya Stage 2.gpx,11_February_2022__stage_2__tour-of-antalya_2022__2.1.csv,100.0,match
+12,2,2022,stage_2,tour-cycliste-international-la-provence,2.Pro,2022 Tour de la Provence Stage 2.gpx,12_February_2022__stage_2__tour-cycliste-international-la-provence_2022__2.Pro.csv,100.0,match
+12,2,2022,stage_3,tour-of-oman,2.Pro,2022 Tour of Oman Stage 3.gpx,12_February_2022__stage_3__tour-of-oman_2022__2.Pro.csv,100.0,match
+12,2,2022,stage_3,tour-of-antalya,2.1,2022 Tour of Antalya Stage 3.gpx,12_February_2022__stage_3__tour-of-antalya_2022__2.1.csv,100.0,match
+12,2,2022,result,vuelta-ciclista-a-la-region-de-murcia,1.1,2022 Vuelta Ciclista a la Region de Murcia Costa Calida.gpx,12_February_2022__result__vuelta-ciclista-a-la-region-de-murcia_2022__1.1.csv,100.0,match
+12,2,2022,stage_4,vuelta-del-porvenir,2.2,2022 Vuelta del Porvenir San Luis Stage 4.gpx,12_February_2022__stage_4__vuelta-del-porvenir_2022__2.2.csv,100.0,match
+13,2,2022,result,clasica-de-almeria,1.Pro,2022 Clasica de Almeria.gpx,13_February_2022__result__clasica-de-almeria_2022__1.Pro.csv,100.0,match
+13,2,2022,result,nc-south-africa,NC,2022 National Road Championships - South Africa.gpx,13_February_2022__result__nc-south-africa_2022__NC.csv,93.0,match
+13,2,2022,result,nc-new-zealand,NC,2022 National Road Championships - New Zealand.gpx,13_February_2022__result__nc-new-zealand_2022__NC.csv,92.0,match
+13,2,2022,stage_3,tour-cycliste-international-la-provence,2.Pro,2022 Tour de la Provence Stage 3.gpx,13_February_2022__stage_3__tour-cycliste-international-la-provence_2022__2.Pro.csv,100.0,match
+13,2,2022,stage_4,tour-of-oman,2.Pro,2022 Tour of Oman Stage 4.gpx,13_February_2022__stage_4__tour-of-oman_2022__2.Pro.csv,100.0,match
+13,2,2022,stage_4,tour-of-antalya,2.1,2022 Tour of Antalya Stage 4.gpx,13_February_2022__stage_4__tour-of-antalya_2022__2.1.csv,100.0,match
+13,2,2022,stage_5,vuelta-del-porvenir,2.2,2022 Vuelta del Porvenir San Luis Stage 5.gpx,13_February_2022__stage_5__vuelta-del-porvenir_2022__2.2.csv,100.0,match
+13,2,2022,result,nc-colombia,NC,,13_February_2022__result__nc-colombia_2022__NC.csv,,pcs_only
+14,2,2022,stage_5,tour-of-oman,2.Pro,2022 Tour of Oman Stage 5.gpx,14_February_2022__stage_5__tour-of-oman_2022__2.Pro.csv,100.0,match
+14,2,2022,result,clasica-jaen-paraiso-interior,1.1,2022 Jaen Paraiso Interior.gpx,14_February_2022__result__clasica-jaen-paraiso-interior_2022__1.1.csv,100.0,match
+15,2,2022,stage_6,tour-of-oman,2.Pro,2022 Tour of Oman Stage 6.gpx,15_February_2022__stage_6__tour-of-oman_2022__2.Pro.csv,100.0,match
+16,2,2022,stage_1,ruta-del-sol,2.Pro,2022 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 1.gpx,16_February_2022__stage_1__ruta-del-sol_2022__2.Pro.csv,91.0,match
+16,2,2022,stage_1,volta-ao-algarve,2.Pro,2022 Volta ao Algarve em Bicicleta Stage 1.gpx,16_February_2022__stage_1__volta-ao-algarve_2022__2.Pro.csv,100.0,match
+17,2,2022,stage_2,ruta-del-sol,2.Pro,2022 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 2.gpx,17_February_2022__stage_2__ruta-del-sol_2022__2.Pro.csv,91.0,match
+17,2,2022,stage_2,volta-ao-algarve,2.Pro,2022 Volta ao Algarve em Bicicleta Stage 2.gpx,17_February_2022__stage_2__volta-ao-algarve_2022__2.Pro.csv,100.0,match
+18,2,2022,stage_3,volta-ao-algarve,2.Pro,2022 Volta ao Algarve em Bicicleta Stage 3.gpx,18_February_2022__stage_3__volta-ao-algarve_2022__2.Pro.csv,100.0,match
+18,2,2022,stage_3,ruta-del-sol,2.Pro,2022 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 3.gpx,18_February_2022__stage_3__ruta-del-sol_2022__2.Pro.csv,91.0,match
+18,2,2022,stage_1,tour-des-alpes-maritimes,2.1,2022 Tour des Alpes Maritimes et du Var Stage 1.gpx,18_February_2022__stage_1__tour-des-alpes-maritimes_2022__2.1.csv,100.0,match
+18,2,2022,result,nc-ecuador-itt,NC,2022 National Road Championships - Ecuador - ITT.gpx,18_February_2022__result__nc-ecuador-itt_2022__NC.csv,92.0,match
+19,2,2022,stage_4,ruta-del-sol,2.Pro,2022 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 4.gpx,19_February_2022__stage_4__ruta-del-sol_2022__2.Pro.csv,91.0,match
+19,2,2022,stage_4,volta-ao-algarve,2.Pro,2022 Volta ao Algarve em Bicicleta Stage 4.gpx,19_February_2022__stage_4__volta-ao-algarve_2022__2.Pro.csv,100.0,match
+19,2,2022,result,grand-prix-velo-alanya,1.2,2022 Grand Prix Velo Alanya.gpx,19_February_2022__result__grand-prix-velo-alanya_2022__1.2.csv,100.0,match
+19,2,2022,stage_2,tour-des-alpes-maritimes,2.1,2022 Tour des Alpes Maritimes et du Var Stage 2.gpx,19_February_2022__stage_2__tour-des-alpes-maritimes_2022__2.1.csv,100.0,match
+20,2,2022,stage_3,tour-des-alpes-maritimes,2.1,2022 Tour des Alpes Maritimes et du Var Stage 3.gpx,20_February_2022__stage_3__tour-des-alpes-maritimes_2022__2.1.csv,100.0,match
+20,2,2022,stage_5,ruta-del-sol,2.Pro,2022 Vuelta a Andalucia Ruta Ciclista Del Sol Stage 5.gpx,20_February_2022__stage_5__ruta-del-sol_2022__2.Pro.csv,91.0,match
+20,2,2022,stage_5,volta-ao-algarve,2.Pro,2022 Volta ao Algarve em Bicicleta Stage 5.gpx,20_February_2022__stage_5__volta-ao-algarve_2022__2.Pro.csv,100.0,match
+20,2,2022,result,grand-prix-justiniano-hotels,1.2,2022 Grand Prix Justiniano Race.gpx,20_February_2022__result__grand-prix-justiniano-hotels_2022__1.2.csv,92.0,match
+20,2,2022,stage_1,uae-tour,2.UWT,2022 UAE Tour Stage 1.gpx,20_February_2022__stage_1__uae-tour_2022__2.UWT.csv,100.0,match
+20,2,2022,result,nc-ecuador,NC,2022 National Road Championships - Ecuador.gpx,20_February_2022__result__nc-ecuador_2022__NC.csv,89.0,match
+20,2,2022,result,nc-uruguay,NC,,20_February_2022__result__nc-uruguay_2022__NC.csv,,pcs_only
+21,2,2022,stage_2,uae-tour,2.UWT,2022 UAE Tour Stage 2.gpx,21_February_2022__stage_2__uae-tour_2022__2.UWT.csv,100.0,match
+22,2,2022,stage_3,uae-tour,2.UWT,2022 UAE Tour Stage 3.gpx,22_February_2022__stage_3__uae-tour_2022__2.UWT.csv,100.0,match
+23,2,2022,stage_4,uae-tour,2.UWT,2022 UAE Tour Stage 4.gpx,23_February_2022__stage_4__uae-tour_2022__2.UWT.csv,100.0,match
+24,2,2022,stage_1,gran-camino,2.1,2022 Gran Camino Stage 1.gpx,24_February_2022__stage_1__gran-camino_2022__2.1.csv,100.0,match
+24,2,2022,stage_5,uae-tour,2.UWT,2022 UAE Tour Stage 5.gpx,24_February_2022__stage_5__uae-tour_2022__2.UWT.csv,100.0,match
+25,2,2022,stage_2,gran-camino,2.1,2022 Gran Camino Stage 2.gpx,25_February_2022__stage_2__gran-camino_2022__2.1.csv,100.0,match
+25,2,2022,stage_6,uae-tour,2.UWT,2022 UAE Tour Stage 6.gpx,25_February_2022__stage_6__uae-tour_2022__2.UWT.csv,100.0,match
+26,2,2022,result,faun-ardeche-classic,1.Pro,2022 Faun-Ardeche Classic.gpx,26_February_2022__result__faun-ardeche-classic_2022__1.Pro.csv,100.0,match
+26,2,2022,result,omloop-het-nieuwsblad,1.UWT,2022 Omloop Het Nieuwsblad Elite.gpx,26_February_2022__result__omloop-het-nieuwsblad_2022__1.UWT.csv,100.0,match
+26,2,2022,stage_3,gran-camino,2.1,2022 Gran Camino Stage 3.gpx,26_February_2022__stage_3__gran-camino_2022__2.1.csv,100.0,match
+26,2,2022,stage_7,uae-tour,2.UWT,2022 UAE Tour Stage 7.gpx,26_February_2022__stage_7__uae-tour_2022__2.UWT.csv,100.0,match
+27,2,2022,result,la-drome-classic,1.Pro,2022 Faun Drome Classic.gpx,27_February_2022__result__la-drome-classic_2022__1.Pro.csv,100.0,match
+27,2,2022,stage_4,gran-camino,2.1,2022 Gran Camino Stage 4.gpx,27_February_2022__stage_4__gran-camino_2022__2.1.csv,100.0,match
+27,2,2022,result,kuurne-brussel-kuurne,1.Pro,2022 Kuurne - Bruxelles - Kuurne.gpx,27_February_2022__result__kuurne-brussel-kuurne_2022__1.Pro.csv,81.0,match
+1,3,2022,result,gp-samyn,1.1,2022 Le Samyn.gpx,01_March_2022__result__gp-samyn_2022__1.1.csv,86.0,match
+2,3,2022,result,trofej-umag,1.2,2022 Trofej Umag - Umag Trophy.gpx,02_March_2022__result__trofej-umag_2022__1.2.csv,100.0,match
+2,3,2022,result,trofeo-laigueglia,1.Pro,2022 Trofeo Laigueglia.gpx,02_March_2022__result__trofeo-laigueglia_2022__1.Pro.csv,100.0,match
+4,3,2022,result,nc-united-arab-emirates-itt,NC,,04_March_2022__result__nc-united-arab-emirates-itt_2022__NC.csv,,pcs_only
+5,3,2022,result,strade-bianche,1.UWT,2022 Strade Bianche.gpx,05_March_2022__result__strade-bianche_2022__1.UWT.csv,100.0,match
+5,3,2022,result,grand-prix-gazipasa,1.2,2022 Grand Prix Gazipasa.gpx,05_March_2022__result__grand-prix-gazipasa_2022__1.2.csv,100.0,match
+6,3,2022,result,porec-trophy,1.2,2022 Trofej Porec - Porec Trophy.gpx,06_March_2022__result__porec-trophy_2022__1.2.csv,100.0,match
+6,3,2022,result,gp-de-la-ville-de-lillers,1.2,2022 Grand Prix de la Ville de Lillers Souvenir Bruno Comini.gpx,06_March_2022__result__gp-de-la-ville-de-lillers_2022__1.2.csv,92.0,match
+6,3,2022,result,grand-prix-mediterrennean,1.2,2022 Grand Prix Mediterrennean.gpx,06_March_2022__result__grand-prix-mediterrennean_2022__1.2.csv,100.0,match
+6,3,2022,result,grote-prijs-jean-pierre-monsere,1.1,2022 Grote prijs Jean - Pierre Monsere.gpx,06_March_2022__result__grote-prijs-jean-pierre-monsere_2022__1.1.csv,100.0,match
+6,3,2022,stage_1,paris-nice,2.UWT,2022 Paris-Nice Stage 1.gpx,06_March_2022__stage_1__paris-nice_2022__2.UWT.csv,100.0,match
+6,3,2022,result,elfsteden-race,1.2,2022 Bloeizone Elfsteden Fryslan.gpx,06_March_2022__result__elfsteden-race_2022__1.2.csv,79.0,match
+7,3,2022,stage_2,paris-nice,2.UWT,2022 Paris-Nice Stage 2.gpx,07_March_2022__stage_2__paris-nice_2022__2.UWT.csv,100.0,match
+7,3,2022,stage_1,tirreno-adriatico,2.UWT,2022 Tirreno-Adriatico Stage 1.gpx,07_March_2022__stage_1__tirreno-adriatico_2022__2.UWT.csv,100.0,match
+8,3,2022,stage_3,paris-nice,2.UWT,2022 Paris-Nice Stage 3.gpx,08_March_2022__stage_3__paris-nice_2022__2.UWT.csv,100.0,match
+8,3,2022,stage_2,tirreno-adriatico,2.UWT,2022 Tirreno-Adriatico Stage 2.gpx,08_March_2022__stage_2__tirreno-adriatico_2022__2.UWT.csv,100.0,match
+9,3,2022,stage_4,paris-nice,2.UWT,2022 Paris-Nice Stage 4.gpx,09_March_2022__stage_4__paris-nice_2022__2.UWT.csv,100.0,match
+9,3,2022,stage_3,tirreno-adriatico,2.UWT,2022 Tirreno-Adriatico Stage 3.gpx,09_March_2022__stage_3__tirreno-adriatico_2022__2.UWT.csv,100.0,match
+10,3,2022,prologue,istrian-spring-tour,2.2,2022 Istarsko Proljece - Istrian Spring Trophy Prologue.gpx,10_March_2022__Prologue__istrian-spring-tour_2022__2.2.csv,100.0,match
+10,3,2022,stage_5,paris-nice,2.UWT,2022 Paris-Nice Stage 5.gpx,10_March_2022__stage_5__paris-nice_2022__2.UWT.csv,100.0,match
+10,3,2022,stage_4,tirreno-adriatico,2.UWT,2022 Tirreno-Adriatico Stage 4.gpx,10_March_2022__stage_4__tirreno-adriatico_2022__2.UWT.csv,100.0,match
+11,3,2022,stage_6,paris-nice,2.UWT,2022 Paris-Nice Stage 6.gpx,11_March_2022__stage_6__paris-nice_2022__2.UWT.csv,100.0,match
+11,3,2022,stage_1,istrian-spring-tour,2.2,2022 Istarsko Proljece - Istrian Spring Trophy Stage 1.gpx,11_March_2022__stage_1__istrian-spring-tour_2022__2.2.csv,100.0,match
+11,3,2022,stage_5,tirreno-adriatico,2.UWT,2022 Tirreno-Adriatico Stage 5.gpx,11_March_2022__stage_5__tirreno-adriatico_2022__2.UWT.csv,100.0,match
+12,3,2022,stage_7,paris-nice,2.UWT,2022 Paris-Nice Stage 7.gpx,12_March_2022__stage_7__paris-nice_2022__2.UWT.csv,100.0,match
+12,3,2022,stage_2,istrian-spring-tour,2.2,2022 Istarsko Proljece - Istrian Spring Trophy Stage 2.gpx,12_March_2022__stage_2__istrian-spring-tour_2022__2.2.csv,100.0,match
+12,3,2022,stage_6,tirreno-adriatico,2.UWT,2022 Tirreno-Adriatico Stage 6.gpx,12_March_2022__stage_6__tirreno-adriatico_2022__2.UWT.csv,100.0,match
+12,3,2022,stage_1,south-aegean-tour,2.2,2022 South Aegean Tour Stage 1.gpx,12_March_2022__stage_1__south-aegean-tour_2022__2.2.csv,76.0,match
+12,3,2022,result,national-championships-qatar-road-race,NC,,12_March_2022__result__national-championships-qatar-road-race_2022__NC.csv,,pcs_only
+12,3,2022,result,nc-uruguay-itt,NC,,12_March_2022__result__nc-uruguay-itt_2022__NC.csv,,pcs_only
+12,3,2022,result,nc-united-arab-emirates,NC,,12_March_2022__result__nc-united-arab-emirates_2022__NC.csv,,pcs_only
+13,3,2022,stage_8,paris-nice,2.UWT,2022 Paris-Nice Stage 8.gpx,13_March_2022__stage_8__paris-nice_2022__2.UWT.csv,100.0,match
+13,3,2022,result,dorpenomloop-rucphen,1.2,2022 Dorpenomloop Rucphen.gpx,13_March_2022__result__dorpenomloop-rucphen_2022__1.2.csv,100.0,match
+13,3,2022,result,trofeu-da-arrabida,1.2,2022 Classica da Arrabida - Cyclin'Portugal.gpx,13_March_2022__result__trofeu-da-arrabida_2022__1.2.csv,100.0,match
+13,3,2022,result,ronde-van-drenthe,1.1,2022 Albert Achterhes Profronde van Drenthe.gpx,13_March_2022__result__ronde-van-drenthe_2022__1.1.csv,100.0,match
+13,3,2022,stage_3,istrian-spring-tour,2.2,2022 Istarsko Proljece - Istrian Spring Trophy Stage 3.gpx,13_March_2022__stage_3__istrian-spring-tour_2022__2.2.csv,100.0,match
+13,3,2022,stage_7,tirreno-adriatico,2.UWT,2022 Tirreno-Adriatico Stage 7.gpx,13_March_2022__stage_7__tirreno-adriatico_2022__2.UWT.csv,100.0,match
+13,3,2022,stage_2,south-aegean-tour,2.2,2022 South Aegean Tour Stage 2.gpx,13_March_2022__stage_2__south-aegean-tour_2022__2.2.csv,76.0,match
+16,3,2022,result,nokere-koerse,1.Pro,2022 Danilith Nokere Koerse.gpx,16_March_2022__result__nokere-koerse_2022__1.Pro.csv,100.0,match
+16,3,2022,result,milano-torino,1.Pro,2022 Milano - Torino.gpx,16_March_2022__result__milano-torino_2022__1.Pro.csv,100.0,match
+16,3,2022,stage_1,volta-ao-alentejo,2.2,2022 Volta ao Alentejo Stage 1.gpx,16_March_2022__stage_1__volta-ao-alentejo_2022__2.2.csv,100.0,match
+17,3,2022,stage_2,volta-ao-alentejo,2.2,2022 Volta ao Alentejo Stage 2.gpx,17_March_2022__stage_2__volta-ao-alentejo_2022__2.2.csv,100.0,match
+17,3,2022,result,gp-de-denain,1.Pro,2022 Grand Prix de Denain - Porte du Hainaut.gpx,17_March_2022__result__gp-de-denain_2022__1.Pro.csv,83.0,match
+18,3,2022,result,bredene-koksijde-classic,1.Pro,2022 Bredene Koksijde Classic.gpx,18_March_2022__result__bredene-koksijde-classic_2022__1.Pro.csv,100.0,match
+18,3,2022,stage_3,volta-ao-alentejo,2.2,2022 Volta ao Alentejo Stage 3.gpx,18_March_2022__stage_3__volta-ao-alentejo_2022__2.2.csv,100.0,match
+19,3,2022,result,milano-sanremo,1.UWT,2022 Milano-Sanremo.gpx,19_March_2022__result__milano-sanremo_2022__1.UWT.csv,100.0,match
+19,3,2022,result,classic-loire-atlantique,1.1,2022 Classic Loire Atlantique.gpx,19_March_2022__result__classic-loire-atlantique_2022__1.1.csv,100.0,match
+19,3,2022,result,grand-prix-manavgat-side,1.2,2022 Grand Prix Manavgat Side.gpx,19_March_2022__result__grand-prix-manavgat-side_2022__1.2.csv,100.0,match
+19,3,2022,stage_4,volta-ao-alentejo,2.2,2022 Volta ao Alentejo Stage 4.gpx,19_March_2022__stage_4__volta-ao-alentejo_2022__2.2.csv,100.0,match
+20,3,2022,result,popolarissima,1.2,2022 Popolarissima.gpx,20_March_2022__result__popolarissima_2022__1.2.csv,100.0,match
+20,3,2022,result,per-sempre-alfredo,1.1,2022 Per Sempre Alfredo.gpx,20_March_2022__result__per-sempre-alfredo_2022__1.1.csv,100.0,match
+20,3,2022,result,gp-izola-butan-plin,1.2,2022 GP Slovenian Istria.gpx,20_March_2022__result__gp-izola-butan-plin_2022__1.2.csv,100.0,match
+20,3,2022,result,rhodes-gp,1.2,2022 International Rhodes Grand Prix.gpx,20_March_2022__result__rhodes-gp_2022__1.2.csv,100.0,match
+20,3,2022,result,grand-prix-gundogmus-me,1.2,2022 Grand Prix Gundogmus.gpx,20_March_2022__result__grand-prix-gundogmus-me_2022__1.2.csv,100.0,match
+20,3,2022,result,grand-prix-criquielion,1.2,2022 Grand Prix Criquielion.gpx,20_March_2022__result__grand-prix-criquielion_2022__1.2.csv,100.0,match
+20,3,2022,stage_5,volta-ao-alentejo,2.2,2022 Volta ao Alentejo Stage 5.gpx,20_March_2022__stage_5__volta-ao-alentejo_2022__2.2.csv,100.0,match
+20,3,2022,result,cholet-pays-de-loire,1.1,2022 Cholet - Pays de la Loire.gpx,20_March_2022__result__cholet-pays-de-loire_2022__1.1.csv,62.0,match
+21,3,2022,stage_1,tour-de-normadie,2.2,2022 Tour de Normandie Stage 1.gpx,21_March_2022__stage_1__tour-de-normadie_2022__2.2.csv,94.0,match
+21,3,2022,stage_1,volta-a-catalunya,2.UWT,2022 Volta Ciclista a Catalunya Stage 1.gpx,21_March_2022__stage_1__volta-a-catalunya_2022__2.UWT.csv,100.0,match
+22,3,2022,stage_2,tour-de-normadie,2.2,2022 Tour de Normandie Stage 2.gpx,22_March_2022__stage_2__tour-de-normadie_2022__2.2.csv,94.0,match
+22,3,2022,stage_2,volta-a-catalunya,2.UWT,2022 Volta Ciclista a Catalunya Stage 2.gpx,22_March_2022__stage_2__volta-a-catalunya_2022__2.UWT.csv,100.0,match
+22,3,2022,stage_1,settimana-internazionale-coppi-e-bartali,2.1,2022 Settimana Internazionale Coppi e Bartali Stage 1.gpx,22_March_2022__stage_1__settimana-internazionale-coppi-e-bartali_2022__2.1.csv,100.0,match
+23,3,2022,stage_2,settimana-internazionale-coppi-e-bartali,2.1,2022 Settimana Internazionale Coppi e Bartali Stage 2.gpx,23_March_2022__stage_2__settimana-internazionale-coppi-e-bartali_2022__2.1.csv,100.0,match
+23,3,2022,stage_3,tour-de-normadie,2.2,2022 Tour de Normandie Stage 3.gpx,23_March_2022__stage_3__tour-de-normadie_2022__2.2.csv,94.0,match
+23,3,2022,stage_3,volta-a-catalunya,2.UWT,2022 Volta Ciclista a Catalunya Stage 3.gpx,23_March_2022__stage_3__volta-a-catalunya_2022__2.UWT.csv,100.0,match
+23,3,2022,result,classic-brugge-de-panne,1.UWT,2022 Minerva Classic Brugge-De Panne.gpx,23_March_2022__result__classic-brugge-de-panne_2022__1.UWT.csv,100.0,match
+23,3,2022,result,african-cycling-championships-ttt,CC,2022 CAC African Road Championships - TTT.gpx,23_March_2022__result__african-cycling-championships-ttt_2022__CC.csv,83.0,match
+24,3,2022,stage_4,tour-de-normadie,2.2,2022 Tour de Normandie Stage 4.gpx,24_March_2022__stage_4__tour-de-normadie_2022__2.2.csv,94.0,match
+24,3,2022,stage_4,volta-a-catalunya,2.UWT,2022 Volta Ciclista a Catalunya Stage 4.gpx,24_March_2022__stage_4__volta-a-catalunya_2022__2.UWT.csv,100.0,match
+24,3,2022,prologue,tour-of-rhodes,2.2,2022 International Tour of Rhodes Prologue.gpx,24_March_2022__Prologue__tour-of-rhodes_2022__2.2.csv,100.0,match
+24,3,2022,stage_3,settimana-internazionale-coppi-e-bartali,2.1,2022 Settimana Internazionale Coppi e Bartali Stage 3.gpx,24_March_2022__stage_3__settimana-internazionale-coppi-e-bartali_2022__2.1.csv,100.0,match
+24,3,2022,result,gp-goriska-vipava-valley,1.2,2022 GP Vipava Valley & Crossborder Goriska.gpx,24_March_2022__result__gp-goriska-vipava-valley_2022__1.2.csv,80.0,match
+24,3,2022,result,african-continental-championships-itt,CC,2022 CAC African Road Championships - ITT.gpx,24_March_2022__result__african-continental-championships-itt_2022__CC.csv,74.0,match
+25,3,2022,stage_4,settimana-internazionale-coppi-e-bartali,2.1,2022 Settimana Internazionale Coppi e Bartali Stage 4.gpx,25_March_2022__stage_4__settimana-internazionale-coppi-e-bartali_2022__2.1.csv,100.0,match
+25,3,2022,stage_1,tour-of-rhodes,2.2,2022 International Tour of Rhodes Stage 1.gpx,25_March_2022__stage_1__tour-of-rhodes_2022__2.2.csv,100.0,match
+25,3,2022,stage_5,volta-a-catalunya,2.UWT,2022 Volta Ciclista a Catalunya Stage 5.gpx,25_March_2022__stage_5__volta-a-catalunya_2022__2.UWT.csv,100.0,match
+25,3,2022,stage_5,tour-de-normadie,2.2,2022 Tour de Normandie Stage 5.gpx,25_March_2022__stage_5__tour-de-normadie_2022__2.2.csv,94.0,match
+25,3,2022,result,e3-harelbeke,1.UWT,2022 E3 Saxo Bank Classic.gpx,25_March_2022__result__e3-harelbeke_2022__1.UWT.csv,72.0,match
+25,3,2022,result,asian-continental-championships-ttt,CC,2022 Asian Road Cycling Championships - TTT.gpx,25_March_2022__result__asian-continental-championships-ttt_2022__CC.csv,74.0,match
+25,3,2022,result,nc-bolivia-itt,NC,,25_March_2022__result__nc-bolivia-itt_2022__NC.csv,,pcs_only
+26,3,2022,stage_6,tour-de-normadie,2.2,2022 Tour de Normandie Stage 6.gpx,26_March_2022__stage_6__tour-de-normadie_2022__2.2.csv,94.0,match
+26,3,2022,stage_6,volta-a-catalunya,2.UWT,2022 Volta Ciclista a Catalunya Stage 6.gpx,26_March_2022__stage_6__volta-a-catalunya_2022__2.UWT.csv,100.0,match
+26,3,2022,stage_5,settimana-internazionale-coppi-e-bartali,2.1,2022 Settimana Internazionale Coppi e Bartali Stage 5.gpx,26_March_2022__stage_5__settimana-internazionale-coppi-e-bartali_2022__2.1.csv,100.0,match
+26,3,2022,stage_2,tour-of-rhodes,2.2,2022 International Tour of Rhodes Stage 2.gpx,26_March_2022__stage_2__tour-of-rhodes_2022__2.2.csv,100.0,match
+26,3,2022,result,national-championships-bahrain-road-race,NC,,26_March_2022__result__national-championships-bahrain-road-race_2022__NC.csv,,pcs_only
+27,3,2022,result,gp-adria-mobil,1.2,2022 GP Adria Mobil.gpx,27_March_2022__result__gp-adria-mobil_2022__1.2.csv,100.0,match
+27,3,2022,result,la-roue-tourangelle,1.1,2022 La Roue Tourangelle Centre Val de Loire - Trophee Groupama Paris Val de Loire.gpx,27_March_2022__result__la-roue-tourangelle_2022__1.1.csv,100.0,match
+27,3,2022,result,gent-wevelgem,1.UWT,2022 Gent-Wevelgem in Flanders Fields.gpx,27_March_2022__result__gent-wevelgem_2022__1.UWT.csv,100.0,match
+27,3,2022,result,asian-cycling-championships-itt,CC,2022 Asian Road Cycling Championships - ITT.gpx,27_March_2022__result__asian-cycling-championships-itt_2022__CC.csv,92.0,match
+27,3,2022,result,gp-industria-artigianato,1.Pro,2022 GP Industria & Artigianato.gpx,27_March_2022__result__gp-industria-artigianato_2022__1.Pro.csv,100.0,match
+27,3,2022,stage_7,tour-de-normadie,2.2,2022 Tour de Normandie Stage 7.gpx,27_March_2022__stage_7__tour-de-normadie_2022__2.2.csv,94.0,match
+27,3,2022,stage_7,volta-a-catalunya,2.UWT,2022 Volta Ciclista a Catalunya Stage 7.gpx,27_March_2022__stage_7__volta-a-catalunya_2022__2.UWT.csv,100.0,match
+27,3,2022,stage_3,tour-of-rhodes,2.2,2022 International Tour of Rhodes Stage 3.gpx,27_March_2022__stage_3__tour-of-rhodes_2022__2.2.csv,100.0,match
+27,3,2022,result,african-championships,CC,2022 CAC African Road Championships.gpx,27_March_2022__result__african-championships_2022__CC.csv,82.0,match
+27,3,2022,result,nc-bolivia,NC,,27_March_2022__result__nc-bolivia_2022__NC.csv,,pcs_only
+29,3,2022,result,asian-championships-me,CC,2022 Asian Road Cycling Championships.gpx,29_March_2022__result__asian-championships-me_2022__CC.csv,82.0,match
+30,3,2022,result,dwars-door-vlaanderen,1.UWT,2022 Dwars door Vlaanderen - A travers la Flandre.gpx,30_March_2022__result__dwars-door-vlaanderen_2022__1.UWT.csv,100.0,match
+1,4,2022,result,route-adelie-de-vitre,1.1,2022 La Route Adelie de Vitre.gpx,01_April_2022__result__route-adelie-de-vitre_2022__1.1.csv,100.0,match
+1,4,2022,stage_1,tour-of-thailand,2.1,2022 The Princess Maha Chakri Sirindhorns Cup Tour of Thailand Stage 1.gpx,01_April_2022__stage_1__tour-of-thailand_2022__2.1.csv,100.0,match
+1,4,2022,result,nc-chile-itt,NC,,01_April_2022__result__nc-chile-itt_2022__NC.csv,,pcs_only
+2,4,2022,result,gran-premio-miguel-indurain,1.Pro,2022 Gran Premio Miguel Indurain.gpx,02_April_2022__result__gran-premio-miguel-indurain_2022__1.Pro.csv,100.0,match
+2,4,2022,result,volta-nxt-classic,1.1,2022 Volta Limburg Classic.gpx,02_April_2022__result__volta-nxt-classic_2022__1.1.csv,100.0,match
+2,4,2022,stage_2,tour-of-thailand,2.1,2022 The Princess Maha Chakri Sirindhorns Cup Tour of Thailand Stage 2.gpx,02_April_2022__stage_2__tour-of-thailand_2022__2.1.csv,100.0,match
+2,4,2022,result,nc-lesotho,NC,,02_April_2022__result__nc-lesotho_2022__NC.csv,,pcs_only
+3,4,2022,stage_3,tour-of-thailand,2.1,2022 The Princess Maha Chakri Sirindhorns Cup Tour of Thailand Stage 3.gpx,03_April_2022__stage_3__tour-of-thailand_2022__2.1.csv,100.0,match
+3,4,2022,result,ronde-van-vlaanderen,1.UWT,2022 Ronde van Vlaanderen - Tour des Flandres.gpx,03_April_2022__result__ronde-van-vlaanderen_2022__1.UWT.csv,100.0,match
+4,4,2022,stage_1,itzulia-basque-country,2.UWT,2022 Itzulia Basque Country Prologue.gpx,04_April_2022__stage_1__itzulia-basque-country_2022__2.UWT.csv,100.0,match
+4,4,2022,stage_4,tour-of-thailand,2.1,2022 The Princess Maha Chakri Sirindhorns Cup Tour of Thailand Stage 4.gpx,04_April_2022__stage_4__tour-of-thailand_2022__2.1.csv,100.0,match
+5,4,2022,stage_2,itzulia-basque-country,2.UWT,2022 Itzulia Basque Country Stage 1.gpx,05_April_2022__stage_2__itzulia-basque-country_2022__2.UWT.csv,100.0,match
+5,4,2022,stage_5,tour-of-thailand,2.1,2022 The Princess Maha Chakri Sirindhorns Cup Tour of Thailand Stage 5.gpx,05_April_2022__stage_5__tour-of-thailand_2022__2.1.csv,100.0,match
+5,4,2022,stage_1,region-pays-de-la-loire,2.1,2022 Circuit Cycliste Sarthe - Pays de la Loire Stage 1.gpx,05_April_2022__stage_1__region-pays-de-la-loire_2022__2.1.csv,100.0,match
+6,4,2022,stage_1,circuit-des-ardennes,2.2,2022 Circuit des Ardennes Stage 1.gpx,06_April_2022__stage_1__circuit-des-ardennes_2022__2.2.csv,100.0,match
+6,4,2022,stage_3,itzulia-basque-country,2.UWT,2022 Itzulia Basque Country Stage 2.gpx,06_April_2022__stage_3__itzulia-basque-country_2022__2.UWT.csv,100.0,match
+6,4,2022,result,scheldeprijs,1.Pro,2022 Scheldeprijs.gpx,06_April_2022__result__scheldeprijs_2022__1.Pro.csv,100.0,match
+6,4,2022,stage_6,tour-of-thailand,2.1,2022 The Princess Maha Chakri Sirindhorns Cup Tour of Thailand Stage 6.gpx,06_April_2022__stage_6__tour-of-thailand_2022__2.1.csv,100.0,match
+6,4,2022,stage_2,region-pays-de-la-loire,2.1,2022 Circuit Cycliste Sarthe - Pays de la Loire Stage 2.gpx,06_April_2022__stage_2__region-pays-de-la-loire_2022__2.1.csv,100.0,match
+7,4,2022,stage_4,itzulia-basque-country,2.UWT,2022 Itzulia Basque Country Stage 3.gpx,07_April_2022__stage_4__itzulia-basque-country_2022__2.UWT.csv,100.0,match
+7,4,2022,stage_1,vuelta-a-formosa-internacional,2.2,2022 Vuelta a Formosa Internacional Stage 1.gpx,07_April_2022__stage_1__vuelta-a-formosa-internacional_2022__2.2.csv,100.0,match
+7,4,2022,stage_3,region-pays-de-la-loire,2.1,2022 Circuit Cycliste Sarthe - Pays de la Loire Stage 3.gpx,07_April_2022__stage_3__region-pays-de-la-loire_2022__2.1.csv,100.0,match
+7,4,2022,stage_2,circuit-des-ardennes,2.2,2022 Circuit des Ardennes Stage 2.gpx,07_April_2022__stage_2__circuit-des-ardennes_2022__2.2.csv,100.0,match
+8,4,2022,stage_5,itzulia-basque-country,2.UWT,2022 Itzulia Basque Country Stage 4.gpx,08_April_2022__stage_5__itzulia-basque-country_2022__2.UWT.csv,100.0,match
+8,4,2022,stage_4,region-pays-de-la-loire,2.1,2022 Circuit Cycliste Sarthe - Pays de la Loire Stage 4.gpx,08_April_2022__stage_4__region-pays-de-la-loire_2022__2.1.csv,100.0,match
+8,4,2022,stage_3,circuit-des-ardennes,2.2,,08_April_2022__stage_3__circuit-des-ardennes_2022__2.2.csv,,pcs_only
+9,4,2022,stage_6,itzulia-basque-country,2.UWT,2022 Itzulia Basque Country Stage 5.gpx,09_April_2022__stage_6__itzulia-basque-country_2022__2.UWT.csv,100.0,match
+9,4,2022,result,oceania-continental-championships-itt,CC,2022 Oceania Road Championships - ITT.gpx,09_April_2022__result__oceania-continental-championships-itt_2022__CC.csv,79.0,match
+9,4,2022,stage_4,circuit-des-ardennes,2.2,,09_April_2022__stage_4__circuit-des-ardennes_2022__2.2.csv,,pcs_only
+10,4,2022,result,amstel-gold-race,1.UWT,2022 Amstel Gold Race.gpx,10_April_2022__result__amstel-gold-race_2022__1.UWT.csv,100.0,match
+10,4,2022,stage_1,tour-of-turkey,2.Pro,2022 Presidential Cycling Tour of Turkey Stage 1.gpx,10_April_2022__stage_1__tour-of-turkey_2022__2.Pro.csv,97.0,match
+10,4,2022,result,oceania-championships,CC,2022 Oceania Road Championships.gpx,10_April_2022__result__oceania-championships_2022__CC.csv,84.0,match
+11,4,2022,stage_2,tour-of-turkey,2.Pro,2022 Presidential Cycling Tour of Turkey Stage 2.gpx,11_April_2022__stage_2__tour-of-turkey_2022__2.Pro.csv,97.0,match
+12,4,2022,stage_1,giro-di-sicilia,2.1,2022 Giro di Sicilia - Tour of Sicily Stage 1.gpx,12_April_2022__stage_1__giro-di-sicilia_2022__2.1.csv,100.0,match
+12,4,2022,result,paris-camembert,1.1,2022 Paris - Camembert.gpx,12_April_2022__result__paris-camembert_2022__1.1.csv,100.0,match
+12,4,2022,stage_3,tour-of-turkey,2.Pro,2022 Presidential Cycling Tour of Turkey Stage 3.gpx,12_April_2022__stage_3__tour-of-turkey_2022__2.Pro.csv,97.0,match
+12,4,2022,result,national-championships-qatar-itt,NC,,12_April_2022__result__national-championships-qatar-itt_2022__NC.csv,,pcs_only
+13,4,2022,stage_1,tour-du-loir-et-cher,2.2,2022 Tour du Loir et Cher Stage 1.gpx,13_April_2022__stage_1__tour-du-loir-et-cher_2022__2.2.csv,100.0,match
+13,4,2022,result,brabantse-pijl,1.Pro,2022 De Brabantse Pijl - La Fleche Brabanconne.gpx,13_April_2022__result__brabantse-pijl_2022__1.Pro.csv,100.0,match
+13,4,2022,stage_4,tour-of-turkey,2.Pro,2022 Presidential Cycling Tour of Turkey Stage 4.gpx,13_April_2022__stage_4__tour-of-turkey_2022__2.Pro.csv,97.0,match
+13,4,2022,stage_2,giro-di-sicilia,2.1,2022 Giro di Sicilia - Tour of Sicily Stage 2.gpx,13_April_2022__stage_2__giro-di-sicilia_2022__2.1.csv,100.0,match
+13,4,2022,stage_1,banja-luka-belgrade-i,2.1,,13_April_2022__stage_1__banja-luka-belgrade-i_2022__2.1.csv,,pcs_only
+14,4,2022,stage_3,giro-di-sicilia,2.1,2022 Giro di Sicilia - Tour of Sicily Stage 3.gpx,14_April_2022__stage_3__giro-di-sicilia_2022__2.1.csv,100.0,match
+14,4,2022,stage_2,tour-du-loir-et-cher,2.2,2022 Tour du Loir et Cher Stage 2.gpx,14_April_2022__stage_2__tour-du-loir-et-cher_2022__2.2.csv,100.0,match
+14,4,2022,stage_5,tour-of-turkey,2.Pro,2022 Presidential Cycling Tour of Turkey Stage 5.gpx,14_April_2022__stage_5__tour-of-turkey_2022__2.Pro.csv,97.0,match
+14,4,2022,result,nc-argentina-itt,NC,,14_April_2022__result__nc-argentina-itt_2022__NC.csv,,pcs_only
+14,4,2022,stage_2,banja-luka-belgrade-i,2.1,,14_April_2022__stage_2__banja-luka-belgrade-i_2022__2.1.csv,,pcs_only
+15,4,2022,stage_4,giro-di-sicilia,2.1,2022 Giro di Sicilia - Tour of Sicily Stage 4.gpx,15_April_2022__stage_4__giro-di-sicilia_2022__2.1.csv,100.0,match
+15,4,2022,stage_3,tour-du-loir-et-cher,2.2,2022 Tour du Loir et Cher Stage 3.gpx,15_April_2022__stage_3__tour-du-loir-et-cher_2022__2.2.csv,100.0,match
+15,4,2022,result,classic-grand-besancon-doubs,1.1,2022 Classic Grand Besancon Doubs.gpx,15_April_2022__result__classic-grand-besancon-doubs_2022__1.1.csv,100.0,match
+15,4,2022,stage_6,tour-of-turkey,2.Pro,2022 Presidential Cycling Tour of Turkey Stage 6.gpx,15_April_2022__stage_6__tour-of-turkey_2022__2.Pro.csv,97.0,match
+15,4,2022,stage_3,banja-luka-belgrade-i,2.1,,15_April_2022__stage_3__banja-luka-belgrade-i_2022__2.1.csv,,pcs_only
+16,4,2022,result,arno-wallaard-memorial,1.2,2022 Arno Wallaard Memorial.gpx,16_April_2022__result__arno-wallaard-memorial_2022__1.2.csv,100.0,match
+16,4,2022,result,tour-du-jura-cycliste,1.1,2022 Tour du Jura Cycliste.gpx,16_April_2022__result__tour-du-jura-cycliste_2022__1.1.csv,100.0,match
+16,4,2022,stage_4,tour-du-loir-et-cher,2.2,2022 Tour du Loir et Cher Stage 4.gpx,16_April_2022__stage_4__tour-du-loir-et-cher_2022__2.2.csv,100.0,match
+16,4,2022,stage_7,tour-of-turkey,2.Pro,2022 Presidential Cycling Tour of Turkey Stage 7.gpx,16_April_2022__stage_7__tour-of-turkey_2022__2.Pro.csv,97.0,match
+16,4,2022,stage_4,banja-luka-belgrade-i,2.1,,16_April_2022__stage_4__banja-luka-belgrade-i_2022__2.1.csv,,pcs_only
+17,4,2022,stage_5,tour-du-loir-et-cher,2.2,2022 Tour du Loir et Cher Stage 5.gpx,17_April_2022__stage_5__tour-du-loir-et-cher_2022__2.2.csv,100.0,match
+17,4,2022,result,paris-roubaix,1.UWT,2022 Paris-Roubaix.gpx,17_April_2022__result__paris-roubaix_2022__1.UWT.csv,100.0,match
+17,4,2022,stage_5,banja-luka-belgrade-i,2.1,,17_April_2022__stage_5__banja-luka-belgrade-i_2022__2.1.csv,,pcs_only
+17,4,2022,stage_8,tour-of-turkey,2.Pro,,17_April_2022__stage_8__tour-of-turkey_2022__2.Pro.csv,,pcs_only
+17,4,2022,result,nc-argentina,NC,,17_April_2022__result__nc-argentina_2022__NC.csv,,pcs_only
+18,4,2022,stage_1,tour-of-the-alps,2.Pro,2022 Tour of the Alps Stage 1.gpx,18_April_2022__stage_1__tour-of-the-alps_2022__2.Pro.csv,100.0,match
+19,4,2022,stage_2,tour-of-the-alps,2.Pro,2022 Tour of the Alps Stage 2.gpx,19_April_2022__stage_2__tour-of-the-alps_2022__2.Pro.csv,100.0,match
+20,4,2022,stage_3,tour-of-the-alps,2.Pro,2022 Tour of the Alps Stage 3.gpx,20_April_2022__stage_3__tour-of-the-alps_2022__2.Pro.csv,100.0,match
+20,4,2022,result,la-fleche-wallonne,1.UWT,2022 La Fleche Wallonne.gpx,20_April_2022__result__la-fleche-wallonne_2022__1.UWT.csv,100.0,match
+21,4,2022,stage_4,tour-of-the-alps,2.Pro,2022 Tour of the Alps Stage 4.gpx,21_April_2022__stage_4__tour-of-the-alps_2022__2.Pro.csv,100.0,match
+22,4,2022,stage_5,tour-of-the-alps,2.Pro,2022 Tour of the Alps Stage 5.gpx,22_April_2022__stage_5__tour-of-the-alps_2022__2.Pro.csv,100.0,match
+24,4,2022,result,east-midlands-international-cicle-classic,1.2,2022 Rutland-Melton CiCLE Classic.gpx,24_April_2022__result__east-midlands-international-cicle-classic_2022__1.2.csv,100.0,match
+24,4,2022,result,liege-bastogne-liege,1.UWT,2022 Liege - Bastogne - Liege.gpx,24_April_2022__result__liege-bastogne-liege_2022__1.UWT.csv,100.0,match
+25,4,2022,stage_1,le-tour-de-bretagne,2.2,2022 Le Tour de Bretagne Cycliste Stage 1.gpx,25_April_2022__stage_1__le-tour-de-bretagne_2022__2.2.csv,100.0,match
+26,4,2022,stage_2,le-tour-de-bretagne,2.2,2022 Le Tour de Bretagne Cycliste Stage 2.gpx,26_April_2022__stage_2__le-tour-de-bretagne_2022__2.2.csv,100.0,match
+26,4,2022,prologue,tour-de-romandie,2.UWT,2022 Tour de Romandie Prologue.gpx,26_April_2022__Prologue__tour-de-romandie_2022__2.UWT.csv,100.0,match
+27,4,2022,stage_1,tour-de-romandie,2.UWT,2022 Tour de Romandie Stage 1.gpx,27_April_2022__stage_1__tour-de-romandie_2022__2.UWT.csv,100.0,match
+27,4,2022,stage_1,tour-of-the-gila,2.2,2022 Tour of the Gila Stage 1.gpx,27_April_2022__stage_1__tour-of-the-gila_2022__2.2.csv,100.0,match
+27,4,2022,stage_1,tour-of-hellas,2.1,2022 International Tour of Hellas Stage 1.gpx,27_April_2022__stage_1__tour-of-hellas_2022__2.1.csv,100.0,match
+27,4,2022,stage_3,le-tour-de-bretagne,2.2,2022 Le Tour de Bretagne Cycliste Stage 3.gpx,27_April_2022__stage_3__le-tour-de-bretagne_2022__2.2.csv,100.0,match
+28,4,2022,stage_2,tour-of-hellas,2.1,2022 International Tour of Hellas Stage 2.gpx,28_April_2022__stage_2__tour-of-hellas_2022__2.1.csv,100.0,match
+28,4,2022,stage_2,tour-of-the-gila,2.2,2022 Tour of the Gila Stage 2.gpx,28_April_2022__stage_2__tour-of-the-gila_2022__2.2.csv,100.0,match
+28,4,2022,stage_2,tour-de-romandie,2.UWT,2022 Tour de Romandie Stage 2.gpx,28_April_2022__stage_2__tour-de-romandie_2022__2.UWT.csv,100.0,match
+28,4,2022,stage_4,le-tour-de-bretagne,2.2,2022 Le Tour de Bretagne Cycliste Stage 4.gpx,28_April_2022__stage_4__le-tour-de-bretagne_2022__2.2.csv,100.0,match
+29,4,2022,stage_1,vuelta-asturias,2.1,2022 Vuelta Asturias Julio Alvarez Mendo Stage 1.gpx,29_April_2022__stage_1__vuelta-asturias_2022__2.1.csv,100.0,match
+29,4,2022,result,grand-prix-nasielsk-serock,1.2,2022 Grand Prix Nasielsk-Serock.gpx,29_April_2022__result__grand-prix-nasielsk-serock_2022__1.2.csv,100.0,match
+29,4,2022,stage_3,tour-of-hellas,2.1,2022 International Tour of Hellas Stage 3.gpx,29_April_2022__stage_3__tour-of-hellas_2022__2.1.csv,100.0,match
+29,4,2022,stage_3,tour-of-the-gila,2.2,2022 Tour of the Gila Stage 3.gpx,29_April_2022__stage_3__tour-of-the-gila_2022__2.2.csv,100.0,match
+29,4,2022,stage_3,tour-de-romandie,2.UWT,2022 Tour de Romandie Stage 3.gpx,29_April_2022__stage_3__tour-de-romandie_2022__2.UWT.csv,100.0,match
+29,4,2022,stage_5,le-tour-de-bretagne,2.2,2022 Le Tour de Bretagne Cycliste Stage 5.gpx,29_April_2022__stage_5__le-tour-de-bretagne_2022__2.2.csv,100.0,match
+30,4,2022,stage_4,tour-of-hellas,2.1,2022 International Tour of Hellas Stage 4.gpx,30_April_2022__stage_4__tour-of-hellas_2022__2.1.csv,100.0,match
+30,4,2022,stage_4,tour-de-romandie,2.UWT,2022 Tour de Romandie Stage 4.gpx,30_April_2022__stage_4__tour-de-romandie_2022__2.UWT.csv,100.0,match
+30,4,2022,stage_4,tour-of-the-gila,2.2,2022 Tour of the Gila Stage 4.gpx,30_April_2022__stage_4__tour-of-the-gila_2022__2.2.csv,100.0,match
+30,4,2022,stage_6,le-tour-de-bretagne,2.2,2022 Le Tour de Bretagne Cycliste Stage 6.gpx,30_April_2022__stage_6__le-tour-de-bretagne_2022__2.2.csv,100.0,match
+30,4,2022,result,zodc-zuidenveld-tour,1.2,2022 PWZ Zuidenveld Tour.gpx,30_April_2022__result__zodc-zuidenveld-tour_2022__1.2.csv,91.0,match
+30,4,2022,result,grand-prix-wyszkow,1.2,2022 Grand Prix Wyszkow.gpx,30_April_2022__result__grand-prix-wyszkow_2022__1.2.csv,100.0,match
+30,4,2022,stage_2,vuelta-asturias,2.1,2022 Vuelta Asturias Julio Alvarez Mendo Stage 2.gpx,30_April_2022__stage_2__vuelta-asturias_2022__2.1.csv,100.0,match
+1,5,2022,result,eschborn-frankfurt,1.UWT,2022 Eschborn-Frankfurt.gpx,01_May_2022__result__eschborn-frankfurt_2022__1.UWT.csv,100.0,match
+1,5,2022,result,circuito-del-porto-trofeo-arvedi,1.2,2022 Circuito del Porto - Trofeo Arvedi.gpx,01_May_2022__result__circuito-del-porto-trofeo-arvedi_2022__1.2.csv,100.0,match
+1,5,2022,stage_7,le-tour-de-bretagne,2.2,2022 Le Tour de Bretagne Cycliste Stage 7.gpx,01_May_2022__stage_7__le-tour-de-bretagne_2022__2.2.csv,100.0,match
+1,5,2022,stage_3,vuelta-asturias,2.1,2022 Vuelta Asturias Julio Alvarez Mendo Stage 3.gpx,01_May_2022__stage_3__vuelta-asturias_2022__2.1.csv,100.0,match
+1,5,2022,stage_5,tour-of-the-gila,2.2,2022 Tour of the Gila Stage 5.gpx,01_May_2022__stage_5__tour-of-the-gila_2022__2.2.csv,100.0,match
+1,5,2022,stage_5,tour-de-romandie,2.UWT,2022 Tour de Romandie Stage 5.gpx,01_May_2022__stage_5__tour-de-romandie_2022__2.UWT.csv,100.0,match
+1,5,2022,stage_5,tour-of-hellas,2.1,2022 International Tour of Hellas Stage 5.gpx,01_May_2022__stage_5__tour-of-hellas_2022__2.1.csv,100.0,match
+3,5,2022,stage_1,4-jours-de-dunkerque,2.Pro,2022 4 Jours de Dunkerque - Grand Prix des Hauts de France Stage 1.gpx,03_May_2022__stage_1__4-jours-de-dunkerque_2022__2.Pro.csv,100.0,match
+3,5,2022,stage_1,tour-du-benin,2.2,2022 Tour du Benin Stage 1.gpx,03_May_2022__stage_1__tour-du-benin_2022__2.2.csv,100.0,match
+4,5,2022,stage_2,tour-du-benin,2.2,2022 Tour du Benin Stage 2.gpx,04_May_2022__stage_2__tour-du-benin_2022__2.2.csv,100.0,match
+4,5,2022,stage_2,4-jours-de-dunkerque,2.Pro,2022 4 Jours de Dunkerque - Grand Prix des Hauts de France Stage 2.gpx,04_May_2022__stage_2__4-jours-de-dunkerque_2022__2.Pro.csv,100.0,match
+4,5,2022,result,nc-cyprus-itt,NC,,04_May_2022__result__nc-cyprus-itt_2022__NC.csv,,pcs_only
+5,5,2022,stage_3,4-jours-de-dunkerque,2.Pro,2022 4 Jours de Dunkerque - Grand Prix des Hauts de France Stage 3.gpx,05_May_2022__stage_3__4-jours-de-dunkerque_2022__2.Pro.csv,100.0,match
+5,5,2022,stage_3,tour-du-benin,2.2,2022 Tour du Benin Stage 3.gpx,05_May_2022__stage_3__tour-du-benin_2022__2.2.csv,100.0,match
+6,5,2022,stage_1,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 1.gpx,06_May_2022__stage_1__giro-d-italia_2022__2.UWT.csv,100.0,match
+6,5,2022,stage_4,tour-du-benin,2.2,2022 Tour du Benin Stage 4.gpx,06_May_2022__stage_4__tour-du-benin_2022__2.2.csv,100.0,match
+6,5,2022,stage_4,4-jours-de-dunkerque,2.Pro,2022 4 Jours de Dunkerque - Grand Prix des Hauts de France Stage 4.gpx,06_May_2022__stage_4__4-jours-de-dunkerque_2022__2.Pro.csv,100.0,match
+6,5,2022,result,nc-panama-itt,NC,,06_May_2022__result__nc-panama-itt_2022__NC.csv,,pcs_only
+7,5,2022,result,hadeland-gp,1.2,2022 Sundvolden GP.gpx,07_May_2022__result__hadeland-gp_2022__1.2.csv,100.0,match
+7,5,2022,result,ronde-van-overijssel,1.2,2022 Ronde van Overijssel.gpx,07_May_2022__result__ronde-van-overijssel_2022__1.2.csv,100.0,match
+7,5,2022,stage_5,4-jours-de-dunkerque,2.Pro,2022 4 Jours de Dunkerque - Grand Prix des Hauts de France Stage 5.gpx,07_May_2022__stage_5__4-jours-de-dunkerque_2022__2.Pro.csv,100.0,match
+7,5,2022,stage_5,tour-du-benin,2.2,2022 Tour du Benin Stage 5.gpx,07_May_2022__stage_5__tour-du-benin_2022__2.2.csv,100.0,match
+7,5,2022,stage_2,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 2.gpx,07_May_2022__stage_2__giro-d-italia_2022__2.UWT.csv,100.0,match
+8,5,2022,result,ringerike-gp,1.2,2022 Ringerike GP.gpx,08_May_2022__result__ringerike-gp_2022__1.2.csv,100.0,match
+8,5,2022,result,fleche-ardennaise,1.2,2022 Fleche Ardennaise.gpx,08_May_2022__result__fleche-ardennaise_2022__1.2.csv,100.0,match
+8,5,2022,stage_6,4-jours-de-dunkerque,2.Pro,2022 4 Jours de Dunkerque - Grand Prix des Hauts de France Stage 6.gpx,08_May_2022__stage_6__4-jours-de-dunkerque_2022__2.Pro.csv,100.0,match
+8,5,2022,stage_3,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 3.gpx,08_May_2022__stage_3__giro-d-italia_2022__2.UWT.csv,100.0,match
+8,5,2022,result,nc-panama,NC,,08_May_2022__result__nc-panama_2022__NC.csv,,pcs_only
+8,5,2022,result,nc-cyprus,NC,,08_May_2022__result__nc-cyprus_2022__NC.csv,,pcs_only
+10,5,2022,stage_4,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 4.gpx,10_May_2022__stage_4__giro-d-italia_2022__2.UWT.csv,100.0,match
+11,5,2022,stage_1,tour-de-hongrie,2.1,2022 Tour de Hongrie Stage 1.gpx,11_May_2022__stage_1__tour-de-hongrie_2022__2.1.csv,100.0,match
+11,5,2022,stage_5,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 5.gpx,11_May_2022__stage_5__giro-d-italia_2022__2.UWT.csv,100.0,match
+12,5,2022,stage_2,tour-de-hongrie,2.1,2022 Tour de Hongrie Stage 2.gpx,12_May_2022__stage_2__tour-de-hongrie_2022__2.1.csv,100.0,match
+12,5,2022,result,panamerican-champ-itt,CC,2022 COPACI Campeonato Panamericano de Ruta - ITT.gpx,12_May_2022__result__panamerican-champ-itt_2022__CC.csv,100.0,match
+12,5,2022,stage_6,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 6.gpx,12_May_2022__stage_6__giro-d-italia_2022__2.UWT.csv,100.0,match
+13,5,2022,stage_7,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 7.gpx,13_May_2022__stage_7__giro-d-italia_2022__2.UWT.csv,100.0,match
+13,5,2022,stage_3,tour-de-hongrie,2.1,2022 Tour de Hongrie Stage 3.gpx,13_May_2022__stage_3__tour-de-hongrie_2022__2.1.csv,100.0,match
+14,5,2022,stage_8,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 8.gpx,14_May_2022__stage_8__giro-d-italia_2022__2.UWT.csv,100.0,match
+14,5,2022,result,gp-de-plumelec,1.Pro,2022 Grand Prix du Morbihan.gpx,14_May_2022__result__gp-de-plumelec_2022__1.Pro.csv,100.0,match
+14,5,2022,stage_4,tour-de-hongrie,2.1,2022 Tour de Hongrie Stage 4.gpx,14_May_2022__stage_4__tour-de-hongrie_2022__2.1.csv,100.0,match
+15,5,2022,result,tro-bro-leon,1.Pro,2022 Tro-Bro Leon.gpx,15_May_2022__result__tro-bro-leon_2022__1.Pro.csv,100.0,match
+15,5,2022,result,panamerican-championships,CC,2022 COPACI Campeonato Panamericano de Ruta.gpx,15_May_2022__result__panamerican-championships_2022__CC.csv,100.0,match
+15,5,2022,stage_9,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 9.gpx,15_May_2022__stage_9__giro-d-italia_2022__2.UWT.csv,100.0,match
+15,5,2022,stage_5,tour-de-hongrie,2.1,2022 Tour de Hongrie Stage 5.gpx,15_May_2022__stage_5__tour-de-hongrie_2022__2.1.csv,100.0,match
+17,5,2022,stage_10,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 10.gpx,17_May_2022__stage_10__giro-d-italia_2022__2.UWT.csv,100.0,match
+18,5,2022,stage_11,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 11.gpx,18_May_2022__stage_11__giro-d-italia_2022__2.UWT.csv,100.0,match
+19,5,2022,stage_1,joe-martin-stage-race-me,2.2,2022 Joe Martin Stage Race Stage 1.gpx,19_May_2022__stage_1__joe-martin-stage-race-me_2022__2.2.csv,100.0,match
+19,5,2022,stage_1,tour-of-japan,2.2,2022 Tour of Japan Stage 1.gpx,19_May_2022__stage_1__tour-of-japan_2022__2.2.csv,100.0,match
+19,5,2022,stage_12,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 12.gpx,19_May_2022__stage_12__giro-d-italia_2022__2.UWT.csv,100.0,match
+20,5,2022,stage_2,tour-of-japan,2.2,2022 Tour of Japan Stage 2.gpx,20_May_2022__stage_2__tour-of-japan_2022__2.2.csv,100.0,match
+20,5,2022,stage_2,joe-martin-stage-race-me,2.2,2022 Joe Martin Stage Race Stage 2.gpx,20_May_2022__stage_2__joe-martin-stage-race-me_2022__2.2.csv,100.0,match
+20,5,2022,stage_13,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 13.gpx,20_May_2022__stage_13__giro-d-italia_2022__2.UWT.csv,100.0,match
+20,5,2022,result,south-east-asian-games-itt,JR,,20_May_2022__result__south-east-asian-games-itt_2022__JR.csv,,pcs_only
+21,5,2022,result,gp-herning,1.2,2022 Grand Prix Herning.gpx,21_May_2022__result__gp-herning_2022__1.2.csv,100.0,match
+21,5,2022,result,veenendaal-veenendaal,1.1,2022 Veenendaal-Veenendaal Classic.gpx,21_May_2022__result__veenendaal-veenendaal_2022__1.1.csv,100.0,match
+21,5,2022,result,tour-du-finistere,1.1,2022 Tour du Finistere.gpx,21_May_2022__result__tour-du-finistere_2022__1.1.csv,100.0,match
+21,5,2022,stage_14,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 14.gpx,21_May_2022__stage_14__giro-d-italia_2022__2.UWT.csv,100.0,match
+21,5,2022,stage_3,tour-of-japan,2.2,2022 Tour of Japan Stage 3.gpx,21_May_2022__stage_3__tour-of-japan_2022__2.2.csv,100.0,match
+21,5,2022,stage_3,joe-martin-stage-race-me,2.2,2022 Joe Martin Stage Race Stage 3.gpx,21_May_2022__stage_3__joe-martin-stage-race-me_2022__2.2.csv,100.0,match
+21,5,2022,result,south-east-asian-games,JR,,21_May_2022__result__south-east-asian-games_2022__JR.csv,,pcs_only
+22,5,2022,result,albani-classic-fyen-rundt,1.2,2022 Fyn Rundt - Tour of Funen.gpx,22_May_2022__result__albani-classic-fyen-rundt_2022__1.2.csv,100.0,match
+22,5,2022,result,rund-um-koln,1.1,2022 Rund um Koln.gpx,22_May_2022__result__rund-um-koln_2022__1.1.csv,100.0,match
+22,5,2022,result,antwerp-port-epic,1.1,2022 Antwerp Port Epic - Sels Trophy.gpx,22_May_2022__result__antwerp-port-epic_2022__1.1.csv,100.0,match
+22,5,2022,result,boucles-de-l-aulne,1.1,2022 Boucles de l'Aulne - Chateaulin.gpx,22_May_2022__result__boucles-de-l-aulne_2022__1.1.csv,100.0,match
+22,5,2022,result,gp-gorenjska,1.2,2022 GP Gorenjska.gpx,22_May_2022__result__gp-gorenjska_2022__1.2.csv,100.0,match
+22,5,2022,stage_15,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 15.gpx,22_May_2022__stage_15__giro-d-italia_2022__2.UWT.csv,100.0,match
+22,5,2022,stage_4,tour-of-japan,2.2,2022 Tour of Japan Stage 4.gpx,22_May_2022__stage_4__tour-of-japan_2022__2.2.csv,100.0,match
+22,5,2022,stage_4,joe-martin-stage-race-me,2.2,2022 Joe Martin Stage Race Stage 4.gpx,22_May_2022__stage_4__joe-martin-stage-race-me_2022__2.2.csv,100.0,match
+24,5,2022,stage_1,tour-of-norway,2.Pro,2022 Tour of Norway Stage 1.gpx,24_May_2022__stage_1__tour-of-norway_2022__2.Pro.csv,100.0,match
+24,5,2022,stage_16,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 16.gpx,24_May_2022__stage_16__giro-d-italia_2022__2.UWT.csv,100.0,match
+25,5,2022,stage_17,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 17.gpx,25_May_2022__stage_17__giro-d-italia_2022__2.UWT.csv,100.0,match
+25,5,2022,stage_2,tour-of-norway,2.Pro,2022 Tour of Norway Stage 2.gpx,25_May_2022__stage_2__tour-of-norway_2022__2.Pro.csv,100.0,match
+25,5,2022,stage_1,rhone-alpes-isere-tour,2.2,2022 Alpes Isere Tour Stage 1.gpx,25_May_2022__stage_1__rhone-alpes-isere-tour_2022__2.2.csv,100.0,match
+25,5,2022,stage_1,fleche-du-sud,2.2,2022 Fleche du Sud Stage 1.gpx,25_May_2022__stage_1__fleche-du-sud_2022__2.2.csv,100.0,match
+26,5,2022,stage_2,fleche-du-sud,2.2,2022 Fleche du Sud Stage 2.gpx,26_May_2022__stage_2__fleche-du-sud_2022__2.2.csv,100.0,match
+26,5,2022,stage_2,rhone-alpes-isere-tour,2.2,2022 Alpes Isere Tour Stage 2.gpx,26_May_2022__stage_2__rhone-alpes-isere-tour_2022__2.2.csv,100.0,match
+26,5,2022,result,circuit-de-wallonie,1.1,2022 Circuit de Wallonie.gpx,26_May_2022__result__circuit-de-wallonie_2022__1.1.csv,100.0,match
+26,5,2022,prologue,tour-of-estonia,2.1,2022 Tour of Estonia Prologue.gpx,26_May_2022__Prologue__tour-of-estonia_2022__2.1.csv,100.0,match
+26,5,2022,stage_3,tour-of-norway,2.Pro,2022 Tour of Norway Stage 3.gpx,26_May_2022__stage_3__tour-of-norway_2022__2.Pro.csv,100.0,match
+26,5,2022,stage_18,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 18.gpx,26_May_2022__stage_18__giro-d-italia_2022__2.UWT.csv,100.0,match
+26,5,2022,stage_1,tour-de-la-mirabelle,2.2,2022 Tour de la Mirabelle Prologue.gpx,26_May_2022__stage_1__tour-de-la-mirabelle_2022__2.2.csv,100.0,match
+26,5,2022,stage_1,boucles-de-la-mayenne,2.Pro,2022 Boucles de la Mayenne Stage 1.gpx,26_May_2022__stage_1__boucles-de-la-mayenne_2022__2.Pro.csv,100.0,match
+27,5,2022,stage_4,tour-of-norway,2.Pro,2022 Tour of Norway Stage 4.gpx,27_May_2022__stage_4__tour-of-norway_2022__2.Pro.csv,100.0,match
+27,5,2022,stage_2,tour-de-la-mirabelle,2.2,2022 Tour de la Mirabelle Stage 1.gpx,27_May_2022__stage_2__tour-de-la-mirabelle_2022__2.2.csv,100.0,match
+27,5,2022,stage_2,boucles-de-la-mayenne,2.Pro,2022 Boucles de la Mayenne Stage 2.gpx,27_May_2022__stage_2__boucles-de-la-mayenne_2022__2.Pro.csv,100.0,match
+27,5,2022,stage_1,tour-de-kumano,2.2,2022 Tour de Kumano Stage 1.gpx,27_May_2022__stage_1__tour-de-kumano_2022__2.2.csv,100.0,match
+27,5,2022,stage_1,tour-of-estonia,2.1,2022 Tour of Estonia Stage 1.gpx,27_May_2022__stage_1__tour-of-estonia_2022__2.1.csv,100.0,match
+27,5,2022,stage_3,fleche-du-sud,2.2,2022 Fleche du Sud Stage 3.gpx,27_May_2022__stage_3__fleche-du-sud_2022__2.2.csv,100.0,match
+27,5,2022,stage_3,rhone-alpes-isere-tour,2.2,2022 Alpes Isere Tour Stage 3.gpx,27_May_2022__stage_3__rhone-alpes-isere-tour_2022__2.2.csv,100.0,match
+27,5,2022,stage_19,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 19.gpx,27_May_2022__stage_19__giro-d-italia_2022__2.UWT.csv,100.0,match
+28,5,2022,stage_3,tour-de-la-mirabelle,2.2,2022 Tour de la Mirabelle Stage 2.gpx,28_May_2022__stage_3__tour-de-la-mirabelle_2022__2.2.csv,100.0,match
+28,5,2022,stage_3,boucles-de-la-mayenne,2.Pro,2022 Boucles de la Mayenne Stage 3.gpx,28_May_2022__stage_3__boucles-de-la-mayenne_2022__2.Pro.csv,100.0,match
+28,5,2022,stage_2,tour-de-kumano,2.2,2022 Tour de Kumano Stage 2.gpx,28_May_2022__stage_2__tour-de-kumano_2022__2.2.csv,100.0,match
+28,5,2022,stage_2,tour-of-estonia,2.1,2022 Tour of Estonia Stage 2.gpx,28_May_2022__stage_2__tour-of-estonia_2022__2.1.csv,100.0,match
+28,5,2022,stage_20,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 20.gpx,28_May_2022__stage_20__giro-d-italia_2022__2.UWT.csv,100.0,match
+28,5,2022,stage_4,rhone-alpes-isere-tour,2.2,2022 Alpes Isere Tour Stage 4.gpx,28_May_2022__stage_4__rhone-alpes-isere-tour_2022__2.2.csv,100.0,match
+28,5,2022,stage_4,fleche-du-sud,2.2,2022 Fleche du Sud Stage 4.gpx,28_May_2022__stage_4__fleche-du-sud_2022__2.2.csv,100.0,match
+28,5,2022,stage_5,tour-of-norway,2.Pro,2022 Tour of Norway Stage 5.gpx,28_May_2022__stage_5__tour-of-norway_2022__2.Pro.csv,100.0,match
+29,5,2022,stage_4,tour-de-la-mirabelle,2.2,2022 Tour de la Mirabelle Stage 3.gpx,29_May_2022__stage_4__tour-de-la-mirabelle_2022__2.2.csv,100.0,match
+29,5,2022,stage_4,boucles-de-la-mayenne,2.Pro,2022 Boucles de la Mayenne Stage 4.gpx,29_May_2022__stage_4__boucles-de-la-mayenne_2022__2.Pro.csv,100.0,match
+29,5,2022,stage_5,rhone-alpes-isere-tour,2.2,2022 Alpes Isere Tour Stage 5.gpx,29_May_2022__stage_5__rhone-alpes-isere-tour_2022__2.2.csv,100.0,match
+29,5,2022,stage_5,fleche-du-sud,2.2,2022 Fleche du Sud Stage 5.gpx,29_May_2022__stage_5__fleche-du-sud_2022__2.2.csv,100.0,match
+29,5,2022,stage_21,giro-d-italia,2.UWT,2022 Giro d'Italia Stage 21.gpx,29_May_2022__stage_21__giro-d-italia_2022__2.UWT.csv,100.0,match
+29,5,2022,stage_3,tour-de-kumano,2.2,2022 Tour de Kumano Stage 3.gpx,29_May_2022__stage_3__tour-de-kumano_2022__2.2.csv,100.0,match
+29,5,2022,stage_6,tour-of-norway,2.Pro,2022 Tour of Norway Stage 6.gpx,29_May_2022__stage_6__tour-of-norway_2022__2.Pro.csv,100.0,match
+29,5,2022,result,grote-prijs-marcel-kint,1.1,2022 Marcel Kint Classic.gpx,29_May_2022__result__grote-prijs-marcel-kint_2022__1.1.csv,73.0,match
+29,5,2022,result,nc-togo,NC,,29_May_2022__result__nc-togo_2022__NC.csv,,pcs_only
+31,5,2022,result,mercan-tour-classic-alpes-maritimes,1.1,2022 Mercan'Tour Classic Alpes-Maritimes.gpx,31_May_2022__result__mercan-tour-classic-alpes-maritimes_2022__1.1.csv,100.0,match
+31,5,2022,stage_1,tour-of-albania,2.2,2022 Tour of Albania Stage 1.gpx,31_May_2022__stage_1__tour-of-albania_2022__2.2.csv,100.0,match
+1,6,2022,stage_2,tour-of-albania,2.2,2022 Tour of Albania Stage 2.gpx,01_June_2022__stage_2__tour-of-albania_2022__2.2.csv,100.0,match
+2,6,2022,stage_1,ronde-de-l-oise,2.2,2022 Ronde de l'Oise Stage 1.gpx,02_June_2022__stage_1__ronde-de-l-oise_2022__2.2.csv,100.0,match
+2,6,2022,result,trofeo-alcide-degasperi,1.2,2022 Trofeo Alcide Degasperi.gpx,02_June_2022__result__trofeo-alcide-degasperi_2022__1.2.csv,100.0,match
+2,6,2022,result,giro-dell-appennino,1.1,2022 Giro dell'Appennino.gpx,02_June_2022__result__giro-dell-appennino_2022__1.1.csv,100.0,match
+2,6,2022,stage_3,tour-of-albania,2.2,2022 Tour of Albania Stage 3.gpx,02_June_2022__stage_3__tour-of-albania_2022__2.2.csv,100.0,match
+3,6,2022,stage_4,tour-of-albania,2.2,2022 Tour of Albania Stage 4.gpx,03_June_2022__stage_4__tour-of-albania_2022__2.2.csv,100.0,match
+3,6,2022,stage_1,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 1.gpx,03_June_2022__stage_1__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+3,6,2022,stage_1,tour-of-malopolska,2.2,2022 Tour of Malopolska Stage 1.gpx,03_June_2022__stage_1__tour-of-malopolska_2022__2.2.csv,100.0,match
+3,6,2022,stage_2,ronde-de-l-oise,2.2,2022 Ronde de l'Oise Stage 2.gpx,03_June_2022__stage_2__ronde-de-l-oise_2022__2.2.csv,100.0,match
+3,6,2022,result,nc-thailand-itt,NC,,03_June_2022__result__nc-thailand-itt_2022__NC.csv,,pcs_only
+4,6,2022,stage_3,ronde-de-l-oise,2.2,2022 Ronde de l'Oise Stage 3.gpx,04_June_2022__stage_3__ronde-de-l-oise_2022__2.2.csv,100.0,match
+4,6,2022,stage_1,adriatica-ionica-race,2.1,2022 Adriatica Ionica Race - Sulle Rotte della Serenissima Stage 1.gpx,04_June_2022__stage_1__adriatica-ionica-race_2022__2.1.csv,100.0,match
+4,6,2022,stage_5,tour-of-albania,2.2,2022 Tour of Albania Stage 5.gpx,04_June_2022__stage_5__tour-of-albania_2022__2.2.csv,100.0,match
+4,6,2022,stage_2,tour-of-malopolska,2.2,2022 Tour of Malopolska Stage 2.gpx,04_June_2022__stage_2__tour-of-malopolska_2022__2.2.csv,100.0,match
+4,6,2022,stage_2,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 2.gpx,04_June_2022__stage_2__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+4,6,2022,result,heist-op-den-berg,1.1,2022 Heylen Vastgoed Heistse Pijl.gpx,04_June_2022__result__heist-op-den-berg_2022__1.1.csv,100.0,match
+4,6,2022,stage_1,tour-du-cameroun,2.2,,04_June_2022__stage_1__tour-du-cameroun_2022__2.2.csv,,pcs_only
+5,6,2022,result,memorial-philippe-van-coningsloo,1.2,2022 Memorial Philippe Van Coningsloo.gpx,05_June_2022__result__memorial-philippe-van-coningsloo_2022__1.2.csv,100.0,match
+5,6,2022,result,brussels-cycling-classic,1.Pro,2022 Brussels Cycling Classic.gpx,05_June_2022__result__brussels-cycling-classic_2022__1.Pro.csv,100.0,match
+5,6,2022,stage_4,ronde-de-l-oise,2.2,2022 Ronde de l'Oise Stage 4.gpx,05_June_2022__stage_4__ronde-de-l-oise_2022__2.2.csv,100.0,match
+5,6,2022,stage_1,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 1.gpx,05_June_2022__stage_1__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+5,6,2022,stage_3,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 3.gpx,05_June_2022__stage_3__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+5,6,2022,stage_3,tour-of-malopolska,2.2,2022 Tour of Malopolska Stage 3.gpx,05_June_2022__stage_3__tour-of-malopolska_2022__2.2.csv,100.0,match
+5,6,2022,stage_2,adriatica-ionica-race,2.1,2022 Adriatica Ionica Race - Sulle Rotte della Serenissima Stage 2.gpx,05_June_2022__stage_2__adriatica-ionica-race_2022__2.1.csv,100.0,match
+5,6,2022,result,national-championships-saint-vincent4,NC,,05_June_2022__result__national-championships-saint-vincent4_2022__NC.csv,,pcs_only
+5,6,2022,result,nc-thailand,NC,,05_June_2022__result__nc-thailand_2022__NC.csv,,pcs_only
+5,6,2022,stage_2,tour-du-cameroun,2.2,,05_June_2022__stage_2__tour-du-cameroun_2022__2.2.csv,,pcs_only
+6,6,2022,result,paris-troyes,1.2,2022 Paris - Troyes.gpx,06_June_2022__result__paris-troyes_2022__1.2.csv,100.0,match
+6,6,2022,result,ronde-van-limburg,1.1,2022 Ronde van Limburg.gpx,06_June_2022__result__ronde-van-limburg_2022__1.1.csv,100.0,match
+6,6,2022,stage_3,adriatica-ionica-race,2.1,2022 Adriatica Ionica Race - Sulle Rotte della Serenissima Stage 3.gpx,06_June_2022__stage_3__adriatica-ionica-race_2022__2.1.csv,100.0,match
+6,6,2022,stage_2,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 2.gpx,06_June_2022__stage_2__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+6,6,2022,stage_4,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 4.gpx,06_June_2022__stage_4__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+6,6,2022,result,national-championships-saint-vincent1,NC,,06_June_2022__result__national-championships-saint-vincent1_2022__NC.csv,,pcs_only
+6,6,2022,stage_3,tour-du-cameroun,2.2,,06_June_2022__stage_3__tour-du-cameroun_2022__2.2.csv,,pcs_only
+7,6,2022,stage_4,adriatica-ionica-race,2.1,2022 Adriatica Ionica Race - Sulle Rotte della Serenissima Stage 4.gpx,07_June_2022__stage_4__adriatica-ionica-race_2022__2.1.csv,100.0,match
+7,6,2022,stage_3,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 3.gpx,07_June_2022__stage_3__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+7,6,2022,stage_5,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 5.gpx,07_June_2022__stage_5__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+7,6,2022,stage_4,tour-du-cameroun,2.2,,07_June_2022__stage_4__tour-du-cameroun_2022__2.2.csv,,pcs_only
+8,6,2022,stage_5,adriatica-ionica-race,2.1,2022 Adriatica Ionica Race - Sulle Rotte della Serenissima Stage 5.gpx,08_June_2022__stage_5__adriatica-ionica-race_2022__2.1.csv,100.0,match
+8,6,2022,stage_4,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 4.gpx,08_June_2022__stage_4__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+8,6,2022,stage_6,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 6.gpx,08_June_2022__stage_6__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+8,6,2022,stage_1,zlm-tour,2.Pro,2022 ZLM Tour Stage 1.gpx,08_June_2022__stage_1__zlm-tour_2022__2.Pro.csv,100.0,match
+8,6,2022,stage_5,tour-du-cameroun,2.2,,08_June_2022__stage_5__tour-du-cameroun_2022__2.2.csv,,pcs_only
+9,6,2022,stage_5,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 5.gpx,09_June_2022__stage_5__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+9,6,2022,stage_7,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 7.gpx,09_June_2022__stage_7__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+9,6,2022,stage_2,zlm-tour,2.Pro,2022 ZLM Tour Stage 2.gpx,09_June_2022__stage_2__zlm-tour_2022__2.Pro.csv,100.0,match
+9,6,2022,prologue,oberosterreichrundfahrt,2.2,2022 Oberosterreich Rundfahrt Prologue.gpx,09_June_2022__Prologue__oberosterreichrundfahrt_2022__2.2.csv,100.0,match
+9,6,2022,result,nc-venezuela-itt,NC,,09_June_2022__result__nc-venezuela-itt_2022__NC.csv,,pcs_only
+9,6,2022,stage_6,tour-du-cameroun,2.2,,09_June_2022__stage_6__tour-du-cameroun_2022__2.2.csv,,pcs_only
+10,6,2022,stage_1,tour-d-eure-et-loir,2.2,2022 Tour d'Eure-et-Loir Stage 1.gpx,10_June_2022__stage_1__tour-d-eure-et-loir_2022__2.2.csv,100.0,match
+10,6,2022,stage_1,oberosterreichrundfahrt,2.2,2022 Oberosterreich Rundfahrt Stage 1.gpx,10_June_2022__stage_1__oberosterreichrundfahrt_2022__2.2.csv,100.0,match
+10,6,2022,stage_8,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 8.gpx,10_June_2022__stage_8__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+10,6,2022,stage_3,zlm-tour,2.Pro,2022 ZLM Tour Stage 3.gpx,10_June_2022__stage_3__zlm-tour_2022__2.Pro.csv,100.0,match
+10,6,2022,result,gp-du-canton-d-argovie,1.1,2022 Grosser Preis des Kantons Aargau.gpx,10_June_2022__result__gp-du-canton-d-argovie_2022__1.1.csv,100.0,match
+10,6,2022,stage_6,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 6.gpx,10_June_2022__stage_6__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+11,6,2022,stage_2,tour-d-eure-et-loir,2.2,2022 Tour d'Eure-et-Loir Stage 2.gpx,11_June_2022__stage_2__tour-d-eure-et-loir_2022__2.2.csv,100.0,match
+11,6,2022,stage_2,oberosterreichrundfahrt,2.2,2022 Oberosterreich Rundfahrt Stage 2.gpx,11_June_2022__stage_2__oberosterreichrundfahrt_2022__2.2.csv,100.0,match
+11,6,2022,stage_7,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 7.gpx,11_June_2022__stage_7__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+11,6,2022,stage_4,zlm-tour,2.Pro,2022 ZLM Tour Stage 4.gpx,11_June_2022__stage_4__zlm-tour_2022__2.Pro.csv,100.0,match
+11,6,2022,stage_9,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 9.gpx,11_June_2022__stage_9__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+11,6,2022,result,dwars-door-het-hageland,1.Pro,2022 Dwars door het Hageland.gpx,11_June_2022__result__dwars-door-het-hageland_2022__1.Pro.csv,100.0,match
+11,6,2022,stage_7,tour-du-cameroun,2.2,,11_June_2022__stage_7__tour-du-cameroun_2022__2.2.csv,,pcs_only
+11,6,2022,result,nc-venezuela,NC,,11_June_2022__result__nc-venezuela_2022__NC.csv,,pcs_only
+12,6,2022,stage_3,oberosterreichrundfahrt,2.2,2022 Oberosterreich Rundfahrt Stage 3.gpx,12_June_2022__stage_3__oberosterreichrundfahrt_2022__2.2.csv,100.0,match
+12,6,2022,stage_3,tour-d-eure-et-loir,2.2,2022 Tour d'Eure-et-Loir Stage 3.gpx,12_June_2022__stage_3__tour-d-eure-et-loir_2022__2.2.csv,100.0,match
+12,6,2022,stage_5,zlm-tour,2.Pro,2022 ZLM Tour Stage 5.gpx,12_June_2022__stage_5__zlm-tour_2022__2.Pro.csv,100.0,match
+12,6,2022,stage_8,tour-auvergne-rhone-alpes,2.UWT,2022 Criterium du Dauphine Stage 8.gpx,12_June_2022__stage_8__tour-auvergne-rhone-alpes_2022__2.UWT.csv,100.0,match
+12,6,2022,stage_10,vuelta-pilsen-a-colombia,2.2,2022 Vuelta a Colombia Stage 10.gpx,12_June_2022__stage_10__vuelta-pilsen-a-colombia_2022__2.2.csv,100.0,match
+12,6,2022,stage_1,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 1.gpx,12_June_2022__stage_1__tour-de-suisse_2022__2.UWT.csv,100.0,match
+12,6,2022,result,circuit-des-xi-villes,1.1,2022 Elfstedenronde Brugge.gpx,12_June_2022__result__circuit-des-xi-villes_2022__1.1.csv,100.0,match
+12,6,2022,stage_8,tour-du-cameroun,2.2,,12_June_2022__stage_8__tour-du-cameroun_2022__2.2.csv,,pcs_only
+13,6,2022,stage_2,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 2.gpx,13_June_2022__stage_2__tour-de-suisse_2022__2.UWT.csv,100.0,match
+14,6,2022,stage_3,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 3.gpx,14_June_2022__stage_3__tour-de-suisse_2022__2.UWT.csv,100.0,match
+14,6,2022,result,cic-mont-ventoux,1.1,2022 Mont Ventoux Denivele Challenge.gpx,14_June_2022__result__cic-mont-ventoux_2022__1.1.csv,86.0,match
+15,6,2022,stage_1,tour-of-belgium,2.Pro,2022 Baloise Belgium Tour Stage 1.gpx,15_June_2022__stage_1__tour-of-belgium_2022__2.Pro.csv,100.0,match
+15,6,2022,stage_1,tour-of-slovenia,2.Pro,2022 Tour of Slovenia Stage 1.gpx,15_June_2022__stage_1__tour-of-slovenia_2022__2.Pro.csv,100.0,match
+15,6,2022,stage_4,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 4.gpx,15_June_2022__stage_4__tour-de-suisse_2022__2.UWT.csv,100.0,match
+16,6,2022,stage_5,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 5.gpx,16_June_2022__stage_5__tour-de-suisse_2022__2.UWT.csv,100.0,match
+16,6,2022,stage_2,tour-of-slovenia,2.Pro,2022 Tour of Slovenia Stage 2.gpx,16_June_2022__stage_2__tour-of-slovenia_2022__2.Pro.csv,100.0,match
+16,6,2022,stage_2,tour-of-belgium,2.Pro,2022 Baloise Belgium Tour Stage 2.gpx,16_June_2022__stage_2__tour-of-belgium_2022__2.Pro.csv,100.0,match
+16,6,2022,stage_1,la-route-d-occitanie,2.1,2022 La Route d'Occitanie - La Depeche du Midi Stage 1.gpx,16_June_2022__stage_1__la-route-d-occitanie_2022__2.1.csv,100.0,match
+17,6,2022,stage_3,tour-of-slovenia,2.Pro,2022 Tour of Slovenia Stage 3.gpx,17_June_2022__stage_3__tour-of-slovenia_2022__2.Pro.csv,100.0,match
+17,6,2022,stage_3,tour-of-belgium,2.Pro,2022 Baloise Belgium Tour Stage 3.gpx,17_June_2022__stage_3__tour-of-belgium_2022__2.Pro.csv,100.0,match
+17,6,2022,stage_1,tour-du-pays-de-montbeliard,2.2,2022 Tour du Pays de Montbeliard Prologue.gpx,17_June_2022__stage_1__tour-du-pays-de-montbeliard_2022__2.2.csv,100.0,match
+17,6,2022,stage_2,la-route-d-occitanie,2.1,2022 La Route d'Occitanie - La Depeche du Midi Stage 2.gpx,17_June_2022__stage_2__la-route-d-occitanie_2022__2.1.csv,100.0,match
+17,6,2022,stage_6,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 6.gpx,17_June_2022__stage_6__tour-de-suisse_2022__2.UWT.csv,100.0,match
+17,6,2022,result,nc-finland-itt,NC,,17_June_2022__result__nc-finland-itt_2022__NC.csv,,pcs_only
+17,6,2022,result,nc-costa-rica-itt,NC,,17_June_2022__result__nc-costa-rica-itt_2022__NC.csv,,pcs_only
+17,6,2022,result,nc-morocco-itt,NC,,17_June_2022__result__nc-morocco-itt_2022__NC.csv,,pcs_only
+18,6,2022,stage_4,tour-of-slovenia,2.Pro,2022 Tour of Slovenia Stage 4.gpx,18_June_2022__stage_4__tour-of-slovenia_2022__2.Pro.csv,100.0,match
+18,6,2022,stage_4,tour-of-belgium,2.Pro,2022 Baloise Belgium Tour Stage 4.gpx,18_June_2022__stage_4__tour-of-belgium_2022__2.Pro.csv,100.0,match
+18,6,2022,stage_3,la-route-d-occitanie,2.1,2022 La Route d'Occitanie - La Depeche du Midi Stage 3.gpx,18_June_2022__stage_3__la-route-d-occitanie_2022__2.1.csv,100.0,match
+18,6,2022,stage_2,tour-du-pays-de-montbeliard,2.2,2022 Tour du Pays de Montbeliard Stage 1.gpx,18_June_2022__stage_2__tour-du-pays-de-montbeliard_2022__2.2.csv,100.0,match
+18,6,2022,stage_7,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 7.gpx,18_June_2022__stage_7__tour-de-suisse_2022__2.UWT.csv,100.0,match
+18,6,2022,result,nc-mauritius-itt,NC,,18_June_2022__result__nc-mauritius-itt_2022__NC.csv,,pcs_only
+18,6,2022,result,national-championships-honduras-itt,NC,,18_June_2022__result__national-championships-honduras-itt_2022__NC.csv,,pcs_only
+19,6,2022,stage_3,tour-du-pays-de-montbeliard,2.2,2022 Tour du Pays de Montbeliard Stage 2.gpx,19_June_2022__stage_3__tour-du-pays-de-montbeliard_2022__2.2.csv,100.0,match
+19,6,2022,stage_5,tour-of-belgium,2.Pro,2022 Baloise Belgium Tour Stage 5.gpx,19_June_2022__stage_5__tour-of-belgium_2022__2.Pro.csv,100.0,match
+19,6,2022,stage_5,tour-of-slovenia,2.Pro,2022 Tour of Slovenia Stage 5.gpx,19_June_2022__stage_5__tour-of-slovenia_2022__2.Pro.csv,100.0,match
+19,6,2022,stage_4,la-route-d-occitanie,2.1,2022 La Route d'Occitanie - La Depeche du Midi Stage 4.gpx,19_June_2022__stage_4__la-route-d-occitanie_2022__2.1.csv,100.0,match
+19,6,2022,result,midden-brabant-poort-omloop,1.2,2022 Midden-Brabant Poort Omloop.gpx,19_June_2022__result__midden-brabant-poort-omloop_2022__1.2.csv,100.0,match
+19,6,2022,stage_8,tour-de-suisse,2.UWT,2022 Tour de Suisse Stage 8.gpx,19_June_2022__stage_8__tour-de-suisse_2022__2.UWT.csv,100.0,match
+19,6,2022,result,nc-guatemala-itt,NC,,19_June_2022__result__nc-guatemala-itt_2022__NC.csv,,pcs_only
+19,6,2022,result,nc-costa-rica,NC,,19_June_2022__result__nc-costa-rica_2022__NC.csv,,pcs_only
+19,6,2022,result,nc-finland,NC,,19_June_2022__result__nc-finland_2022__NC.csv,,pcs_only
+19,6,2022,result,nc-morocco,NC,,19_June_2022__result__nc-morocco_2022__NC.csv,,pcs_only
+19,6,2022,result,national-championships-honduras-road-race,NC,,19_June_2022__result__national-championships-honduras-road-race_2022__NC.csv,,pcs_only
+19,6,2022,result,nc-el-salvador-itt,NC,,19_June_2022__result__nc-el-salvador-itt_2022__NC.csv,,pcs_only
+19,6,2022,result,nc-belize-itt,NC,,19_June_2022__result__nc-belize-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-estonia-itt,NC,,22_June_2022__result__nc-estonia-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-kazakhstan-itt,NC,,22_June_2022__result__nc-kazakhstan-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-italy-itt,NC,,22_June_2022__result__nc-italy-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-netherlands-itt,NC,,22_June_2022__result__nc-netherlands-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-latvia-itt,NC,,22_June_2022__result__nc-latvia-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-hungary-itt,NC,,22_June_2022__result__nc-hungary-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-lithuania-itt,NC,,22_June_2022__result__nc-lithuania-itt_2022__NC.csv,,pcs_only
+22,6,2022,result,nc-poland-itt,NC,,22_June_2022__result__nc-poland-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-canada-itt,NC,2022 Canadian Road National Championships - ITT.gpx,23_June_2022__result__nc-canada-itt_2022__NC.csv,64.0,match
+23,6,2022,result,nc-usa-itt,NC,2022 USA Road National Championships - ITT.gpx,23_June_2022__result__nc-usa-itt_2022__NC.csv,67.0,match
+23,6,2022,result,nc-slovakia-itt,NC,2022 Slovakian Road National Championship - ITT.gpx,23_June_2022__result__nc-slovakia-itt_2022__NC.csv,72.0,match
+23,6,2022,result,nc-slovenia-itt,NC,2022 Slovenian Road National Championships - ITT.gpx,23_June_2022__result__nc-slovenia-itt_2022__NC.csv,72.0,match
+23,6,2022,result,nc-sweden-itt,NC,,23_June_2022__result__nc-sweden-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-austria-itt,NC,,23_June_2022__result__nc-austria-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-azerbaijan-itt,NC,,23_June_2022__result__nc-azerbaijan-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-denmark-itt,NC,,23_June_2022__result__nc-denmark-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-france-itt,NC,,23_June_2022__result__nc-france-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-angola,NC,,23_June_2022__result__nc-angola_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-czech-republic-itt,NC,,23_June_2022__result__nc-czech-republic-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,national-championships-iceland-itt,NC,,23_June_2022__result__national-championships-iceland-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-great-britain-itt,NC,,23_June_2022__result__nc-great-britain-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-belgium-itt,NC,,23_June_2022__result__nc-belgium-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-ireland-itt,NC,,23_June_2022__result__nc-ireland-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-switzerland-itt,NC,,23_June_2022__result__nc-switzerland-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-norway-itt,NC,,23_June_2022__result__nc-norway-itt_2022__NC.csv,,pcs_only
+23,6,2022,result,nc-brazil-itt,NC,,23_June_2022__result__nc-brazil-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-spain-itt,NC,2022 Spanish Road National Championships - ITT.gpx,24_June_2022__result__nc-spain-itt_2022__NC.csv,64.0,match
+24,6,2022,result,nc-luxembourg-itt,NC,2022 Luxembourg Road National Championships - ITT.gpx,24_June_2022__result__nc-luxembourg-itt_2022__NC.csv,79.0,match
+24,6,2022,result,nc-germany-itt,NC,2022 German Road National Championships - ITT.gpx,24_June_2022__result__nc-germany-itt_2022__NC.csv,67.0,match
+24,6,2022,result,nc-hungary,NC,,24_June_2022__result__nc-hungary_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-croatia-itt,NC,,24_June_2022__result__nc-croatia-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-romania-itt,NC,,24_June_2022__result__nc-romania-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-mongolia-itt,NC,,24_June_2022__result__nc-mongolia-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-japan-itt,NC,,24_June_2022__result__nc-japan-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-eritrea-itt,NC,,24_June_2022__result__nc-eritrea-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-kosovo-itt,NC,,24_June_2022__result__nc-kosovo-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-philippines,NC,,24_June_2022__result__nc-philippines_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-turkey-itt,NC,,24_June_2022__result__nc-turkey-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-serbia-itt,NC,,24_June_2022__result__nc-serbia-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-netherlands,NC,,24_June_2022__result__nc-netherlands_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-malaysia-itt,NC,,24_June_2022__result__nc-malaysia-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-macedonia-itt,NC,,24_June_2022__result__nc-macedonia-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-greece-itt,NC,,24_June_2022__result__nc-greece-itt_2022__NC.csv,,pcs_only
+24,6,2022,result,juegos-bolivarianos-me-itt,JR,,24_June_2022__result__juegos-bolivarianos-me-itt_2022__JR.csv,,pcs_only
+24,6,2022,result,nc-portugal,NC,,24_June_2022__result__nc-portugal_2022__NC.csv,,pcs_only
+24,6,2022,result,nc-israel-itt,NC,,24_June_2022__result__nc-israel-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,national-championships-virgin-islands-itt,NC,,25_June_2022__result__national-championships-virgin-islands-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-georgia-itt,NC,,25_June_2022__result__nc-georgia-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-antigua-and-barbuda-itt,NC,,25_June_2022__result__nc-antigua-and-barbuda-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,national-championships-grenada-itt,NC,,25_June_2022__result__national-championships-grenada-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-kosovo,NC,,25_June_2022__result__nc-kosovo_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-azerbaijan,NC,,25_June_2022__result__nc-azerbaijan_2022__NC.csv,,pcs_only
+25,6,2022,result,national-championships-montenegro-itt,NC,,25_June_2022__result__national-championships-montenegro-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-jamaica-itt,NC,,25_June_2022__result__nc-jamaica-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-kazakhstan,NC,,25_June_2022__result__nc-kazakhstan_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-bulgaria-itt,NC,,25_June_2022__result__nc-bulgaria-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-moldova-itt,NC,,25_June_2022__result__nc-moldova-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,national-championships-iceland---road-race,NC,,25_June_2022__result__national-championships-iceland---road-race_2022__NC.csv,,pcs_only
+25,6,2022,result,national-championships-trinidad-tobago-itt,NC,,25_June_2022__result__national-championships-trinidad-tobago-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-malaysia,NC,,25_June_2022__result__nc-malaysia_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-puerto-rico-itt,NC,,25_June_2022__result__nc-puerto-rico-itt_2022__NC.csv,,pcs_only
+25,6,2022,result,nc-israel,NC,,25_June_2022__result__nc-israel_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-united-states,NC,2022 USA Road National Championships.gpx,26_June_2022__result__nc-united-states_2022__NC.csv,100.0,match
+26,6,2022,result,nc-norway,NC,2022 Norwegian Road National Championship.gpx,26_June_2022__result__nc-norway_2022__NC.csv,62.0,match
+26,6,2022,result,nc-slovakia,NC,2022 Slovakian Road National Championship.gpx,26_June_2022__result__nc-slovakia_2022__NC.csv,84.0,match
+26,6,2022,result,nc-spain,NC,2022 Spanish Road National Championships.gpx,26_June_2022__result__nc-spain_2022__NC.csv,67.0,match
+26,6,2022,result,nc-germany,NC,2022 German Road National Championships.gpx,26_June_2022__result__nc-germany_2022__NC.csv,75.0,match
+26,6,2022,result,nc-luxembourg,NC,2022 Luxembourg Road National Championships.gpx,26_June_2022__result__nc-luxembourg_2022__NC.csv,87.0,match
+26,6,2022,result,nc-canada2,NC,2022 Canadian Road National Championships.gpx,26_June_2022__result__nc-canada2_2022__NC.csv,71.0,match
+26,6,2022,result,danish-championships,NC,2022 Polish National Road Championships.gpx,26_June_2022__result__danish-championships_2022__NC.csv,86.0,match
+26,6,2022,result,nc-italy,NC,2022 Italian Road National Championships.gpx,26_June_2022__result__nc-italy_2022__NC.csv,67.0,match
+26,6,2022,result,nc-slovenia,NC,2022 Slovenian Road National Championships.gpx,26_June_2022__result__nc-slovenia_2022__NC.csv,84.0,match
+26,6,2022,result,nc-belgium,NC,2022 Belgian Road National Championship.gpx,26_June_2022__result__nc-belgium_2022__NC.csv,67.0,match
+26,6,2022,result,nc-guatemala,NC,,26_June_2022__result__nc-guatemala_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-macedonia,NC,,26_June_2022__result__nc-macedonia_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-belize,NC,,26_June_2022__result__nc-belize_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-ivory-coast,NC,,26_June_2022__result__nc-ivory-coast_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-antigua-and-barbuda,NC,,26_June_2022__result__nc-antigua-and-barbuda_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-sweden,NC,,26_June_2022__result__nc-sweden_2022__NC.csv,,pcs_only
+26,6,2022,result,juegos-bolivarianos-me-road-race,JR,,26_June_2022__result__juegos-bolivarianos-me-road-race_2022__JR.csv,,pcs_only
+26,6,2022,result,nc-japan,NC,,26_June_2022__result__nc-japan_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-angola-itt,NC,,26_June_2022__result__nc-angola-itt_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-switserland,NC,,26_June_2022__result__nc-switserland_2022__NC.csv,,pcs_only
+26,6,2022,result,national-championships-trinidad-tobago-me-road-rac,NC,,26_June_2022__result__national-championships-trinidad-tobago-me-road-rac_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-moldova,NC,,26_June_2022__result__nc-moldova_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-mongolia,NC,,26_June_2022__result__nc-mongolia_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-portugal2,NC,,26_June_2022__result__nc-portugal2_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-georgia,NC,,26_June_2022__result__nc-georgia_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-serbia,NC,,26_June_2022__result__nc-serbia_2022__NC.csv,,pcs_only
+26,6,2022,result,national-championships-eswatini-road-race,NC,,26_June_2022__result__national-championships-eswatini-road-race_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-montenegro,NC,,26_June_2022__result__nc-montenegro_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-estonia,NC,,26_June_2022__result__nc-estonia_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-grenada-road-race,NC,,26_June_2022__result__nc-grenada-road-race_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-poland,NC,,26_June_2022__result__nc-poland_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-greece,NC,,26_June_2022__result__nc-greece_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-france,NC,,26_June_2022__result__nc-france_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-brazil,NC,,26_June_2022__result__nc-brazil_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-el-salvador,NC,,26_June_2022__result__nc-el-salvador_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-bulgaria,NC,,26_June_2022__result__nc-bulgaria_2022__NC.csv,,pcs_only
+26,6,2022,result,national-championships-virgin-islands-road-race,NC,,26_June_2022__result__national-championships-virgin-islands-road-race_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-turkey,NC,,26_June_2022__result__nc-turkey_2022__NC.csv,,pcs_only
+26,6,2022,result,ncgreat-britain,NC,,26_June_2022__result__ncgreat-britain_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-croatia,NC,,26_June_2022__result__nc-croatia_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-ireland,NC,,26_June_2022__result__nc-ireland_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-lithuania,NC,,26_June_2022__result__nc-lithuania_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-burkina-faso,NC,,26_June_2022__result__nc-burkina-faso_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-austria2,NC,,26_June_2022__result__nc-austria2_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-czech-republic2,NC,,26_June_2022__result__nc-czech-republic2_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-latvia,NC,,26_June_2022__result__nc-latvia_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-puerto-rico,NC,,26_June_2022__result__nc-puerto-rico_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-eritrea,NC,,26_June_2022__result__nc-eritrea_2022__NC.csv,,pcs_only
+26,6,2022,result,national-championships-mali-road-race,NC,,26_June_2022__result__national-championships-mali-road-race_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-romania,NC,,26_June_2022__result__nc-romania_2022__NC.csv,,pcs_only
+26,6,2022,result,nc-mauritius,NC,,26_June_2022__result__nc-mauritius_2022__NC.csv,,pcs_only
+28,6,2022,result,nc-uzbekistan-itt,NC,,28_June_2022__result__nc-uzbekistan-itt_2022__NC.csv,,pcs_only
+29,6,2022,result,nc-uzbekistan,NC,,29_June_2022__result__nc-uzbekistan_2022__NC.csv,,pcs_only
+29,6,2022,result,nc-ethiopia-itt,NC,,29_June_2022__result__nc-ethiopia-itt_2022__NC.csv,,pcs_only
+30,6,2022,stage_1,gp-int-torres-vedras,2.2,2022 GP Internacional Torres Vedras - Trofeu Joaquim Agostinho Prologue.gpx,30_June_2022__stage_1__gp-int-torres-vedras_2022__2.2.csv,100.0,match
+30,6,2022,result,nc-south-korea-itt,NC,,30_June_2022__result__nc-south-korea-itt_2022__NC.csv,,pcs_only
+30,6,2022,result,nc-ethiopia,NC,,30_June_2022__result__nc-ethiopia_2022__NC.csv,,pcs_only
+30,6,2022,result,mediterranean-games-itt,JR,,30_June_2022__result__mediterranean-games-itt_2022__JR.csv,,pcs_only
+1,7,2022,stage_1,tour-de-france,2.UWT,2022 Tour de France Stage 1.gpx,01_July_2022__stage_1__tour-de-france_2022__2.UWT.csv,100.0,match
+1,7,2022,stage_2,gp-int-torres-vedras,2.2,2022 GP Internacional Torres Vedras - Trofeu Joaquim Agostinho Stage 1.gpx,01_July_2022__stage_2__gp-int-torres-vedras_2022__2.2.csv,100.0,match
+1,7,2022,result,nc-south-korea,NC,,01_July_2022__result__nc-south-korea_2022__NC.csv,,pcs_only
+2,7,2022,prologue,sibiu-cycling-tour,2.1,2022 Sibiu Cycling Tour Prologue.gpx,02_July_2022__Prologue__sibiu-cycling-tour_2022__2.1.csv,100.0,match
+2,7,2022,stage_2,tour-de-france,2.UWT,2022 Tour de France Stage 2.gpx,02_July_2022__stage_2__tour-de-france_2022__2.UWT.csv,100.0,match
+2,7,2022,stage_3,gp-int-torres-vedras,2.2,2022 GP Internacional Torres Vedras - Trofeu Joaquim Agostinho Stage 2.gpx,02_July_2022__stage_3__gp-int-torres-vedras_2022__2.2.csv,100.0,match
+2,7,2022,result,nc-rwanda-itt,NC,,02_July_2022__result__nc-rwanda-itt_2022__NC.csv,,pcs_only
+2,7,2022,result,mersin-mediterranean-games,JR,,02_July_2022__result__mersin-mediterranean-games_2022__JR.csv,,pcs_only
+2,7,2022,result,nc-iran,NC,,02_July_2022__result__nc-iran_2022__NC.csv,,pcs_only
+3,7,2022,stage_4,gp-int-torres-vedras,2.2,2022 GP Internacional Torres Vedras - Trofeu Joaquim Agostinho Stage 3.gpx,03_July_2022__stage_4__gp-int-torres-vedras_2022__2.2.csv,100.0,match
+3,7,2022,stage_3,tour-de-france,2.UWT,2022 Tour de France Stage 3.gpx,03_July_2022__stage_3__tour-de-france_2022__2.UWT.csv,100.0,match
+3,7,2022,stage_1,sibiu-cycling-tour,2.1,2022 Sibiu Cycling Tour Stage 1.gpx,03_July_2022__stage_1__sibiu-cycling-tour_2022__2.1.csv,100.0,match
+3,7,2022,result,giro-del-medio-brenta,1.2,2022 Giro del Medio Brenta.gpx,03_July_2022__result__giro-del-medio-brenta_2022__1.2.csv,100.0,match
+3,7,2022,result,nc-iran-itt,NC,,03_July_2022__result__nc-iran-itt_2022__NC.csv,,pcs_only
+3,7,2022,result,nc-rwanda,NC,,03_July_2022__result__nc-rwanda_2022__NC.csv,,pcs_only
+4,7,2022,stage_2,sibiu-cycling-tour,2.1,2022 Sibiu Cycling Tour Stage 2.gpx,04_July_2022__stage_2__sibiu-cycling-tour_2022__2.1.csv,100.0,match
+5,7,2022,result,trofeo-citta-di-brescia,1.2,2022 Trofeo Citta di Brescia.gpx,05_July_2022__result__trofeo-citta-di-brescia_2022__1.2.csv,100.0,match
+5,7,2022,stage_4,tour-de-france,2.UWT,2022 Tour de France Stage 4.gpx,05_July_2022__stage_4__tour-de-france_2022__2.UWT.csv,100.0,match
+6,7,2022,stage_5,tour-de-france,2.UWT,2022 Tour de France Stage 5.gpx,06_July_2022__stage_5__tour-de-france_2022__2.UWT.csv,100.0,match
+7,7,2022,stage_6,tour-de-france,2.UWT,2022 Tour de France Stage 6.gpx,07_July_2022__stage_6__tour-de-france_2022__2.UWT.csv,100.0,match
+8,7,2022,stage_7,tour-de-france,2.UWT,2022 Tour de France Stage 7.gpx,08_July_2022__stage_7__tour-de-france_2022__2.UWT.csv,100.0,match
+8,7,2022,result,nc-cuba-itt,NC,,08_July_2022__result__nc-cuba-itt_2022__NC.csv,,pcs_only
+9,7,2022,result,gp-czech-republic,1.2,2022 Visegrad 4 Bicycle Race - GP Czech Republic.gpx,09_July_2022__result__gp-czech-republic_2022__1.2.csv,100.0,match
+9,7,2022,stage_8,tour-de-france,2.UWT,2022 Tour de France Stage 8.gpx,09_July_2022__stage_8__tour-de-france_2022__2.UWT.csv,100.0,match
+9,7,2022,result,nc-cuba-road-race,NC,,09_July_2022__result__nc-cuba-road-race_2022__NC.csv,,pcs_only
+10,7,2022,result,2-districtenpijl-ekeren-deurne-me,1.2,2022 Districtenpijl - Ekeren-Deurne.gpx,10_July_2022__result__2-districtenpijl-ekeren-deurne-me_2022__1.2.csv,100.0,match
+10,7,2022,stage_9,tour-de-france,2.UWT,2022 Tour de France Stage 9.gpx,10_July_2022__stage_9__tour-de-france_2022__2.UWT.csv,100.0,match
+10,7,2022,result,gp-de-la-ville-de-nogent-sur-oise,1.2,2022 Grand Prix International de la ville de Nogent-sur-Oise.gpx,10_July_2022__result__gp-de-la-ville-de-nogent-sur-oise_2022__1.2.csv,86.0,match
+10,7,2022,result,visegrad-4-bicycle-race-gp-polski-via-odra,1.2,2022 Visegrad 4 Bicycle Race Grand Prix Poland.gpx,10_July_2022__result__visegrad-4-bicycle-race-gp-polski-via-odra_2022__1.2.csv,85.0,match
+10,7,2022,result,nc-singapore-itt2,NC,,10_July_2022__result__nc-singapore-itt2_2022__NC.csv,,pcs_only
+12,7,2022,stage_10,tour-de-france,2.UWT,2022 Tour de France Stage 10.gpx,12_July_2022__stage_10__tour-de-france_2022__2.UWT.csv,100.0,match
+13,7,2022,stage_11,tour-de-france,2.UWT,2022 Tour de France Stage 11.gpx,13_July_2022__stage_11__tour-de-france_2022__2.UWT.csv,100.0,match
+14,7,2022,stage_12,tour-de-france,2.UWT,2022 Tour de France Stage 12.gpx,14_July_2022__stage_12__tour-de-france_2022__2.UWT.csv,100.0,match
+15,7,2022,stage_13,tour-de-france,2.UWT,2022 Tour de France Stage 13.gpx,15_July_2022__stage_13__tour-de-france_2022__2.UWT.csv,100.0,match
+16,7,2022,stage_14,tour-de-france,2.UWT,2022 Tour de France Stage 14.gpx,16_July_2022__stage_14__tour-de-france_2022__2.UWT.csv,100.0,match
+16,7,2022,stage_1,gp-cycliste-de-gemenc,2.2,2022 Gemenc GP Stage 1.gpx,16_July_2022__stage_1__gp-cycliste-de-gemenc_2022__2.2.csv,80.0,match
+16,7,2022,result,national-championships-indonesia-itt,NC,,16_July_2022__result__national-championships-indonesia-itt_2022__NC.csv,,pcs_only
+17,7,2022,stage_15,tour-de-france,2.UWT,2022 Tour de France Stage 15.gpx,17_July_2022__stage_15__tour-de-france_2022__2.UWT.csv,100.0,match
+17,7,2022,stage_2,gp-cycliste-de-gemenc,2.2,2022 Gemenc GP Stage 2.gpx,17_July_2022__stage_2__gp-cycliste-de-gemenc_2022__2.2.csv,80.0,match
+17,7,2022,result,nc-indonesia,NC,,17_July_2022__result__nc-indonesia_2022__NC.csv,,pcs_only
+19,7,2022,stage_16,tour-de-france,2.UWT,2022 Tour de France Stage 16.gpx,19_July_2022__stage_16__tour-de-france_2022__2.UWT.csv,100.0,match
+20,7,2022,stage_17,tour-de-france,2.UWT,2022 Tour de France Stage 17.gpx,20_July_2022__stage_17__tour-de-france_2022__2.UWT.csv,100.0,match
+21,7,2022,stage_18,tour-de-france,2.UWT,2022 Tour de France Stage 18.gpx,21_July_2022__stage_18__tour-de-france_2022__2.UWT.csv,100.0,match
+21,7,2022,result,nc-algeria-itt,NC,,21_July_2022__result__nc-algeria-itt_2022__NC.csv,,pcs_only
+22,7,2022,stage_19,tour-de-france,2.UWT,2022 Tour de France Stage 19.gpx,22_July_2022__stage_19__tour-de-france_2022__2.UWT.csv,100.0,match
+23,7,2022,stage_20,tour-de-france,2.UWT,2022 Tour de France Stage 20.gpx,23_July_2022__stage_20__tour-de-france_2022__2.UWT.csv,100.0,match
+23,7,2022,result,visegrad-4-bicycle-race-gp-hungary,1.2,2022 Visegrad 4 Kerekparverseny.gpx,23_July_2022__result__visegrad-4-bicycle-race-gp-hungary_2022__1.2.csv,100.0,match
+23,7,2022,stage_1,tour-de-wallonie,2.Pro,2022 Ethias-Tour de Wallonie Stage 1.gpx,23_July_2022__stage_1__tour-de-wallonie_2022__2.Pro.csv,100.0,match
+23,7,2022,result,grand-prix-erciyes-mimar-sinan-me,1.2,2022 Grand Prix Erciyes.gpx,23_July_2022__result__grand-prix-erciyes-mimar-sinan-me_2022__1.2.csv,80.0,match
+23,7,2022,result,nc-algeria,NC,,23_July_2022__result__nc-algeria_2022__NC.csv,,pcs_only
+24,7,2022,stage_1,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 1.gpx,24_July_2022__stage_1__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+24,7,2022,result,grand-prix-de-la-ville-de-perenchies,1.2,2022 Grand Prix de la ville de Perenchies.gpx,24_July_2022__result__grand-prix-de-la-ville-de-perenchies_2022__1.2.csv,100.0,match
+24,7,2022,result,grand-prix-kayseri-me,1.2,2022 Grand Prix Kayseri.gpx,24_July_2022__result__grand-prix-kayseri-me_2022__1.2.csv,100.0,match
+24,7,2022,result,visegrad-4-bicycle-race-gp-slovakia,1.2,2022 Visegrad 4 Bicycle Race - GP Slovakia.gpx,24_July_2022__result__visegrad-4-bicycle-race-gp-slovakia_2022__1.2.csv,100.0,match
+24,7,2022,result,gp-kranj,1.2,2022 GP Kranj.gpx,24_July_2022__result__gp-kranj_2022__1.2.csv,100.0,match
+24,7,2022,stage_2,tour-de-wallonie,2.Pro,2022 Ethias-Tour de Wallonie Stage 2.gpx,24_July_2022__stage_2__tour-de-wallonie_2022__2.Pro.csv,100.0,match
+24,7,2022,stage_21,tour-de-france,2.UWT,2022 Tour de France Stage 21.gpx,24_July_2022__stage_21__tour-de-france_2022__2.UWT.csv,100.0,match
+24,7,2022,result,nc-singapore-itt,NC,,24_July_2022__result__nc-singapore-itt_2022__NC.csv,,pcs_only
+25,7,2022,result,prueba-villafranca,1.1,2022 Prueba Villafranca - Ordiziako Klasika.gpx,25_July_2022__result__prueba-villafranca_2022__1.1.csv,100.0,match
+25,7,2022,stage_2,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 2.gpx,25_July_2022__stage_2__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+25,7,2022,stage_3,tour-de-wallonie,2.Pro,2022 Ethias-Tour de Wallonie Stage 3.gpx,25_July_2022__stage_3__tour-de-wallonie_2022__2.Pro.csv,100.0,match
+26,7,2022,stage_3,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 3.gpx,26_July_2022__stage_3__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+26,7,2022,result,memorial-andrzeja-trochanowskiego,1.2,2022 Memorial Andrzeja Trochanowskiego.gpx,26_July_2022__result__memorial-andrzeja-trochanowskiego_2022__1.2.csv,100.0,match
+26,7,2022,stage_4,tour-de-wallonie,2.Pro,2022 Ethias-Tour de Wallonie Stage 4.gpx,26_July_2022__stage_4__tour-de-wallonie_2022__2.Pro.csv,100.0,match
+27,7,2022,stage_5,tour-de-wallonie,2.Pro,2022 Ethias-Tour de Wallonie Stage 5.gpx,27_July_2022__stage_5__tour-de-wallonie_2022__2.Pro.csv,100.0,match
+27,7,2022,stage_4,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 4.gpx,27_July_2022__stage_4__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+27,7,2022,stage_1,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 1.gpx,27_July_2022__stage_1__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+27,7,2022,stage_1,vuelta-a-castilla-y-leon,2.1,2022 Vuelta a Castilla y Leon Stage 1.gpx,27_July_2022__stage_1__vuelta-a-castilla-y-leon_2022__2.1.csv,100.0,match
+27,7,2022,stage_1,dookola-mazowsza,2.2,2022 Dookola Mazowsza Stage 1.gpx,27_July_2022__stage_1__dookola-mazowsza_2022__2.2.csv,100.0,match
+27,7,2022,stage_1,tour-alsace,2.2,2022 Tour d'Alsace Prologue.gpx,27_July_2022__stage_1__tour-alsace_2022__2.2.csv,82.0,match
+28,7,2022,stage_5,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 5.gpx,28_July_2022__stage_5__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+28,7,2022,stage_2,dookola-mazowsza,2.2,2022 Dookola Mazowsza Stage 2.gpx,28_July_2022__stage_2__dookola-mazowsza_2022__2.2.csv,100.0,match
+28,7,2022,stage_2,vuelta-a-castilla-y-leon,2.1,2022 Vuelta a Castilla y Leon Stage 2.gpx,28_July_2022__stage_2__vuelta-a-castilla-y-leon_2022__2.1.csv,100.0,match
+28,7,2022,stage_2,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 2.gpx,28_July_2022__stage_2__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+28,7,2022,stage_2,tour-alsace,2.2,2022 Tour d'Alsace Stage 1.gpx,28_July_2022__stage_2__tour-alsace_2022__2.2.csv,82.0,match
+29,7,2022,stage_1,kreiz-breizh-elites,2.2,2022 Kreiz Breizh Elites Stage 1.gpx,29_July_2022__stage_1__kreiz-breizh-elites_2022__2.2.csv,100.0,match
+29,7,2022,stage_3,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 3.gpx,29_July_2022__stage_3__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+29,7,2022,stage_3,dookola-mazowsza,2.2,2022 Dookola Mazowsza Stage 3.gpx,29_July_2022__stage_3__dookola-mazowsza_2022__2.2.csv,100.0,match
+29,7,2022,stage_6,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 6.gpx,29_July_2022__stage_6__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+29,7,2022,stage_3,tour-alsace,2.2,2022 Tour d'Alsace Stage 2.gpx,29_July_2022__stage_3__tour-alsace_2022__2.2.csv,82.0,match
+30,7,2022,stage_4,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 4.gpx,30_July_2022__stage_4__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+30,7,2022,stage_4,dookola-mazowsza,2.2,2022 Dookola Mazowsza Stage 4.gpx,30_July_2022__stage_4__dookola-mazowsza_2022__2.2.csv,100.0,match
+30,7,2022,result,san-sebastian,1.UWT,2022 Donostia San Sebastian Klasikoa.gpx,30_July_2022__result__san-sebastian_2022__1.UWT.csv,100.0,match
+30,7,2022,stage_7,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 7.gpx,30_July_2022__stage_7__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+30,7,2022,stage_2,kreiz-breizh-elites,2.2,2022 Kreiz Breizh Elites Stage 2.gpx,30_July_2022__stage_2__kreiz-breizh-elites_2022__2.2.csv,100.0,match
+30,7,2022,stage_1,tour-de-pologne,2.UWT,2022 Tour de Pologne Stage 1.gpx,30_July_2022__stage_1__tour-de-pologne_2022__2.UWT.csv,100.0,match
+30,7,2022,stage_4,tour-alsace,2.2,2022 Tour d'Alsace Stage 3.gpx,30_July_2022__stage_4__tour-alsace_2022__2.2.csv,82.0,match
+30,7,2022,result,nc-paraguay-itt,NC,,30_July_2022__result__nc-paraguay-itt_2022__NC.csv,,pcs_only
+30,7,2022,result,nc-hong-kong-itt,NC,,30_July_2022__result__nc-hong-kong-itt_2022__NC.csv,,pcs_only
+31,7,2022,result,circuito-de-getxo,1.1,2022 Circuito de Getxo - Memorial Hermanos Otxoa.gpx,31_July_2022__result__circuito-de-getxo_2022__1.1.csv,100.0,match
+31,7,2022,result,grand-prix-yahyali,1.2,2022 Grand Prix Yahyali.gpx,31_July_2022__result__grand-prix-yahyali_2022__1.2.csv,100.0,match
+31,7,2022,result,puchar-ministra-obrony-narodowej,1.2,2022 Puchar MON.gpx,31_July_2022__result__puchar-ministra-obrony-narodowej_2022__1.2.csv,90.0,match
+31,7,2022,stage_8,vuelta-ciclista-a-venezuela,2.2,2022 Vuelta Ciclista a Venezuela Stage 8.gpx,31_July_2022__stage_8__vuelta-ciclista-a-venezuela_2022__2.2.csv,100.0,match
+31,7,2022,stage_2,tour-de-pologne,2.UWT,2022 Tour de Pologne Stage 2.gpx,31_July_2022__stage_2__tour-de-pologne_2022__2.UWT.csv,100.0,match
+31,7,2022,stage_5,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 5.gpx,31_July_2022__stage_5__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+31,7,2022,stage_3,kreiz-breizh-elites,2.2,2022 Kreiz Breizh Elites Stage 3.gpx,31_July_2022__stage_3__kreiz-breizh-elites_2022__2.2.csv,100.0,match
+31,7,2022,stage_5,tour-alsace,2.2,2022 Tour d'Alsace Stage 4.gpx,31_July_2022__stage_5__tour-alsace_2022__2.2.csv,82.0,match
+31,7,2022,result,nc-hong-kong,NC,,31_July_2022__result__nc-hong-kong_2022__NC.csv,,pcs_only
+31,7,2022,result,nc-paraguay,NC,,31_July_2022__result__nc-paraguay_2022__NC.csv,,pcs_only
+1,8,2022,stage_6,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 6.gpx,01_August_2022__stage_6__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+1,8,2022,stage_4,kreiz-breizh-elites,2.2,2022 Kreiz Breizh Elites Stage 4.gpx,01_August_2022__stage_4__kreiz-breizh-elites_2022__2.2.csv,100.0,match
+1,8,2022,stage_3,tour-de-pologne,2.UWT,2022 Tour de Pologne Stage 3.gpx,01_August_2022__stage_3__tour-de-pologne_2022__2.UWT.csv,100.0,match
+2,8,2022,stage_1,vuelta-a-burgos,2.Pro,2022 Vuelta a Burgos Stage 1.gpx,02_August_2022__stage_1__vuelta-a-burgos_2022__2.Pro.csv,100.0,match
+2,8,2022,stage_7,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 7.gpx,02_August_2022__stage_7__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+2,8,2022,stage_4,tour-de-pologne,2.UWT,2022 Tour de Pologne Stage 4.gpx,02_August_2022__stage_4__tour-de-pologne_2022__2.UWT.csv,100.0,match
+3,8,2022,stage_8,tour-of-magnificent-qinghai,2.2,2022 Tour of Qinghai Lake Stage 8.gpx,03_August_2022__stage_8__tour-of-magnificent-qinghai_2022__2.2.csv,100.0,match
+3,8,2022,stage_5,tour-de-pologne,2.UWT,2022 Tour de Pologne Stage 5.gpx,03_August_2022__stage_5__tour-de-pologne_2022__2.UWT.csv,100.0,match
+3,8,2022,stage_2,vuelta-a-burgos,2.Pro,2022 Vuelta a Burgos Stage 2.gpx,03_August_2022__stage_2__vuelta-a-burgos_2022__2.Pro.csv,100.0,match
+4,8,2022,result,commonwealth-games-itt2,JR,2022 Commonwealth Games - ITT.gpx,04_August_2022__result__commonwealth-games-itt2_2022__JR.csv,100.0,match
+4,8,2022,prologue,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Prologue.gpx,04_August_2022__Prologue__volta-a-portugal_2022__2.1.csv,100.0,match
+4,8,2022,stage_6,tour-de-pologne,2.UWT,2022 Tour de Pologne Stage 6.gpx,04_August_2022__stage_6__tour-de-pologne_2022__2.UWT.csv,100.0,match
+4,8,2022,stage_3,vuelta-a-burgos,2.Pro,2022 Vuelta a Burgos Stage 3.gpx,04_August_2022__stage_3__vuelta-a-burgos_2022__2.Pro.csv,100.0,match
+4,8,2022,stage_1,czech-tour,2.1,2022 Sazka Tour Stage 1.gpx,04_August_2022__stage_1__czech-tour_2022__2.1.csv,67.0,match
+5,8,2022,stage_7,tour-de-pologne,2.UWT,2022 Tour de Pologne Stage 7.gpx,05_August_2022__stage_7__tour-de-pologne_2022__2.UWT.csv,100.0,match
+5,8,2022,stage_4,vuelta-a-burgos,2.Pro,2022 Vuelta a Burgos Stage 4.gpx,05_August_2022__stage_4__vuelta-a-burgos_2022__2.Pro.csv,100.0,match
+5,8,2022,stage_1,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 1.gpx,05_August_2022__stage_1__volta-a-portugal_2022__2.1.csv,100.0,match
+5,8,2022,stage_1,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 1.gpx,05_August_2022__stage_1__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+5,8,2022,stage_2,czech-tour,2.1,2022 Sazka Tour Stage 2.gpx,05_August_2022__stage_2__czech-tour_2022__2.1.csv,67.0,match
+6,8,2022,stage_5,vuelta-a-burgos,2.Pro,2022 Vuelta a Burgos Stage 5.gpx,06_August_2022__stage_5__vuelta-a-burgos_2022__2.Pro.csv,100.0,match
+6,8,2022,result,la-maurienne,1.2,2022 La Maurienne.gpx,06_August_2022__result__la-maurienne_2022__1.2.csv,100.0,match
+6,8,2022,stage_2,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 2.gpx,06_August_2022__stage_2__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+6,8,2022,stage_2,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 2.gpx,06_August_2022__stage_2__volta-a-portugal_2022__2.1.csv,100.0,match
+6,8,2022,result,scandinavian-race-uppsala,1.2,2022 Scandinavian Race in Uppsala 1909-2022.gpx,06_August_2022__result__scandinavian-race-uppsala_2022__1.2.csv,88.0,match
+6,8,2022,stage_3,czech-tour,2.1,2022 Sazka Tour Stage 3.gpx,06_August_2022__stage_3__czech-tour_2022__2.1.csv,67.0,match
+7,8,2022,stage_3,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 3.gpx,07_August_2022__stage_3__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+7,8,2022,stage_3,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 3.gpx,07_August_2022__stage_3__volta-a-portugal_2022__2.1.csv,100.0,match
+7,8,2022,result,gp-jef-scherens,1.1,2022 Tour of Leuven - Memorial Jef Scherens.gpx,07_August_2022__result__gp-jef-scherens_2022__1.1.csv,93.0,match
+7,8,2022,result,commonwealth-games,JR,2022 Commonwealth Games.gpx,07_August_2022__result__commonwealth-games_2022__JR.csv,100.0,match
+7,8,2022,stage_4,czech-tour,2.1,2022 Sazka Tour Stage 4.gpx,07_August_2022__stage_4__czech-tour_2022__2.1.csv,67.0,match
+8,8,2022,stage_4,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 4.gpx,08_August_2022__stage_4__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+8,8,2022,stage_4,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 4.gpx,08_August_2022__stage_4__volta-a-portugal_2022__2.1.csv,100.0,match
+9,8,2022,stage_1,tour-of-szeklerland,2.2,2022 Tour of Szeklerland Stage 1.gpx,09_August_2022__stage_1__tour-of-szeklerland_2022__2.2.csv,100.0,match
+9,8,2022,stage_1,tour-de-l-ain,2.1,2022 Tour de l'Ain Stage 1.gpx,09_August_2022__stage_1__tour-de-l-ain_2022__2.1.csv,100.0,match
+9,8,2022,stage_5,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 5.gpx,09_August_2022__stage_5__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+10,8,2022,stage_6,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 6.gpx,10_August_2022__stage_6__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+10,8,2022,stage_2,tour-of-szeklerland,2.2,2022 Tour of Szeklerland Stage 2.gpx,10_August_2022__stage_2__tour-of-szeklerland_2022__2.2.csv,100.0,match
+10,8,2022,stage_2,tour-de-l-ain,2.1,2022 Tour de l'Ain Stage 2.gpx,10_August_2022__stage_2__tour-de-l-ain_2022__2.1.csv,100.0,match
+10,8,2022,result,circuit-franco-belge,1.Pro,2022 Circuit Franco-Belge.gpx,10_August_2022__result__circuit-franco-belge_2022__1.Pro.csv,100.0,match
+10,8,2022,stage_5,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 5.gpx,10_August_2022__stage_5__volta-a-portugal_2022__2.1.csv,100.0,match
+11,8,2022,stage_3,tour-de-l-ain,2.1,2022 Tour de l'Ain Stage 3.gpx,11_August_2022__stage_3__tour-de-l-ain_2022__2.1.csv,100.0,match
+11,8,2022,stage_3,tour-of-szeklerland,2.2,2022 Tour of Szeklerland Stage 3.gpx,11_August_2022__stage_3__tour-of-szeklerland_2022__2.2.csv,100.0,match
+11,8,2022,stage_6,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 6.gpx,11_August_2022__stage_6__volta-a-portugal_2022__2.1.csv,100.0,match
+11,8,2022,stage_1,arctic-race-of-norway,2.Pro,2022 Arctic Race of Norway Stage 1.gpx,11_August_2022__stage_1__arctic-race-of-norway_2022__2.Pro.csv,100.0,match
+11,8,2022,stage_7,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 7.gpx,11_August_2022__stage_7__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+11,8,2022,result,islamic-solidarity-games-me-itt,JR,,11_August_2022__result__islamic-solidarity-games-me-itt_2022__JR.csv,,pcs_only
+12,8,2022,stage_7,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 7.gpx,12_August_2022__stage_7__volta-a-portugal_2022__2.1.csv,100.0,match
+12,8,2022,stage_2,arctic-race-of-norway,2.Pro,2022 Arctic Race of Norway Stage 2.gpx,12_August_2022__stage_2__arctic-race-of-norway_2022__2.Pro.csv,100.0,match
+12,8,2022,stage_4,tour-of-szeklerland,2.2,2022 Tour of Szeklerland Stage 4.gpx,12_August_2022__stage_4__tour-of-szeklerland_2022__2.2.csv,100.0,match
+12,8,2022,stage_8,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 8.gpx,12_August_2022__stage_8__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+13,8,2022,result,memorial-henryka-lasaka,1.2,2022 Memorial Henryka Lasaka.gpx,13_August_2022__result__memorial-henryka-lasaka_2022__1.2.csv,100.0,match
+13,8,2022,stage_8,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 8.gpx,13_August_2022__stage_8__volta-a-portugal_2022__2.1.csv,100.0,match
+13,8,2022,stage_5,tour-of-szeklerland,2.2,2022 Tour of Szeklerland Stage 5.gpx,13_August_2022__stage_5__tour-of-szeklerland_2022__2.2.csv,100.0,match
+13,8,2022,stage_9,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 9.gpx,13_August_2022__stage_9__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+13,8,2022,stage_3,arctic-race-of-norway,2.Pro,2022 Arctic Race of Norway Stage 3.gpx,13_August_2022__stage_3__arctic-race-of-norway_2022__2.Pro.csv,100.0,match
+13,8,2022,result,islamic-solidarity-games-me-road-race,JR,,13_August_2022__result__islamic-solidarity-games-me-road-race_2022__JR.csv,,pcs_only
+14,8,2022,result,la-poly-normande,1.1,2022 La Polynormande.gpx,14_August_2022__result__la-poly-normande_2022__1.1.csv,93.0,match
+14,8,2022,result,memorial_jana_magiery_2022,1.2,2022 Memorial Jana Magiery.gpx,14_August_2022__result__memorial_jana_magiery_2022_2022__1.2.csv,90.0,match
+14,8,2022,stage_9,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 9.gpx,14_August_2022__stage_9__volta-a-portugal_2022__2.1.csv,100.0,match
+14,8,2022,stage_4,arctic-race-of-norway,2.Pro,2022 Arctic Race of Norway Stage 4.gpx,14_August_2022__stage_4__arctic-race-of-norway_2022__2.Pro.csv,100.0,match
+14,8,2022,stage_10,tour-cycliste-international-de-la-guadeloupe,2.2,2022 Tour Cycliste International de la Guadeloupe Stage 10.gpx,14_August_2022__stage_10__tour-cycliste-international-de-la-guadeloupe_2022__2.2.csv,100.0,match
+14,8,2022,result,uec-road-european-championships-me,CC,2022 UEC European Championships.gpx,14_August_2022__result__uec-road-european-championships-me_2022__CC.csv,88.0,match
+15,8,2022,stage_10,volta-a-portugal,2.1,2022 Volta a Portugal em Bicicleta Stage 10.gpx,15_August_2022__stage_10__volta-a-portugal_2022__2.1.csv,100.0,match
+16,8,2022,stage_1,tour-du-limousin,2.1,2022 Tour du Limousin - Nouvelle Aquitaine Stage 1.gpx,16_August_2022__stage_1__tour-du-limousin_2022__2.1.csv,100.0,match
+16,8,2022,stage_1,tour-of-denmark,2.Pro,2022 PostNord Danmark Rundt - Tour of Denmark Stage 1.gpx,16_August_2022__stage_1__tour-of-denmark_2022__2.Pro.csv,100.0,match
+17,8,2022,result,uec-road-european-championships-itt,CC,2022 UEC European Championships - ITT.gpx,17_August_2022__result__uec-road-european-championships-itt_2022__CC.csv,95.0,match
+17,8,2022,stage_2,tour-of-denmark,2.Pro,2022 PostNord Danmark Rundt - Tour of Denmark Stage 2.gpx,17_August_2022__stage_2__tour-of-denmark_2022__2.Pro.csv,100.0,match
+17,8,2022,stage_2,tour-du-limousin,2.1,2022 Tour du Limousin - Nouvelle Aquitaine Stage 2.gpx,17_August_2022__stage_2__tour-du-limousin_2022__2.1.csv,100.0,match
+18,8,2022,stage_1,baltic-chain-tour,2.2,2022 Baltic Chain Tour Stage 1.gpx,18_August_2022__stage_1__baltic-chain-tour_2022__2.2.csv,100.0,match
+18,8,2022,stage_3,tour-du-limousin,2.1,2022 Tour du Limousin - Nouvelle Aquitaine Stage 3.gpx,18_August_2022__stage_3__tour-du-limousin_2022__2.1.csv,100.0,match
+18,8,2022,stage_3,tour-of-denmark,2.Pro,2022 PostNord Danmark Rundt - Tour of Denmark Stage 3.gpx,18_August_2022__stage_3__tour-of-denmark_2022__2.Pro.csv,100.0,match
+18,8,2022,result,grand-prix-tomarza,1.2,2022 Grand Prix Tomarza.gpx,18_August_2022__result__grand-prix-tomarza_2022__1.2.csv,100.0,match
+19,8,2022,stage_2,baltic-chain-tour,2.2,2022 Baltic Chain Tour Stage 2.gpx,19_August_2022__stage_2__baltic-chain-tour_2022__2.2.csv,100.0,match
+19,8,2022,stage_4,tour-of-denmark,2.Pro,2022 PostNord Danmark Rundt - Tour of Denmark Stage 4.gpx,19_August_2022__stage_4__tour-of-denmark_2022__2.Pro.csv,100.0,match
+19,8,2022,stage_4,tour-du-limousin,2.1,2022 Tour du Limousin - Nouvelle Aquitaine Stage 4.gpx,19_August_2022__stage_4__tour-du-limousin_2022__2.1.csv,100.0,match
+19,8,2022,result,grand-prix-kapuzbasi,1.2,2022 Grand Prix Kapuzbasi.gpx,19_August_2022__result__grand-prix-kapuzbasi_2022__1.2.csv,100.0,match
+19,8,2022,stage_1,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 1.gpx,19_August_2022__stage_1__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+20,8,2022,stage_3,baltic-chain-tour,2.2,2022 Baltic Chain Tour Stage 3.gpx,20_August_2022__stage_3__baltic-chain-tour_2022__2.2.csv,100.0,match
+20,8,2022,result,grand-prix-develi,1.2,2022 Grand Prix Develi.gpx,20_August_2022__result__grand-prix-develi_2022__1.2.csv,100.0,match
+20,8,2022,stage_5,tour-of-denmark,2.Pro,2022 PostNord Danmark Rundt - Tour of Denmark Stage 5.gpx,20_August_2022__stage_5__tour-of-denmark_2022__2.Pro.csv,100.0,match
+20,8,2022,stage_2,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 2.gpx,20_August_2022__stage_2__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+21,8,2022,stage_4,baltic-chain-tour,2.2,2022 Baltic Chain Tour Stage 4.gpx,21_August_2022__stage_4__baltic-chain-tour_2022__2.2.csv,100.0,match
+21,8,2022,result,grand-prix-cappadocia,1.2,2022 Grand Prix Cappadocia.gpx,21_August_2022__result__grand-prix-cappadocia_2022__1.2.csv,100.0,match
+21,8,2022,result,cyclassics-hamburg,1.UWT,2022 BEMER Cyclassics.gpx,21_August_2022__result__cyclassics-hamburg_2022__1.UWT.csv,100.0,match
+21,8,2022,result,schaal-schels,1.1,2022 Schaal Sels Merksem/ Johan Museeuw Classic.gpx,21_August_2022__result__schaal-schels_2022__1.1.csv,92.0,match
+21,8,2022,stage_3,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 3.gpx,21_August_2022__stage_3__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+23,8,2022,stage_4,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 4.gpx,23_August_2022__stage_4__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+23,8,2022,stage_1,tour-du-poitou-charentes-et-de-la-vienne,2.1,2022 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 1.gpx,23_August_2022__stage_1__tour-du-poitou-charentes-et-de-la-vienne_2022__2.1.csv,100.0,match
+23,8,2022,result,gp-stad-zottegem,1.1,,23_August_2022__result__gp-stad-zottegem_2022__1.1.csv,,pcs_only
+24,8,2022,stage_2,tour-du-poitou-charentes-et-de-la-vienne,2.1,2022 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 2.gpx,24_August_2022__stage_2__tour-du-poitou-charentes-et-de-la-vienne_2022__2.1.csv,100.0,match
+24,8,2022,prologue,deutschland-tour,2.Pro,2022 Deutschland Tour Prologue.gpx,24_August_2022__Prologue__deutschland-tour_2022__2.Pro.csv,100.0,match
+24,8,2022,stage_5,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 5.gpx,24_August_2022__stage_5__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+24,8,2022,result,druivenkoers-overijse,1.1,2022 Druivenkoers - Overijse.gpx,24_August_2022__result__druivenkoers-overijse_2022__1.1.csv,100.0,match
+25,8,2022,stage_3,tour-du-poitou-charentes-et-de-la-vienne,2.1,2022 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 3-1.gpx,25_August_2022__stage_3__tour-du-poitou-charentes-et-de-la-vienne_2022__2.1.csv,100.0,match
+25,8,2022,stage_1,tour-of-konya,2.2,2022 Tour of Sakarya Stage 1.gpx,25_August_2022__stage_1__tour-of-konya_2022__2.2.csv,100.0,match
+25,8,2022,stage_1,deutschland-tour,2.Pro,2022 Deutschland Tour Stage 1.gpx,25_August_2022__stage_1__deutschland-tour_2022__2.Pro.csv,100.0,match
+25,8,2022,stage_6,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 6.gpx,25_August_2022__stage_6__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+25,8,2022,stage_4,tour-du-poitou-charentes-et-de-la-vienne,2.1,,25_August_2022__stage_4__tour-du-poitou-charentes-et-de-la-vienne_2022__2.1.csv,,pcs_only
+26,8,2022,stage_2,tour-of-konya,2.2,2022 Tour of Sakarya Stage 2.gpx,26_August_2022__stage_2__tour-of-konya_2022__2.2.csv,100.0,match
+26,8,2022,stage_2,deutschland-tour,2.Pro,2022 Deutschland Tour Stage 2.gpx,26_August_2022__stage_2__deutschland-tour_2022__2.Pro.csv,100.0,match
+26,8,2022,stage_7,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 7.gpx,26_August_2022__stage_7__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+26,8,2022,stage_5,tour-du-poitou-charentes-et-de-la-vienne,2.1,2022 Tour Poitou - Charentes en Nouvelle Aquitaine Stage 4.gpx,26_August_2022__stage_5__tour-du-poitou-charentes-et-de-la-vienne_2022__2.1.csv,95.0,match
+27,8,2022,prologue,tour-of-bulgaria,2.2,2022 Tour of Bulgaria Prologue.gpx,27_August_2022__Prologue__tour-of-bulgaria_2022__2.2.csv,100.0,match
+27,8,2022,stage_3,deutschland-tour,2.Pro,2022 Deutschland Tour Stage 3.gpx,27_August_2022__stage_3__deutschland-tour_2022__2.Pro.csv,100.0,match
+27,8,2022,stage_3,tour-of-konya,2.2,2022 Tour of Sakarya Stage 3.gpx,27_August_2022__stage_3__tour-of-konya_2022__2.2.csv,100.0,match
+27,8,2022,stage_8,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 8.gpx,27_August_2022__stage_8__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+28,8,2022,result,bretagne-classic,1.UWT,2022 Bretagne Classic - Ouest-France.gpx,28_August_2022__result__bretagne-classic_2022__1.UWT.csv,100.0,match
+28,8,2022,result,ronde-van-de-achterhoek,1.2,2022 Ronde van de Achterhoek.gpx,28_August_2022__result__ronde-van-de-achterhoek_2022__1.2.csv,100.0,match
+28,8,2022,stage_4,tour-of-konya,2.2,2022 Tour of Sakarya Stage 4.gpx,28_August_2022__stage_4__tour-of-konya_2022__2.2.csv,100.0,match
+28,8,2022,stage_4,deutschland-tour,2.Pro,2022 Deutschland Tour Stage 4.gpx,28_August_2022__stage_4__deutschland-tour_2022__2.Pro.csv,100.0,match
+28,8,2022,stage_9,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 9.gpx,28_August_2022__stage_9__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+28,8,2022,stage_1,tour-of-bulgaria,2.2,2022 Tour of Bulgaria Stage 1.gpx,28_August_2022__stage_1__tour-of-bulgaria_2022__2.2.csv,100.0,match
+29,8,2022,stage_2,tour-of-bulgaria,2.2,2022 Tour of Bulgaria Stage 2.gpx,29_August_2022__stage_2__tour-of-bulgaria_2022__2.2.csv,100.0,match
+30,8,2022,stage_10,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 10.gpx,30_August_2022__stage_10__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+31,8,2022,stage_11,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 11.gpx,31_August_2022__stage_11__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+1,9,2022,stage_12,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 12.gpx,01_September_2022__stage_12__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+1,9,2022,stage_1,giro-della-regione-friuli-venezia-giulia,2.2,2022 Giro della Regione Friuli Venezia Giulia Stage 1.gpx,01_September_2022__stage_1__giro-della-regione-friuli-venezia-giulia_2022__2.2.csv,100.0,match
+2,9,2022,stage_2,giro-della-regione-friuli-venezia-giulia,2.2,2022 Giro della Regione Friuli Venezia Giulia Stage 2.gpx,02_September_2022__stage_2__giro-della-regione-friuli-venezia-giulia_2022__2.2.csv,100.0,match
+2,9,2022,stage_13,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 13.gpx,02_September_2022__stage_13__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+3,9,2022,result,lillehammer-gp,1.2,2022 Lillehammer GP.gpx,03_September_2022__result__lillehammer-gp_2022__1.2.csv,100.0,match
+3,9,2022,stage_3,giro-della-regione-friuli-venezia-giulia,2.2,2022 Giro della Regione Friuli Venezia Giulia Stage 3.gpx,03_September_2022__stage_3__giro-della-regione-friuli-venezia-giulia_2022__2.2.csv,100.0,match
+3,9,2022,stage_1,in-the-footsteps-of-the-romans,2.2,2022 In the footsteps of the Romans Stage 1.gpx,03_September_2022__stage_1__in-the-footsteps-of-the-romans_2022__2.2.csv,100.0,match
+3,9,2022,stage_14,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 14.gpx,03_September_2022__stage_14__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+4,9,2022,result,tour-du-doubs,1.1,2022 Tour du Doubs.gpx,04_September_2022__result__tour-du-doubs_2022__1.1.csv,100.0,match
+4,9,2022,result,maryland-cycling-classic,1.Pro,"2022 Maryland Cycling Classic, presented by UnitedHealthcare.gpx",04_September_2022__result__maryland-cycling-classic_2022__1.Pro.csv,100.0,match
+4,9,2022,result,gylne-gutuer,1.2,2022 Gylne Gutuer.gpx,04_September_2022__result__gylne-gutuer_2022__1.2.csv,100.0,match
+4,9,2022,stage_2,in-the-footsteps-of-the-romans,2.2,2022 In the footsteps of the Romans Stage 2.gpx,04_September_2022__stage_2__in-the-footsteps-of-the-romans_2022__2.2.csv,100.0,match
+4,9,2022,stage_1,tour-of-britain,2.Pro,2022 Tour of Britain Stage 1.gpx,04_September_2022__stage_1__tour-of-britain_2022__2.Pro.csv,100.0,match
+4,9,2022,stage_4,giro-della-regione-friuli-venezia-giulia,2.2,2022 Giro della Regione Friuli Venezia Giulia Stage 4.gpx,04_September_2022__stage_4__giro-della-regione-friuli-venezia-giulia_2022__2.2.csv,100.0,match
+4,9,2022,stage_15,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 15.gpx,04_September_2022__stage_15__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+5,9,2022,stage_2,tour-of-britain,2.Pro,2022 Tour of Britain Stage 2.gpx,05_September_2022__stage_2__tour-of-britain_2022__2.Pro.csv,100.0,match
+6,9,2022,stage_3,tour-of-britain,2.Pro,2022 Tour of Britain Stage 3.gpx,06_September_2022__stage_3__tour-of-britain_2022__2.Pro.csv,100.0,match
+6,9,2022,prologue,turul-romaniei,2.1,2022 Turul Romaniei Prologue.gpx,06_September_2022__Prologue__turul-romaniei_2022__2.1.csv,100.0,match
+6,9,2022,stage_16,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 16.gpx,06_September_2022__stage_16__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+7,9,2022,stage_4,tour-of-britain,2.Pro,2022 Tour of Britain Stage 4.gpx,07_September_2022__stage_4__tour-of-britain_2022__2.Pro.csv,100.0,match
+7,9,2022,stage_17,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 17.gpx,07_September_2022__stage_17__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+7,9,2022,stage_1,turul-romaniei,2.1,2022 Turul Romaniei Stage 1.gpx,07_September_2022__stage_1__turul-romaniei_2022__2.1.csv,100.0,match
+8,9,2022,stage_5,tour-of-britain,2.Pro,2022 Tour of Britain Stage 5.gpx,08_September_2022__stage_5__tour-of-britain_2022__2.Pro.csv,100.0,match
+8,9,2022,stage_18,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 18.gpx,08_September_2022__stage_18__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+8,9,2022,stage_2,turul-romaniei,2.1,2022 Turul Romaniei Stage 2.gpx,08_September_2022__stage_2__turul-romaniei_2022__2.1.csv,100.0,match
+8,9,2022,stage_1,okolo-jiznich-cech,2.2,2022 Okolo jiznich Cech - Tour of South Bohemia Prologue.gpx,08_September_2022__stage_1__okolo-jiznich-cech_2022__2.2.csv,100.0,match
+9,9,2022,stage_3,turul-romaniei,2.1,2022 Turul Romaniei Stage 3.gpx,09_September_2022__stage_3__turul-romaniei_2022__2.1.csv,100.0,match
+9,9,2022,result,gp-quebec,1.UWT,2022 Grand Prix Cycliste de Quebec.gpx,09_September_2022__result__gp-quebec_2022__1.UWT.csv,100.0,match
+9,9,2022,stage_2,okolo-jiznich-cech,2.2,2022 Okolo jiznich Cech - Tour of South Bohemia Stage 1.gpx,09_September_2022__stage_2__okolo-jiznich-cech_2022__2.2.csv,100.0,match
+9,9,2022,stage_19,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 19.gpx,09_September_2022__stage_19__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+9,9,2022,stage_1,tour-de-hokkaido,2.2,2022 Tour de Hokkaido Stage 1.gpx,09_September_2022__stage_1__tour-de-hokkaido_2022__2.2.csv,100.0,match
+10,9,2022,stage_2,tour-de-hokkaido,2.2,2022 Tour de Hokkaido Stage 2.gpx,10_September_2022__stage_2__tour-de-hokkaido_2022__2.2.csv,100.0,match
+10,9,2022,stage_3,okolo-jiznich-cech,2.2,2022 Okolo jiznich Cech - Tour of South Bohemia Stage 2.gpx,10_September_2022__stage_3__okolo-jiznich-cech_2022__2.2.csv,100.0,match
+10,9,2022,stage_4,turul-romaniei,2.1,2022 Turul Romaniei Stage 4.gpx,10_September_2022__stage_4__turul-romaniei_2022__2.1.csv,100.0,match
+10,9,2022,stage_20,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 20.gpx,10_September_2022__stage_20__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+10,9,2022,result,nc-albania-itt,NC,,10_September_2022__result__nc-albania-itt_2022__NC.csv,,pcs_only
+11,9,2022,stage_5,turul-romaniei,2.1,2022 Turul Romaniei Stage 5.gpx,11_September_2022__stage_5__turul-romaniei_2022__2.1.csv,100.0,match
+11,9,2022,stage_21,vuelta-a-espana,2.UWT,2022 La Vuelta ciclista a Espana Stage 21.gpx,11_September_2022__stage_21__vuelta-a-espana_2022__2.UWT.csv,100.0,match
+11,9,2022,stage_3,tour-de-hokkaido,2.2,2022 Tour de Hokkaido Stage 3.gpx,11_September_2022__stage_3__tour-de-hokkaido_2022__2.2.csv,100.0,match
+11,9,2022,stage_4,okolo-jiznich-cech,2.2,2022 Okolo jiznich Cech - Tour of South Bohemia Stage 3.gpx,11_September_2022__stage_4__okolo-jiznich-cech_2022__2.2.csv,100.0,match
+11,9,2022,result,gp-montreal,1.UWT,2022 Grand Prix Cycliste de Montreal.gpx,11_September_2022__result__gp-montreal_2022__1.UWT.csv,100.0,match
+11,9,2022,result,gp-de-fourmies,1.Pro,2022 GP de Fourmies - La Voix du Nord.gpx,11_September_2022__result__gp-de-fourmies_2022__1.Pro.csv,100.0,match
+11,9,2022,result,gp-de-la-somme,1.2,2022 Grand Prix de la Somme Conseil Departemental 80.gpx,11_September_2022__result__gp-de-la-somme_2022__1.2.csv,86.0,match
+11,9,2022,result,nc-albania,NC,,11_September_2022__result__nc-albania_2022__NC.csv,,pcs_only
+13,9,2022,stage_1,tour-de-luxembourg,2.Pro,2022 Skoda Tour Luxembourg Stage 1.gpx,13_September_2022__stage_1__tour-de-luxembourg_2022__2.Pro.csv,91.0,match
+13,9,2022,prologue,okolo-slovenska,2.1,,13_September_2022__Prologue__okolo-slovenska_2022__2.1.csv,,pcs_only
+14,9,2022,stage_1,tour-de-serbie,2.2,2022 Tour de Serbie Stage 1.gpx,14_September_2022__stage_1__tour-de-serbie_2022__2.2.csv,100.0,match
+14,9,2022,result,giro-di-toscana,1.1,2022 Giro della Toscana - Memorial Alfredo Martini.gpx,14_September_2022__result__giro-di-toscana_2022__1.1.csv,100.0,match
+14,9,2022,result,gp-de-wallonie,1.Pro,2022 Grand Prix de Wallonie.gpx,14_September_2022__result__gp-de-wallonie_2022__1.Pro.csv,92.0,match
+14,9,2022,stage_2,tour-de-luxembourg,2.Pro,2022 Skoda Tour Luxembourg Stage 2.gpx,14_September_2022__stage_2__tour-de-luxembourg_2022__2.Pro.csv,91.0,match
+14,9,2022,stage_1,okolo-slovenska,2.1,,14_September_2022__stage_1__okolo-slovenska_2022__2.1.csv,,pcs_only
+15,9,2022,stage_2,tour-de-serbie,2.2,2022 Tour de Serbie Stage 2.gpx,15_September_2022__stage_2__tour-de-serbie_2022__2.2.csv,100.0,match
+15,9,2022,result,gp-citta-di-peccioli,1.Pro,2022 Coppa Sabatini - Gran Premio citta di Peccioli.gpx,15_September_2022__result__gp-citta-di-peccioli_2022__1.Pro.csv,100.0,match
+15,9,2022,stage_3,tour-de-luxembourg,2.Pro,2022 Skoda Tour Luxembourg Stage 3.gpx,15_September_2022__stage_3__tour-de-luxembourg_2022__2.Pro.csv,91.0,match
+15,9,2022,stage_2,okolo-slovenska,2.1,,15_September_2022__stage_2__okolo-slovenska_2022__2.1.csv,,pcs_only
+16,9,2022,stage_3,tour-de-serbie,2.2,2022 Tour de Serbie Stage 3.gpx,16_September_2022__stage_3__tour-de-serbie_2022__2.2.csv,100.0,match
+16,9,2022,result,kampioenschap-van-vlaanderen1,1.1,2022 Kampioenschap van Vlaanderen.gpx,16_September_2022__result__kampioenschap-van-vlaanderen1_2022__1.1.csv,100.0,match
+16,9,2022,stage_4,tour-de-luxembourg,2.Pro,2022 Skoda Tour Luxembourg Stage 4.gpx,16_September_2022__stage_4__tour-de-luxembourg_2022__2.Pro.csv,91.0,match
+16,9,2022,stage_3,okolo-slovenska,2.1,,16_September_2022__stage_3__okolo-slovenska_2022__2.1.csv,,pcs_only
+17,9,2022,result,grote-prijs-rik-van-looy,1.2,2022 Grote Prijs Rik Van Looy.gpx,17_September_2022__result__grote-prijs-rik-van-looy_2022__1.2.csv,100.0,match
+17,9,2022,stage_4,tour-de-serbie,2.2,2022 Tour de Serbie Stage 4.gpx,17_September_2022__stage_4__tour-de-serbie_2022__2.2.csv,100.0,match
+17,9,2022,stage_5,tour-de-luxembourg,2.Pro,2022 Skoda Tour Luxembourg Stage 5.gpx,17_September_2022__stage_5__tour-de-luxembourg_2022__2.Pro.csv,91.0,match
+17,9,2022,result,gp-impanis-van-petegem,1.Pro,2022 Primus Classic.gpx,17_September_2022__result__gp-impanis-van-petegem_2022__1.Pro.csv,74.0,match
+17,9,2022,result,nc-barbados-itt,NC,,17_September_2022__result__nc-barbados-itt_2022__NC.csv,,pcs_only
+17,9,2022,stage_4,okolo-slovenska,2.1,,17_September_2022__stage_4__okolo-slovenska_2022__2.1.csv,,pcs_only
+18,9,2022,result,world-championship-itt,WC,2022 UCI Road World Championships - ITT.gpx,18_September_2022__result__world-championship-itt_2022__WC.csv,95.0,match
+18,9,2022,result,gooikse-pijl,1.1,2022 Gooikse Pijl.gpx,18_September_2022__result__gooikse-pijl_2022__1.1.csv,100.0,match
+18,9,2022,result,gp-d-isbergues,1.1,2022 Grand Prix d'Isbergues - Pas de Calais.gpx,18_September_2022__result__gp-d-isbergues_2022__1.1.csv,86.0,match
+18,9,2022,result,nc-barbados,NC,,18_September_2022__result__nc-barbados_2022__NC.csv,,pcs_only
+21,9,2022,result,omloop-van-het-houtland-lichtervelde,1.1,2022 Omloop van het Houtland.gpx,21_September_2022__result__omloop-van-het-houtland-lichtervelde_2022__1.1.csv,100.0,match
+25,9,2022,result,world-championship,WC,2022 UCI Road World Championships.gpx,25_September_2022__result__world-championship_2022__WC.csv,100.0,match
+25,9,2022,result,paris-chauny-classique,1.1,2022 Classique Paris-Chauny.gpx,25_September_2022__result__paris-chauny-classique_2022__1.1.csv,71.0,match
+27,9,2022,stage_1,tour-of-croatia,2.1,2022 Cro Race Stage 1.gpx,27_September_2022__stage_1__tour-of-croatia_2022__2.1.csv,100.0,match
+28,9,2022,stage_2,tour-of-croatia,2.1,2022 Cro Race Stage 2.gpx,28_September_2022__stage_2__tour-of-croatia_2022__2.1.csv,100.0,match
+29,9,2022,stage_3,tour-of-croatia,2.1,2022 Cro Race Stage 3.gpx,29_September_2022__stage_3__tour-of-croatia_2022__2.1.csv,100.0,match
+29,9,2022,result,coppa-agostoni,1.1,2022 Coppa Agostoni - Giro delle Brianze.gpx,29_September_2022__result__coppa-agostoni_2022__1.1.csv,100.0,match
+29,9,2022,stage_1,international-azerbaijan-tour,2.1,2022 Tour of Iran (Azarbaijan) Stage 1.gpx,29_September_2022__stage_1__international-azerbaijan-tour_2022__2.1.csv,61.0,match
+30,9,2022,stage_4,tour-of-croatia,2.1,2022 Cro Race Stage 4.gpx,30_September_2022__stage_4__tour-of-croatia_2022__2.1.csv,100.0,match
+30,9,2022,stage_2,international-azerbaijan-tour,2.1,2022 Tour of Iran (Azarbaijan) Stage 2.gpx,30_September_2022__stage_2__international-azerbaijan-tour_2022__2.1.csv,61.0,match
+1,10,2022,result,giro-dell-emilia,1.Pro,2022 Giro dell'Emilia.gpx,01_October_2022__result__giro-dell-emilia_2022__1.Pro.csv,100.0,match
+1,10,2022,stage_5,tour-of-croatia,2.1,2022 Cro Race Stage 5.gpx,01_October_2022__stage_5__tour-of-croatia_2022__2.1.csv,100.0,match
+1,10,2022,stage_3,international-azerbaijan-tour,2.1,2022 Tour of Iran (Azarbaijan) Stage 3.gpx,01_October_2022__stage_3__international-azerbaijan-tour_2022__2.1.csv,61.0,match
+2,10,2022,result,tour-de-vendee,1.1,2022 Tour de Vendee.gpx,02_October_2022__result__tour-de-vendee_2022__1.1.csv,100.0,match
+2,10,2022,result,oita-urban-classic,1.2,2022 Oita Urban Classic.gpx,02_October_2022__result__oita-urban-classic_2022__1.2.csv,100.0,match
+2,10,2022,result,famenne-ardenne-classic,1.1,2022 Famenne Ardenne Classic.gpx,02_October_2022__result__famenne-ardenne-classic_2022__1.1.csv,100.0,match
+2,10,2022,stage_1,tour-de-taiwan,2.1,2022 Tour de Taiwan Stage 1.gpx,02_October_2022__stage_1__tour-de-taiwan_2022__2.1.csv,100.0,match
+2,10,2022,stage_6,tour-of-croatia,2.1,2022 Cro Race Stage 6.gpx,02_October_2022__stage_6__tour-of-croatia_2022__2.1.csv,100.0,match
+2,10,2022,stage_4,international-azerbaijan-tour,2.1,2022 Tour of Iran (Azarbaijan) Stage 4.gpx,02_October_2022__stage_4__international-azerbaijan-tour_2022__2.1.csv,61.0,match
+3,10,2022,stage_1,grand-prix-chantal-biya,2.2,2022 Grand Prix Chantal Biya Stage 1.gpx,03_October_2022__stage_1__grand-prix-chantal-biya_2022__2.2.csv,100.0,match
+3,10,2022,result,munsterland-giro,1.Pro,2022 Sparkassen Muensterland Giro.gpx,03_October_2022__result__munsterland-giro_2022__1.Pro.csv,100.0,match
+3,10,2022,result,coppa-bernocchi,1.Pro,2022 Coppa Bernocchi - GP BPM.gpx,03_October_2022__result__coppa-bernocchi_2022__1.Pro.csv,100.0,match
+3,10,2022,stage_2,tour-de-taiwan,2.1,2022 Tour de Taiwan Stage 2.gpx,03_October_2022__stage_2__tour-de-taiwan_2022__2.1.csv,100.0,match
+3,10,2022,stage_5,international-azerbaijan-tour,2.1,2022 Tour of Iran (Azarbaijan) Stage 5.gpx,03_October_2022__stage_5__international-azerbaijan-tour_2022__2.1.csv,61.0,match
+3,10,2022,result,juegos-suramericanos-itt,1.2,,03_October_2022__result__juegos-suramericanos-itt_2022__1.2.csv,,pcs_only
+4,10,2022,result,tre-valli-varesine,1.Pro,2022 Tre Valli Varesine.gpx,04_October_2022__result__tre-valli-varesine_2022__1.Pro.csv,100.0,match
+4,10,2022,result,memorial-frank-vandenbroucke,1.1,2022 Binche - Chimay - Binche (Memorial Frank Vandenbroucke).gpx,04_October_2022__result__memorial-frank-vandenbroucke_2022__1.1.csv,100.0,match
+4,10,2022,stage_3,tour-de-taiwan,2.1,2022 Tour de Taiwan Stage 3.gpx,04_October_2022__stage_3__tour-de-taiwan_2022__2.1.csv,100.0,match
+4,10,2022,stage_1,international-syrian-tour,2.2,,04_October_2022__stage_1__international-syrian-tour_2022__2.2.csv,,pcs_only
+5,10,2022,stage_2,grand-prix-chantal-biya,2.2,2022 Grand Prix Chantal Biya Stage 2.gpx,05_October_2022__stage_2__grand-prix-chantal-biya_2022__2.2.csv,100.0,match
+5,10,2022,stage_4,tour-de-taiwan,2.1,2022 Tour de Taiwan Stage 4.gpx,05_October_2022__stage_4__tour-de-taiwan_2022__2.1.csv,100.0,match
+5,10,2022,stage_2,international-syrian-tour,2.2,,05_October_2022__stage_2__international-syrian-tour_2022__2.2.csv,,pcs_only
+5,10,2022,result,juegos-suramericanos-road-race,1.2,,05_October_2022__result__juegos-suramericanos-road-race_2022__1.2.csv,,pcs_only
+6,10,2022,stage_5,tour-de-taiwan,2.1,2022 Tour de Taiwan Stage 5.gpx,06_October_2022__stage_5__tour-de-taiwan_2022__2.1.csv,100.0,match
+6,10,2022,result,paris-bourges,1.1,2022 Paris - Bourges.gpx,06_October_2022__result__paris-bourges_2022__1.1.csv,100.0,match
+6,10,2022,result,gran-piemonte,1.Pro,2022 Gran Piemonte.gpx,06_October_2022__result__gran-piemonte_2022__1.Pro.csv,100.0,match
+6,10,2022,stage_3,grand-prix-chantal-biya,2.2,2022 Grand Prix Chantal Biya Stage 3.gpx,06_October_2022__stage_3__grand-prix-chantal-biya_2022__2.2.csv,100.0,match
+6,10,2022,stage_3,international-syrian-tour,2.2,,06_October_2022__stage_3__international-syrian-tour_2022__2.2.csv,,pcs_only
+7,10,2022,stage_4,grand-prix-chantal-biya,2.2,2022 Grand Prix Chantal Biya Stage 4.gpx,07_October_2022__stage_4__grand-prix-chantal-biya_2022__2.2.csv,100.0,match
+7,10,2022,result,national-championships-oman-itt,NC,,07_October_2022__result__national-championships-oman-itt_2022__NC.csv,,pcs_only
+7,10,2022,stage_4,international-syrian-tour,2.2,,07_October_2022__stage_4__international-syrian-tour_2022__2.2.csv,,pcs_only
+8,10,2022,result,il-lombardia,1.UWT,2022 Il Lombardia.gpx,08_October_2022__result__il-lombardia_2022__1.UWT.csv,100.0,match
+8,10,2022,stage_5,grand-prix-chantal-biya,2.2,2022 Grand Prix Chantal Biya Stage 5.gpx,08_October_2022__stage_5__grand-prix-chantal-biya_2022__2.2.csv,100.0,match
+9,10,2022,result,paris-tours,1.Pro,2022 Paris - Tours Elite.gpx,09_October_2022__result__paris-tours_2022__1.Pro.csv,100.0,match
+9,10,2022,result,memorial-rik-van-steenbergen,1.1,2022 Memorial Rik Van Steenbergen - Kempen Classic.gpx,09_October_2022__result__memorial-rik-van-steenbergen_2022__1.1.csv,100.0,match
+11,10,2022,stage_1,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 1.gpx,11_October_2022__stage_1__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+12,10,2022,result,giro-del-veneto,1.1,2022 Giro del Veneto.gpx,12_October_2022__result__giro-del-veneto_2022__1.1.csv,100.0,match
+12,10,2022,stage_2,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 2.gpx,12_October_2022__stage_2__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+13,10,2022,stage_3,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 3.gpx,13_October_2022__stage_3__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+14,10,2022,stage_4,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 4.gpx,14_October_2022__stage_4__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+14,10,2022,result,elite-road-central-american-championships-itt,1.2,2022 Elite Road Central American Championships - ITT.gpx,14_October_2022__result__elite-road-central-american-championships-itt_2022__1.2.csv,100.0,match
+14,10,2022,result,national-championships-oman-road-race,NC,,14_October_2022__result__national-championships-oman-road-race_2022__NC.csv,,pcs_only
+15,10,2022,stage_5,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 5.gpx,15_October_2022__stage_5__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+15,10,2022,result,nc-tunisia-itt,NC,,15_October_2022__result__nc-tunisia-itt_2022__NC.csv,,pcs_only
+16,10,2022,stage_6,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 6.gpx,16_October_2022__stage_6__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+16,10,2022,result,elite-road-central-american-championships-road-rac,1.2,2022 Elite Road Central American Championships.gpx,16_October_2022__result__elite-road-central-american-championships-road-rac_2022__1.2.csv,100.0,match
+16,10,2022,result,chrono-des-nations,1.1,2022 Chrono des Nations.gpx,16_October_2022__result__chrono-des-nations_2022__1.1.csv,100.0,match
+16,10,2022,result,veneto-classic,1.1,2022 Veneto Classic.gpx,16_October_2022__result__veneto-classic_2022__1.1.csv,100.0,match
+16,10,2022,result,japan-cup,1.Pro,2022 Japan Cup Cycle Road Race.gpx,16_October_2022__result__japan-cup_2022__1.Pro.csv,86.0,match
+16,10,2022,result,nc-tunisia,NC,,16_October_2022__result__nc-tunisia_2022__NC.csv,,pcs_only
+17,10,2022,stage_7,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 7.gpx,17_October_2022__stage_7__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+18,10,2022,stage_8,tour-de-langkawi,2.Pro,2022 Petronas Le Tour de Langkawi Stage 8.gpx,18_October_2022__stage_8__tour-de-langkawi_2022__2.Pro.csv,100.0,match
+22,10,2022,result,elite-road-caribbean-championships-itt,1.2,,22_October_2022__result__elite-road-caribbean-championships-itt_2022__1.2.csv,,pcs_only
+23,10,2022,stage_1,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 1.gpx,23_October_2022__stage_1__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+23,10,2022,result,elite-road-caribbean-championships-road-race,1.2,,23_October_2022__result__elite-road-caribbean-championships-road-race_2022__1.2.csv,,pcs_only
+24,10,2022,stage_2,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 2.gpx,24_October_2022__stage_2__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+25,10,2022,stage_3,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 3.gpx,25_October_2022__stage_3__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+26,10,2022,stage_4,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 4.gpx,26_October_2022__stage_4__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+27,10,2022,stage_5,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 5.gpx,27_October_2022__stage_5__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+28,10,2022,stage_6,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 6.gpx,28_October_2022__stage_6__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+29,10,2022,stage_7,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 7.gpx,29_October_2022__stage_7__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+30,10,2022,stage_8,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 8.gpx,30_October_2022__stage_8__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+31,10,2022,stage_9,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 9.gpx,31_October_2022__stage_9__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+1,11,2022,stage_10,vuelta-a-guatemala,2.2,2022 Vuelta a Guatemala Stage 10.gpx,01_November_2022__stage_10__vuelta-a-guatemala_2022__2.2.csv,100.0,match
+3,11,2022,result,gp-sakia-el-hamra,1.2,,03_November_2022__result__gp-sakia-el-hamra_2022__1.2.csv,,pcs_only
+5,11,2022,result,gp-oued-eddahab,1.2,,05_November_2022__result__gp-oued-eddahab_2022__1.2.csv,,pcs_only
+6,11,2022,result,gp-al-massira,1.2,,06_November_2022__result__gp-al-massira_2022__1.2.csv,,pcs_only
+8,11,2022,result,challenge-du-prince-trophee-princier,1.2,2022 Challenge du Prince - Trophee Princer.gpx,08_November_2022__result__challenge-du-prince-trophee-princier_2022__1.2.csv,97.0,match
+10,11,2022,result,challenge-du-prince-trophee-de-l-anniversaire,1.2,2022 Challenge du Prince - Trophee de l'Anniversaire.gpx,10_November_2022__result__challenge-du-prince-trophee-de-l-anniversaire_2022__1.2.csv,100.0,match
+11,11,2022,result,challenge-du-prince,1.2,2022 Challenge du Prince - Trophee de la Maison Royale.gpx,11_November_2022__result__challenge-du-prince_2022__1.2.csv,100.0,match
+11,11,2022,result,nc-zimbabwe-itt,NC,,11_November_2022__result__nc-zimbabwe-itt_2022__NC.csv,,pcs_only
+12,11,2022,stage_1,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 1.gpx,12_November_2022__stage_1__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+12,11,2022,result,nc-zimbabwe,NC,,12_November_2022__result__nc-zimbabwe_2022__NC.csv,,pcs_only
+13,11,2022,stage_2,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 2.gpx,13_November_2022__stage_2__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+13,11,2022,result,tour-de-okinawa,1.2,2022 Tour de Okinawa.gpx,13_November_2022__result__tour-de-okinawa_2022__1.2.csv,100.0,match
+14,11,2022,stage_3,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 3.gpx,14_November_2022__stage_3__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+15,11,2022,stage_4,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 4.gpx,15_November_2022__stage_4__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+16,11,2022,stage_5,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 5.gpx,16_November_2022__stage_5__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+17,11,2022,stage_6,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 6.gpx,17_November_2022__stage_6__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+18,11,2022,stage_7,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 7.gpx,18_November_2022__stage_7__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+19,11,2022,stage_8,vuelta-a-ecuador,2.2,2022 Vuelta Ciclista al Ecuador Stage 8.gpx,19_November_2022__stage_8__vuelta-a-ecuador_2022__2.2.csv,92.0,match
+16,12,2022,stage_1,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 1.gpx,16_December_2022__stage_1__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+17,12,2022,stage_2,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 2.gpx,17_December_2022__stage_2__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+18,12,2022,stage_3,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 3.gpx,18_December_2022__stage_3__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+19,12,2022,stage_4,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 4.gpx,19_December_2022__stage_4__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+20,12,2022,stage_5,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 5.gpx,20_December_2022__stage_5__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+21,12,2022,stage_6,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 6.gpx,21_December_2022__stage_6__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+22,12,2022,stage_7,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 7.gpx,22_December_2022__stage_7__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+23,12,2022,stage_8,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 8.gpx,23_December_2022__stage_8__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+23,12,2022,result,arab-road-cycling-championships-road-race,JR,,23_December_2022__result__arab-road-cycling-championships-road-race_2022__JR.csv,,pcs_only
+24,12,2022,stage_9,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 9.gpx,24_December_2022__stage_9__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+24,12,2022,result,nc-china-itt,NC,,24_December_2022__result__nc-china-itt_2022__NC.csv,,pcs_only
+25,12,2022,stage_10,vuelta-internacional-a-costa-rica,2.2,2022 Vuelta Ciclista Internacional a Costa Rica Stage 10.gpx,25_December_2022__stage_10__vuelta-internacional-a-costa-rica_2022__2.2.csv,95.0,match
+26,12,2022,result,nc-china,NC,,26_December_2022__result__nc-china_2022__NC.csv,,pcs_only

@@ -1,0 +1,38 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-09-04,2020,hafjell-gp,gc,Region Sør UDW,1.2,,0,0,,0.0,,,0.0
+2020-09-05,2020,lillehammer-gp,gc,Region Sør UDW,1.2,,,1,,0.0,,,0.0
+2022-08-18,2022,baltic-chain-tour,gc,NCF Region Sør,2.2,,,1,,0.0,,,0.0
+2022-09-04,2022,gylne-gutuer,gc,Sandnes Sykleklubb,1.2,,0,0,,0.0,,,0.0
+2022-05-07,2022,hadeland-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2022-09-03,2022,lillehammer-gp,gc,Sandnes Sykleklubb,1.2,,0,0,,0.0,,,0.0
+2022-05-08,2022,ringerike-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2022-06-03,2022,tour-of-malopolska,gc,NCF Region Sør,2.2,115.0,0.0,1,,0.0,,,0.0
+2023-08-18,2023,baltic-chain-tour,gc,NCF Region Sør,2.2,43.0,0.0,1,,0.0,,,0.0
+2023-09-03,2023,gylne-gutuer,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2023-09-03,2023,gylne-gutuer,gc,NCF Region Sør,1.2,,0,0,,0.0,,,0.0
+2023-05-06,2023,hadeland-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2023-05-06,2023,hadeland-gp,gc,NCF Region Sør,1.2,,0,0,,0.0,,,0.0
+2023-09-02,2023,lillehammer-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2023-09-02,2023,lillehammer-gp,gc,NCF Region Sør,1.2,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-norway,gc,Sandnes Sykleklubb,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-norway-itt,gc,Sandnes Sykleklubb,NC,,0,0,,0.0,,,0.0
+2023-05-07,2023,ringerike-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2023-05-07,2023,ringerike-gp,gc,NCF Region Sør,1.2,,0,0,,0.0,,,0.0
+2023-06-01,2023,tour-of-malopolska,gc,NCF Region Sør,2.2,54.0,0.0,1,,0.0,,,0.0
+2024-08-04,2024,cupa-max-ausnit,gc,Team Novák,1.2,,,1,,0.0,,,0.0
+2024-05-04,2024,hadeland-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2024-08-31,2024,in-the-footsteps-of-the-romans,gc,Team Novák,2.2,21.0,0.0,1,,40.0,,,47.0
+2024-06-23,2024,nc-norway,gc,Team Novák,NC,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-norway,gc,Sandnes Sykleklubb,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-norway-itt,gc,Team Novák,NC,,0,0,,0.0,,,0.0
+2024-05-05,2024,ringerike-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2024-08-24,2024,tour-of-bulgaria,gc,Team Novák,2.2,62.0,0.0,1,,0.0,,,0.0
+2024-06-05,2024,tour-of-lithuania,gc,NCF Region Sør,2.2,47.0,0.0,1,,0.0,,,0.0
+2024-05-30,2024,tour-of-malopolska,gc,NCF Region Sør,2.2,44.0,0.0,1,,0.0,,,0.0
+2024-08-07,2024,tour-of-szeklerland,gc,Team Novák,2.2,74.0,0.0,1,,0.0,,,0.0
+2024-08-14,2024,turul-romaniei,gc,Team Novák,2.2,102.0,0.0,1,,0.0,,,0.0
+2025-04-05,2025,boucle-de-l-artois,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2025-05-28,2025,fleche-du-sud,gc,Sandnes Sykleklubb,2.2,,,1,,0.0,,,-4.0
+2025-05-10,2025,hadeland-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-norway,gc,Sandnes Sykleklubb,NC,,0,0,,0.0,,,0.0
+2025-05-11,2025,ringerike-gp,gc,Sandnes Sykleklubb,1.2,,,1,,0.0,,,0.0

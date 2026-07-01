@@ -1,0 +1,4 @@
+fichier_gpx,route_url,road_km,state_road_km,street_km,cycleway_km,unknown_km,path_km,asphalt_km,paved_km,cobblestones_km,off-grid_(unknown)_km,access_road_km,compacted_gravel_km
+2025 Tour de France Stage 1.gpx,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2025 Tour de France Stage 2.gpx,https://www.komoot.com/tour/2950071966,167.0,38.2,2.38,1.59,0.414,0.109,208.0,1.5,0.703,0.0,0.0,0.0
+2025 Tour de France Stage 3.gpx,https://www.komoot.com/tour/2950073056,101.0,42.4,1.73,31.7,1.33,0.301,173.0,2.56,1.12,1.16,0.139,0.301

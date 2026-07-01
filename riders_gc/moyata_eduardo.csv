@@ -1,0 +1,48 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-09-08,2019,antwerp-port-epic,gc,Start Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-08-11,2019,antwerpse-havenpijl,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-05-30,2019,circuit-de-wallonie,gc,Start Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-05-12,2019,fleche-ardennaise,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-09-01,2019,gp-de-la-ville-de-nogent-sur-oise,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-07-28,2019,grand-prix-de-la-ville-de-perenchies,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-08-20,2019,grand-prix-des-marbriers,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-05-26,2019,grote-prijs-marcel-kint,gc,Start Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-06-09,2019,memorial-philippe-van-coningsloo,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-06-16,2019,midden-brabant-poort-omloop,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-04-21,2019,nc-chile,gc,Start Cycling Team,NC,,0,0,,0.0,,,15.0
+2019-06-30,2019,nc-france,gc,Start Cycling Team,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-mexico,gc,Start Cycling Team,NC,,0,0,,0.0,,,3.0
+2019-06-28,2019,nc-mexico-itt,gc,Start Cycling Team,NC,,0,0,,0.0,,,10.0
+2019-06-10,2019,ronde-van-limburg,gc,Start Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-08-25,2019,schaal-schels,gc,Start Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-08-21,2019,veenendaal-veenendaal,gc,Start Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Start Cycling Team,2.1,,0,0,,0.0,,,0.0
+2019-03-06,2019,vuelta-ciclista-de-chile,gc,Start Cycling Team,2.2,50.0,0.0,1,,0.0,,,0.0
+2019-05-11,2019,zodc-zuidenveld-tour,gc,Start Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-05-19,2022,joe-martin-stage-race-me,gc,Mani Zabala,2.2,,0,0,,0.0,,,0.0
+2022-06-24,2022,juegos-bolivarianos-me-itt,gc,Bolivia,JR,,0,0,,0.0,,,0.0
+2022-06-26,2022,juegos-bolivarianos-me-road-race,gc,Bolivia,JR,,0,0,,0.0,,,0.0
+2022-10-03,2022,juegos-suramericanos-itt,gc,Bolivia,1.2,,0,0,,0.0,,,0.0
+2022-10-05,2022,juegos-suramericanos-road-race,gc,Bolivia,1.2,,,1,,0.0,,,0.0
+2022-05-12,2022,panamerican-champ-itt,gc,Bolivia,CC,,0,0,,0.0,,,0.0
+2022-05-15,2022,panamerican-championships,gc,Bolivia,CC,,0,0,,0.0,,,10.0
+2022-04-07,2022,vuelta-a-formosa-internacional,gc,Mani Zabala,2.2,,,1,,0.0,,,0.0
+2023-01-06,2023,giro-del-sol-san-juan,gc,Pío Rico - Alcaldía La Vega,2.2,87.0,0.0,1,,0.0,,,0.0
+2023-10-05,2023,gp-internacional-de-ciclismo-de-santa-catarina,gc,Pío Rico - Alcaldía La Vega,1.2,,,1,,0.0,,,83.0
+2023-10-04,2023,gp-urubici-de-ciclismo,gc,Pío Rico - Alcaldía La Vega,1.2,,,1,,0.0,,,0.0
+2023-10-03,2023,grand-tour-de-ciclismo-de-sc,gc,Pío Rico - Alcaldía La Vega,1.2,,,1,,0.0,,,55.0
+2023-05-14,2023,nc-bolivia,gc,Pío Rico - Alcaldía La Vega,NC,,0,0,,0.0,,,70.0
+2023-05-12,2023,nc-bolivia-itt,gc,Pío Rico - Alcaldía La Vega,NC,,,1,,0.0,,,40.0
+2023-02-05,2023,nc-colombia,gc,Pío Rico - Alcaldía La Vega,NC,,0,0,,0.0,,,1.0
+2023-02-02,2023,nc-colombia-itt,gc,Pío Rico - Alcaldía La Vega,NC,,0,0,,0.0,,,3.0
+2023-04-23,2023,panamerican-championships,gc,Bolivia,CC,,,1,,0.0,,,0.0
+2023-05-04,2023,tour-de-catamarca-internacional,gc,Pío Rico - Alcaldía La Vega,2.2,32.0,0.0,1,,0.0,,,0.0
+2023-06-16,2023,vuelta-pilsen-a-colombia,gc,Pío Rico - Alcaldía La Vega,2.2,99.0,0.0,1,,0.0,,,0.0
+2024-05-26,2024,panamerican-championships,gc,Bolivia,CC,,,1,,0.0,,,1.0
+2024-11-01,2024,tour-do-rio,gc,Pio Rico Cycling Team,2.2,9.0,3.0,1,,3.0,,,3.0
+2024-06-14,2024,vuelta-pilsen-a-colombia,gc,Pio Rico Cycling Team,2.2,,,1,,0.0,,,0.0
+2025-12-05,2025,juegos-bolivarianos-me-road-race,gc,Bolivia,1.2,,,1,,0.0,,,0.0
+2025-06-22,2025,nc-bolivia,gc,Pío Rico Cycling Team,NC,,,1,,0.0,,,100.0
+2025-06-20,2025,nc-bolivia-itt,gc,Pío Rico Cycling Team,NC,,0,0,,0.0,,,40.0
+2025-10-08,2025,tour-de-santa-catarina,gc,Pío Rico Cycling Team,2.2,6.0,10.0,1,,10.0,,,0.0
+2025-08-01,2025,vuelta-pilsen-a-colombia,gc,Pío Rico Cycling Team,2.2,56.0,0.0,1,,0.0,,,3.0

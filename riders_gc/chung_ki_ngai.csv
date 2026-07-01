@@ -1,0 +1,52 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-05-14,2023,albani-classic-fyen-rundt,gc,ARA | Skip Capital,1.2,,0,0,,0.0,,,0.0
+2023-05-21,2023,antwerp-port-epic,gc,ARA | Skip Capital,1.1,,0,0,,0.0,,,3.0
+2023-04-15,2023,arno-wallaard-memorial,gc,ARA | Skip Capital,1.2,,0,0,,0.0,,,0.0
+2023-05-18,2023,circuit-de-wallonie,gc,ARA | Skip Capital,1.1,,0,0,,0.0,,,3.0
+2023-05-07,2023,fleche-ardennaise,gc,ARA | Skip Capital,1.2,,0,0,,0.0,,,0.0
+2023-05-13,2023,gp-herning,gc,ARA | Skip Capital,1.2,,0,0,,0.0,,,0.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,ARA | Skip Capital,1.1,,0,0,,0.0,,,0.0
+2023-04-25,2023,le-tour-de-bretagne,gc,ARA | Skip Capital,2.2,,0,0,,0.0,,,1.0
+2023-01-08,2023,nc-australia,gc,ARA | Skip Capital,NC,,0,0,,0.0,,,40.0
+2023-01-10,2023,nc-australia-itt,gc,ARA | Skip Capital,NC,,0,0,,0.0,,,0.0
+2023-04-01,2023,oceania-championships,gc,ARA | Skip Capital,CC,,0,0,,0.0,,,440.0
+2023-10-01,2023,oita-urban-classic,gc,ARA | Skip Capital,1.2,,0,0,,0.0,,,30.0
+2023-06-01,2023,ronde-de-l-oise,gc,ARA | Skip Capital,2.2,,0,0,,0.0,,,0.0
+2023-05-29,2023,ronde-van-limburg,gc,ARA | Skip Capital,1.1,,,1,,0.0,,,0.0
+2023-05-06,2023,ronde-van-overijssel,gc,ARA | Skip Capital,1.2,,,1,,0.0,,,3.0
+2023-10-22,2023,sun-hung-kai-properties-hong-kong-challenge,gc,ARA | Skip Capital,1.1,,,1,,0.0,,,100.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,ARA | Skip Capital,2.2,,,1,,0.0,,,0.0
+2023-10-07,2023,tour-de-kyushu,gc,ARA | Skip Capital,2.1,,0,0,,73.0,,,87.0
+2023-09-23,2023,tour-of-binzhou,gc,ARA | Skip Capital,2.2,,,1,,28.0,,,28.0
+2023-09-08,2023,tour-of-poyang-lake,gc,ARA | Skip Capital,2.2,,,1,,0.0,,,11.0
+2023-10-14,2023,trans-himalaya-cycling-race,gc,ARA | Skip Capital,2.2,53.0,0.0,1,,30.0,,,31.0
+2024-04-04,2024,circuit-des-ardennes,gc,ARA | Skip Capital,2.2,,0,0,,0.0,,,0.0
+2024-05-05,2024,circuit-des-xi-villes,gc,ARA | Skip Capital,1.1,,,1,,0.0,,,0.0
+2024-07-11,2024,gp-int-torres-vedras,gc,ARA | Skip Capital,2.2,,0,0,,0.0,,,0.0
+2024-01-28,2024,great-ocean-road-race,gc,ARA | Skip Capital,1.UWT,,0,0,,0.0,,,10.0
+2024-04-25,2024,le-tour-de-bretagne,gc,ARA | Skip Capital,2.2,,0,0,,0.0,,,-10.0
+2024-06-27,2024,okolo-slovenska,gc,ARA | Skip Capital,2.1,,0,0,,0.0,,,0.0
+2024-01-25,2024,race-torquay,gc,ARA | Skip Capital,1.1,,0,0,,0.0,,,5.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,ARA | Skip Capital,2.2,,0,0,,0.0,,,3.0
+2024-05-04,2024,ronde-van-overijssel,gc,ARA | Skip Capital,1.2,,,1,,0.0,,,40.0
+2024-09-29,2024,tour-de-langkawi,gc,ARA | Skip Capital,2.Pro,,,1,,0.0,,,0.0
+2024-09-04,2024,tour-of-poyang-lake,gc,ARA | Skip Capital,2.2,,,1,,0.0,,,1.0
+2024-06-05,2024,zlm-tour,gc,ARA | Skip Capital,2.1,,0,0,,0.0,,,0.0
+2025-04-15,2025,giro-d-abruzzo,gc,Monzon - Incolor - Gub,2.1,,0,0,,0.0,,,0.0
+2025-04-12,2025,giro-di-reggio-calabria,gc,Monzon - Incolor - Gub,1.1,,,1,,0.0,,,3.0
+2025-06-15,2025,nc-finland,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,1.0
+2025-06-13,2025,nc-finland-itt,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-hungary,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-latvia,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,60.0
+2025-06-25,2025,nc-latvia-itt,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,20.0
+2025-06-22,2025,nc-romania,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,31.0
+2025-06-20,2025,nc-romania-itt,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,ncgreat-britain,gc,Monzon - Incolor - Gub,NC,,0,0,,0.0,,,0.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Monzon - Incolor - Gub,2.1,,0,0,,0.0,,,0.0
+2025-09-09,2025,tour-of-binzhou,gc,Monzon - Incolor - Gub,1.1,,,1,,0.0,,,5.0
+2025-08-31,2025,tour-of-bulgaria,gc,Monzon - Incolor - Gub,2.2,,0,0,,0.0,,,0.0
+2025-04-02,2025,tour-of-hellas,gc,Monzon - Incolor - Gub,2.1,,0,0,,3.0,,,3.0
+2025-09-19,2025,tour-of-huangshan,gc,Monzon - Incolor - Gub,2.1,80.0,0.0,1,,0.0,,,0.0
+2025-10-12,2025,tour-of-mentougou,gc,Monzon - Incolor - Gub,2.2,62.0,0.0,1,,20.0,,,20.0
+2025-09-10,2025,turul-romaniei,gc,Monzon - Incolor - Gub,2.2,,0,0,,0.0,,,0.0

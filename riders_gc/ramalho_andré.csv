@@ -1,0 +1,34 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-07-11,2019,gp-int-torres-vedras,gc,LA Aluminios,2.2,29.0,0.0,1,,3.0,,,3.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,LA Aluminios,2.1,73.0,0.0,1,,3.0,,,3.0
+2019-06-28,2019,nc-portugal,gc,LA Aluminios,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-portugal2,gc,LA Aluminios,NC,,,1,,0.0,,,0.0
+2019-03-17,2019,trofeu-da-arrabida,gc,LA Aluminios,1.2,,,1,,0.0,,,0.0
+2019-07-31,2019,volta-a-portugal,gc,LA Aluminios,2.1,30.0,0.0,1,,3.0,,,3.0
+2019-03-20,2019,volta-ao-alentejo,gc,LA Aluminios,2.2,105.0,0.0,1,,0.0,,,0.0
+2019-02-20,2019,volta-ao-algarve,gc,LA Aluminios,2.HC,114.0,0.0,1,,0.0,,,0.0
+2020-09-19,2020,gp-int-torres-vedras,gc,L.A. Aluminios / L.A. Sport,2.2,24.0,0.0,1,,0.0,,,0.0
+2020-08-14,2020,nc-portugal,gc,L.A. Aluminios / L.A. Sport,NC,,,1,,0.0,,,0.0
+2020-08-16,2020,nc-portugal2,gc,L.A. Aluminios / L.A. Sport,NC,,,1,,0.0,,,0.0
+2020-09-27,2020,volta-a-portugal,gc,L.A. Aluminios / L.A. Sport,2.1,22.0,3.0,1,,3.0,,,3.0
+2020-02-19,2020,volta-ao-algarve,gc,L.A. Aluminios / L.A. Sport,2.Pro,93.0,0.0,1,,0.0,,,0.0
+2021-07-16,2021,gp-int-torres-vedras,gc,L.A. Aluminios / L.A. Sport,2.2,67.0,0.0,1,,0.0,,,0.0
+2021-06-20,2021,nc-portugal2,gc,L.A. Aluminios / L.A. Sport,NC,,,1,,0.0,,,0.0
+2021-05-02,2021,trofeu-da-arrabida,gc,L.A. Aluminios / L.A. Sport,1.2,,,1,,0.0,,,0.0
+2021-08-04,2021,volta-a-portugal,gc,L.A. Aluminios / L.A. Sport,2.1,38.0,0.0,1,,3.0,,,3.0
+2021-06-23,2021,volta-ao-alentejo,gc,L.A. Aluminios / L.A. Sport,2.2,63.0,0.0,1,,0.0,,,0.0
+2021-05-05,2021,volta-ao-algarve,gc,L.A. Aluminios / L.A. Sport,2.Pro,87.0,0.0,1,,0.0,,,0.0
+2022-06-30,2022,gp-int-torres-vedras,gc,L.A. Alumínios / Credibom / Marcos Car,2.2,58.0,0.0,1,,0.0,,,0.0
+2022-06-26,2022,nc-portugal2,gc,L.A. Alumínios / Credibom / Marcos Car,NC,,,1,,0.0,,,0.0
+2022-03-13,2022,trofeu-da-arrabida,gc,L.A. Alumínios / Credibom / Marcos Car,1.2,,0,0,,0.0,,,3.0
+2022-08-04,2022,volta-a-portugal,gc,L.A. Alumínios / Credibom / Marcos Car,2.1,46.0,0.0,1,,3.0,,,8.0
+2022-03-16,2022,volta-ao-alentejo,gc,L.A. Alumínios / Credibom / Marcos Car,2.2,,0,0,,0.0,,,0.0
+2022-02-16,2022,volta-ao-algarve,gc,L.A. Alumínios / Credibom / Marcos Car,2.Pro,77.0,0.0,1,,0.0,,,0.0
+2023-02-12,2023,figueira-champions-classic,gc,Credibom / LA Aluminios / Marcos Car,1.1,,,1,,0.0,,,0.0
+2023-07-13,2023,gp-int-torres-vedras,gc,Credibom / LA Aluminios / Marcos Car,2.2,35.0,0.0,1,,0.0,,,0.0
+2023-05-26,2023,gp-internacional-beiras-e-serra-da-estrela,gc,Credibom / LA Aluminios / Marcos Car,2.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-portugal2,gc,Credibom / LA Aluminios / Marcos Car,NC,,,1,,0.0,,,0.0
+2023-03-19,2023,trofeu-da-arrabida,gc,Credibom / LA Aluminios / Marcos Car,1.2,,,1,,0.0,,,15.0
+2023-08-09,2023,volta-a-portugal,gc,Credibom / LA Aluminios / Marcos Car,2.1,63.0,0.0,1,,5.0,,,5.0
+2023-03-22,2023,volta-ao-alentejo,gc,Credibom / LA Aluminios / Marcos Car,2.2,85.0,0.0,1,,3.0,,,3.0
+2023-02-15,2023,volta-ao-algarve,gc,Credibom / LA Aluminios / Marcos Car,2.Pro,,,1,,0.0,,,0.0

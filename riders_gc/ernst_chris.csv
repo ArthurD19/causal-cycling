@@ -1,0 +1,104 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-04-14,2018,commonwealth-games,gc,Canada,JR,,0,0,,0.0,,,0.0
+2018-09-09,2018,gp-montreal,gc,Canada,1.UWT,,0,0,,0.0,,,13.0
+2018-09-07,2018,gp-quebec,gc,Canada,1.UWT,,0,0,,0.0,,,10.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Canada,1.Ncup,,,1,,0.0,,,0.0
+2018-09-30,2018,world-championship,gc,Canada,WC,,0,0,,0.0,,,400.0
+2018-09-26,2018,world-championship-itt,gc,Canada,WC,,0,0,,0.0,,,0.0
+2021-09-12,2021,antwerp-port-epic,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,XSpeed United Continental,2.1,,0,0,,3.0,,,3.0
+2021-10-17,2021,chrono-des-nations,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,3.0
+2021-05-13,2021,circuit-de-wallonie,gc,XSpeed United Continental,1.1,,,1,,0.0,,,0.0
+2021-06-06,2021,circuit-des-xi-villes,gc,XSpeed United Continental,1.1,,,1,,0.0,,,0.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,XSpeed United Continental,1.2,,,1,,0.0,,,10.0
+2021-09-19,2021,gooikse-pijl,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2021-07-25,2021,grand-prix-de-la-ville-de-perenchies,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,30.0
+2021-07-31,2021,heist-op-den-berg,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-belgium,gc,XSpeed United Continental,NC,,0,0,,0.0,,,0.0
+2021-06-27,2021,nc-bermuda,gc,XSpeed United Continental,NC,,0,0,,0.0,,,30.0
+2021-09-10,2021,nc-canada-itt,gc,XSpeed United Continental,NC,,,1,,0.0,,,20.0
+2021-09-11,2021,nc-canada2,gc,XSpeed United Continental,NC,,,1,,0.0,,,60.0
+2021-06-20,2021,nc-luxembourg,gc,XSpeed United Continental,NC,,0,0,,0.0,,,5.0
+2021-06-18,2021,nc-luxembourg-itt,gc,XSpeed United Continental,NC,,0,0,,0.0,,,5.0
+2021-05-24,2021,ronde-van-limburg,gc,XSpeed United Continental,1.1,,,1,,0.0,,,0.0
+2021-10-16,2021,ster-van-zwolle,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2021-05-14,2021,tour-d-eure-et-loir,gc,XSpeed United Continental,2.2,,,1,,0.0,,,0.0
+2021-10-09,2021,tour-de-vendee,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2021-09-05,2021,tour-du-doubs,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2021-09-18,2021,zodc-zuidenveld-tour,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,20.0
+2022-07-10,2022,2-districtenpijl-ekeren-deurne-me,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-04-16,2022,arno-wallaard-memorial,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-10-16,2022,chrono-des-nations,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,3.0
+2022-05-26,2022,circuit-de-wallonie,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-06-12,2022,circuit-des-xi-villes,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-03-13,2022,dorpenomloop-rucphen,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,elfsteden-race,gc,XSpeed United Continental,1.2,,,1,,0.0,,,0.0
+2022-09-18,2022,gooikse-pijl,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-09-17,2022,grote-prijs-rik-van-looy,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-06-05,2022,memorial-philippe-van-coningsloo,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-belgium,gc,XSpeed United Continental,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-canada-itt,gc,XSpeed United Continental,NC,,,1,,0.0,,,1.0
+2022-06-26,2022,nc-canada2,gc,XSpeed United Continental,NC,,,1,,0.0,,,40.0
+2022-06-19,2022,nc-finland,gc,XSpeed United Continental,NC,,0,0,,0.0,,,10.0
+2022-06-17,2022,nc-finland-itt,gc,XSpeed United Continental,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,XSpeed United Continental,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-portugal,gc,XSpeed United Continental,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-portugal2,gc,XSpeed United Continental,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,ncgreat-britain,gc,XSpeed United Continental,NC,,0,0,,0.0,,,0.0
+2022-09-08,2022,okolo-jiznich-cech,gc,XSpeed United Continental,2.2,,0,0,,0.0,,,0.0
+2022-03-20,2022,rhodes-gp,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-08-28,2022,ronde-van-de-achterhoek,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-05-07,2022,ronde-van-overijssel,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2022-08-21,2022,schaal-schels,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-03-12,2022,south-aegean-tour,gc,XSpeed United Continental,2.2,,0,0,,0.0,,,0.0
+2022-10-02,2022,tour-de-vendee,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-09-04,2022,tour-du-doubs,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-04-27,2022,tour-of-hellas,gc,XSpeed United Continental,2.1,,0,0,,0.0,,,0.0
+2022-03-24,2022,tour-of-rhodes,gc,XSpeed United Continental,2.2,,0,0,,0.0,,,0.0
+2022-04-02,2022,volta-nxt-classic,gc,XSpeed United Continental,1.1,,0,0,,0.0,,,0.0
+2022-04-30,2022,zodc-zuidenveld-tour,gc,XSpeed United Continental,1.2,,0,0,,0.0,,,0.0
+2023-09-10,2023,gp-montreal,gc,Canada,1.UWT,,0,0,,0.0,,,0.0
+2023-09-08,2023,gp-quebec,gc,Canada,1.UWT,,0,0,,0.0,,,0.0
+2023-09-03,2023,maryland-cycling-classic,gc,Toronto Hustle,1.Pro,,,1,,0.0,,,0.0
+2023-06-23,2023,nc-canada-itt,gc,Toronto Hustle,NC,,,1,,0.0,,,40.0
+2023-06-25,2023,nc-canada2,gc,Toronto Hustle,NC,,,1,,0.0,,,0.0
+2023-10-29,2023,pan-american-games,gc,Canada,JC,,,1,,0.0,,,85.0
+2023-10-22,2023,pan-american-games---tt,gc,Canada,JC,,,1,,0.0,,,3.0
+2023-04-19,2023,panamerican-champ-itt,gc,Canada,CC,,0,0,,0.0,,,5.0
+2023-04-23,2023,panamerican-championships,gc,Canada,CC,,0,0,,0.0,,,405.0
+2023-06-14,2023,tour-de-beauce,gc,Toronto Hustle,2.2,,0,0,,45.0,,,54.0
+2023-04-26,2023,tour-of-the-gila,gc,Toronto Hustle,2.2,,,1,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Canada,WC,,0,0,,0.0,,,30.0
+2023-08-11,2023,world-championship-itt,gc,Canada,WC,,0,0,,0.0,,,10.0
+2024-05-19,2024,gran-premio-new-york-city,gc,Hustle Pro Cycling,1.2,,,1,,0.0,,,3.0
+2024-06-21,2024,nc-canada-itt,gc,Hustle Pro Cycling,NC,,0,0,,0.0,,,6.0
+2024-06-22,2024,nc-canada2,gc,Hustle Pro Cycling,NC,,,1,,0.0,,,0.0
+2024-06-12,2024,tour-de-beauce,gc,Hustle Pro Cycling,2.2,,,1,,0.0,,,7.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-09-27,2025,arno-wallaard-memorial,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-07-23,2025,dookola-mazowsza,gc,CT GIANT Store Assen - NWVG,2.2,,0,0,,0.0,,,1.0
+2025-03-09,2025,dorpenomloop-rucphen,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-05-03,2025,gp-herning,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-07-22,2025,memorial-andrzeja-trochanowskiego,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,20.0
+2025-07-06,2025,midden-brabant-poort-omloop,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-canada-itt,gc,Expeditors Elite Cycling,NC,,,1,,0.0,,,10.0
+2025-06-28,2025,nc-canada2,gc,Expeditors Elite Cycling,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-ireland,gc,CT GIANT Store Assen - NWVG,NC,,0,0,,0.0,,,0.0
+2025-06-22,2025,nc-japan,gc,CT GIANT Store Assen - NWVG,NC,,0,0,,0.0,,,0.0
+2025-09-04,2025,okolo-jiznich-cech,gc,CT GIANT Store Assen - NWVG,2.2,,0,0,,0.0,,,0.0
+2025-03-26,2025,olympias-tour,gc,CT GIANT Store Assen - NWVG,2.2,,0,0,,0.0,,,0.0
+2025-05-18,2025,omloop-der-kempen,gc,CT GIANT Store Assen - NWVG,1.2,,,1,,0.0,,,0.0
+2025-07-27,2025,puchar-ministra-obrony-narodowej,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,ronde-van-de-achterhoek,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-05-10,2025,silesian-classic,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-08-30,2025,slag-om-norg,gc,CT GIANT Store Assen - NWVG,1.2,,,1,,0.0,,,0.0
+2025-06-11,2025,tour-de-beauce,gc,Expeditors Elite Cycling,2.2,,,1,,0.0,,,0.0
+2025-08-07,2025,tour-of-szeklerland,gc,CT GIANT Store Assen - NWVG,2.2,61.0,0.0,1,,3.0,,,3.0
+2025-04-23,2025,tour-of-the-gila,gc,Expeditors Elite Cycling,2.2,45.0,0.0,1,,0.0,,,0.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,CT GIANT Store Assen - NWVG,1.2,,0,0,,0.0,,,0.0

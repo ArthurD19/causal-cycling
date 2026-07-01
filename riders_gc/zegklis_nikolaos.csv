@@ -1,0 +1,85 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-03-08,2019,tour-of-rhodes,gc,Zero BC,2.2,95.0,0.0,1,,0.0,,,0.0
+2020-09-04,2020,hafjell-gp,gc,Asker CK,1.2,,0,0,,0.0,,,0.0
+2020-09-05,2020,lillehammer-gp,gc,Asker CK,1.2,,0,0,,0.0,,,5.0
+2020-03-01,2020,rhodes-gp,gc,Asker CK,1.2,,,1,,0.0,,,0.0
+2020-03-06,2020,tour-of-rhodes,gc,Asker CK,2.2,114.0,0.0,1,,0.0,,,0.0
+2021-06-20,2021,nc-belgium,gc,EuroCyclingTrips - CMI Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-16,2021,nc-belgium-itt,gc,EuroCyclingTrips - CMI Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-france,gc,EuroCyclingTrips - CMI Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-netherlands,gc,EuroCyclingTrips - CMI Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-10-17,2021,ncgreat-britain,gc,EuroCyclingTrips - CMI Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-04-04,2021,rhodes-gp,gc,EuroCyclingTrips - CMI Pro Cycling Team,1.2,,,1,,0.0,,,0.0
+2021-09-09,2021,tour-de-serbie,gc,EuroCyclingTrips - CMI Pro Cycling Team,2.2,62.0,0.0,1,,0.0,,,0.0
+2021-05-28,2021,tour-of-estonia,gc,EuroCyclingTrips - CMI Pro Cycling Team,2.1,,0,0,,0.0,,,0.0
+2021-07-16,2021,tour-of-kosovo,gc,EuroCyclingTrips - CMI Pro Cycling Team,2.2,,0,0,,0.0,,,0.0
+2021-04-08,2021,tour-of-rhodes,gc,EuroCyclingTrips - CMI Pro Cycling Team,2.2,,,1,,0.0,,,0.0
+2021-12-01,2021,tour-of-thailand,gc,EuroCyclingTrips - CMI Pro Cycling Team,2.1,,0,0,,0.0,,,0.0
+2022-11-11,2022,challenge-du-prince,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,0.0
+2022-11-10,2022,challenge-du-prince-trophee-de-l-anniversaire,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,40.0
+2022-11-08,2022,challenge-du-prince-trophee-princier,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,3.0
+2022-11-06,2022,gp-al-massira,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,30.0
+2022-11-05,2022,gp-oued-eddahab,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,3.0
+2022-11-03,2022,gp-sakia-el-hamra,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,0.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,0.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,0.0
+2022-09-29,2022,international-azerbaijan-tour,gc,Sidi Ali - Unlock Team,2.1,,0,0,,0.0,,,3.0
+2022-06-19,2022,nc-morocco,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-turkey,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,1.0
+2022-06-24,2022,nc-turkey-itt,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2022-09-14,2022,tour-de-serbie,gc,Republika Srpska Cycling Team,2.2,42.0,0.0,1,,0.0,,,1.0
+2023-04-19,2023,banja-luka-belgrade-i,gc,Republika Srpska Cycling Team,2.2,,,1,,0.0,,,0.0
+2023-07-23,2023,cupa-max-ausnit,gc,CSA Steaua Bucharest,1.2,,0,0,,0.0,,,0.0
+2023-06-10,2023,kirikkale-road-race,gc,Greece,2.2,,0,0,,78.0,,,88.0
+2023-03-11,2023,rhodes-gp,gc,Greece,1.2,,0,0,,0.0,,,0.0
+2023-03-04,2023,south-aegean-tour,gc,Greece,2.2,,0,0,,0.0,,,0.0
+2023-03-26,2023,syedra-ancient-city,gc,Greece,1.2,,0,0,,0.0,,,85.0
+2023-05-11,2023,the-tour-oqtosh-chorvoq-mountain-ii,gc,Greece,1.2,,0,0,,0.0,,,75.0
+2023-05-22,2023,tour-of-albania,gc,CSA Steaua Bucharest,2.2,,,1,,30.0,,,33.0
+2023-05-22,2023,tour-of-albania,gc,Greece,2.2,,0,0,,38.0,,,51.0
+2023-05-13,2023,tour-of-bostonliq,gc,Greece,1.2,,0,0,,0.0,,,0.0
+2023-05-14,2023,tour-of-bostonliq-ii,gc,Greece,1.2,,0,0,,0.0,,,45.0
+2023-05-02,2023,tour-of-hellas,gc,Greece,2.1,,0,0,,0.0,,,0.0
+2023-09-07,2023,tour-of-kosovo,gc,Greece,2.2,,0,0,,28.0,,,35.0
+2023-03-17,2023,tour-of-rhodes,gc,Greece,2.2,,0,0,,0.0,,,0.0
+2023-01-27,2023,tour-of-sharjah,gc,Greece,2.2,61.0,0.0,1,,3.0,,,6.0
+2023-08-06,2023,world-championship,gc,Greece,WC,,0,0,,0.0,,,0.0
+2023-08-11,2023,world-championship-itt,gc,Greece,WC,,0,0,,0.0,,,0.0
+2024-07-15,2024,clasica-terres-de-l-ebre,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Sidi Ali - Unlock Team,2.1,,,1,,0.0,,,0.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Sidi Ali - Unlock Team,2.2,,0,0,,0.0,,,0.0
+2024-01-28,2024,nc-colombia,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2024-06-30,2024,nc-greece,gc,Sidi Ali - Unlock Team,NC,,,1,,0.0,,,0.0
+2024-06-30,2024,nc-greece,gc,P.A.S. Ioanninon - P&I,NC,,0,0,,0.0,,,13.0
+2024-06-29,2024,nc-greece-itt,gc,P.A.S. Ioanninon - P&I,NC,,0,0,,0.0,,,4.0
+2024-06-30,2024,nc-morocco,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,nc-spain,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2024-08-03,2024,olympic-games,gc,Greece,Olympics,,0,0,,0.0,,,0.0
+2024-03-09,2024,rhodes-gp,gc,Greece,1.2,,0,0,,0.0,,,3.0
+2024-03-02,2024,south-aegean-tour,gc,Greece,2.2,,0,0,,0.0,,,0.0
+2024-06-12,2024,tour-de-kurpie,gc,Greece,2.2,,,1,,3.0,,,13.0
+2024-10-11,2024,tour-de-serbie,gc,P.A.S. Ioanninon - P&I,2.2,,,1,,0.0,,,0.0
+2024-03-10,2024,tour-de-taiwan,gc,Sidi Ali - Unlock Team,2.1,,0,0,,0.0,,,0.0
+2024-05-31,2024,tour-du-maroc,gc,Sidi Ali - Unlock Team,2.2,,0,0,,0.0,,,4.0
+2024-05-20,2024,tour-of-albania,gc,P.A.S. Ioanninon - P&I,2.2,5.0,15.0,1,,18.0,,,18.0
+2024-03-14,2024,tour-of-rhodes,gc,Greece,2.2,,0,0,,0.0,,,0.0
+2024-01-26,2024,tour-of-sharjah,gc,Greece,2.2,,0,0,,0.0,,,0.0
+2024-08-23,2024,trans-himalaya-cycling-race,gc,Sidi Ali - Unlock Team,2.2,,0,0,,0.0,,,0.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Greece,CC,,0,0,,0.0,,,0.0
+2024-04-26,2024,vuelta-asturias,gc,Sidi Ali - Unlock Team,2.1,,0,0,,0.0,,,0.0
+2024-09-29,2024,world-championship,gc,Greece,WC,,0,0,,0.0,,,0.0
+2025-04-23,2025,banja-luka-belgrade-i,gc,P.A.S. Ioanninon - P&I,2.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,national-championships-cameroon-road-race,gc,May Stars,NC,,0,0,,0.0,,,1.0
+2025-06-29,2025,nc-greece,gc,P.A.S. Ioanninon - P&I,NC,,0,0,,0.0,,,2.0
+2025-06-27,2025,nc-greece-itt,gc,P.A.S. Ioanninon - P&I,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,May Stars,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-rwanda,gc,May Stars,NC,,0,0,,0.0,,,30.0
+2025-06-28,2025,nc-rwanda-itt,gc,May Stars,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-spain,gc,May Stars,NC,,0,0,,0.0,,,0.0
+2025-03-16,2025,popolarissima,gc,May Stars,1.2,,,1,,0.0,,,0.0
+2025-05-11,2025,radsportfest-marwil,gc,May Stars,1.2,,0,0,,0.0,,,0.0
+2025-05-26,2025,tour-of-albania,gc,P.A.S. Ioanninon - P&I,2.2,18.0,0.0,1,,3.0,,,4.0
+2025-09-04,2025,tour-of-kosovo,gc,P.A.S. Ioanninon - P&I,2.2,64.0,0.0,1,,0.0,,,0.0
+2025-06-04,2025,tour-of-lithuania,gc,May Stars,2.2,,,1,,0.0,,,0.0
+2025-09-15,2025,tour-of-poyang-lake,gc,May Stars,2.2,,0,0,,0.0,,,0.0
+2025-02-23,2025,tour-of-rwanda,gc,May Stars,2.1,61.0,0.0,1,,0.0,,,0.0

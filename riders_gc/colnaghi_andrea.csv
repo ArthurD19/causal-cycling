@@ -1,0 +1,63 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-06-21,2018,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,3.0
+2018-04-02,2018,circuito-belvedere,gc,Team Palazzago Amaru,1.2U,,0,0,,0.0,,,10.0
+2018-02-06,2018,colombia-21,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2018-09-15,2018,coppa-agostoni,gc,Italy,1.1,,0,0,,0.0,,,8.0
+2018-09-16,2018,coppa-bernocchi,gc,Italy,1.1,,0,0,,0.0,,,5.0
+2018-04-22,2018,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2018-10-06,2018,giro-dell-emilia,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-09-06,2018,giro-della-regione-friuli-venezia-giulia,gc,Team Palazzago Amaru,2.2,,0,0,,0.0,,,0.0
+2018-09-19,2018,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Italy,1.1,,0,0,,0.0,,,10.0
+2018-03-04,2018,gp-industria-artigianato,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-04-03,2018,gp-palio-del-recioto,gc,Team Palazzago Amaru,1.2U,,,1,,0.0,,,0.0
+2018-09-22,2018,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,53.0
+2018-06-27,2018,mersin-mediterranean-games,gc,Italy,JR,,0,0,,0.0,,,0.0
+2018-10-07,2018,piccolo-giro-di-lombardia,gc,Team Palazzago Amaru,1.2U,,0,0,,0.0,,,0.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Italy,2.2U,70.0,0.0,1,,86.0,,,94.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Italy,1.Ncup,,0,0,,0.0,,,5.0
+2018-04-16,2018,tour-of-the-alps,gc,Italy,2.HC,,0,0,,5.0,,,5.0
+2018-02-11,2018,trofeo-laigueglia,gc,Italy,1.HC,,0,0,,0.0,,,220.0
+2018-09-23,2018,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,90.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,0.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,380.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2018-09-30,2018,world-championship,gc,Italy,WC,,0,0,,0.0,,,330.0
+2018-09-26,2018,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,Team Named Rocked,2.2,89.0,0.0,1,,0.0,,,0.0
+2020-10-09,2020,giro-della-regione-friuli-venezia-giulia,gc,Team Named Rocked,2.2,,,1,,0.0,,,0.0
+2021-06-03,2021,giro-ciclistico-d-italia,gc,UC Trevigiani - Campana Imballaggi,2.2,,0,0,,0.0,,,3.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,UC Trevigiani - Campana Imballaggi,2.2,,0,0,,0.0,,,0.0
+2021-06-02,2021,trofeo-alcide-degasperi,gc,UC Trevigiani - Campana Imballaggi,1.2,,,1,,0.0,,,0.0
+2022-07-05,2022,trofeo-citta-di-brescia,gc,ONEC Team,1.2,,,1,,0.0,,,0.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,ONEC Team,1.2,,,1,,0.0,,,0.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,ONEC Team,1.2,,,1,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,ONEC Team,NC,,,1,,0.0,,,0.0
+2023-07-04,2023,trofeo-citta-di-brescia,gc,ONEC Team,1.2,,,1,,0.0,,,3.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,ONEC Team,1.2,,,1,,0.0,,,0.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,ONEC Team,1.2,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,ONEC Team,NC,,,1,,0.0,,,0.0
+2024-07-02,2024,trofeo-citta-di-brescia,gc,ONEC Team,1.2,,,1,,0.0,,,0.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,ONEC Team,1.2,,,1,,0.0,,,0.0
+2025-10-07,2025,coppa-citta-di-san-daniele2,gc,Karcag Cycling ÉPKAR Team,1.2,,0,0,,0.0,,,0.0
+2025-06-24,2025,giro-dell-appennino,gc,Karcag Cycling ÉPKAR Team,1.1,,,1,,0.0,,,0.0
+2025-03-30,2025,gp-adria-mobil,gc,Karcag Cycling ÉPKAR Team,1.2,,0,0,,0.0,,,-5.0
+2025-03-27,2025,gp-brda-collio,gc,Karcag Cycling ÉPKAR Team,1.2,,,1,,0.0,,,-5.0
+2025-03-23,2025,gp-izola-butan-plin,gc,Karcag Cycling ÉPKAR Team,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-hungary,gc,Karcag Cycling ÉPKAR Team,NC,,0,0,,0.0,,,60.0
+2025-06-25,2025,nc-hungary-itt,gc,Karcag Cycling ÉPKAR Team,NC,,0,0,,0.0,,,6.0
+2025-06-29,2025,nc-italy,gc,Karcag Cycling ÉPKAR Team,NC,,,1,,0.0,,,0.0
+2025-06-26,2025,nc-italy-itt,gc,Karcag Cycling ÉPKAR Team,NC,,0,0,,0.0,,,0.0
+2025-09-17,2025,okolo-slovenska,gc,Karcag Cycling ÉPKAR Team,2.1,,,1,,0.0,,,-5.0
+2025-03-16,2025,popolarissima,gc,Karcag Cycling ÉPKAR Team,1.2,,,1,,0.0,,,0.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Karcag Cycling ÉPKAR Team,2.1,59.0,0.0,1,,5.0,,,5.0
+2025-05-10,2025,silesian-classic,gc,Karcag Cycling ÉPKAR Team,1.2,,,1,,0.0,,,0.0
+2025-08-20,2025,tour-bitwa-warszawska-1920,gc,Karcag Cycling ÉPKAR Team,2.2,32.0,0.0,1,,0.0,,,0.0
+2025-05-14,2025,tour-de-hongrie,gc,Karcag Cycling ÉPKAR Team,2.Pro,80.0,0.0,1,,0.0,,,0.0
+2025-08-27,2025,tour-de-kurpie,gc,Karcag Cycling ÉPKAR Team,2.2,18.0,0.0,1,,0.0,,,0.0
+2025-08-07,2025,tour-of-szeklerland,gc,Karcag Cycling ÉPKAR Team,2.2,23.0,0.0,1,,15.0,,,15.0
+2025-07-01,2025,trofeo-citta-di-brescia,gc,Karcag Cycling ÉPKAR Team,1.2,,,1,,0.0,,,0.0
+2025-09-10,2025,turul-romaniei,gc,Karcag Cycling ÉPKAR Team,2.2,,,1,,0.0,,,0.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,Karcag Cycling ÉPKAR Team,1.2,,,1,,0.0,,,3.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,Karcag Cycling ÉPKAR Team,1.2,,,1,,0.0,,,30.0

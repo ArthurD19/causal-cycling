@@ -1,0 +1,78 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-12,2017,classica-aldeias-do-xisto-cylin-portugal,gc,Efapel,1.2,,,1,,0.0,,,20.0
+2017-07-05,2017,gp-int-torres-vedras,gc,Efapel,2.2,48.0,0.0,1,,5.0,,,6.0
+2017-06-02,2017,gp-internacional-beiras-e-serra-da-estrela,gc,Efapel,2.1,84.0,0.0,1,,143.0,,,151.0
+2017-06-23,2017,nc-portugal,gc,Efapel,NC,,,1,,0.0,,,23.0
+2017-06-25,2017,nc-portugal2,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2017-03-05,2017,trofeu-da-arrabida,gc,Efapel,1.2,,,1,,0.0,,,30.0
+2017-08-04,2017,volta-a-portugal,gc,Efapel,2.1,81.0,0.0,1,,61.0,,,86.0
+2017-02-22,2017,volta-ao-alentejo,gc,Efapel,2.1,120.0,0.0,1,,13.0,,,13.0
+2017-02-15,2017,volta-ao-algarve,gc,Efapel,2.HC,,,1,,0.0,,,0.0
+2017-05-19,2017,vuelta-a-castilla-y-leon,gc,Efapel,2.1,,0,0,,101.0,,,109.0
+2018-07-18,2018,Grande-Premio-de-Portugal-N2,gc,Miranda - Mortágua,2.2,,0,0,,0.0,,,0.0
+2018-03-25,2018,classica-aldeias-do-xisto-cylin-portugal,gc,Miranda - Mortágua,1.2,,0,0,,0.0,,,0.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Miranda - Mortágua,2.1,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-portugal,gc,Miranda - Mortágua,NC,,,1,,0.0,,,0.0
+2018-06-24,2018,nc-portugal2,gc,Miranda - Mortágua,NC,,,1,,0.0,,,0.0
+2018-05-17,2018,ronde-de-l-isard,gc,Miranda - Mortágua,2.2U,,0,0,,0.0,,,0.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Miranda - Mortágua,1.2,,,1,,0.0,,,0.0
+2018-08-01,2018,volta-a-portugal,gc,Miranda - Mortágua,2.1,,,1,,3.0,,,3.0
+2018-03-14,2018,volta-ao-alentejo,gc,Miranda - Mortágua,2.2,,,1,,0.0,,,0.0
+2018-02-14,2018,volta-ao-algarve,gc,Miranda - Mortágua,2.HC,121.0,0.0,1,,0.0,,,0.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Miranda - Mortágua,2.1,,,1,,0.0,,,0.0
+2019-07-11,2019,gp-int-torres-vedras,gc,LA Aluminios,2.2,10.0,3.0,1,,3.0,,,3.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,LA Aluminios,2.1,24.0,3.0,1,,3.0,,,3.0
+2019-06-28,2019,nc-portugal,gc,LA Aluminios,NC,,,1,,0.0,,,0.0
+2019-06-30,2019,nc-portugal2,gc,LA Aluminios,NC,,,1,,0.0,,,0.0
+2019-03-17,2019,trofeu-da-arrabida,gc,LA Aluminios,1.2,,,1,,0.0,,,0.0
+2019-07-31,2019,volta-a-portugal,gc,LA Aluminios,2.1,75.0,0.0,1,,3.0,,,3.0
+2019-03-20,2019,volta-ao-alentejo,gc,LA Aluminios,2.2,83.0,0.0,1,,0.0,,,0.0
+2019-02-20,2019,volta-ao-algarve,gc,LA Aluminios,2.HC,49.0,0.0,1,,0.0,,,0.0
+2022-06-30,2022,gp-int-torres-vedras,gc,Tavfer-Mortágua-Ovos Matinados,2.2,11.0,0.0,1,,0.0,,,3.0
+2022-06-24,2022,nc-portugal,gc,Tavfer-Mortágua-Ovos Matinados,NC,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-portugal2,gc,Tavfer-Mortágua-Ovos Matinados,NC,,,1,,0.0,,,40.0
+2022-06-11,2022,nc-venezuela,gc,Tavfer-Mortágua-Ovos Matinados,NC,,0,0,,0.0,,,0.0
+2022-03-13,2022,trofeu-da-arrabida,gc,Tavfer-Mortágua-Ovos Matinados,1.2,,,1,,0.0,,,0.0
+2022-08-04,2022,volta-a-portugal,gc,Tavfer-Mortágua-Ovos Matinados,2.1,79.0,0.0,1,,11.0,,,44.0
+2022-03-16,2022,volta-ao-alentejo,gc,Tavfer-Mortágua-Ovos Matinados,2.2,54.0,0.0,1,,0.0,,,9.0
+2022-02-16,2022,volta-ao-algarve,gc,Tavfer-Mortágua-Ovos Matinados,2.Pro,,0,0,,3.0,,,3.0
+2023-02-12,2023,figueira-champions-classic,gc,Tavfer-Ovos Matinados-Mortágua,1.1,,,1,,0.0,,,0.0
+2023-07-13,2023,gp-int-torres-vedras,gc,Tavfer-Ovos Matinados-Mortágua,2.2,20.0,0.0,1,,0.0,,,3.0
+2023-05-26,2023,gp-internacional-beiras-e-serra-da-estrela,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,,1,,3.0,,,3.0
+2023-02-23,2023,gran-camino,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-portugal,gc,Tavfer-Ovos Matinados-Mortágua,NC,,,1,,0.0,,,1.0
+2023-06-25,2023,nc-portugal2,gc,Tavfer-Ovos Matinados-Mortágua,NC,,,1,,0.0,,,33.0
+2023-03-19,2023,trofeu-da-arrabida,gc,Tavfer-Ovos Matinados-Mortágua,1.2,,,1,,0.0,,,0.0
+2023-08-09,2023,volta-a-portugal,gc,Tavfer-Ovos Matinados-Mortágua,2.1,86.0,0.0,1,,3.0,,,48.0
+2023-03-22,2023,volta-ao-alentejo,gc,Tavfer-Ovos Matinados-Mortágua,2.2,83.0,0.0,1,,0.0,,,14.0
+2023-02-15,2023,volta-ao-algarve,gc,Tavfer-Ovos Matinados-Mortágua,2.Pro,,,1,,0.0,,,0.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,0.0,,,0.0
+2024-08-11,2024,circuito-de-getxo,gc,Tavfer-Ovos Matinados-Mortágua,1.1,,,1,,0.0,,,0.0
+2024-02-10,2024,figueira-champions-classic,gc,Tavfer-Ovos Matinados-Mortágua,1.Pro,,0,0,,0.0,,,0.0
+2024-07-11,2024,gp-int-torres-vedras,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,,1,,0.0,,,3.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,,1,,0.0,,,0.0
+2024-02-22,2024,gran-camino,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-portugal,gc,Tavfer-Ovos Matinados-Mortágua,NC,,,1,,0.0,,,1.0
+2024-06-23,2024,nc-portugal2,gc,Tavfer-Ovos Matinados-Mortágua,NC,,,1,,0.0,,,30.0
+2024-06-23,2024,nc-spain,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,0.0
+2024-06-24,2024,nc-venezuela,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,0.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,0,0,,0.0,,,0.0
+2024-03-17,2024,trofeu-da-arrabida,gc,Tavfer-Ovos Matinados-Mortágua,1.2,,,1,,0.0,,,0.0
+2024-07-24,2024,volta-a-portugal,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,0.0,,,0.0
+2024-03-20,2024,volta-ao-alentejo,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,,1,,0.0,,,7.0
+2024-02-14,2024,volta-ao-algarve,gc,Tavfer-Ovos Matinados-Mortágua,2.Pro,,0,0,,0.0,,,0.0
+2025-02-16,2025,figueira-champions-classic,gc,Tavfer-Ovos Matinados-Mortágua,1.Pro,,0,0,,0.0,,,0.0
+2025-07-10,2025,gp-int-torres-vedras,gc,Tavfer-Ovos Matinados-Mortágua,2.2,64.0,0.0,1,,0.0,,,0.0
+2025-05-23,2025,gp-internacional-beiras-e-serra-da-estrela,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,0.0,,,0.0
+2025-02-26,2025,gran-camino,gc,Tavfer-Ovos Matinados-Mortágua,2.1,108.0,0.0,1,,0.0,,,0.0
+2025-06-27,2025,nc-portugal,gc,Tavfer-Ovos Matinados-Mortágua,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-portugal2,gc,Tavfer-Ovos Matinados-Mortágua,NC,,,1,,0.0,,,30.0
+2025-06-29,2025,nc-spain,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-venezuela,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,0.0
+2025-03-23,2025,trofeu-da-arrabida,gc,Tavfer-Ovos Matinados-Mortágua,1.2,,,1,,0.0,,,0.0
+2025-08-07,2025,volta-a-portugal,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,0.0,,,0.0
+2025-03-26,2025,volta-ao-alentejo,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,0,0,,0.0,,,1.0
+2025-02-19,2025,volta-ao-algarve,gc,Tavfer-Ovos Matinados-Mortágua,2.Pro,,,1,,0.0,,,0.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Tavfer-Ovos Matinados-Mortágua,1.1,,0,0,,0.0,,,0.0
+2025-09-07,2025,vuelta-ciclista-a-venezuela,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,0,0,,15.0,,,32.0

@@ -1,0 +1,45 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-02-12,2018,asian-championships-me,gc,Japan,CC,,0,0,,0.0,,,305.0
+2018-08-10,2018,czech-tour,gc,Japan,2.1,,0,0,,0.0,,,0.0
+2018-05-09,2018,fleche-du-sud,gc,Japan,2.2,,,1,,0.0,,,0.0
+2018-05-20,2018,grote-prijs-marcel-kint,gc,Japan,1.1,,,1,,0.0,,,0.0
+2018-10-21,2018,japan-cup,gc,Bridgestone Anchor Cycling Team,1.HC,,0,0,,0.0,,,5.0
+2018-10-21,2018,japan-cup,gc,Japan,1.HC,,0,0,,0.0,,,10.0
+2018-06-24,2018,nc-japan,gc,Bridgestone Anchor Cycling Team,NC,,0,0,,0.0,,,1.0
+2018-06-17,2018,nc-japan-itt,gc,Bridgestone Anchor Cycling Team,NC,,0,0,,0.0,,,83.0
+2018-10-14,2018,oita-urban-classic,gc,Bridgestone Anchor Cycling Team,1.2,,0,0,,0.0,,,0.0
+2018-08-23,2018,summer-asian-games,gc,Japan,JC,,0,0,,0.0,,,300.0
+2018-08-24,2018,summer-asian-games-itt,gc,Japan,JC,,0,0,,0.0,,,40.0
+2018-05-31,2018,tour-de-kumano,gc,Bridgestone Anchor Cycling Team,2.2,,0,0,,0.0,,,0.0
+2018-11-11,2018,tour-de-okinawa,gc,Bridgestone Anchor Cycling Team,1.2,,0,0,,0.0,,,0.0
+2018-03-11,2018,tour-de-taiwan,gc,Japan,2.1,,0,0,,128.0,,,150.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Japan,1.Ncup,,0,0,,0.0,,,0.0
+2018-01-24,2018,tour-of-sharjah,gc,Japan,2.1,,0,0,,0.0,,,0.0
+2018-09-30,2018,world-championship,gc,Japan,WC,,0,0,,0.0,,,0.0
+2018-04-28,2018,zodc-zuidenveld-tour,gc,Bridgestone Anchor Cycling Team,1.2,,,1,,0.0,,,0.0
+2019-10-20,2019,japan-cup,gc,Team Bridgestone Cycling,1.HC,,0,0,,0.0,,,8.0
+2019-06-30,2019,nc-japan,gc,Team Bridgestone Cycling,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-japan-itt,gc,Team Bridgestone Cycling,NC,,0,0,,0.0,,,1.0
+2019-08-11,2019,oita-urban-classic,gc,Team Bridgestone Cycling,1.2,,,1,,0.0,,,10.0
+2019-07-21,2019,tokyo-2020-test-event,gc,Team Bridgestone Cycling,1.2,,0,0,,0.0,,,0.0
+2019-09-06,2019,tour-de-hokkaido,gc,Team Bridgestone Cycling,2.2,,0,0,,10.0,,,13.0
+2019-05-30,2019,tour-de-kumano,gc,Team Bridgestone Cycling,2.2,,,1,,10.0,,,20.0
+2019-11-10,2019,tour-de-okinawa,gc,Team Bridgestone Cycling,1.2,,0,0,,0.0,,,20.0
+2021-10-10,2021,oita-urban-classic,gc,Sparkle Oita Racing Team,1.2,,,1,,0.0,,,20.0
+2021-05-28,2021,tour-of-japan,gc,Sparkle Oita Racing Team,2.2,65.0,0.0,1,,0.0,,,1.0
+2022-10-02,2022,oita-urban-classic,gc,Sparkle Oita Racing Team,1.2,,,1,,0.0,,,0.0
+2022-05-27,2022,tour-de-kumano,gc,Sparkle Oita Racing Team,2.2,,,1,,0.0,,,0.0
+2022-11-13,2022,tour-de-okinawa,gc,Sparkle Oita Racing Team,1.2,,,1,,0.0,,,15.0
+2022-05-19,2022,tour-of-japan,gc,Sparkle Oita Racing Team,2.2,66.0,0.0,1,,0.0,,,4.0
+2023-11-05,2023,mine-akiyoshi-dai-karst-international-road-race,gc,Sparkle Oita Racing Team,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-japan,gc,Sparkle Oita Racing Team,NC,,,1,,0.0,,,0.0
+2023-10-01,2023,oita-urban-classic,gc,Sparkle Oita Racing Team,1.2,,,1,,0.0,,,0.0
+2023-06-03,2023,tour-de-kumano,gc,Sparkle Oita Racing Team,2.2,,,1,,0.0,,,0.0
+2023-10-07,2023,tour-de-kyushu,gc,Sparkle Oita Racing Team,2.1,73.0,0.0,1,,0.0,,,0.0
+2023-09-23,2023,tour-of-binzhou,gc,Sparkle Oita Racing Team,2.2,16.0,0.0,1,,0.0,,,0.0
+2023-05-21,2023,tour-of-japan,gc,Sparkle Oita Racing Team,2.1,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-japan,gc,Sparkle Oita Racing Team,NC,,,1,,0.0,,,0.0
+2024-09-29,2024,oita-urban-classic,gc,Sparkle Oita Racing Team,1.2,,,1,,0.0,,,0.0
+2024-05-10,2024,tour-de-kumano,gc,Sparkle Oita Racing Team,2.2,,,1,,0.0,,,0.0
+2024-10-12,2024,tour-de-kyushu,gc,Sparkle Oita Racing Team,2.1,,,1,,0.0,,,0.0
+2024-03-10,2024,tour-de-taiwan,gc,Sparkle Oita Racing Team,2.1,,,1,,0.0,,,0.0

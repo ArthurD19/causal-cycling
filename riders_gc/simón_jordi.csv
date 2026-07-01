@@ -1,0 +1,46 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-08-24,2017,nc-brazil-itt,gc,Soul Brasil Pro Cycling Team,NC,,0,0,,0.0,,,16.0
+2017-05-07,2017,panamerican-championships,gc,Soul Brasil Pro Cycling Team,CC,,0,0,,0.0,,,125.0
+2017-09-10,2017,tour-of-china,gc,Soul Brasil Pro Cycling Team,2.1,,0,0,,6.0,,,6.0
+2017-09-19,2017,tour-of-china-ii,gc,Soul Brasil Pro Cycling Team,2.1,,0,0,,36.0,,,36.0
+2017-10-10,2017,tour-of-taihu-lake,gc,Soul Brasil Pro Cycling Team,2.1,,0,0,,33.0,,,33.0
+2017-10-10,2017,tour-of-turkey,gc,Soul Brasil Pro Cycling Team,2.UWT,13.0,30.0,1,,30.0,,,30.0
+2017-03-20,2017,volta-a-catalunya,gc,Soul Brasil Pro Cycling Team,2.UWT,39.0,8.0,1,,8.0,,,8.0
+2017-04-07,2017,vuelta-ciclista-al-uruguay,gc,Soul Brasil Pro Cycling Team,2.2,,0,0,,65.0,,,68.0
+2018-05-31,2018,boucles-de-la-mayenne,gc,Burgos - BH,2.1,,0,0,,3.0,,,3.0
+2018-07-31,2018,circuito-de-getxo,gc,Burgos - BH,1.1,,,1,,0.0,,,63.0
+2018-02-11,2018,clasica-de-almeria,gc,Burgos - BH,1.HC,,0,0,,0.0,,,5.0
+2018-02-06,2018,colombia-21,gc,Burgos - BH,2.1,,0,0,,0.0,,,0.0
+2018-01-26,2018,deia-trophy,gc,Burgos - BH,1.1,,,1,,0.0,,,0.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Burgos - BH,2.1,,0,0,,0.0,,,0.0
+2018-03-31,2018,gran-premio-miguel-indurain,gc,Burgos - BH,1.1,,,1,,0.0,,,3.0
+2018-05-20,2018,grote-prijs-marcel-kint,gc,Burgos - BH,1.1,,0,0,,0.0,,,0.0
+2018-04-02,2018,itzulia-basque-country,gc,Burgos - BH,2.UWT,69.0,0.0,1,,12.0,,,12.0
+2018-04-08,2018,klasika-primavera,gc,Burgos - BH,1.1,,0,0,,0.0,,,3.0
+2018-06-24,2018,nc-portugal2,gc,Burgos - BH,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-spain,gc,Burgos - BH,NC,,,1,,0.0,,,0.0
+2018-06-22,2018,nc-spain-itt,gc,Burgos - BH,NC,,0,0,,0.0,,,0.0
+2018-07-25,2018,prueba-villafranca,gc,Burgos - BH,1.1,,,1,,0.0,,,38.0
+2018-06-07,2018,ronde-de-l-oise,gc,Burgos - BH,2.2,14.0,0.0,1,,0.0,,,0.0
+2018-02-14,2018,ruta-del-sol,gc,Burgos - BH,2.HC,32.0,3.0,1,,13.0,,,13.0
+2018-08-04,2018,san-sebastian,gc,Burgos - BH,1.UWT,,,1,,0.0,,,12.0
+2018-05-23,2018,tour-of-belgium,gc,Burgos - BH,2.HC,,0,0,,8.0,,,8.0
+2018-07-22,2018,tour-of-magnificent-qinghai,gc,Burgos - BH,2.HC,,0,0,,0.0,,,30.0
+2018-10-07,2018,tour-of-taihu-lake,gc,Burgos - BH,2.1,,0,0,,9.0,,,15.0
+2018-10-09,2018,tour-of-turkey,gc,Burgos - BH,2.UWT,,0,0,,19.0,,,19.0
+2018-01-28,2018,trofeo-palma,gc,Burgos - BH,1.1,,0,0,,0.0,,,15.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Burgos - BH,1.1,,,1,,0.0,,,3.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Burgos - BH,1.1,,,1,,0.0,,,18.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Burgos - BH,1.2,,0,0,,0.0,,,0.0
+2018-03-19,2018,volta-a-catalunya,gc,Burgos - BH,2.UWT,91.0,0.0,1,,0.0,,,20.0
+2018-03-14,2018,volta-ao-alentejo,gc,Burgos - BH,2.2,,0,0,,0.0,,,0.0
+2018-05-11,2018,vuelta-a-aragon,gc,Burgos - BH,2.1,,0,0,,18.0,,,18.0
+2018-08-07,2018,vuelta-a-burgos,gc,Burgos - BH,2.HC,51.0,0.0,1,,30.0,,,30.0
+2018-04-20,2018,vuelta-a-castilla-y-leon,gc,Burgos - BH,2.1,24.0,3.0,1,,56.0,,,56.0
+2018-08-25,2018,vuelta-a-espana,gc,Burgos - BH,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2018-08-25,2018,vuelta-a-espana,kom,Burgos - BH,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2018-08-25,2018,vuelta-a-espana,points,Burgos - BH,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Burgos - BH,2.1,95.0,0.0,1,,0.0,,,0.0
+2018-04-27,2018,vuelta-asturias,gc,Burgos - BH,2.1,32.0,0.0,1,,3.0,,,3.0
+2018-02-10,2018,vuelta-ciclista-a-la-region-de-murcia,gc,Burgos - BH,1.1,,0,0,,0.0,,,0.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Burgos - BH,2.1,,0,0,,35.0,,,35.0

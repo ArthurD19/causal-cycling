@@ -1,0 +1,421 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-06-15,2021,adriatica-ionica-race,gc,Androni Giocattoli - Sidermec,2.1,20.0,3.0,1,,52.0,,,52.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,Androni Giocattoli - Sidermec,2.1,19.0,3.0,1,,81.0,,,84.0
+2021-05-27,2021,boucles-de-la-mayenne,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,8.0,,,8.0
+2021-03-28,2021,cholet-pays-de-loire,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,20.0
+2021-09-03,2021,classic-grand-besancon-doubs,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,43.0
+2021-10-11,2021,coppa-agostoni,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,25.0
+2021-10-04,2021,coppa-bernocchi,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,10.0
+2021-05-08,2021,giro-d-italia,gc,Androni Giocattoli - Sidermec,2.UWT,67.0,0.0,1,,16.0,0.0,0.0,16.0
+2021-05-08,2021,giro-d-italia,kom,Androni Giocattoli - Sidermec,2.UWT,,,1,,16.0,0.0,0.0,16.0
+2021-05-08,2021,giro-d-italia,points,Androni Giocattoli - Sidermec,2.UWT,58.0,0.0,1,,16.0,0.0,0.0,16.0
+2021-10-13,2021,giro-del-veneto,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,51.0
+2021-06-24,2021,giro-dell-appennino,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,53.0
+2021-10-02,2021,giro-dell-emilia,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,3.0
+2021-09-28,2021,giro-di-sicilia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,91.0,,,99.0
+2021-09-15,2021,giro-di-toscana,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,8.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,20.0
+2021-03-07,2021,gp-industria-artigianato,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,33.0
+2021-03-21,2021,gp-izola-butan-plin,gc,Androni Giocattoli - Sidermec,1.2,,0,0,,0.0,,,30.0
+2021-06-27,2021,gp-lugano,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,63.0
+2021-10-07,2021,gran-piemonte,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,19.0
+2021-10-09,2021,il-lombardia,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,0.0
+2021-04-04,2021,la-roue-tourangelle,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,0.0
+2021-09-20,2021,le-tour-de-bretagne,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,0.0,,,7.0
+2021-09-18,2021,memorial-marco-pantani,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,35.0
+2021-03-20,2021,milano-sanremo,gc,Androni Giocattoli - Sidermec,1.UWT,,,1,,0.0,,,3.0
+2021-10-06,2021,milano-torino,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,3.0
+2021-06-18,2021,nc-ecuador,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,100.0
+2021-06-20,2021,nc-hungary,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-hungary-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-italy,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-italy-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-slovenia,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-spain,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-spain-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-switserland,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,75.0
+2021-06-20,2021,nc-ukraine,gc,Androni Giocattoli - Sidermec,NC,,,1,,0.0,,,100.0
+2021-03-21,2021,per-sempre-alfredo,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,25.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,0.0,,,3.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Androni Giocattoli - Sidermec,2.1,27.0,0.0,1,,11.0,,,16.0
+2021-03-06,2021,strade-bianche,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,0.0
+2021-03-10,2021,tirreno-adriatico,gc,Androni Giocattoli - Sidermec,2.UWT,,0,0,,20.0,,,20.0
+2021-07-22,2021,tour-alsace,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,20.0,,,27.0
+2021-05-12,2021,tour-de-hongrie,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,6.0,,,6.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,68.0,,,85.0
+2021-09-05,2021,tour-du-doubs,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,60.0
+2021-09-04,2021,tour-du-jura-cycliste,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,15.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,0.0,,,5.0
+2021-09-28,2021,tour-of-croatia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,6.0
+2021-05-02,2021,tour-of-rwanda,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,55.0,,,74.0
+2021-06-09,2021,tour-of-slovenia,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,15.0,,,15.0
+2021-04-19,2021,tour-of-the-alps,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,100.0,,,100.0
+2021-04-11,2021,tour-of-turkey,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,130.0,,,135.0
+2021-10-05,2021,tre-valli-varesine,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,18.0
+2021-03-03,2021,trofeo-laigueglia,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,8.0
+2021-09-19,2021,trofeo-matteotti,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,110.0
+2021-08-31,2021,turul-romaniei,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,130.0,,,161.0
+2021-10-17,2021,veneto-classic,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,73.0
+2021-01-17,2021,vuelta-al-tachira,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,35.0,,,56.0
+2022-06-04,2022,adriatica-ionica-race,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,146.0,,,165.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,0.0,,,0.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,0.0
+2022-07-31,2022,circuito-de-getxo,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,85.0
+2022-02-13,2022,clasica-de-almeria,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,8.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,5.0
+2022-10-03,2022,coppa-bernocchi,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,10.0
+2022-08-04,2022,czech-tour,gc,Drone Hopper - Androni Giocattoli,2.1,20.0,3.0,1,,6.0,,,6.0
+2022-01-28,2022,deia-trophy,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,0.0
+2022-05-06,2022,giro-d-italia,gc,Drone Hopper - Androni Giocattoli,2.UWT,117.0,0.0,1,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,kom,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,points,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-10-12,2022,giro-del-veneto,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,23.0
+2022-06-02,2022,giro-dell-appennino,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,91.0
+2022-10-01,2022,giro-dell-emilia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,Drone Hopper - Androni Giocattoli,2.1,43.0,0.0,1,,91.0,,,94.0
+2022-09-14,2022,giro-di-toscana,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,30.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-03-27,2022,gp-industria-artigianato,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,108.0
+2022-02-24,2022,gran-camino,gc,Drone Hopper - Androni Giocattoli,2.1,,,1,,6.0,,,6.0
+2022-10-06,2022,gran-piemonte,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,3.0
+2022-10-08,2022,il-lombardia,gc,Drone Hopper - Androni Giocattoli,1.UWT,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,0.0,,,0.0
+2022-03-27,2022,la-roue-tourangelle,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-19,2022,milano-sanremo,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,3.0
+2022-03-16,2022,milano-torino,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,15.0
+2022-02-20,2022,nc-ecuador,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-eritrea,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,75.0
+2022-06-26,2022,nc-italy,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,50.0
+2022-06-22,2022,nc-italy-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-norway-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-romania,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,10.0
+2022-06-24,2022,nc-romania-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,15.0
+2022-03-20,2022,per-sempre-alfredo,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,8.0
+2022-07-25,2022,prueba-villafranca,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,40.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Drone Hopper - Androni Giocattoli,2.1,40.0,0.0,1,,20.0,,,20.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,31.0,,,31.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,43.0,,,46.0
+2022-03-05,2022,strade-bianche,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,0.0
+2022-03-07,2022,tirreno-adriatico,gc,Drone Hopper - Androni Giocattoli,2.UWT,,0,0,,50.0,,,50.0
+2022-05-11,2022,tour-de-hongrie,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,0.0,,,0.0
+2022-10-11,2022,tour-de-langkawi,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,65.0,,,5.0
+2022-08-16,2022,tour-du-limousin,gc,Drone Hopper - Androni Giocattoli,2.1,,,1,,0.0,,,5.0
+2022-02-10,2022,tour-of-antalya,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,45.0,,,48.0
+2022-04-27,2022,tour-of-hellas,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,35.0,,,43.0
+2022-06-15,2022,tour-of-slovenia,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,13.0,,,13.0
+2022-04-18,2022,tour-of-the-alps,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,8.0,,,8.0
+2022-04-10,2022,tour-of-turkey,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,130.0,,,150.0
+2022-10-04,2022,tre-valli-varesine,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-02,2022,trofeo-laigueglia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-01-30,2022,trofeo-palma,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,0.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-09-06,2022,turul-romaniei,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,35.0,,,55.0
+2022-10-16,2022,veneto-classic,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,3.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Drone Hopper - Androni Giocattoli,2.1,67.0,0.0,1,,3.0,,,3.0
+2022-01-16,2022,vuelta-al-tachira,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,28.0,,,37.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,0.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Team Arkéa Samsic,2.Pro,,0,0,,28.0,,,31.0
+2023-04-16,2023,amstel-gold-race,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,20.0
+2023-08-17,2023,arctic-race-of-norway,gc,Team Arkéa Samsic,2.Pro,,0,0,,15.0,,,60.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,8.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Team Arkéa Samsic,2.Pro,50.0,0.0,1,,30.0,,,30.0
+2023-04-12,2023,brabantse-pijl,gc,Team Arkéa Samsic,1.Pro,,,1,,0.0,,,10.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Team Arkéa Samsic,1.Pro,,,1,,0.0,,,5.0
+2023-09-03,2023,bretagne-classic,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,46.0
+2023-06-04,2023,brussels-cycling-classic,gc,Team Arkéa Samsic,1.Pro,,,1,,0.0,,,63.0
+2023-06-04,2023,brussels-cycling-classic,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,3.0
+2023-03-19,2023,cholet-pays-de-loire,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2023-10-15,2023,chrono-des-nations,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,25.0
+2023-06-13,2023,cic-mont-ventoux,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,193.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,15.0
+2023-09-28,2023,circuit-franco-belge,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,10.0
+2023-02-12,2023,clasica-de-almeria,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,5.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,28.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,5.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,53.0
+2023-03-18,2023,classic-loire-atlantique,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,45.0
+2023-09-28,2023,coppa-agostoni,gc,Team Corratec - Selle Italia,1.1,,,1,,0.0,,,3.0
+2023-09-28,2023,coppa-agostoni,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,80.0
+2023-10-02,2023,coppa-bernocchi,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,0.0
+2023-07-23,2023,cupa-max-ausnit,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,125.0
+2023-08-20,2023,cyclassics-hamburg,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,224.0
+2023-07-27,2023,czech-tour,gc,Team Corratec - Selle Italia,2.1,,0,0,,0.0,,,0.0
+2023-01-28,2023,deia-trophy,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,0.0
+2023-08-19,2023,druivenkoers-overijse,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,70.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,20.0
+2023-06-10,2023,dwars-door-het-hageland,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,60.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Team Arkéa Samsic,1.UWT,,,1,,0.0,,,12.0
+2023-03-24,2023,e3-harelbeke,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,48.0
+2023-05-01,2023,eschborn-frankfurt,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,52.0
+2023-02-01,2023,etoile-de-besseges,gc,Team Arkéa Samsic,2.1,,0,0,,60.0,,,60.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2023-02-25,2023,faun-ardeche-classic,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,18.0
+2023-03-26,2023,gent-wevelgem,gc,Team Arkéa Samsic,1.UWT,,,1,,0.0,,,105.0
+2023-05-06,2023,giro-d-italia,gc,Team Arkéa Samsic,2.UWT,,0,0,,70.0,0.0,0.0,417.0
+2023-05-06,2023,giro-d-italia,gc,Team Corratec - Selle Italia,2.UWT,,0,0,,0.0,0.0,0.0,185.0
+2023-05-06,2023,giro-d-italia,kom,Team Arkéa Samsic,2.UWT,,0,0,,70.0,0.0,0.0,417.0
+2023-05-06,2023,giro-d-italia,kom,Team Corratec - Selle Italia,2.UWT,,0,0,,0.0,0.0,0.0,185.0
+2023-05-06,2023,giro-d-italia,points,Team Arkéa Samsic,2.UWT,,0,0,,70.0,0.0,0.0,417.0
+2023-05-06,2023,giro-d-italia,points,Team Corratec - Selle Italia,2.UWT,,0,0,,0.0,0.0,0.0,185.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,0.0
+2023-10-11,2023,giro-del-veneto,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,160.0
+2023-06-02,2023,giro-dell-appennino,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,50.0
+2023-06-02,2023,giro-dell-appennino,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,3.0
+2023-09-30,2023,giro-dell-emilia,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,3.0
+2023-09-30,2023,giro-dell-emilia,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,69.0
+2023-09-13,2023,giro-di-toscana,gc,Team Corratec - Selle Italia,1.1,,,1,,0.0,,,10.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,5.0
+2023-09-17,2023,gp-d-isbergues,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,70.0
+2023-01-29,2023,gp-d-ouverture,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,38.0
+2023-03-16,2023,gp-de-denain,gc,Team Arkéa Samsic,1.Pro,,,1,,0.0,,,30.0
+2023-09-10,2023,gp-de-fourmies,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,8.0
+2023-09-10,2023,gp-de-fourmies,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,60.0
+2023-05-06,2023,gp-de-plumelec,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,25.0
+2023-01-22,2023,gp-de-valence,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,88.0
+2023-09-13,2023,gp-de-wallonie,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,55.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,30.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,0.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,30.0
+2023-08-15,2023,gp-jef-scherens,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2023-09-10,2023,gp-montreal,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,38.0
+2023-09-08,2023,gp-quebec,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,90.0
+2023-02-28,2023,gp-samyn,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,140.0
+2023-08-20,2023,gp-stad-zottegem,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,5.0
+2023-10-05,2023,gran-piemonte,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,0.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,60.0
+2023-03-04,2023,grand-prix-criquielion,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,70.0
+2023-01-29,2023,great-ocean-road-race,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,57.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,60.0
+2023-06-03,2023,heist-op-den-berg,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,3.0
+2023-10-07,2023,il-lombardia,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,60.0
+2023-04-03,2023,itzulia-basque-country,gc,Team Arkéa Samsic,2.UWT,,0,0,,48.0,,,64.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,6.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,10.0
+2023-02-26,2023,la-drome-classic,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,5.0
+2023-04-19,2023,la-fleche-wallonne,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,76.0
+2023-08-13,2023,la-poly-normande,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,38.0
+2023-03-26,2023,la-roue-tourangelle,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,20.0
+2023-06-15,2023,la-route-d-occitanie,gc,Team Arkéa Samsic,2.1,,0,0,,91.0,,,96.0
+2023-04-23,2023,liege-bastogne-liege,gc,Team Arkéa Samsic,1.UWT,,,1,,0.0,,,0.0
+2023-09-03,2023,maryland-cycling-classic,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,8.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,158.0
+2023-09-16,2023,memorial-marco-pantani,gc,Team Corratec - Selle Italia,1.1,,,1,,0.0,,,0.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,56.0
+2023-03-18,2023,milano-sanremo,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,20.0
+2023-03-15,2023,milano-torino,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,75.0
+2023-10-03,2023,munsterland-giro,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,8.0
+2023-02-10,2023,muscat-classic,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,125.0
+2023-06-25,2023,nc-belgium,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-croatia,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,30.0
+2023-06-22,2023,nc-croatia-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-czech-republic2,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-france,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,40.0
+2023-06-22,2023,nc-france-itt,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,8.0
+2023-06-21,2023,nc-great-britain-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-luxembourg,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,75.0
+2023-06-21,2023,nc-luxembourg-itt,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,10.0
+2023-06-25,2023,nc-netherlands,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-poland,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-serbia,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,60.0
+2023-06-23,2023,nc-serbia-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,nc-switserland,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-10-01,2023,nc-switzerland-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,3.0
+2023-09-13,2023,okolo-slovenska,gc,Team Corratec - Selle Italia,2.1,,0,0,,5.0,,,5.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,49.0
+2023-09-20,2023,omloop-van-het-houtland-lichtervelde,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,53.0
+2023-10-05,2023,paris-bourges,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,125.0
+2023-04-11,2023,paris-camembert,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,140.0
+2023-09-24,2023,paris-chauny-classique,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,60.0
+2023-03-05,2023,paris-nice,gc,Team Arkéa Samsic,2.UWT,,0,0,,53.0,,,73.0
+2023-04-09,2023,paris-roubaix,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,55.0
+2023-10-08,2023,paris-tours,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,53.0
+2023-04-04,2023,region-pays-de-la-loire,gc,Team Arkéa Samsic,2.1,,0,0,,43.0,,,43.0
+2023-08-23,2023,renewi-tour,gc,Team Arkéa Samsic,2.UWT,,0,0,,16.0,,,17.0
+2023-03-12,2023,ronde-van-drenthe,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,45.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,30.0
+2023-03-31,2023,route-adelie-de-vitre,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,195.0
+2023-05-21,2023,rund-um-koln,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,43.0
+2023-05-21,2023,rund-um-koln,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,0.0
+2023-07-29,2023,san-sebastian,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,40.0
+2023-04-05,2023,scheldeprijs,gc,Team Arkéa Samsic,1.Pro,,,1,,0.0,,,15.0
+2023-07-06,2023,sibiu-cycling-tour,gc,Team Corratec - Selle Italia,2.1,,0,0,,3.0,,,3.0
+2023-03-04,2023,strade-bianche,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,40.0
+2023-10-22,2023,sun-hung-kai-properties-hong-kong-challenge,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,33.0
+2023-03-06,2023,tirreno-adriatico,gc,Team Arkéa Samsic,2.UWT,,0,0,,50.0,,,60.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Team Arkéa Samsic,2.UWT,,0,0,,50.0,,,102.0
+2023-07-01,2023,tour-de-france,gc,Team Arkéa Samsic,2.UWT,,0,0,,70.0,0.0,0.0,510.0
+2023-07-01,2023,tour-de-france,kom,Team Arkéa Samsic,2.UWT,,0,0,,70.0,0.0,0.0,510.0
+2023-07-01,2023,tour-de-france,points,Team Arkéa Samsic,2.UWT,,0,0,,70.0,0.0,0.0,510.0
+2023-07-31,2023,tour-de-l-ain,gc,Team Arkéa Samsic,2.1,,0,0,,35.0,,,38.0
+2023-09-23,2023,tour-de-langkawi,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,10.0,,,-52.0
+2023-09-20,2023,tour-de-luxembourg,gc,Team Arkéa Samsic,2.Pro,,0,0,,10.0,,,30.0
+2023-07-29,2023,tour-de-pologne,gc,Team Arkéa Samsic,2.UWT,,0,0,,34.0,,,42.0
+2023-04-25,2023,tour-de-romandie,gc,Team Arkéa Samsic,2.UWT,,,1,,20.0,,,10.0
+2023-06-11,2023,tour-de-suisse,gc,Team Arkéa Samsic,2.UWT,45.0,10.0,1,,20.0,,,20.0
+2023-10-01,2023,tour-de-vendee,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,131.0
+2023-07-22,2023,tour-de-wallonie,gc,Team Arkéa Samsic,2.Pro,,0,0,,73.0,,,73.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Team Arkéa Samsic,2.1,,0,0,,125.0,,,145.0
+2023-01-17,2023,tour-down-under,gc,Team Arkéa Samsic,2.UWT,,0,0,,50.0,,,58.0
+2023-04-16,2023,tour-du-doubs,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,30.0
+2023-05-13,2023,tour-du-finistere,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,30.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,131.0
+2023-08-15,2023,tour-du-limousin,gc,Team Corratec - Selle Italia,2.1,25.0,3.0,1,,3.0,,,3.0
+2023-08-15,2023,tour-du-limousin,gc,Team Arkéa Samsic,2.1,,0,0,,85.0,,,102.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Corratec - Selle Italia,2.1,16.0,3.0,1,,3.0,,,3.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Arkéa Samsic,2.1,,0,0,,85.0,,,85.0
+2023-06-14,2023,tour-of-belgium,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,0.0,,,0.0
+2023-10-12,2023,tour-of-guangxi,gc,Team Arkéa Samsic,2.UWT,,0,0,,150.0,,,152.0
+2023-10-05,2023,tour-of-hainan,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,153.0,,,208.0
+2023-07-09,2023,tour-of-magnificent-qinghai,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,228.0,,,298.0
+2023-02-11,2023,tour-of-oman,gc,Team Arkéa Samsic,2.Pro,43.0,0.0,1,,61.0,,,81.0
+2023-06-14,2023,tour-of-slovenia,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,3.0,,,3.0
+2023-09-14,2023,tour-of-taihu-lake,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,15.0,,,26.0
+2023-10-08,2023,tour-of-turkey,gc,Team Corratec - Selle Italia,2.1,,0,0,,3.0,,,-7.0
+2023-10-03,2023,tre-valli-varesine,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,0.0
+2023-10-03,2023,tre-valli-varesine,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,11.0
+2023-05-07,2023,tro-bro-leon,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,70.0
+2023-01-25,2023,trofeo-calvia,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2023-07-04,2023,trofeo-citta-di-brescia,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,0.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,30.0
+2023-03-01,2023,trofeo-laigueglia,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,100.0
+2023-09-17,2023,trofeo-matteotti,gc,Team Corratec - Selle Italia,1.1,,,1,,0.0,,,18.0
+2023-01-29,2023,trofeo-palma,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,5.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,33.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,8.0
+2023-05-20,2023,veenendaal-veenendaal,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,0.0
+2023-10-15,2023,veneto-classic,gc,Team Arkéa Samsic,1.Pro,,0,0,,0.0,,,8.0
+2023-03-20,2023,volta-a-catalunya,gc,Team Arkéa Samsic,2.UWT,,0,0,,16.0,,,16.0
+2023-02-15,2023,volta-ao-algarve,gc,Team Arkéa Samsic,2.Pro,,0,0,,15.0,,,15.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Team Arkéa Samsic,2.1,,0,0,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,Team Arkéa Samsic,2.UWT,,0,0,,110.0,0.0,0.0,275.0
+2023-08-27,2023,vuelta-a-espana,kom,Team Arkéa Samsic,2.UWT,,0,0,,110.0,0.0,0.0,275.0
+2023-08-27,2023,vuelta-a-espana,points,Team Arkéa Samsic,2.UWT,,0,0,,110.0,0.0,0.0,275.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,5.0
+2023-06-07,2023,zlm-tour,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,20.0,,,35.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,40.0
+2024-02-16,2024,classic-var,gc,Team Corratec - Vini Fantini,1.1,,0,0,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2024-10-06,2024,coppa-agostoni,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,3.0
+2024-10-07,2024,coppa-bernocchi,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2024-10-01,2024,coppa-citta-di-san-daniele2,gc,Team Corratec - Vini Fantini,1.2,,,1,,0.0,,,0.0
+2024-08-04,2024,cupa-max-ausnit,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,50.0
+2024-07-25,2024,czech-tour,gc,Team Corratec - Vini Fantini,2.1,38.0,0.0,1,,6.0,,,6.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,40.0
+2024-02-01,2024,etoile-de-besseges,gc,Team Corratec - Vini Fantini,2.1,32.0,0.0,1,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,Team Corratec - Vini Fantini,2.1,,0,0,,15.0,,,15.0
+2024-07-07,2024,giro-del-medio-brenta,gc,Team Corratec - Vini Fantini,1.2,,,1,,0.0,,,3.0
+2024-10-16,2024,giro-del-veneto,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2024-07-14,2024,giro-dell-appennino,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,21.0
+2024-10-05,2024,giro-dell-emilia,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2024-04-21,2024,giro-di-romagna,gc,Team Corratec - Vini Fantini,1.1,,0,0,,0.0,,,5.0
+2024-09-11,2024,giro-di-toscana,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,8.0
+2024-03-24,2024,gp-adria-mobil,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,30.0
+2024-09-28,2024,gp-cerami,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,3.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,103.0
+2024-01-28,2024,gp-d-ouverture,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,15.0
+2024-09-08,2024,gp-de-fourmies,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,8.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Team Corratec - Vini Fantini,1.1,,0,0,,0.0,,,0.0
+2024-09-08,2024,gp-industria-artigianato,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,6.0
+2024-09-01,2024,gp-kranj,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,28.0
+2024-05-01,2024,gp-vorarlberg,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,33.0
+2024-10-10,2024,gran-piemonte,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2024-05-19,2024,gran-premio-new-york-city,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,10.0
+2024-10-12,2024,il-lombardia,gc,Team Corratec - Vini Fantini,1.UWT,,,1,,0.0,,,0.0
+2024-03-07,2024,istrian-spring-tour,gc,Team Corratec - Vini Fantini,2.2,,0,0,,0.0,,,0.0
+2024-09-14,2024,memorial-marco-pantani,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,15.0
+2024-03-16,2024,milano-sanremo,gc,Team Corratec - Vini Fantini,1.UWT,,0,0,,0.0,,,0.0
+2024-03-13,2024,milano-torino,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-italy,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-italy-itt,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-netherlands,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-switserland,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,2.0
+2024-06-20,2024,nc-switzerland-itt,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,0.0
+2024-06-27,2024,okolo-slovenska,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,5.0
+2024-09-22,2024,paris-chauny-classique,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,3.0
+2024-03-03,2024,porec-trophy,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,13.0
+2024-04-02,2024,region-pays-de-la-loire,gc,Team Corratec - Vini Fantini,2.1,,0,0,,20.0,,,20.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,Team Corratec - Vini Fantini,2.1,,,1,,0.0,,,0.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Team Corratec - Vini Fantini,2.1,,0,0,,8.0,,,8.0
+2024-03-02,2024,strade-bianche,gc,Team Corratec - Vini Fantini,1.UWT,,0,0,,0.0,,,4.0
+2024-03-04,2024,tirreno-adriatico,gc,Team Corratec - Vini Fantini,2.UWT,,0,0,,0.0,,,0.0
+2024-02-08,2024,tour-cycliste-international-la-provence,gc,Team Corratec - Vini Fantini,2.1,,,1,,0.0,,,0.0
+2024-05-08,2024,tour-de-hongrie,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,3.0,,,13.0
+2024-10-12,2024,tour-de-kyushu,gc,Team Corratec - Vini Fantini,2.1,,0,0,,48.0,,,48.0
+2024-09-29,2024,tour-de-langkawi,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,25.0,,,30.0
+2024-04-23,2024,tour-de-romandie,gc,Team Corratec - Vini Fantini,2.UWT,,0,0,,0.0,,,0.0
+2024-06-09,2024,tour-de-suisse,gc,Team Corratec - Vini Fantini,2.UWT,,0,0,,0.0,,,0.0
+2024-03-10,2024,tour-de-taiwan,gc,Team Corratec - Vini Fantini,2.1,,0,0,,50.0,,,58.0
+2024-02-17,2024,tour-des-alpes-maritimes,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2024-08-13,2024,tour-du-limousin,gc,Team Corratec - Vini Fantini,2.1,,0,0,,15.0,,,15.0
+2024-08-20,2024,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2024-02-08,2024,tour-of-antalya,gc,Team Corratec - Vini Fantini,2.1,,0,0,,25.0,,,25.0
+2024-08-27,2024,tour-of-hainan,gc,Team Corratec - Vini Fantini,2.Pro,32.0,3.0,1,,51.0,,,74.0
+2024-09-12,2024,tour-of-istanbul,gc,Team Corratec - Vini Fantini,2.1,,0,0,,58.0,,,58.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,33.0,,,51.0
+2024-01-26,2024,tour-of-sharjah,gc,Team Corratec - Vini Fantini,2.2,,0,0,,10.0,,,13.0
+2024-06-12,2024,tour-of-slovenia,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,3.0,,,3.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,8.0,,,18.0
+2024-04-15,2024,tour-of-the-alps,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,0.0,,,0.0
+2024-04-21,2024,tour-of-turkey,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,5.0,,,5.0
+2024-10-08,2024,tre-valli-varesine,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2024-02-28,2024,trofej-umag,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,25.0
+2024-07-02,2024,trofeo-citta-di-brescia,gc,Team Corratec - Vini Fantini,1.2,,,1,,0.0,,,45.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,30.0
+2024-02-28,2024,trofeo-laigueglia,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2024-09-15,2024,trofeo-matteotti,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,38.0
+2024-02-19,2024,uae-tour,gc,Team Corratec - Vini Fantini,2.UWT,42.0,5.0,1,,5.0,,,35.0
+2024-10-20,2024,veneto-classic,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,3.0
+2024-06-05,2024,zlm-tour,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,3.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Petrolike,1.1,,,1,,0.0,,,38.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-01-24,2025,classica-camp-de-morvedre,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-10-05,2025,coppa-agostoni,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-10-07,2025,coppa-citta-di-san-daniele2,gc,Petrolike,1.2,,,1,,0.0,,,6.0
+2025-01-31,2025,deia-trophy,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-04-15,2025,giro-d-abruzzo,gc,Petrolike,2.1,,0,0,,3.0,,,17.0
+2025-10-15,2025,giro-del-veneto,gc,Petrolike,1.Pro,,,1,,0.0,,,18.0
+2025-06-24,2025,giro-dell-appennino,gc,Petrolike,1.1,,,1,,0.0,,,91.0
+2025-09-04,2025,giro-della-regione-friuli-venezia-giulia,gc,Petrolike,2.2,,0,0,,0.0,,,-5.0
+2025-09-21,2025,giro-di-romagna,gc,Petrolike,1.1,,,1,,0.0,,,8.0
+2025-09-10,2025,giro-di-toscana,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Petrolike,1.Pro,,,1,,0.0,,,5.0
+2025-09-07,2025,gp-industria-artigianato,gc,Petrolike,1.Pro,,,1,,0.0,,,3.0
+2025-08-31,2025,gp-kranj,gc,Petrolike,1.2,,0,0,,0.0,,,40.0
+2025-02-26,2025,gran-camino,gc,Petrolike,2.1,,,1,,3.0,,,3.0
+2025-03-13,2025,istrian-spring-tour,gc,Petrolike,2.2,,0,0,,0.0,,,0.0
+2025-04-25,2025,le-tour-de-bretagne,gc,Petrolike,2.2,,,1,,0.0,,,0.0
+2025-09-13,2025,memorial-marco-pantani,gc,Petrolike,1.1,,,1,,0.0,,,20.0
+2025-09-20,2025,milano-rapallo,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-02-02,2025,nc-ecuador,gc,Petrolike,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-ireland,gc,Petrolike,NC,,0,0,,0.0,,,0.0
+2025-10-25,2025,nc-mexico,gc,Petrolike,NC,,0,0,,0.0,,,123.0
+2025-10-23,2025,nc-mexico-itt,gc,Petrolike,NC,,0,0,,0.0,,,30.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Petrolike,2.2,17.0,0.0,1,,45.0,,,63.0
+2025-03-09,2025,porec-trophy,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-07-25,2025,prueba-villafranca,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-02-19,2025,ruta-del-sol,gc,Petrolike,2.Pro,,,1,,3.0,,,3.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Petrolike,2.1,43.0,0.0,1,,0.0,,,0.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Petrolike,2.1,13.0,5.0,1,,20.0,,,20.0
+2025-07-31,2025,tour-alsace,gc,Petrolike,2.2,74.0,0.0,1,,0.0,,,-5.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Petrolike,2.Pro,,0,0,,160.0,,,198.0
+2025-06-02,2025,trofeo-alcide-degasperi,gc,Petrolike,1.2,,0,0,,0.0,,,5.0
+2025-10-12,2025,trofeo-baracchi,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-01-29,2025,trofeo-calvia,gc,Petrolike,1.1,,,1,,0.0,,,3.0
+2025-03-05,2025,trofeo-laigueglia,gc,Petrolike,1.Pro,,0,0,,0.0,,,3.0
+2025-09-14,2025,trofeo-matteotti,gc,Petrolike,1.1,,,1,,0.0,,,3.0
+2025-02-02,2025,trofeo-palma,gc,Petrolike,1.1,,,1,,0.0,,,30.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Petrolike,1.1,,0,0,,0.0,,,18.0
+2025-04-27,2025,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-10-19,2025,veneto-classic,gc,Petrolike,1.Pro,,,1,,0.0,,,3.0
+2025-08-06,2025,volta-a-portugal,gc,Petrolike,2.1,,,1,,38.0,,,52.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Petrolike,2.Pro,21.0,5.0,1,,5.0,,,5.0
+2025-02-15,2025,vuelta-ciclista-a-la-region-de-murcia,gc,Petrolike,1.1,,0,0,,0.0,,,6.0

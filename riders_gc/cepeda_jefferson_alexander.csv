@@ -1,0 +1,628 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-07-19,2017,cascade-cycling-classic,gc,Team Ecuador,2.2,39.0,0.0,1,,0.0,,,4.0
+2017-09-24,2017,nc-ecuador,gc,Team Ecuador,NC,,0,0,,0.0,,,20.0
+2017-09-23,2017,nc-ecuador-itt,gc,Team Ecuador,NC,,,1,,0.0,,,0.0
+2017-05-07,2017,panamerican-championships,gc,Team Ecuador,CC,,0,0,,0.0,,,25.0
+2017-04-19,2017,tour-of-the-gila,gc,Team Ecuador,2.2,27.0,0.0,1,,0.0,,,0.0
+2017-10-23,2017,vuelta-a-guatemala,gc,Team Ecuador,2.2,,0,0,,15.0,,,15.0
+2017-02-27,2017,vuelta-independencia-nacional,gc,Team Ecuador,2.2,23.0,0.0,1,,13.0,,,14.0
+2018-05-27,2018,juegos-suramericanos-itt,gc,Team Ecuador,JR,,0,0,,0.0,,,0.0
+2018-06-03,2018,juegos-suramericanos-road-race,gc,Team Ecuador,JR,,,1,,0.0,,,0.0
+2018-07-18,2018,nc-ecuador,gc,Team Ecuador,NC,,0,0,,0.0,,,55.0
+2018-07-17,2018,nc-ecuador-itt,gc,Team Ecuador,NC,,0,0,,0.0,,,28.0
+2018-06-24,2018,nc-venezuela,gc,Team Ecuador,NC,,0,0,,0.0,,,0.0
+2018-05-03,2018,panamerican-champ-itt,gc,Team Ecuador,CC,,0,0,,0.0,,,0.0
+2018-05-06,2018,panamerican-championships,gc,Team Ecuador,CC,,0,0,,0.0,,,3.0
+2018-08-01,2018,volta-a-portugal,gc,Team Ecuador,2.1,,0,0,,0.0,,,0.0
+2018-01-12,2018,vuelta-al-tachira,gc,Team Ecuador,2.2,,0,0,,0.0,,,3.0
+2018-07-05,2018,vuelta-ciclista-a-venezuela,gc,Team Ecuador,2.2,,0,0,,25.0,,,33.0
+2020-02-04,2020,alula-tour,gc,Caja Rural - Seguros RGA,2.1,,0,0,,6.0,,,6.0
+2020-09-04,2020,banja-luka-belgrade-i,gc,Caja Rural - Seguros RGA,2.1,,0,0,,53.0,,,72.0
+2020-08-06,2020,cic-mont-ventoux,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,5.0
+2020-08-02,2020,circuito-de-getxo,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,28.0
+2020-08-02,2020,circuito-de-getxo,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,66.0
+2020-02-16,2020,clasica-de-almeria,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,5.0
+2020-02-12,2020,colombia-21,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,50.0,,,53.0
+2020-01-31,2020,deia-trophy,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,6.0
+2020-02-29,2020,faun-ardeche-classic,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,5.0
+2020-10-03,2020,giro-d-italia,gc,Androni Giocattoli - Sidermec,2.UWT,78.0,0.0,1,,0.0,0.0,0.0,4.0
+2020-10-03,2020,giro-d-italia,kom,Androni Giocattoli - Sidermec,2.UWT,,,1,,0.0,0.0,0.0,4.0
+2020-10-03,2020,giro-d-italia,points,Androni Giocattoli - Sidermec,2.UWT,,,1,,0.0,0.0,0.0,4.0
+2020-09-19,2020,giro-dell-appennino,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,3.0
+2020-09-19,2020,giro-dell-appennino,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2020-08-18,2020,giro-dell-emilia,gc,Androni Giocattoli - Sidermec,1.Pro,,,1,,0.0,,,14.0
+2020-09-16,2020,giro-di-toscana,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,56.0
+2020-09-16,2020,giro-di-toscana,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Androni Giocattoli - Sidermec,1.Pro,,,1,,0.0,,,36.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,3.0
+2020-09-20,2020,gp-d-isbergues,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,0.0
+2020-09-19,2020,gp-int-torres-vedras,gc,Caja Rural - Seguros RGA,2.2,,0,0,,0.0,,,0.0
+2020-03-03,2020,gp-samyn,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2020-08-12,2020,gran-piemonte,gc,Androni Giocattoli - Sidermec,1.Pro,,,1,,0.0,,,16.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,88.0
+2020-08-15,2020,il-lombardia,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,10.0
+2020-03-01,2020,la-drome-classic,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,70.0
+2020-08-01,2020,la-route-d-occitanie,gc,Caja Rural - Seguros RGA,2.1,,0,0,,8.0,,,8.0
+2020-02-15,2020,malaysian-international-classic-race,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,3.0
+2020-08-30,2020,memorial-marco-pantani,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2020-08-30,2020,memorial-marco-pantani,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,11.0
+2020-08-08,2020,milano-sanremo,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,0.0
+2020-08-05,2020,milano-torino,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,50.0
+2020-07-19,2020,nc-croatia,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,100.0
+2020-07-18,2020,nc-croatia-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-hungary,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,50.0
+2020-08-21,2020,nc-hungary-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,5.0
+2020-08-23,2020,nc-italy,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-italy,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-italy-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,3.0
+2020-08-23,2020,nc-spain,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,4.0
+2020-08-21,2020,nc-spain-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2020-10-31,2020,nc-switserland,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,60.0
+2020-11-15,2020,nc-venezuela,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,20.0
+2020-09-22,2020,paris-camembert,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,3.0
+2020-10-11,2020,paris-tours,gc,Caja Rural - Seguros RGA,1.Pro,,0,0,,0.0,,,3.0
+2020-10-12,2020,prueba-villafranca,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,69.0
+2020-02-19,2020,ruta-del-sol,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,5.0,,,25.0
+2020-08-01,2020,strade-bianche,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,22.0
+2020-09-07,2020,tirreno-adriatico,gc,Androni Giocattoli - Sidermec,2.UWT,,0,0,,5.0,,,5.0
+2020-08-29,2020,tour-de-hongrie,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,6.0
+2020-08-29,2020,tour-de-hongrie,gc,Caja Rural - Seguros RGA,2.1,,0,0,,28.0,,,42.0
+2020-02-07,2020,tour-de-langkawi,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,3.0,,,33.0
+2020-09-15,2020,tour-de-luxembourg,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,3.0,,,3.0
+2020-08-05,2020,tour-des-pays-de-savoie,gc,Androni Giocattoli - Sidermec,2.2,10.0,3.0,1,,6.0,,,9.0
+2020-09-06,2020,tour-du-doubs,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2020-08-18,2020,tour-du-limousin,gc,Caja Rural - Seguros RGA,2.1,,0,0,,8.0,,,11.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Caja Rural - Seguros RGA,2.1,,0,0,,0.0,,,0.0
+2020-02-23,2020,tour-of-rwanda,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,91.0,,,152.0
+2020-02-16,2020,trofeo-laigueglia,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,103.0
+2020-08-29,2020,trofeo-matteotti,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,15.0
+2020-08-29,2020,trofeo-matteotti,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,26.0
+2020-02-02,2020,trofeo-palma,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,33.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,73.0
+2020-09-27,2020,volta-a-portugal,gc,Caja Rural - Seguros RGA,2.1,,0,0,,25.0,,,39.0
+2020-02-19,2020,volta-ao-algarve,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,0.0,,,0.0
+2020-07-28,2020,vuelta-a-burgos,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,20.0,,,20.0
+2020-10-20,2020,vuelta-a-espana,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,24.0,0.0,0.0,24.0
+2020-10-20,2020,vuelta-a-espana,kom,Caja Rural - Seguros RGA,2.UWT,,0,0,,24.0,0.0,0.0,24.0
+2020-10-20,2020,vuelta-a-espana,points,Caja Rural - Seguros RGA,2.UWT,,0,0,,24.0,0.0,0.0,24.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Caja Rural - Seguros RGA,2.Pro,,0,0,,5.0,,,5.0
+2020-01-12,2020,vuelta-al-tachira,gc,Androni Giocattoli - Sidermec,2.2,,,1,,25.0,,,71.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,98.0,,,128.0
+2020-02-14,2020,vuelta-ciclista-a-la-region-de-murcia,gc,Caja Rural - Seguros RGA,2.1,,0,0,,40.0,,,40.0
+2021-06-15,2021,adriatica-ionica-race,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,52.0,,,52.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,81.0,,,84.0
+2021-05-27,2021,boucles-de-la-mayenne,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,8.0,,,8.0
+2021-03-28,2021,cholet-pays-de-loire,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,20.0
+2021-09-03,2021,classic-grand-besancon-doubs,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,43.0
+2021-10-11,2021,coppa-agostoni,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,25.0
+2021-10-04,2021,coppa-bernocchi,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,10.0
+2021-05-08,2021,giro-d-italia,gc,Androni Giocattoli - Sidermec,2.UWT,,,1,,16.0,0.0,0.0,16.0
+2021-05-08,2021,giro-d-italia,kom,Androni Giocattoli - Sidermec,2.UWT,,,1,,16.0,0.0,0.0,16.0
+2021-05-08,2021,giro-d-italia,points,Androni Giocattoli - Sidermec,2.UWT,,,1,,16.0,0.0,0.0,16.0
+2021-10-13,2021,giro-del-veneto,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,51.0
+2021-06-24,2021,giro-dell-appennino,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,53.0
+2021-10-02,2021,giro-dell-emilia,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,3.0
+2021-09-28,2021,giro-di-sicilia,gc,Androni Giocattoli - Sidermec,2.1,31.0,0.0,1,,91.0,,,99.0
+2021-09-15,2021,giro-di-toscana,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,8.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,20.0
+2021-03-07,2021,gp-industria-artigianato,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,33.0
+2021-03-21,2021,gp-izola-butan-plin,gc,Androni Giocattoli - Sidermec,1.2,,0,0,,0.0,,,30.0
+2021-06-27,2021,gp-lugano,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,63.0
+2021-10-07,2021,gran-piemonte,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,19.0
+2021-10-09,2021,il-lombardia,gc,Androni Giocattoli - Sidermec,1.UWT,,,1,,0.0,,,0.0
+2021-04-04,2021,la-roue-tourangelle,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,0.0
+2021-09-20,2021,le-tour-de-bretagne,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,0.0,,,7.0
+2021-09-18,2021,memorial-marco-pantani,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,35.0
+2021-03-20,2021,milano-sanremo,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,3.0
+2021-10-06,2021,milano-torino,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,3.0
+2021-06-18,2021,nc-ecuador,gc,Androni Giocattoli - Sidermec,NC,,,1,,0.0,,,100.0
+2021-06-20,2021,nc-hungary,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-hungary-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-italy,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-italy-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-slovenia,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-spain,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-spain-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-switserland,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,75.0
+2021-06-20,2021,nc-ukraine,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,100.0
+2021-03-21,2021,per-sempre-alfredo,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,25.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,0.0,,,3.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Androni Giocattoli - Sidermec,2.1,29.0,0.0,1,,11.0,,,16.0
+2021-03-06,2021,strade-bianche,gc,Androni Giocattoli - Sidermec,1.UWT,,,1,,0.0,,,0.0
+2021-03-10,2021,tirreno-adriatico,gc,Androni Giocattoli - Sidermec,2.UWT,,0,0,,20.0,,,20.0
+2021-07-22,2021,tour-alsace,gc,Androni Giocattoli - Sidermec,2.2,43.0,0.0,1,,20.0,,,27.0
+2021-05-12,2021,tour-de-hongrie,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,6.0,,,6.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Androni Giocattoli - Sidermec,2.2,1.0,40.0,1,,68.0,,,85.0
+2021-09-05,2021,tour-du-doubs,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,60.0
+2021-09-04,2021,tour-du-jura-cycliste,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,15.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,0.0,,,5.0
+2021-09-28,2021,tour-of-croatia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,6.0
+2021-05-02,2021,tour-of-rwanda,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,55.0,,,74.0
+2021-06-09,2021,tour-of-slovenia,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,15.0,,,15.0
+2021-04-19,2021,tour-of-the-alps,gc,Androni Giocattoli - Sidermec,2.Pro,4.0,100.0,1,,100.0,,,100.0
+2021-04-11,2021,tour-of-turkey,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,130.0,,,135.0
+2021-10-05,2021,tre-valli-varesine,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,18.0
+2021-03-03,2021,trofeo-laigueglia,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,8.0
+2021-09-19,2021,trofeo-matteotti,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,110.0
+2021-08-31,2021,turul-romaniei,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,130.0,,,161.0
+2021-10-17,2021,veneto-classic,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,73.0
+2021-01-17,2021,vuelta-al-tachira,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,35.0,,,56.0
+2022-06-04,2022,adriatica-ionica-race,gc,Drone Hopper - Androni Giocattoli,2.1,5.0,50.0,1,,146.0,,,165.0
+2022-04-10,2022,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,35.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,0.0,,,0.0
+2022-04-13,2022,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,33.0
+2022-08-28,2022,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,88.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-10-16,2022,chrono-des-nations,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,50.0
+2022-06-14,2022,cic-mont-ventoux,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,216.0
+2022-07-31,2022,circuito-de-getxo,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,85.0
+2022-07-31,2022,circuito-de-getxo,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,3.0
+2022-02-13,2022,clasica-de-almeria,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-02-13,2022,clasica-de-almeria,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,60.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2022-03-23,2022,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,10.0
+2022-09-29,2022,coppa-agostoni,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,5.0
+2022-09-29,2022,coppa-agostoni,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,105.0
+2022-10-03,2022,coppa-bernocchi,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,10.0
+2022-10-03,2022,coppa-bernocchi,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,40.0
+2022-08-21,2022,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,68.0
+2022-08-04,2022,czech-tour,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,6.0,,,6.0
+2022-06-26,2022,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,1.0
+2022-01-28,2022,deia-trophy,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-08-24,2022,deutschland-tour,gc,EF Education - EasyPost,2.Pro,,0,0,,158.0,,,173.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,5.0
+2022-03-25,2022,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,24.0
+2022-05-01,2022,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,37.0
+2022-02-02,2022,etoile-de-besseges,gc,EF Education - EasyPost,2.1,,0,0,,85.0,,,90.0
+2022-03-27,2022,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,33.0
+2022-05-06,2022,giro-d-italia,gc,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,gc,EF Education - EasyPost,2.UWT,,0,0,,180.0,0.0,0.0,236.0
+2022-05-06,2022,giro-d-italia,kom,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,kom,EF Education - EasyPost,2.UWT,,0,0,,180.0,0.0,0.0,236.0
+2022-05-06,2022,giro-d-italia,points,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,points,EF Education - EasyPost,2.UWT,,0,0,,180.0,0.0,0.0,236.0
+2022-10-12,2022,giro-del-veneto,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,23.0
+2022-06-02,2022,giro-dell-appennino,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,91.0
+2022-10-01,2022,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,143.0
+2022-10-01,2022,giro-dell-emilia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,Drone Hopper - Androni Giocattoli,2.1,2.0,85.0,1,,91.0,,,94.0
+2022-09-14,2022,giro-di-toscana,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,58.0
+2022-09-14,2022,giro-di-toscana,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,30.0
+2022-09-18,2022,gooikse-pijl,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,3.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,290.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-01-30,2022,gp-d-ouverture,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,20.0
+2022-09-11,2022,gp-de-fourmies,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,3.0
+2022-09-14,2022,gp-de-wallonie,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,68.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,6.0
+2022-03-27,2022,gp-industria-artigianato,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,108.0
+2022-09-11,2022,gp-montreal,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,33.0
+2022-09-09,2022,gp-quebec,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,185.0
+2022-02-24,2022,gran-camino,gc,Drone Hopper - Androni Giocattoli,2.1,24.0,3.0,1,,6.0,,,6.0
+2022-02-24,2022,gran-camino,gc,EF Education - EasyPost,2.1,,0,0,,70.0,,,98.0
+2022-10-06,2022,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,96.0
+2022-10-06,2022,gran-piemonte,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,3.0
+2022-10-08,2022,il-lombardia,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,0.0
+2022-10-08,2022,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,110.0
+2022-03-10,2022,istrian-spring-tour,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,0.0,,,0.0
+2022-04-04,2022,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,,0,0,,92.0,,,92.0
+2022-10-16,2022,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,385.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,5.0
+2022-04-20,2022,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,168.0
+2022-03-27,2022,la-roue-tourangelle,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-06-16,2022,la-route-d-occitanie,gc,EF Education - EasyPost,2.1,,0,0,,15.0,,,20.0
+2022-04-24,2022,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,125.0
+2022-09-04,2022,maryland-cycling-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,293.0
+2022-03-19,2022,milano-sanremo,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,3.0
+2022-03-19,2022,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,30.0
+2022-03-16,2022,milano-torino,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,15.0
+2022-03-16,2022,milano-torino,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,11.0
+2022-06-26,2022,nc-belgium,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-02-13,2022,nc-colombia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2022-02-10,2022,nc-colombia-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2022-06-23,2022,nc-denmark-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2022-02-20,2022,nc-ecuador,gc,Drone Hopper - Androni Giocattoli,NC,,,1,,0.0,,,20.0
+2022-02-20,2022,nc-ecuador,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2022-06-26,2022,nc-eritrea,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,75.0
+2022-06-26,2022,nc-eritrea,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2022-06-24,2022,nc-eritrea-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-germany,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,40.0
+2022-06-24,2022,nc-germany-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,25.0
+2022-06-23,2022,nc-great-britain-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,25.0
+2022-06-26,2022,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2022-06-23,2022,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2022-06-26,2022,nc-italy,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,50.0
+2022-06-22,2022,nc-italy-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-netherlands-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,6.0
+2022-06-26,2022,nc-norway,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2022-06-23,2022,nc-norway-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-poland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-poland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-romania,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,10.0
+2022-06-24,2022,nc-romania-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,15.0
+2022-06-26,2022,nc-switserland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-switzerland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,ncgreat-britain,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,20.0
+2022-10-06,2022,paris-bourges,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,3.0
+2022-03-06,2022,paris-nice,gc,EF Education - EasyPost,2.UWT,,0,0,,15.0,,,15.0
+2022-04-17,2022,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,35.0
+2022-10-09,2022,paris-tours,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,8.0
+2022-03-20,2022,per-sempre-alfredo,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,8.0
+2022-07-25,2022,prueba-villafranca,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,40.0
+2022-07-25,2022,prueba-villafranca,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,20.0,,,20.0
+2022-04-05,2022,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,6.0,,,6.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,10.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-07-30,2022,san-sebastian,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,112.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Drone Hopper - Androni Giocattoli,2.1,19.0,3.0,1,,31.0,,,31.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,,0,0,,60.0,,,60.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,43.0,,,46.0
+2022-03-05,2022,strade-bianche,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,0.0
+2022-03-05,2022,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,62.0
+2022-03-07,2022,tirreno-adriatico,gc,Drone Hopper - Androni Giocattoli,2.UWT,30.0,20.0,1,,50.0,,,50.0
+2022-03-07,2022,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,40.0,,,40.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,,0,0,,250.0,,,260.0
+2022-07-01,2022,tour-de-france,gc,EF Education - EasyPost,2.UWT,,0,0,,190.0,0.0,0.0,400.0
+2022-07-01,2022,tour-de-france,kom,EF Education - EasyPost,2.UWT,,0,0,,190.0,0.0,0.0,400.0
+2022-07-01,2022,tour-de-france,points,EF Education - EasyPost,2.UWT,,0,0,,190.0,0.0,0.0,400.0
+2022-05-11,2022,tour-de-hongrie,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,0.0,,,0.0
+2022-08-09,2022,tour-de-l-ain,gc,EF Education - EasyPost,2.1,,0,0,,3.0,,,3.0
+2022-10-11,2022,tour-de-langkawi,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,65.0,,,5.0
+2022-10-11,2022,tour-de-langkawi,gc,EF Education - EasyPost,2.Pro,,0,0,,223.0,,,243.0
+2022-07-30,2022,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,0,0,,80.0,,,80.0
+2022-04-26,2022,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,80.0,,,80.0
+2022-06-12,2022,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,285.0,,,335.0
+2022-07-23,2022,tour-de-wallonie,gc,EF Education - EasyPost,2.Pro,,0,0,,108.0,,,108.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,EF Education - EasyPost,2.1,,0,0,,25.0,,,25.0
+2022-08-16,2022,tour-du-limousin,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,0.0,,,5.0
+2022-02-10,2022,tour-of-antalya,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,45.0,,,48.0
+2022-08-16,2022,tour-of-denmark,gc,EF Education - EasyPost,2.Pro,,0,0,,90.0,,,95.0
+2022-04-27,2022,tour-of-hellas,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,35.0,,,43.0
+2022-05-24,2022,tour-of-norway,gc,EF Education - EasyPost,2.Pro,,0,0,,53.0,,,53.0
+2022-06-15,2022,tour-of-slovenia,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,13.0,,,13.0
+2022-04-18,2022,tour-of-the-alps,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,8.0,,,8.0
+2022-04-18,2022,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,,0,0,,55.0,,,55.0
+2022-04-10,2022,tour-of-turkey,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,130.0,,,150.0
+2022-10-04,2022,tre-valli-varesine,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,0.0
+2022-10-04,2022,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,40.0
+2022-01-26,2022,trofeo-calvia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-02,2022,trofeo-laigueglia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,8.0
+2022-01-30,2022,trofeo-palma,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-09-06,2022,turul-romaniei,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,35.0,,,55.0
+2022-02-20,2022,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,62.0,,,102.0
+2022-10-16,2022,veneto-classic,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,3.0
+2022-03-21,2022,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,,0,0,,32.0,,,32.0
+2022-08-02,2022,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,,0,0,,120.0,,,130.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,3.0,,,3.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,EF Education - EasyPost,2.1,,0,0,,63.0,,,63.0
+2022-08-20,2022,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,,0,0,,268.0,0.0,0.0,368.0
+2022-08-20,2022,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,0,0,,268.0,0.0,0.0,368.0
+2022-08-20,2022,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,0,0,,268.0,0.0,0.0,368.0
+2022-01-16,2022,vuelta-al-tachira,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,28.0,,,37.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2023-04-16,2023,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,400.0
+2023-04-12,2023,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,155.0
+2023-09-03,2023,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,64.0
+2023-10-15,2023,chrono-des-nations,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,110.0
+2023-06-13,2023,cic-mont-ventoux,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,200.0
+2023-03-22,2023,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,61.0
+2023-08-20,2023,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,48.0
+2023-06-25,2023,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-01-28,2023,deia-trophy,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,58.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,229.0
+2023-03-24,2023,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,76.0
+2023-05-01,2023,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,132.0
+2023-02-01,2023,etoile-de-besseges,gc,EF Education - EasyPost,2.1,,0,0,,125.0,,,130.0
+2023-02-25,2023,faun-ardeche-classic,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,21.0
+2023-02-12,2023,figueira-champions-classic,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,120.0
+2023-03-26,2023,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,33.0
+2023-05-06,2023,giro-d-italia,gc,EF Education - EasyPost,2.UWT,53.0,15.0,1,,50.0,95.0,0.0,900.0
+2023-05-06,2023,giro-d-italia,kom,EF Education - EasyPost,2.UWT,21.0,0.0,1,,50.0,95.0,0.0,900.0
+2023-05-06,2023,giro-d-italia,points,EF Education - EasyPost,2.UWT,59.0,0.0,1,,50.0,95.0,0.0,900.0
+2023-09-30,2023,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,68.0
+2023-09-13,2023,giro-di-toscana,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,95.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,110.0
+2023-01-29,2023,gp-d-ouverture,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,140.0
+2023-03-26,2023,gp-industria-artigianato,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,243.0
+2023-09-10,2023,gp-montreal,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,30.0
+2023-09-08,2023,gp-quebec,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,60.0
+2023-10-05,2023,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,8.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,60.0
+2023-01-29,2023,great-ocean-road-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,81.0
+2023-10-07,2023,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,245.0
+2023-04-03,2023,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,,0,0,,80.0,,,108.0
+2023-10-15,2023,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,65.0
+2023-02-26,2023,la-drome-classic,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,13.0
+2023-04-19,2023,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,32.0
+2023-06-15,2023,la-route-d-occitanie,gc,EF Education - EasyPost,2.1,,0,0,,85.0,,,116.0
+2023-04-23,2023,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,455.0
+2023-09-03,2023,maryland-cycling-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,220.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,128.0
+2023-03-18,2023,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,315.0
+2023-03-15,2023,milano-torino,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,10.0
+2023-06-25,2023,nc-belgium,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-02-05,2023,nc-colombia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,105.0
+2023-02-02,2023,nc-colombia-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2023-02-12,2023,nc-ecuador,gc,EF Education - EasyPost,NC,,,1,,0.0,,,160.0
+2023-02-11,2023,nc-ecuador-itt,gc,EF Education - EasyPost,NC,,,1,,0.0,,,70.0
+2023-06-25,2023,nc-eritrea,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-eritrea-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-germany,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,40.0
+2023-06-23,2023,nc-germany-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,15.0
+2023-06-21,2023,nc-great-britain-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2023-06-22,2023,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,15.0
+2023-06-24,2023,nc-italy,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,33.0
+2023-06-25,2023,nc-norway,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-poland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2023-02-12,2023,nc-south-africa,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2023-02-10,2023,nc-south-africa-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-switserland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-10-01,2023,nc-switzerland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,ncgreat-britain,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,64.0
+2023-10-29,2023,pan-american-games,gc,Ecuador,JC,,0,0,,0.0,,,330.0
+2023-10-22,2023,pan-american-games---tt,gc,Ecuador,JC,,0,0,,0.0,,,55.0
+2023-04-19,2023,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,10.0
+2023-04-23,2023,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,120.0
+2023-03-05,2023,paris-nice,gc,EF Education - EasyPost,2.UWT,,0,0,,175.0,,,250.0
+2023-04-09,2023,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,20.0
+2023-10-08,2023,paris-tours,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,10.0
+2023-03-19,2023,per-sempre-alfredo,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2023-07-25,2023,prueba-villafranca,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,95.0
+2023-04-04,2023,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,83.0,,,93.0
+2023-08-23,2023,renewi-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,80.0,,,80.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,430.0
+2023-07-29,2023,san-sebastian,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,276.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,,0,0,,245.0,,,282.0
+2023-03-04,2023,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,24.0
+2023-03-06,2023,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,135.0,,,147.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,,0,0,,40.0,,,57.0
+2023-07-01,2023,tour-de-france,gc,EF Education - EasyPost,2.UWT,,0,0,,0.0,0.0,0.0,310.0
+2023-07-01,2023,tour-de-france,kom,EF Education - EasyPost,2.UWT,,0,0,,0.0,0.0,0.0,310.0
+2023-07-01,2023,tour-de-france,points,EF Education - EasyPost,2.UWT,,0,0,,0.0,0.0,0.0,310.0
+2023-07-31,2023,tour-de-l-ain,gc,EF Education - EasyPost,2.1,19.0,3.0,1,,56.0,,,70.0
+2023-09-23,2023,tour-de-langkawi,gc,EF Education - EasyPost,2.Pro,2.0,150.0,1,,378.0,,,413.0
+2023-09-20,2023,tour-de-luxembourg,gc,EF Education - EasyPost,2.Pro,,0,0,,130.0,,,150.0
+2023-07-29,2023,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,0,0,,24.0,,,104.0
+2023-04-26,2023,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,30.0,,,46.0
+2023-06-11,2023,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,235.0,,,305.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,EF Education - EasyPost,2.1,47.0,0.0,1,,75.0,,,85.0
+2023-01-17,2023,tour-down-under,gc,EF Education - EasyPost,2.UWT,,0,0,,33.0,,,108.0
+2023-08-15,2023,tour-of-denmark,gc,EF Education - EasyPost,2.Pro,,0,0,,151.0,,,171.0
+2023-10-12,2023,tour-of-guangxi,gc,EF Education - EasyPost,2.UWT,,0,0,,217.0,,,257.0
+2023-05-26,2023,tour-of-norway,gc,EF Education - EasyPost,2.Pro,,0,0,,50.0,,,53.0
+2023-04-17,2023,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,4.0,100.0,1,,255.0,,,313.0
+2023-10-03,2023,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,150.0
+2023-01-25,2023,trofeo-calvia,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,80.0
+2023-03-01,2023,trofeo-laigueglia,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,90.0
+2023-01-29,2023,trofeo-palma,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,20.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,125.0
+2023-02-20,2023,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,64.0,,,70.0
+2023-03-20,2023,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,25.0,16.0,1,,144.0,,,155.0
+2023-02-15,2023,volta-ao-algarve,gc,EF Education - EasyPost,2.Pro,,0,0,,50.0,,,90.0
+2023-08-15,2023,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,44.0,0.0,1,,13.0,,,18.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,EF Education - EasyPost,2.1,13.0,5.0,1,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,,0,0,,70.0,0.0,0.0,507.0
+2023-08-27,2023,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,0,0,,70.0,0.0,0.0,507.0
+2023-08-27,2023,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,0,0,,70.0,0.0,0.0,507.0
+2023-11-17,2023,vuelta-a-guatemala,gc,Ecuador,2.2,,0,0,,25.0,,,30.0
+2023-08-06,2023,world-championship,gc,Ecuador,WC,,,1,,0.0,,,0.0
+2024-04-14,2024,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,105.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,EF Education - EasyPost,2.Pro,,0,0,,235.0,,,260.0
+2024-04-10,2024,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,88.0
+2024-08-25,2024,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,68.0
+2024-03-20,2024,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,42.0
+2024-02-06,2024,colombia-21,gc,EF Education - EasyPost,2.1,11.0,15.0,1,,190.0,,,217.0
+2024-02-06,2024,colombia-21,gc,Ecuador,2.1,,0,0,,0.0,,,0.0
+2024-10-07,2024,coppa-bernocchi,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,138.0
+2024-09-08,2024,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,48.0
+2024-06-23,2024,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2024-01-26,2024,deia-trophy,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,56.0
+2024-08-22,2024,deutschland-tour,gc,EF Education - EasyPost,2.Pro,,0,0,,90.0,,,100.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,75.0
+2024-03-22,2024,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,2.0
+2024-05-01,2024,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,212.0
+2024-02-01,2024,etoile-de-besseges,gc,EF Education - EasyPost,2.1,,0,0,,130.0,,,138.0
+2024-02-10,2024,figueira-champions-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,96.0
+2024-03-24,2024,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,70.0
+2024-05-04,2024,giro-d-italia,gc,EF Education - EasyPost,2.UWT,71.0,0.0,1,,75.0,95.0,0.0,750.0
+2024-05-04,2024,giro-d-italia,kom,EF Education - EasyPost,2.UWT,,,1,,75.0,95.0,0.0,750.0
+2024-05-04,2024,giro-d-italia,points,EF Education - EasyPost,2.UWT,,,1,,75.0,95.0,0.0,750.0
+2024-10-05,2024,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,48.0
+2024-09-11,2024,giro-di-toscana,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,8.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,75.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,108.0
+2024-09-08,2024,gp-industria-artigianato,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,10.0
+2024-09-15,2024,gp-montreal,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,50.0
+2024-09-13,2024,gp-quebec,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,155.0
+2024-02-22,2024,gran-camino,gc,EF Education - EasyPost,2.1,,0,0,,58.0,,,66.0
+2024-10-10,2024,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,205.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,96.0
+2024-01-28,2024,great-ocean-road-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,117.0
+2024-10-12,2024,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,265.0
+2024-04-01,2024,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,44.0,8.0,1,,64.0,,,67.0
+2024-10-20,2024,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,250.0
+2024-04-17,2024,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,48.0
+2024-04-21,2024,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,90.0
+2024-09-14,2024,memorial-marco-pantani,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,43.0
+2024-03-16,2024,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,365.0
+2024-03-13,2024,milano-torino,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,203.0
+2024-01-28,2024,nc-colombia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2024-01-25,2024,nc-colombia-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,3.0
+2024-02-03,2024,nc-ecuador,gc,EF Education - EasyPost,NC,,,1,,0.0,,,125.0
+2024-02-01,2024,nc-ecuador-itt,gc,EF Education - EasyPost,NC,,,1,,0.0,,,50.0
+2024-06-23,2024,nc-germany,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2024-06-20,2024,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-italy,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2024-06-23,2024,nc-japan,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2024-06-21,2024,nc-japan-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2024-06-21,2024,nc-portugal,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-portugal2,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2024-06-23,2024,nc-spain,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-spain-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-switserland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2024-06-20,2024,nc-switzerland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2024-05-19,2024,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,160.0
+2024-05-15,2024,nc-usa-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,ncgreat-britain,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,40.0
+2024-08-03,2024,olympic-games,gc,Ecuador,Olympics,,0,0,,0.0,,,15.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,2.0
+2024-05-23,2024,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,10.0
+2024-05-26,2024,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,45.0
+2024-03-03,2024,paris-nice,gc,EF Education - EasyPost,2.UWT,,0,0,,35.0,,,10.0
+2024-04-07,2024,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,30.0
+2024-01-25,2024,race-torquay,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,3.0
+2024-04-02,2024,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,163.0,,,196.0
+2024-08-28,2024,renewi-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,56.0,,,84.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,245.0
+2024-08-10,2024,san-sebastian,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,148.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,20.0,3.0,1,,88.0,,,110.0
+2024-03-02,2024,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,72.0
+2024-03-04,2024,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,10.0,,,-15.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,,0,0,,36.0,,,106.0
+2024-06-29,2024,tour-de-france,gc,EF Education - EasyPost,2.UWT,,0,0,,140.0,210.0,0.0,995.0
+2024-06-29,2024,tour-de-france,kom,EF Education - EasyPost,2.UWT,,0,0,,140.0,210.0,0.0,995.0
+2024-06-29,2024,tour-de-france,points,EF Education - EasyPost,2.UWT,,0,0,,140.0,210.0,0.0,995.0
+2024-10-12,2024,tour-de-kyushu,gc,EF Education - EasyPost,2.1,,0,0,,85.0,,,96.0
+2024-07-13,2024,tour-de-l-ain,gc,EF Education - EasyPost,2.1,1.0,125.0,1,,155.0,,,169.0
+2024-09-29,2024,tour-de-langkawi,gc,EF Education - EasyPost,2.Pro,,0,0,,11.0,,,26.0
+2024-09-18,2024,tour-de-luxembourg,gc,EF Education - EasyPost,2.Pro,,0,0,,70.0,,,70.0
+2024-08-12,2024,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,0,0,,108.0,,,153.0
+2024-04-23,2024,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,180.0,,,240.0
+2024-06-09,2024,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,20.0,,,122.0
+2024-01-16,2024,tour-down-under,gc,EF Education - EasyPost,2.UWT,,0,0,,30.0,,,30.0
+2024-10-15,2024,tour-of-guangxi,gc,EF Education - EasyPost,2.UWT,,0,0,,22.0,,,57.0
+2024-06-12,2024,tour-of-slovenia,gc,EF Education - EasyPost,2.Pro,,0,0,,65.0,,,85.0
+2024-04-15,2024,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,44.0,0.0,1,,10.0,,,20.0
+2024-10-08,2024,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,215.0
+2024-02-28,2024,trofeo-laigueglia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,106.0
+2024-09-15,2024,trofeo-matteotti,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,28.0
+2024-01-28,2024,trofeo-palma,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,70.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,23.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,60.0
+2024-02-19,2024,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,30.0,,,31.0
+2024-03-18,2024,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,,0,0,,44.0,,,124.0
+2024-02-14,2024,volta-ao-algarve,gc,EF Education - EasyPost,2.Pro,,0,0,,110.0,,,128.0
+2024-08-05,2024,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,18.0,5.0,1,,10.0,,,10.0
+2024-08-17,2024,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,46.0,20.0,1,,620.0,0.0,0.0,970.0
+2024-08-17,2024,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,,1,,620.0,0.0,0.0,970.0
+2024-08-17,2024,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,,1,,620.0,0.0,0.0,970.0
+2024-09-29,2024,world-championship,gc,Ecuador,WC,,,1,,0.0,,,0.0
+2025-04-20,2025,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,145.0
+2025-06-22,2025,andorra-morabanc-classica,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,130.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,EF Education - EasyPost,2.Pro,,0,0,,75.0,,,78.0
+2025-04-18,2025,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,60.0
+2025-08-31,2025,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,24.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,125.0
+2025-03-26,2025,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,220.0
+2025-02-21,2025,classic-var,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,3.0
+2025-10-06,2025,coppa-bernocchi,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,10.0
+2025-08-17,2025,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,18.0
+2025-06-29,2025,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2025-01-31,2025,deia-trophy,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,342.0
+2025-03-28,2025,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,16.0
+2025-05-01,2025,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,185.0
+2025-02-05,2025,etoile-de-besseges,gc,EF Education - EasyPost,2.1,,0,0,,0.0,,,3.0
+2025-03-01,2025,faun-ardeche-classic,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,0.0
+2025-02-16,2025,figueira-champions-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,103.0
+2025-03-30,2025,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,65.0
+2025-05-09,2025,giro-d-italia,gc,EF Education - EasyPost,2.UWT,51.0,15.0,1,,765.0,0.0,0.0,1670.0
+2025-05-09,2025,giro-d-italia,kom,EF Education - EasyPost,2.UWT,,,1,,765.0,0.0,0.0,1670.0
+2025-05-09,2025,giro-d-italia,points,EF Education - EasyPost,2.UWT,,,1,,765.0,0.0,0.0,1670.0
+2025-10-04,2025,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,50.0
+2025-09-10,2025,giro-di-toscana,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,33.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,70.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,150.0
+2025-09-07,2025,gp-industria-artigianato,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,38.0
+2025-09-14,2025,gp-montreal,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,335.0
+2025-09-12,2025,gp-quebec,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,30.0
+2025-10-09,2025,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,65.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,73.0
+2025-02-02,2025,great-ocean-road-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,46.0
+2025-10-11,2025,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,30.0
+2025-04-07,2025,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,,0,0,,16.0,,,91.0
+2025-10-19,2025,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,170.0
+2025-11-27,2025,juegos-bolivarianos-me-itt,gc,Ecuador,1.2,,0,0,,0.0,,,30.0
+2025-12-05,2025,juegos-bolivarianos-me-road-race,gc,Ecuador,1.2,,,1,,0.0,,,30.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,65.0
+2025-03-02,2025,la-drome-classic,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,8.0
+2025-04-23,2025,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,196.0
+2025-06-18,2025,la-route-d-occitanie,gc,EF Education - EasyPost,2.1,,,1,,3.0,,,17.0
+2025-04-27,2025,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,685.0
+2025-09-06,2025,maryland-cycling-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,58.0
+2025-09-13,2025,memorial-marco-pantani,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,65.0
+2025-03-22,2025,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,95.0
+2025-03-19,2025,milano-torino,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,68.0
+2025-10-03,2025,munsterland-giro,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,45.0
+2025-06-27,2025,nc-denmark-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2025-02-02,2025,nc-ecuador,gc,EF Education - EasyPost,NC,,,1,,0.0,,,75.0
+2025-06-29,2025,nc-estonia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2025-06-26,2025,nc-great-britain-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2025-06-26,2025,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2025-06-28,2025,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-portugal2,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,1.0
+2025-05-26,2025,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,ncgreat-britain,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,4.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,140.0
+2025-04-24,2025,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,20.0
+2025-04-27,2025,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,133.0
+2025-03-09,2025,paris-nice,gc,EF Education - EasyPost,2.UWT,,0,0,,30.0,,,60.0
+2025-04-13,2025,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,65.0
+2025-01-30,2025,race-torquay,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,3.0
+2025-04-08,2025,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,70.0,,,78.0
+2025-08-20,2025,renewi-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,16.0,,,25.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,60.0
+2025-08-02,2025,san-sebastian,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,188.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,21.0,3.0,1,,3.0,,,3.0
+2025-03-08,2025,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,328.0
+2025-03-10,2025,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,60.0,,,73.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,,0,0,,60.0,,,80.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,EF Education - EasyPost,2.1,19.0,3.0,1,,76.0,,,81.0
+2025-07-05,2025,tour-de-france,gc,EF Education - EasyPost,2.UWT,,0,0,,380.0,0.0,0.0,1070.0
+2025-07-05,2025,tour-de-france,kom,EF Education - EasyPost,2.UWT,,0,0,,380.0,0.0,0.0,1070.0
+2025-07-05,2025,tour-de-france,points,EF Education - EasyPost,2.UWT,,0,0,,380.0,0.0,0.0,1070.0
+2025-09-17,2025,tour-de-luxembourg,gc,EF Education - EasyPost,2.Pro,,0,0,,195.0,,,241.0
+2025-08-04,2025,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,0,0,,16.0,,,31.0
+2025-04-29,2025,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,50.0,,,90.0
+2025-06-15,2025,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,10.0,,,115.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,EF Education - EasyPost,2.1,13.0,5.0,1,,30.0,,,15.0
+2025-01-21,2025,tour-down-under,gc,EF Education - EasyPost,2.UWT,,0,0,,43.0,,,43.0
+2025-07-09,2025,tour-of-austria,gc,EF Education - EasyPost,2.1,,0,0,,123.0,,,136.0
+2025-10-14,2025,tour-of-guangxi,gc,EF Education - EasyPost,2.UWT,,0,0,,230.0,,,254.0
+2025-04-21,2025,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,14.0,15.0,1,,15.0,,,15.0
+2025-10-07,2025,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,8.0
+2025-10-12,2025,trofeo-baracchi,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,30.0
+2025-01-29,2025,trofeo-calvia,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2025-03-05,2025,trofeo-laigueglia,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,113.0
+2025-09-14,2025,trofeo-matteotti,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,85.0
+2025-02-02,2025,trofeo-palma,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,6.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,125.0
+2025-02-17,2025,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,52.0,,,52.0
+2025-03-24,2025,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,,0,0,,88.0,,,119.0
+2025-02-19,2025,volta-ao-algarve,gc,EF Education - EasyPost,2.Pro,,0,0,,78.0,,,78.0
+2025-08-05,2025,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,32.0,3.0,1,,13.0,,,28.0
+2025-08-23,2025,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,,0,0,,20.0,0.0,0.0,440.0
+2025-08-23,2025,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,0,0,,20.0,0.0,0.0,440.0
+2025-08-23,2025,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,0,0,,20.0,0.0,0.0,440.0
+2025-09-28,2025,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,0.0

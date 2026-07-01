@@ -1,0 +1,56 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-05-17,2017,tour-of-ukraine,gc,Tscp-mykolayv,2.2,,,1,,0.0,,,0.0
+2018-09-02,2018,antwerp-port-epic,gc,Lviv Cycling Team,1.1,,0,0,,0.0,,,0.0
+2018-07-04,2018,course-cycliste-de-solidarnosc,gc,Lviv Cycling Team,2.2,,0,0,,0.0,,,0.0
+2018-05-24,2018,gp-cycliste-de-gemenc,gc,Lviv Cycling Team,2.2,89.0,0.0,1,,0.0,,,0.0
+2018-04-21,2018,gp-czech-republic,gc,Lviv Cycling Team,1.2,,,1,,0.0,,,0.0
+2018-09-15,2018,gp-impanis-van-petegem,gc,Lviv Cycling Team,1.HC,,0,0,,0.0,,,0.0
+2018-09-16,2018,gp-jef-scherens,gc,Lviv Cycling Team,1.1,,0,0,,0.0,,,0.0
+2018-08-19,2018,grand-prix-minsk,gc,Lviv Cycling Team,1.2,,0,0,,0.0,,,0.0
+2018-03-11,2018,grand-prix-side,gc,Lviv Cycling Team,1.2,,,1,,0.0,,,0.0
+2018-06-03,2018,horizon-park-classic,gc,Lviv Cycling Team,1.2,,0,0,,0.0,,,65.0
+2018-05-01,2018,memorial-andrzeja-trochanowskiego,gc,Lviv Cycling Team,1.2,,,1,,0.0,,,0.0
+2018-05-02,2018,memorial-romana-sieminskiego,gc,Lviv Cycling Team,1.2,,,1,,0.0,,,0.0
+2018-08-18,2018,minsk-cup,gc,Lviv Cycling Team,1.2,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-ukraine,gc,Lviv Cycling Team,NC,,,1,,0.0,,,80.0
+2018-06-20,2018,nc-ukraine-itt,gc,Lviv Cycling Team,NC,,0,0,,0.0,,,5.0
+2018-06-01,2018,race-horizon-park,gc,Lviv Cycling Team,1.2,,0,0,,0.0,,,20.0
+2018-06-02,2018,race-horizon-park-2,gc,Lviv Cycling Team,1.2,,0,0,,0.0,,,40.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,Lviv Cycling Team,2.2,,0,0,,0.0,,,0.0
+2018-06-08,2018,tour-de-serbie,gc,Lviv Cycling Team,2.2,,0,0,,0.0,,,0.0
+2018-09-27,2018,tour-of-black-sea,gc,Lviv Cycling Team,2.2,,0,0,,0.0,,,0.0
+2018-09-14,2018,tour-of-cappadocia,gc,Lviv Cycling Team,2.2,,0,0,,0.0,,,0.0
+2018-07-22,2018,tour-of-magnificent-qinghai,gc,Lviv Cycling Team,2.HC,,0,0,,0.0,,,0.0
+2018-06-08,2018,tour-of-malopolska,gc,Lviv Cycling Team,2.2,,0,0,,25.0,,,26.0
+2018-03-02,2018,tour-of-mediterrennean,gc,Lviv Cycling Team,2.2,74.0,0.0,1,,25.0,,,32.0
+2018-09-19,2018,turul-romaniei,gc,Lviv Cycling Team,2.2,,0,0,,0.0,,,0.0
+2018-04-22,2018,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Lviv Cycling Team,1.2,,,1,,0.0,,,3.0
+2020-02-16,2020,gp-antalya,gc,Antalya Gençlik Spor Kulübü,1.2,,,1,,0.0,,,3.0
+2020-02-16,2020,gp-antalya,gc,ISD Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-02-09,2020,gp-manavgat,gc,Antalya Gençlik Spor Kulübü,1.2,,0,0,,0.0,,,0.0
+2020-02-09,2020,gp-manavgat,gc,ISD Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,ISD Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-02-14,2020,grand-prix-gazipasa,gc,ISD Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,ISD Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,ISD Cycling Team,1.2,,,1,,0.0,,,0.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Amore & Vita - Prodir,1.2,,0,0,,0.0,,,0.0
+2021-10-11,2021,coppa-agostoni,gc,Amore & Vita - Prodir,1.1,,,1,,0.0,,,0.0
+2021-10-04,2021,coppa-bernocchi,gc,Amore & Vita - Prodir,1.Pro,,,1,,0.0,,,0.0
+2021-10-13,2021,giro-del-veneto,gc,Amore & Vita - Prodir,1.1,,,1,,0.0,,,5.0
+2021-06-24,2021,giro-dell-appennino,gc,Amore & Vita - Prodir,1.1,,,1,,0.0,,,5.0
+2021-09-28,2021,giro-di-sicilia,gc,Amore & Vita - Prodir,2.1,,,1,,3.0,,,3.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Amore & Vita - Prodir,1.1,,0,0,,0.0,,,35.0
+2021-06-27,2021,gp-lugano,gc,Amore & Vita - Prodir,1.1,,,1,,0.0,,,25.0
+2021-05-30,2021,gp-slovenia,gc,Amore & Vita - Prodir,1.2,,0,0,,0.0,,,0.0
+2021-09-18,2021,memorial-marco-pantani,gc,Amore & Vita - Prodir,1.1,,0,0,,0.0,,,0.0
+2021-05-24,2021,mercan-tour-classic-alpes-maritimes,gc,Amore & Vita - Prodir,1.1,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,Amore & Vita - Prodir,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-latvia,gc,Amore & Vita - Prodir,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-luxembourg,gc,Amore & Vita - Prodir,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-ukraine,gc,Amore & Vita - Prodir,NC,,,1,,0.0,,,0.0
+2021-03-21,2021,per-sempre-alfredo,gc,Amore & Vita - Prodir,1.1,,0,0,,0.0,,,0.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Amore & Vita - Prodir,2.1,,,1,,0.0,,,0.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Amore & Vita - Prodir,2.1,147.0,0.0,1,,0.0,,,0.0
+2021-10-05,2021,tre-valli-varesine,gc,Amore & Vita - Prodir,1.Pro,,,1,,0.0,,,0.0
+2021-09-19,2021,trofeo-matteotti,gc,Amore & Vita - Prodir,1.1,,0,0,,0.0,,,5.0
+2021-10-17,2021,veneto-classic,gc,Amore & Vita - Prodir,1.1,,,1,,0.0,,,0.0

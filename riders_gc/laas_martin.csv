@@ -1,0 +1,540 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-05-09,2017,4-jours-de-dunkerque,gc,Delko Marseille Provence KTM,2.HC,,0,0,,73.0,,,73.0
+2017-08-10,2017,arctic-race-of-norway,gc,Delko Marseille Provence KTM,2.HC,,0,0,,70.0,,,70.0
+2017-05-03,2017,baku-khankendi-azerbaijan-cycling-race,gc,Delko Marseille Provence KTM,2.1,,0,0,,8.0,,,8.0
+2017-05-28,2017,boucles-de-l-aulne,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,50.0
+2017-06-01,2017,boucles-de-la-mayenne,gc,Delko Marseille Provence KTM,2.1,99.0,0.0,1,,0.0,,,0.0
+2017-08-27,2017,bretagne-classic,gc,Delko Marseille Provence KTM,1.UWT,,0,0,,0.0,,,8.0
+2017-09-02,2017,brussels-cycling-classic,gc,Delko Marseille Provence KTM,1.HC,,0,0,,0.0,,,8.0
+2017-04-29,2017,carpathia-couriers-paths,gc,Estonia,2.2U,,0,0,,0.0,,,0.0
+2017-10-15,2017,chrono-des-nations,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,0.0
+2017-07-31,2017,circuito-de-getxo,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,85.0
+2017-03-18,2017,classic-loire-atlantique,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,0.0
+2017-09-13,2017,coppa-agostoni,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,25.0
+2017-09-14,2017,coppa-bernocchi,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,10.0
+2017-02-01,2017,etoile-de-besseges,gc,Delko Marseille Provence KTM,2.1,,0,0,,24.0,,,27.0
+2017-02-25,2017,faun-ardeche-classic,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,134.0
+2017-06-09,2017,giro-ciclistico-d-italia,gc,Delko Marseille Provence KTM,2.2U,,0,0,,0.0,,,0.0
+2017-02-05,2017,gp-costa-degli-etruschi,gc,Delko Marseille Provence KTM,1.1,,,1,,0.0,,,78.0
+2017-09-17,2017,gp-d-isbergues,gc,Delko Marseille Provence KTM,1.1,,,1,,0.0,,,3.0
+2017-01-29,2017,gp-d-ouverture,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,98.0
+2017-04-13,2017,gp-de-denain,gc,Delko Marseille Provence KTM,1.HC,,0,0,,0.0,,,58.0
+2017-09-03,2017,gp-de-fourmies,gc,Delko Marseille Provence KTM,1.HC,,0,0,,0.0,,,3.0
+2017-05-21,2017,gp-de-la-somme,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,21.0
+2017-05-27,2017,gp-de-plumelec,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,6.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,Delko Marseille Provence KTM,1.HC,,,1,,0.0,,,35.0
+2017-02-26,2017,la-drome-classic,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,3.0
+2017-07-30,2017,la-poly-normande,gc,Delko Marseille Provence KTM,1.1,,,1,,0.0,,,0.0
+2017-04-02,2017,la-roue-tourangelle,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,38.0
+2017-06-15,2017,la-route-d-occitanie,gc,Delko Marseille Provence KTM,2.1,,0,0,,28.0,,,31.0
+2017-02-27,2017,la-tropicale-amissa-bongo,gc,Delko Marseille Provence KTM,2.1,45.0,0.0,1,,16.0,,,40.0
+2017-06-25,2017,nc-estonia,gc,Delko Marseille Provence KTM,NC,,,1,,0.0,,,15.0
+2017-06-25,2017,nc-france,gc,Delko Marseille Provence KTM,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-italy,gc,Delko Marseille Provence KTM,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-latvia,gc,Delko Marseille Provence KTM,NC,,0,0,,0.0,,,5.0
+2017-06-21,2017,nc-latvia-itt,gc,Delko Marseille Provence KTM,NC,,0,0,,0.0,,,15.0
+2017-06-25,2017,nc-lithuania,gc,Delko Marseille Provence KTM,NC,,0,0,,0.0,,,30.0
+2017-06-23,2017,nc-lithuania-itt,gc,Delko Marseille Provence KTM,NC,,0,0,,0.0,,,15.0
+2017-06-25,2017,nc-spain,gc,Delko Marseille Provence KTM,NC,,0,0,,0.0,,,0.0
+2017-10-05,2017,paris-bourges,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,3.0
+2017-04-11,2017,paris-camembert,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,56.0
+2017-03-05,2017,paris-nice,gc,Delko Marseille Provence KTM,2.UWT,,0,0,,50.0,,,50.0
+2017-04-09,2017,paris-roubaix,gc,Delko Marseille Provence KTM,1.UWT,,,1,,0.0,,,0.0
+2017-10-08,2017,paris-tours,gc,Delko Marseille Provence KTM,1.HC,,0,0,,0.0,,,0.0
+2017-07-25,2017,prueba-villafranca,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,18.0
+2017-04-04,2017,region-pays-de-la-loire,gc,Delko Marseille Provence KTM,2.1,,0,0,,11.0,,,11.0
+2017-05-03,2017,rhone-alpes-isere-tour,gc,Delko Marseille Provence KTM,2.2,,,1,,3.0,,,7.0
+2017-03-31,2017,route-adelie-de-vitre,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,3.0
+2017-10-08,2017,sun-hung-kai-properties-hong-kong-challenge,gc,Delko Marseille Provence KTM,1.1,,,1,,0.0,,,33.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Delko Marseille Provence KTM,2.UWT,,0,0,,10.0,,,35.0
+2017-02-21,2017,tour-cycliste-international-la-provence,gc,Delko Marseille Provence KTM,2.1,,0,0,,50.0,,,50.0
+2017-06-14,2017,tour-de-korea,gc,Delko Marseille Provence KTM,2.1,45.0,0.0,1,,0.0,,,0.0
+2017-08-08,2017,tour-de-l-ain,gc,Delko Marseille Provence KTM,2.1,,0,0,,13.0,,,13.0
+2017-10-01,2017,tour-de-vendee,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,60.0
+2017-07-22,2017,tour-de-wallonie,gc,Delko Marseille Provence KTM,2.HC,,,1,,3.0,,,13.0
+2017-04-28,2017,tour-de-yorkshire,gc,Delko Marseille Provence KTM,2.1,,0,0,,19.0,,,19.0
+2017-02-18,2017,tour-des-alpes-maritimes,gc,Delko Marseille Provence KTM,2.1,,0,0,,68.0,,,73.0
+2017-09-10,2017,tour-du-doubs,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,5.0
+2017-04-15,2017,tour-du-finistere,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,9.0
+2017-09-23,2017,tour-du-gevaudan-languedoc-roussillon,gc,Delko Marseille Provence KTM,2.2,,0,0,,0.0,,,0.0
+2017-09-09,2017,tour-du-jura,gc,Delko Marseille Provence KTM,1.2,,0,0,,0.0,,,3.0
+2017-08-15,2017,tour-du-limousin,gc,Delko Marseille Provence KTM,2.1,,0,0,,33.0,,,33.0
+2017-08-22,2017,tour-du-poitou-charentes-et-de-la-vienne,gc,Delko Marseille Provence KTM,2.1,115.0,0.0,1,,0.0,,,0.0
+2017-09-30,2017,tour-of-almaty,gc,Delko Marseille Provence KTM,2.1,,0,0,,85.0,,,90.0
+2017-07-02,2017,tour-of-austria,gc,Delko Marseille Provence KTM,2.1,,0,0,,110.0,,,110.0
+2017-05-26,2017,tour-of-estonia,gc,Estonia,2.1,15.0,5.0,1,,238.0,,,269.0
+2017-10-28,2017,tour-of-hainan,gc,Delko Marseille Provence KTM,2.HC,76.0,0.0,1,,145.0,,,200.0
+2017-02-14,2017,tour-of-oman,gc,Delko Marseille Provence KTM,2.HC,134.0,0.0,1,,8.0,,,8.0
+2017-10-10,2017,tour-of-taihu-lake,gc,Delko Marseille Provence KTM,2.1,62.0,0.0,1,,3.0,,,9.0
+2017-04-17,2017,tro-bro-leon,gc,Delko Marseille Provence KTM,1.1,,0,0,,0.0,,,75.0
+2017-02-12,2017,trofeo-laigueglia,gc,Delko Marseille Provence KTM,1.HC,,0,0,,0.0,,,170.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,70.0
+2017-08-01,2017,vuelta-a-burgos,gc,Delko Marseille Provence KTM,2.HC,,0,0,,31.0,,,31.0
+2017-09-24,2017,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2018-08-23,2018,baltic-chain-tour,gc,Estonia,2.2,4.0,20.0,1,,45.0,,,62.0
+2018-02-06,2018,colombia-21,gc,Team Illuminate,2.1,128.0,0.0,1,,3.0,,,3.0
+2018-06-03,2018,gp-lugano,gc,Team Illuminate,1.1,,,1,,0.0,,,0.0
+2018-02-04,2018,nc-colombia,gc,Team Illuminate,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-estonia,gc,Team Illuminate,NC,,,1,,0.0,,,0.0
+2018-07-01,2018,nc-switserland,gc,Team Illuminate,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-united-states,gc,Team Illuminate,NC,,0,0,,0.0,,,0.0
+2018-07-05,2018,sibiu-cycling-tour,gc,Team Illuminate,2.1,89.0,0.0,1,,6.0,,,6.0
+2018-03-11,2018,tour-de-taiwan,gc,Team Illuminate,2.1,85.0,0.0,1,,13.0,,,18.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Estonia,1.Ncup,,0,0,,0.0,,,0.0
+2018-06-21,2018,tour-des-pays-de-savoie,gc,Team Illuminate,2.2,,0,0,,0.0,,,0.0
+2018-04-11,2018,tour-du-loir-et-cher,gc,Estonia,2.2,,0,0,,0.0,,,0.0
+2018-09-29,2018,tour-of-almaty,gc,Team Illuminate,2.1,79.0,0.0,1,,88.0,,,93.0
+2018-02-22,2018,tour-of-antalya,gc,Estonia,2.2,,0,0,,0.0,,,0.0
+2018-05-25,2018,tour-of-estonia,gc,Estonia,2.1,,0,0,,75.0,,,75.0
+2018-04-01,2018,tour-of-thailand,gc,Team Illuminate,2.1,97.0,0.0,1,,80.0,,,127.0
+2018-09-19,2018,turul-romaniei,gc,Team Illuminate,2.2,,,1,,20.0,,,23.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Estonia,CC,,0,0,,0.0,,,5.0
+2018-01-12,2018,vuelta-al-tachira,gc,Team Illuminate,2.2,,0,0,,0.0,,,6.0
+2018-09-30,2018,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2018-09-26,2018,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2019-02-13,2019,colombia-21,gc,Team Illuminate,2.1,,,1,,0.0,,,5.0
+2019-06-23,2019,european-games,gc,Estonia,JC,,,1,,0.0,,,255.0
+2019-06-25,2019,european-games-itt,gc,Estonia,JC,,0,0,,0.0,,,0.0
+2019-05-12,2019,grand-prix-minsk,gc,Team Illuminate,1.2,,,1,,0.0,,,30.0
+2019-05-11,2019,minsk-cup,gc,Team Illuminate,1.2,,,1,,0.0,,,0.0
+2019-02-03,2019,nc-colombia,gc,Team Illuminate,NC,,0,0,,0.0,,,3.0
+2019-02-01,2019,nc-colombia-itt,gc,Team Illuminate,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-estonia,gc,Team Illuminate,NC,,,1,,0.0,,,50.0
+2019-06-12,2019,tour-de-korea,gc,Team Illuminate,2.1,65.0,0.0,1,,15.0,,,57.0
+2019-08-30,2019,tour-of-almaty,gc,Team Illuminate,2.1,,,1,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,Estonia,2.2,,0,0,,0.0,,,0.0
+2019-10-01,2019,tour-of-croatia,gc,Team Illuminate,2.1,,0,0,,8.0,,,8.0
+2019-05-23,2019,tour-of-estonia,gc,Estonia,2.1,,0,0,,48.0,,,51.0
+2019-11-17,2019,tour-of-fuzhou,gc,Team Illuminate,2.1,,0,0,,0.0,,,0.0
+2019-05-26,2019,tour-of-taiyuan,gc,Team Illuminate,2.2,29.0,0.0,1,,43.0,,,78.0
+2019-04-01,2019,tour-of-thailand,gc,Team Illuminate,2.1,74.0,0.0,1,,6.0,,,30.0
+2019-09-11,2019,turul-romaniei,gc,Team Illuminate,2.1,,,1,,28.0,,,28.0
+2019-09-11,2019,turul-romaniei,gc,Estonia,2.1,,0,0,,0.0,,,22.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,0.0
+2019-09-29,2019,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2019-09-25,2019,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,85.0
+2020-08-13,2020,baltic-chain-tour,gc,Estonia,2.2,,0,0,,46.0,,,56.0
+2020-10-07,2020,brabantse-pijl,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,26.0
+2020-08-25,2020,bretagne-classic,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,0.0
+2020-08-30,2020,brussels-cycling-classic,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,70.0
+2020-02-16,2020,clasica-de-almeria,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,200.0
+2020-10-21,2020,classic-brugge-de-panne,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,145.0
+2020-08-07,2020,czech-tour,gc,BORA - hansgrohe,2.1,,,1,,6.0,,,9.0
+2020-01-31,2020,deia-trophy,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,198.0
+2020-08-29,2020,druivenkoers-overijse,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,20.0
+2020-10-11,2020,gent-wevelgem,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,48.0
+2020-10-03,2020,giro-d-italia,gc,BORA - hansgrohe,2.UWT,,0,0,,352.0,0.0,40.0,676.0
+2020-10-03,2020,giro-d-italia,kom,BORA - hansgrohe,2.UWT,,0,0,,352.0,0.0,40.0,676.0
+2020-10-03,2020,giro-d-italia,points,BORA - hansgrohe,2.UWT,,0,0,,352.0,0.0,40.0,676.0
+2020-08-18,2020,giro-dell-emilia,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,33.0
+2020-02-02,2020,great-ocean-road-race,gc,BORA - hansgrohe,1.UWT,,,1,,0.0,,,139.0
+2020-03-08,2020,grote-prijs-jean-pierre-monsere,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,25.0
+2020-08-15,2020,il-lombardia,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,190.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,10.0
+2020-09-30,2020,la-fleche-wallonne,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,124.0
+2020-10-04,2020,liege-bastogne-liege,gc,BORA - hansgrohe,1.UWT,,,1,,0.0,,,25.0
+2020-08-08,2020,milano-sanremo,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,290.0
+2020-08-05,2020,milano-torino,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,105.0
+2020-01-12,2020,nc-australia,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,40.0
+2020-08-22,2020,nc-austria-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,30.0
+2020-08-20,2020,nc-estonia,gc,BORA - hansgrohe,NC,,,1,,0.0,,,1.0
+2020-08-23,2020,nc-germany,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,76.0
+2020-08-23,2020,nc-italy,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,1.0
+2020-08-23,2020,nc-luxembourg,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,60.0
+2020-08-20,2020,nc-poland-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,30.0
+2020-08-22,2020,nc-slovakia,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,175.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,BORA - hansgrohe,1.UWT,,,1,,0.0,,,56.0
+2020-03-08,2020,paris-nice,gc,BORA - hansgrohe,2.UWT,,0,0,,610.0,,,755.0
+2020-01-30,2020,race-torquay,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,8.0
+2020-09-29,2020,renewi-tour,gc,BORA - hansgrohe,2.UWT,,,1,,64.0,,,80.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,20.0
+2020-10-14,2020,scheldeprijs,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,5.0
+2020-07-23,2020,sibiu-cycling-tour,gc,BORA - hansgrohe,2.1,,0,0,,210.0,,,243.0
+2020-08-01,2020,strade-bianche,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,279.0
+2020-09-07,2020,tirreno-adriatico,gc,BORA - hansgrohe,2.UWT,,0,0,,365.0,,,555.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,BORA - hansgrohe,2.UWT,,0,0,,125.0,,,195.0
+2020-08-29,2020,tour-de-france,gc,BORA - hansgrohe,2.UWT,,0,0,,60.0,0.0,50.0,345.0
+2020-08-29,2020,tour-de-france,kom,BORA - hansgrohe,2.UWT,,0,0,,60.0,0.0,50.0,345.0
+2020-08-29,2020,tour-de-france,points,BORA - hansgrohe,2.UWT,,0,0,,60.0,0.0,50.0,345.0
+2020-08-05,2020,tour-de-pologne,gc,BORA - hansgrohe,2.UWT,,0,0,,276.0,,,316.0
+2020-01-21,2020,tour-down-under,gc,BORA - hansgrohe,2.UWT,110.0,0.0,1,,3.0,,,13.0
+2020-02-02,2020,trofeo-palma,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,85.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,173.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,88.0
+2020-02-23,2020,uae-tour,gc,BORA - hansgrohe,2.UWT,,0,0,,151.0,,,197.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,3.0
+2020-02-19,2020,volta-ao-algarve,gc,BORA - hansgrohe,2.Pro,124.0,0.0,1,,210.0,,,220.0
+2020-07-28,2020,vuelta-a-burgos,gc,BORA - hansgrohe,2.Pro,124.0,0.0,1,,13.0,,,33.0
+2020-10-20,2020,vuelta-a-espana,gc,BORA - hansgrohe,2.UWT,139.0,0.0,1,,180.0,0.0,0.0,480.0
+2020-10-20,2020,vuelta-a-espana,kom,BORA - hansgrohe,2.UWT,,,1,,180.0,0.0,0.0,480.0
+2020-10-20,2020,vuelta-a-espana,points,BORA - hansgrohe,2.UWT,,,1,,180.0,0.0,0.0,480.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,BORA - hansgrohe,2.Pro,,0,0,,35.0,,,45.0
+2020-02-14,2020,vuelta-ciclista-a-la-region-de-murcia,gc,BORA - hansgrohe,2.1,,0,0,,75.0,,,75.0
+2020-09-27,2020,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2020-09-25,2020,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2021-04-18,2021,amstel-gold-race,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,378.0
+2021-08-05,2021,arctic-race-of-norway,gc,BORA - hansgrohe,2.Pro,82.0,0.0,1,,0.0,,,20.0
+2021-08-20,2021,baltic-chain-tour,gc,Estonia,2.2,,0,0,,30.0,,,38.0
+2021-04-14,2021,brabantse-pijl,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,105.0
+2021-03-19,2021,bredene-koksijde-classic,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,45.0
+2021-08-29,2021,bretagne-classic,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,48.0
+2021-06-06,2021,circuit-des-xi-villes,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,60.0
+2021-09-29,2021,circuit-franco-belge,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,155.0
+2021-08-01,2021,circuito-de-getxo,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,135.0
+2021-02-14,2021,clasica-de-almeria,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,128.0
+2021-03-24,2021,classic-brugge-de-panne,gc,BORA - hansgrohe,1.UWT,,,1,,0.0,,,234.0
+2021-10-04,2021,coppa-bernocchi,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,15.0
+2021-06-20,2021,danish-championships,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,75.0
+2021-08-26,2021,deutschland-tour,gc,BORA - hansgrohe,2.Pro,,0,0,,353.0,,,408.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,10.0
+2021-03-26,2021,e3-harelbeke,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,0.0
+2021-09-19,2021,eschborn-frankfurt,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,122.0
+2021-02-03,2021,etoile-de-besseges,gc,BORA - hansgrohe,2.1,,0,0,,70.0,,,73.0
+2021-03-28,2021,gent-wevelgem,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,0.0
+2021-05-08,2021,giro-d-italia,gc,BORA - hansgrohe,2.UWT,,0,0,,36.0,0.0,100.0,192.0
+2021-05-08,2021,giro-d-italia,kom,BORA - hansgrohe,2.UWT,,0,0,,36.0,0.0,100.0,192.0
+2021-05-08,2021,giro-d-italia,points,BORA - hansgrohe,2.UWT,,0,0,,36.0,0.0,100.0,192.0
+2021-10-02,2021,giro-dell-emilia,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,5.0
+2021-09-19,2021,gooikse-pijl,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,70.0
+2021-09-21,2021,gp-de-denain,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,155.0
+2021-09-12,2021,gp-de-fourmies,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,155.0
+2021-09-15,2021,gp-de-wallonie,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,66.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,175.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,10.0
+2021-03-07,2021,gp-industria-artigianato,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,130.0
+2021-10-07,2021,gran-piemonte,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,203.0
+2021-10-09,2021,il-lombardia,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,15.0
+2021-04-05,2021,itzulia-basque-country,gc,BORA - hansgrohe,2.UWT,,0,0,,64.0,,,64.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,73.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,96.0
+2021-04-21,2021,la-fleche-wallonne,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,96.0
+2021-04-25,2021,liege-bastogne-liege,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,155.0
+2021-03-20,2021,milano-sanremo,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,355.0
+2021-10-06,2021,milano-torino,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,20.0
+2021-10-03,2021,munsterland-giro,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,50.0
+2021-06-19,2021,nc-austria-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-austria2,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,180.0
+2021-06-20,2021,nc-belgium,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-estonia,gc,BORA - hansgrohe,NC,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,220.0
+2021-06-19,2021,nc-germany-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-italy,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,1.0
+2021-06-16,2021,nc-netherlands-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-poland,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-poland-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-slovakia,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,150.0
+2021-10-17,2021,ncgreat-britain,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,100.0
+2021-09-15,2021,okolo-slovenska,gc,BORA - hansgrohe,2.1,,0,0,,163.0,,,181.0
+2021-07-24,2021,olympic-games,gc,Estonia,Olympics,,0,0,,0.0,,,10.0
+2021-07-28,2021,olympic-games-itt,gc,Estonia,Olympics,,0,0,,0.0,,,0.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,51.0
+2021-10-07,2021,paris-bourges,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,125.0
+2021-03-07,2021,paris-nice,gc,BORA - hansgrohe,2.UWT,,0,0,,505.0,,,505.0
+2021-10-03,2021,paris-roubaix,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,3.0
+2021-10-10,2021,paris-tours,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,8.0
+2021-08-30,2021,renewi-tour,gc,BORA - hansgrohe,2.UWT,,0,0,,32.0,,,32.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,95.0
+2021-07-31,2021,san-sebastian,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,0.0
+2021-04-07,2021,scheldeprijs,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,100.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,BORA - hansgrohe,2.1,,0,0,,130.0,,,175.0
+2021-07-03,2021,sibiu-cycling-tour,gc,BORA - hansgrohe,2.1,139.0,0.0,1,,128.0,,,183.0
+2021-03-06,2021,strade-bianche,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,14.0
+2021-03-10,2021,tirreno-adriatico,gc,BORA - hansgrohe,2.UWT,,0,0,,255.0,,,255.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,BORA - hansgrohe,2.UWT,,0,0,,338.0,,,418.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,BORA - hansgrohe,2.Pro,,0,0,,98.0,,,98.0
+2021-06-26,2021,tour-de-france,gc,BORA - hansgrohe,2.UWT,,0,0,,550.0,0.0,0.0,875.0
+2021-06-26,2021,tour-de-france,kom,BORA - hansgrohe,2.UWT,,0,0,,550.0,0.0,0.0,875.0
+2021-06-26,2021,tour-de-france,points,BORA - hansgrohe,2.UWT,,0,0,,550.0,0.0,0.0,875.0
+2021-05-12,2021,tour-de-hongrie,gc,BORA - hansgrohe,2.1,,0,0,,0.0,,,17.0
+2021-08-09,2021,tour-de-pologne,gc,BORA - hansgrohe,2.UWT,,0,0,,58.0,,,66.0
+2021-04-27,2021,tour-de-romandie,gc,BORA - hansgrohe,2.UWT,,0,0,,105.0,,,175.0
+2021-06-06,2021,tour-de-suisse,gc,BORA - hansgrohe,2.UWT,,0,0,,310.0,,,335.0
+2021-07-20,2021,tour-de-wallonie,gc,BORA - hansgrohe,2.Pro,,0,0,,5.0,,,15.0
+2021-06-09,2021,tour-of-belgium,gc,BORA - hansgrohe,2.Pro,118.0,0.0,1,,85.0,,,90.0
+2021-05-28,2021,tour-of-estonia,gc,Estonia,2.1,2.0,85.0,1,,256.0,,,284.0
+2021-08-19,2021,tour-of-norway,gc,BORA - hansgrohe,2.Pro,,0,0,,155.0,,,185.0
+2021-04-19,2021,tour-of-the-alps,gc,BORA - hansgrohe,2.Pro,,0,0,,31.0,,,61.0
+2021-10-05,2021,tre-valli-varesine,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,5.0
+2021-02-21,2021,uae-tour,gc,BORA - hansgrohe,2.UWT,122.0,0.0,1,,52.0,,,58.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2021-03-22,2021,volta-a-catalunya,gc,BORA - hansgrohe,2.UWT,,0,0,,196.0,,,296.0
+2021-05-05,2021,volta-ao-algarve,gc,BORA - hansgrohe,2.Pro,,,1,,3.0,,,3.0
+2021-08-03,2021,vuelta-a-burgos,gc,BORA - hansgrohe,2.Pro,,0,0,,5.0,,,5.0
+2021-08-14,2021,vuelta-a-espana,gc,BORA - hansgrohe,2.UWT,139.0,0.0,1,,156.0,0.0,0.0,208.0
+2021-08-14,2021,vuelta-a-espana,kom,BORA - hansgrohe,2.UWT,,,1,,156.0,0.0,0.0,208.0
+2021-08-14,2021,vuelta-a-espana,points,BORA - hansgrohe,2.UWT,57.0,0.0,1,,156.0,0.0,0.0,208.0
+2021-09-26,2021,world-championship,gc,Estonia,WC,,,1,,0.0,,,0.0
+2022-02-01,2022,alula-tour,gc,BORA - hansgrohe,2.1,64.0,0.0,1,,53.0,,,58.0
+2022-04-10,2022,amstel-gold-race,gc,BORA - hansgrohe,1.UWT,,,1,,0.0,,,10.0
+2022-08-18,2022,baltic-chain-tour,gc,Estonia,2.2,2.0,30.0,1,,73.0,,,97.0
+2022-04-13,2022,brabantse-pijl,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,3.0
+2022-03-18,2022,bredene-koksijde-classic,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,0.0
+2022-08-28,2022,bretagne-classic,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,8.0
+2022-06-05,2022,brussels-cycling-classic,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,25.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,3.0
+2022-07-31,2022,circuito-de-getxo,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,135.0
+2022-02-13,2022,clasica-de-almeria,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,30.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,105.0
+2022-03-23,2022,classic-brugge-de-panne,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,39.0
+2022-10-03,2022,coppa-bernocchi,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,8.0
+2022-08-21,2022,cyclassics-hamburg,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,598.0
+2022-08-04,2022,czech-tour,gc,BORA - hansgrohe,2.1,,0,0,,5.0,,,5.0
+2022-06-26,2022,danish-championships,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,0.0
+2022-01-28,2022,deia-trophy,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,70.0
+2022-08-24,2022,deutschland-tour,gc,BORA - hansgrohe,2.Pro,,0,0,,13.0,,,18.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,125.0
+2022-03-25,2022,e3-harelbeke,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,24.0
+2022-05-01,2022,eschborn-frankfurt,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,421.0
+2022-02-26,2022,faun-ardeche-classic,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,105.0
+2022-03-27,2022,gent-wevelgem,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,20.0
+2022-05-06,2022,giro-d-italia,gc,BORA - hansgrohe,2.UWT,,0,0,,1218.0,0.0,0.0,1494.0
+2022-05-06,2022,giro-d-italia,kom,BORA - hansgrohe,2.UWT,,0,0,,1218.0,0.0,0.0,1494.0
+2022-05-06,2022,giro-d-italia,points,BORA - hansgrohe,2.UWT,,0,0,,1218.0,0.0,0.0,1494.0
+2022-10-01,2022,giro-dell-emilia,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,8.0
+2022-09-18,2022,gooikse-pijl,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,30.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,95.0
+2022-03-17,2022,gp-de-denain,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,0.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,91.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,220.0
+2022-03-27,2022,gp-industria-artigianato,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,3.0
+2022-09-11,2022,gp-montreal,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,190.0
+2022-09-09,2022,gp-quebec,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,25.0
+2022-03-01,2022,gp-samyn,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,0.0
+2022-10-06,2022,gran-piemonte,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,50.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,150.0
+2022-06-04,2022,heist-op-den-berg,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,15.0
+2022-10-08,2022,il-lombardia,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,328.0
+2022-04-04,2022,itzulia-basque-country,gc,BORA - hansgrohe,2.UWT,,0,0,,260.0,,,288.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,3.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,5.0
+2022-02-27,2022,la-drome-classic,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,11.0
+2022-04-20,2022,la-fleche-wallonne,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,276.0
+2022-04-24,2022,liege-bastogne-liege,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,265.0
+2022-03-19,2022,milano-sanremo,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,15.0
+2022-03-16,2022,milano-torino,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,3.0
+2022-10-03,2022,munsterland-giro,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,105.0
+2022-06-23,2022,nc-austria-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,50.0
+2022-06-26,2022,nc-austria2,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,325.0
+2022-06-26,2022,nc-belgium,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,75.0
+2022-06-23,2022,nc-belgium-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,0.0
+2022-02-13,2022,nc-colombia,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,100.0
+2022-06-26,2022,nc-estonia,gc,BORA - hansgrohe,NC,,,1,,0.0,,,40.0
+2022-06-26,2022,nc-germany,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,154.0
+2022-06-24,2022,nc-germany-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,70.0
+2022-06-26,2022,nc-ireland,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-ireland-itt,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-italy,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,3.0
+2022-02-13,2022,nc-new-zealand,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,10.0
+2022-06-26,2022,nc-poland,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,ncgreat-britain,gc,BORA - hansgrohe,NC,,0,0,,0.0,,,0.0
+2022-03-16,2022,nokere-koerse,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,28.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,17.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,40.0
+2022-10-06,2022,paris-bourges,gc,BORA - hansgrohe,1.1,,,1,,0.0,,,50.0
+2022-03-06,2022,paris-nice,gc,BORA - hansgrohe,2.UWT,,0,0,,0.0,,,0.0
+2022-04-17,2022,paris-roubaix,gc,BORA - hansgrohe,1.UWT,,,1,,0.0,,,60.0
+2022-10-09,2022,paris-tours,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,125.0
+2022-03-20,2022,per-sempre-alfredo,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,35.0
+2022-06-06,2022,ronde-van-limburg,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,120.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,BORA - hansgrohe,1.UWT,,,1,,0.0,,,40.0
+2022-05-22,2022,rund-um-koln,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,283.0
+2022-02-16,2022,ruta-del-sol,gc,BORA - hansgrohe,2.Pro,,0,0,,18.0,,,38.0
+2022-07-30,2022,san-sebastian,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,16.0
+2022-04-06,2022,scheldeprijs,gc,BORA - hansgrohe,1.Pro,,,1,,0.0,,,235.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,BORA - hansgrohe,2.1,,0,0,,0.0,,,0.0
+2022-07-02,2022,sibiu-cycling-tour,gc,BORA - hansgrohe,2.1,103.0,0.0,1,,195.0,,,215.0
+2022-03-05,2022,strade-bianche,gc,BORA - hansgrohe,1.UWT,,0,0,,0.0,,,75.0
+2022-03-07,2022,tirreno-adriatico,gc,BORA - hansgrohe,2.UWT,,0,0,,275.0,,,275.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,BORA - hansgrohe,2.UWT,,0,0,,90.0,,,115.0
+2022-07-01,2022,tour-de-france,gc,BORA - hansgrohe,2.UWT,,0,0,,600.0,0.0,0.0,640.0
+2022-07-01,2022,tour-de-france,kom,BORA - hansgrohe,2.UWT,,0,0,,600.0,0.0,0.0,640.0
+2022-07-01,2022,tour-de-france,points,BORA - hansgrohe,2.UWT,,0,0,,600.0,0.0,0.0,640.0
+2022-05-11,2022,tour-de-hongrie,gc,BORA - hansgrohe,2.1,,0,0,,30.0,,,33.0
+2022-07-30,2022,tour-de-pologne,gc,BORA - hansgrohe,2.UWT,,0,0,,116.0,,,194.0
+2022-04-26,2022,tour-de-romandie,gc,BORA - hansgrohe,2.UWT,,0,0,,550.0,,,705.0
+2022-06-12,2022,tour-de-suisse,gc,BORA - hansgrohe,2.UWT,,0,0,,635.0,,,720.0
+2022-07-23,2022,tour-de-wallonie,gc,BORA - hansgrohe,2.Pro,,0,0,,65.0,,,65.0
+2022-06-15,2022,tour-of-belgium,gc,BORA - hansgrohe,2.Pro,,0,0,,3.0,,,13.0
+2022-09-04,2022,tour-of-britain,gc,BORA - hansgrohe,2.Pro,,0,0,,25.0,,,45.0
+2022-05-26,2022,tour-of-estonia,gc,Estonia,2.1,,0,0,,131.0,,,145.0
+2022-05-24,2022,tour-of-norway,gc,BORA - hansgrohe,2.Pro,,,1,,60.0,,,80.0
+2022-04-18,2022,tour-of-the-alps,gc,BORA - hansgrohe,2.Pro,,0,0,,10.0,,,35.0
+2022-04-10,2022,tour-of-turkey,gc,BORA - hansgrohe,2.Pro,,0,0,,0.0,,,10.0
+2022-10-04,2022,tre-valli-varesine,gc,BORA - hansgrohe,1.Pro,,0,0,,0.0,,,155.0
+2022-01-26,2022,trofeo-calvia,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,45.0
+2022-01-30,2022,trofeo-palma,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,3.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,73.0
+2022-02-20,2022,uae-tour,gc,BORA - hansgrohe,2.UWT,,0,0,,205.0,,,232.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,3.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,35.0
+2022-03-21,2022,volta-a-catalunya,gc,BORA - hansgrohe,2.UWT,,,1,,456.0,,,484.0
+2022-02-16,2022,volta-ao-algarve,gc,BORA - hansgrohe,2.Pro,,0,0,,28.0,,,48.0
+2022-08-02,2022,vuelta-a-burgos,gc,BORA - hansgrohe,2.Pro,,,1,,128.0,,,128.0
+2022-08-20,2022,vuelta-a-espana,gc,BORA - hansgrohe,2.UWT,,0,0,,276.0,0.0,0.0,608.0
+2022-08-20,2022,vuelta-a-espana,kom,BORA - hansgrohe,2.UWT,,0,0,,276.0,0.0,0.0,608.0
+2022-08-20,2022,vuelta-a-espana,points,BORA - hansgrohe,2.UWT,,0,0,,276.0,0.0,0.0,608.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,BORA - hansgrohe,2.Pro,,0,0,,203.0,,,233.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,BORA - hansgrohe,1.1,,0,0,,0.0,,,66.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Astana Qazaqstan Team,2.Pro,,0,0,,128.0,,,141.0
+2023-01-30,2023,alula-tour,gc,Astana Qazaqstan Team,2.1,,0,0,,43.0,,,49.0
+2023-04-16,2023,amstel-gold-race,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,270.0
+2023-08-17,2023,arctic-race-of-norway,gc,Astana Qazaqstan Team,2.Pro,,0,0,,153.0,,,208.0
+2023-08-18,2023,baltic-chain-tour,gc,Estonia,2.2,100.0,0.0,1,,40.0,,,47.0
+2023-04-19,2023,banja-luka-belgrade-i,gc,Astana Qazaqstan Development Team,2.2,,0,0,,0.0,,,0.0
+2023-09-03,2023,bretagne-classic,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,24.0
+2023-07-30,2023,circuito-de-getxo,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,198.0
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-02-12,2023,clasica-de-almeria,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,6.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,2.0
+2023-09-28,2023,coppa-agostoni,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,65.0
+2023-08-20,2023,cyclassics-hamburg,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,24.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,0.0
+2023-03-24,2023,e3-harelbeke,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-02-25,2023,faun-ardeche-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-03-26,2023,gent-wevelgem,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,13.0
+2023-05-06,2023,giro-d-italia,gc,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,680.0
+2023-05-06,2023,giro-d-italia,kom,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,680.0
+2023-05-06,2023,giro-d-italia,points,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,680.0
+2023-10-11,2023,giro-del-veneto,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,68.0
+2023-09-30,2023,giro-dell-emilia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,10.0
+2023-04-11,2023,giro-di-sicilia,gc,Astana Qazaqstan Team,2.1,,0,0,,128.0,,,142.0
+2023-09-13,2023,giro-di-toscana,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-03-26,2023,gp-adria-mobil,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,118.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,3.0
+2023-03-26,2023,gp-industria-artigianato,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,43.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,20.0
+2023-09-10,2023,gp-montreal,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,235.0
+2023-09-08,2023,gp-quebec,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,20.0
+2023-02-23,2023,gran-camino,gc,Astana Qazaqstan Team,2.1,,0,0,,30.0,,,30.0
+2023-10-05,2023,gran-piemonte,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,55.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,40.0
+2023-09-03,2023,grand-prix-de-plouay,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-10-07,2023,il-lombardia,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,Astana Qazaqstan Development Team,2.2,,0,0,,0.0,,,0.0
+2023-04-03,2023,itzulia-basque-country,gc,Astana Qazaqstan Team,2.UWT,,0,0,,28.0,,,35.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,0.0
+2023-02-26,2023,la-drome-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-04-19,2023,la-fleche-wallonne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,8.0
+2023-04-23,2023,liege-bastogne-liege,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,50.0
+2023-09-03,2023,maryland-cycling-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2023-09-16,2023,memorial-marco-pantani,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,145.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,25.0
+2023-03-18,2023,milano-sanremo,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,20.0
+2023-03-15,2023,milano-torino,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,16.0
+2023-02-10,2023,muscat-classic,gc,Astana Qazaqstan Team,1.1,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-estonia,gc,Astana Qazaqstan Team,NC,,,1,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,108.0
+2023-06-22,2023,nc-italy-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,16.0
+2023-06-25,2023,nc-kazakhstan,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,23.0
+2023-06-25,2023,nc-kazakhstan,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,233.0
+2023-06-21,2023,nc-kazakhstan-itt,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,3.0
+2023-06-21,2023,nc-kazakhstan-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,103.0
+2023-06-25,2023,nc-netherlands,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-spain-itt,gc,Astana Qazaqstan Development Team,NC,,0,0,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,Astana Qazaqstan Team,2.1,,0,0,,3.0,,,18.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,0.0
+2023-03-05,2023,paris-nice,gc,Astana Qazaqstan Team,2.UWT,,0,0,,83.0,,,68.0
+2023-04-09,2023,paris-roubaix,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,45.0
+2023-03-05,2023,porec-trophy,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,3.0
+2023-07-25,2023,prueba-villafranca,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2023-08-23,2023,renewi-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,2.0,,,2.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,0.0
+2023-02-15,2023,ruta-del-sol,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,15.0
+2023-07-29,2023,san-sebastian,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,26.0
+2023-04-05,2023,scheldeprijs,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,125.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Astana Qazaqstan Team,2.1,,0,0,,0.0,,,0.0
+2023-03-04,2023,strade-bianche,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,56.0
+2023-03-06,2023,tirreno-adriatico,gc,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,,,0.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,10.0
+2023-07-01,2023,tour-de-france,gc,Astana Qazaqstan Team,2.UWT,,0,0,,70.0,0.0,0.0,615.0
+2023-07-01,2023,tour-de-france,kom,Astana Qazaqstan Team,2.UWT,,0,0,,70.0,0.0,0.0,615.0
+2023-07-01,2023,tour-de-france,points,Astana Qazaqstan Team,2.UWT,,0,0,,70.0,0.0,0.0,615.0
+2023-10-07,2023,tour-de-kyushu,gc,Astana Qazaqstan Team,2.1,,0,0,,210.0,,,229.0
+2023-07-31,2023,tour-de-l-ain,gc,Astana Qazaqstan Development Team,2.1,,0,0,,0.0,,,0.0
+2023-09-23,2023,tour-de-langkawi,gc,Astana Qazaqstan Team,2.Pro,,0,0,,120.0,,,193.0
+2023-07-29,2023,tour-de-pologne,gc,Astana Qazaqstan Team,2.UWT,,0,0,,122.0,,,143.0
+2023-04-26,2023,tour-de-romandie,gc,Astana Qazaqstan Team,2.UWT,,0,0,,23.0,,,43.0
+2023-06-11,2023,tour-de-suisse,gc,Astana Qazaqstan Team,2.UWT,,0,0,,85.0,,,65.0
+2023-03-12,2023,tour-de-taiwan,gc,Astana Qazaqstan Development Team,2.1,,0,0,,18.0,,,18.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Astana Qazaqstan Development Team,2.1,,0,0,,0.0,,,0.0
+2023-01-17,2023,tour-down-under,gc,Astana Qazaqstan Team,2.UWT,,,1,,10.0,,,10.0
+2023-06-14,2023,tour-of-belgium,gc,Astana Qazaqstan Team,2.Pro,,0,0,,0.0,,,5.0
+2023-05-26,2023,tour-of-estonia,gc,Estonia,2.1,39.0,0.0,1,,76.0,,,76.0
+2023-09-28,2023,tour-of-istanbul,gc,Astana Qazaqstan Development Team,2.2,,0,0,,28.0,,,29.0
+2023-05-17,2023,tour-of-konya,gc,Astana Qazaqstan Development Team,2.2,1.0,40.0,1,,40.0,,,51.0
+2023-02-11,2023,tour-of-oman,gc,Astana Qazaqstan Team,2.Pro,111.0,0.0,1,,10.0,,,10.0
+2023-04-17,2023,tour-of-the-alps,gc,Astana Qazaqstan Team,2.Pro,,0,0,,10.0,,,10.0
+2023-10-08,2023,tour-of-turkey,gc,Astana Qazaqstan Team,2.1,,0,0,,195.0,,,238.0
+2023-10-03,2023,tre-valli-varesine,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2023-03-01,2023,trofej-umag,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-06-02,2023,trofeo-alcide-degasperi,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Astana Qazaqstan Development Team,1.2,,0,0,,0.0,,,0.0
+2023-02-20,2023,uae-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,17.0,,,56.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Estonia,CC,,0,0,,0.0,,,6.0
+2023-10-15,2023,veneto-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,75.0
+2023-03-20,2023,volta-a-catalunya,gc,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,,,7.0
+2023-08-15,2023,vuelta-a-burgos,gc,Astana Qazaqstan Team,2.Pro,,0,0,,100.0,,,103.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Astana Qazaqstan Team,2.1,,0,0,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-08-27,2023,vuelta-a-espana,kom,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-08-27,2023,vuelta-a-espana,points,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Astana Qazaqstan Team,2.Pro,,0,0,,8.0,,,38.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Astana Qazaqstan Team,2.Pro,,0,0,,18.0,,,26.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-06-07,2023,zlm-tour,gc,Astana Qazaqstan Team,2.Pro,,,1,,125.0,,,125.0
+2024-07-22,2024,banyuwangi-tour-de-ijen,gc,Ferei Quick-Panda Podium Mongolia Team,2.2,46.0,0.0,1,,0.0,,,14.0
+2024-02-06,2024,colombia-21,gc,Estonia,2.1,107.0,0.0,1,,0.0,,,-5.0
+2024-06-22,2024,nc-estonia,gc,Ferei Quick-Panda Podium Mongolia Team,NC,,,1,,0.0,,,10.0
+2024-06-18,2024,nc-estonia-itt,gc,Ferei Quick-Panda Podium Mongolia Team,NC,,0,0,,0.0,,,5.0
+2024-06-16,2024,nc-finland,gc,Ferei Quick-Panda Podium Mongolia Team,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-hong-kong,gc,Ferei Quick-Panda Podium Mongolia Team,NC,,0,0,,0.0,,,0.0
+2024-06-22,2024,nc-hong-kong-itt,gc,Ferei Quick-Panda Podium Mongolia Team,NC,,0,0,,0.0,,,0.0
+2024-06-25,2024,nc-mongolia,gc,Ferei Quick-Panda Podium Mongolia Team,NC,,0,0,,0.0,,,197.0
+2024-06-23,2024,nc-mongolia-itt,gc,Ferei Quick-Panda Podium Mongolia Team,NC,,0,0,,0.0,,,35.0
+2024-08-03,2024,olympic-games,gc,Estonia,Olympics,,0,0,,0.0,,,30.0
+2024-05-24,2024,tour-of-estonia,gc,Ferei Quick-Panda Podium Mongolia Team,2.1,39.0,0.0,1,,40.0,,,40.0
+2024-05-24,2024,tour-of-estonia,gc,Estonia,2.1,,0,0,,155.0,,,177.0
+2024-08-27,2024,tour-of-hainan,gc,Ferei Quick-Panda Podium Mongolia Team,2.Pro,87.0,0.0,1,,0.0,,,30.0
+2024-09-26,2024,tour-of-huangshan,gc,Ferei Quick-Panda Podium Mongolia Team,2.2,36.0,0.0,1,,30.0,,,35.0
+2024-06-05,2024,tour-of-lithuania,gc,Ferei Quick-Panda Podium Mongolia Team,2.2,16.0,0.0,1,,6.0,,,27.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Ferei Quick-Panda Podium Mongolia Team,2.Pro,90.0,0.0,1,,0.0,,,0.0
+2024-09-04,2024,tour-of-poyang-lake,gc,Ferei Quick-Panda Podium Mongolia Team,2.2,81.0,0.0,1,,0.0,,,24.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Ferei Quick-Panda Podium Mongolia Team,2.Pro,6.0,70.0,1,,70.0,,,125.0
+2024-08-23,2024,trans-himalaya-cycling-race,gc,Ferei Quick-Panda Podium Mongolia Team,2.2,5.0,15.0,1,,15.0,,,23.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Estonia,CC,,0,0,,0.0,,,155.0
+2024-09-29,2024,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2024-09-22,2024,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Quick Pro Team,1.2,,0,0,,0.0,,,0.0
+2025-07-28,2025,banyuwangi-tour-de-ijen,gc,Quick Pro Team,2.2,,0,0,,0.0,,,0.0
+2025-05-03,2025,gp-herning,gc,Quick Pro Team,1.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-estonia,gc,Quick Pro Team,NC,,,1,,0.0,,,65.0
+2025-06-21,2025,nc-estonia-itt,gc,Quick Pro Team,NC,,0,0,,0.0,,,3.0
+2025-06-22,2025,nc-hong-kong,gc,Quick Pro Team,NC,,0,0,,0.0,,,0.0
+2025-06-21,2025,nc-hong-kong-itt,gc,Quick Pro Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-mongolia,gc,Quick Pro Team,NC,,0,0,,0.0,,,25.0
+2025-06-27,2025,nc-mongolia-itt,gc,Quick Pro Team,NC,,0,0,,0.0,,,0.0
+2025-05-17,2025,raceseo-1749389130,gc,Quick Pro Team,1.2,,0,0,,0.0,,,0.0
+2025-06-04,2025,tour-de-gyeongnam,gc,Quick Pro Team,2.2,,0,0,,0.0,,,0.0
+2025-03-16,2025,tour-de-taiwan,gc,Quick Pro Team,2.1,100.0,0.0,1,,0.0,,,0.0
+2025-09-09,2025,tour-of-binzhou,gc,Quick Pro Team,1.1,,,1,,0.0,,,3.0
+2025-05-30,2025,tour-of-estonia,gc,Quick Pro Team,2.1,,,1,,5.0,,,5.0
+2025-04-07,2025,tour-of-hainan,gc,Quick Pro Team,2.Pro,85.0,0.0,1,,0.0,,,-10.0
+2025-09-19,2025,tour-of-huangshan,gc,Quick Pro Team,2.1,,0,0,,10.0,,,10.0
+2025-06-04,2025,tour-of-lithuania,gc,Quick Pro Team,2.2,1.0,40.0,1,,40.0,,,64.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Quick Pro Team,2.Pro,115.0,0.0,1,,0.0,,,20.0
+2025-10-12,2025,tour-of-mentougou,gc,Quick Pro Team,2.2,,0,0,,0.0,,,0.0
+2025-09-15,2025,tour-of-poyang-lake,gc,Quick Pro Team,2.2,88.0,0.0,1,,0.0,,,24.0
+2025-09-05,2025,tour-of-shanghai,gc,Quick Pro Team,2.2,7.0,5.0,1,,5.0,,,6.0
+2025-10-09,2025,tour-of-taihu-lake,gc,Quick Pro Team,2.Pro,108.0,0.0,1,,30.0,,,70.0
+2025-08-07,2025,trans-himalaya-cycling-race,gc,Quick Pro Team,2.1,18.0,3.0,1,,9.0,,,33.0
+2025-06-14,2025,yellow-river-estuary-road-cycling-race,gc,Quick Pro Team,2.2,7.0,5.0,1,,5.0,,,6.0

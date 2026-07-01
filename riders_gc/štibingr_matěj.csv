@@ -1,0 +1,57 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-06-01,2017,course-de-la-paix-u23,gc,SKC TUFO Prostějov,2.Ncup,,0,0,,0.0,,,0.0
+2017-07-25,2017,dookola-mazowsza,gc,SKC TUFO Prostějov,2.2,,0,0,,0.0,,,0.0
+2017-09-16,2017,gp-czech-republic,gc,SKC TUFO Prostějov,1.2,,,1,,0.0,,,0.0
+2017-05-01,2017,memorial-andrzeja-trochanowskiego,gc,SKC TUFO Prostějov,1.2,,0,0,,0.0,,,0.0
+2017-08-12,2017,memorial-henryka-lasaka,gc,SKC TUFO Prostějov,1.2,,,1,,0.0,,,0.0
+2017-05-02,2017,memorial-romana-sieminskiego,gc,SKC TUFO Prostějov,1.2,,0,0,,0.0,,,0.0
+2017-06-22,2017,nc-czech-republic-itt,gc,SKC TUFO Prostějov,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-czech-republic2,gc,SKC TUFO Prostějov,NC,,,1,,0.0,,,0.0
+2017-06-25,2017,nc-poland,gc,SKC TUFO Prostějov,NC,,0,0,,0.0,,,0.0
+2017-08-19,2017,puchar-ministra-obrony-narodowej,gc,SKC TUFO Prostějov,1.2,,,1,,0.0,,,0.0
+2017-08-13,2017,puchar-uzdrowisk-karpackich,gc,SKC TUFO Prostějov,1.2,,,1,,0.0,,,5.0
+2017-03-05,2017,rhodes-gp,gc,SKC TUFO Prostějov,1.2,,,1,,0.0,,,0.0
+2017-06-01,2017,szlakiem-walk-majora-hubala,gc,SKC TUFO Prostějov,2.1,71.0,0.0,1,,0.0,,,0.0
+2017-08-20,2017,szlakiem-wielkich-jezior,gc,SKC TUFO Prostějov,1.2,,,1,,0.0,,,0.0
+2017-09-08,2017,tour-bohemia,gc,SKC TUFO Prostějov,2.2,,,1,,0.0,,,0.0
+2017-06-27,2017,tour-de-hongrie,gc,SKC TUFO Prostějov,2.2,19.0,0.0,1,,0.0,,,0.0
+2017-06-09,2017,tour-of-malopolska,gc,SKC TUFO Prostějov,2.2,,0,0,,0.0,,,0.0
+2017-03-10,2017,tour-of-rhodes,gc,SKC TUFO Prostějov,2.2,67.0,0.0,1,,0.0,,,0.0
+2017-05-17,2017,tour-of-ukraine,gc,SKC TUFO Prostějov,2.2,,,1,,0.0,,,0.0
+2017-04-22,2017,visegrad-4-bicycle-race-gp-hungary,gc,SKC TUFO Prostějov,1.2,,,1,,0.0,,,8.0
+2017-09-17,2017,visegrad-4-bicycle-race-gp-polski-via-odra,gc,SKC TUFO Prostějov,1.2,,0,0,,0.0,,,0.0
+2017-04-23,2017,visegrad-4-bicycle-race-gp-slovakia,gc,SKC TUFO Prostějov,1.2,,0,0,,0.0,,,0.0
+2018-04-21,2018,gp-czech-republic,gc,Team Dukla Praha,1.2,,,1,,0.0,,,0.0
+2018-06-21,2018,nc-czech-republic-itt,gc,Team Dukla Praha,NC,,0,0,,0.0,,,5.0
+2018-06-24,2018,nc-czech-republic2,gc,Team Dukla Praha,NC,,,1,,0.0,,,0.0
+2018-09-06,2018,okolo-jiznich-cech,gc,Team Dukla Praha,2.2,72.0,0.0,1,,0.0,,,0.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,Team Dukla Praha,2.2,43.0,0.0,1,,0.0,,,0.0
+2018-06-08,2018,tour-of-malopolska,gc,Team Dukla Praha,2.2,,,1,,0.0,,,0.0
+2018-04-22,2018,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team Dukla Praha,1.2,,,1,,0.0,,,0.0
+2018-03-31,2018,visegrad-4-bicycle-race-gp-slovakia,gc,Team Dukla Praha,1.2,,,1,,0.0,,,0.0
+2019-09-01,2019,1st-ljubljana-zagreb,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,20.0
+2019-04-12,2019,circuit-des-ardennes,gc,Elkov - Author Cycling Team,2.2,,0,0,,0.0,,,1.0
+2019-08-16,2019,czech-tour,gc,Elkov - Author Cycling Team,2.1,,0,0,,178.0,,,181.0
+2019-07-24,2019,dookola-mazowsza,gc,Elkov - Author Cycling Team,2.2,,0,0,,35.0,,,36.0
+2019-05-29,2019,fleche-du-sud,gc,Elkov - Author Cycling Team,2.2,,0,0,,20.0,,,23.0
+2019-04-07,2019,gp-adria-mobil,gc,Elkov - Author Cycling Team,1.2,,,1,,0.0,,,35.0
+2019-02-24,2019,gp-izola-butan-plin,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-03-14,2019,istrian-spring-tour,gc,Elkov - Author Cycling Team,2.2,,0,0,,10.0,,,10.0
+2019-05-01,2019,memorial-andrzeja-trochanowskiego,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,68.0
+2019-05-02,2019,memorial-romana-sieminskiego,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,75.0
+2019-06-27,2019,nc-czech-republic-itt,gc,Elkov - Author Cycling Team,NC,,0,0,,0.0,,,76.0
+2019-06-30,2019,nc-czech-republic2,gc,Elkov - Author Cycling Team,NC,,0,0,,0.0,,,177.0
+2019-05-24,2019,paris-arras-tour,gc,Elkov - Author Cycling Team,2.2,,0,0,,3.0,,,4.0
+2019-03-09,2019,porec-trophy,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-05-09,2019,rhone-alpes-isere-tour,gc,Elkov - Author Cycling Team,2.2,,,1,,20.0,,,23.0
+2019-07-03,2019,sibiu-cycling-tour,gc,Elkov - Author Cycling Team,2.1,,0,0,,46.0,,,52.0
+2019-08-01,2019,tour-alsace,gc,Elkov - Author Cycling Team,2.2,,0,0,,33.0,,,43.0
+2019-06-11,2019,tour-de-hongrie,gc,Elkov - Author Cycling Team,2.1,,0,0,,43.0,,,57.0
+2019-03-25,2019,tour-de-normadie,gc,Elkov - Author Cycling Team,2.2,,0,0,,0.0,,,2.0
+2019-04-17,2019,tour-du-loir-et-cher,gc,Elkov - Author Cycling Team,2.2,,0,0,,40.0,,,44.0
+2019-06-07,2019,tour-of-bihor-bellotto,gc,Elkov - Author Cycling Team,2.1,,0,0,,118.0,,,118.0
+2019-03-06,2019,trofej-umag,gc,Elkov - Author Cycling Team,1.2,,,1,,0.0,,,40.0
+2019-09-11,2019,turul-romaniei,gc,Elkov - Author Cycling Team,2.1,,0,0,,128.0,,,133.0
+2019-05-11,2019,visegrad-4-bicycle-race-gp-hungary,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,3.0
+2019-04-28,2019,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Elkov - Author Cycling Team,1.2,,,1,,0.0,,,40.0
+2019-05-12,2019,visegrad-4-bicycle-race-gp-slovakia,gc,Elkov - Author Cycling Team,1.2,,0,0,,0.0,,,100.0

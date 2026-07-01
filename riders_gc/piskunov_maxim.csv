@@ -1,0 +1,50 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-05-05,2017,five-rings-of-moscow,gc,Marathon-tula Cycling Team,2.2,9.0,3.0,1,,18.0,,,31.0
+2017-05-05,2017,five-rings-of-moscow,gc,Russia,2.2,,0,0,,70.0,,,84.0
+2017-05-24,2017,fleche-du-sud,gc,Russia,2.2,,0,0,,0.0,,,7.0
+2017-07-12,2017,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Russia,2.2U,,0,0,,4.0,,,4.0
+2017-04-09,2017,giro-dell-appennino,gc,Russia,1.1,,0,0,,0.0,,,10.0
+2017-06-07,2017,okolo-slovenska,gc,Russia,2.1,111.0,0.0,1,,0.0,,,0.0
+2017-03-26,2017,tour-de-taiwan,gc,Russia,2.1,,0,0,,3.0,,,3.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,Russia,CC,,0,0,,0.0,,,0.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Russia,CC,,0,0,,0.0,,,10.0
+2017-02-27,2017,vuelta-independencia-nacional,gc,Russia,2.2,,0,0,,0.0,,,1.0
+2017-12-18,2017,vuelta-internacional-a-costa-rica,gc,Russia,2.2,,0,0,,0.0,,,0.0
+2017-09-24,2017,world-championship,gc,Russia,WC,,0,0,,0.0,,,85.0
+2017-09-20,2017,world-championship-itt,gc,Russia,WC,,0,0,,0.0,,,15.0
+2018-04-02,2018,circuito-belvedere,gc,Russia,1.2U,,0,0,,0.0,,,5.0
+2018-02-06,2018,colombia-21,gc,Russia,2.1,,0,0,,0.0,,,0.0
+2018-05-09,2018,fleche-du-sud,gc,Russia,2.2,81.0,0.0,1,,0.0,,,3.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Russia,2.2U,,0,0,,0.0,,,0.0
+2018-09-30,2018,international-azerbaijan-tour,gc,Russia,2.1,,0,0,,138.0,,,177.0
+2018-06-01,2018,szlakiem-walk-majora-hubala,gc,Russia,2.1,107.0,0.0,1,,15.0,,,15.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Russia,2.2U,,0,0,,25.0,,,30.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Russia,1.Ncup,,0,0,,0.0,,,0.0
+2018-04-06,2018,tour-du-maroc,gc,Russia,2.2,,0,0,,0.0,,,0.0
+2018-09-29,2018,tour-of-almaty,gc,Russia,2.1,,0,0,,0.0,,,0.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,Russia,CC,,0,0,,0.0,,,0.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Russia,CC,,0,0,,0.0,,,0.0
+2018-12-16,2018,vuelta-internacional-a-costa-rica,gc,Russia,2.2,49.0,0.0,1,,0.0,,,18.0
+2018-09-30,2018,world-championship,gc,Russia,WC,,0,0,,0.0,,,38.0
+2018-09-26,2018,world-championship-itt,gc,Russia,WC,,0,0,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,Fiberli Antalyaspor,2.2,82.0,0.0,1,,0.0,,,0.0
+2020-02-16,2020,gp-antalya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,60.0
+2020-02-09,2020,gp-manavgat,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,3.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,3.0
+2020-09-03,2020,grand-prix-develi,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,10.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,3.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,10.0
+2020-09-26,2020,tour-of-mevlana,gc,Marathon-Tula Cycling Team,2.2,2.0,30.0,1,,90.0,,,108.0
+2021-06-09,2021,five-rings-of-moscow,gc,Krasnodar,2.2,,,1,,0.0,,,0.0
+2021-02-06,2021,grand-prix-alanya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2021-02-07,2021,grand-prix-gazipasa,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2021-03-07,2021,grand-prix-gundogmus-me,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-02-20,2021,grand-prix-manavgat-side,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,10.0
+2021-03-06,2021,grand-prix-mediterrennean,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2021-02-21,2021,grand-prix-velo-alanya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0

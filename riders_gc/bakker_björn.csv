@@ -1,0 +1,88 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-03-08,2020,dorpenomloop-rucphen,gc,Vlasman CT,1.2,,,1,,0.0,,,0.0
+2020-08-23,2020,nc-netherlands,gc,Vlasman CT,NC,,,1,,0.0,,,0.0
+2020-02-29,2020,ster-van-zwolle,gc,Vlasman CT,1.2,,,1,,0.0,,,0.0
+2021-08-20,2021,baltic-chain-tour,gc,Global Cycling Team,2.2,72.0,0.0,1,,0.0,,,0.0
+2021-06-23,2021,course-cycliste-de-solidarnosc,gc,Global Cycling Team,2.2,,0,0,,0.0,,,0.0
+2021-09-26,2021,dorpenomloop-rucphen,gc,NWV Groningen,1.2,,,1,,0.0,,,0.0
+2021-07-03,2021,germenica-grand-prix-road-race-me,gc,Global Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-10-06,2021,grand-prix-chantal-biya,gc,Global Cycling Team,2.2,,0,0,,30.0,,,52.0
+2021-07-04,2021,kahramanmaras-grand-prix-road-race-me,gc,Global Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Netherlands,Olympics,,0,0,,0.0,,,380.0
+2021-07-28,2021,olympic-games-itt,gc,Netherlands,Olympics,,0,0,,0.0,,,250.0
+2021-08-29,2021,ronde-van-de-achterhoek,gc,NWV Groningen,1.2,,,1,,0.0,,,0.0
+2021-10-24,2021,ronde-van-drenthe,gc,Netherlands,1.1,,,1,,0.0,,,0.0
+2021-10-16,2021,ster-van-zwolle,gc,NWV Groningen,1.2,,,1,,0.0,,,0.0
+2021-05-29,2021,tour-du-cameroun,gc,Global Cycling Team,2.2,,0,0,,0.0,,,13.0
+2021-10-29,2021,tour-du-faso,gc,Global Cycling Team,2.2,,0,0,,3.0,,,4.0
+2021-07-16,2021,tour-of-kosovo,gc,Global Cycling Team,2.2,,0,0,,0.0,,,3.0
+2021-06-03,2021,tour-of-malopolska,gc,Global Cycling Team,2.2,,0,0,,10.0,,,10.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Netherlands,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Netherlands,CC,,0,0,,0.0,,,15.0
+2021-09-26,2021,world-championship,gc,Netherlands,WC,,0,0,,0.0,,,665.0
+2021-09-19,2021,world-championship-itt,gc,Netherlands,WC,,0,0,,0.0,,,30.0
+2021-09-18,2021,zodc-zuidenveld-tour,gc,NWV Groningen,1.2,,,1,,0.0,,,10.0
+2022-04-16,2022,arno-wallaard-memorial,gc,John Deere Cycling Team - NWVG,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,elfsteden-race,gc,NWV Groningen,1.2,,,1,,0.0,,,0.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,John Deere Cycling Team - NWVG,1.2,,0,0,,0.0,,,0.0
+2022-08-28,2022,ronde-van-de-achterhoek,gc,John Deere Cycling Team - NWVG,1.2,,,1,,0.0,,,0.0
+2022-03-13,2022,ronde-van-drenthe,gc,Netherlands,1.1,,,1,,0.0,,,0.0
+2022-05-07,2022,ronde-van-overijssel,gc,John Deere Cycling Team - NWVG,1.2,,,1,,0.0,,,0.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Netherlands,CC,,0,0,,0.0,,,5.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Netherlands,CC,,0,0,,0.0,,,375.0
+2022-09-25,2022,world-championship,gc,Netherlands,WC,,0,0,,0.0,,,60.0
+2022-09-18,2022,world-championship-itt,gc,Netherlands,WC,,0,0,,0.0,,,0.0
+2022-06-08,2022,zlm-tour,gc,Netherlands,2.Pro,,0,0,,8.0,,,8.0
+2022-04-30,2022,zodc-zuidenveld-tour,gc,John Deere Cycling Team - NWVG,1.2,,,1,,0.0,,,0.0
+2023-05-14,2023,albani-classic-fyen-rundt,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-04-15,2023,arno-wallaard-memorial,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-08-18,2023,baltic-chain-tour,gc,Scorpions Racing Team,2.2,,0,0,,3.0,,,3.0
+2023-03-12,2023,dorpenomloop-rucphen,gc,Scorpions Racing Team,1.2,,,1,,0.0,,,0.0
+2023-04-23,2023,east-midlands-international-cicle-classic,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-10-04,2023,elfsteden-race,gc,Scorpions Racing Team,1.1,,,1,,0.0,,,0.0
+2023-09-17,2023,gooikse-pijl,gc,Scorpions Racing Team,1.1,,0,0,,0.0,,,0.0
+2023-03-26,2023,gp-adria-mobil,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-09-30,2023,gp-cerami,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-05-13,2023,gp-herning,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,Scorpions Racing Team,2.2,,0,0,,0.0,,,0.0
+2023-07-02,2023,midden-brabant-poort-omloop,gc,Scorpions Racing Team,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-belgium,gc,Scorpions Racing Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-netherlands,gc,Scorpions Racing Team,NC,,,1,,0.0,,,0.0
+2023-06-21,2023,nc-netherlands-itt,gc,Scorpions Racing Team,NC,,0,0,,0.0,,,0.0
+2023-03-22,2023,olympias-tour,gc,Scorpions Racing Team,2.2,,,1,,0.0,,,0.0
+2023-03-19,2023,popolarissima,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-03-05,2023,porec-trophy,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-08-27,2023,ronde-van-de-achterhoek,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-05-06,2023,ronde-van-overijssel,gc,Scorpions Racing Team,1.2,,,1,,0.0,,,0.0
+2023-03-04,2023,ster-van-zwolle,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-03-01,2023,trofej-umag,gc,Scorpions Racing Team,1.2,,0,0,,0.0,,,0.0
+2023-05-20,2023,veenendaal-veenendaal,gc,Scorpions Racing Team,1.1,,,1,,0.0,,,0.0
+2024-05-26,2024,albani-classic-fyen-rundt,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,0.0
+2024-04-13,2024,arno-wallaard-memorial,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,0.0
+2024-05-05,2024,circuit-des-xi-villes,gc,Diftar Continental Cyclingteam,1.1,,,1,,0.0,,,0.0
+2024-06-26,2024,course-cycliste-de-solidarnosc,gc,Diftar Continental Cyclingteam,2.2,,0,0,,0.0,,,0.0
+2024-07-24,2024,dookola-mazowsza,gc,Diftar Continental Cyclingteam,2.2,,0,0,,3.0,,,4.0
+2024-03-17,2024,dorpenomloop-rucphen,gc,Diftar Continental Cyclingteam,1.2,,,1,,0.0,,,0.0
+2024-10-02,2024,elfsteden-race,gc,Diftar Continental Cyclingteam,1.1,,0,0,,0.0,,,3.0
+2024-09-28,2024,gp-cerami,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,0.0
+2024-05-25,2024,gp-herning,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,3.0
+2024-02-27,2024,gp-samyn,gc,Diftar Continental Cyclingteam,1.1,,0,0,,0.0,,,0.0
+2024-09-07,2024,grote-prijs-rik-van-looy,gc,Diftar Continental Cyclingteam,1.2,,,1,,0.0,,,0.0
+2024-07-23,2024,memorial-andrzeja-trochanowskiego,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,0.0
+2024-06-30,2024,midden-brabant-poort-omloop,gc,Diftar Continental Cyclingteam,1.2,,,1,,0.0,,,23.0
+2024-08-28,2024,muur-classic-geraardsbergen,gc,Diftar Continental Cyclingteam,1.1,,0,0,,0.0,,,63.0
+2024-06-23,2024,nc-netherlands,gc,Diftar Continental Cyclingteam,NC,,,1,,0.0,,,3.0
+2024-06-19,2024,nc-netherlands-itt,gc,Diftar Continental Cyclingteam,NC,,0,0,,0.0,,,15.0
+2024-03-20,2024,olympias-tour,gc,Diftar Continental Cyclingteam,2.2,,0,0,,3.0,,,3.0
+2024-05-26,2024,omloop-der-kempen,gc,Diftar Continental Cyclingteam,1.2,,,1,,0.0,,,10.0
+2024-05-01,2024,omloop-van-het-waasland,gc,Diftar Continental Cyclingteam,1.2,,,1,,0.0,,,0.0
+2024-07-28,2024,puchar-ministra-obrony-narodowej,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,25.0
+2024-08-25,2024,ronde-van-de-achterhoek,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,5.0
+2024-05-04,2024,ronde-van-overijssel,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,ster-van-zwolle,gc,Diftar Continental Cyclingteam,1.2,,0,0,,0.0,,,0.0
+2024-08-21,2024,tour-bitwa-warszawska-1920,gc,Diftar Continental Cyclingteam,2.2,30.0,0.0,1,,40.0,,,40.0
+2024-06-12,2024,tour-de-kurpie,gc,Diftar Continental Cyclingteam,2.2,,0,0,,3.0,,,4.0
+2024-05-18,2024,veenendaal-veenendaal,gc,Diftar Continental Cyclingteam,1.1,,0,0,,0.0,,,0.0
+2024-03-30,2024,volta-nxt-classic,gc,Diftar Continental Cyclingteam,1.1,,0,0,,0.0,,,0.0
+2024-06-05,2024,zlm-tour,gc,Diftar Continental Cyclingteam,2.1,,0,0,,6.0,,,20.0

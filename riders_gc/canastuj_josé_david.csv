@@ -1,0 +1,50 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-10-23,2017,vuelta-a-guatemala,gc,Add Chimaltenango-comayma-linaflor,2.2,42.0,0.0,1,,0.0,,,0.0
+2018-12-16,2018,vuelta-internacional-a-costa-rica,gc,Ópticas Deluxe,2.2,28.0,0.0,1,,0.0,,,3.0
+2019-10-23,2019,vuelta-a-guatemala,gc,Ópticas Deluxe,2.2,26.0,0.0,1,,3.0,,,40.0
+2019-12-16,2019,vuelta-internacional-a-costa-rica,gc,Ópticas Deluxe,2.2,24.0,0.0,1,,25.0,,,31.0
+2020-11-21,2020,elite-road-central-american-championships-itt,gc,Guatemala,1.2,,0,0,,0.0,,,28.0
+2020-11-22,2020,elite-road-central-american-championships-road-rac,gc,Guatemala,1.2,,,1,,0.0,,,36.0
+2020-03-15,2020,gran-premio-de-la-patagonia,gc,Guatemala,1.2,,,1,,0.0,,,5.0
+2020-11-23,2020,vuelta-a-ecuador,gc,Guatemala,2.2,,0,0,,25.0,,,29.0
+2020-10-23,2020,vuelta-a-guatemala,gc,Ópticas Deluxe,2.2,29.0,0.0,1,,10.0,,,17.0
+2022-10-16,2022,elite-road-central-american-championships-road-rac,gc,Guatemala,1.2,,,1,,0.0,,,83.0
+2022-05-12,2022,panamerican-champ-itt,gc,Guatemala,CC,,0,0,,0.0,,,25.0
+2022-05-15,2022,panamerican-championships,gc,Guatemala,CC,,0,0,,0.0,,,20.0
+2022-10-23,2022,vuelta-a-guatemala,gc,Ópticas Deluxe,2.2,18.0,0.0,1,,0.0,,,0.0
+2022-10-23,2022,vuelta-a-guatemala,gc,Guatemala,2.2,,0,0,,0.0,,,0.0
+2022-06-03,2022,vuelta-pilsen-a-colombia,gc,Liro Alcaldía la Vega,2.2,67.0,0.0,1,,0.0,,,4.0
+2023-04-14,2023,elite-road-central-american-championships-itt,gc,Guatemala,1.2,,0,0,,0.0,,,30.0
+2023-04-15,2023,elite-road-central-american-championships-mu-irr,gc,Guatemala,1.2,,0,0,,0.0,,,1.0
+2023-04-14,2023,elite-road-central-american-championships-mu-itt,gc,Guatemala,1.2U,,0,0,,0.0,,,15.0
+2023-04-16,2023,elite-road-central-american-championships-road-rac,gc,Guatemala,1.2,,0,0,,0.0,,,25.0
+2023-08-13,2023,gran-premio-chapin,gc,Decoba-ASO Quetzaltenango,1.2,,,1,,0.0,,,3.0
+2023-08-13,2023,gran-premio-chapin,gc,PPP Development Team,1.2,,0,0,,0.0,,,0.0
+2023-08-12,2023,gran-premio-guatemala,gc,Decoba-ASO Quetzaltenango,1.2,,,1,,0.0,,,45.0
+2023-08-12,2023,gran-premio-guatemala,gc,PPP Development Team,1.2,,0,0,,0.0,,,0.0
+2023-04-19,2023,panamerican-champ-itt,gc,Guatemala,CC,,0,0,,0.0,,,0.0
+2023-04-23,2023,panamerican-championships,gc,Guatemala,CC,,0,0,,0.0,,,124.0
+2023-11-17,2023,vuelta-a-guatemala,gc,Decoba-ASO Quetzaltenango,2.2,20.0,0.0,1,,40.0,,,47.0
+2023-11-17,2023,vuelta-a-guatemala,gc,PPP Development Team,2.2,,0,0,,0.0,,,0.0
+2023-03-29,2023,vuelta-bantrab,gc,PPP Development Team,2.2,27.0,0.0,1,,0.0,,,0.0
+2023-03-29,2023,vuelta-bantrab,gc,Decoba-ASO Quetzaltenango,2.2,,0,0,,0.0,,,0.0
+2023-12-16,2023,vuelta-internacional-a-costa-rica,gc,Guatemala,2.2,21.0,0.0,1,,3.0,,,-23.0
+2024-06-06,2024,elite-road-central-american-championships-itt,gc,Guatemala,1.2,,0,0,,0.0,,,25.0
+2024-06-09,2024,elite-road-central-american-championships-road-rac,gc,Guatemala,1.2,,0,0,,0.0,,,13.0
+2024-06-29,2024,national-championships-honduras-itt,gc,BTR Racing,NC,,0,0,,0.0,,,25.0
+2024-06-30,2024,national-championships-honduras-road-race,gc,BTR Racing,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-guatemala,gc,Hino-One-La red-Suzuki,NC,,,1,,0.0,,,2.0
+2024-06-16,2024,nc-guatemala-itt,gc,Hino-One-La red-Suzuki,NC,,0,0,,0.0,,,5.0
+2024-05-23,2024,panamerican-champ-itt,gc,Guatemala,CC,,0,0,,0.0,,,0.0
+2024-05-26,2024,panamerican-championships,gc,Guatemala,CC,,0,0,,0.0,,,71.0
+2024-11-11,2024,vuelta-a-ecuador,gc,BTR Racing,2.2,36.0,0.0,1,,0.0,,,0.0
+2024-11-11,2024,vuelta-a-ecuador,gc,Hino-One-La red-Suzuki,2.2,,0,0,,25.0,,,26.0
+2024-10-25,2024,vuelta-a-guatemala,gc,Hino-One-La red-Suzuki,2.2,,0,0,,36.0,,,41.0
+2024-05-01,2024,vuelta-bantrab,gc,Hino-One-La red-Suzuki,2.2,19.0,0.0,1,,3.0,,,-2.0
+2024-12-13,2024,vuelta-internacional-a-costa-rica,gc,Guatemala,2.2,23.0,0.0,1,,10.0,,,26.0
+2024-12-13,2024,vuelta-internacional-a-costa-rica,gc,BTR Racing,2.2,,0,0,,0.0,,,7.0
+2024-09-29,2024,world-championship,gc,Guatemala,WC,,0,0,,0.0,,,0.0
+2024-09-22,2024,world-championship-itt,gc,Guatemala,WC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-guatemala,gc,Eca Electricidad Ciclismo,NC,,,1,,0.0,,,31.0
+2025-10-24,2025,vuelta-a-guatemala,gc,Eca Electricidad Ciclismo,2.2,34.0,0.0,1,,6.0,,,16.0
+2025-04-30,2025,vuelta-bantrab,gc,Eca Electricidad Ciclismo,2.2,33.0,0.0,1,,0.0,,,0.0

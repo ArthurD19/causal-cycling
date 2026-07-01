@@ -1,0 +1,900 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-23,2017,abu-dhabi-tour,gc,Team Dimension Data,2.UWT,,0,0,,5.0,,,66.0
+2017-04-16,2017,amstel-gold-race,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,318.0
+2017-08-10,2017,arctic-race-of-norway,gc,Team Dimension Data,2.HC,,0,0,,48.0,,,48.0
+2017-04-12,2017,brabantse-pijl,gc,Team Dimension Data,1.HC,,,1,,0.0,,,5.0
+2017-08-27,2017,bretagne-classic,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,152.0
+2017-08-20,2017,cyclassics-hamburg,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,56.0
+2017-01-31,2017,dubai-tour,gc,Team Dimension Data,2.HC,,0,0,,90.0,,,105.0
+2017-03-24,2017,e3-harelbeke,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,16.0
+2017-03-26,2017,gent-wevelgem,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2017-05-05,2017,giro-d-italia,gc,Team Dimension Data,2.UWT,101.0,0.0,1,,28.0,20.0,0.0,148.0
+2017-05-05,2017,giro-d-italia,kom,Team Dimension Data,2.UWT,,,1,,28.0,20.0,0.0,148.0
+2017-05-05,2017,giro-d-italia,points,Team Dimension Data,2.UWT,8.0,0.0,1,,28.0,20.0,0.0,148.0
+2017-09-30,2017,giro-dell-emilia,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,0.0
+2017-09-26,2017,giro-di-toscana,gc,Team Dimension Data,2.1,,0,0,,0.0,,,14.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Team Dimension Data,1.HC,,,1,,0.0,,,8.0
+2017-09-28,2017,gp-citta-di-peccioli,gc,Team Dimension Data,1.1,,,1,,0.0,,,0.0
+2017-09-17,2017,gp-d-isbergues,gc,Team Dimension Data,1.1,,0,0,,0.0,,,40.0
+2017-06-08,2017,gp-du-canton-d-argovie,gc,Team Dimension Data,1.HC,,,1,,0.0,,,93.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,10.0
+2017-09-10,2017,gp-montreal,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,30.0
+2017-09-08,2017,gp-quebec,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,55.0
+2017-01-29,2017,great-ocean-road-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,95.0
+2017-10-07,2017,il-lombardia,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,0.0
+2017-04-03,2017,itzulia-basque-country,gc,Team Dimension Data,2.UWT,,0,0,,24.0,,,24.0
+2017-09-15,2017,kampioenschap-van-vlaanderen1,gc,Team Dimension Data,1.1,,0,0,,0.0,,,10.0
+2017-04-19,2017,la-fleche-wallonne,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,28.0
+2017-04-23,2017,liege-bastogne-liege,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,50.0
+2017-03-18,2017,milano-sanremo,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,50.0
+2017-10-03,2017,munsterland-giro,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,11.0
+2017-07-26,2017,nc-algeria,gc,Team Dimension Data,NC,,0,0,,0.0,,,30.0
+2017-07-24,2017,nc-algeria-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,25.0
+2017-01-08,2017,nc-australia,gc,Team Dimension Data,NC,,0,0,,0.0,,,40.0
+2017-01-05,2017,nc-australia-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-belgium,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-eritrea,gc,Team Dimension Data,NC,,0,0,,0.0,,,40.0
+2017-06-23,2017,nc-eritrea-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,90.0
+2017-06-22,2017,nc-great-britain-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-italy,gc,Team Dimension Data,NC,,,1,,0.0,,,0.0
+2017-06-25,2017,nc-norway,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-22,2017,nc-norway-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-rwanda,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-24,2017,nc-rwanda-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,15.0
+2017-02-12,2017,nc-south-africa,gc,Team Dimension Data,NC,,0,0,,0.0,,,125.0
+2017-02-09,2017,nc-south-africa-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,28.0
+2017-06-25,2017,ncgreat-britain,gc,Team Dimension Data,NC,,0,0,,0.0,,,85.0
+2017-03-05,2017,paris-nice,gc,Team Dimension Data,2.UWT,75.0,0.0,1,,3.0,,,3.0
+2017-04-09,2017,paris-roubaix,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,15.0
+2017-10-08,2017,paris-tours,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,0.0
+2017-08-07,2017,renewi-tour,gc,Team Dimension Data,2.UWT,40.0,8.0,1,,24.0,,,24.0
+2017-07-30,2017,ride-london-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,26.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,53.0
+2017-07-29,2017,san-sebastian,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,24.0
+2017-04-05,2017,scheldeprijs,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,68.0
+2017-03-04,2017,strade-bianche,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,75.0
+2017-03-09,2017,tirreno-adriatico,gc,Team Dimension Data,2.UWT,,0,0,,23.0,,,23.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Team Dimension Data,2.UWT,,0,0,,25.0,,,25.0
+2017-07-01,2017,tour-de-france,gc,Team Dimension Data,2.UWT,,0,0,,55.0,0.0,25.0,365.0
+2017-07-01,2017,tour-de-france,kom,Team Dimension Data,2.UWT,,0,0,,55.0,0.0,25.0,365.0
+2017-07-01,2017,tour-de-france,points,Team Dimension Data,2.UWT,,0,0,,55.0,0.0,25.0,365.0
+2017-02-22,2017,tour-de-langkawi,gc,Team Dimension Data,2.HC,,0,0,,346.0,,,406.0
+2017-07-29,2017,tour-de-pologne,gc,Team Dimension Data,2.UWT,,,1,,24.0,,,24.0
+2017-04-25,2017,tour-de-romandie,gc,Team Dimension Data,2.UWT,,0,0,,30.0,,,30.0
+2017-06-10,2017,tour-de-suisse,gc,Team Dimension Data,2.UWT,,0,0,,55.0,,,55.0
+2017-04-28,2017,tour-de-yorkshire,gc,Team Dimension Data,2.1,41.0,0.0,1,,218.0,,,237.0
+2017-05-24,2017,tour-des-fjords,gc,Team Dimension Data,2.1,,0,0,,131.0,,,178.0
+2017-01-17,2017,tour-down-under,gc,Team Dimension Data,2.UWT,,0,0,,285.0,,,310.0
+2017-07-02,2017,tour-of-austria,gc,Team Dimension Data,2.1,,0,0,,88.0,,,110.0
+2017-09-03,2017,tour-of-britain,gc,Team Dimension Data,2.HC,,0,0,,150.0,,,190.0
+2017-05-14,2017,tour-of-california,gc,Team Dimension Data,2.UWT,,0,0,,119.0,,,119.0
+2017-10-19,2017,tour-of-guangxi,gc,Team Dimension Data,2.UWT,,0,0,,85.0,,,85.0
+2017-05-17,2017,tour-of-norway,gc,Team Dimension Data,2.HC,,0,0,,200.0,,,255.0
+2017-02-14,2017,tour-of-oman,gc,Team Dimension Data,2.HC,79.0,0.0,1,,190.0,,,200.0
+2017-06-15,2017,tour-of-slovenia,gc,Team Dimension Data,2.1,34.0,0.0,1,,0.0,,,8.0
+2017-10-03,2017,tre-valli-varesine,gc,Team Dimension Data,1.HC,,,1,,0.0,,,3.0
+2017-03-20,2017,volta-a-catalunya,gc,Team Dimension Data,2.UWT,,,1,,12.0,,,20.0
+2017-02-15,2017,volta-ao-algarve,gc,Team Dimension Data,2.HC,,0,0,,0.0,,,0.0
+2017-08-01,2017,vuelta-a-burgos,gc,Team Dimension Data,2.HC,,0,0,,115.0,,,115.0
+2017-08-20,2017,vuelta-a-espana,gc,Team Dimension Data,2.UWT,,0,0,,20.0,0.0,0.0,124.0
+2017-08-20,2017,vuelta-a-espana,kom,Team Dimension Data,2.UWT,,0,0,,20.0,0.0,0.0,124.0
+2017-08-20,2017,vuelta-a-espana,points,Team Dimension Data,2.UWT,,0,0,,20.0,0.0,0.0,124.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Team Dimension Data,2.1,84.0,0.0,1,,28.0,,,33.0
+2018-06-21,2018,adriatica-ionica-race,gc,Israel Cycling Academy,2.1,32.0,0.0,1,,0.0,,,6.0
+2018-04-15,2018,amstel-gold-race,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,15.0
+2018-09-02,2018,antwerp-port-epic,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2018-08-16,2018,arctic-race-of-norway,gc,Israel Cycling Academy,2.HC,,0,0,,35.0,,,55.0
+2018-04-11,2018,brabantse-pijl,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,8.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,3.0
+2018-09-01,2018,brussels-cycling-classic,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,5.0
+2018-06-17,2018,circuit-des-xi-villes,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,50.0
+2018-09-22,2018,circuit-franco-belge,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,0.0
+2018-03-21,2018,classic-brugge-de-panne,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,10.0
+2018-02-06,2018,colombia-21,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,0.0
+2018-08-16,2018,colorado-classic,gc,Israel Cycling Academy,2.HC,,0,0,,6.0,,,16.0
+2018-09-15,2018,coppa-agostoni,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,3.0
+2018-09-16,2018,coppa-bernocchi,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,3.0
+2018-08-10,2018,czech-tour,gc,Israel Cycling Academy,2.1,8.0,30.0,1,,75.0,,,75.0
+2018-01-26,2018,deia-trophy,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2018-08-23,2018,deutschland-tour,gc,Israel Cycling Academy,2.1,26.0,0.0,1,,6.0,,,6.0
+2018-08-29,2018,druivenkoers-overijse,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2018-06-15,2018,dwars-door-het-hageland,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,128.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,5.0
+2018-09-27,2018,famenne-ardenne-classic,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,128.0
+2018-05-04,2018,giro-d-italia,gc,Israel Cycling Academy,2.UWT,111.0,0.0,1,,32.0,0.0,0.0,72.0
+2018-05-04,2018,giro-d-italia,kom,Israel Cycling Academy,2.UWT,,,1,,32.0,0.0,0.0,72.0
+2018-05-04,2018,giro-d-italia,points,Israel Cycling Academy,2.UWT,41.0,0.0,1,,32.0,0.0,0.0,72.0
+2018-10-06,2018,giro-dell-emilia,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,0.0
+2018-09-23,2018,gooikse-pijl,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,63.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,35.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,5.0
+2018-03-18,2018,gp-de-denain,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,3.0
+2018-09-02,2018,gp-de-fourmies,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,35.0
+2018-09-12,2018,gp-de-wallonie,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2018-09-15,2018,gp-impanis-van-petegem,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,35.0
+2018-03-04,2018,gp-industria-artigianato,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,63.0
+2018-09-16,2018,gp-jef-scherens,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,8.0
+2018-06-03,2018,gp-lugano,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,88.0
+2018-09-09,2018,gp-montreal,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,45.0
+2018-09-07,2018,gp-quebec,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,60.0
+2018-08-21,2018,gp-stad-zottegem,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2018-10-11,2018,gran-piemonte,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,20.0
+2018-01-28,2018,great-ocean-road-race,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,12.0
+2018-08-24,2018,great-war-remembrance-race,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,128.0
+2018-06-19,2018,halle-ingooigem,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,33.0
+2018-01-31,2018,herald-sun-tour,gc,Israel Cycling Academy,2.1,,0,0,,28.0,,,28.0
+2018-10-13,2018,il-lombardia,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,15.0
+2018-09-14,2018,kampioenschap-van-vlaanderen1,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,65.0
+2018-04-01,2018,la-roue-tourangelle,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,5.0
+2018-09-22,2018,memorial-marco-pantani,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,5.0
+2018-03-17,2018,milano-sanremo,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,43.0
+2018-10-10,2018,milano-torino,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,10.0
+2018-10-03,2018,munsterland-giro,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,0.0
+2018-01-07,2018,nc-australia,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,3.0
+2018-06-24,2018,nc-belgium,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,3.0
+2018-06-23,2018,nc-canada2,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,75.0
+2018-02-04,2018,nc-colombia,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-06-21,2018,nc-czech-republic-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-czech-republic2,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-estonia,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,100.0
+2018-06-30,2018,nc-israel,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,115.0
+2018-06-23,2018,nc-israel-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,25.0
+2018-06-30,2018,nc-italy,gc,Israel Cycling Academy,NC,,,1,,0.0,,,0.0
+2018-07-01,2018,nc-latvia,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,100.0
+2018-06-28,2018,nc-latvia-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,15.0
+2018-06-30,2018,nc-mexico,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-06-28,2018,nc-mexico-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,15.0
+2018-07-01,2018,nc-netherlands,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,5.0
+2018-01-07,2018,nc-new-zealand,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-norway,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-spain,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-sweden,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-united-states,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2018-03-14,2018,nokere-koerse,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,60.0
+2018-08-25,2018,omloop-mandel-leie-schelde-meulebeke,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2018-10-04,2018,paris-bourges,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,5.0
+2018-10-07,2018,paris-tours,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,3.0
+2018-07-25,2018,prueba-villafranca,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,118.0
+2018-03-11,2018,ronde-van-drenthe,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,100.0
+2018-03-30,2018,route-adelie-de-vitre,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2018-06-10,2018,rund-um-koln,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,93.0
+2018-02-14,2018,ruta-del-sol,gc,Israel Cycling Academy,2.HC,100.0,0.0,1,,15.0,,,15.0
+2018-08-26,2018,schaal-schels,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,16.0
+2018-04-04,2018,scheldeprijs,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,0.0
+2018-03-08,2018,tirreno-adriatico,gc,Israel Cycling Academy,2.UWT,119.0,0.0,1,,0.0,,,0.0
+2018-06-13,2018,tour-de-beauce,gc,Israel Cycling Academy,2.2,,0,0,,0.0,,,0.0
+2018-05-30,2018,tour-de-korea,gc,Israel Cycling Academy,2.1,,0,0,,78.0,,,102.0
+2018-03-11,2018,tour-de-taiwan,gc,Israel Cycling Academy,2.1,,0,0,,60.0,,,74.0
+2018-02-17,2018,tour-des-alpes-maritimes,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,0.0
+2018-05-22,2018,tour-des-fjords,gc,Israel Cycling Academy,2.HC,,0,0,,30.0,,,30.0
+2018-07-07,2018,tour-of-austria,gc,Israel Cycling Academy,2.1,,0,0,,128.0,,,142.0
+2018-04-17,2018,tour-of-croatia,gc,Israel Cycling Academy,2.HC,57.0,0.0,1,,0.0,,,0.0
+2018-08-01,2018,tour-of-denmark,gc,Israel Cycling Academy,2.HC,28.0,5.0,1,,8.0,,,8.0
+2018-10-23,2018,tour-of-hainan,gc,Israel Cycling Academy,2.HC,,0,0,,90.0,,,100.0
+2018-05-16,2018,tour-of-norway,gc,Israel Cycling Academy,2.HC,,0,0,,6.0,,,31.0
+2018-06-13,2018,tour-of-slovenia,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,0.0
+2018-10-07,2018,tour-of-taihu-lake,gc,Israel Cycling Academy,2.1,,0,0,,95.0,,,95.0
+2018-04-16,2018,tour-of-the-alps,gc,Israel Cycling Academy,2.HC,,0,0,,20.0,,,20.0
+2018-08-06,2018,tour-of-utah,gc,Israel Cycling Academy,2.HC,,0,0,,153.0,,,173.0
+2018-10-09,2018,tre-valli-varesine,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,11.0
+2018-04-15,2018,tro-bro-leon,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,15.0
+2018-02-11,2018,trofeo-laigueglia,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,43.0
+2018-09-23,2018,trofeo-matteotti,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,63.0
+2018-01-28,2018,trofeo-palma,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,88.0
+2018-08-22,2018,veenendaal-veenendaal,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,70.0
+2018-03-19,2018,volta-a-catalunya,gc,Israel Cycling Academy,2.UWT,,0,0,,24.0,,,24.0
+2018-08-01,2018,volta-a-portugal,gc,Israel Cycling Academy,2.1,,0,0,,5.0,,,5.0
+2018-03-31,2018,volta-nxt-classic,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,15.0
+2018-05-11,2018,vuelta-a-aragon,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,5.0
+2018-04-20,2018,vuelta-a-castilla-y-leon,gc,Israel Cycling Academy,2.1,,0,0,,130.0,,,158.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Israel Cycling Academy,2.1,,0,0,,15.0,,,15.0
+2018-04-27,2018,vuelta-asturias,gc,Israel Cycling Academy,2.1,,0,0,,43.0,,,43.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Israel Cycling Academy,2.1,82.0,0.0,1,,0.0,,,0.0
+2019-05-14,2019,4-jours-de-dunkerque,gc,Israel Cycling Academy,2.HC,,0,0,,85.0,,,85.0
+2019-07-25,2019,adriatica-ionica-race,gc,Israel Cycling Academy,2.1,49.0,0.0,1,,85.0,,,88.0
+2019-07-25,2019,adriatica-ionica-race,gc,Italy,2.1,,0,0,,3.0,,,3.0
+2019-08-18,2019,albani-classic-fyen-rundt,gc,Israel Cycling Academy,1.2,,0,0,,0.0,,,3.0
+2019-04-21,2019,amstel-gold-race,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,60.0
+2019-09-08,2019,antwerp-port-epic,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,46.0
+2019-08-15,2019,arctic-race-of-norway,gc,Israel Cycling Academy,2.HC,36.0,3.0,1,,131.0,,,131.0
+2019-04-17,2019,brabantse-pijl,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,20.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,40.0
+2019-09-01,2019,bretagne-classic,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,18.0
+2019-09-07,2019,brussels-cycling-classic,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,13.0
+2019-03-31,2019,cholet-pays-de-loire,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,50.0
+2019-06-23,2019,circuit-des-xi-villes,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2019-10-05,2019,circuit-franco-belge,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,100.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,32.0
+2019-03-30,2019,classic-loire-atlantique,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,125.0
+2019-02-13,2019,colombia-21,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,5.0
+2019-02-13,2019,colombia-21,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2019-09-14,2019,coppa-agostoni,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,15.0
+2019-09-14,2019,coppa-agostoni,gc,Italy,1.1,,0,0,,0.0,,,48.0
+2019-09-15,2019,coppa-bernocchi,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,30.0
+2019-09-15,2019,coppa-bernocchi,gc,Italy,1.1,,0,0,,0.0,,,40.0
+2019-02-02,2019,deia-trophy,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2019-08-28,2019,druivenkoers-overijse,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,100.0
+2019-06-21,2019,dwars-door-het-hageland,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,0.0
+2019-03-29,2019,e3-harelbeke,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,16.0
+2019-05-01,2019,eschborn-frankfurt,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,191.0
+2019-02-07,2019,etoile-de-besseges,gc,Israel Cycling Academy,2.1,82.0,0.0,1,,0.0,,,0.0
+2019-06-23,2019,european-games,gc,Italy,JC,,0,0,,0.0,,,288.0
+2019-10-06,2019,famenne-ardenne-classic,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,5.0
+2019-03-02,2019,faun-ardeche-classic,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,15.0
+2019-05-11,2019,giro-d-italia,gc,Israel Cycling Academy,2.UWT,77.0,0.0,1,,0.0,0.0,0.0,20.0
+2019-05-11,2019,giro-d-italia,kom,Israel Cycling Academy,2.UWT,,,1,,0.0,0.0,0.0,20.0
+2019-05-11,2019,giro-d-italia,points,Israel Cycling Academy,2.UWT,95.0,0.0,1,,0.0,0.0,0.0,20.0
+2019-04-28,2019,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,8.0
+2019-04-03,2019,giro-di-sicilia,gc,Israel Cycling Academy,2.1,42.0,0.0,1,,15.0,,,15.0
+2019-09-18,2019,giro-di-toscana,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2019-09-18,2019,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,63.0
+2019-09-22,2019,gooikse-pijl,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,65.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,100.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Italy,1.1,,0,0,,0.0,,,3.0
+2019-02-03,2019,gp-d-ouverture,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,73.0
+2019-03-24,2019,gp-de-denain,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,10.0
+2019-09-08,2019,gp-de-fourmies,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,130.0
+2019-05-12,2019,gp-de-la-somme,gc,Israel Cycling Academy,1.2,,0,0,,0.0,,,25.0
+2019-09-18,2019,gp-de-wallonie,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,125.0
+2019-09-21,2019,gp-impanis-van-petegem,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,8.0
+2019-03-10,2019,gp-industria-artigianato,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,10.0
+2019-03-10,2019,gp-industria-artigianato,gc,Italy,1.HC,,0,0,,0.0,,,90.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,Israel Cycling Academy,2.1,,0,0,,175.0,,,195.0
+2019-09-01,2019,gp-jef-scherens,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,38.0
+2019-06-09,2019,gp-lugano,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,25.0
+2019-09-15,2019,gp-montreal,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,195.0
+2019-09-13,2019,gp-quebec,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,60.0
+2019-03-05,2019,gp-samyn,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,8.0
+2019-08-20,2019,gp-stad-zottegem,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,54.0
+2019-10-10,2019,gran-piemonte,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,5.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,20.0
+2019-06-26,2019,halle-ingooigem,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2019-10-12,2019,il-lombardia,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,10.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,25.0
+2019-03-03,2019,la-drome-classic,gc,Israel Cycling Academy,1.1,,,1,,0.0,,,3.0
+2019-04-24,2019,la-fleche-wallonne,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,0.0
+2019-04-07,2019,la-roue-tourangelle,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2019-06-20,2019,la-route-d-occitanie,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,0.0
+2019-10-08,2019,memorial-frank-vandenbroucke,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,125.0
+2019-09-21,2019,memorial-marco-pantani,gc,Italy,1.1,,,1,,0.0,,,25.0
+2019-03-23,2019,milano-sanremo,gc,Israel Cycling Academy,1.UWT,,,1,,0.0,,,30.0
+2019-10-03,2019,munsterland-giro,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,5.0
+2019-01-06,2019,nc-australia,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-05-19,2019,nc-austria-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-belgium,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,1.0
+2019-06-28,2019,nc-canada-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-canada2,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-czech-republic2,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-estonia,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-france,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-ireland,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,30.0
+2019-06-29,2019,nc-israel,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,110.0
+2019-06-15,2019,nc-israel-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,25.0
+2019-06-30,2019,nc-italy,gc,Israel Cycling Academy,NC,,,1,,0.0,,,20.0
+2019-06-30,2019,nc-latvia,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,50.0
+2019-06-27,2019,nc-latvia-itt,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-netherlands,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,10.0
+2019-01-06,2019,nc-new-zealand,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-norway,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-sweden,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-switserland,gc,Israel Cycling Academy,NC,,0,0,,0.0,,,0.0
+2019-03-20,2019,nokere-koerse,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,18.0
+2019-08-31,2019,omloop-mandel-leie-schelde-meulebeke,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,103.0
+2019-10-10,2019,paris-bourges,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,85.0
+2019-10-13,2019,paris-tours,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,0.0
+2019-07-25,2019,prueba-villafranca,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,8.0
+2019-04-09,2019,region-pays-de-la-loire,gc,Israel Cycling Academy,2.1,,0,0,,35.0,,,35.0
+2019-08-04,2019,ride-london-classic,gc,Israel Cycling Academy,1.UWT,,0,0,,0.0,,,30.0
+2019-03-17,2019,ronde-van-drenthe,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,5.0
+2019-06-10,2019,ronde-van-limburg,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,35.0
+2019-04-05,2019,route-adelie-de-vitre,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,6.0
+2019-06-02,2019,rund-um-koln,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,75.0
+2019-08-25,2019,schaal-schels,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,25.0
+2019-04-10,2019,scheldeprijs,gc,Israel Cycling Academy,1.HC,,0,0,,0.0,,,8.0
+2019-03-14,2019,tirreno-adriatico,gc,Israel Cycling Academy,2.UWT,,0,0,,10.0,,,35.0
+2019-07-21,2019,tokyo-2020-test-event,gc,Italy,1.2,,0,0,,0.0,,,73.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,0.0
+2019-06-11,2019,tour-de-hongrie,gc,Israel Cycling Academy,2.1,,0,0,,128.0,,,147.0
+2019-06-12,2019,tour-de-korea,gc,Israel Cycling Academy,2.1,,0,0,,88.0,,,105.0
+2019-03-17,2019,tour-de-taiwan,gc,Israel Cycling Academy,2.1,,0,0,,100.0,,,103.0
+2019-07-27,2019,tour-de-wallonie,gc,Israel Cycling Academy,2.HC,,0,0,,5.0,,,25.0
+2019-02-22,2019,tour-des-alpes-maritimes,gc,Israel Cycling Academy,2.1,30.0,0.0,1,,0.0,,,0.0
+2019-04-20,2019,tour-du-finistere,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,5.0
+2019-08-21,2019,tour-du-limousin,gc,Israel Cycling Academy,2.1,5.0,50.0,1,,53.0,,,53.0
+2019-08-27,2019,tour-du-poitou-charentes-et-de-la-vienne,gc,Israel Cycling Academy,2.1,,0,0,,40.0,,,50.0
+2019-02-21,2019,tour-of-antalya,gc,Israel Cycling Academy,2.2,,0,0,,25.0,,,26.0
+2019-07-06,2019,tour-of-austria,gc,Israel Cycling Academy,2.1,,0,0,,125.0,,,144.0
+2019-06-12,2019,tour-of-belgium,gc,Israel Cycling Academy,2.HC,,0,0,,10.0,,,10.0
+2019-09-07,2019,tour-of-britain,gc,Israel Cycling Academy,2.HC,,0,0,,8.0,,,23.0
+2019-05-12,2019,tour-of-california,gc,Israel Cycling Academy,2.UWT,,0,0,,26.0,,,26.0
+2019-10-01,2019,tour-of-croatia,gc,Israel Cycling Academy,2.1,,0,0,,6.0,,,6.0
+2019-08-21,2019,tour-of-denmark,gc,Israel Cycling Academy,2.HC,,0,0,,5.0,,,5.0
+2019-05-23,2019,tour-of-estonia,gc,Israel Cycling Academy,2.1,,0,0,,303.0,,,345.0
+2019-10-17,2019,tour-of-guangxi,gc,Israel Cycling Academy,2.UWT,,0,0,,17.0,,,17.0
+2019-05-28,2019,tour-of-norway,gc,Israel Cycling Academy,2.HC,,0,0,,75.0,,,75.0
+2019-02-24,2019,tour-of-rwanda,gc,Israel Cycling Academy,2.1,,0,0,,76.0,,,96.0
+2019-06-19,2019,tour-of-slovenia,gc,Israel Cycling Academy,2.HC,16.0,5.0,1,,60.0,,,60.0
+2019-10-09,2019,tour-of-taihu-lake,gc,Israel Cycling Academy,2.1,,0,0,,158.0,,,183.0
+2019-04-22,2019,tour-of-the-alps,gc,Italy,2.HC,,0,0,,0.0,,,0.0
+2019-08-12,2019,tour-of-utah,gc,Israel Cycling Academy,2.HC,,0,0,,241.0,,,286.0
+2019-10-08,2019,tre-valli-varesine,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,60.0
+2019-04-22,2019,tro-bro-leon,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,5.0
+2019-02-17,2019,trofeo-laigueglia,gc,Israel Cycling Academy,1.HC,,,1,,0.0,,,65.0
+2019-02-17,2019,trofeo-laigueglia,gc,Italy,1.HC,,0,0,,0.0,,,198.0
+2019-09-22,2019,trofeo-matteotti,gc,Italy,1.1,,,1,,0.0,,,208.0
+2019-02-03,2019,trofeo-palma,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2019-02-01,2019,trofeo-pollenca-port-d-andratx,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,3.0
+2019-01-31,2019,trofeo-ses-salines-felanitx,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,0.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,60.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,360.0
+2019-08-21,2019,veenendaal-veenendaal,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,160.0
+2019-07-31,2019,volta-a-portugal,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,11.0
+2019-04-06,2019,volta-nxt-classic,gc,Israel Cycling Academy,1.1,,0,0,,0.0,,,83.0
+2019-08-13,2019,vuelta-a-burgos,gc,Israel Cycling Academy,2.HC,,0,0,,0.0,,,0.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Israel Cycling Academy,2.1,,0,0,,210.0,,,238.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Israel Cycling Academy,2.1,,0,0,,5.0,,,5.0
+2019-05-03,2019,vuelta-asturias,gc,Israel Cycling Academy,2.1,,0,0,,85.0,,,88.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Israel Cycling Academy,2.1,,0,0,,0.0,,,0.0
+2019-09-29,2019,world-championship,gc,Italy,WC,,0,0,,0.0,,,905.0
+2019-09-25,2019,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,210.0
+2020-09-13,2020,antwerp-port-epic,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,194.0
+2020-10-07,2020,brabantse-pijl,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,158.0
+2020-08-25,2020,bretagne-classic,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,90.0
+2020-08-30,2020,brussels-cycling-classic,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,200.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,297.0
+2020-08-07,2020,czech-tour,gc,Alpecin - Fenix,2.1,,0,0,,53.0,,,58.0
+2020-08-23,2020,danish-championships,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2020-08-29,2020,druivenkoers-overijse,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,201.0
+2020-08-15,2020,dwars-door-het-hageland,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,410.0
+2020-02-05,2020,etoile-de-besseges,gc,Alpecin - Fenix,2.1,,0,0,,28.0,,,42.0
+2020-10-11,2020,gent-wevelgem,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,153.0
+2020-08-18,2020,giro-dell-emilia,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,45.0
+2020-09-20,2020,gooikse-pijl,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,15.0
+2020-09-20,2020,gp-d-isbergues,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,35.0
+2020-03-03,2020,gp-samyn,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,35.0
+2020-08-12,2020,gran-piemonte,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,128.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,95.0
+2020-08-15,2020,il-lombardia,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,110.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,5.0
+2020-09-30,2020,la-fleche-wallonne,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,50.0
+2020-10-04,2020,liege-bastogne-liege,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,210.0
+2020-08-08,2020,milano-sanremo,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,70.0
+2020-08-05,2020,milano-torino,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,25.0
+2020-09-22,2020,nc-belgium,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,103.0
+2020-08-20,2020,nc-belgium-itt,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,3.0
+2020-08-22,2020,nc-czech-republic2,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,60.0
+2020-08-23,2020,nc-france,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-germany,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,160.0
+2020-08-23,2020,nc-italy,gc,Alpecin - Fenix,NC,,,1,,0.0,,,40.0
+2020-08-23,2020,nc-netherlands,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,100.0
+2020-02-16,2020,nc-new-zealand,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,17.0
+2020-09-27,2020,paris-chauny-classique,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,85.0
+2020-10-11,2020,paris-tours,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,98.0
+2020-09-29,2020,renewi-tour,gc,Alpecin - Fenix,2.UWT,,0,0,,472.0,,,522.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,515.0
+2020-02-19,2020,ruta-del-sol,gc,Alpecin - Fenix,2.Pro,,0,0,,9.0,,,9.0
+2020-10-14,2020,scheldeprijs,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,100.0
+2020-08-01,2020,strade-bianche,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,20.0
+2020-09-07,2020,tirreno-adriatico,gc,Alpecin - Fenix,2.UWT,96.0,0.0,1,,40.0,,,160.0
+2020-08-12,2020,tour-bitwa-warszawska-1920,gc,Alpecin - Fenix,2.2,,0,0,,70.0,,,87.0
+2020-08-29,2020,tour-de-hongrie,gc,Alpecin - Fenix,2.1,,0,0,,0.0,,,3.0
+2020-09-15,2020,tour-de-luxembourg,gc,Alpecin - Fenix,2.Pro,,0,0,,105.0,,,110.0
+2020-08-16,2020,tour-de-wallonie,gc,Alpecin - Fenix,2.Pro,,0,0,,8.0,,,13.0
+2020-09-06,2020,tour-du-doubs,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,60.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Alpecin - Fenix,2.1,,0,0,,13.0,,,19.0
+2020-02-20,2020,tour-of-antalya,gc,Alpecin - Fenix,2.1,,0,0,,113.0,,,132.0
+2020-02-19,2020,volta-ao-algarve,gc,Alpecin - Fenix,2.Pro,35.0,3.0,1,,3.0,,,13.0
+2021-06-15,2021,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,28.0
+2021-04-18,2021,amstel-gold-race,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,190.0
+2021-09-12,2021,antwerp-port-epic,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,225.0
+2021-08-05,2021,arctic-race-of-norway,gc,Alpecin - Fenix,2.Pro,,0,0,,10.0,,,30.0
+2021-05-27,2021,boucles-de-la-mayenne,gc,Alpecin - Fenix,2.Pro,,0,0,,195.0,,,215.0
+2021-04-14,2021,brabantse-pijl,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,83.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,210.0
+2021-08-28,2021,brussels-cycling-classic,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,65.0
+2021-05-13,2021,circuit-de-wallonie,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,5.0
+2021-06-06,2021,circuit-des-xi-villes,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,128.0
+2021-09-29,2021,circuit-franco-belge,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,35.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,260.0
+2021-10-02,2021,classic-loire-atlantique,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,6.0
+2021-10-11,2021,coppa-agostoni,gc,Alpecin - Fenix,1.1,,,1,,0.0,,,76.0
+2021-10-11,2021,coppa-agostoni,gc,Italy,1.1,,0,0,,0.0,,,3.0
+2021-08-26,2021,deutschland-tour,gc,Alpecin - Fenix,2.Pro,,0,0,,56.0,,,56.0
+2021-08-26,2021,druivenkoers-overijse,gc,Alpecin - Fenix,1.1,,,1,,0.0,,,43.0
+2021-06-05,2021,dwars-door-het-hageland,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,145.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,218.0
+2021-03-26,2021,e3-harelbeke,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,344.0
+2021-09-19,2021,eschborn-frankfurt,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,310.0
+2021-02-03,2021,etoile-de-besseges,gc,Alpecin - Fenix,2.1,,0,0,,0.0,,,0.0
+2021-02-27,2021,faun-ardeche-classic,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,20.0
+2021-03-28,2021,gent-wevelgem,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,125.0
+2021-05-08,2021,giro-d-italia,gc,Alpecin - Fenix,2.UWT,,0,0,,40.0,0.0,0.0,228.0
+2021-05-08,2021,giro-d-italia,kom,Alpecin - Fenix,2.UWT,,0,0,,40.0,0.0,0.0,228.0
+2021-05-08,2021,giro-d-italia,points,Alpecin - Fenix,2.UWT,,0,0,,40.0,0.0,0.0,228.0
+2021-07-04,2021,giro-del-medio-brenta,gc,Italy,1.2,,0,0,,0.0,,,0.0
+2021-10-13,2021,giro-del-veneto,gc,Alpecin - Fenix,1.1,,,1,,0.0,,,133.0
+2021-10-13,2021,giro-del-veneto,gc,Italy,1.1,,0,0,,0.0,,,70.0
+2021-06-24,2021,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2021-09-15,2021,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,85.0
+2021-09-19,2021,gooikse-pijl,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,33.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Italy,1.Pro,,,1,,0.0,,,108.0
+2021-09-19,2021,gp-d-isbergues,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,85.0
+2021-09-21,2021,gp-de-denain,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,200.0
+2021-09-12,2021,gp-de-fourmies,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,11.0
+2021-09-15,2021,gp-de-wallonie,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,98.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,55.0
+2021-03-07,2021,gp-industria-artigianato,gc,Italy,1.Pro,,0,0,,0.0,,,0.0
+2021-08-15,2021,gp-jef-scherens,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,105.0
+2021-03-02,2021,gp-samyn,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,125.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,128.0
+2021-08-20,2021,grote-prijs-marcel-kint,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,91.0
+2021-07-31,2021,heist-op-den-berg,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,100.0
+2021-10-09,2021,il-lombardia,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,30.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,130.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,28.0
+2021-02-28,2021,la-drome-classic,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,38.0
+2021-04-21,2021,la-fleche-wallonne,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,72.0
+2021-04-25,2021,liege-bastogne-liege,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,10.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,76.0
+2021-09-18,2021,memorial-marco-pantani,gc,Italy,1.1,,,1,,0.0,,,43.0
+2021-03-20,2021,milano-sanremo,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,248.0
+2021-10-03,2021,munsterland-giro,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,36.0
+2021-06-20,2021,nc-austria2,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-belgium,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,30.0
+2021-06-16,2021,nc-belgium-itt,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-czech-republic2,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,Alpecin - Fenix,NC,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-netherlands,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,60.0
+2021-06-20,2021,nc-switserland,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,100.0
+2021-10-17,2021,ncgreat-britain,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,30.0
+2021-03-17,2021,nokere-koerse,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,6.0
+2021-07-24,2021,olympic-games,gc,Italy,Olympics,,0,0,,0.0,,,108.0
+2021-07-28,2021,olympic-games-itt,gc,Italy,Olympics,,0,0,,0.0,,,165.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,45.0
+2021-09-23,2021,omloop-van-het-houtland-lichtervelde,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,3.0
+2021-10-07,2021,paris-bourges,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,18.0
+2021-06-15,2021,paris-camembert,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,40.0
+2021-09-26,2021,paris-chauny-classique,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,128.0
+2021-03-07,2021,paris-nice,gc,Alpecin - Fenix,2.UWT,40.0,10.0,1,,10.0,,,10.0
+2021-10-03,2021,paris-roubaix,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,400.0
+2021-10-10,2021,paris-tours,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,36.0
+2021-03-21,2021,per-sempre-alfredo,gc,Italy,1.1,,0,0,,0.0,,,150.0
+2021-08-30,2021,renewi-tour,gc,Alpecin - Fenix,2.UWT,,0,0,,58.0,,,158.0
+2021-05-24,2021,ronde-van-limburg,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,125.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,560.0
+2021-10-01,2021,route-adelie-de-vitre,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,18.0
+2021-05-18,2021,ruta-del-sol,gc,Alpecin - Fenix,2.Pro,,0,0,,5.0,,,15.0
+2021-04-07,2021,scheldeprijs,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,225.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Italy,2.1,,0,0,,0.0,,,5.0
+2021-03-06,2021,strade-bianche,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,345.0
+2021-03-10,2021,tirreno-adriatico,gc,Alpecin - Fenix,2.UWT,,0,0,,10.0,,,155.0
+2021-06-26,2021,tour-de-france,gc,Alpecin - Fenix,2.UWT,106.0,0.0,1,,40.0,0.0,0.0,525.0
+2021-06-26,2021,tour-de-france,kom,Alpecin - Fenix,2.UWT,36.0,0.0,1,,40.0,0.0,0.0,525.0
+2021-06-26,2021,tour-de-france,points,Alpecin - Fenix,2.UWT,98.0,0.0,1,,40.0,0.0,0.0,525.0
+2021-07-29,2021,tour-de-l-ain,gc,Alpecin - Fenix,2.1,,0,0,,5.0,,,5.0
+2021-09-14,2021,tour-de-luxembourg,gc,Alpecin - Fenix,2.Pro,,0,0,,5.0,,,25.0
+2021-08-09,2021,tour-de-pologne,gc,Alpecin - Fenix,2.UWT,29.0,16.0,1,,132.0,,,132.0
+2021-06-06,2021,tour-de-suisse,gc,Alpecin - Fenix,2.UWT,,0,0,,43.0,,,163.0
+2021-10-09,2021,tour-de-vendee,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,70.0
+2021-07-20,2021,tour-de-wallonie,gc,Alpecin - Fenix,2.Pro,,0,0,,3.0,,,8.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Alpecin - Fenix,2.1,,0,0,,6.0,,,6.0
+2021-08-17,2021,tour-du-limousin,gc,Alpecin - Fenix,2.1,,0,0,,0.0,,,0.0
+2021-06-09,2021,tour-of-belgium,gc,Alpecin - Fenix,2.Pro,24.0,5.0,1,,63.0,,,73.0
+2021-09-05,2021,tour-of-britain,gc,Alpecin - Fenix,2.Pro,8.0,50.0,1,,83.0,,,83.0
+2021-04-11,2021,tour-of-turkey,gc,Alpecin - Fenix,2.Pro,,0,0,,150.0,,,240.0
+2021-05-16,2021,tro-bro-leon,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,5.0
+2021-09-19,2021,trofeo-matteotti,gc,Italy,1.1,,,1,,0.0,,,45.0
+2021-02-21,2021,uae-tour,gc,Alpecin - Fenix,2.UWT,,,1,,0.0,,,40.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,75.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,400.0
+2021-10-17,2021,veneto-classic,gc,Italy,1.1,,0,0,,0.0,,,35.0
+2021-08-03,2021,vuelta-a-burgos,gc,Alpecin - Fenix,2.Pro,,0,0,,15.0,,,35.0
+2021-08-14,2021,vuelta-a-espana,gc,Alpecin - Fenix,2.UWT,,0,0,,16.0,0.0,0.0,256.0
+2021-08-14,2021,vuelta-a-espana,kom,Alpecin - Fenix,2.UWT,,0,0,,16.0,0.0,0.0,256.0
+2021-08-14,2021,vuelta-a-espana,points,Alpecin - Fenix,2.UWT,,0,0,,16.0,0.0,0.0,256.0
+2021-09-26,2021,world-championship,gc,Italy,WC,,0,0,,0.0,,,163.0
+2021-09-19,2021,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,410.0
+2022-05-03,2022,4-jours-de-dunkerque,gc,Alpecin - Fenix,2.Pro,,0,0,,28.0,,,68.0
+2022-06-04,2022,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,42.0
+2022-02-01,2022,alula-tour,gc,Alpecin - Fenix,2.1,,0,0,,6.0,,,6.0
+2022-04-10,2022,amstel-gold-race,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,285.0
+2022-05-22,2022,antwerp-port-epic,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,143.0
+2022-08-11,2022,arctic-race-of-norway,gc,Alpecin - Deceuninck,2.Pro,25.0,5.0,1,,173.0,,,183.0
+2022-04-13,2022,brabantse-pijl,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,38.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,130.0
+2022-06-05,2022,brussels-cycling-classic,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,136.0
+2022-05-26,2022,circuit-de-wallonie,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,35.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,70.0
+2022-08-10,2022,circuit-franco-belge,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,5.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,300.0
+2022-09-29,2022,coppa-agostoni,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,148.0
+2022-10-03,2022,coppa-bernocchi,gc,Alpecin - Deceuninck,1.Pro,,,1,,0.0,,,200.0
+2022-08-21,2022,cyclassics-hamburg,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,140.0
+2022-08-24,2022,deutschland-tour,gc,Alpecin - Deceuninck,2.Pro,,0,0,,0.0,,,0.0
+2022-08-24,2022,druivenkoers-overijse,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,63.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,360.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,329.0
+2022-03-25,2022,e3-harelbeke,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,80.0
+2022-05-01,2022,eschborn-frankfurt,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,52.0
+2022-02-02,2022,etoile-de-besseges,gc,Alpecin - Fenix,2.1,80.0,0.0,1,,0.0,,,5.0
+2022-10-02,2022,famenne-ardenne-classic,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,48.0
+2022-02-26,2022,faun-ardeche-classic,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,5.0
+2022-03-27,2022,gent-wevelgem,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,208.0
+2022-05-06,2022,giro-d-italia,gc,Alpecin - Fenix,2.UWT,,0,0,,8.0,0.0,0.0,412.0
+2022-05-06,2022,giro-d-italia,kom,Alpecin - Fenix,2.UWT,,0,0,,8.0,0.0,0.0,412.0
+2022-05-06,2022,giro-d-italia,points,Alpecin - Fenix,2.UWT,,0,0,,8.0,0.0,0.0,412.0
+2022-10-12,2022,giro-del-veneto,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,43.0
+2022-10-01,2022,giro-dell-emilia,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,5.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Italy,2.2,,0,0,,25.0,,,25.0
+2022-04-12,2022,giro-di-sicilia,gc,Italy,2.1,,0,0,,171.0,,,213.0
+2022-09-18,2022,gooikse-pijl,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,85.0
+2022-09-18,2022,gp-d-isbergues,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,6.0
+2022-03-17,2022,gp-de-denain,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,153.0
+2022-09-11,2022,gp-de-fourmies,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,130.0
+2022-09-14,2022,gp-de-wallonie,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,275.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,53.0
+2022-03-27,2022,gp-industria-artigianato,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,130.0
+2022-03-27,2022,gp-industria-artigianato,gc,Italy,1.Pro,,0,0,,0.0,,,245.0
+2022-08-07,2022,gp-jef-scherens,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,36.0
+2022-03-01,2022,gp-samyn,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,70.0
+2022-08-23,2022,gp-stad-zottegem,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,25.0
+2022-10-06,2022,gran-piemonte,gc,Alpecin - Deceuninck,1.Pro,,,1,,0.0,,,20.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,88.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,38.0
+2022-06-04,2022,heist-op-den-berg,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,23.0
+2022-10-08,2022,il-lombardia,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,20.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,40.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,30.0
+2022-02-27,2022,la-drome-classic,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,65.0
+2022-04-20,2022,la-fleche-wallonne,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,16.0
+2022-04-24,2022,liege-bastogne-liege,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,43.0
+2022-06-30,2022,mediterranean-games-itt,gc,Italy,JR,,0,0,,0.0,,,0.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,5.0
+2022-10-09,2022,memorial-rik-van-steenbergen,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,125.0
+2022-07-02,2022,mersin-mediterranean-games,gc,Italy,JR,,0,0,,0.0,,,0.0
+2022-03-19,2022,milano-sanremo,gc,Alpecin - Fenix,1.UWT,,,1,,0.0,,,345.0
+2022-03-16,2022,milano-torino,gc,Alpecin - Fenix,1.Pro,,,1,,0.0,,,18.0
+2022-10-03,2022,munsterland-giro,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,161.0
+2022-06-23,2022,nc-austria-itt,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,10.0
+2022-06-26,2022,nc-austria2,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,10.0
+2022-06-26,2022,nc-belgium,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,160.0
+2022-06-23,2022,nc-belgium-itt,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-germany,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-italy,gc,Alpecin - Fenix,NC,,,1,,0.0,,,0.0
+2022-06-24,2022,nc-netherlands,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-switserland,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,ncgreat-britain,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,3.0
+2022-03-16,2022,nokere-koerse,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,203.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,8.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,125.0
+2022-10-06,2022,paris-bourges,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,125.0
+2022-04-12,2022,paris-camembert,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,53.0
+2022-09-25,2022,paris-chauny-classique,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,0.0
+2022-03-06,2022,paris-nice,gc,Alpecin - Fenix,2.UWT,,,1,,23.0,,,23.0
+2022-04-17,2022,paris-roubaix,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,133.0
+2022-10-09,2022,paris-tours,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,5.0
+2022-03-20,2022,per-sempre-alfredo,gc,Italy,1.1,,,1,,0.0,,,94.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Alpecin - Fenix,2.1,,0,0,,70.0,,,75.0
+2022-03-13,2022,ronde-van-drenthe,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,36.0
+2022-06-06,2022,ronde-van-limburg,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,23.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,510.0
+2022-05-22,2022,rund-um-koln,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,46.0
+2022-02-16,2022,ruta-del-sol,gc,Alpecin - Fenix,2.Pro,,0,0,,5.0,,,5.0
+2022-08-21,2022,schaal-schels,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,5.0
+2022-04-06,2022,scheldeprijs,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,95.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Alpecin - Fenix,2.1,43.0,0.0,1,,5.0,,,19.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Italy,2.1,,0,0,,30.0,,,30.0
+2022-03-05,2022,strade-bianche,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,52.0
+2022-03-07,2022,tirreno-adriatico,gc,Alpecin - Fenix,2.UWT,,0,0,,10.0,,,95.0
+2022-07-01,2022,tour-de-france,gc,Alpecin - Deceuninck,2.UWT,70.0,0.0,1,,10.0,0.0,50.0,385.0
+2022-07-01,2022,tour-de-france,kom,Alpecin - Deceuninck,2.UWT,,,1,,10.0,0.0,50.0,385.0
+2022-07-01,2022,tour-de-france,points,Alpecin - Deceuninck,2.UWT,,,1,,10.0,0.0,50.0,385.0
+2022-05-11,2022,tour-de-hongrie,gc,Alpecin - Fenix,2.1,,0,0,,18.0,,,18.0
+2022-10-11,2022,tour-de-langkawi,gc,Alpecin - Deceuninck,2.Pro,,0,0,,20.0,,,70.0
+2022-09-13,2022,tour-de-luxembourg,gc,Alpecin - Deceuninck,2.Pro,24.0,5.0,1,,113.0,,,123.0
+2022-07-30,2022,tour-de-pologne,gc,Alpecin - Deceuninck,2.UWT,,0,0,,0.0,,,0.0
+2022-06-12,2022,tour-de-suisse,gc,Alpecin - Fenix,2.UWT,,0,0,,0.0,,,0.0
+2022-07-23,2022,tour-de-wallonie,gc,Alpecin - Deceuninck,2.Pro,,0,0,,5.0,,,5.0
+2022-02-10,2022,tour-of-antalya,gc,Alpecin - Fenix,2.1,,0,0,,3.0,,,22.0
+2022-06-15,2022,tour-of-belgium,gc,Alpecin - Fenix,2.Pro,,0,0,,160.0,,,195.0
+2022-08-16,2022,tour-of-denmark,gc,Alpecin - Deceuninck,2.Pro,,0,0,,58.0,,,88.0
+2022-05-24,2022,tour-of-norway,gc,Alpecin - Fenix,2.Pro,,0,0,,156.0,,,166.0
+2022-06-15,2022,tour-of-slovenia,gc,Alpecin - Fenix,2.Pro,22.0,5.0,1,,75.0,,,90.0
+2022-04-10,2022,tour-of-turkey,gc,Alpecin - Fenix,2.Pro,,0,0,,153.0,,,223.0
+2022-10-04,2022,tre-valli-varesine,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,6.0
+2022-03-02,2022,trofeo-laigueglia,gc,Italy,1.Pro,,0,0,,0.0,,,3.0
+2022-02-20,2022,uae-tour,gc,Alpecin - Fenix,2.UWT,46.0,5.0,1,,10.0,,,105.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,40.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,120.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,90.0
+2022-10-16,2022,veneto-classic,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,136.0
+2022-02-16,2022,volta-ao-algarve,gc,Alpecin - Fenix,2.Pro,,0,0,,10.0,,,20.0
+2022-04-02,2022,volta-nxt-classic,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,115.0
+2022-08-20,2022,vuelta-a-espana,gc,Alpecin - Deceuninck,2.UWT,,0,0,,20.0,40.0,0.0,312.0
+2022-08-20,2022,vuelta-a-espana,kom,Alpecin - Deceuninck,2.UWT,,0,0,,20.0,40.0,0.0,312.0
+2022-08-20,2022,vuelta-a-espana,points,Alpecin - Deceuninck,2.UWT,,0,0,,20.0,40.0,0.0,312.0
+2022-09-25,2022,world-championship,gc,Italy,WC,,0,0,,0.0,,,505.0
+2022-09-18,2022,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,125.0
+2022-06-08,2022,zlm-tour,gc,Alpecin - Fenix,2.Pro,,0,0,,156.0,,,186.0
+2023-04-16,2023,amstel-gold-race,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,50.0
+2023-05-21,2023,antwerp-port-epic,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,286.0
+2023-04-12,2023,brabantse-pijl,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,38.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,190.0
+2023-09-03,2023,bretagne-classic,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,8.0
+2023-06-04,2023,brussels-cycling-classic,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,15.0
+2023-05-18,2023,circuit-de-wallonie,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,155.0
+2023-04-06,2023,circuit-des-ardennes,gc,Italy,2.2,,0,0,,0.0,,,1.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,155.0
+2023-09-28,2023,circuit-franco-belge,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,5.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,442.0
+2023-09-28,2023,coppa-agostoni,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,30.0
+2023-08-20,2023,cyclassics-hamburg,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,40.0
+2023-06-25,2023,danish-championships,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,30.0
+2023-08-23,2023,deutschland-tour,gc,Alpecin - Deceuninck,2.Pro,,0,0,,55.0,,,65.0
+2023-08-19,2023,druivenkoers-overijse,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,93.0
+2023-06-10,2023,dwars-door-het-hageland,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,30.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,193.0
+2023-03-24,2023,e3-harelbeke,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,410.0
+2023-10-04,2023,elfsteden-race,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,175.0
+2023-05-01,2023,eschborn-frankfurt,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,324.0
+2023-02-01,2023,etoile-de-besseges,gc,Alpecin - Deceuninck,2.1,,0,0,,3.0,,,3.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,85.0
+2023-02-12,2023,figueira-champions-classic,gc,Alpecin - Deceuninck,1.1,,,1,,0.0,,,31.0
+2023-03-26,2023,gent-wevelgem,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,20.0
+2023-05-06,2023,giro-d-italia,gc,Alpecin - Deceuninck,2.UWT,84.0,0.0,1,,20.0,0.0,0.0,844.0
+2023-05-06,2023,giro-d-italia,kom,Alpecin - Deceuninck,2.UWT,,,1,,20.0,0.0,0.0,844.0
+2023-05-06,2023,giro-d-italia,points,Alpecin - Deceuninck,2.UWT,,,1,,20.0,0.0,0.0,844.0
+2023-10-11,2023,giro-del-veneto,gc,Alpecin - Deceuninck,1.Pro,,,1,,0.0,,,13.0
+2023-09-30,2023,giro-dell-emilia,gc,Alpecin - Deceuninck,1.Pro,,,1,,0.0,,,0.0
+2023-04-16,2023,giro-di-reggio-calabria,gc,Italy,1.1,,0,0,,0.0,,,38.0
+2023-04-11,2023,giro-di-sicilia,gc,Italy,2.1,,0,0,,0.0,,,3.0
+2023-09-17,2023,gooikse-pijl,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,128.0
+2023-09-17,2023,gp-d-isbergues,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,33.0
+2023-01-29,2023,gp-d-ouverture,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,15.0
+2023-03-16,2023,gp-de-denain,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,125.0
+2023-09-10,2023,gp-de-fourmies,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,0.0
+2023-09-13,2023,gp-de-wallonie,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,105.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,275.0
+2023-08-15,2023,gp-jef-scherens,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,90.0
+2023-09-10,2023,gp-montreal,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,30.0
+2023-09-08,2023,gp-quebec,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,125.0
+2023-02-28,2023,gp-samyn,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,40.0
+2023-08-20,2023,gp-stad-zottegem,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,153.0
+2023-10-05,2023,gran-piemonte,gc,Alpecin - Deceuninck,1.Pro,,,1,,0.0,,,11.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,0.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,43.0
+2023-06-03,2023,heist-op-den-berg,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,73.0
+2023-10-07,2023,il-lombardia,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,45.0
+2023-04-03,2023,itzulia-basque-country,gc,Alpecin - Deceuninck,2.UWT,,0,0,,4.0,,,12.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,140.0
+2023-07-28,2023,kreiz-breizh-elites,gc,Italy,2.2,,0,0,,5.0,,,5.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,15.0
+2023-04-19,2023,la-fleche-wallonne,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,48.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Italy,2.2,,0,0,,3.0,,,4.0
+2023-04-23,2023,liege-bastogne-liege,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,15.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,70.0
+2023-09-16,2023,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,0.0
+2023-03-18,2023,milano-sanremo,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,1215.0
+2023-10-03,2023,munsterland-giro,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,196.0
+2023-01-08,2023,nc-australia,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,-2.0
+2023-06-24,2023,nc-austria-itt,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-austria2,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-belgium,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-belgium-itt,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,4.0
+2023-06-25,2023,nc-germany,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,1.0
+2023-06-23,2023,nc-germany-itt,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Alpecin - Deceuninck,NC,,,1,,0.0,,,61.0
+2023-06-25,2023,nc-netherlands,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,60.0
+2023-06-25,2023,nc-switserland,gc,Alpecin - Deceuninck,NC,,0,0,,0.0,,,20.0
+2023-03-15,2023,nokere-koerse,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,100.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,10.0
+2023-09-20,2023,omloop-van-het-houtland-lichtervelde,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,45.0
+2023-10-05,2023,paris-bourges,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,53.0
+2023-09-24,2023,paris-chauny-classique,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,128.0
+2023-03-05,2023,paris-nice,gc,Alpecin - Deceuninck,2.UWT,,0,0,,10.0,,,35.0
+2023-04-09,2023,paris-roubaix,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,1595.0
+2023-10-08,2023,paris-tours,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,8.0
+2023-08-23,2023,renewi-tour,gc,Alpecin - Deceuninck,2.UWT,,0,0,,76.0,,,184.0
+2023-03-12,2023,ronde-van-drenthe,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,3.0
+2023-05-29,2023,ronde-van-limburg,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,50.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,680.0
+2023-05-21,2023,rund-um-koln,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,53.0
+2023-02-15,2023,ruta-del-sol,gc,Alpecin - Deceuninck,2.Pro,,0,0,,3.0,,,3.0
+2023-07-29,2023,san-sebastian,gc,Alpecin - Deceuninck,1.UWT,,,1,,0.0,,,28.0
+2023-04-05,2023,scheldeprijs,gc,Alpecin - Deceuninck,1.Pro,,0,0,,0.0,,,203.0
+2023-03-04,2023,strade-bianche,gc,Alpecin - Deceuninck,1.UWT,,0,0,,0.0,,,48.0
+2023-03-06,2023,tirreno-adriatico,gc,Alpecin - Deceuninck,2.UWT,,0,0,,15.0,,,175.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Alpecin - Deceuninck,2.UWT,,0,0,,13.0,,,48.0
+2023-05-04,2023,tour-de-catamarca-internacional,gc,Italy,2.2,,0,0,,0.0,,,14.0
+2023-07-01,2023,tour-de-france,gc,Alpecin - Deceuninck,2.UWT,,0,0,,15.0,0.0,210.0,1330.0
+2023-07-01,2023,tour-de-france,kom,Alpecin - Deceuninck,2.UWT,,0,0,,15.0,0.0,210.0,1330.0
+2023-07-01,2023,tour-de-france,points,Alpecin - Deceuninck,2.UWT,,0,0,,15.0,0.0,210.0,1330.0
+2023-05-10,2023,tour-de-hongrie,gc,Alpecin - Deceuninck,2.Pro,,0,0,,8.0,,,8.0
+2023-09-20,2023,tour-de-luxembourg,gc,Alpecin - Deceuninck,2.Pro,,0,0,,73.0,,,103.0
+2023-07-29,2023,tour-de-pologne,gc,Alpecin - Deceuninck,2.UWT,,0,0,,16.0,,,32.0
+2023-04-25,2023,tour-de-romandie,gc,Alpecin - Deceuninck,2.UWT,109.0,0.0,1,,10.0,,,12.0
+2023-06-11,2023,tour-de-suisse,gc,Alpecin - Deceuninck,2.UWT,64.0,0.0,1,,20.0,,,20.0
+2023-07-22,2023,tour-de-wallonie,gc,Alpecin - Deceuninck,2.Pro,30.0,5.0,1,,110.0,,,148.0
+2023-01-17,2023,tour-down-under,gc,Alpecin - Deceuninck,2.UWT,,0,0,,13.0,,,63.0
+2023-07-02,2023,tour-of-austria,gc,Alpecin - Deceuninck,2.1,,0,0,,121.0,,,129.0
+2023-06-14,2023,tour-of-belgium,gc,Alpecin - Deceuninck,2.Pro,,0,0,,210.0,,,285.0
+2023-08-15,2023,tour-of-denmark,gc,Alpecin - Deceuninck,2.Pro,20.0,5.0,1,,43.0,,,61.0
+2023-10-12,2023,tour-of-guangxi,gc,Alpecin - Deceuninck,2.UWT,,0,0,,14.0,,,34.0
+2023-05-26,2023,tour-of-norway,gc,Alpecin - Deceuninck,2.Pro,,0,0,,18.0,,,33.0
+2023-10-08,2023,tour-of-turkey,gc,Alpecin - Deceuninck,2.1,,0,0,,25.0,,,86.0
+2023-10-03,2023,tre-valli-varesine,gc,Alpecin - Deceuninck,1.Pro,,,1,,0.0,,,15.0
+2023-09-17,2023,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,88.0
+2023-02-20,2023,uae-tour,gc,Alpecin - Deceuninck,2.UWT,,0,0,,12.0,,,12.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,25.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,30.0
+2023-05-20,2023,veenendaal-veenendaal,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,75.0
+2023-10-15,2023,veneto-classic,gc,Alpecin - Deceuninck,1.Pro,,,1,,0.0,,,53.0
+2023-03-20,2023,volta-a-catalunya,gc,Alpecin - Deceuninck,2.UWT,,,1,,2.0,,,102.0
+2023-02-15,2023,volta-ao-algarve,gc,Alpecin - Deceuninck,2.Pro,49.0,0.0,1,,8.0,,,8.0
+2023-04-01,2023,volta-nxt-classic,gc,Alpecin - Deceuninck,1.1,,0,0,,0.0,,,128.0
+2023-08-27,2023,vuelta-a-espana,gc,Alpecin - Deceuninck,2.UWT,,0,0,,0.0,0.0,180.0,945.0
+2023-08-27,2023,vuelta-a-espana,kom,Alpecin - Deceuninck,2.UWT,,0,0,,0.0,0.0,180.0,945.0
+2023-08-27,2023,vuelta-a-espana,points,Alpecin - Deceuninck,2.UWT,,0,0,,0.0,0.0,180.0,945.0
+2023-05-11,2023,vuelta-a-formosa-internacional,gc,Italy,2.2,,0,0,,18.0,,,24.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.Pro,,0,0,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Italy,WC,,,1,,0.0,,,240.0
+2023-08-11,2023,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,415.0
+2023-06-07,2023,zlm-tour,gc,Alpecin - Deceuninck,2.Pro,,0,0,,71.0,,,126.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,40.0
+2024-02-16,2024,classic-var,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2024-10-06,2024,coppa-agostoni,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,3.0
+2024-10-07,2024,coppa-bernocchi,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2024-10-01,2024,coppa-citta-di-san-daniele2,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,0.0
+2024-08-04,2024,cupa-max-ausnit,gc,Team Corratec - Vini Fantini,1.2,,,1,,0.0,,,50.0
+2024-07-25,2024,czech-tour,gc,Team Corratec - Vini Fantini,2.1,,0,0,,6.0,,,6.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,40.0
+2024-02-01,2024,etoile-de-besseges,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,Team Corratec - Vini Fantini,2.1,,0,0,,15.0,,,15.0
+2024-07-07,2024,giro-del-medio-brenta,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,3.0
+2024-10-16,2024,giro-del-veneto,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2024-07-14,2024,giro-dell-appennino,gc,Team Corratec - Vini Fantini,1.1,,0,0,,0.0,,,21.0
+2024-10-05,2024,giro-dell-emilia,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2024-04-21,2024,giro-di-romagna,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,5.0
+2024-09-11,2024,giro-di-toscana,gc,Team Corratec - Vini Fantini,1.1,,0,0,,0.0,,,8.0
+2024-03-24,2024,gp-adria-mobil,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,30.0
+2024-09-28,2024,gp-cerami,gc,Team Corratec - Vini Fantini,1.2,,,1,,0.0,,,3.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,103.0
+2024-01-28,2024,gp-d-ouverture,gc,Team Corratec - Vini Fantini,1.1,,0,0,,0.0,,,15.0
+2024-09-08,2024,gp-de-fourmies,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,8.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,0.0
+2024-09-08,2024,gp-industria-artigianato,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,6.0
+2024-09-01,2024,gp-kranj,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,28.0
+2024-05-01,2024,gp-vorarlberg,gc,Team Corratec - Vini Fantini,1.2,,,1,,0.0,,,33.0
+2024-10-10,2024,gran-piemonte,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2024-05-19,2024,gran-premio-new-york-city,gc,Team Corratec - Vini Fantini,1.2,,,1,,0.0,,,10.0
+2024-10-12,2024,il-lombardia,gc,Team Corratec - Vini Fantini,1.UWT,,0,0,,0.0,,,0.0
+2024-03-07,2024,istrian-spring-tour,gc,Team Corratec - Vini Fantini,2.2,,0,0,,0.0,,,0.0
+2024-09-14,2024,memorial-marco-pantani,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,15.0
+2024-03-16,2024,milano-sanremo,gc,Team Corratec - Vini Fantini,1.UWT,,,1,,0.0,,,0.0
+2024-03-13,2024,milano-torino,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,5.0
+2024-06-23,2024,nc-italy,gc,Team Corratec - Vini Fantini,NC,,,1,,0.0,,,0.0
+2024-06-20,2024,nc-italy-itt,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-netherlands,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-switserland,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,2.0
+2024-06-20,2024,nc-switzerland-itt,gc,Team Corratec - Vini Fantini,NC,,0,0,,0.0,,,0.0
+2024-06-27,2024,okolo-slovenska,gc,Team Corratec - Vini Fantini,2.1,35.0,0.0,1,,0.0,,,5.0
+2024-09-22,2024,paris-chauny-classique,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,3.0
+2024-03-03,2024,porec-trophy,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,13.0
+2024-04-02,2024,region-pays-de-la-loire,gc,Team Corratec - Vini Fantini,2.1,10.0,20.0,1,,20.0,,,20.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,Team Corratec - Vini Fantini,2.1,38.0,0.0,1,,0.0,,,0.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Team Corratec - Vini Fantini,2.1,,0,0,,8.0,,,8.0
+2024-03-02,2024,strade-bianche,gc,Team Corratec - Vini Fantini,1.UWT,,,1,,0.0,,,4.0
+2024-03-04,2024,tirreno-adriatico,gc,Team Corratec - Vini Fantini,2.UWT,,,1,,0.0,,,0.0
+2024-02-09,2024,tour-cycliste-international-la-provence,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2024-05-08,2024,tour-de-hongrie,gc,Team Corratec - Vini Fantini,2.Pro,32.0,3.0,1,,3.0,,,13.0
+2024-10-12,2024,tour-de-kyushu,gc,Team Corratec - Vini Fantini,2.1,9.0,25.0,1,,48.0,,,48.0
+2024-09-29,2024,tour-de-langkawi,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,25.0,,,30.0
+2024-04-23,2024,tour-de-romandie,gc,Team Corratec - Vini Fantini,2.UWT,,0,0,,0.0,,,0.0
+2024-06-09,2024,tour-de-suisse,gc,Team Corratec - Vini Fantini,2.UWT,,0,0,,0.0,,,0.0
+2024-03-10,2024,tour-de-taiwan,gc,Team Corratec - Vini Fantini,2.1,,0,0,,50.0,,,58.0
+2024-02-17,2024,tour-des-alpes-maritimes,gc,Team Corratec - Vini Fantini,2.1,36.0,0.0,1,,0.0,,,0.0
+2024-08-13,2024,tour-du-limousin,gc,Team Corratec - Vini Fantini,2.1,11.0,15.0,1,,15.0,,,15.0
+2024-08-20,2024,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2024-02-08,2024,tour-of-antalya,gc,Team Corratec - Vini Fantini,2.1,55.0,0.0,1,,25.0,,,25.0
+2024-08-27,2024,tour-of-hainan,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,51.0,,,74.0
+2024-09-12,2024,tour-of-istanbul,gc,Team Corratec - Vini Fantini,2.1,,0,0,,58.0,,,58.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,33.0,,,51.0
+2024-01-26,2024,tour-of-sharjah,gc,Team Corratec - Vini Fantini,2.2,,0,0,,10.0,,,13.0
+2024-06-12,2024,tour-of-slovenia,gc,Team Corratec - Vini Fantini,2.Pro,34.0,3.0,1,,3.0,,,3.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,8.0,,,18.0
+2024-04-15,2024,tour-of-the-alps,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,0.0,,,0.0
+2024-04-21,2024,tour-of-turkey,gc,Team Corratec - Vini Fantini,2.Pro,,0,0,,5.0,,,5.0
+2024-10-08,2024,tre-valli-varesine,gc,Team Corratec - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofej-umag,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,25.0
+2024-07-02,2024,trofeo-citta-di-brescia,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,45.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,Team Corratec - Vini Fantini,1.2,,0,0,,0.0,,,30.0
+2024-02-28,2024,trofeo-laigueglia,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2024-09-15,2024,trofeo-matteotti,gc,Team Corratec - Vini Fantini,1.1,,,1,,0.0,,,38.0
+2024-02-19,2024,uae-tour,gc,Team Corratec - Vini Fantini,2.UWT,,0,0,,5.0,,,35.0
+2024-10-20,2024,veneto-classic,gc,Team Corratec - Vini Fantini,1.Pro,,,1,,0.0,,,3.0
+2024-06-05,2024,zlm-tour,gc,Team Corratec - Vini Fantini,2.1,,0,0,,0.0,,,3.0
+2025-06-09,2025,antwerp-port-epic,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,5.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Team Solution Tech - Vini Fantini,2.Pro,,,1,,3.0,,,3.0
+2025-06-08,2025,brussels-cycling-classic,gc,Team Solution Tech - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,18.0
+2025-06-22,2025,copenhagen-sprint,gc,Team Solution Tech - Vini Fantini,1.UWT,,,1,,0.0,,,12.0
+2025-10-05,2025,coppa-agostoni,gc,Team Solution Tech - Vini Fantini,1.1,,0,0,,0.0,,,3.0
+2025-10-06,2025,coppa-bernocchi,gc,Team Solution Tech - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2025-08-14,2025,czech-tour,gc,Team Solution Tech - Vini Fantini,2.1,,0,0,,50.0,,,35.0
+2025-05-24,2025,due-giorni-marchigiana-gp-santa-rita,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,15.0
+2025-04-15,2025,giro-d-abruzzo,gc,Team Solution Tech - Vini Fantini,2.1,42.0,0.0,1,,6.0,,,6.0
+2025-07-06,2025,giro-del-medio-brenta,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,40.0
+2025-06-24,2025,giro-dell-appennino,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,81.0
+2025-10-04,2025,giro-dell-emilia,gc,Team Solution Tech - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2025-04-12,2025,giro-di-reggio-calabria,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,8.0
+2025-09-21,2025,giro-di-romagna,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,3.0
+2025-09-10,2025,giro-di-toscana,gc,Team Solution Tech - Vini Fantini,1.1,,0,0,,0.0,,,0.0
+2025-03-27,2025,gp-brda-collio,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,0.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Team Solution Tech - Vini Fantini,1.Pro,,,1,,0.0,,,3.0
+2025-02-02,2025,gp-d-ouverture,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,3.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,5.0
+2025-09-07,2025,gp-industria-artigianato,gc,Team Solution Tech - Vini Fantini,1.Pro,,0,0,,0.0,,,3.0
+2025-08-31,2025,gp-kranj,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,3.0
+2025-05-01,2025,gp-vorarlberg,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,0.0
+2025-10-09,2025,gran-piemonte,gc,Team Solution Tech - Vini Fantini,1.Pro,,0,0,,0.0,,,3.0
+2025-03-13,2025,istrian-spring-tour,gc,Team Solution Tech - Vini Fantini,2.2,,0,0,,0.0,,,11.0
+2025-10-19,2025,japan-cup,gc,Team Solution Tech - Vini Fantini,1.Pro,,,1,,0.0,,,8.0
+2025-09-06,2025,maryland-cycling-classic,gc,Team Solution Tech - Vini Fantini,1.Pro,,,1,,0.0,,,8.0
+2025-09-13,2025,memorial-marco-pantani,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,25.0
+2025-09-20,2025,milano-rapallo,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,15.0
+2025-03-22,2025,milano-sanremo,gc,Team Solution Tech - Vini Fantini,1.UWT,,,1,,0.0,,,0.0
+2025-03-19,2025,milano-torino,gc,Team Solution Tech - Vini Fantini,1.Pro,,,1,,0.0,,,3.0
+2025-06-29,2025,nc-italy,gc,Team Solution Tech - Vini Fantini,NC,,,1,,0.0,,,1.0
+2025-06-26,2025,nc-italy-itt,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,0.0
+2025-06-22,2025,nc-japan,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-japan-itt,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,3.0
+2025-03-16,2025,nc-panama,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,175.0
+2025-03-14,2025,nc-panama-itt,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,70.0
+2025-06-22,2025,nc-serbia,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,15.0
+2025-06-20,2025,nc-serbia-itt,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,35.0
+2025-06-29,2025,nc-switserland,gc,Team Solution Tech - Vini Fantini,NC,,0,0,,0.0,,,4.0
+2025-09-17,2025,okolo-slovenska,gc,Team Solution Tech - Vini Fantini,2.1,,0,0,,33.0,,,28.0
+2025-03-09,2025,porec-trophy,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,10.0
+2025-05-11,2025,radsportfest-marwil,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,25.0
+2025-04-09,2025,scheldeprijs,gc,Team Solution Tech - Vini Fantini,1.Pro,,0,0,,0.0,,,0.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Team Solution Tech - Vini Fantini,2.1,,,1,,0.0,,,0.0
+2025-03-08,2025,strade-bianche,gc,Team Solution Tech - Vini Fantini,1.UWT,,,1,,0.0,,,0.0
+2025-07-13,2025,the-road-race-tokyo-tama,gc,Team Solution Tech - Vini Fantini,1.2,,,1,,0.0,,,65.0
+2025-05-08,2025,tour-de-kumano,gc,Team Solution Tech - Vini Fantini,2.2,,0,0,,40.0,,,64.0
+2025-10-11,2025,tour-de-kyushu,gc,Team Solution Tech - Vini Fantini,2.1,20.0,3.0,1,,134.0,,,148.0
+2025-09-28,2025,tour-de-langkawi,gc,Team Solution Tech - Vini Fantini,2.Pro,,0,0,,5.0,,,10.0
+2025-03-16,2025,tour-de-taiwan,gc,Team Solution Tech - Vini Fantini,2.1,,0,0,,60.0,,,70.0
+2025-08-19,2025,tour-du-limousin,gc,Team Solution Tech - Vini Fantini,2.1,55.0,0.0,1,,3.0,,,3.0
+2025-09-09,2025,tour-of-binzhou,gc,Team Solution Tech - Vini Fantini,1.1,,0,0,,0.0,,,105.0
+2025-09-30,2025,tour-of-croatia,gc,Team Solution Tech - Vini Fantini,2.1,,0,0,,0.0,,,0.0
+2025-04-07,2025,tour-of-hainan,gc,Team Solution Tech - Vini Fantini,2.Pro,,0,0,,203.0,,,243.0
+2025-04-02,2025,tour-of-hellas,gc,Team Solution Tech - Vini Fantini,2.1,,0,0,,5.0,,,5.0
+2025-05-18,2025,tour-of-japan,gc,Team Solution Tech - Vini Fantini,2.2,,0,0,,20.0,,,31.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Team Solution Tech - Vini Fantini,2.Pro,,0,0,,10.0,,,10.0
+2025-09-05,2025,tour-of-shanghai,gc,Team Solution Tech - Vini Fantini,2.2,,0,0,,43.0,,,56.0
+2025-01-24,2025,tour-of-sharjah,gc,Team Solution Tech - Vini Fantini,2.2,,0,0,,23.0,,,37.0
+2025-06-04,2025,tour-of-slovenia,gc,Team Solution Tech - Vini Fantini,2.Pro,,0,0,,10.0,,,10.0
+2025-10-09,2025,tour-of-taihu-lake,gc,Team Solution Tech - Vini Fantini,2.Pro,,0,0,,10.0,,,13.0
+2025-03-24,2025,tour-of-thailand,gc,Team Solution Tech - Vini Fantini,2.1,,0,0,,133.0,,,157.0
+2025-04-21,2025,tour-of-the-alps,gc,Team Solution Tech - Vini Fantini,2.Pro,,0,0,,0.0,,,0.0
+2025-04-27,2025,tour-of-turkey,gc,Team Solution Tech - Vini Fantini,2.Pro,52.0,0.0,1,,3.0,,,3.0
+2025-08-07,2025,trans-himalaya-cycling-race,gc,Team Solution Tech - Vini Fantini,2.1,,0,0,,80.0,,,108.0
+2025-10-07,2025,tre-valli-varesine,gc,Team Solution Tech - Vini Fantini,1.Pro,,0,0,,0.0,,,5.0
+2025-03-05,2025,trofej-umag,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,40.0
+2025-06-02,2025,trofeo-alcide-degasperi,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,60.0
+2025-10-12,2025,trofeo-baracchi,gc,Team Solution Tech - Vini Fantini,1.1,,0,0,,0.0,,,0.0
+2025-07-01,2025,trofeo-citta-di-brescia,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,30.0
+2025-05-25,2025,trofeo-citta-di-castelfidardo,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,33.0
+2025-03-05,2025,trofeo-laigueglia,gc,Team Solution Tech - Vini Fantini,1.Pro,,,1,,0.0,,,0.0
+2025-09-14,2025,trofeo-matteotti,gc,Team Solution Tech - Vini Fantini,1.1,,,1,,0.0,,,28.0
+2025-04-27,2025,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Team Solution Tech - Vini Fantini,1.2,,0,0,,0.0,,,0.0
+2025-02-17,2025,uae-tour,gc,Team Solution Tech - Vini Fantini,2.UWT,52.0,2.0,1,,27.0,,,35.0

@@ -1,0 +1,537 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,6.0
+2018-04-21,2018,arno-wallaard-memorial,gc,SEG Racing Academy,1.2,,,1,,0.0,,,30.0
+2018-04-06,2018,circuit-des-ardennes,gc,SEG Racing Academy,2.2,,0,0,,30.0,,,33.0
+2018-09-22,2018,circuit-franco-belge,gc,SEG Racing Academy,1.HC,,0,0,,0.0,,,30.0
+2018-03-11,2018,dorpenomloop-rucphen,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,5.0
+2018-06-15,2018,dwars-door-het-hageland,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,10.0
+2018-09-27,2018,famenne-ardenne-classic,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,25.0
+2018-05-06,2018,fleche-ardennaise,gc,SEG Racing Academy,1.2,,,1,,0.0,,,40.0
+2018-09-23,2018,gooikse-pijl,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,165.0
+2018-09-16,2018,gp-jef-scherens,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,3.0
+2018-05-20,2018,grote-prijs-marcel-kint,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,88.0
+2018-09-02,2018,gylne-gutuer,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,3.0
+2018-08-31,2018,hafjell-gp,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,0.0
+2018-06-19,2018,halle-ingooigem,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,3.0
+2018-06-02,2018,heist-op-den-berg,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,50.0
+2018-09-14,2018,kampioenschap-van-vlaanderen1,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,8.0
+2018-04-25,2018,le-tour-de-bretagne,gc,SEG Racing Academy,2.2,,0,0,,25.0,,,40.0
+2018-03-31,2018,le-triptyque-des-monts-et-chateaux,gc,SEG Racing Academy,2.2U,,0,0,,0.0,,,0.0
+2018-09-01,2018,lillehammer-gp,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,25.0
+2018-06-30,2018,mediterranean-games-itt,gc,SEG Racing Academy,JR,,0,0,,0.0,,,0.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,23.0
+2018-06-10,2018,midden-brabant-poort-omloop,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,60.0
+2018-07-01,2018,nc-netherlands,gc,SEG Racing Academy,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,ncgreat-britain,gc,SEG Racing Academy,NC,,0,0,,0.0,,,0.0
+2018-09-11,2018,olympias-tour,gc,SEG Racing Academy,2.2U,29.0,0.0,1,,41.0,,,43.0
+2018-05-27,2018,paris-roubaix-u23,gc,SEG Racing Academy,1.2U,,,1,,0.0,,,45.0
+2018-10-07,2018,paris-tours-espoirs,gc,SEG Racing Academy,1.2U,,0,0,,0.0,,,30.0
+2018-05-17,2018,ronde-de-l-isard,gc,SEG Racing Academy,2.2U,,0,0,,30.0,,,40.0
+2018-08-26,2018,ronde-van-midden-nederland,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,13.0
+2018-05-13,2018,ronde-van-noord-holland,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,73.0
+2018-05-12,2018,ronde-van-overijssel,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,15.0
+2018-08-11,2018,slag-om-norg,gc,SEG Racing Academy,1.1,,,1,,0.0,,,100.0
+2018-10-13,2018,tacx-pro-classic,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,10.0
+2018-08-02,2018,tour-alsace,gc,SEG Racing Academy,2.2,59.0,0.0,1,,0.0,,,0.0
+2018-03-19,2018,tour-de-normadie,gc,SEG Racing Academy,2.2,,0,0,,20.0,,,30.0
+2018-08-22,2018,veenendaal-veenendaal,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,5.0
+2019-04-20,2019,arno-wallaard-memorial,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,15.0
+2019-04-12,2019,circuit-des-ardennes,gc,SEG Racing Academy,2.2,33.0,0.0,1,,20.0,,,34.0
+2019-08-16,2019,czech-tour,gc,SEG Racing Academy,2.1,,0,0,,0.0,,,14.0
+2019-09-14,2019,de-kustpijl,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,13.0
+2019-06-21,2019,dwars-door-het-hageland,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,0.0
+2019-05-12,2019,fleche-ardennaise,gc,SEG Racing Academy,1.2,,,1,,0.0,,,0.0
+2019-09-22,2019,gooikse-pijl,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,85.0
+2019-09-18,2019,gp-de-wallonie,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,0.0
+2019-09-08,2019,gylne-gutuer,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,25.0
+2019-09-06,2019,hafjell-gp,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,3.0
+2019-06-22,2019,heist-op-den-berg,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,0.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,0.0
+2019-04-25,2019,le-tour-de-bretagne,gc,SEG Racing Academy,2.2,32.0,0.0,1,,5.0,,,26.0
+2019-09-07,2019,lillehammer-gp,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,15.0
+2019-06-09,2019,memorial-philippe-van-coningsloo,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,10.0
+2019-06-16,2019,midden-brabant-poort-omloop,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-greece,gc,SEG Racing Academy,NC,,0,0,,0.0,,,0.0
+2019-06-28,2019,nc-greece-itt,gc,SEG Racing Academy,NC,,0,0,,0.0,,,15.0
+2019-06-30,2019,nc-hungary,gc,SEG Racing Academy,NC,,0,0,,0.0,,,30.0
+2019-06-27,2019,nc-hungary-itt,gc,SEG Racing Academy,NC,,0,0,,0.0,,,10.0
+2019-05-24,2019,paris-arras-tour,gc,SEG Racing Academy,2.2,,0,0,,10.0,,,13.0
+2019-03-17,2019,ronde-van-drenthe,gc,SEG Racing Academy,1.HC,,0,0,,0.0,,,40.0
+2019-05-04,2019,ronde-van-overijssel,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,18.0
+2019-08-25,2019,schaal-schels,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,40.0
+2019-08-11,2019,slag-om-norg,gc,SEG Racing Academy,1.1,,,1,,0.0,,,66.0
+2019-10-12,2019,tacx-pro-classic,gc,SEG Racing Academy,1.1,,,1,,0.0,,,0.0
+2019-08-01,2019,tour-alsace,gc,SEG Racing Academy,2.2,19.0,0.0,1,,3.0,,,7.0
+2019-03-25,2019,tour-de-normadie,gc,SEG Racing Academy,2.2,,0,0,,0.0,,,21.0
+2019-08-21,2019,veenendaal-veenendaal,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,50.0
+2020-09-13,2020,antwerp-port-epic,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,50.0
+2020-10-07,2020,brabantse-pijl,gc,Team Sunweb,1.Pro,,,1,,0.0,,,0.0
+2020-08-25,2020,bretagne-classic,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,520.0
+2020-08-30,2020,brussels-cycling-classic,gc,Team Sunweb,1.Pro,,,1,,0.0,,,3.0
+2020-08-07,2020,czech-tour,gc,SEG Racing Academy,2.1,,0,0,,5.0,,,33.0
+2020-08-07,2020,czech-tour,gc,Team Sunweb,2.1,,0,0,,50.0,,,58.0
+2020-08-23,2020,danish-championships,gc,Team Sunweb,NC,,0,0,,0.0,,,40.0
+2020-03-08,2020,dorpenomloop-rucphen,gc,SEG Racing Academy,1.2,,,1,,0.0,,,43.0
+2020-08-29,2020,druivenkoers-overijse,gc,Team Sunweb,1.1,,,1,,0.0,,,0.0
+2020-08-29,2020,druivenkoers-overijse,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,0.0
+2020-08-15,2020,dwars-door-het-hageland,gc,Team Sunweb,1.Pro,,0,0,,0.0,,,153.0
+2020-10-11,2020,gent-wevelgem,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,20.0
+2020-10-03,2020,giro-d-italia,gc,Team Sunweb,2.UWT,,0,0,,1335.0,0.0,0.0,1639.0
+2020-10-03,2020,giro-d-italia,kom,Team Sunweb,2.UWT,,0,0,,1335.0,0.0,0.0,1639.0
+2020-10-03,2020,giro-d-italia,points,Team Sunweb,2.UWT,,0,0,,1335.0,0.0,0.0,1639.0
+2020-09-20,2020,gooikse-pijl,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,60.0
+2020-03-03,2020,gp-samyn,gc,SEG Racing Academy,1.1,,0,0,,0.0,,,73.0
+2020-02-02,2020,great-ocean-road-race,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,24.0
+2020-02-05,2020,herald-sun-tour,gc,Team Sunweb,2.1,,0,0,,163.0,,,210.0
+2020-08-15,2020,il-lombardia,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,45.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Team Sunweb,1.Pro,,0,0,,0.0,,,3.0
+2020-09-30,2020,la-fleche-wallonne,gc,Team Sunweb,1.UWT,,,1,,0.0,,,412.0
+2020-10-04,2020,liege-bastogne-liege,gc,Team Sunweb,1.UWT,,,1,,0.0,,,540.0
+2020-08-08,2020,milano-sanremo,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,363.0
+2020-01-12,2020,nc-australia,gc,Team Sunweb,NC,,0,0,,0.0,,,3.0
+2020-08-23,2020,nc-austria2,gc,Team Sunweb,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-germany,gc,Team Sunweb,NC,,0,0,,0.0,,,0.0
+2020-10-01,2020,nc-ireland-itt,gc,Team Sunweb,NC,,0,0,,0.0,,,30.0
+2020-08-23,2020,nc-italy,gc,Team Sunweb,NC,,0,0,,0.0,,,1.0
+2020-08-23,2020,nc-netherlands,gc,SEG Racing Academy,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-netherlands,gc,Team Sunweb,NC,,0,0,,0.0,,,75.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,240.0
+2020-03-08,2020,paris-nice,gc,Team Sunweb,2.UWT,,0,0,,545.0,,,725.0
+2020-10-11,2020,paris-tours,gc,Team Sunweb,1.Pro,,0,0,,0.0,,,325.0
+2020-01-30,2020,race-torquay,gc,Team Sunweb,1.1,,0,0,,0.0,,,73.0
+2020-09-29,2020,renewi-tour,gc,Team Sunweb,2.UWT,,0,0,,336.0,,,386.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,108.0
+2020-10-14,2020,scheldeprijs,gc,Team Sunweb,1.Pro,,0,0,,0.0,,,5.0
+2020-02-29,2020,ster-van-zwolle,gc,SEG Racing Academy,1.2,,0,0,,0.0,,,60.0
+2020-08-01,2020,strade-bianche,gc,Team Sunweb,1.UWT,,0,0,,0.0,,,0.0
+2020-09-07,2020,tirreno-adriatico,gc,Team Sunweb,2.UWT,,0,0,,413.0,,,423.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Team Sunweb,2.UWT,,0,0,,33.0,,,33.0
+2020-02-13,2020,tour-cycliste-international-la-provence,gc,Team Sunweb,2.Pro,,0,0,,95.0,,,105.0
+2020-08-29,2020,tour-de-france,gc,Team Sunweb,2.UWT,,0,0,,25.0,0.0,0.0,565.0
+2020-08-29,2020,tour-de-france,kom,Team Sunweb,2.UWT,,0,0,,25.0,0.0,0.0,565.0
+2020-08-29,2020,tour-de-france,points,Team Sunweb,2.UWT,,0,0,,25.0,0.0,0.0,565.0
+2020-08-07,2020,tour-de-l-ain,gc,Team Sunweb,2.1,26.0,0.0,1,,0.0,,,0.0
+2020-08-05,2020,tour-de-pologne,gc,Team Sunweb,2.UWT,,0,0,,200.0,,,208.0
+2020-02-21,2020,tour-des-alpes-maritimes,gc,Team Sunweb,2.1,,0,0,,48.0,,,51.0
+2020-01-21,2020,tour-down-under,gc,Team Sunweb,2.UWT,,0,0,,80.0,,,105.0
+2020-08-18,2020,tour-du-limousin,gc,Team Sunweb,2.1,,0,0,,6.0,,,6.0
+2020-02-23,2020,uae-tour,gc,Team Sunweb,2.UWT,,0,0,,137.0,,,137.0
+2020-02-19,2020,volta-ao-algarve,gc,Team Sunweb,2.Pro,,0,0,,5.0,,,25.0
+2020-10-20,2020,vuelta-a-espana,gc,Team Sunweb,2.UWT,41.0,16.0,1,,84.0,0.0,0.0,196.0
+2020-10-20,2020,vuelta-a-espana,kom,Team Sunweb,2.UWT,28.0,0.0,1,,84.0,0.0,0.0,196.0
+2020-10-20,2020,vuelta-a-espana,points,Team Sunweb,2.UWT,26.0,0.0,1,,84.0,0.0,0.0,196.0
+2021-04-18,2021,amstel-gold-race,gc,Team DSM,1.UWT,,0,0,,0.0,,,35.0
+2021-09-12,2021,antwerp-port-epic,gc,Team DSM,1.1,,0,0,,0.0,,,28.0
+2021-05-27,2021,boucles-de-la-mayenne,gc,Team DSM,2.Pro,,0,0,,78.0,,,83.0
+2021-04-14,2021,brabantse-pijl,gc,Team DSM,1.Pro,,0,0,,0.0,,,40.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Team DSM,1.Pro,,0,0,,0.0,,,5.0
+2021-08-29,2021,bretagne-classic,gc,Team DSM,1.UWT,,0,0,,0.0,,,24.0
+2021-06-06,2021,circuit-des-xi-villes,gc,Team DSM,1.1,,0,0,,0.0,,,5.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Team DSM,1.UWT,,0,0,,0.0,,,100.0
+2021-06-20,2021,danish-championships,gc,Team DSM,NC,,0,0,,0.0,,,20.0
+2021-08-26,2021,deutschland-tour,gc,Team DSM,2.Pro,,0,0,,0.0,,,0.0
+2021-06-05,2021,dwars-door-het-hageland,gc,Team DSM,1.Pro,,0,0,,0.0,,,13.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Team DSM,1.UWT,,0,0,,0.0,,,12.0
+2021-03-26,2021,e3-harelbeke,gc,Team DSM,1.UWT,,0,0,,0.0,,,52.0
+2021-09-19,2021,eschborn-frankfurt,gc,Team DSM,1.UWT,,0,0,,0.0,,,17.0
+2021-03-28,2021,gent-wevelgem,gc,Team DSM,1.UWT,,0,0,,0.0,,,10.0
+2021-05-08,2021,giro-d-italia,gc,Team DSM,2.UWT,,0,0,,304.0,0.0,0.0,468.0
+2021-05-08,2021,giro-d-italia,kom,Team DSM,2.UWT,,0,0,,304.0,0.0,0.0,468.0
+2021-05-08,2021,giro-d-italia,points,Team DSM,2.UWT,,0,0,,304.0,0.0,0.0,468.0
+2021-09-28,2021,giro-di-sicilia,gc,Team DSM,2.1,7.0,35.0,1,,85.0,,,85.0
+2021-09-19,2021,gp-d-isbergues,gc,Team DSM,1.1,,0,0,,0.0,,,70.0
+2021-09-15,2021,gp-de-wallonie,gc,Team DSM,1.Pro,,0,0,,0.0,,,40.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Team DSM,1.Pro,,,1,,0.0,,,11.0
+2021-10-09,2021,il-lombardia,gc,Team DSM,1.UWT,,,1,,0.0,,,165.0
+2021-04-05,2021,itzulia-basque-country,gc,Team DSM,2.UWT,,0,0,,24.0,,,24.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Team DSM,1.1,,0,0,,0.0,,,0.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Team DSM,1.Pro,,0,0,,0.0,,,10.0
+2021-04-21,2021,la-fleche-wallonne,gc,Team DSM,1.UWT,,,1,,0.0,,,34.0
+2021-04-25,2021,liege-bastogne-liege,gc,Team DSM,1.UWT,,0,0,,0.0,,,170.0
+2021-03-20,2021,milano-sanremo,gc,Team DSM,1.UWT,,0,0,,0.0,,,120.0
+2021-10-06,2021,milano-torino,gc,Team DSM,1.Pro,,0,0,,0.0,,,10.0
+2021-10-03,2021,munsterland-giro,gc,Team DSM,1.Pro,,0,0,,0.0,,,105.0
+2021-06-19,2021,nc-austria-itt,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-austria2,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-belgium,gc,Team DSM,NC,,0,0,,0.0,,,1.0
+2021-06-16,2021,nc-belgium-itt,gc,Team DSM,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-france,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Team DSM,NC,,0,0,,0.0,,,1.0
+2021-06-19,2021,nc-germany-itt,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2021-10-03,2021,nc-ireland,gc,Team DSM,NC,,0,0,,0.0,,,30.0
+2021-09-30,2021,nc-ireland-itt,gc,Team DSM,NC,,0,0,,0.0,,,30.0
+2021-06-20,2021,nc-italy,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-netherlands,gc,Team DSM,NC,,0,0,,0.0,,,30.0
+2021-06-16,2021,nc-netherlands-itt,gc,Team DSM,NC,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-norway,gc,Team DSM,NC,,0,0,,0.0,,,50.0
+2021-06-17,2021,nc-norway-itt,gc,Team DSM,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-united-states,gc,Team DSM,NC,,0,0,,0.0,,,30.0
+2021-06-17,2021,nc-usa-itt,gc,Team DSM,NC,,0,0,,0.0,,,30.0
+2021-03-17,2021,nokere-koerse,gc,Team DSM,1.Pro,,,1,,0.0,,,0.0
+2021-09-15,2021,okolo-slovenska,gc,Team DSM,2.1,,0,0,,130.0,,,133.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Team DSM,1.UWT,,0,0,,0.0,,,24.0
+2021-09-23,2021,omloop-van-het-houtland-lichtervelde,gc,Team DSM,1.1,,0,0,,0.0,,,50.0
+2021-09-26,2021,paris-chauny-classique,gc,Team DSM,1.1,,0,0,,0.0,,,91.0
+2021-03-07,2021,paris-nice,gc,Team DSM,2.UWT,,0,0,,255.0,,,315.0
+2021-10-03,2021,paris-roubaix,gc,Team DSM,1.UWT,,0,0,,0.0,,,40.0
+2021-10-10,2021,paris-tours,gc,Team DSM,1.Pro,,0,0,,0.0,,,0.0
+2021-03-21,2021,per-sempre-alfredo,gc,Team DSM,1.1,,0,0,,0.0,,,26.0
+2021-08-30,2021,renewi-tour,gc,Team DSM,2.UWT,,0,0,,156.0,,,156.0
+2021-10-24,2021,ronde-van-drenthe,gc,Team DSM,1.1,,0,0,,0.0,,,30.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Team DSM,1.UWT,,0,0,,0.0,,,63.0
+2021-07-31,2021,san-sebastian,gc,Team DSM,1.UWT,,0,0,,0.0,,,32.0
+2021-04-07,2021,scheldeprijs,gc,Team DSM,1.Pro,,0,0,,0.0,,,5.0
+2021-03-06,2021,strade-bianche,gc,Team DSM,1.UWT,,,1,,0.0,,,20.0
+2021-03-10,2021,tirreno-adriatico,gc,Team DSM,2.UWT,,0,0,,155.0,,,155.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Team DSM,2.UWT,,0,0,,43.0,,,43.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Team DSM,2.Pro,,0,0,,5.0,,,5.0
+2021-06-26,2021,tour-de-france,gc,Team DSM,2.UWT,,0,0,,20.0,0.0,0.0,45.0
+2021-06-26,2021,tour-de-france,kom,Team DSM,2.UWT,,0,0,,20.0,0.0,0.0,45.0
+2021-06-26,2021,tour-de-france,points,Team DSM,2.UWT,,0,0,,20.0,0.0,0.0,45.0
+2021-05-12,2021,tour-de-hongrie,gc,Team DSM,2.1,,0,0,,6.0,,,11.0
+2021-07-29,2021,tour-de-l-ain,gc,Team DSM,2.1,,0,0,,125.0,,,144.0
+2021-08-09,2021,tour-de-pologne,gc,Team DSM,2.UWT,,0,0,,136.0,,,186.0
+2021-04-27,2021,tour-de-romandie,gc,Team DSM,2.UWT,11.0,70.0,1,,110.0,,,110.0
+2021-06-06,2021,tour-de-suisse,gc,Team DSM,2.UWT,55.0,5.0,1,,70.0,,,70.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Team DSM,2.1,,0,0,,5.0,,,5.0
+2021-06-09,2021,tour-of-belgium,gc,Team DSM,2.Pro,,0,0,,5.0,,,5.0
+2021-09-05,2021,tour-of-britain,gc,Team DSM,2.Pro,,0,0,,60.0,,,70.0
+2021-08-10,2021,tour-of-denmark,gc,Team DSM,2.Pro,,0,0,,70.0,,,85.0
+2021-08-19,2021,tour-of-norway,gc,Team DSM,2.Pro,,0,0,,40.0,,,40.0
+2021-04-19,2021,tour-of-the-alps,gc,Team DSM,2.Pro,,0,0,,40.0,,,55.0
+2021-02-21,2021,uae-tour,gc,Team DSM,2.UWT,45.0,5.0,1,,11.0,,,11.0
+2021-03-22,2021,volta-a-catalunya,gc,Team DSM,2.UWT,101.0,0.0,1,,10.0,,,10.0
+2021-08-03,2021,vuelta-a-burgos,gc,Team DSM,2.Pro,23.0,5.0,1,,80.0,,,110.0
+2021-08-14,2021,vuelta-a-espana,gc,Team DSM,2.UWT,61.0,0.0,1,,72.0,140.0,0.0,512.0
+2021-08-14,2021,vuelta-a-espana,kom,Team DSM,2.UWT,22.0,0.0,1,,72.0,140.0,0.0,512.0
+2021-08-14,2021,vuelta-a-espana,points,Team DSM,2.UWT,37.0,0.0,1,,72.0,140.0,0.0,512.0
+2022-05-03,2022,4-jours-de-dunkerque,gc,Team DSM,2.Pro,,0,0,,0.0,,,5.0
+2022-02-01,2022,alula-tour,gc,Team DSM,2.1,,0,0,,3.0,,,3.0
+2022-04-10,2022,amstel-gold-race,gc,Team DSM,1.UWT,,0,0,,0.0,,,35.0
+2022-08-11,2022,arctic-race-of-norway,gc,Team DSM,2.Pro,,0,0,,265.0,,,285.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Team DSM,1.Pro,,0,0,,0.0,,,105.0
+2022-08-28,2022,bretagne-classic,gc,Team DSM,1.UWT,,0,0,,0.0,,,8.0
+2022-08-10,2022,circuit-franco-belge,gc,Team DSM,1.Pro,,0,0,,0.0,,,85.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Team DSM,1.UWT,,0,0,,0.0,,,10.0
+2022-08-21,2022,cyclassics-hamburg,gc,Team DSM,1.UWT,,0,0,,0.0,,,14.0
+2022-06-26,2022,danish-championships,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2022-08-24,2022,deutschland-tour,gc,Team DSM,2.Pro,,0,0,,3.0,,,3.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Team DSM,1.UWT,,0,0,,0.0,,,30.0
+2022-03-25,2022,e3-harelbeke,gc,Team DSM,1.UWT,,0,0,,0.0,,,32.0
+2022-05-01,2022,eschborn-frankfurt,gc,Team DSM,1.UWT,,0,0,,0.0,,,22.0
+2022-03-27,2022,gent-wevelgem,gc,Team DSM,1.UWT,,0,0,,0.0,,,255.0
+2022-05-06,2022,giro-d-italia,gc,Team DSM,2.UWT,18.0,48.0,1,,84.0,0.0,0.0,320.0
+2022-05-06,2022,giro-d-italia,kom,Team DSM,2.UWT,11.0,0.0,1,,84.0,0.0,0.0,320.0
+2022-05-06,2022,giro-d-italia,points,Team DSM,2.UWT,25.0,0.0,1,,84.0,0.0,0.0,320.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Team DSM,1.Pro,,0,0,,0.0,,,0.0
+2022-08-07,2022,gp-jef-scherens,gc,Team DSM,1.1,,0,0,,0.0,,,0.0
+2022-09-11,2022,gp-montreal,gc,Team DSM,1.UWT,,0,0,,0.0,,,135.0
+2022-09-09,2022,gp-quebec,gc,Team DSM,1.UWT,,0,0,,0.0,,,30.0
+2022-03-01,2022,gp-samyn,gc,Team DSM,1.1,,0,0,,0.0,,,0.0
+2022-10-06,2022,gran-piemonte,gc,Team DSM,1.Pro,,0,0,,0.0,,,15.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,Team DSM,1.1,,0,0,,0.0,,,3.0
+2022-10-08,2022,il-lombardia,gc,Team DSM,1.UWT,,,1,,0.0,,,123.0
+2022-04-04,2022,itzulia-basque-country,gc,Team DSM,2.UWT,,0,0,,16.0,,,16.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Team DSM,1.1,,0,0,,0.0,,,3.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Team DSM,1.Pro,,0,0,,0.0,,,5.0
+2022-04-20,2022,la-fleche-wallonne,gc,Team DSM,1.UWT,,0,0,,0.0,,,8.0
+2022-04-24,2022,liege-bastogne-liege,gc,Team DSM,1.UWT,,0,0,,0.0,,,20.0
+2022-03-19,2022,milano-sanremo,gc,Team DSM,1.UWT,,0,0,,0.0,,,155.0
+2022-03-16,2022,milano-torino,gc,Team DSM,1.Pro,,,1,,0.0,,,20.0
+2022-10-03,2022,munsterland-giro,gc,Team DSM,1.Pro,,0,0,,0.0,,,55.0
+2022-01-16,2022,nc-australia,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-germany,gc,Team DSM,NC,,0,0,,0.0,,,78.0
+2022-06-24,2022,nc-germany-itt,gc,Team DSM,NC,,0,0,,0.0,,,6.0
+2022-06-26,2022,nc-norway,gc,Team DSM,NC,,0,0,,0.0,,,1.0
+2022-06-26,2022,nc-united-states,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,ncgreat-britain,gc,Team DSM,NC,,0,0,,0.0,,,0.0
+2022-03-16,2022,nokere-koerse,gc,Team DSM,1.Pro,,0,0,,0.0,,,9.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Team DSM,1.UWT,,0,0,,0.0,,,6.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Team DSM,1.1,,0,0,,0.0,,,63.0
+2022-09-25,2022,paris-chauny-classique,gc,Team DSM,1.1,,0,0,,0.0,,,3.0
+2022-03-06,2022,paris-nice,gc,Team DSM,2.UWT,,0,0,,113.0,,,113.0
+2022-04-17,2022,paris-roubaix,gc,Team DSM,1.UWT,,0,0,,0.0,,,45.0
+2022-10-09,2022,paris-tours,gc,Team DSM,1.Pro,,0,0,,0.0,,,8.0
+2022-03-13,2022,ronde-van-drenthe,gc,Team DSM,1.1,,0,0,,0.0,,,15.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Team DSM,1.UWT,,0,0,,0.0,,,40.0
+2022-05-22,2022,rund-um-koln,gc,Team DSM,1.1,,0,0,,0.0,,,105.0
+2022-07-30,2022,san-sebastian,gc,Team DSM,1.UWT,,0,0,,0.0,,,24.0
+2022-04-06,2022,scheldeprijs,gc,Team DSM,1.Pro,,0,0,,0.0,,,230.0
+2022-03-05,2022,strade-bianche,gc,Team DSM,1.UWT,,0,0,,0.0,,,6.0
+2022-03-07,2022,tirreno-adriatico,gc,Team DSM,2.UWT,6.0,175.0,1,,235.0,,,235.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Team DSM,2.UWT,,0,0,,20.0,,,20.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Team DSM,2.Pro,,0,0,,20.0,,,20.0
+2022-07-01,2022,tour-de-france,gc,Team DSM,2.UWT,,0,0,,455.0,0.0,0.0,530.0
+2022-07-01,2022,tour-de-france,kom,Team DSM,2.UWT,,0,0,,455.0,0.0,0.0,530.0
+2022-07-01,2022,tour-de-france,points,Team DSM,2.UWT,,0,0,,455.0,0.0,0.0,530.0
+2022-05-11,2022,tour-de-hongrie,gc,Team DSM,2.1,,0,0,,0.0,,,0.0
+2022-07-30,2022,tour-de-pologne,gc,Team DSM,2.UWT,2.0,320.0,1,,376.0,,,434.0
+2022-04-26,2022,tour-de-romandie,gc,Team DSM,2.UWT,,0,0,,15.0,,,15.0
+2022-06-12,2022,tour-de-suisse,gc,Team DSM,2.UWT,,,1,,80.0,,,210.0
+2022-07-23,2022,tour-de-wallonie,gc,Team DSM,2.Pro,,0,0,,5.0,,,5.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,Team DSM,2.1,,0,0,,13.0,,,13.0
+2022-06-15,2022,tour-of-belgium,gc,Team DSM,2.Pro,,0,0,,25.0,,,25.0
+2022-09-04,2022,tour-of-britain,gc,Team DSM,2.Pro,,0,0,,15.0,,,35.0
+2022-09-27,2022,tour-of-croatia,gc,Team DSM,2.1,,0,0,,95.0,,,105.0
+2022-08-16,2022,tour-of-denmark,gc,Team DSM,2.Pro,,0,0,,105.0,,,105.0
+2022-05-24,2022,tour-of-norway,gc,Team DSM,2.Pro,,0,0,,5.0,,,5.0
+2022-02-10,2022,tour-of-oman,gc,Team DSM,2.Pro,,0,0,,83.0,,,83.0
+2022-04-18,2022,tour-of-the-alps,gc,Team DSM,2.Pro,3.0,125.0,1,,330.0,,,350.0
+2022-04-10,2022,tour-of-turkey,gc,Team DSM,2.Pro,,0,0,,35.0,,,55.0
+2022-10-04,2022,tre-valli-varesine,gc,Team DSM,1.Pro,,,1,,0.0,,,5.0
+2022-02-20,2022,uae-tour,gc,Team DSM,2.UWT,16.0,20.0,1,,100.0,,,100.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Team DSM,1.1,,0,0,,0.0,,,15.0
+2022-03-21,2022,volta-a-catalunya,gc,Team DSM,2.UWT,,0,0,,8.0,,,8.0
+2022-08-20,2022,vuelta-a-espana,gc,Team DSM,2.UWT,5.0,380.0,1,,380.0,0.0,0.0,528.0
+2022-08-20,2022,vuelta-a-espana,kom,Team DSM,2.UWT,4.0,0.0,1,,380.0,0.0,0.0,528.0
+2022-08-20,2022,vuelta-a-espana,points,Team DSM,2.UWT,18.0,0.0,1,,380.0,0.0,0.0,528.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Team DSM,2.Pro,,0,0,,0.0,,,0.0
+2022-06-08,2022,zlm-tour,gc,Team DSM,2.Pro,,0,0,,13.0,,,18.0
+2023-04-16,2023,amstel-gold-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,335.0
+2023-04-12,2023,brabantse-pijl,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,35.0
+2023-09-03,2023,bretagne-classic,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,92.0
+2023-10-15,2023,chrono-des-nations,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2023-02-12,2023,clasica-de-almeria,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,128.0
+2023-08-20,2023,cyclassics-hamburg,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,262.0
+2023-08-23,2023,deutschland-tour,gc,INEOS Grenadiers,2.Pro,,0,0,,100.0,,,115.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,47.0
+2023-03-24,2023,e3-harelbeke,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,78.0
+2023-02-01,2023,etoile-de-besseges,gc,INEOS Grenadiers,2.1,,0,0,,50.0,,,58.0
+2023-03-26,2023,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,65.0
+2023-05-06,2023,giro-d-italia,gc,INEOS Grenadiers,2.UWT,6.0,415.0,1,,1480.0,0.0,0.0,2641.0
+2023-05-06,2023,giro-d-italia,kom,INEOS Grenadiers,2.UWT,56.0,0.0,1,,1480.0,0.0,0.0,2641.0
+2023-05-06,2023,giro-d-italia,points,INEOS Grenadiers,2.UWT,53.0,0.0,1,,1480.0,0.0,0.0,2641.0
+2023-09-30,2023,giro-dell-emilia,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,5.0
+2023-09-13,2023,giro-di-toscana,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,160.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,163.0
+2023-09-10,2023,gp-montreal,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,403.0
+2023-09-08,2023,gp-quebec,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,25.0
+2023-10-05,2023,gran-piemonte,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,105.0
+2023-01-29,2023,great-ocean-road-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,21.0
+2023-10-07,2023,il-lombardia,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,255.0
+2023-04-03,2023,itzulia-basque-country,gc,INEOS Grenadiers,2.UWT,,0,0,,20.0,,,70.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,8.0
+2023-04-19,2023,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,26.0
+2023-06-15,2023,la-route-d-occitanie,gc,INEOS Grenadiers,2.1,,0,0,,20.0,,,23.0
+2023-04-23,2023,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,145.0
+2023-09-16,2023,memorial-marco-pantani,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,70.0
+2023-03-18,2023,milano-sanremo,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,685.0
+2023-01-08,2023,nc-australia,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,100.0
+2023-01-10,2023,nc-australia-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-canada2,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2023-02-05,2023,nc-colombia,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,78.0
+2023-02-02,2023,nc-colombia-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-germany,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-great-britain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,70.0
+2023-06-24,2023,nc-italy,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,3.0
+2023-06-22,2023,nc-italy-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2023-06-21,2023,nc-netherlands-itt,gc,INEOS Grenadiers,NC,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-poland,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,3.0
+2023-06-22,2023,nc-poland-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2023-06-23,2023,nc-spain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,ncgreat-britain,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,30.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,132.0
+2023-03-05,2023,paris-nice,gc,INEOS Grenadiers,2.UWT,,0,0,,133.0,,,159.0
+2023-04-09,2023,paris-roubaix,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,280.0
+2023-03-19,2023,per-sempre-alfredo,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,50.0
+2023-08-23,2023,renewi-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,64.0,,,117.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,70.0
+2023-02-15,2023,ruta-del-sol,gc,INEOS Grenadiers,2.Pro,,0,0,,233.0,,,274.0
+2023-07-29,2023,san-sebastian,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,28.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,INEOS Grenadiers,2.1,,0,0,,50.0,,,50.0
+2023-03-04,2023,strade-bianche,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,450.0
+2023-03-06,2023,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,22.0,20.0,1,,365.0,,,515.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,INEOS Grenadiers,2.UWT,,0,0,,195.0,,,184.0
+2023-07-01,2023,tour-de-france,gc,INEOS Grenadiers,2.UWT,,0,0,,935.0,0.0,0.0,1835.0
+2023-07-01,2023,tour-de-france,kom,INEOS Grenadiers,2.UWT,,0,0,,935.0,0.0,0.0,1835.0
+2023-07-01,2023,tour-de-france,points,INEOS Grenadiers,2.UWT,,0,0,,935.0,0.0,0.0,1835.0
+2023-05-10,2023,tour-de-hongrie,gc,INEOS Grenadiers,2.Pro,,0,0,,205.0,,,208.0
+2023-07-29,2023,tour-de-pologne,gc,INEOS Grenadiers,2.UWT,49.0,8.0,1,,312.0,,,388.0
+2023-04-26,2023,tour-de-romandie,gc,INEOS Grenadiers,2.UWT,,0,0,,225.0,,,323.0
+2023-06-11,2023,tour-de-suisse,gc,INEOS Grenadiers,2.UWT,,0,0,,73.0,,,103.0
+2023-07-22,2023,tour-de-wallonie,gc,INEOS Grenadiers,2.Pro,,0,0,,450.0,,,525.0
+2023-01-17,2023,tour-down-under,gc,INEOS Grenadiers,2.UWT,,0,0,,313.0,,,365.0
+2023-07-02,2023,tour-of-austria,gc,INEOS Grenadiers,2.1,,0,0,,178.0,,,228.0
+2023-09-03,2023,tour-of-britain,gc,INEOS Grenadiers,2.Pro,,0,0,,141.0,,,164.0
+2023-09-26,2023,tour-of-croatia,gc,INEOS Grenadiers,2.1,,0,0,,130.0,,,157.0
+2023-10-12,2023,tour-of-guangxi,gc,INEOS Grenadiers,2.UWT,,0,0,,255.0,,,340.0
+2023-05-26,2023,tour-of-norway,gc,INEOS Grenadiers,2.Pro,,0,0,,350.0,,,395.0
+2023-04-17,2023,tour-of-the-alps,gc,INEOS Grenadiers,2.Pro,33.0,3.0,1,,278.0,,,328.0
+2023-10-03,2023,tre-valli-varesine,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,40.0
+2023-03-01,2023,trofeo-laigueglia,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,10.0
+2023-02-20,2023,uae-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,262.0,,,286.0
+2023-03-20,2023,volta-a-catalunya,gc,INEOS Grenadiers,2.UWT,,0,0,,32.0,,,42.0
+2023-02-15,2023,volta-ao-algarve,gc,INEOS Grenadiers,2.Pro,24.0,5.0,1,,423.0,,,473.0
+2023-08-27,2023,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,,,1,,50.0,0.0,0.0,884.0
+2023-08-27,2023,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,,1,,50.0,0.0,0.0,884.0
+2023-08-27,2023,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,,1,,50.0,0.0,0.0,884.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,INEOS Grenadiers,2.Pro,30.0,5.0,1,,178.0,,,213.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,INEOS Grenadiers,2.Pro,,0,0,,305.0,,,328.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2024-04-14,2024,amstel-gold-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,510.0
+2024-08-25,2024,bretagne-classic,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,52.0
+2024-02-12,2024,clasica-jaen-paraiso-interior,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,41.0
+2024-09-08,2024,cyclassics-hamburg,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,14.0
+2024-07-25,2024,czech-tour,gc,INEOS Grenadiers,2.1,,0,0,,35.0,,,35.0
+2024-08-22,2024,deutschland-tour,gc,INEOS Grenadiers,2.Pro,,0,0,,5.0,,,5.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,136.0
+2024-03-22,2024,e3-harelbeke,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,156.0
+2024-03-24,2024,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,30.0
+2024-05-04,2024,giro-d-italia,gc,INEOS Grenadiers,2.UWT,6.0,415.0,1,,1215.0,0.0,0.0,2951.0
+2024-05-04,2024,giro-d-italia,kom,INEOS Grenadiers,2.UWT,52.0,0.0,1,,1215.0,0.0,0.0,2951.0
+2024-05-04,2024,giro-d-italia,points,INEOS Grenadiers,2.UWT,36.0,0.0,1,,1215.0,0.0,0.0,2951.0
+2024-10-05,2024,giro-dell-emilia,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,153.0
+2024-09-15,2024,gp-montreal,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,30.0
+2024-09-13,2024,gp-quebec,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,10.0
+2024-02-22,2024,gran-camino,gc,INEOS Grenadiers,2.1,,0,0,,70.0,,,89.0
+2024-10-10,2024,gran-piemonte,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,8.0
+2024-01-28,2024,great-ocean-road-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,158.0
+2024-10-12,2024,il-lombardia,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,80.0
+2024-04-01,2024,itzulia-basque-country,gc,INEOS Grenadiers,2.UWT,,0,0,,364.0,,,428.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2024-04-17,2024,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,0.0
+2024-04-21,2024,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,180.0
+2024-03-16,2024,milano-sanremo,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,150.0
+2024-06-22,2024,nc-canada2,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,5.0
+2024-01-28,2024,nc-colombia,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,70.0
+2024-01-25,2024,nc-colombia-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,35.0
+2024-02-03,2024,nc-ecuador,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,100.0
+2024-06-23,2024,nc-germany,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,60.0
+2024-06-19,2024,nc-great-britain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,63.0
+2024-06-23,2024,nc-italy,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2024-06-20,2024,nc-italy-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-norway,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-norway-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-spain,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,ncgreat-britain,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,171.0
+2024-03-13,2024,nokere-koerse,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,8.0
+2024-08-03,2024,olympic-games,gc,Netherlands,Olympics,,0,0,,0.0,,,120.0
+2024-07-27,2024,olympic-games-itt,gc,Netherlands,Olympics,,0,0,,0.0,,,10.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,81.0
+2024-03-03,2024,paris-nice,gc,INEOS Grenadiers,2.UWT,,0,0,,243.0,,,270.0
+2024-04-07,2024,paris-roubaix,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,-30.0
+2024-01-25,2024,race-torquay,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,90.0
+2024-08-28,2024,renewi-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,124.0,,,190.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,345.0
+2024-08-10,2024,san-sebastian,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,196.0
+2024-03-02,2024,strade-bianche,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,244.0
+2024-03-04,2024,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,6.0,175.0,1,,305.0,,,376.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,INEOS Grenadiers,2.UWT,,0,0,,533.0,,,706.0
+2024-06-29,2024,tour-de-france,gc,INEOS Grenadiers,2.UWT,,0,0,,630.0,0.0,0.0,1295.0
+2024-06-29,2024,tour-de-france,kom,INEOS Grenadiers,2.UWT,,0,0,,630.0,0.0,0.0,1295.0
+2024-06-29,2024,tour-de-france,points,INEOS Grenadiers,2.UWT,,0,0,,630.0,0.0,0.0,1295.0
+2024-05-08,2024,tour-de-hongrie,gc,INEOS Grenadiers,2.Pro,,0,0,,43.0,,,43.0
+2024-05-24,2024,tour-de-la-mirabelle,gc,Netherlands,2.2,,0,0,,30.0,,,33.0
+2024-08-12,2024,tour-de-pologne,gc,INEOS Grenadiers,2.UWT,,0,0,,188.0,,,214.0
+2024-04-23,2024,tour-de-romandie,gc,INEOS Grenadiers,2.UWT,27.0,20.0,1,,610.0,,,705.0
+2024-06-09,2024,tour-de-suisse,gc,INEOS Grenadiers,2.UWT,,0,0,,480.0,,,668.0
+2024-01-16,2024,tour-down-under,gc,INEOS Grenadiers,2.UWT,,0,0,,415.0,,,550.0
+2024-07-02,2024,tour-of-austria,gc,INEOS Grenadiers,2.1,,0,0,,155.0,,,196.0
+2024-09-03,2024,tour-of-britain,gc,INEOS Grenadiers,2.Pro,,0,0,,15.0,,,30.0
+2024-10-01,2024,tour-of-croatia,gc,INEOS Grenadiers,2.1,,0,0,,13.0,,,13.0
+2024-10-15,2024,tour-of-guangxi,gc,INEOS Grenadiers,2.UWT,,0,0,,21.0,,,21.0
+2024-05-23,2024,tour-of-norway,gc,INEOS Grenadiers,2.Pro,,0,0,,138.0,,,156.0
+2024-06-12,2024,tour-of-slovenia,gc,INEOS Grenadiers,2.Pro,,0,0,,5.0,,,23.0
+2024-04-15,2024,tour-of-the-alps,gc,INEOS Grenadiers,2.Pro,,0,0,,28.0,,,58.0
+2024-10-08,2024,tre-valli-varesine,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,0.0
+2024-02-19,2024,uae-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,123.0,,,116.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Netherlands,CC,,,1,,0.0,,,55.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Netherlands,CC,,0,0,,0.0,,,210.0
+2024-03-18,2024,volta-a-catalunya,gc,INEOS Grenadiers,2.UWT,,0,0,,308.0,,,354.0
+2024-02-14,2024,volta-ao-algarve,gc,INEOS Grenadiers,2.Pro,5.0,85.0,1,,160.0,,,185.0
+2024-08-05,2024,vuelta-a-burgos,gc,INEOS Grenadiers,2.Pro,20.0,5.0,1,,70.0,,,73.0
+2024-08-17,2024,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,,,1,,250.0,0.0,0.0,691.0
+2024-08-17,2024,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,,1,,250.0,0.0,0.0,691.0
+2024-08-17,2024,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,,1,,250.0,0.0,0.0,691.0
+2024-02-10,2024,vuelta-ciclista-a-la-region-de-murcia,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,60.0
+2024-09-29,2024,world-championship,gc,Netherlands,WC,,0,0,,0.0,,,750.0
+2024-09-22,2024,world-championship-itt,gc,Netherlands,WC,,0,0,,0.0,,,10.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,INEOS Grenadiers,2.Pro,,0,0,,245.0,,,275.0
+2025-04-20,2025,amstel-gold-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,15.0
+2025-08-31,2025,bretagne-classic,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,16.0
+2025-10-19,2025,chrono-des-nations,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2025-02-17,2025,clasica-jaen-paraiso-interior,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,190.0
+2025-05-13,2025,classique-dunkerque,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,3.0
+2025-08-17,2025,cyclassics-hamburg,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,24.0
+2025-08-20,2025,deutschland-tour,gc,INEOS Grenadiers,2.Pro,,0,0,,88.0,,,113.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,14.0
+2025-03-28,2025,e3-harelbeke,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,266.0
+2025-02-05,2025,etoile-de-besseges,gc,INEOS Grenadiers,2.1,,0,0,,0.0,,,0.0
+2025-02-16,2025,figueira-champions-classic,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,108.0
+2025-03-30,2025,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,30.0
+2025-05-09,2025,giro-d-italia,gc,INEOS Grenadiers,2.UWT,29.0,30.0,1,,370.0,0.0,0.0,1232.0
+2025-05-09,2025,giro-d-italia,kom,INEOS Grenadiers,2.UWT,,,1,,370.0,0.0,0.0,1232.0
+2025-05-09,2025,giro-d-italia,points,INEOS Grenadiers,2.UWT,104.0,0.0,1,,370.0,0.0,0.0,1232.0
+2025-10-04,2025,giro-dell-emilia,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,105.0
+2025-02-02,2025,gp-d-ouverture,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,36.0
+2025-09-17,2025,gp-de-wallonie,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,125.0
+2025-09-14,2025,gp-montreal,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,10.0
+2025-09-12,2025,gp-quebec,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,5.0
+2025-10-09,2025,gran-piemonte,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,45.0
+2025-02-02,2025,great-ocean-road-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,120.0
+2025-10-11,2025,il-lombardia,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,200.0
+2025-04-07,2025,itzulia-basque-country,gc,INEOS Grenadiers,2.UWT,,0,0,,24.0,,,105.0
+2025-04-23,2025,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,56.0
+2025-04-27,2025,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,230.0
+2025-03-22,2025,milano-sanremo,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,670.0
+2025-06-27,2025,nc-canada-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2025-06-28,2025,nc-canada2,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,60.0
+2025-02-09,2025,nc-colombia,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,140.0
+2025-02-06,2025,nc-colombia-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,70.0
+2025-06-29,2025,nc-france,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,40.0
+2025-06-29,2025,nc-germany,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-great-britain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,35.0
+2025-06-29,2025,nc-italy,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-italy-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-luxembourg,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,30.0
+2025-06-26,2025,nc-luxembourg-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-norway,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,20.0
+2025-06-26,2025,nc-norway-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2025-05-26,2025,nc-united-states,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2025-05-21,2025,nc-usa-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,ncgreat-britain,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,100.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Netherlands,2.2,,0,0,,0.0,,,-2.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,125.0
+2025-03-09,2025,paris-nice,gc,INEOS Grenadiers,2.UWT,3.0,325.0,1,,720.0,,,887.0
+2025-04-13,2025,paris-roubaix,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,95.0
+2025-10-12,2025,paris-tours,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,3.0
+2025-01-30,2025,race-torquay,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,38.0
+2025-08-20,2025,renewi-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,24.0,,,51.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,255.0
+2025-02-19,2025,ruta-del-sol,gc,INEOS Grenadiers,2.Pro,,0,0,,11.0,,,51.0
+2025-08-02,2025,san-sebastian,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,8.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,INEOS Grenadiers,2.1,,0,0,,20.0,,,39.0
+2025-03-08,2025,strade-bianche,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,50.0
+2025-03-10,2025,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,,0,0,,420.0,,,467.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,INEOS Grenadiers,2.UWT,,0,0,,113.0,,,178.0
+2025-07-05,2025,tour-de-france,gc,INEOS Grenadiers,2.UWT,12.0,165.0,1,,200.0,0.0,0.0,1045.0
+2025-07-05,2025,tour-de-france,kom,INEOS Grenadiers,2.UWT,4.0,0.0,1,,200.0,0.0,0.0,1045.0
+2025-07-05,2025,tour-de-france,points,INEOS Grenadiers,2.UWT,18.0,0.0,1,,200.0,0.0,0.0,1045.0
+2025-08-04,2025,tour-de-pologne,gc,INEOS Grenadiers,2.UWT,,0,0,,186.0,,,394.0
+2025-04-29,2025,tour-de-romandie,gc,INEOS Grenadiers,2.UWT,,0,0,,213.0,,,325.0
+2025-06-15,2025,tour-de-suisse,gc,INEOS Grenadiers,2.UWT,,0,0,,40.0,,,40.0
+2025-07-26,2025,tour-de-wallonie,gc,INEOS Grenadiers,2.Pro,,0,0,,80.0,,,80.0
+2025-01-21,2025,tour-down-under,gc,INEOS Grenadiers,2.UWT,,0,0,,155.0,,,215.0
+2025-07-09,2025,tour-of-austria,gc,INEOS Grenadiers,2.1,,0,0,,59.0,,,83.0
+2025-06-18,2025,tour-of-belgium,gc,INEOS Grenadiers,2.Pro,,0,0,,100.0,,,125.0
+2025-09-02,2025,tour-of-britain,gc,INEOS Grenadiers,2.Pro,19.0,5.0,1,,26.0,,,51.0
+2025-09-30,2025,tour-of-croatia,gc,INEOS Grenadiers,2.1,,0,0,,123.0,,,137.0
+2025-10-14,2025,tour-of-guangxi,gc,INEOS Grenadiers,2.UWT,,0,0,,31.0,,,34.0
+2025-05-29,2025,tour-of-norway,gc,INEOS Grenadiers,2.Pro,,0,0,,150.0,,,170.0
+2025-04-21,2025,tour-of-the-alps,gc,INEOS Grenadiers,2.Pro,2.0,150.0,1,,153.0,,,173.0
+2025-10-07,2025,tre-valli-varesine,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,0.0
+2025-03-05,2025,trofeo-laigueglia,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,95.0
+2025-02-17,2025,uae-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,22.0,,,62.0
+2025-10-01,2025,uec-road-european-championships-itt,gc,Netherlands,CC,,0,0,,0.0,,,20.0
+2025-10-05,2025,uec-road-european-championships-me,gc,Netherlands,CC,,0,0,,0.0,,,0.0
+2025-03-24,2025,volta-a-catalunya,gc,INEOS Grenadiers,2.UWT,,0,0,,268.0,,,346.0
+2025-02-19,2025,volta-ao-algarve,gc,INEOS Grenadiers,2.Pro,17.0,5.0,1,,130.0,,,150.0
+2025-08-05,2025,vuelta-a-burgos,gc,INEOS Grenadiers,2.Pro,,0,0,,80.0,,,80.0
+2025-08-23,2025,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,,0,0,,100.0,0.0,0.0,994.0
+2025-08-23,2025,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,0,0,,100.0,0.0,0.0,994.0
+2025-08-23,2025,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,0,0,,100.0,0.0,0.0,994.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,INEOS Grenadiers,2.Pro,4.0,100.0,1,,195.0,,,201.0
+2025-09-28,2025,world-championship,gc,Netherlands,WC,,,1,,0.0,,,45.0
+2025-09-21,2025,world-championship-itt,gc,Netherlands,WC,,,1,,0.0,,,80.0

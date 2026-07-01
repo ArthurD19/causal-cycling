@@ -1,0 +1,68 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Java Kiwi Atlántico,1.1,,0,0,,0.0,,,0.0
+2022-03-20,2022,cholet-pays-de-loire,gc,Java Kiwi Atlántico,1.1,,,1,,0.0,,,0.0
+2022-07-31,2022,circuito-de-getxo,gc,Java Kiwi Atlántico,1.1,,0,0,,0.0,,,0.0
+2022-03-19,2022,classic-loire-atlantique,gc,Java Kiwi Atlántico,1.1,,,1,,0.0,,,0.0
+2022-01-28,2022,deia-trophy,gc,Java Kiwi Atlántico,1.1,,,1,,0.0,,,0.0
+2022-04-24,2022,east-midlands-international-cicle-classic,gc,Java Kiwi Atlántico,1.2,,,1,,0.0,,,0.0
+2022-01-23,2022,gp-de-valence,gc,Java Kiwi Atlántico,1.2,,,1,,0.0,,,0.0
+2022-06-30,2022,gp-int-torres-vedras,gc,Java Kiwi Atlántico,2.2,71.0,0.0,1,,0.0,,,0.0
+2022-05-08,2022,nc-cyprus,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,50.0
+2022-05-04,2022,nc-cyprus-itt,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,25.0
+2022-06-26,2022,nc-greece,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,40.0
+2022-06-24,2022,nc-greece-itt,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-japan,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-japan-itt,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,5.0
+2022-05-08,2022,nc-panama,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,10.0
+2022-05-06,2022,nc-panama-itt,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,15.0
+2022-06-26,2022,nc-spain,gc,Java Kiwi Atlántico,NC,,0,0,,0.0,,,1.0
+2022-06-06,2022,paris-troyes,gc,Java Kiwi Atlántico,1.2,,,1,,0.0,,,30.0
+2022-07-25,2022,prueba-villafranca,gc,Java Kiwi Atlántico,1.1,,,1,,0.0,,,70.0
+2022-06-02,2022,ronde-de-l-oise,gc,Java Kiwi Atlántico,2.2,81.0,0.0,1,,0.0,,,0.0
+2022-04-13,2022,tour-du-loir-et-cher,gc,Java Kiwi Atlántico,2.2,119.0,0.0,1,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Java Kiwi Atlántico,1.1,,,1,,0.0,,,0.0
+2022-01-30,2022,trofeo-palma,gc,Java Kiwi Atlántico,1.1,,0,0,,0.0,,,0.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Java Kiwi Atlántico,1.1,,,1,,0.0,,,0.0
+2022-03-13,2022,trofeu-da-arrabida,gc,Java Kiwi Atlántico,1.2,,,1,,0.0,,,3.0
+2022-08-04,2022,volta-a-portugal,gc,Java Kiwi Atlántico,2.1,103.0,0.0,1,,0.0,,,0.0
+2022-04-29,2022,vuelta-asturias,gc,Java Kiwi Atlántico,2.1,,,1,,0.0,,,0.0
+2023-09-08,2023,grand-prix-boukraa,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,0.0
+2023-05-28,2023,grand-prix-de-la-famille-royal,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,35.0
+2023-05-26,2023,grand-prix-de-prince-heritier-moulay-el-hassan,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,30.0
+2023-05-27,2023,grand-prix-du-trone,gc,Sidi Ali - Unlock Team,1.2,,0,0,,0.0,,,20.0
+2023-09-10,2023,grand-prix-el-marsa,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,25.0
+2023-09-09,2023,grand-prix-es-semara,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-bulgaria,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,50.0
+2023-07-03,2023,nc-iran,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,30.0
+2023-07-23,2023,nc-malaysia,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-morocco,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,5.0
+2023-06-25,2023,nc-spain,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-sweden,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2023-02-01,2023,tour-du-sahel,gc,Sidi Ali - Unlock Team,2.2,,0,0,,3.0,,,3.0
+2024-07-15,2024,clasica-terres-de-l-ebre,gc,Sidi Ali - Unlock Team,1.2,,,1,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Sidi Ali - Unlock Team,2.1,,0,0,,0.0,,,0.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Sidi Ali - Unlock Team,2.2,62.0,0.0,1,,0.0,,,0.0
+2024-01-28,2024,nc-colombia,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2024-06-30,2024,nc-greece,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2024-06-30,2024,nc-morocco,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,nc-spain,gc,Sidi Ali - Unlock Team,NC,,0,0,,0.0,,,0.0
+2024-03-10,2024,tour-de-taiwan,gc,Sidi Ali - Unlock Team,2.1,71.0,0.0,1,,0.0,,,0.0
+2024-05-31,2024,tour-du-maroc,gc,Sidi Ali - Unlock Team,2.2,,0,0,,0.0,,,4.0
+2024-08-23,2024,trans-himalaya-cycling-race,gc,Sidi Ali - Unlock Team,2.2,,,1,,0.0,,,0.0
+2024-04-26,2024,vuelta-asturias,gc,Sidi Ali - Unlock Team,2.1,81.0,0.0,1,,0.0,,,0.0
+2025-04-23,2025,banja-luka-belgrade-i,gc,P.A.S. Ioanninon - P&I,2.2,68.0,0.0,1,,0.0,,,0.0
+2025-07-10,2025,gp-int-torres-vedras,gc,May Stars,2.2,,,1,,0.0,,,0.0
+2025-06-29,2025,national-championships-cameroon-road-race,gc,May Stars,NC,,0,0,,0.0,,,1.0
+2025-06-29,2025,nc-greece,gc,P.A.S. Ioanninon - P&I,NC,,0,0,,0.0,,,2.0
+2025-06-27,2025,nc-greece-itt,gc,P.A.S. Ioanninon - P&I,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,May Stars,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-rwanda,gc,May Stars,NC,,0,0,,0.0,,,30.0
+2025-06-28,2025,nc-rwanda-itt,gc,May Stars,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-spain,gc,May Stars,NC,,0,0,,0.0,,,0.0
+2025-03-16,2025,popolarissima,gc,May Stars,1.2,,,1,,0.0,,,0.0
+2025-05-11,2025,radsportfest-marwil,gc,May Stars,1.2,,,1,,0.0,,,0.0
+2025-05-26,2025,tour-of-albania,gc,P.A.S. Ioanninon - P&I,2.2,10.0,3.0,1,,3.0,,,4.0
+2025-09-04,2025,tour-of-kosovo,gc,P.A.S. Ioanninon - P&I,2.2,46.0,0.0,1,,0.0,,,0.0
+2025-06-04,2025,tour-of-lithuania,gc,May Stars,2.2,104.0,0.0,1,,0.0,,,0.0
+2025-09-15,2025,tour-of-poyang-lake,gc,May Stars,2.2,39.0,0.0,1,,0.0,,,0.0
+2025-02-23,2025,tour-of-rwanda,gc,May Stars,2.1,63.0,0.0,1,,0.0,,,0.0

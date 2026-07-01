@@ -1,0 +1,160 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-27,2017,asian-cc-u23-itt,gc,Beijing XDS - Innova Cycling Team,CC,,0,0,,0.0,,,0.0
+2017-03-02,2017,asian-championships-me,gc,Uzbekistan,CC,,,1,,0.0,,,40.0
+2017-02-27,2017,asian-cycling-championships-itt,gc,Uzbekistan,CC,,,1,,0.0,,,25.0
+2017-07-08,2017,grand-prix-minsk,gc,Beijing XDS - Innova Cycling Team,1.2,,0,0,,0.0,,,0.0
+2017-02-18,2017,le-tour-de-filipinas,gc,Beijing XDS - Innova Cycling Team,2.2,20.0,0.0,1,,0.0,,,0.0
+2017-07-07,2017,minsk-cup,gc,Beijing XDS - Innova Cycling Team,1.2,,0,0,,0.0,,,0.0
+2017-06-02,2017,nc-uzbekistan,gc,Beijing XDS - Innova Cycling Team,NC,,,1,,0.0,,,45.0
+2017-05-29,2017,nc-uzbekistan-itt,gc,Beijing XDS - Innova Cycling Team,NC,,,1,,0.0,,,21.0
+2017-09-30,2017,tour-of-almaty,gc,Beijing XDS - Innova Cycling Team,2.1,48.0,0.0,1,,0.0,,,0.0
+2017-09-10,2017,tour-of-china,gc,Beijing XDS - Innova Cycling Team,2.1,52.0,0.0,1,,0.0,,,0.0
+2017-09-19,2017,tour-of-china-ii,gc,Beijing XDS - Innova Cycling Team,2.1,62.0,0.0,1,,0.0,,,0.0
+2017-10-28,2017,tour-of-hainan,gc,Beijing XDS - Innova Cycling Team,2.HC,,0,0,,0.0,,,0.0
+2017-08-25,2017,tour-of-xingtai,gc,Beijing XDS - Innova Cycling Team,2.2,14.0,0.0,1,,0.0,,,0.0
+2018-05-02,2018,five-rings-of-moscow,gc,RTS Racing Team,2.2,,0,0,,0.0,,,0.0
+2018-08-19,2018,grand-prix-minsk,gc,RTS Racing Team,1.2,,0,0,,0.0,,,3.0
+2018-06-03,2018,horizon-park-classic,gc,RTS Racing Team,1.2,,0,0,,0.0,,,0.0
+2018-08-18,2018,minsk-cup,gc,RTS Racing Team,1.2,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-belarus,gc,RTS Racing Team,NC,,0,0,,0.0,,,0.0
+2018-06-25,2018,nc-mongolia,gc,RTS Racing Team,NC,,0,0,,0.0,,,4.0
+2018-06-22,2018,nc-mongolia-itt,gc,RTS Racing Team,NC,,0,0,,0.0,,,10.0
+2018-06-24,2018,nc-ukraine,gc,RTS Racing Team,NC,,0,0,,0.0,,,0.0
+2018-06-20,2018,nc-ukraine-itt,gc,RTS Racing Team,NC,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-uzbekistan,gc,RTS Racing Team,NC,,,1,,0.0,,,0.0
+2018-06-20,2018,nc-uzbekistan-itt,gc,RTS Racing Team,NC,,,1,,0.0,,,0.0
+2018-06-02,2018,race-horizon-park-2,gc,RTS Racing Team,1.2,,0,0,,0.0,,,0.0
+2018-08-23,2018,summer-asian-games,gc,Uzbekistan,JC,,,1,,0.0,,,10.0
+2018-08-24,2018,summer-asian-games-itt,gc,Uzbekistan,JC,,,1,,0.0,,,55.0
+2018-03-11,2018,tour-de-taiwan,gc,RTS Racing Team,2.1,,0,0,,0.0,,,0.0
+2018-09-08,2018,tour-of-china,gc,RTS Racing Team,2.1,45.0,0.0,1,,3.0,,,3.0
+2018-09-17,2018,tour-of-china-ii,gc,RTS Racing Team,2.1,,,1,,0.0,,,0.0
+2018-10-23,2018,tour-of-hainan,gc,RTS Racing Team,2.HC,,0,0,,5.0,,,5.0
+2018-11-09,2018,tour-of-quanzhou-bay,gc,RTS Racing Team,2.2,,0,0,,0.0,,,0.0
+2018-01-24,2018,tour-of-sharjah,gc,Uzbekistan,2.1,15.0,5.0,1,,5.0,,,5.0
+2018-10-07,2018,tour-of-taihu-lake,gc,RTS Racing Team,2.1,,0,0,,0.0,,,0.0
+2018-09-03,2018,tour-of-xingtai,gc,RTS Racing Team,2.2,11.0,0.0,1,,0.0,,,0.0
+2019-04-01,2019,tour-of-thailand,gc,Uzbekistan,2.1,52.0,0.0,1,,0.0,,,0.0
+2019-09-25,2019,world-championship-itt,gc,Uzbekistan,WC,,,1,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2021-06-09,2021,five-rings-of-moscow,gc,Uzbekistan,2.2,,0,0,,0.0,,,0.0
+2021-07-03,2021,germenica-grand-prix-road-race-me,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2021-02-06,2021,grand-prix-alanya,gc,Uzbekistan,1.2,,,1,,0.0,,,20.0
+2021-07-10,2021,grand-prix-erciyes-mimar-sinan-me,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2021-02-07,2021,grand-prix-gazipasa,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2021-03-07,2021,grand-prix-gundogmus-me,gc,Uzbekistan,1.2,,,1,,0.0,,,5.0
+2021-02-20,2021,grand-prix-manavgat-side,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2021-03-06,2021,grand-prix-mediterrennean,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2021-02-21,2021,grand-prix-velo-alanya,gc,Uzbekistan,1.2,,,1,,0.0,,,10.0
+2021-07-04,2021,kahramanmaras-grand-prix-road-race-me,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2021-12-30,2021,nc-malaysia,gc,Sweet Nice Continental,NC,,0,0,,0.0,,,10.0
+2021-06-20,2021,nc-slovenia,gc,Sweet Nice Continental,NC,,0,0,,0.0,,,0.0
+2021-09-04,2021,nc-uzbekistan,gc,Sweet Nice Continental,NC,,,1,,0.0,,,15.0
+2021-09-02,2021,nc-uzbekistan-itt,gc,Sweet Nice Continental,NC,,,1,,0.0,,,25.0
+2021-07-24,2021,olympic-games,gc,Uzbekistan,Olympics,,,1,,0.0,,,0.0
+2021-12-01,2021,tour-of-thailand,gc,Sweet Nice Continental,2.1,,0,0,,13.0,,,13.0
+2021-09-19,2021,world-championship-itt,gc,Uzbekistan,WC,,,1,,0.0,,,0.0
+2022-03-29,2022,asian-championships-me,gc,Uzbekistan,CC,,,1,,0.0,,,55.0
+2022-03-27,2022,asian-cycling-championships-itt,gc,Uzbekistan,CC,,,1,,0.0,,,40.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-05-22,2022,gp-gorenjska,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-02-05,2022,grand-prix-alanya,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-08-21,2022,grand-prix-cappadocia,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-08-20,2022,grand-prix-develi,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,3.0
+2022-07-23,2022,grand-prix-erciyes-mimar-sinan-me,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,13.0
+2022-03-05,2022,grand-prix-gazipasa,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2022-03-20,2022,grand-prix-gundogmus-me,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-08-19,2022,grand-prix-kapuzbasi,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,10.0
+2022-07-24,2022,grand-prix-kayseri-me,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,30.0
+2022-03-19,2022,grand-prix-manavgat-side,gc,Uzbekistan,1.2,,,1,,0.0,,,5.0
+2022-03-06,2022,grand-prix-mediterrennean,gc,Uzbekistan,1.2,,,1,,0.0,,,3.0
+2022-01-30,2022,grand-prix-megasaray,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-01-30,2022,grand-prix-megasaray,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2022-08-18,2022,grand-prix-tomarza,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-07-31,2022,grand-prix-yahyali,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,3.0
+2022-08-11,2022,islamic-solidarity-games-me-itt,gc,Uzbekistan,JR,,,1,,0.0,,,0.0
+2022-08-13,2022,islamic-solidarity-games-me-road-race,gc,Uzbekistan,JR,,,1,,0.0,,,0.0
+2022-06-29,2022,nc-uzbekistan,gc,Tashkent City Professional Cycling Team,NC,,,1,,0.0,,,137.0
+2022-06-28,2022,nc-uzbekistan-itt,gc,Tashkent City Professional Cycling Team,NC,,0,0,,0.0,,,58.0
+2022-08-27,2022,tour-of-bulgaria,gc,Tashkent City Professional Cycling Team,2.2,46.0,0.0,1,,0.0,,,-5.0
+2022-05-26,2022,tour-of-estonia,gc,Tashkent City Professional Cycling Team,2.1,,,1,,0.0,,,0.0
+2022-08-25,2022,tour-of-konya,gc,Tashkent City Professional Cycling Team,2.2,,0,0,,0.0,,,0.0
+2022-06-03,2022,tour-of-malopolska,gc,Tashkent City Professional Cycling Team,2.2,24.0,0.0,1,,0.0,,,0.0
+2022-01-28,2022,tour-of-sharjah,gc,Tashkent City Professional Cycling Team,2.2,,0,0,,3.0,,,3.0
+2022-09-25,2022,world-championship,gc,Uzbekistan,WC,,,1,,0.0,,,0.0
+2023-08-01,2023,100th-anniversary-tour-of-the-republic,gc,Uzbekistan,2.2,,,1,,0.0,,,7.0
+2023-03-04,2023,alanya-cup,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,3.0
+2023-03-04,2023,alanya-cup,gc,Uzbekistan,1.2,,0,0,,0.0,,,15.0
+2023-06-13,2023,asian-championships-me,gc,Uzbekistan,CC,,,1,,0.0,,,-42.0
+2023-06-10,2023,asian-cycling-championships-itt,gc,Uzbekistan,CC,,0,0,,0.0,,,3.0
+2023-03-26,2023,gp-adria-mobil,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-07-30,2023,grand-prix-altinkale,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2023-02-04,2023,grand-prix-apollon-temple-me,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-02-04,2023,grand-prix-apollon-temple-me,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2023-01-28,2023,grand-prix-aspendos,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2023-09-08,2023,grand-prix-boukraa,gc,Uzbekistan,1.2,,,1,,0.0,,,6.0
+2023-09-10,2023,grand-prix-el-marsa,gc,Uzbekistan,1.2,,,1,,0.0,,,8.0
+2023-07-08,2023,grand-prix-erciyes-mimar-sinan-me,gc,Uzbekistan,1.2,,,1,,0.0,,,25.0
+2023-09-09,2023,grand-prix-es-semara,gc,Uzbekistan,1.2,,,1,,0.0,,,13.0
+2023-08-19,2023,grand-prix-kaisareiame,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-08-19,2023,grand-prix-kaisareiame,gc,Uzbekistan,1.2,,0,0,,0.0,,,3.0
+2023-08-23,2023,nc-uzbekistan,gc,Tashkent City Professional Cycling Team,NC,,,1,,0.0,,,125.0
+2023-08-22,2023,nc-uzbekistan-itt,gc,Tashkent City Professional Cycling Team,NC,,,1,,0.0,,,39.0
+2023-03-11,2023,rhodes-gp,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-03-04,2023,south-aegean-tour,gc,Tashkent City Professional Cycling Team,2.2,,0,0,,0.0,,,0.0
+2023-10-05,2023,summer-asian-games,gc,Uzbekistan,JC,,,1,,0.0,,,65.0
+2023-10-03,2023,summer-asian-games-itt,gc,Uzbekistan,JC,,0,0,,0.0,,,0.0
+2023-05-10,2023,the-tour-oqtosh-chorvoq-mountain,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,30.0
+2023-05-11,2023,the-tour-oqtosh-chorvoq-mountain-ii,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,15.0
+2023-05-13,2023,tour-of-bostonliq,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,30.0
+2023-05-14,2023,tour-of-bostonliq-ii,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,3.0
+2023-09-28,2023,tour-of-istanbul,gc,Uzbekistan,2.2,9.0,3.0,1,,3.0,,,3.0
+2023-05-17,2023,tour-of-konya,gc,Uzbekistan,2.2,18.0,0.0,1,,0.0,,,0.0
+2023-03-17,2023,tour-of-rhodes,gc,Tashkent City Professional Cycling Team,2.2,72.0,0.0,1,,0.0,,,0.0
+2023-01-27,2023,tour-of-sharjah,gc,Tashkent City Professional Cycling Team,2.2,90.0,0.0,1,,0.0,,,0.0
+2023-09-07,2023,tour-of-van,gc,Uzbekistan,2.2,,0,0,,25.0,,,31.0
+2023-08-25,2023,tour-of-yigido,gc,Uzbekistan,2.2,2.0,30.0,1,,30.0,,,37.0
+2023-10-14,2023,trans-himalaya-cycling-race,gc,Uzbekistan,2.2,4.0,20.0,1,,20.0,,,21.0
+2023-08-06,2023,world-championship,gc,Uzbekistan,WC,,,1,,0.0,,,0.0
+2023-08-11,2023,world-championship-itt,gc,Uzbekistan,WC,,,1,,0.0,,,0.0
+2024-02-25,2024,alanya-cup,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-02-25,2024,alanya-cup,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2024-06-12,2024,asian-championships-me,gc,Uzbekistan,CC,,,1,,0.0,,,3.0
+2024-06-09,2024,asian-cycling-championships-itt,gc,Uzbekistan,CC,,,1,,0.0,,,3.0
+2024-01-27,2024,gp-antalya,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-01-27,2024,gp-antalya,gc,Uzbekistan,1.2,,0,0,,0.0,,,5.0
+2024-02-03,2024,grand-prix-apollon-temple-me,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-02-03,2024,grand-prix-apollon-temple-me,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Tashkent City Professional Cycling Team,2.2,81.0,0.0,1,,0.0,,,0.0
+2024-06-28,2024,nc-uzbekistan,gc,Tashkent City Professional Cycling Team,NC,,,1,,0.0,,,331.0
+2024-06-25,2024,nc-uzbekistan-itt,gc,Tashkent City Professional Cycling Team,NC,,,1,,0.0,,,137.0
+2024-08-03,2024,olympic-games,gc,Uzbekistan,Olympics,,0,0,,0.0,,,0.0
+2024-03-02,2024,syedra-ancient-city,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,3.0
+2024-03-02,2024,syedra-ancient-city,gc,Uzbekistan,1.2,,0,0,,0.0,,,0.0
+2024-02-08,2024,tour-of-antalya,gc,Tashkent City Professional Cycling Team,2.1,,0,0,,0.0,,,0.0
+2024-05-27,2024,tour-of-bostonliq,gc,Uzbekistan,2.2,4.0,20.0,1,,35.0,,,39.0
+2024-05-16,2024,tour-of-konya,gc,Uzbekistan,2.2,6.0,10.0,1,,25.0,,,26.0
+2024-04-04,2024,tour-of-mersin,gc,Tashkent City Professional Cycling Team,2.2,19.0,0.0,1,,0.0,,,0.0
+2024-09-29,2024,world-championship,gc,Uzbekistan,WC,,0,0,,0.0,,,0.0
+2025-02-16,2025,asian-championships-me,gc,Uzbekistan,CC,,,1,,0.0,,,30.0
+2025-02-11,2025,asian-cycling-championships-itt,gc,Uzbekistan,CC,,,1,,0.0,,,0.0
+2025-07-06,2025,grand-prix-edebiyat-yolu,gc,Uzbekistan,1.2,,,1,,0.0,,,23.0
+2025-07-05,2025,grand-prix-kahramanmaras,gc,Uzbekistan,1.2,,,1,,0.0,,,33.0
+2025-08-24,2025,grand-prix-ordu,gc,Uzbekistan,1.2,,,1,,0.0,,,0.0
+2025-05-27,2025,international-azerbaijan-tour,gc,Uzbekistan,2.1,8.0,30.0,1,,58.0,,,58.0
+2025-06-26,2025,nc-uzbekistan,gc,OU7 Cycling Team,NC,,,1,,0.0,,,227.0
+2025-06-24,2025,nc-uzbekistan-itt,gc,OU7 Cycling Team,NC,,,1,,0.0,,,80.0
+2025-04-28,2025,tour-of-bostonliq,gc,Khorezm,2.2,18.0,0.0,1,,0.0,,,0.0
+2025-04-28,2025,tour-of-bostonliq,gc,Uzbekistan,2.2,,0,0,,25.0,,,39.0
+2025-09-04,2025,tour-of-istanbul,gc,Uzbekistan,2.1,42.0,0.0,1,,3.0,,,3.0
+2025-10-12,2025,tour-of-mentougou,gc,Uzbekistan,2.2,16.0,0.0,1,,0.0,,,0.0
+2025-08-27,2025,tour-of-samsun,gc,Uzbekistan,2.2,13.0,0.0,1,,0.0,,,0.0
+2025-03-24,2025,tour-of-thailand,gc,Uzbekistan,2.1,,0,0,,28.0,,,31.0
+2025-08-07,2025,trans-himalaya-cycling-race,gc,Uzbekistan,2.1,14.0,5.0,1,,10.0,,,5.0
+2025-09-28,2025,world-championship,gc,Uzbekistan,WC,,,1,,0.0,,,0.0

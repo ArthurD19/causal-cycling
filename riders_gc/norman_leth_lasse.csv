@@ -1,0 +1,528 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-05,2017,3daagse-van-west-vlaanderen,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,70.0
+2017-05-09,2017,4-jours-de-dunkerque,gc,Aqua Blue Sport,2.HC,36.0,3.0,1,,8.0,,,8.0
+2017-08-10,2017,arctic-race-of-norway,gc,Aqua Blue Sport,2.HC,,0,0,,125.0,,,125.0
+2017-04-12,2017,brabantse-pijl,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,5.0
+2017-03-17,2017,bredene-koksijde-classic,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,85.0
+2017-10-01,2017,circuit-franco-belge,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,3.0
+2017-03-28,2017,classic-brugge-de-panne,gc,Aqua Blue Sport,2.HC,,,1,,8.0,,,8.0
+2017-06-25,2017,danish-championships,gc,Aqua Blue Sport,NC,,,1,,0.0,,,15.0
+2017-01-31,2017,dubai-tour,gc,Aqua Blue Sport,2.HC,,0,0,,10.0,,,10.0
+2017-05-01,2017,eschborn-frankfurt,gc,Aqua Blue Sport,1.UWT,,,1,,0.0,,,65.0
+2017-02-25,2017,faun-ardeche-classic,gc,Aqua Blue Sport,1.1,,0,0,,0.0,,,0.0
+2017-07-12,2017,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Denmark,2.2U,,0,0,,15.0,,,15.0
+2017-07-19,2017,gp-cerami,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,5.0
+2017-01-29,2017,great-ocean-road-race,gc,Aqua Blue Sport,1.UWT,,0,0,,0.0,,,13.0
+2017-02-01,2017,herald-sun-tour,gc,Aqua Blue Sport,2.1,,0,0,,0.0,,,13.0
+2017-02-26,2017,la-drome-classic,gc,Aqua Blue Sport,1.1,,0,0,,0.0,,,8.0
+2017-04-19,2017,la-fleche-wallonne,gc,Aqua Blue Sport,1.UWT,,,1,,0.0,,,0.0
+2017-04-23,2017,liege-bastogne-liege,gc,Aqua Blue Sport,1.UWT,,0,0,,0.0,,,10.0
+2017-10-03,2017,memorial-frank-vandenbroucke,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,0.0
+2017-01-08,2017,nc-australia,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-austria2,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,15.0
+2017-06-22,2017,nc-denmark-itt,gc,Aqua Blue Sport,NC,,,1,,0.0,,,5.0
+2017-06-25,2017,nc-ireland,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,40.0
+2017-06-25,2017,nc-netherlands,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2017-06-21,2017,nc-netherlands-itt,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2017-01-08,2017,nc-new-zealand,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,20.0
+2017-06-25,2017,nc-norway,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-united-states,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,70.0
+2017-06-24,2017,nc-usa-itt,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,10.0
+2017-06-25,2017,ncgreat-britain,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2017-03-15,2017,nokere-koerse,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,153.0
+2017-09-30,2017,omloop-eurometropool,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,0.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Aqua Blue Sport,1.UWT,,,1,,0.0,,,1.0
+2017-10-08,2017,paris-tours,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,0.0
+2017-04-04,2017,region-pays-de-la-loire,gc,Aqua Blue Sport,2.1,,0,0,,5.0,,,5.0
+2017-07-30,2017,ride-london-classic,gc,Aqua Blue Sport,1.UWT,,0,0,,0.0,,,27.0
+2017-03-11,2017,ronde-van-drenthe,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,63.0
+2017-06-10,2017,tour-de-suisse,gc,Aqua Blue Sport,2.UWT,126.0,0.0,1,,15.0,,,75.0
+2017-07-22,2017,tour-de-wallonie,gc,Aqua Blue Sport,2.HC,113.0,0.0,1,,85.0,,,95.0
+2017-04-28,2017,tour-de-yorkshire,gc,Aqua Blue Sport,2.1,,0,0,,43.0,,,43.0
+2017-07-02,2017,tour-of-austria,gc,Aqua Blue Sport,2.1,,0,0,,125.0,,,130.0
+2017-05-24,2017,tour-of-belgium,gc,Aqua Blue Sport,2.HC,11.0,30.0,1,,50.0,,,50.0
+2017-09-12,2017,tour-of-denmark,gc,Denmark,2.HC,,0,0,,45.0,,,45.0
+2017-05-17,2017,tour-of-norway,gc,Aqua Blue Sport,2.HC,,0,0,,55.0,,,55.0
+2017-02-14,2017,tour-of-oman,gc,Aqua Blue Sport,2.HC,82.0,0.0,1,,15.0,,,15.0
+2017-04-17,2017,tour-of-the-alps,gc,Aqua Blue Sport,2.HC,,0,0,,0.0,,,0.0
+2017-02-12,2017,trofeo-laigueglia,gc,Aqua Blue Sport,1.HC,,0,0,,0.0,,,0.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,20.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Denmark,CC,,0,0,,0.0,,,0.0
+2017-08-01,2017,vuelta-a-burgos,gc,Aqua Blue Sport,2.HC,83.0,0.0,1,,0.0,,,10.0
+2017-08-20,2017,vuelta-a-espana,gc,Aqua Blue Sport,2.UWT,139.0,0.0,1,,0.0,0.0,0.0,120.0
+2017-08-20,2017,vuelta-a-espana,kom,Aqua Blue Sport,2.UWT,,,1,,0.0,0.0,0.0,120.0
+2017-08-20,2017,vuelta-a-espana,points,Aqua Blue Sport,2.UWT,,,1,,0.0,0.0,0.0,120.0
+2017-09-24,2017,world-championship,gc,Denmark,WC,,0,0,,0.0,,,120.0
+2017-09-20,2017,world-championship-itt,gc,Denmark,WC,,,1,,0.0,,,0.0
+2018-05-08,2018,4-jours-de-dunkerque,gc,Aqua Blue Sport,2.HC,16.0,5.0,1,,95.0,,,105.0
+2018-06-16,2018,albani-classic-fyen-rundt,gc,Denmark,1.1,,0,0,,0.0,,,88.0
+2018-04-15,2018,amstel-gold-race,gc,Aqua Blue Sport,1.UWT,,,1,,0.0,,,3.0
+2018-04-11,2018,brabantse-pijl,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,5.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,90.0
+2018-06-17,2018,circuit-des-xi-villes,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,128.0
+2018-03-21,2018,classic-brugge-de-panne,gc,Aqua Blue Sport,1.HC,,0,0,,0.0,,,48.0
+2018-07-01,2018,danish-championships,gc,Aqua Blue Sport,NC,,,1,,0.0,,,20.0
+2018-02-06,2018,dubai-tour,gc,Aqua Blue Sport,2.HC,,0,0,,10.0,,,15.0
+2018-06-15,2018,dwars-door-het-hageland,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,0.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Aqua Blue Sport,1.UWT,,0,0,,0.0,,,0.0
+2018-05-01,2018,eschborn-frankfurt,gc,Aqua Blue Sport,1.UWT,,,1,,0.0,,,25.0
+2018-02-24,2018,faun-ardeche-classic,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,0.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Denmark,2.2U,,0,0,,20.0,,,25.0
+2018-07-26,2018,gp-cerami,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,0.0
+2018-03-18,2018,gp-de-denain,gc,Aqua Blue Sport,1.HC,,0,0,,0.0,,,65.0
+2018-06-17,2018,gp-horsens,gc,Denmark,1.1,,0,0,,0.0,,,60.0
+2018-02-27,2018,gp-samyn,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,3.0
+2018-08-21,2018,gp-stad-zottegem,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,80.0
+2018-01-28,2018,great-ocean-road-race,gc,Aqua Blue Sport,1.UWT,,,1,,0.0,,,11.0
+2018-08-24,2018,great-war-remembrance-race,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,5.0
+2018-06-19,2018,halle-ingooigem,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,0.0
+2018-01-31,2018,herald-sun-tour,gc,Aqua Blue Sport,2.1,38.0,0.0,1,,5.0,,,22.0
+2018-02-25,2018,la-drome-classic,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,23.0
+2018-04-22,2018,liege-bastogne-liege,gc,Aqua Blue Sport,1.UWT,,,1,,0.0,,,0.0
+2018-07-01,2018,nc-austria2,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2018-06-28,2018,nc-denmark-itt,gc,Aqua Blue Sport,NC,,,1,,0.0,,,5.0
+2018-06-28,2018,nc-great-britain-itt,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-ireland,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,120.0
+2018-07-01,2018,nc-netherlands,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,0.0
+2018-06-27,2018,nc-netherlands-itt,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,3.0
+2018-01-07,2018,nc-new-zealand,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-united-states,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,10.0
+2018-06-21,2018,nc-usa-itt,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,15.0
+2018-07-01,2018,ncgreat-britain,gc,Aqua Blue Sport,NC,,0,0,,0.0,,,78.0
+2018-03-14,2018,nokere-koerse,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,85.0
+2018-03-11,2018,ronde-van-drenthe,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,3.0
+2018-06-10,2018,ronde-van-limburg,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,65.0
+2018-04-04,2018,scheldeprijs,gc,Aqua Blue Sport,1.HC,,0,0,,0.0,,,5.0
+2018-06-10,2018,tour-de-suisse,gc,Aqua Blue Sport,2.UWT,,0,0,,10.0,,,10.0
+2018-07-28,2018,tour-de-wallonie,gc,Aqua Blue Sport,2.HC,,0,0,,13.0,,,13.0
+2018-05-03,2018,tour-de-yorkshire,gc,Aqua Blue Sport,2.1,,0,0,,36.0,,,36.0
+2018-05-22,2018,tour-des-fjords,gc,Aqua Blue Sport,2.HC,,0,0,,35.0,,,35.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Denmark,1.Ncup,,0,0,,0.0,,,25.0
+2018-08-15,2018,tour-du-limousin,gc,Aqua Blue Sport,2.1,,0,0,,18.0,,,18.0
+2018-02-22,2018,tour-of-antalya,gc,Denmark,2.2,,0,0,,0.0,,,0.0
+2018-07-07,2018,tour-of-austria,gc,Aqua Blue Sport,2.1,,0,0,,5.0,,,10.0
+2018-05-23,2018,tour-of-belgium,gc,Aqua Blue Sport,2.HC,20.0,5.0,1,,115.0,,,115.0
+2018-04-17,2018,tour-of-croatia,gc,Aqua Blue Sport,2.HC,,0,0,,73.0,,,73.0
+2018-08-01,2018,tour-of-denmark,gc,Aqua Blue Sport,2.HC,3.0,125.0,1,,125.0,,,150.0
+2018-08-01,2018,tour-of-denmark,gc,Denmark,2.HC,,0,0,,65.0,,,85.0
+2018-05-16,2018,tour-of-norway,gc,Aqua Blue Sport,2.HC,,0,0,,30.0,,,30.0
+2018-02-13,2018,tour-of-oman,gc,Aqua Blue Sport,2.HC,,0,0,,35.0,,,35.0
+2018-02-11,2018,trofeo-laigueglia,gc,Aqua Blue Sport,1.HC,,,1,,0.0,,,3.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,5.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Denmark,CC,,,1,,0.0,,,10.0
+2018-08-22,2018,veenendaal-veenendaal,gc,Aqua Blue Sport,1.1,,,1,,0.0,,,5.0
+2018-03-31,2018,volta-nxt-classic,gc,Aqua Blue Sport,1.1,,0,0,,0.0,,,50.0
+2018-09-30,2018,world-championship,gc,Denmark,WC,,0,0,,0.0,,,215.0
+2018-09-26,2018,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,55.0
+2019-05-14,2019,4-jours-de-dunkerque,gc,Corendon - Circus,2.HC,52.0,0.0,1,,18.0,,,23.0
+2019-04-21,2019,amstel-gold-race,gc,Corendon - Circus,1.UWT,,0,0,,0.0,,,515.0
+2019-09-08,2019,antwerp-port-epic,gc,Corendon - Circus,1.1,,0,0,,0.0,,,90.0
+2019-08-15,2019,arctic-race-of-norway,gc,Corendon - Circus,2.HC,71.0,0.0,1,,8.0,,,38.0
+2019-04-17,2019,brabantse-pijl,gc,Corendon - Circus,1.HC,,0,0,,0.0,,,205.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Corendon - Circus,1.HC,,0,0,,0.0,,,8.0
+2019-09-07,2019,brussels-cycling-classic,gc,Corendon - Circus,1.HC,,0,0,,0.0,,,3.0
+2019-10-20,2019,chrono-des-nations,gc,Corendon - Circus,1.1,,0,0,,0.0,,,8.0
+2019-05-30,2019,circuit-de-wallonie,gc,Corendon - Circus,1.1,,,1,,0.0,,,15.0
+2019-06-23,2019,circuit-des-xi-villes,gc,Corendon - Circus,1.1,,,1,,0.0,,,145.0
+2019-10-05,2019,circuit-franco-belge,gc,Corendon - Circus,1.HC,,,1,,0.0,,,50.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Corendon - Circus,1.UWT,,,1,,0.0,,,30.0
+2019-06-30,2019,danish-championships,gc,Corendon - Circus,NC,,,1,,0.0,,,0.0
+2019-08-28,2019,druivenkoers-overijse,gc,Corendon - Circus,1.1,,0,0,,0.0,,,88.0
+2019-06-21,2019,dwars-door-het-hageland,gc,Corendon - Circus,1.1,,0,0,,0.0,,,68.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Corendon - Circus,1.UWT,,,1,,0.0,,,306.0
+2019-02-07,2019,etoile-de-besseges,gc,Corendon - Circus,2.1,,0,0,,70.0,,,73.0
+2019-10-06,2019,famenne-ardenne-classic,gc,Corendon - Circus,1.1,,,1,,0.0,,,40.0
+2019-03-31,2019,gent-wevelgem,gc,Corendon - Circus,1.UWT,,,1,,0.0,,,308.0
+2019-09-22,2019,gooikse-pijl,gc,Corendon - Circus,1.1,,,1,,0.0,,,60.0
+2019-07-25,2019,gp-cerami,gc,Corendon - Circus,1.1,,0,0,,0.0,,,0.0
+2019-03-24,2019,gp-de-denain,gc,Corendon - Circus,1.HC,,,1,,0.0,,,200.0
+2019-09-18,2019,gp-de-wallonie,gc,Corendon - Circus,1.1,,0,0,,0.0,,,3.0
+2019-09-21,2019,gp-impanis-van-petegem,gc,Corendon - Circus,1.HC,,,1,,0.0,,,5.0
+2019-09-01,2019,gp-jef-scherens,gc,Corendon - Circus,1.1,,0,0,,0.0,,,50.0
+2019-03-05,2019,gp-samyn,gc,Corendon - Circus,1.1,,,1,,0.0,,,3.0
+2019-08-20,2019,gp-stad-zottegem,gc,Corendon - Circus,1.1,,0,0,,0.0,,,106.0
+2019-05-26,2019,grote-prijs-marcel-kint,gc,Corendon - Circus,1.1,,,1,,0.0,,,5.0
+2019-06-26,2019,halle-ingooigem,gc,Corendon - Circus,1.1,,,1,,0.0,,,125.0
+2019-06-22,2019,heist-op-den-berg,gc,Corendon - Circus,1.1,,,1,,0.0,,,100.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Corendon - Circus,1.1,,,1,,0.0,,,6.0
+2019-10-08,2019,memorial-frank-vandenbroucke,gc,Corendon - Circus,1.1,,,1,,0.0,,,21.0
+2019-10-13,2019,memorial-rik-van-steenbergen,gc,Corendon - Circus,1.1,,0,0,,0.0,,,288.0
+2019-10-03,2019,munsterland-giro,gc,Corendon - Circus,1.HC,,0,0,,0.0,,,190.0
+2019-06-30,2019,nc-belgium,gc,Corendon - Circus,NC,,0,0,,0.0,,,100.0
+2019-06-27,2019,nc-belgium-itt,gc,Corendon - Circus,NC,,0,0,,0.0,,,4.0
+2019-06-30,2019,nc-germany,gc,Corendon - Circus,NC,,0,0,,0.0,,,21.0
+2019-06-30,2019,nc-netherlands,gc,Corendon - Circus,NC,,0,0,,0.0,,,0.0
+2019-03-20,2019,nokere-koerse,gc,Corendon - Circus,1.HC,,,1,,0.0,,,0.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Corendon - Circus,1.UWT,,0,0,,0.0,,,17.0
+2019-08-31,2019,omloop-mandel-leie-schelde-meulebeke,gc,Corendon - Circus,1.1,,0,0,,0.0,,,40.0
+2019-09-25,2019,omloop-van-het-houtland-lichtervelde,gc,Corendon - Circus,1.1,,0,0,,0.0,,,113.0
+2019-09-29,2019,paris-chauny-classique,gc,Corendon - Circus,1.1,,0,0,,0.0,,,103.0
+2019-04-09,2019,region-pays-de-la-loire,gc,Corendon - Circus,2.1,,0,0,,20.0,,,34.0
+2019-03-17,2019,ronde-van-drenthe,gc,Corendon - Circus,1.HC,,,1,,0.0,,,35.0
+2019-06-10,2019,ronde-van-limburg,gc,Corendon - Circus,1.1,,,1,,0.0,,,73.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Corendon - Circus,1.UWT,,,1,,0.0,,,280.0
+2019-08-25,2019,schaal-schels,gc,Corendon - Circus,1.1,,0,0,,0.0,,,5.0
+2019-04-10,2019,scheldeprijs,gc,Corendon - Circus,1.HC,,,1,,0.0,,,110.0
+2019-08-11,2019,slag-om-norg,gc,Corendon - Circus,1.1,,0,0,,0.0,,,75.0
+2019-10-12,2019,tacx-pro-classic,gc,Corendon - Circus,1.1,,,1,,0.0,,,61.0
+2019-08-01,2019,tour-alsace,gc,Corendon - Circus,2.2,,0,0,,25.0,,,40.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Corendon - Circus,2.1,,0,0,,25.0,,,25.0
+2019-06-05,2019,tour-de-luxembourg,gc,Corendon - Circus,2.HC,,0,0,,11.0,,,21.0
+2019-07-27,2019,tour-de-wallonie,gc,Corendon - Circus,2.HC,,0,0,,130.0,,,145.0
+2019-02-21,2019,tour-of-antalya,gc,Corendon - Circus,2.2,,0,0,,3.0,,,20.0
+2019-06-12,2019,tour-of-belgium,gc,Corendon - Circus,2.HC,64.0,0.0,1,,15.0,,,30.0
+2019-09-07,2019,tour-of-britain,gc,Corendon - Circus,2.HC,89.0,0.0,1,,200.0,,,270.0
+2019-08-21,2019,tour-of-denmark,gc,Corendon - Circus,2.HC,4.0,100.0,1,,100.0,,,140.0
+2020-09-13,2020,antwerp-port-epic,gc,Alpecin - Fenix,1.1,,,1,,0.0,,,194.0
+2020-10-07,2020,brabantse-pijl,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,158.0
+2020-08-25,2020,bretagne-classic,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,90.0
+2020-08-30,2020,brussels-cycling-classic,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,200.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,297.0
+2020-08-07,2020,czech-tour,gc,Alpecin - Fenix,2.1,,0,0,,53.0,,,58.0
+2020-08-23,2020,danish-championships,gc,Alpecin - Fenix,NC,,,1,,0.0,,,0.0
+2020-08-29,2020,druivenkoers-overijse,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,201.0
+2020-08-15,2020,dwars-door-het-hageland,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,410.0
+2020-02-05,2020,etoile-de-besseges,gc,Alpecin - Fenix,2.1,,0,0,,28.0,,,42.0
+2020-10-11,2020,gent-wevelgem,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,153.0
+2020-08-18,2020,giro-dell-emilia,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,45.0
+2020-09-20,2020,gooikse-pijl,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,15.0
+2020-09-20,2020,gp-d-isbergues,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,35.0
+2020-03-03,2020,gp-samyn,gc,Alpecin - Fenix,1.1,,0,0,,0.0,,,35.0
+2020-08-12,2020,gran-piemonte,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,128.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,95.0
+2020-08-15,2020,il-lombardia,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,110.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,5.0
+2020-09-30,2020,la-fleche-wallonne,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,50.0
+2020-10-04,2020,liege-bastogne-liege,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,210.0
+2020-08-08,2020,milano-sanremo,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,70.0
+2020-08-05,2020,milano-torino,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,25.0
+2020-09-22,2020,nc-belgium,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,103.0
+2020-08-20,2020,nc-belgium-itt,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,3.0
+2020-08-22,2020,nc-czech-republic2,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,60.0
+2020-08-23,2020,nc-france,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-germany,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,160.0
+2020-08-23,2020,nc-italy,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,40.0
+2020-08-23,2020,nc-netherlands,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,100.0
+2020-02-16,2020,nc-new-zealand,gc,Alpecin - Fenix,NC,,0,0,,0.0,,,0.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,17.0
+2020-09-27,2020,paris-chauny-classique,gc,Alpecin - Fenix,1.1,,,1,,0.0,,,85.0
+2020-10-11,2020,paris-tours,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,98.0
+2020-09-29,2020,renewi-tour,gc,Alpecin - Fenix,2.UWT,,0,0,,472.0,,,522.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,515.0
+2020-02-19,2020,ruta-del-sol,gc,Alpecin - Fenix,2.Pro,,0,0,,9.0,,,9.0
+2020-10-14,2020,scheldeprijs,gc,Alpecin - Fenix,1.Pro,,0,0,,0.0,,,100.0
+2020-08-01,2020,strade-bianche,gc,Alpecin - Fenix,1.UWT,,0,0,,0.0,,,20.0
+2020-09-07,2020,tirreno-adriatico,gc,Alpecin - Fenix,2.UWT,,0,0,,40.0,,,160.0
+2020-08-12,2020,tour-bitwa-warszawska-1920,gc,Alpecin - Fenix,2.2,,0,0,,70.0,,,87.0
+2020-08-29,2020,tour-de-hongrie,gc,Alpecin - Fenix,2.1,,0,0,,0.0,,,3.0
+2020-09-15,2020,tour-de-luxembourg,gc,Alpecin - Fenix,2.Pro,,0,0,,105.0,,,110.0
+2020-08-16,2020,tour-de-wallonie,gc,Alpecin - Fenix,2.Pro,,0,0,,8.0,,,13.0
+2020-09-06,2020,tour-du-doubs,gc,Alpecin - Fenix,1.1,,,1,,0.0,,,60.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Alpecin - Fenix,2.1,12.0,10.0,1,,13.0,,,19.0
+2020-02-20,2020,tour-of-antalya,gc,Alpecin - Fenix,2.1,,0,0,,113.0,,,132.0
+2020-02-19,2020,volta-ao-algarve,gc,Alpecin - Fenix,2.Pro,,0,0,,3.0,,,13.0
+2021-04-18,2021,amstel-gold-race,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,30.0
+2021-08-05,2021,arctic-race-of-norway,gc,Team Qhubeka NextHash,2.Pro,,0,0,,10.0,,,10.0
+2021-04-14,2021,brabantse-pijl,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,13.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Team Qhubeka ASSOS,1.Pro,,,1,,0.0,,,70.0
+2021-08-29,2021,bretagne-classic,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,86.0
+2021-08-28,2021,brussels-cycling-classic,gc,Team Qhubeka NextHash,1.Pro,,,1,,0.0,,,45.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,63.0
+2021-09-29,2021,circuit-franco-belge,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,53.0
+2021-08-01,2021,circuito-de-getxo,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,140.0
+2021-02-14,2021,clasica-de-almeria,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,203.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Team Qhubeka ASSOS,1.UWT,,,1,,0.0,,,187.0
+2021-10-04,2021,coppa-bernocchi,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,98.0
+2021-06-20,2021,danish-championships,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-05-14,2021,deia-trophy,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,0.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Team Qhubeka ASSOS,1.UWT,,,1,,0.0,,,39.0
+2021-03-26,2021,e3-harelbeke,gc,Team Qhubeka ASSOS,1.UWT,,,1,,0.0,,,40.0
+2021-02-03,2021,etoile-de-besseges,gc,Team Qhubeka ASSOS,2.1,,0,0,,40.0,,,43.0
+2021-02-27,2021,faun-ardeche-classic,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,13.0
+2021-03-28,2021,gent-wevelgem,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,430.0
+2021-05-08,2021,giro-d-italia,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,8.0,0.0,0.0,388.0
+2021-05-08,2021,giro-d-italia,kom,Team Qhubeka ASSOS,2.UWT,,0,0,,8.0,0.0,0.0,388.0
+2021-05-08,2021,giro-d-italia,points,Team Qhubeka ASSOS,2.UWT,,0,0,,8.0,0.0,0.0,388.0
+2021-10-02,2021,giro-dell-emilia,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,15.0
+2021-09-19,2021,gp-d-isbergues,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,20.0
+2021-09-15,2021,gp-de-wallonie,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,43.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,60.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,140.0
+2021-06-27,2021,gp-lugano,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,8.0
+2021-03-02,2021,gp-samyn,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,38.0
+2021-10-07,2021,gran-piemonte,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,155.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Team Qhubeka ASSOS,1.1,,,1,,0.0,,,0.0
+2021-10-09,2021,il-lombardia,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,20.0
+2021-04-05,2021,itzulia-basque-country,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,16.0,,,16.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,3.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,30.0
+2021-02-28,2021,la-drome-classic,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,88.0
+2021-04-21,2021,la-fleche-wallonne,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,24.0
+2021-04-25,2021,liege-bastogne-liege,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,16.0
+2021-03-20,2021,milano-sanremo,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,43.0
+2021-10-06,2021,milano-torino,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,5.0
+2021-06-20,2021,nc-austria2,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,40.0
+2021-06-20,2021,nc-belgium,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-16,2021,nc-belgium-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-czech-republic2,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-19,2021,nc-germany-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-italy,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,3.0
+2021-06-20,2021,nc-netherlands,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-poland,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-poland-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-03-21,2021,nc-south-africa,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,60.0
+2021-06-20,2021,nc-spain,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-switserland,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-06-16,2021,nc-switzerland-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,15.0
+2021-10-17,2021,ncgreat-britain,gc,Team Qhubeka NextHash,NC,,0,0,,0.0,,,50.0
+2021-03-17,2021,nokere-koerse,gc,Team Qhubeka ASSOS,1.Pro,,,1,,0.0,,,63.0
+2021-09-15,2021,okolo-slovenska,gc,Team Qhubeka NextHash,2.1,,0,0,,21.0,,,24.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,27.0
+2021-03-07,2021,paris-nice,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,50.0,,,50.0
+2021-10-03,2021,paris-roubaix,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,65.0
+2021-08-30,2021,renewi-tour,gc,Team Qhubeka NextHash,2.UWT,,,1,,270.0,,,270.0
+2021-05-24,2021,ronde-van-limburg,gc,Team Qhubeka ASSOS,1.1,,,1,,0.0,,,63.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,90.0
+2021-07-31,2021,san-sebastian,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,0.0
+2021-04-07,2021,scheldeprijs,gc,Team Qhubeka ASSOS,1.Pro,,,1,,0.0,,,75.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Team Qhubeka NextHash,2.1,,0,0,,85.0,,,93.0
+2021-03-06,2021,strade-bianche,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,230.0
+2021-03-10,2021,tirreno-adriatico,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,30.0,,,30.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,30.0,,,30.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Team Qhubeka ASSOS,2.Pro,,0,0,,15.0,,,15.0
+2021-06-26,2021,tour-de-france,gc,Team Qhubeka NextHash,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,kom,Team Qhubeka NextHash,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,points,Team Qhubeka NextHash,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-08-09,2021,tour-de-pologne,gc,Team Qhubeka NextHash,2.UWT,,0,0,,8.0,,,8.0
+2021-04-27,2021,tour-de-romandie,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,5.0,,,5.0
+2021-06-06,2021,tour-de-suisse,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,178.0,,,178.0
+2021-07-20,2021,tour-de-wallonie,gc,Team Qhubeka NextHash,2.Pro,,0,0,,8.0,,,18.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Team Qhubeka ASSOS,2.1,,0,0,,3.0,,,3.0
+2021-06-09,2021,tour-of-belgium,gc,Team Qhubeka ASSOS,2.Pro,95.0,0.0,1,,20.0,,,20.0
+2021-09-05,2021,tour-of-britain,gc,Team Qhubeka NextHash,2.Pro,,0,0,,11.0,,,21.0
+2021-08-10,2021,tour-of-denmark,gc,Team Qhubeka NextHash,2.Pro,91.0,0.0,1,,10.0,,,25.0
+2021-04-19,2021,tour-of-the-alps,gc,Team Qhubeka ASSOS,2.Pro,,,1,,8.0,,,8.0
+2021-10-05,2021,tre-valli-varesine,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,5.0
+2021-05-13,2021,trofeo-calvia,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,15.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,20.0
+2021-02-21,2021,uae-tour,gc,Team Qhubeka ASSOS,2.UWT,119.0,0.0,1,,12.0,,,12.0
+2021-03-22,2021,volta-a-catalunya,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,0.0,,,0.0
+2021-08-03,2021,vuelta-a-burgos,gc,Team Qhubeka NextHash,2.Pro,,0,0,,150.0,,,160.0
+2021-08-14,2021,vuelta-a-espana,gc,Team Qhubeka NextHash,2.UWT,,0,0,,12.0,0.0,0.0,12.0
+2021-08-14,2021,vuelta-a-espana,kom,Team Qhubeka NextHash,2.UWT,,0,0,,12.0,0.0,0.0,12.0
+2021-08-14,2021,vuelta-a-espana,points,Team Qhubeka NextHash,2.UWT,,0,0,,12.0,0.0,0.0,12.0
+2022-05-22,2022,albani-classic-fyen-rundt,gc,Uno-X Pro Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-05-22,2022,albani-classic-fyen-rundt,gc,Denmark,1.2,,0,0,,0.0,,,40.0
+2022-02-01,2022,alula-tour,gc,Uno-X Pro Cycling Team,2.1,,0,0,,35.0,,,38.0
+2022-08-11,2022,arctic-race-of-norway,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,11.0,,,11.0
+2022-05-22,2022,boucles-de-l-aulne,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,125.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,50.0,,,60.0
+2022-04-13,2022,brabantse-pijl,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,70.0
+2022-08-28,2022,bretagne-classic,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,16.0
+2022-06-05,2022,brussels-cycling-classic,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,3.0
+2022-06-14,2022,cic-mont-ventoux,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,60.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,28.0
+2022-08-10,2022,circuit-franco-belge,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,8.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Uno-X Pro Cycling Team,1.UWT,,,1,,0.0,,,24.0
+2022-08-04,2022,czech-tour,gc,Uno-X Pro Cycling Team,2.1,,0,0,,85.0,,,90.0
+2022-06-26,2022,danish-championships,gc,Uno-X Pro Cycling Team,NC,,,1,,0.0,,,20.0
+2022-08-24,2022,druivenkoers-overijse,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,20.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,38.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,0.0
+2022-03-25,2022,e3-harelbeke,gc,Uno-X Pro Cycling Team,1.UWT,,,1,,0.0,,,64.0
+2022-05-01,2022,eschborn-frankfurt,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,4.0
+2022-02-02,2022,etoile-de-besseges,gc,Uno-X Pro Cycling Team,2.1,,0,0,,70.0,,,90.0
+2022-02-26,2022,faun-ardeche-classic,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,3.0
+2022-03-27,2022,gent-wevelgem,gc,Uno-X Pro Cycling Team,1.UWT,,,1,,0.0,,,40.0
+2022-10-12,2022,giro-del-veneto,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2022-09-18,2022,gooikse-pijl,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,5.0
+2022-01-30,2022,gp-d-ouverture,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-03-17,2022,gp-de-denain,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,20.0
+2022-09-11,2022,gp-de-fourmies,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,0.0
+2022-05-14,2022,gp-de-plumelec,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2022-09-14,2022,gp-de-wallonie,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,0.0
+2022-05-21,2022,gp-herning,gc,Uno-X Pro Cycling Team,1.2,,,1,,0.0,,,3.0
+2022-05-21,2022,gp-herning,gc,Denmark,1.2,,0,0,,0.0,,,65.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,30.0
+2022-03-01,2022,gp-samyn,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,25.0
+2022-02-05,2022,grand-prix-alanya,gc,Uno-X Pro Cycling Team,1.2,,,1,,0.0,,,48.0
+2022-01-30,2022,grand-prix-megasaray,gc,Uno-X Pro Cycling Team,1.2,,,1,,0.0,,,45.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2022-06-04,2022,heist-op-den-berg,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,5.0
+2022-02-27,2022,la-drome-classic,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2022-04-20,2022,la-fleche-wallonne,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,26.0
+2022-03-27,2022,la-roue-tourangelle,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-06-16,2022,la-route-d-occitanie,gc,Uno-X Pro Cycling Team,2.1,,0,0,,43.0,,,43.0
+2022-04-24,2022,liege-bastogne-liege,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,20.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,85.0
+2022-10-03,2022,munsterland-giro,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,18.0
+2022-06-23,2022,nc-denmark-itt,gc,Uno-X Pro Cycling Team,NC,,,1,,0.0,,,10.0
+2022-06-26,2022,nc-norway,gc,Uno-X Pro Cycling Team,NC,,0,0,,0.0,,,123.0
+2022-06-23,2022,nc-norway-itt,gc,Uno-X Pro Cycling Team,NC,,0,0,,0.0,,,41.0
+2022-03-16,2022,nokere-koerse,gc,Uno-X Pro Cycling Team,1.Pro,,,1,,0.0,,,75.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,133.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2022-10-06,2022,paris-bourges,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2022-04-12,2022,paris-camembert,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2022-09-25,2022,paris-chauny-classique,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-04-17,2022,paris-roubaix,gc,Uno-X Pro Cycling Team,1.UWT,,,1,,0.0,,,20.0
+2022-10-09,2022,paris-tours,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,23.0
+2022-03-13,2022,ronde-van-drenthe,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2022-06-06,2022,ronde-van-limburg,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,20.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-04-06,2022,scheldeprijs,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,0.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Uno-X Pro Cycling Team,2.UWT,,0,0,,100.0,,,125.0
+2022-05-11,2022,tour-de-hongrie,gc,Uno-X Pro Cycling Team,2.1,,0,0,,65.0,,,65.0
+2022-10-11,2022,tour-de-langkawi,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,160.0,,,190.0
+2022-09-13,2022,tour-de-luxembourg,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,65.0,,,70.0
+2022-07-30,2022,tour-de-pologne,gc,Uno-X Pro Cycling Team,2.UWT,,0,0,,16.0,,,16.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,Uno-X Pro Cycling Team,2.1,,0,0,,5.0,,,5.0
+2022-05-21,2022,tour-du-finistere,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,Uno-X Pro Cycling Team,2.1,,0,0,,3.0,,,3.0
+2022-02-10,2022,tour-of-antalya,gc,Uno-X Pro Cycling Team,2.1,94.0,0.0,1,,185.0,,,199.0
+2022-06-15,2022,tour-of-belgium,gc,Uno-X Pro Cycling Team,2.Pro,75.0,0.0,1,,25.0,,,25.0
+2022-09-04,2022,tour-of-britain,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,10.0,,,15.0
+2022-09-27,2022,tour-of-croatia,gc,Uno-X Pro Cycling Team,2.1,,0,0,,40.0,,,40.0
+2022-08-16,2022,tour-of-denmark,gc,Uno-X Pro Cycling Team,2.Pro,11.0,30.0,1,,68.0,,,68.0
+2022-08-16,2022,tour-of-denmark,gc,Denmark,2.Pro,,0,0,,5.0,,,5.0
+2022-05-24,2022,tour-of-norway,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,133.0,,,158.0
+2022-02-10,2022,tour-of-oman,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,85.0,,,105.0
+2022-04-18,2022,tour-of-the-alps,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,5.0,,,5.0
+2022-04-10,2022,tour-of-turkey,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,70.0,,,70.0
+2022-05-15,2022,tro-bro-leon,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,8.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,40.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Denmark,CC,,,1,,0.0,,,60.0
+2022-10-16,2022,veneto-classic,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,18.0
+2022-03-21,2022,volta-a-catalunya,gc,Uno-X Pro Cycling Team,2.UWT,,0,0,,216.0,,,216.0
+2022-09-25,2022,world-championship,gc,Denmark,WC,,0,0,,0.0,,,161.0
+2022-09-18,2022,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,20.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Uno-X Pro Cycling Team,2.Pro,80.0,0.0,1,,10.0,,,45.0
+2023-05-14,2023,albani-classic-fyen-rundt,gc,Uno-X Dare Development Team,1.2,,,1,,0.0,,,40.0
+2023-01-30,2023,alula-tour,gc,Uno-X Pro Cycling Team,2.1,,0,0,,15.0,,,29.0
+2023-04-16,2023,amstel-gold-race,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,3.0
+2023-08-17,2023,arctic-race-of-norway,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,113.0,,,123.0
+2023-08-18,2023,baltic-chain-tour,gc,Uno-X Dare Development Team,2.2,,0,0,,3.0,,,14.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,75.0,,,95.0
+2023-04-12,2023,brabantse-pijl,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,34.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,43.0
+2023-06-04,2023,brussels-cycling-classic,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,40.0
+2023-06-13,2023,cic-mont-ventoux,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,33.0
+2023-04-06,2023,circuit-des-ardennes,gc,Uno-X Dare Development Team,2.2,,0,0,,0.0,,,-5.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,65.0
+2023-09-28,2023,circuit-franco-belge,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,265.0
+2023-02-12,2023,clasica-de-almeria,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,110.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Uno-X Pro Cycling Team,1.UWT,,,1,,0.0,,,87.0
+2023-07-27,2023,czech-tour,gc,Uno-X Pro Cycling Team,2.1,,0,0,,0.0,,,3.0
+2023-06-25,2023,danish-championships,gc,Uno-X Pro Cycling Team,NC,,,1,,0.0,,,51.0
+2023-06-25,2023,danish-championships,gc,Uno-X Dare Development Team,NC,,0,0,,0.0,,,0.0
+2023-08-23,2023,deutschland-tour,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,63.0,,,63.0
+2023-08-19,2023,druivenkoers-overijse,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,88.0
+2023-06-10,2023,dwars-door-het-hageland,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,290.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,43.0
+2023-03-24,2023,e3-harelbeke,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,8.0
+2023-10-04,2023,elfsteden-race,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2023-05-01,2023,eschborn-frankfurt,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,37.0
+2023-02-01,2023,etoile-de-besseges,gc,Uno-X Pro Cycling Team,2.1,,0,0,,3.0,,,3.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Uno-X Dare Development Team,1.1,,0,0,,0.0,,,10.0
+2023-02-25,2023,faun-ardeche-classic,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2023-03-26,2023,gent-wevelgem,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,63.0
+2023-10-11,2023,giro-del-veneto,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,153.0
+2023-09-17,2023,gooikse-pijl,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,38.0
+2023-09-30,2023,gp-cerami,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,0.0
+2023-01-29,2023,gp-d-ouverture,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2023-09-10,2023,gp-de-fourmies,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,105.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,15.0
+2023-05-06,2023,gp-de-plumelec,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,130.0
+2023-09-13,2023,gp-de-wallonie,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2023-05-13,2023,gp-herning,gc,Uno-X Dare Development Team,1.2,,,1,,0.0,,,20.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,60.0
+2023-02-28,2023,gp-samyn,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2023-08-20,2023,gp-stad-zottegem,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,120.0
+2023-03-04,2023,grand-prix-criquielion,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,70.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,15.0
+2023-09-17,2023,grote-prijs-rik-van-looy,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,3.0
+2023-09-03,2023,gylne-gutuer,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,10.0
+2023-05-06,2023,hadeland-gp,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,45.0
+2023-06-03,2023,heist-op-den-berg,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,45.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,3.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2023-02-26,2023,la-drome-classic,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2023-04-19,2023,la-fleche-wallonne,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,30.0
+2023-03-26,2023,la-roue-tourangelle,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,28.0
+2023-06-15,2023,la-route-d-occitanie,gc,Uno-X Pro Cycling Team,2.1,,0,0,,3.0,,,-12.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Uno-X Dare Development Team,2.2,,0,0,,0.0,,,-2.0
+2023-03-04,2023,le-tour-des-100-communes,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,25.0
+2023-04-23,2023,liege-bastogne-liege,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,30.0
+2023-09-02,2023,lillehammer-gp,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,30.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,15.0
+2023-10-03,2023,munsterland-giro,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,85.0
+2023-02-10,2023,muscat-classic,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,8.0
+2023-06-22,2023,nc-denmark-itt,gc,Uno-X Pro Cycling Team,NC,,,1,,0.0,,,18.0
+2023-06-22,2023,nc-denmark-itt,gc,Uno-X Dare Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-norway,gc,Uno-X Dare Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-norway,gc,Uno-X Pro Cycling Team,NC,,0,0,,0.0,,,339.0
+2023-06-22,2023,nc-norway-itt,gc,Uno-X Dare Development Team,NC,,0,0,,0.0,,,6.0
+2023-06-22,2023,nc-norway-itt,gc,Uno-X Pro Cycling Team,NC,,0,0,,0.0,,,50.0
+2023-03-15,2023,nokere-koerse,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,13.0
+2023-09-07,2023,okolo-jiznich-cech,gc,Uno-X Dare Development Team,2.2,,0,0,,55.0,,,64.0
+2023-03-22,2023,olympias-tour,gc,Uno-X Dare Development Team,2.2,,0,0,,0.0,,,7.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,195.0
+2023-09-20,2023,omloop-van-het-houtland-lichtervelde,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,40.0
+2023-10-05,2023,paris-bourges,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,6.0
+2023-04-11,2023,paris-camembert,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,75.0
+2023-03-05,2023,paris-nice,gc,Uno-X Pro Cycling Team,2.UWT,,0,0,,15.0,,,15.0
+2023-04-09,2023,paris-roubaix,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,110.0
+2023-10-08,2023,paris-tours,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,155.0
+2023-04-04,2023,region-pays-de-la-loire,gc,Uno-X Pro Cycling Team,2.1,65.0,0.0,1,,85.0,,,118.0
+2023-05-24,2023,rhone-alpes-isere-tour,gc,Uno-X Dare Development Team,2.2,,0,0,,25.0,,,26.0
+2023-05-07,2023,ringerike-gp,gc,Uno-X Dare Development Team,1.2,,0,0,,0.0,,,3.0
+2023-05-29,2023,ronde-van-limburg,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,50.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Uno-X Pro Cycling Team,1.UWT,,0,0,,0.0,,,50.0
+2023-03-31,2023,route-adelie-de-vitre,gc,Uno-X Pro Cycling Team,1.1,,,1,,0.0,,,148.0
+2023-04-05,2023,scheldeprijs,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2023-07-06,2023,sibiu-cycling-tour,gc,Uno-X Pro Cycling Team,2.1,,0,0,,83.0,,,83.0
+2023-07-27,2023,tour-alsace,gc,Uno-X Dare Development Team,2.2,,0,0,,0.0,,,0.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Uno-X Pro Cycling Team,2.UWT,,0,0,,166.0,,,209.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,Uno-X Dare Development Team,2.2,,0,0,,0.0,,,0.0
+2023-07-01,2023,tour-de-france,gc,Uno-X Pro Cycling Team,2.UWT,,0,0,,65.0,0.0,0.0,745.0
+2023-07-01,2023,tour-de-france,kom,Uno-X Pro Cycling Team,2.UWT,,0,0,,65.0,0.0,0.0,745.0
+2023-07-01,2023,tour-de-france,points,Uno-X Pro Cycling Team,2.UWT,,0,0,,65.0,0.0,0.0,745.0
+2023-09-20,2023,tour-de-luxembourg,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,20.0,,,40.0
+2023-07-22,2023,tour-de-wallonie,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,30.0,,,30.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Uno-X Pro Cycling Team,2.1,,0,0,,23.0,,,23.0
+2023-05-13,2023,tour-du-finistere,gc,Uno-X Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,Uno-X Pro Cycling Team,2.1,106.0,0.0,1,,128.0,,,142.0
+2023-06-14,2023,tour-of-belgium,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,183.0,,,224.0
+2023-09-03,2023,tour-of-britain,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,183.0,,,221.0
+2023-09-26,2023,tour-of-croatia,gc,Uno-X Pro Cycling Team,2.1,,0,0,,105.0,,,121.0
+2023-08-15,2023,tour-of-denmark,gc,Uno-X Pro Cycling Team,2.Pro,87.0,0.0,1,,108.0,,,163.0
+2023-05-26,2023,tour-of-norway,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,105.0,,,133.0
+2023-02-11,2023,tour-of-oman,gc,Uno-X Pro Cycling Team,2.Pro,101.0,0.0,1,,30.0,,,36.0
+2023-04-17,2023,tour-of-the-alps,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,50.0,,,68.0
+2023-05-07,2023,tro-bro-leon,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,115.0
+2023-10-15,2023,veneto-classic,gc,Uno-X Pro Cycling Team,1.Pro,,0,0,,0.0,,,59.0
+2023-03-20,2023,volta-a-catalunya,gc,Uno-X Pro Cycling Team,2.UWT,,0,0,,4.0,,,4.0
+2023-02-15,2023,volta-ao-algarve,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,10.0,,,40.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Uno-X Pro Cycling Team,2.Pro,,0,0,,23.0,,,33.0
+2024-05-26,2024,albani-classic-fyen-rundt,gc,Team CO:PLAY-Giant Store,1.2,,,1,,0.0,,,40.0
+2024-06-23,2024,danish-championships,gc,Team CO:PLAY-Giant Store,NC,,,1,,0.0,,,0.0
+2024-05-25,2024,gp-herning,gc,Team CO:PLAY-Giant Store,1.2,,,1,,0.0,,,-5.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Team CO:PLAY-Giant Store,2.2,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-denmark-itt,gc,Team CO:PLAY-Giant Store,NC,,,1,,0.0,,,0.0
+2024-09-05,2024,okolo-jiznich-cech,gc,Team CO:PLAY-Giant Store,2.2,,0,0,,0.0,,,0.0
+2024-06-05,2024,tour-of-lithuania,gc,Team CO:PLAY-Giant Store,2.2,,0,0,,5.0,,,8.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Team CO:PLAY-Giant Store,1.2,,0,0,,0.0,,,3.0
+2025-06-29,2025,danish-championships,gc,Team CO:PLAY-Giant Store,NC,,,1,,0.0,,,0.0
+2025-09-27,2025,gp-cerami,gc,Team CO:PLAY-Giant Store,1.2,,,1,,0.0,,,0.0
+2025-05-03,2025,gp-herning,gc,Team CO:PLAY-Giant Store,1.2,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-denmark-itt,gc,Team CO:PLAY-Giant Store,NC,,0,0,,0.0,,,0.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Team CO:PLAY-Giant Store,2.2,,0,0,,0.0,,,0.0
+2025-05-17,2025,raceseo-1749389130,gc,Team CO:PLAY-Giant Store,1.2,,0,0,,0.0,,,3.0
+2025-06-04,2025,tour-of-lithuania,gc,Team CO:PLAY-Giant Store,2.2,,0,0,,0.0,,,0.0

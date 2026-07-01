@@ -1,0 +1,26 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-02-13,2023,african-championships,gc,Ethiopia,CC,,,1,,0.0,,,19.0
+2024-10-13,2024,african-championships,gc,Ethiopia,CC,,0,0,,0.0,,,140.0
+2024-10-09,2024,african-continental-championships-itt,gc,Ethiopia,CC,,0,0,,0.0,,,0.0
+2024-03-15,2024,african-games-me-itt,gc,Ethiopia,JC,,0,0,,0.0,,,30.0
+2024-03-10,2024,african-games-road-race-me,gc,Ethiopia,JC,,,1,,0.0,,,78.0
+2024-08-25,2024,grand-prix-de-plouay,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2024-06-22,2024,nc-algeria,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,50.0
+2024-06-26,2024,nc-ethiopia-itt,gc,UCI WCC Men's Team,NC,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-tunisia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,50.0
+2024-06-22,2024,nc-tunisia-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2024-05-12,2024,tour-d-algerie-cycliste,gc,UCI WCC Men's Team,2.2,36.0,0.0,1,,0.0,,,7.0
+2024-02-19,2024,tour-of-rwanda,gc,Ethiopia,2.1,53.0,0.0,1,,0.0,,,0.0
+2024-02-19,2024,tour-of-rwanda,gc,UCI WCC Men's Team,2.1,,0,0,,0.0,,,0.0
+2025-06-28,2025,national-championships-uganda-itt,gc,Java - Inovotec Pro Team,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-eritrea,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-ethiopia,gc,Java - Inovotec Pro Team,NC,,,1,,0.0,,,1.0
+2025-06-29,2025,nc-ethiopia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2025-06-25,2025,nc-ethiopia-itt,gc,Java - Inovotec Pro Team,NC,,,1,,0.0,,,0.0
+2025-06-25,2025,nc-ethiopia-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-rwanda,gc,Java - Inovotec Pro Team,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-rwanda,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2025-06-28,2025,nc-rwanda-itt,gc,Java - Inovotec Pro Team,NC,,0,0,,0.0,,,25.0
+2025-06-29,2025,nc-uganda,gc,Java - Inovotec Pro Team,NC,,0,0,,0.0,,,3.0
+2025-02-23,2025,tour-of-rwanda,gc,UCI WCC Men's Team,2.1,49.0,0.0,1,,25.0,,,30.0
+2025-02-23,2025,tour-of-rwanda,gc,Java - Inovotec Pro Team,2.1,,0,0,,13.0,,,13.0

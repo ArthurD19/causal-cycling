@@ -1,0 +1,31 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-26,2017,nc-colombia,gc,EPM,NC,,,1,,0.0,,,15.0
+2017-02-24,2017,nc-colombia-itt,gc,EPM,NC,,,1,,0.0,,,0.0
+2017-08-02,2017,vuelta-pilsen-a-colombia,gc,EPM,2.2,3.0,25.0,1,,25.0,,,38.0
+2018-02-06,2018,colombia-21,gc,EPM,2.1,13.0,5.0,1,,14.0,,,14.0
+2018-02-06,2018,colombia-21,gc,Colombia,2.1,,0,0,,10.0,,,10.0
+2018-07-29,2018,juegos-deportivos-centroamericanos-y-del-carbie,gc,Colombia,JR,,,1,,0.0,,,0.0
+2018-07-20,2018,juegos-deportivos-centroamericanos-y-del-carbie-it,gc,Colombia,JR,,0,0,,0.0,,,0.0
+2018-05-27,2018,juegos-suramericanos-itt,gc,EPM,JR,,0,0,,0.0,,,0.0
+2018-06-03,2018,juegos-suramericanos-road-race,gc,EPM,JR,,,1,,0.0,,,0.0
+2018-02-04,2018,nc-colombia,gc,EPM,NC,,,1,,0.0,,,77.0
+2018-02-02,2018,nc-colombia-itt,gc,EPM,NC,,0,0,,0.0,,,15.0
+2018-05-03,2018,panamerican-champ-itt,gc,EPM,CC,,0,0,,0.0,,,30.0
+2018-05-06,2018,panamerican-championships,gc,EPM,CC,,0,0,,0.0,,,0.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Colombia,2.2U,,0,0,,0.0,,,0.0
+2018-09-30,2018,world-championship,gc,Colombia,WC,,0,0,,0.0,,,60.0
+2018-09-26,2018,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2019-02-13,2019,colombia-21,gc,GW - Shimano,2.1,31.0,0.0,1,,0.0,,,0.0
+2019-02-03,2019,nc-colombia,gc,GW - Shimano,NC,,,1,,0.0,,,81.0
+2019-02-01,2019,nc-colombia-itt,gc,GW - Shimano,NC,,,1,,0.0,,,0.0
+2019-01-11,2019,vuelta-al-tachira,gc,GW - Shimano,2.2,25.0,0.0,1,,0.0,,,1.0
+2020-02-12,2020,colombia-21,gc,EPM - Scott,2.1,78.0,0.0,1,,53.0,,,53.0
+2020-02-02,2020,nc-colombia,gc,EPM - Scott,NC,,,1,,0.0,,,4.0
+2020-01-30,2020,nc-colombia-itt,gc,EPM - Scott,NC,,0,0,,0.0,,,3.0
+2021-04-16,2021,vuelta-pilsen-a-colombia,gc,EPM - Scott,2.2,6.0,10.0,1,,15.0,,,33.0
+2022-02-13,2022,nc-colombia,gc,EPM - Scott,NC,,0,0,,0.0,,,1.0
+2022-02-10,2022,nc-colombia-itt,gc,EPM - Scott,NC,,0,0,,0.0,,,10.0
+2022-06-03,2022,vuelta-pilsen-a-colombia,gc,EPM - Scott,2.2,57.0,0.0,1,,33.0,,,40.0
+2023-07-23,2023,nc-mexico,gc,Petrolike,NC,,0,0,,0.0,,,39.0
+2023-03-29,2023,vuelta-bantrab,gc,Petrolike,2.2,6.0,10.0,1,,10.0,,,10.0
+2023-06-16,2023,vuelta-pilsen-a-colombia,gc,Petrolike,2.2,30.0,0.0,1,,0.0,,,1.0

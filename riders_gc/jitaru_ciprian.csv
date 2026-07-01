@@ -1,0 +1,45 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-04-18,2019,banja-luka-belgrade-i,gc,Giotti Victoria - Palomar,2.1,,,1,,0.0,,,0.0
+2019-09-14,2019,coppa-agostoni,gc,Giotti Victoria - Palomar,1.1,,0,0,,0.0,,,0.0
+2019-09-15,2019,coppa-bernocchi,gc,Giotti Victoria - Palomar,1.1,,0,0,,0.0,,,25.0
+2019-04-28,2019,giro-dell-appennino,gc,Giotti Victoria - Palomar,1.1,,,1,,0.0,,,50.0
+2019-10-05,2019,giro-dell-emilia,gc,Giotti Victoria - Palomar,1.HC,,0,0,,0.0,,,0.0
+2019-04-03,2019,giro-di-sicilia,gc,Giotti Victoria - Palomar,2.1,,0,0,,3.0,,,22.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Giotti Victoria - Palomar,1.HC,,0,0,,0.0,,,3.0
+2019-03-10,2019,gp-industria-artigianato,gc,Giotti Victoria - Palomar,1.HC,,0,0,,0.0,,,3.0
+2019-03-10,2019,grand-prix-justiniano-hotels,gc,Giotti Victoria - Palomar,1.2,,0,0,,0.0,,,3.0
+2019-03-09,2019,grand-prix-velo-alanya,gc,Giotti Victoria - Palomar,1.2,,0,0,,0.0,,,0.0
+2019-03-14,2019,istrian-spring-tour,gc,Giotti Victoria - Palomar,2.2,,0,0,,0.0,,,0.0
+2019-09-21,2019,memorial-marco-pantani,gc,Giotti Victoria - Palomar,1.1,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-italy,gc,Giotti Victoria - Palomar,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-japan,gc,Giotti Victoria - Palomar,NC,,0,0,,0.0,,,20.0
+2019-06-27,2019,nc-japan-itt,gc,Giotti Victoria - Palomar,NC,,0,0,,0.0,,,1.0
+2019-06-30,2019,nc-romania,gc,Giotti Victoria - Palomar,NC,,,1,,0.0,,,201.0
+2019-06-28,2019,nc-romania-itt,gc,Giotti Victoria - Palomar,NC,,0,0,,0.0,,,30.0
+2019-03-09,2019,porec-trophy,gc,Giotti Victoria - Palomar,1.2,,,1,,0.0,,,3.0
+2019-06-13,2019,ronde-de-l-oise,gc,Giotti Victoria - Palomar,2.2,,,1,,0.0,,,4.0
+2019-07-03,2019,sibiu-cycling-tour,gc,Giotti Victoria - Palomar,2.1,,0,0,,3.0,,,22.0
+2019-05-30,2019,tour-de-kumano,gc,Giotti Victoria - Palomar,2.2,,0,0,,0.0,,,8.0
+2019-06-07,2019,tour-of-bihor-bellotto,gc,Giotti Victoria - Palomar,2.1,88.0,0.0,1,,3.0,,,3.0
+2019-08-07,2019,tour-of-szeklerland,gc,Giotti Victoria - Palomar,2.2,61.0,0.0,1,,28.0,,,38.0
+2019-04-22,2019,tour-of-the-alps,gc,Giotti Victoria - Palomar,2.HC,,,1,,5.0,,,5.0
+2019-03-06,2019,trofej-umag,gc,Giotti Victoria - Palomar,1.2,,,1,,0.0,,,20.0
+2019-02-17,2019,trofeo-laigueglia,gc,Giotti Victoria - Palomar,1.HC,,0,0,,0.0,,,0.0
+2019-09-22,2019,trofeo-matteotti,gc,Giotti Victoria - Palomar,1.1,,0,0,,0.0,,,0.0
+2019-09-11,2019,turul-romaniei,gc,Giotti Victoria - Palomar,2.1,77.0,0.0,1,,30.0,,,30.0
+2020-09-19,2020,giro-dell-appennino,gc,Giotti Victoria,1.1,,0,0,,0.0,,,0.0
+2020-08-18,2020,giro-dell-emilia,gc,Giotti Victoria,1.Pro,,0,0,,0.0,,,0.0
+2020-08-30,2020,memorial-marco-pantani,gc,Giotti Victoria,1.1,,0,0,,0.0,,,5.0
+2020-02-02,2020,nc-colombia,gc,Giotti Victoria,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-hungary,gc,Giotti Victoria,NC,,0,0,,0.0,,,100.0
+2020-08-21,2020,nc-hungary-itt,gc,Giotti Victoria,NC,,0,0,,0.0,,,15.0
+2020-08-23,2020,nc-italy,gc,Giotti Victoria,NC,,0,0,,0.0,,,0.0
+2020-08-16,2020,nc-romania,gc,Giotti Victoria,NC,,,1,,0.0,,,50.0
+2020-08-15,2020,nc-romania-itt,gc,Giotti Victoria,NC,,0,0,,0.0,,,30.0
+2020-07-23,2020,sibiu-cycling-tour,gc,Giotti Victoria,2.1,,,1,,0.0,,,0.0
+2020-08-29,2020,tour-de-hongrie,gc,Giotti Victoria,2.1,,,1,,0.0,,,0.0
+2020-02-20,2020,tour-of-antalya,gc,Giotti Victoria,2.1,,0,0,,35.0,,,35.0
+2020-08-05,2020,tour-of-szeklerland,gc,Giotti Victoria,2.2,53.0,0.0,1,,20.0,,,23.0
+2020-02-16,2020,trofeo-laigueglia,gc,Giotti Victoria,1.Pro,,,1,,0.0,,,0.0
+2020-08-29,2020,trofeo-matteotti,gc,Giotti Victoria,1.1,,0,0,,0.0,,,0.0
+2020-09-08,2020,turul-romaniei,gc,Giotti Victoria,2.2,,0,0,,28.0,,,42.0

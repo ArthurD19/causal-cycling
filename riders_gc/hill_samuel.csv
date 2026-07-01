@@ -1,0 +1,34 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-01-19,2019,gravel-and-tar,gc,Nero Bianchi,1.2,,,1,,0.0,,,0.0
+2019-01-23,2019,new-zealand-cycle-classic,gc,Nero Bianchi,2.2,92.0,0.0,1,,25.0,,,28.0
+2020-02-05,2020,herald-sun-tour,gc,Team BridgeLane,2.1,17.0,3.0,1,,6.0,,,6.0
+2020-02-15,2020,malaysian-international-classic-race,gc,Team BridgeLane,1.1,,0,0,,0.0,,,0.0
+2020-01-12,2020,nc-australia,gc,Team BridgeLane,NC,,,1,,0.0,,,0.0
+2020-01-08,2020,nc-australia-itt,gc,Team BridgeLane,NC,,0,0,,0.0,,,0.0
+2020-02-16,2020,nc-new-zealand,gc,Team BridgeLane,NC,,0,0,,0.0,,,0.0
+2020-01-15,2020,new-zealand-cycle-classic,gc,Team BridgeLane,2.2,,0,0,,55.0,,,79.0
+2020-01-30,2020,race-torquay,gc,Team BridgeLane,1.1,,0,0,,0.0,,,5.0
+2020-02-07,2020,tour-de-langkawi,gc,Team BridgeLane,2.Pro,,0,0,,3.0,,,3.0
+2020-03-01,2020,tour-de-taiwan,gc,Team BridgeLane,2.1,,0,0,,155.0,,,177.0
+2022-07-10,2022,2-districtenpijl-ekeren-deurne-me,gc,Nero Continental,1.2,,0,0,,0.0,,,0.0
+2022-08-07,2022,commonwealth-games,gc,Australia,JR,,0,0,,0.0,,,0.0
+2022-08-04,2022,commonwealth-games-itt2,gc,Australia,JR,,0,0,,0.0,,,0.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,Nero Continental,1.2,,0,0,,0.0,,,0.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,Nero Continental,1.2,,0,0,,0.0,,,0.0
+2022-01-16,2022,nc-australia,gc,Nero Continental,NC,,,1,,0.0,,,0.0
+2022-04-10,2022,oceania-championships,gc,Australia,CC,,,1,,0.0,,,280.0
+2022-04-09,2022,oceania-continental-championships-itt,gc,Australia,CC,,,1,,0.0,,,133.0
+2022-09-25,2022,world-championship,gc,Australia,WC,,0,0,,0.0,,,420.0
+2022-09-18,2022,world-championship-itt,gc,Australia,WC,,0,0,,0.0,,,30.0
+2024-07-22,2024,banyuwangi-tour-de-ijen,gc,CCACHE x Par Küp,2.2,,0,0,,0.0,,,0.0
+2024-07-25,2024,czech-tour,gc,CCACHE x Par Küp,2.1,,0,0,,0.0,,,0.0
+2024-07-20,2024,gp-czech-republic,gc,CCACHE x Par Küp,1.2,,0,0,,0.0,,,3.0
+2024-01-20,2024,gravel-and-tar,gc,CCACHE x Par Küp,1.2,,0,0,,0.0,,,50.0
+2024-01-07,2024,nc-australia,gc,CCACHE x Par Küp,NC,,,1,,0.0,,,0.0
+2024-01-04,2024,nc-australia-itt,gc,CCACHE x Par Küp,NC,,0,0,,0.0,,,14.0
+2024-01-10,2024,new-zealand-cycle-classic,gc,CCACHE x Par Küp,2.2,,0,0,,15.0,,,15.0
+2024-04-12,2024,oceania-championships,gc,CCACHE x Par Küp,CC,,0,0,,0.0,,,78.0
+2024-04-13,2024,oceania-continental-championships-itt,gc,CCACHE x Par Küp,CC,,0,0,,0.0,,,55.0
+2024-05-10,2024,tour-de-kumano,gc,CCACHE x Par Küp,2.2,,0,0,,0.0,,,7.0
+2024-03-10,2024,tour-de-taiwan,gc,CCACHE x Par Küp,2.1,,0,0,,3.0,,,2.0
+2024-10-09,2024,tour-of-taihu-lake,gc,CCACHE x Par Küp,2.Pro,,0,0,,8.0,,,23.0

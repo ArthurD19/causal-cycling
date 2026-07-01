@@ -1,0 +1,121 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-07-19,2017,cascade-cycling-classic,gc,Hangar 15 Bicycles,2.2,,,1,,0.0,,,3.0
+2017-06-08,2017,coupe-des-nations-ville-saguenay,gc,Canyon Bicycles,2.2,,0,0,,63.0,,,77.0
+2017-06-25,2017,nc-spain,gc,Canyon Bicycles,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-united-states,gc,Canyon Bicycles,NC,,,1,,0.0,,,0.0
+2017-06-14,2017,tour-de-beauce,gc,Canyon Bicycles,2.2,,0,0,,3.0,,,3.0
+2017-07-09,2017,tour-de-delta,gc,Hangar 15 Bicycles,1.2,,,1,,0.0,,,0.0
+2017-04-19,2017,tour-of-the-gila,gc,Canyon Bicycles,2.2,,0,0,,0.0,,,0.0
+2017-07-31,2017,tour-of-utah,gc,Hangar 15 Bicycles,2.HC,,0,0,,10.0,,,10.0
+2018-09-16,2018,int-raiffeisen-gp-judendorf-strassengel,gc,Team Magnesium Pur,1.2,,,1,,0.0,,,0.0
+2019-09-01,2019,1st-ljubljana-zagreb,gc,Team Veloclub Ratisbona,1.2,,,1,,0.0,,,0.0
+2019-03-14,2019,istrian-spring-tour,gc,Team Veloclub Ratisbona,2.2,,0,0,,0.0,,,0.0
+2019-06-13,2019,oberosterreichrundfahrt,gc,Team Veloclub Ratisbona,2.2,,,1,,0.0,,,0.0
+2020-09-04,2020,baltyk-karkonosze-tour,gc,Veloclub Ratisbona,2.2,,,1,,0.0,,,0.0
+2020-03-08,2020,porec-trophy,gc,Veloclub Ratisbona,1.2,,,1,,0.0,,,0.0
+2020-03-04,2020,trofej-umag,gc,Veloclub Ratisbona,1.2,,,1,,0.0,,,0.0
+2021-05-30,2021,albani-classic-fyen-rundt,gc,Dauner D&DQ-Akkon,1.2,,0,0,,0.0,,,0.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Dauner D&DQ-Akkon,1.1,,,1,,0.0,,,10.0
+2021-05-14,2021,deia-trophy,gc,Dauner D&DQ-Akkon,1.1,,0,0,,0.0,,,0.0
+2021-08-26,2021,deutschland-tour,gc,Dauner D&DQ-Akkon,2.Pro,,0,0,,0.0,,,0.0
+2021-05-29,2021,gp-herning,gc,Dauner D&DQ-Akkon,1.2,,0,0,,0.0,,,0.0
+2021-07-31,2021,kreiz-breizh-elites,gc,Dauner D&DQ-Akkon,2.2,,0,0,,0.0,,,0.0
+2021-10-03,2021,munsterland-giro,gc,Dauner D&DQ-Akkon,1.Pro,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Dauner D&DQ-Akkon,NC,,0,0,,0.0,,,1.0
+2021-06-19,2021,nc-germany-itt,gc,Dauner D&DQ-Akkon,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-united-states,gc,Dauner D&DQ-Akkon,NC,,,1,,0.0,,,0.0
+2021-09-10,2021,okolo-jiznich-cech,gc,Dauner D&DQ-Akkon,2.2,,,1,,0.0,,,0.0
+2021-04-04,2021,rhodes-gp,gc,Dauner D&DQ-Akkon,1.2,,0,0,,0.0,,,0.0
+2021-08-20,2021,szlakiem-grodow-piastowskich,gc,Dauner D&DQ-Akkon,2.2,,0,0,,0.0,,,3.0
+2021-04-08,2021,tour-of-rhodes,gc,Dauner D&DQ-Akkon,2.2,,0,0,,0.0,,,0.0
+2021-05-13,2021,trofeo-calvia,gc,Dauner D&DQ-Akkon,1.1,,0,0,,0.0,,,0.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Dauner D&DQ-Akkon,1.1,,0,0,,0.0,,,0.0
+2022-04-16,2022,arno-wallaard-memorial,gc,Team Dauner | Akkon,1.2,,,1,,0.0,,,0.0
+2022-08-24,2022,deutschland-tour,gc,Team Dauner | Akkon,2.Pro,,0,0,,0.0,,,0.0
+2022-03-06,2022,elfsteden-race,gc,Team Dauner | Akkon,1.2,,,1,,0.0,,,0.0
+2022-07-30,2022,kreiz-breizh-elites,gc,Team Dauner | Akkon,2.2,,,1,,0.0,,,0.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,Team Dauner | Akkon,1.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-germany,gc,Team Dauner | Akkon,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-luxembourg,gc,Team Dauner | Akkon,NC,,0,0,,0.0,,,75.0
+2022-06-26,2022,nc-united-states,gc,Team Dauner | Akkon,NC,,,1,,0.0,,,0.0
+2022-06-09,2022,oberosterreichrundfahrt,gc,Team Dauner | Akkon,2.2,,0,0,,3.0,,,3.0
+2022-05-07,2022,ronde-van-overijssel,gc,Team Dauner | Akkon,1.2,,,1,,0.0,,,0.0
+2022-05-22,2022,rund-um-koln,gc,Team Dauner | Akkon,1.1,,0,0,,0.0,,,3.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Team Dauner | Akkon,2.2,125.0,0.0,1,,0.0,,,0.0
+2022-03-24,2022,tour-of-rhodes,gc,Team Dauner | Akkon,2.2,,0,0,,0.0,,,0.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Human Powered Health,2.Pro,,0,0,,5.0,,,5.0
+2023-01-30,2023,alula-tour,gc,Human Powered Health,2.1,92.0,0.0,1,,8.0,,,8.0
+2023-08-17,2023,arctic-race-of-norway,gc,Human Powered Health,2.Pro,,0,0,,11.0,,,11.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Human Powered Health,2.Pro,,0,0,,0.0,,,0.0
+2023-04-12,2023,brabantse-pijl,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,0.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,8.0
+2023-06-04,2023,brussels-cycling-classic,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,0.0
+2023-03-19,2023,cholet-pays-de-loire,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Human Powered Health,1.1,,0,0,,0.0,,,10.0
+2023-09-28,2023,circuit-franco-belge,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,0.0
+2023-07-30,2023,circuito-de-getxo,gc,Human Powered Health,1.1,,0,0,,0.0,,,30.0
+2023-03-18,2023,classic-loire-atlantique,gc,Human Powered Health,1.1,,0,0,,0.0,,,50.0
+2023-01-28,2023,deia-trophy,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-08-19,2023,druivenkoers-overijse,gc,Human Powered Health,1.1,,0,0,,0.0,,,40.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Human Powered Health,1.1,,0,0,,0.0,,,18.0
+2023-03-26,2023,gent-wevelgem,gc,Human Powered Health,1.UWT,,0,0,,0.0,,,0.0
+2023-04-16,2023,giro-di-reggio-calabria,gc,Human Powered Health,1.1,,0,0,,0.0,,,53.0
+2023-04-11,2023,giro-di-sicilia,gc,Human Powered Health,2.1,,0,0,,3.0,,,3.0
+2023-09-17,2023,gooikse-pijl,gc,Human Powered Health,1.1,,0,0,,0.0,,,3.0
+2023-03-16,2023,gp-de-denain,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,5.0
+2023-09-10,2023,gp-de-fourmies,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,3.0
+2023-09-13,2023,gp-de-wallonie,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,0.0
+2023-08-15,2023,gp-jef-scherens,gc,Human Powered Health,1.1,,0,0,,0.0,,,5.0
+2023-02-28,2023,gp-samyn,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-02-23,2023,gran-camino,gc,Human Powered Health,2.1,,0,0,,3.0,,,3.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,0.0
+2023-03-04,2023,grand-prix-criquielion,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Human Powered Health,1.1,,0,0,,0.0,,,3.0
+2023-06-03,2023,heist-op-den-berg,gc,Human Powered Health,1.1,,0,0,,0.0,,,3.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Human Powered Health,1.1,,0,0,,0.0,,,3.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,0.0
+2023-03-26,2023,la-roue-tourangelle,gc,Human Powered Health,1.1,,0,0,,0.0,,,3.0
+2023-09-03,2023,maryland-cycling-classic,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,83.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Human Powered Health,1.1,,0,0,,0.0,,,3.0
+2023-02-10,2023,muscat-classic,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-austria2,gc,Human Powered Health,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-belgium,gc,Human Powered Health,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-canada2,gc,Human Powered Health,NC,,0,0,,0.0,,,31.0
+2023-06-21,2023,nc-great-britain-itt,gc,Human Powered Health,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-hungary,gc,Human Powered Health,NC,,0,0,,0.0,,,40.0
+2023-06-25,2023,nc-netherlands,gc,Human Powered Health,NC,,0,0,,0.0,,,50.0
+2023-06-21,2023,nc-netherlands-itt,gc,Human Powered Health,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-norway,gc,Human Powered Health,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-norway-itt,gc,Human Powered Health,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-poland,gc,Human Powered Health,NC,,0,0,,0.0,,,110.0
+2023-06-25,2023,nc-united-states,gc,Human Powered Health,NC,,,1,,0.0,,,6.0
+2023-06-22,2023,nc-usa-itt,gc,Human Powered Health,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,Human Powered Health,NC,,0,0,,0.0,,,0.0
+2023-03-15,2023,nokere-koerse,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,3.0
+2023-09-13,2023,okolo-slovenska,gc,Human Powered Health,2.1,,0,0,,50.0,,,50.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Human Powered Health,1.UWT,,0,0,,0.0,,,0.0
+2023-09-20,2023,omloop-van-het-houtland-lichtervelde,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-09-24,2023,paris-chauny-classique,gc,Human Powered Health,1.1,,0,0,,0.0,,,30.0
+2023-07-25,2023,prueba-villafranca,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-03-12,2023,ronde-van-drenthe,gc,Human Powered Health,1.1,,0,0,,0.0,,,70.0
+2023-05-29,2023,ronde-van-limburg,gc,Human Powered Health,1.1,,,1,,0.0,,,70.0
+2023-03-31,2023,route-adelie-de-vitre,gc,Human Powered Health,1.1,,0,0,,0.0,,,5.0
+2023-04-05,2023,scheldeprijs,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,40.0
+2023-05-10,2023,tour-de-hongrie,gc,Human Powered Health,2.Pro,,0,0,,0.0,,,0.0
+2023-09-23,2023,tour-de-langkawi,gc,Human Powered Health,2.Pro,,0,0,,70.0,,,140.0
+2023-07-29,2023,tour-de-pologne,gc,Human Powered Health,2.UWT,,0,0,,8.0,,,26.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,Human Powered Health,2.1,,0,0,,11.0,,,11.0
+2023-06-14,2023,tour-of-belgium,gc,Human Powered Health,2.Pro,,0,0,,10.0,,,10.0
+2023-08-15,2023,tour-of-denmark,gc,Human Powered Health,2.Pro,,0,0,,3.0,,,3.0
+2023-05-02,2023,tour-of-hellas,gc,Human Powered Health,2.1,,0,0,,93.0,,,121.0
+2023-05-26,2023,tour-of-norway,gc,Human Powered Health,2.Pro,,0,0,,8.0,,,-7.0
+2023-02-11,2023,tour-of-oman,gc,Human Powered Health,2.Pro,,0,0,,3.0,,,3.0
+2023-06-14,2023,tour-of-slovenia,gc,Human Powered Health,2.Pro,,0,0,,63.0,,,68.0
+2023-05-07,2023,tro-bro-leon,gc,Human Powered Health,1.Pro,,0,0,,0.0,,,3.0
+2023-01-25,2023,trofeo-calvia,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-01-29,2023,trofeo-palma,gc,Human Powered Health,1.1,,0,0,,0.0,,,40.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Human Powered Health,1.1,,0,0,,0.0,,,0.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Human Powered Health,1.1,,0,0,,0.0,,,3.0
+2023-02-15,2023,volta-ao-algarve,gc,Human Powered Health,2.Pro,,0,0,,0.0,,,0.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Human Powered Health,2.1,,0,0,,0.0,,,0.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Human Powered Health,2.Pro,,0,0,,0.0,,,0.0

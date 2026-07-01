@@ -1,0 +1,40 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-07-18,2018,Grande-Premio-de-Portugal-N2,gc,Vito-Feirense-BlackJack,2.2,59.0,0.0,1,,10.0,,,18.0
+2018-02-18,2018,african-championships,gc,Morocco,CC,,0,0,,0.0,,,30.0
+2018-02-15,2018,african-continental-championships-itt,gc,Morocco,CC,,0,0,,0.0,,,5.0
+2018-03-25,2018,classica-aldeias-do-xisto-cylin-portugal,gc,Vito-Feirense-BlackJack,1.2,,,1,,0.0,,,0.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Vito-Feirense-BlackJack,2.1,,0,0,,25.0,,,25.0
+2018-01-15,2018,la-tropicale-amissa-bongo,gc,Morocco,2.1,,,1,,30.0,,,30.0
+2018-06-22,2018,nc-portugal,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,1.0
+2018-06-24,2018,nc-portugal2,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,5.0
+2018-06-24,2018,nc-spain,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,0.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Morocco,2.2U,,0,0,,0.0,,,5.0
+2018-04-06,2018,tour-du-maroc,gc,Morocco,2.2,,,1,,0.0,,,1.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Vito-Feirense-BlackJack,1.2,,,1,,0.0,,,0.0
+2018-08-01,2018,volta-a-portugal,gc,Vito-Feirense-BlackJack,2.1,71.0,0.0,1,,6.0,,,9.0
+2018-03-14,2018,volta-ao-alentejo,gc,Vito-Feirense-BlackJack,2.2,33.0,0.0,1,,0.0,,,7.0
+2018-02-14,2018,volta-ao-algarve,gc,Vito-Feirense-BlackJack,2.HC,,0,0,,0.0,,,0.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Vito-Feirense-BlackJack,2.1,70.0,0.0,1,,175.0,,,192.0
+2019-08-29,2019,african-games-road-race-me,gc,VIB Sports,JC,,0,0,,0.0,,,5.0
+2019-07-31,2019,circuito-de-getxo,gc,VIB Sports,1.1,,0,0,,0.0,,,3.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,VIB Sports,2.1,,0,0,,0.0,,,0.0
+2019-09-20,2019,grand-prix-erciyes-mimar-sinan-me,gc,VIB Sports,1.2,,0,0,,0.0,,,3.0
+2019-09-06,2019,grand-prix-velo-erciyes-me,gc,VIB Sports,1.2,,0,0,,0.0,,,15.0
+2019-10-02,2019,international-azerbaijan-tour,gc,VIB Sports,2.1,,0,0,,36.0,,,36.0
+2019-07-20,2019,nc-algeria,gc,VIB Sports,NC,,0,0,,0.0,,,30.0
+2019-07-18,2019,nc-algeria-itt,gc,VIB Sports,NC,,0,0,,0.0,,,33.0
+2019-06-30,2019,nc-spain,gc,VIB Sports,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-tunisia,gc,VIB Sports,NC,,0,0,,0.0,,,1.0
+2019-06-27,2019,nc-tunisia-itt,gc,VIB Sports,NC,,0,0,,0.0,,,25.0
+2019-07-25,2019,prueba-villafranca,gc,VIB Sports,1.1,,0,0,,0.0,,,20.0
+2019-05-17,2019,tour-of-black-sea,gc,VIB Sports,2.2,,0,0,,0.0,,,0.0
+2019-09-07,2019,tour-of-central-anatolia,gc,VIB Sports,2.2,,0,0,,5.0,,,5.0
+2019-09-21,2019,tour-of-kayseri,gc,VIB Sports,2.2,,0,0,,25.0,,,26.0
+2019-04-25,2019,tour-of-mersin,gc,VIB Sports,2.2,10.0,3.0,1,,26.0,,,27.0
+2019-05-02,2019,tour-of-mesopotamia,gc,VIB Sports,2.2,16.0,0.0,1,,40.0,,,43.0
+2019-09-27,2019,tour-of-mevlana,gc,VIB Sports,2.2,,0,0,,5.0,,,5.0
+2022-01-28,2022,tour-of-sharjah,gc,Abu Dhabi Cycling Club,2.2,11.0,0.0,1,,0.0,,,0.0
+2023-01-27,2023,tour-of-sharjah,gc,Abu Dhabi Cycling Club,2.2,13.0,0.0,1,,0.0,,,0.0
+2024-04-28,2024,nc-united-arab-emirates,gc,Abu Dhabi Cycling Club,NC,,0,0,,0.0,,,5.0
+2024-05-05,2024,nc-united-arab-emirates-itt,gc,Abu Dhabi Cycling Club,NC,,0,0,,0.0,,,5.0
+2024-01-26,2024,tour-of-sharjah,gc,Abu Dhabi Cycling Club,2.2,31.0,0.0,1,,0.0,,,-6.0

@@ -1,0 +1,71 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,#inEmiliaRomagna Cycling Team,2.2,128.0,0.0,1,,0.0,,,0.0
+2022-03-20,2022,popolarissima,gc,#inEmiliaRomagna Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-07-05,2022,trofeo-citta-di-brescia,gc,#inEmiliaRomagna Cycling Team,1.2,,,1,,0.0,,,5.0
+2023-06-07,2023,aziz-shusha,gc,Team Technipes #inEmiliaRomagna,2.2,,0,0,,48.0,,,69.0
+2023-04-06,2023,circuit-des-ardennes,gc,Italy,2.2,,0,0,,0.0,,,1.0
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Team Technipes #inEmiliaRomagna,1.2,,0,0,,0.0,,,0.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Team Technipes #inEmiliaRomagna,1.2,,0,0,,0.0,,,0.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Team Technipes #inEmiliaRomagna,1.2,,0,0,,0.0,,,33.0
+2023-06-02,2023,giro-dell-appennino,gc,Team Technipes #inEmiliaRomagna,1.1,,0,0,,0.0,,,3.0
+2023-09-30,2023,giro-dell-emilia,gc,Team Technipes #inEmiliaRomagna,1.Pro,,0,0,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Team Technipes #inEmiliaRomagna,2.2,,0,0,,0.0,,,1.0
+2023-04-16,2023,giro-di-reggio-calabria,gc,Italy,1.1,,0,0,,0.0,,,38.0
+2023-04-16,2023,giro-di-reggio-calabria,gc,Team Technipes #inEmiliaRomagna,1.1,,0,0,,0.0,,,3.0
+2023-04-11,2023,giro-di-sicilia,gc,Italy,2.1,,0,0,,0.0,,,3.0
+2023-04-11,2023,giro-di-sicilia,gc,Team Technipes #inEmiliaRomagna,2.1,,0,0,,3.0,,,3.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,Team Technipes #inEmiliaRomagna,1.Pro,,0,0,,0.0,,,0.0
+2023-03-26,2023,gp-industria-artigianato,gc,Team Technipes #inEmiliaRomagna,1.Pro,,0,0,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,Team Technipes #inEmiliaRomagna,2.2,,0,0,,5.0,,,5.0
+2023-07-28,2023,kreiz-breizh-elites,gc,Italy,2.2,,0,0,,5.0,,,5.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Italy,2.2,,0,0,,3.0,,,4.0
+2023-09-16,2023,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,0.0
+2023-09-16,2023,memorial-marco-pantani,gc,Team Technipes #inEmiliaRomagna,1.1,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Team Technipes #inEmiliaRomagna,NC,,0,0,,0.0,,,0.0
+2023-03-19,2023,per-sempre-alfredo,gc,Team Technipes #inEmiliaRomagna,1.1,,0,0,,0.0,,,5.0
+2023-03-19,2023,popolarissima,gc,Team Technipes #inEmiliaRomagna,1.2,,,1,,0.0,,,0.0
+2023-03-05,2023,porec-trophy,gc,Team Technipes #inEmiliaRomagna,1.2,,,1,,0.0,,,0.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Team Technipes #inEmiliaRomagna,2.1,,0,0,,0.0,,,0.0
+2023-07-06,2023,sibiu-cycling-tour,gc,Team Technipes #inEmiliaRomagna,2.1,,0,0,,3.0,,,3.0
+2023-05-04,2023,tour-de-catamarca-internacional,gc,Italy,2.2,61.0,0.0,1,,0.0,,,14.0
+2023-03-01,2023,trofej-umag,gc,Team Technipes #inEmiliaRomagna,1.2,,,1,,0.0,,,0.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Team Technipes #inEmiliaRomagna,1.2,,,1,,0.0,,,0.0
+2023-03-01,2023,trofeo-laigueglia,gc,Team Technipes #inEmiliaRomagna,1.Pro,,0,0,,0.0,,,0.0
+2023-09-17,2023,trofeo-matteotti,gc,Team Technipes #inEmiliaRomagna,1.1,,,1,,0.0,,,0.0
+2023-09-17,2023,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,88.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,25.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,30.0
+2023-05-11,2023,vuelta-a-formosa-internacional,gc,Italy,2.2,22.0,0.0,1,,18.0,,,24.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.Pro,,0,0,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Italy,WC,,0,0,,0.0,,,240.0
+2023-08-11,2023,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,415.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,UM Tools Caffé Mokambo,1.2,,0,0,,0.0,,,0.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,UM Tools Caffé Mokambo,1.2,,0,0,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,UM Tools Caffé Mokambo,2.1,,,1,,0.0,,,-15.0
+2024-07-07,2024,giro-del-medio-brenta,gc,UM Tools Caffé Mokambo,1.2,,0,0,,0.0,,,0.0
+2024-07-14,2024,giro-dell-appennino,gc,UM Tools Caffé Mokambo,1.1,,,1,,0.0,,,0.0
+2024-04-21,2024,giro-di-romagna,gc,UM Tools Caffé Mokambo,1.1,,,1,,0.0,,,0.0
+2024-09-14,2024,memorial-marco-pantani,gc,UM Tools Caffé Mokambo,1.1,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,UM Tools Caffé Mokambo,NC,,0,0,,0.0,,,0.0
+2024-07-02,2024,trofeo-citta-di-brescia,gc,UM Tools Caffé Mokambo,1.2,,0,0,,0.0,,,0.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,UM Tools Caffé Mokambo,1.2,,,1,,0.0,,,0.0
+2024-09-15,2024,trofeo-matteotti,gc,UM Tools Caffé Mokambo,1.1,,,1,,0.0,,,0.0
+2024-08-14,2024,turul-romaniei,gc,UM Tools Caffé Mokambo,2.2,60.0,0.0,1,,0.0,,,-10.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Sam - Vitalcare - Dynatek,1.2,,,1,,0.0,,,3.0
+2025-10-07,2025,coppa-citta-di-san-daniele2,gc,Sam - Vitalcare - Dynatek,1.2,,0,0,,0.0,,,0.0
+2025-05-24,2025,due-giorni-marchigiana-gp-santa-rita,gc,Sam - Vitalcare - Dynatek,1.2,,0,0,,0.0,,,0.0
+2025-04-12,2025,giro-di-reggio-calabria,gc,Sam - Vitalcare - Dynatek,1.1,,,1,,0.0,,,0.0
+2025-09-21,2025,giro-di-romagna,gc,Sam - Vitalcare - Dynatek,1.1,,0,0,,0.0,,,0.0
+2025-09-10,2025,giro-di-toscana,gc,Sam - Vitalcare - Dynatek,1.1,,0,0,,0.0,,,0.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Sam - Vitalcare - Dynatek,1.Pro,,0,0,,0.0,,,0.0
+2025-09-07,2025,gp-industria-artigianato,gc,Sam - Vitalcare - Dynatek,1.Pro,,0,0,,0.0,,,0.0
+2025-09-13,2025,memorial-marco-pantani,gc,Sam - Vitalcare - Dynatek,1.1,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-ethiopia,gc,Sam - Vitalcare - Dynatek,NC,,0,0,,0.0,,,3.0
+2025-06-25,2025,nc-ethiopia-itt,gc,Sam - Vitalcare - Dynatek,NC,,0,0,,0.0,,,25.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Sam - Vitalcare - Dynatek,2.1,,,1,,0.0,,,0.0
+2025-10-12,2025,trofeo-baracchi,gc,Sam - Vitalcare - Dynatek,1.1,,0,0,,0.0,,,0.0
+2025-07-01,2025,trofeo-citta-di-brescia,gc,Sam - Vitalcare - Dynatek,1.2,,0,0,,0.0,,,0.0
+2025-05-25,2025,trofeo-citta-di-castelfidardo,gc,Sam - Vitalcare - Dynatek,1.2,,0,0,,0.0,,,0.0
+2025-03-05,2025,trofeo-laigueglia,gc,Sam - Vitalcare - Dynatek,1.Pro,,0,0,,0.0,,,0.0
+2025-09-14,2025,trofeo-matteotti,gc,Sam - Vitalcare - Dynatek,1.1,,0,0,,0.0,,,0.0
+2025-04-27,2025,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Sam - Vitalcare - Dynatek,1.2,,0,0,,0.0,,,0.0

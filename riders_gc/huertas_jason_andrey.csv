@@ -1,0 +1,54 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-12-18,2017,vuelta-internacional-a-costa-rica,gc,Extralum Frijoles Tierniticos,2.2,39.0,0.0,1,,0.0,,,0.0
+2022-10-14,2022,elite-road-central-american-championships-itt,gc,Costa Rica,1.2,,,1,,0.0,,,53.0
+2022-10-16,2022,elite-road-central-american-championships-road-rac,gc,Costa Rica,1.2,,,1,,0.0,,,43.0
+2022-12-16,2022,vuelta-internacional-a-costa-rica,gc,Colono Construccion Bike Station,2.2,,,1,,45.0,,,85.0
+2022-12-16,2022,vuelta-internacional-a-costa-rica,gc,Costa Rica,2.2,,0,0,,20.0,,,31.0
+2023-04-14,2023,elite-road-central-american-championships-itt,gc,Costa Rica,1.2,,0,0,,0.0,,,50.0
+2023-04-15,2023,elite-road-central-american-championships-mu-irr,gc,Costa Rica,1.2,,0,0,,0.0,,,29.0
+2023-04-14,2023,elite-road-central-american-championships-mu-itt,gc,Costa Rica,1.2U,,0,0,,0.0,,,60.0
+2023-04-16,2023,elite-road-central-american-championships-road-rac,gc,Costa Rica,1.2,,0,0,,0.0,,,43.0
+2023-07-07,2023,juegos-deportivos-centroamericanos-y-del-carbie,gc,Costa Rica,JR,,0,0,,0.0,,,0.0
+2023-07-05,2023,juegos-deportivos-centroamericanos-y-del-carbie-it,gc,Costa Rica,JR,,0,0,,0.0,,,0.0
+2023-10-29,2023,pan-american-games,gc,Costa Rica,JC,,,1,,0.0,,,8.0
+2023-04-19,2023,panamerican-champ-itt,gc,Costa Rica,CC,,,1,,0.0,,,0.0
+2023-04-23,2023,panamerican-championships,gc,Costa Rica,CC,,,1,,0.0,,,115.0
+2023-12-16,2023,vuelta-internacional-a-costa-rica,gc,Colono Bikestation Kölbi,2.2,35.0,0.0,1,,43.0,,,54.0
+2023-08-06,2023,world-championship,gc,Costa Rica,WC,,,1,,0.0,,,0.0
+2024-06-06,2024,elite-road-central-american-championships-itt,gc,Costa Rica,1.2,,0,0,,0.0,,,48.0
+2024-06-09,2024,elite-road-central-american-championships-road-rac,gc,Costa Rica,1.2,,0,0,,0.0,,,65.0
+2024-06-23,2024,nc-costa-rica,gc,Lasal Cocinas - Louriña,NC,,,1,,0.0,,,1.0
+2024-06-23,2024,nc-costa-rica,gc,Colono Bikestation Kölbi,NC,,0,0,,0.0,,,107.0
+2024-06-21,2024,nc-costa-rica-itt,gc,Lasal Cocinas - Louriña,NC,,,1,,0.0,,,50.0
+2024-06-21,2024,nc-costa-rica-itt,gc,Colono Bikestation Kölbi,NC,,0,0,,0.0,,,23.0
+2024-06-23,2024,nc-guatemala,gc,Lasal Cocinas - Louriña,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-spain,gc,Lasal Cocinas - Louriña,NC,,0,0,,0.0,,,0.0
+2024-01-21,2024,nc-uruguay,gc,Grupo Intxausti,NC,,0,0,,0.0,,,60.0
+2024-01-20,2024,nc-uruguay-itt,gc,Grupo Intxausti,NC,,0,0,,0.0,,,3.0
+2024-05-23,2024,panamerican-champ-itt,gc,Costa Rica,CC,,,1,,0.0,,,5.0
+2024-05-26,2024,panamerican-championships,gc,Costa Rica,CC,,,1,,0.0,,,123.0
+2024-10-25,2024,vuelta-a-guatemala,gc,Colono Bikestation Kölbi,2.2,,0,0,,0.0,,,7.0
+2024-01-14,2024,vuelta-al-tachira,gc,Grupo Intxausti,2.2,,,1,,0.0,,,0.0
+2024-05-01,2024,vuelta-bantrab,gc,Costa Rica,2.2,,0,0,,0.0,,,-4.0
+2024-12-13,2024,vuelta-internacional-a-costa-rica,gc,Colono Bikestation Kölbi,2.2,,,1,,43.0,,,76.0
+2024-12-13,2024,vuelta-internacional-a-costa-rica,gc,Costa Rica,2.2,,0,0,,0.0,,,0.0
+2025-04-11,2025,elite-road-central-american-championships-itt,gc,Costa Rica,1.2,,0,0,,0.0,,,25.0
+2025-04-13,2025,elite-road-central-american-championships-road-rac,gc,Costa Rica,1.2,,0,0,,0.0,,,25.0
+2025-10-19,2025,juegos-centroamericanos-ordeca-me-irr,gc,Costa Rica,1.2,,0,0,,0.0,,,30.0
+2025-10-18,2025,juegos-centroamericanos-ordeca-me-itt,gc,Costa Rica,1.2,,0,0,,0.0,,,35.0
+2025-02-09,2025,nc-colombia,gc,Lasal Cocinas - Craega,NC,,0,0,,0.0,,,0.0
+2025-06-22,2025,nc-costa-rica,gc,Lasal Cocinas - Craega,NC,,,1,,0.0,,,0.0
+2025-06-22,2025,nc-costa-rica,gc,Manza Té La Selva Scott,NC,,0,0,,0.0,,,50.0
+2025-06-20,2025,nc-costa-rica-itt,gc,Lasal Cocinas - Craega,NC,,,1,,0.0,,,10.0
+2025-06-20,2025,nc-costa-rica-itt,gc,Manza Té La Selva Scott,NC,,0,0,,0.0,,,0.0
+2025-06-15,2025,nc-finland,gc,Lasal Cocinas - Craega,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-spain,gc,Lasal Cocinas - Craega,NC,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-spain-itt,gc,Lasal Cocinas - Craega,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-venezuela,gc,Lasal Cocinas - Craega,NC,,0,0,,0.0,,,40.0
+2025-06-26,2025,nc-venezuela-itt,gc,Lasal Cocinas - Craega,NC,,0,0,,0.0,,,15.0
+2025-04-24,2025,panamerican-champ-itt,gc,Costa Rica,CC,,0,0,,0.0,,,0.0
+2025-04-27,2025,panamerican-championships,gc,Costa Rica,CC,,,1,,0.0,,,358.0
+2025-10-24,2025,vuelta-a-guatemala,gc,Manza Té La Selva Scott,2.2,91.0,0.0,1,,0.0,,,-5.0
+2025-12-12,2025,vuelta-internacional-a-costa-rica,gc,Manza Té La Selva Scott,2.2,57.0,0.0,1,,13.0,,,31.0
+2025-12-12,2025,vuelta-internacional-a-costa-rica,gc,Costa Rica,2.2,,0,0,,0.0,,,7.0
+2025-09-28,2025,world-championship,gc,Costa Rica,WC,,0,0,,0.0,,,0.0

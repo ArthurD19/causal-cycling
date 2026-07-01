@@ -1,0 +1,24 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-01-19,2019,gravel-and-tar,gc,NZ Cycling Project,1.2,,,1,,0.0,,,0.0
+2019-01-23,2019,new-zealand-cycle-classic,gc,Team Rauland,2.2,31.0,0.0,1,,0.0,,,0.0
+2020-02-05,2020,herald-sun-tour,gc,Team BridgeLane,2.1,,,1,,6.0,,,6.0
+2020-02-15,2020,malaysian-international-classic-race,gc,Team BridgeLane,1.1,,0,0,,0.0,,,0.0
+2020-01-12,2020,nc-australia,gc,Team BridgeLane,NC,,0,0,,0.0,,,0.0
+2020-01-08,2020,nc-australia-itt,gc,Team BridgeLane,NC,,0,0,,0.0,,,0.0
+2020-02-16,2020,nc-new-zealand,gc,Team BridgeLane,NC,,,1,,0.0,,,0.0
+2020-01-15,2020,new-zealand-cycle-classic,gc,Team BridgeLane,2.2,5.0,15.0,1,,55.0,,,79.0
+2020-01-30,2020,race-torquay,gc,Team BridgeLane,1.1,,0,0,,0.0,,,5.0
+2020-02-07,2020,tour-de-langkawi,gc,Team BridgeLane,2.Pro,,0,0,,3.0,,,3.0
+2020-03-01,2020,tour-de-taiwan,gc,Team BridgeLane,2.1,,0,0,,155.0,,,177.0
+2022-05-19,2022,joe-martin-stage-race-me,gc,MitoQ - NZ Cycling Project,2.2,,0,0,,0.0,,,0.0
+2022-02-13,2022,nc-new-zealand,gc,MitoQ - NZ Cycling Project,NC,,,1,,0.0,,,26.0
+2022-01-06,2022,new-zealand-cycle-classic,gc,MitoQ - NZ Cycling Project,2.2,8.0,3.0,1,,0.0,,,0.0
+2022-04-10,2022,oceania-championships,gc,MitoQ - NZ Cycling Project,CC,,0,0,,0.0,,,0.0
+2023-01-21,2023,gravel-and-tar,gc,MitoQ - NZ Cycling Project,1.2,,0,0,,0.0,,,43.0
+2023-02-12,2023,nc-new-zealand,gc,MitoQ - NZ Cycling Project,NC,,,1,,0.0,,,31.0
+2023-01-11,2023,new-zealand-cycle-classic,gc,MitoQ - NZ Cycling Project,2.2,,,1,,20.0,,,20.0
+2024-05-19,2024,gran-premio-new-york-city,gc,MitoQ - NZ Cycling Project,1.2,,0,0,,0.0,,,5.0
+2024-01-20,2024,gravel-and-tar,gc,MitoQ - NZ Cycling Project,1.2,,0,0,,0.0,,,43.0
+2024-02-10,2024,nc-new-zealand,gc,MitoQ - NZ Cycling Project,NC,,,1,,0.0,,,14.0
+2024-01-10,2024,new-zealand-cycle-classic,gc,MitoQ - NZ Cycling Project,2.2,,0,0,,5.0,,,3.0
+2024-06-12,2024,tour-de-beauce,gc,MitoQ - NZ Cycling Project,2.2,,0,0,,40.0,,,47.0

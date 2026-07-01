@@ -1,0 +1,850 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-23,2017,abu-dhabi-tour,gc,Team Sky,2.UWT,,0,0,,17.0,,,17.0
+2017-04-16,2017,amstel-gold-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,575.0
+2017-08-27,2017,bretagne-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,408.0
+2017-08-20,2017,cyclassics-hamburg,gc,Team Sky,1.UWT,,0,0,,0.0,,,416.0
+2017-01-27,2017,deia-trophy,gc,Great Britain,1.1,,0,0,,0.0,,,0.0
+2017-01-27,2017,deia-trophy,gc,Team Sky,1.1,,0,0,,0.0,,,60.0
+2017-01-31,2017,dubai-tour,gc,Team Sky,2.HC,,0,0,,85.0,,,95.0
+2017-03-24,2017,e3-harelbeke,gc,Team Sky,1.UWT,,0,0,,0.0,,,34.0
+2017-03-26,2017,gent-wevelgem,gc,Team Sky,1.UWT,,0,0,,0.0,,,20.0
+2017-05-05,2017,giro-d-italia,gc,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-05-05,2017,giro-d-italia,kom,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-05-05,2017,giro-d-italia,points,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-09-30,2017,giro-dell-emilia,gc,Team Sky,1.HC,,0,0,,0.0,,,93.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Team Sky,1.HC,,0,0,,0.0,,,130.0
+2017-09-28,2017,gp-citta-di-peccioli,gc,Team Sky,1.1,,0,0,,0.0,,,40.0
+2017-09-10,2017,gp-montreal,gc,Team Sky,1.UWT,,0,0,,0.0,,,55.0
+2017-09-08,2017,gp-quebec,gc,Team Sky,1.UWT,,0,0,,0.0,,,45.0
+2017-04-01,2017,gran-premio-miguel-indurain,gc,Team Sky,1.1,,0,0,,0.0,,,139.0
+2017-01-29,2017,great-ocean-road-race,gc,Team Sky,1.UWT,,,1,,0.0,,,137.0
+2017-02-01,2017,herald-sun-tour,gc,Team Sky,2.1,6.0,40.0,1,,115.0,,,160.0
+2017-10-07,2017,il-lombardia,gc,Team Sky,1.UWT,,0,0,,0.0,,,490.0
+2017-04-03,2017,itzulia-basque-country,gc,Team Sky,2.UWT,,0,0,,144.0,,,164.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,0,0,,0.0,,,140.0
+2017-04-19,2017,la-fleche-wallonne,gc,Team Sky,1.UWT,,0,0,,0.0,,,356.0
+2017-06-15,2017,la-route-d-occitanie,gc,Team Sky,2.1,,0,0,,111.0,,,130.0
+2017-04-23,2017,liege-bastogne-liege,gc,Team Sky,1.UWT,,0,0,,0.0,,,375.0
+2017-03-18,2017,milano-sanremo,gc,Team Sky,1.UWT,,0,0,,0.0,,,610.0
+2017-10-05,2017,milano-torino,gc,Team Sky,1.HC,,0,0,,0.0,,,75.0
+2017-02-26,2017,nc-colombia,gc,Team Sky,NC,,0,0,,0.0,,,70.0
+2017-06-22,2017,nc-great-britain-itt,gc,Team Sky,NC,,0,0,,0.0,,,16.0
+2017-06-25,2017,nc-italy,gc,Team Sky,NC,,0,0,,0.0,,,25.0
+2017-06-23,2017,nc-italy-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-netherlands,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-poland,gc,Team Sky,NC,,0,0,,0.0,,,5.0
+2017-06-21,2017,nc-poland-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-spain,gc,Team Sky,NC,,0,0,,0.0,,,15.0
+2017-06-23,2017,nc-spain-itt,gc,Team Sky,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,ncgreat-britain,gc,Team Sky,NC,,0,0,,0.0,,,60.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,0,0,,0.0,,,120.0
+2017-03-05,2017,paris-nice,gc,Team Sky,2.UWT,,0,0,,530.0,,,555.0
+2017-04-09,2017,paris-roubaix,gc,Team Sky,1.UWT,,0,0,,0.0,,,228.0
+2017-08-07,2017,renewi-tour,gc,Team Sky,2.UWT,,0,0,,2.0,,,2.0
+2017-07-30,2017,ride-london-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,40.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,35.0
+2017-02-15,2017,ruta-del-sol,gc,Team Sky,2.HC,,0,0,,275.0,,,285.0
+2017-07-29,2017,san-sebastian,gc,Team Sky,1.UWT,,0,0,,0.0,,,624.0
+2017-04-05,2017,scheldeprijs,gc,Team Sky,1.HC,,0,0,,0.0,,,153.0
+2017-03-04,2017,strade-bianche,gc,Team Sky,1.UWT,,0,0,,0.0,,,331.0
+2017-03-09,2017,tirreno-adriatico,gc,Team Sky,2.UWT,,0,0,,273.0,,,383.0
+2017-07-26,2017,tour-alsace,gc,Great Britain,2.2,,0,0,,0.0,,,1.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Team Sky,2.UWT,4.0,275.0,1,,308.0,,,378.0
+2017-07-01,2017,tour-de-france,gc,Team Sky,2.UWT,1.0,1000.0,1,,1700.0,0.0,0.0,2040.0
+2017-07-01,2017,tour-de-france,kom,Team Sky,2.UWT,5.0,0.0,1,,1700.0,0.0,0.0,2040.0
+2017-07-01,2017,tour-de-france,points,Team Sky,2.UWT,8.0,0.0,1,,1700.0,0.0,0.0,2040.0
+2017-07-29,2017,tour-de-pologne,gc,Team Sky,2.UWT,,0,0,,286.0,,,454.0
+2017-04-25,2017,tour-de-romandie,gc,Team Sky,2.UWT,18.0,30.0,1,,30.0,,,90.0
+2017-06-10,2017,tour-de-suisse,gc,Team Sky,2.UWT,,0,0,,150.0,,,150.0
+2017-04-28,2017,tour-de-yorkshire,gc,Great Britain,2.1,,0,0,,0.0,,,0.0
+2017-04-28,2017,tour-de-yorkshire,gc,Team Sky,2.1,,0,0,,30.0,,,30.0
+2017-01-17,2017,tour-down-under,gc,Team Sky,2.UWT,,0,0,,70.0,,,105.0
+2017-08-22,2017,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Sky,2.1,,0,0,,88.0,,,126.0
+2017-09-03,2017,tour-of-britain,gc,Great Britain,2.HC,,0,0,,0.0,,,0.0
+2017-09-03,2017,tour-of-britain,gc,Team Sky,2.HC,,0,0,,185.0,,,225.0
+2017-05-14,2017,tour-of-california,gc,Team Sky,2.UWT,,0,0,,225.0,,,292.0
+2017-10-19,2017,tour-of-guangxi,gc,Team Sky,2.UWT,,0,0,,117.0,,,117.0
+2017-04-17,2017,tour-of-the-alps,gc,Team Sky,2.HC,,0,0,,288.0,,,333.0
+2017-10-03,2017,tre-valli-varesine,gc,Team Sky,1.HC,,0,0,,0.0,,,60.0
+2017-01-29,2017,trofeo-palma,gc,Great Britain,1.1,,0,0,,0.0,,,11.0
+2017-01-29,2017,trofeo-palma,gc,Team Sky,1.1,,0,0,,0.0,,,35.0
+2017-01-28,2017,trofeo-pollenca-port-d-andratx,gc,Great Britain,1.1,,0,0,,0.0,,,0.0
+2017-01-28,2017,trofeo-pollenca-port-d-andratx,gc,Team Sky,1.1,,0,0,,0.0,,,59.0
+2017-01-26,2017,trofeo-ses-salines-felanitx,gc,Great Britain,1.1,,0,0,,0.0,,,3.0
+2017-01-26,2017,trofeo-ses-salines-felanitx,gc,Team Sky,1.1,,0,0,,0.0,,,65.0
+2017-07-09,2017,velothon-wales,gc,Great Britain,1.1,,0,0,,0.0,,,73.0
+2017-03-20,2017,volta-a-catalunya,gc,Team Sky,2.UWT,30.0,16.0,1,,28.0,,,48.0
+2017-02-15,2017,volta-ao-algarve,gc,Team Sky,2.HC,,0,0,,155.0,,,160.0
+2017-08-01,2017,vuelta-a-burgos,gc,Team Sky,2.HC,,0,0,,210.0,,,265.0
+2017-08-20,2017,vuelta-a-espana,gc,Team Sky,2.UWT,1.0,850.0,1,,1262.0,20.0,100.0,1638.0
+2017-08-20,2017,vuelta-a-espana,kom,Team Sky,2.UWT,3.0,20.0,1,,1262.0,20.0,100.0,1638.0
+2017-08-20,2017,vuelta-a-espana,points,Team Sky,2.UWT,1.0,100.0,1,,1262.0,20.0,100.0,1638.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,68.0,,,68.0
+2017-09-24,2017,world-championship,gc,Great Britain,WC,,0,0,,0.0,,,285.0
+2017-09-20,2017,world-championship-itt,gc,Great Britain,WC,,,1,,0.0,,,200.0
+2018-02-21,2018,abu-dhabi-tour,gc,Team Sky,2.UWT,,0,0,,36.0,,,51.0
+2018-04-15,2018,amstel-gold-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,40.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Team Sky,1.HC,,0,0,,0.0,,,150.0
+2018-08-26,2018,bretagne-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,16.0
+2018-02-06,2018,colombia-21,gc,Team Sky,2.1,,0,0,,188.0,,,204.0
+2018-09-15,2018,coppa-agostoni,gc,Team Sky,1.1,,0,0,,0.0,,,125.0
+2018-09-16,2018,coppa-bernocchi,gc,Team Sky,1.1,,0,0,,0.0,,,53.0
+2018-08-19,2018,cyclassics-hamburg,gc,Team Sky,1.UWT,,0,0,,0.0,,,28.0
+2018-01-26,2018,deia-trophy,gc,Team Sky,1.1,,0,0,,0.0,,,91.0
+2018-08-23,2018,deutschland-tour,gc,Team Sky,2.1,,0,0,,8.0,,,8.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,48.0
+2018-03-23,2018,e3-harelbeke,gc,Team Sky,1.UWT,,0,0,,0.0,,,120.0
+2018-03-25,2018,gent-wevelgem,gc,Team Sky,1.UWT,,0,0,,0.0,,,10.0
+2018-05-04,2018,giro-d-italia,gc,Team Sky,2.UWT,1.0,850.0,1,,1054.0,100.0,0.0,1258.0
+2018-05-04,2018,giro-d-italia,kom,Team Sky,2.UWT,1.0,100.0,1,,1054.0,100.0,0.0,1258.0
+2018-05-04,2018,giro-d-italia,points,Team Sky,2.UWT,18.0,0.0,1,,1054.0,100.0,0.0,1258.0
+2018-10-06,2018,giro-dell-emilia,gc,Team Sky,1.HC,,0,0,,0.0,,,16.0
+2018-09-19,2018,giro-di-toscana,gc,Team Sky,1.1,,0,0,,0.0,,,130.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Team Sky,1.HC,,0,0,,0.0,,,60.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Team Sky,1.1,,0,0,,0.0,,,73.0
+2018-09-09,2018,gp-montreal,gc,Team Sky,1.UWT,,0,0,,0.0,,,30.0
+2018-09-07,2018,gp-quebec,gc,Team Sky,1.UWT,,0,0,,0.0,,,45.0
+2018-10-11,2018,gran-piemonte,gc,Team Sky,1.HC,,0,0,,0.0,,,23.0
+2018-01-28,2018,great-ocean-road-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,54.0
+2018-10-13,2018,il-lombardia,gc,Team Sky,1.UWT,,0,0,,0.0,,,65.0
+2018-04-02,2018,itzulia-basque-country,gc,Team Sky,2.UWT,,0,0,,82.0,,,98.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,0,0,,0.0,,,50.0
+2018-04-18,2018,la-fleche-wallonne,gc,Team Sky,1.UWT,,0,0,,0.0,,,58.0
+2018-06-14,2018,la-route-d-occitanie,gc,Team Sky,2.1,,0,0,,70.0,,,73.0
+2018-04-22,2018,liege-bastogne-liege,gc,Team Sky,1.UWT,,0,0,,0.0,,,123.0
+2018-09-22,2018,memorial-marco-pantani,gc,Team Sky,1.1,,0,0,,0.0,,,33.0
+2018-03-17,2018,milano-sanremo,gc,Team Sky,1.UWT,,0,0,,0.0,,,90.0
+2018-10-10,2018,milano-torino,gc,Team Sky,1.HC,,0,0,,0.0,,,38.0
+2018-07-01,2018,nc-belarus,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-29,2018,nc-belarus-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-02-04,2018,nc-colombia,gc,Team Sky,NC,,0,0,,0.0,,,100.0
+2018-02-02,2018,nc-colombia-itt,gc,Team Sky,NC,,0,0,,0.0,,,55.0
+2018-07-01,2018,nc-germany,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-28,2018,nc-great-britain-itt,gc,Team Sky,NC,,0,0,,0.0,,,58.0
+2018-06-30,2018,nc-italy,gc,Team Sky,NC,,0,0,,0.0,,,3.0
+2018-10-04,2018,nc-italy-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2018-07-01,2018,nc-netherlands,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-27,2018,nc-netherlands-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-06-24,2018,nc-norway,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-21,2018,nc-norway-itt,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-poland,gc,Team Sky,NC,,0,0,,0.0,,,150.0
+2018-06-22,2018,nc-poland-itt,gc,Team Sky,NC,,0,0,,0.0,,,23.0
+2018-07-01,2018,nc-russia,gc,Team Sky,NC,,0,0,,0.0,,,10.0
+2018-06-29,2018,nc-russia-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-spain,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-spain-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-07-01,2018,ncgreat-britain,gc,Team Sky,NC,,0,0,,0.0,,,60.0
+2018-03-14,2018,nokere-koerse,gc,Team Sky,1.HC,,0,0,,0.0,,,38.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,0,0,,0.0,,,292.0
+2018-03-04,2018,paris-nice,gc,Team Sky,2.UWT,,0,0,,170.0,,,290.0
+2018-04-08,2018,paris-roubaix,gc,Team Sky,1.UWT,,0,0,,0.0,,,50.0
+2018-08-13,2018,renewi-tour,gc,Team Sky,2.UWT,,0,0,,180.0,,,180.0
+2018-07-29,2018,ride-london-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,31.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,100.0
+2018-02-14,2018,ruta-del-sol,gc,Team Sky,2.HC,10.0,35.0,1,,193.0,,,233.0
+2018-08-04,2018,san-sebastian,gc,Team Sky,1.UWT,,0,0,,0.0,,,20.0
+2018-04-04,2018,scheldeprijs,gc,Team Sky,1.HC,,0,0,,0.0,,,133.0
+2018-03-03,2018,strade-bianche,gc,Team Sky,1.UWT,,0,0,,0.0,,,54.0
+2018-03-08,2018,tirreno-adriatico,gc,Team Sky,2.UWT,34.0,10.0,1,,850.0,,,870.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Team Sky,2.UWT,,0,0,,590.0,,,720.0
+2018-07-07,2018,tour-de-france,gc,Team Sky,2.UWT,3.0,675.0,1,,1780.0,0.0,0.0,2225.0
+2018-07-07,2018,tour-de-france,kom,Team Sky,2.UWT,19.0,0.0,1,,1780.0,0.0,0.0,2225.0
+2018-07-07,2018,tour-de-france,points,Team Sky,2.UWT,22.0,0.0,1,,1780.0,0.0,0.0,2225.0
+2018-08-04,2018,tour-de-pologne,gc,Team Sky,2.UWT,,0,0,,424.0,,,532.0
+2018-04-24,2018,tour-de-romandie,gc,Team Sky,2.UWT,,0,0,,465.0,,,535.0
+2018-06-10,2018,tour-de-suisse,gc,Team Sky,2.UWT,,0,0,,60.0,,,60.0
+2018-05-03,2018,tour-de-yorkshire,gc,Team Sky,2.1,,0,0,,5.0,,,5.0
+2018-05-22,2018,tour-des-fjords,gc,Team Sky,2.HC,,0,0,,13.0,,,18.0
+2018-01-16,2018,tour-down-under,gc,Team Sky,2.UWT,,0,0,,185.0,,,185.0
+2018-09-02,2018,tour-of-britain,gc,Team Sky,2.HC,85.0,0.0,1,,156.0,,,196.0
+2018-05-13,2018,tour-of-california,gc,Team Sky,2.UWT,,0,0,,438.0,,,530.0
+2018-10-16,2018,tour-of-guangxi,gc,Team Sky,2.UWT,,0,0,,343.0,,,383.0
+2018-05-16,2018,tour-of-norway,gc,Team Sky,2.HC,,0,0,,5.0,,,10.0
+2018-04-16,2018,tour-of-the-alps,gc,Team Sky,2.HC,4.0,100.0,1,,108.0,,,108.0
+2018-01-28,2018,trofeo-palma,gc,Team Sky,1.1,,0,0,,0.0,,,28.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Team Sky,1.1,,0,0,,0.0,,,36.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Team Sky,1.1,,0,0,,0.0,,,28.0
+2018-03-19,2018,volta-a-catalunya,gc,Team Sky,2.UWT,,0,0,,20.0,,,40.0
+2018-02-14,2018,volta-ao-algarve,gc,Team Sky,2.HC,,0,0,,355.0,,,420.0
+2018-08-07,2018,vuelta-a-burgos,gc,Team Sky,2.HC,,0,0,,295.0,,,300.0
+2018-08-25,2018,vuelta-a-espana,gc,Team Sky,2.UWT,,0,0,,100.0,0.0,0.0,268.0
+2018-08-25,2018,vuelta-a-espana,kom,Team Sky,2.UWT,,0,0,,100.0,0.0,0.0,268.0
+2018-08-25,2018,vuelta-a-espana,points,Team Sky,2.UWT,,0,0,,100.0,0.0,0.0,268.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,21.0,,,21.0
+2019-04-21,2019,amstel-gold-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,80.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Team Sky,1.HC,,0,0,,0.0,,,155.0
+2019-09-01,2019,bretagne-classic,gc,Team INEOS,1.UWT,,0,0,,0.0,,,16.0
+2019-10-20,2019,chrono-des-nations,gc,Team INEOS,1.1,,0,0,,0.0,,,85.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Team Sky,1.UWT,,0,0,,0.0,,,125.0
+2019-02-13,2019,colombia-21,gc,Team Sky,2.1,91.0,0.0,1,,145.0,,,150.0
+2019-08-25,2019,cyclassics-hamburg,gc,Team INEOS,1.UWT,,0,0,,0.0,,,64.0
+2019-08-29,2019,deutschland-tour,gc,Team INEOS,2.HC,,0,0,,35.0,,,35.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,128.0
+2019-03-29,2019,e3-harelbeke,gc,Team Sky,1.UWT,,0,0,,0.0,,,4.0
+2019-03-31,2019,gent-wevelgem,gc,Team Sky,1.UWT,,0,0,,0.0,,,35.0
+2019-05-11,2019,giro-d-italia,gc,Team INEOS,2.UWT,,0,0,,260.0,0.0,0.0,280.0
+2019-05-11,2019,giro-d-italia,kom,Team INEOS,2.UWT,,0,0,,260.0,0.0,0.0,280.0
+2019-05-11,2019,giro-d-italia,points,Team INEOS,2.UWT,,0,0,,260.0,0.0,0.0,280.0
+2019-10-05,2019,giro-dell-emilia,gc,Team INEOS,1.HC,,0,0,,0.0,,,53.0
+2019-09-18,2019,giro-di-toscana,gc,Team INEOS,1.1,,0,0,,0.0,,,128.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Team INEOS,1.HC,,0,0,,0.0,,,3.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Team INEOS,1.1,,0,0,,0.0,,,56.0
+2019-09-15,2019,gp-montreal,gc,Team INEOS,1.UWT,,0,0,,0.0,,,10.0
+2019-09-13,2019,gp-quebec,gc,Team INEOS,1.UWT,,0,0,,0.0,,,0.0
+2019-10-10,2019,gran-piemonte,gc,Team INEOS,1.HC,,0,0,,0.0,,,355.0
+2019-01-27,2019,great-ocean-road-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,235.0
+2019-01-30,2019,herald-sun-tour,gc,Team Sky,2.1,,0,0,,196.0,,,242.0
+2019-10-12,2019,il-lombardia,gc,Team INEOS,1.UWT,,0,0,,0.0,,,405.0
+2019-04-08,2019,itzulia-basque-country,gc,Team Sky,2.UWT,,0,0,,16.0,,,32.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,0,0,,0.0,,,150.0
+2019-04-24,2019,la-fleche-wallonne,gc,Team Sky,1.UWT,,0,0,,0.0,,,40.0
+2019-06-20,2019,la-route-d-occitanie,gc,Team INEOS,2.1,,0,0,,165.0,,,189.0
+2019-04-28,2019,liege-bastogne-liege,gc,Team Sky,1.UWT,,0,0,,0.0,,,155.0
+2019-09-21,2019,memorial-marco-pantani,gc,Team INEOS,1.1,,0,0,,0.0,,,90.0
+2019-03-23,2019,milano-sanremo,gc,Team Sky,1.UWT,,0,0,,0.0,,,335.0
+2019-10-09,2019,milano-torino,gc,Team INEOS,1.HC,,0,0,,0.0,,,75.0
+2019-10-03,2019,munsterland-giro,gc,Team INEOS,1.HC,,0,0,,0.0,,,30.0
+2019-06-16,2019,nc-belarus,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-02-03,2019,nc-colombia,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2019-02-01,2019,nc-colombia-itt,gc,Team Sky,NC,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-germany,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-great-britain-itt,gc,Team INEOS,NC,,0,0,,0.0,,,18.0
+2019-06-30,2019,nc-ireland,gc,Team INEOS,NC,,0,0,,0.0,,,75.0
+2019-06-27,2019,nc-ireland-itt,gc,Team INEOS,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,nc-italy,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-06-28,2019,nc-italy-itt,gc,Team INEOS,NC,,0,0,,0.0,,,60.0
+2019-06-26,2019,nc-netherlands-itt,gc,Team INEOS,NC,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-norway,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-poland,gc,Team INEOS,NC,,0,0,,0.0,,,30.0
+2019-06-28,2019,nc-poland-itt,gc,Team INEOS,NC,,0,0,,0.0,,,15.0
+2019-06-28,2019,nc-spain-itt,gc,Team INEOS,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,ncgreat-britain,gc,Team INEOS,NC,,0,0,,0.0,,,175.0
+2019-03-20,2019,nokere-koerse,gc,Team Sky,1.HC,,0,0,,0.0,,,3.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,0,0,,0.0,,,49.0
+2019-03-10,2019,paris-nice,gc,Team Sky,2.UWT,,0,0,,848.0,,,858.0
+2019-04-14,2019,paris-roubaix,gc,Team Sky,1.UWT,,0,0,,0.0,,,30.0
+2019-08-12,2019,renewi-tour,gc,Team INEOS,2.UWT,,0,0,,40.0,,,90.0
+2019-08-04,2019,ride-london-classic,gc,Team INEOS,1.UWT,,0,0,,0.0,,,44.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,70.0
+2019-08-03,2019,san-sebastian,gc,Team INEOS,1.UWT,,0,0,,0.0,,,40.0
+2019-04-10,2019,scheldeprijs,gc,Team Sky,1.HC,,0,0,,0.0,,,125.0
+2019-03-09,2019,strade-bianche,gc,Team Sky,1.UWT,,0,0,,0.0,,,62.0
+2019-03-14,2019,tirreno-adriatico,gc,Team Sky,2.UWT,,0,0,,170.0,,,170.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Team INEOS,2.UWT,,,1,,315.0,,,435.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Team Sky,2.1,,0,0,,35.0,,,49.0
+2019-07-06,2019,tour-de-france,gc,Team INEOS,2.UWT,,0,0,,1870.0,50.0,0.0,1965.0
+2019-07-06,2019,tour-de-france,kom,Team INEOS,2.UWT,,0,0,,1870.0,50.0,0.0,1965.0
+2019-07-06,2019,tour-de-france,points,Team INEOS,2.UWT,,0,0,,1870.0,50.0,0.0,1965.0
+2019-08-03,2019,tour-de-pologne,gc,Team INEOS,2.UWT,,0,0,,602.0,,,630.0
+2019-04-30,2019,tour-de-romandie,gc,Team INEOS,2.UWT,,0,0,,344.0,,,364.0
+2019-06-15,2019,tour-de-suisse,gc,Team INEOS,2.UWT,,0,0,,565.0,,,660.0
+2019-07-27,2019,tour-de-wallonie,gc,Team INEOS,2.HC,,0,0,,178.0,,,188.0
+2019-05-02,2019,tour-de-yorkshire,gc,Team INEOS,2.HC,13.0,20.0,1,,390.0,,,420.0
+2019-01-15,2019,tour-down-under,gc,Team Sky,2.UWT,,0,0,,365.0,,,390.0
+2019-09-07,2019,tour-of-britain,gc,Team INEOS,2.HC,,0,0,,180.0,,,185.0
+2019-05-12,2019,tour-of-california,gc,Team INEOS,2.UWT,,0,0,,25.0,,,31.0
+2019-10-17,2019,tour-of-guangxi,gc,Team INEOS,2.UWT,,0,0,,295.0,,,301.0
+2019-05-28,2019,tour-of-norway,gc,Team INEOS,2.HC,,0,0,,158.0,,,193.0
+2019-04-22,2019,tour-of-the-alps,gc,Team Sky,2.HC,11.0,30.0,1,,380.0,,,450.0
+2019-10-08,2019,tre-valli-varesine,gc,Team INEOS,1.HC,,0,0,,0.0,,,60.0
+2019-02-25,2019,uae-tour,gc,Team Sky,2.UWT,,0,0,,69.0,,,69.0
+2019-03-25,2019,volta-a-catalunya,gc,Team Sky,2.UWT,94.0,0.0,1,,292.0,,,312.0
+2019-02-20,2019,volta-ao-algarve,gc,Team Sky,2.HC,,0,0,,160.0,,,175.0
+2019-08-13,2019,vuelta-a-burgos,gc,Team INEOS,2.HC,,0,0,,265.0,,,310.0
+2019-08-25,2019,vuelta-a-espana,gc,Team INEOS,2.UWT,,0,0,,80.0,0.0,0.0,140.0
+2019-08-25,2019,vuelta-a-espana,kom,Team INEOS,2.UWT,,0,0,,80.0,0.0,0.0,140.0
+2019-08-25,2019,vuelta-a-espana,points,Team INEOS,2.UWT,,0,0,,80.0,0.0,0.0,140.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,26.0,,,29.0
+2020-10-07,2020,brabantse-pijl,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,70.0
+2020-10-21,2020,classic-brugge-de-panne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,15.0
+2020-02-12,2020,colombia-21,gc,Team INEOS,2.1,,0,0,,60.0,,,68.0
+2020-10-11,2020,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,60.0
+2020-10-03,2020,giro-d-italia,gc,INEOS Grenadiers,2.UWT,,0,0,,958.0,40.0,0.0,1910.0
+2020-10-03,2020,giro-d-italia,kom,INEOS Grenadiers,2.UWT,,0,0,,958.0,40.0,0.0,1910.0
+2020-10-03,2020,giro-d-italia,points,INEOS Grenadiers,2.UWT,,0,0,,958.0,40.0,0.0,1910.0
+2020-09-19,2020,giro-dell-appennino,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2020-08-18,2020,giro-dell-emilia,gc,Team INEOS,1.Pro,,0,0,,0.0,,,105.0
+2020-09-16,2020,giro-di-toscana,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,85.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,43.0
+2020-08-12,2020,gran-piemonte,gc,Team INEOS,1.Pro,,0,0,,0.0,,,13.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Team INEOS,1.Pro,,0,0,,0.0,,,143.0
+2020-02-02,2020,great-ocean-road-race,gc,Team INEOS,1.UWT,,0,0,,0.0,,,383.0
+2020-08-15,2020,il-lombardia,gc,Team INEOS,1.UWT,,0,0,,0.0,,,63.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Team INEOS,1.Pro,,0,0,,0.0,,,50.0
+2020-09-30,2020,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,142.0
+2020-08-01,2020,la-route-d-occitanie,gc,Team INEOS,2.1,37.0,0.0,1,,210.0,,,229.0
+2020-10-04,2020,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,85.0
+2020-08-30,2020,memorial-marco-pantani,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,85.0
+2020-08-08,2020,milano-sanremo,gc,Team INEOS,1.UWT,,0,0,,0.0,,,55.0
+2020-08-05,2020,milano-torino,gc,Team INEOS,1.Pro,,0,0,,0.0,,,46.0
+2020-01-08,2020,nc-australia-itt,gc,Team INEOS,NC,,0,0,,0.0,,,30.0
+2020-02-02,2020,nc-colombia,gc,Team INEOS,NC,,0,0,,0.0,,,75.0
+2020-01-30,2020,nc-colombia-itt,gc,Team INEOS,NC,,0,0,,0.0,,,35.0
+2020-08-23,2020,nc-germany,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-italy-itt,gc,Team INEOS,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-poland,gc,Team INEOS,NC,,0,0,,0.0,,,40.0
+2020-08-23,2020,nc-spain,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Team INEOS,1.UWT,,0,0,,0.0,,,12.0
+2020-01-30,2020,race-torquay,gc,Team INEOS,1.1,,0,0,,0.0,,,0.0
+2020-09-29,2020,renewi-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,44.0,,,44.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,140.0
+2020-10-14,2020,scheldeprijs,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,3.0
+2020-08-01,2020,strade-bianche,gc,Team INEOS,1.UWT,,0,0,,0.0,,,35.0
+2020-09-07,2020,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,91.0,0.0,1,,420.0,,,515.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Team INEOS,2.UWT,71.0,0.0,1,,100.0,,,110.0
+2020-02-13,2020,tour-cycliste-international-la-provence,gc,Team INEOS,2.Pro,,0,0,,75.0,,,95.0
+2020-08-29,2020,tour-de-france,gc,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-29,2020,tour-de-france,kom,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-29,2020,tour-de-france,points,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-07,2020,tour-de-l-ain,gc,Team INEOS,2.1,41.0,0.0,1,,93.0,,,103.0
+2020-08-05,2020,tour-de-pologne,gc,Team INEOS,2.UWT,,0,0,,24.0,,,74.0
+2020-08-16,2020,tour-de-wallonie,gc,Team INEOS,2.Pro,,0,0,,50.0,,,50.0
+2020-01-21,2020,tour-down-under,gc,Team INEOS,2.UWT,,0,0,,530.0,,,530.0
+2020-02-23,2020,uae-tour,gc,Team INEOS,2.UWT,71.0,0.0,1,,40.0,,,40.0
+2020-02-19,2020,volta-ao-algarve,gc,Team INEOS,2.Pro,,0,0,,25.0,,,35.0
+2020-07-28,2020,vuelta-a-burgos,gc,Team INEOS,2.Pro,,0,0,,80.0,,,100.0
+2020-10-20,2020,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,97.0,0.0,1,,708.0,20.0,40.0,848.0
+2020-10-20,2020,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,,1,,708.0,20.0,40.0,848.0
+2020-10-20,2020,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,,1,,708.0,20.0,40.0,848.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Team INEOS,2.Pro,,0,0,,163.0,,,168.0
+2021-04-18,2021,amstel-gold-race,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,40.0
+2021-08-05,2021,arctic-race-of-norway,gc,Israel Start-Up Nation,2.Pro,,0,0,,200.0,,,220.0
+2021-04-14,2021,brabantse-pijl,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,3.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,103.0
+2021-08-29,2021,bretagne-classic,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,100.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,168.0
+2021-10-17,2021,chrono-des-nations,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,70.0
+2021-09-29,2021,circuit-franco-belge,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,98.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,133.0
+2021-10-11,2021,coppa-agostoni,gc,Israel Start-Up Nation,1.1,,,1,,0.0,,,5.0
+2021-10-04,2021,coppa-bernocchi,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,0.0
+2021-06-20,2021,danish-championships,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,100.0
+2021-05-14,2021,deia-trophy,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,60.0
+2021-08-26,2021,deutschland-tour,gc,Israel Start-Up Nation,2.Pro,96.0,0.0,1,,0.0,,,5.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,0.0
+2021-03-26,2021,e3-harelbeke,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,20.0
+2021-09-19,2021,eschborn-frankfurt,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,37.0
+2021-02-03,2021,etoile-de-besseges,gc,Israel Start-Up Nation,2.1,,0,0,,50.0,,,53.0
+2021-02-27,2021,faun-ardeche-classic,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,5.0
+2021-03-28,2021,gent-wevelgem,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,20.0
+2021-05-08,2021,giro-d-italia,gc,Israel Start-Up Nation,2.UWT,,0,0,,156.0,0.0,40.0,436.0
+2021-05-08,2021,giro-d-italia,kom,Israel Start-Up Nation,2.UWT,,0,0,,156.0,0.0,40.0,436.0
+2021-05-08,2021,giro-d-italia,points,Israel Start-Up Nation,2.UWT,,0,0,,156.0,0.0,40.0,436.0
+2021-06-24,2021,giro-dell-appennino,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,125.0
+2021-10-02,2021,giro-dell-emilia,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,265.0
+2021-09-28,2021,giro-di-sicilia,gc,Israel Start-Up Nation,2.1,56.0,0.0,1,,6.0,,,6.0
+2021-09-19,2021,gooikse-pijl,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,125.0
+2021-09-21,2021,gp-de-denain,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,185.0
+2021-09-12,2021,gp-de-fourmies,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,113.0
+2021-09-15,2021,gp-de-wallonie,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,70.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,25.0
+2021-06-27,2021,gp-lugano,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,70.0
+2021-03-02,2021,gp-samyn,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,110.0
+2021-10-07,2021,gran-piemonte,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,8.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,105.0
+2021-10-09,2021,il-lombardia,gc,Israel Start-Up Nation,1.UWT,,,1,,0.0,,,110.0
+2021-04-05,2021,itzulia-basque-country,gc,Israel Start-Up Nation,2.UWT,,0,0,,26.0,,,26.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,85.0
+2021-02-28,2021,la-drome-classic,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,153.0
+2021-04-21,2021,la-fleche-wallonne,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,232.0
+2021-04-25,2021,liege-bastogne-liege,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,245.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,65.0
+2021-03-20,2021,milano-sanremo,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,10.0
+2021-10-06,2021,milano-torino,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,115.0
+2021-10-03,2021,munsterland-giro,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,191.0
+2021-02-07,2021,nc-australia,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,3.0
+2021-06-19,2021,nc-austria-itt,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-austria2,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-belgium,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,0.0
+2021-09-11,2021,nc-canada2,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,100.0
+2021-06-20,2021,nc-estonia,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,10.0
+2021-06-17,2021,nc-estonia-itt,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,30.0
+2021-06-20,2021,nc-france,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,0.0
+2021-06-12,2021,nc-israel-itt,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,35.0
+2021-06-20,2021,nc-latvia,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,30.0
+2021-10-17,2021,ncgreat-britain,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,125.0
+2021-09-15,2021,okolo-slovenska,gc,Israel Start-Up Nation,2.1,23.0,3.0,1,,16.0,,,30.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,235.0
+2021-03-07,2021,paris-nice,gc,Israel Start-Up Nation,2.UWT,,0,0,,25.0,,,25.0
+2021-10-03,2021,paris-roubaix,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,255.0
+2021-10-10,2021,paris-tours,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,5.0
+2021-08-30,2021,renewi-tour,gc,Israel Start-Up Nation,2.UWT,,0,0,,80.0,,,80.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,295.0
+2021-05-18,2021,ruta-del-sol,gc,Israel Start-Up Nation,2.Pro,,0,0,,55.0,,,85.0
+2021-07-31,2021,san-sebastian,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,16.0
+2021-04-07,2021,scheldeprijs,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,8.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Israel Start-Up Nation,2.1,,0,0,,115.0,,,127.0
+2021-03-06,2021,strade-bianche,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,1.0
+2021-03-10,2021,tirreno-adriatico,gc,Israel Start-Up Nation,2.UWT,,0,0,,30.0,,,90.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Israel Start-Up Nation,2.UWT,47.0,10.0,1,,40.0,,,40.0
+2021-06-26,2021,tour-de-france,gc,Israel Start-Up Nation,2.UWT,133.0,0.0,1,,25.0,0.0,0.0,65.0
+2021-06-26,2021,tour-de-france,kom,Israel Start-Up Nation,2.UWT,,,1,,25.0,0.0,0.0,65.0
+2021-06-26,2021,tour-de-france,points,Israel Start-Up Nation,2.UWT,,,1,,25.0,0.0,0.0,65.0
+2021-05-12,2021,tour-de-hongrie,gc,Israel Start-Up Nation,2.1,,0,0,,85.0,,,90.0
+2021-08-09,2021,tour-de-pologne,gc,Israel Start-Up Nation,2.UWT,,0,0,,12.0,,,40.0
+2021-04-27,2021,tour-de-romandie,gc,Israel Start-Up Nation,2.UWT,96.0,0.0,1,,230.0,,,325.0
+2021-06-06,2021,tour-de-suisse,gc,Israel Start-Up Nation,2.UWT,,0,0,,228.0,,,263.0
+2021-07-20,2021,tour-de-wallonie,gc,Israel Start-Up Nation,2.Pro,,0,0,,145.0,,,160.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Israel Start-Up Nation,2.1,,0,0,,90.0,,,104.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,Israel Start-Up Nation,2.1,,0,0,,63.0,,,77.0
+2021-09-05,2021,tour-of-britain,gc,Israel Start-Up Nation,2.Pro,,0,0,,145.0,,,160.0
+2021-09-28,2021,tour-of-croatia,gc,Israel Start-Up Nation,2.1,,0,0,,15.0,,,20.0
+2021-05-02,2021,tour-of-rwanda,gc,Israel Start-Up Nation,2.1,,0,0,,85.0,,,93.0
+2021-04-19,2021,tour-of-the-alps,gc,Israel Start-Up Nation,2.Pro,93.0,0.0,1,,13.0,,,23.0
+2021-04-11,2021,tour-of-turkey,gc,Israel Start-Up Nation,2.Pro,,0,0,,5.0,,,30.0
+2021-10-05,2021,tre-valli-varesine,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,203.0
+2021-05-13,2021,trofeo-calvia,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,5.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,3.0
+2021-02-21,2021,uae-tour,gc,Israel Start-Up Nation,2.UWT,47.0,5.0,1,,36.0,,,36.0
+2021-03-22,2021,volta-a-catalunya,gc,Israel Start-Up Nation,2.UWT,81.0,0.0,1,,72.0,,,112.0
+2021-08-03,2021,vuelta-a-burgos,gc,Israel Start-Up Nation,2.Pro,,0,0,,10.0,,,10.0
+2021-08-14,2021,vuelta-a-espana,gc,Israel Start-Up Nation,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2021-08-14,2021,vuelta-a-espana,kom,Israel Start-Up Nation,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2021-08-14,2021,vuelta-a-espana,points,Israel Start-Up Nation,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2022-04-10,2022,amstel-gold-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,30.0
+2022-08-11,2022,arctic-race-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,215.0,,,220.0
+2022-04-13,2022,brabantse-pijl,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,30.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,13.0
+2022-08-28,2022,bretagne-classic,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,40.0
+2022-06-05,2022,brussels-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,15.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,70.0
+2022-10-16,2022,chrono-des-nations,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,18.0
+2022-06-14,2022,cic-mont-ventoux,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,8.0
+2022-05-26,2022,circuit-de-wallonie,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,90.0
+2022-08-10,2022,circuit-franco-belge,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,36.0
+2022-07-31,2022,circuito-de-getxo,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2022-02-13,2022,clasica-de-almeria,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,130.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,57.0
+2022-09-29,2022,coppa-agostoni,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2022-10-03,2022,coppa-bernocchi,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,150.0
+2022-08-21,2022,cyclassics-hamburg,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,28.0
+2022-06-26,2022,danish-championships,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-01-28,2022,deia-trophy,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,70.0
+2022-08-24,2022,deutschland-tour,gc,Israel - Premier Tech,2.Pro,,0,0,,0.0,,,0.0
+2022-08-24,2022,druivenkoers-overijse,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,10.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,25.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,5.0
+2022-03-25,2022,e3-harelbeke,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,16.0
+2022-05-01,2022,eschborn-frankfurt,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,23.0
+2022-02-02,2022,etoile-de-besseges,gc,Israel - Premier Tech,2.1,,0,0,,10.0,,,10.0
+2022-10-02,2022,famenne-ardenne-classic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,68.0
+2022-03-27,2022,gent-wevelgem,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,5.0
+2022-05-06,2022,giro-d-italia,gc,Israel - Premier Tech,2.UWT,,0,0,,0.0,0.0,0.0,24.0
+2022-05-06,2022,giro-d-italia,kom,Israel - Premier Tech,2.UWT,,0,0,,0.0,0.0,0.0,24.0
+2022-05-06,2022,giro-d-italia,points,Israel - Premier Tech,2.UWT,,0,0,,0.0,0.0,0.0,24.0
+2022-10-12,2022,giro-del-veneto,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,60.0
+2022-06-02,2022,giro-dell-appennino,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,60.0
+2022-10-01,2022,giro-dell-emilia,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,8.0
+2022-09-14,2022,giro-di-toscana,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2022-09-18,2022,gooikse-pijl,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,25.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,0.0
+2022-01-30,2022,gp-d-ouverture,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2022-09-11,2022,gp-de-fourmies,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,13.0
+2022-09-14,2022,gp-de-wallonie,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,185.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,8.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,85.0
+2022-08-07,2022,gp-jef-scherens,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,58.0
+2022-09-11,2022,gp-montreal,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,75.0
+2022-09-09,2022,gp-quebec,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,60.0
+2022-03-01,2022,gp-samyn,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2022-08-23,2022,gp-stad-zottegem,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,70.0
+2022-02-24,2022,gran-camino,gc,Israel - Premier Tech,2.1,,0,0,,108.0,,,127.0
+2022-10-06,2022,gran-piemonte,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,65.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,125.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,33.0
+2022-06-04,2022,heist-op-den-berg,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,115.0
+2022-10-08,2022,il-lombardia,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,5.0
+2022-04-04,2022,itzulia-basque-country,gc,Israel - Premier Tech,2.UWT,,0,0,,48.0,,,48.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,11.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,91.0
+2022-04-20,2022,la-fleche-wallonne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,148.0
+2022-08-14,2022,la-poly-normande,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,35.0
+2022-06-16,2022,la-route-d-occitanie,gc,Israel - Premier Tech,2.1,,0,0,,130.0,,,144.0
+2022-04-24,2022,liege-bastogne-liege,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,140.0
+2022-09-04,2022,maryland-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,285.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2022-05-31,2022,mercan-tour-classic-alpes-maritimes,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,225.0
+2022-03-19,2022,milano-sanremo,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,60.0
+2022-03-16,2022,milano-torino,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,20.0
+2022-10-03,2022,munsterland-giro,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,115.0
+2022-06-23,2022,nc-austria-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-belgium,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-canada-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-canada2,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,75.0
+2022-06-23,2022,nc-great-britain-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,3.0
+2022-06-25,2022,nc-israel,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,115.0
+2022-06-24,2022,nc-israel-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,25.0
+2022-06-26,2022,nc-italy,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-italy-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,5.0
+2022-06-26,2022,nc-latvia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,1.0
+2022-06-22,2022,nc-latvia-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-norway,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,40.0
+2022-06-26,2022,nc-switserland,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-switzerland-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,ncgreat-britain,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-03-16,2022,nokere-koerse,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,10.0
+2022-09-13,2022,okolo-slovenska,gc,Israel - Premier Tech,2.1,,0,0,,15.0,,,15.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,50.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,16.0
+2022-10-06,2022,paris-bourges,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2022-09-25,2022,paris-chauny-classique,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,29.0
+2022-03-06,2022,paris-nice,gc,Israel - Premier Tech,2.UWT,,0,0,,50.0,,,50.0
+2022-04-17,2022,paris-roubaix,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,10.0
+2022-10-09,2022,paris-tours,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2022-07-25,2022,prueba-villafranca,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,6.0
+2022-06-06,2022,ronde-van-limburg,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,43.0
+2022-05-22,2022,rund-um-koln,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2022-02-16,2022,ruta-del-sol,gc,Israel - Premier Tech,2.Pro,,0,0,,8.0,,,18.0
+2022-07-30,2022,san-sebastian,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,24.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Israel - Premier Tech,2.1,86.0,0.0,1,,5.0,,,8.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Israel - Premier Tech,2.1,,0,0,,50.0,,,50.0
+2022-03-05,2022,strade-bianche,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,18.0
+2022-03-07,2022,tirreno-adriatico,gc,Israel - Premier Tech,2.UWT,,0,0,,10.0,,,35.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Israel - Premier Tech,2.UWT,,,1,,5.0,,,5.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Israel - Premier Tech,2.Pro,,0,0,,28.0,,,38.0
+2022-07-01,2022,tour-de-france,gc,Israel - Premier Tech,2.UWT,,,1,,40.0,0.0,0.0,355.0
+2022-07-01,2022,tour-de-france,kom,Israel - Premier Tech,2.UWT,,,1,,40.0,0.0,0.0,355.0
+2022-07-01,2022,tour-de-france,points,Israel - Premier Tech,2.UWT,,,1,,40.0,0.0,0.0,355.0
+2022-05-11,2022,tour-de-hongrie,gc,Israel - Premier Tech,2.1,,0,0,,85.0,,,98.0
+2022-07-30,2022,tour-de-pologne,gc,Israel - Premier Tech,2.UWT,,0,0,,32.0,,,32.0
+2022-04-26,2022,tour-de-romandie,gc,Israel - Premier Tech,2.UWT,65.0,0.0,1,,60.0,,,120.0
+2022-06-12,2022,tour-de-suisse,gc,Israel - Premier Tech,2.UWT,,0,0,,375.0,,,445.0
+2022-07-23,2022,tour-de-wallonie,gc,Israel - Premier Tech,2.Pro,,0,0,,63.0,,,63.0
+2022-06-15,2022,tour-of-belgium,gc,Israel - Premier Tech,2.Pro,,0,0,,25.0,,,25.0
+2022-09-04,2022,tour-of-britain,gc,Israel - Premier Tech,2.Pro,,0,0,,160.0,,,190.0
+2022-09-27,2022,tour-of-croatia,gc,Israel - Premier Tech,2.1,,0,0,,0.0,,,0.0
+2022-08-16,2022,tour-of-denmark,gc,Israel - Premier Tech,2.Pro,,0,0,,15.0,,,15.0
+2022-05-24,2022,tour-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,46.0,,,46.0
+2022-04-18,2022,tour-of-the-alps,gc,Israel - Premier Tech,2.Pro,,,1,,0.0,,,0.0
+2022-04-10,2022,tour-of-turkey,gc,Israel - Premier Tech,2.Pro,,0,0,,210.0,,,240.0
+2022-10-04,2022,tre-valli-varesine,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,53.0
+2022-01-30,2022,trofeo-palma,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,45.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,43.0
+2022-02-20,2022,uae-tour,gc,Israel - Premier Tech,2.UWT,,0,0,,14.0,,,14.0
+2022-10-16,2022,veneto-classic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2022-03-21,2022,volta-a-catalunya,gc,Israel - Premier Tech,2.UWT,,0,0,,12.0,,,12.0
+2022-08-02,2022,vuelta-a-burgos,gc,Israel - Premier Tech,2.Pro,,0,0,,10.0,,,15.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Israel - Premier Tech,2.1,,0,0,,35.0,,,49.0
+2022-08-20,2022,vuelta-a-espana,gc,Israel - Premier Tech,2.UWT,113.0,0.0,1,,20.0,0.0,0.0,60.0
+2022-08-20,2022,vuelta-a-espana,kom,Israel - Premier Tech,2.UWT,,,1,,20.0,0.0,0.0,60.0
+2022-08-20,2022,vuelta-a-espana,points,Israel - Premier Tech,2.UWT,,,1,,20.0,0.0,0.0,60.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Israel - Premier Tech,2.Pro,,0,0,,80.0,,,80.0
+2023-04-16,2023,amstel-gold-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,30.0
+2023-05-21,2023,antwerp-port-epic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,45.0
+2023-08-17,2023,arctic-race-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,293.0,,,316.0
+2023-04-12,2023,brabantse-pijl,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,8.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,33.0
+2023-09-03,2023,bretagne-classic,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,48.0
+2023-06-04,2023,brussels-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,85.0
+2023-10-15,2023,chrono-des-nations,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,20.0
+2023-06-13,2023,cic-mont-ventoux,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,225.0
+2023-05-18,2023,circuit-de-wallonie,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,28.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,41.0
+2023-09-28,2023,circuit-franco-belge,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,125.0
+2023-02-12,2023,clasica-de-almeria,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,103.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,29.0
+2023-10-02,2023,coppa-bernocchi,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2023-08-20,2023,cyclassics-hamburg,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,48.0
+2023-07-27,2023,czech-tour,gc,Israel - Premier Tech,2.1,,,1,,35.0,,,49.0
+2023-01-28,2023,deia-trophy,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-08-23,2023,deutschland-tour,gc,Israel - Premier Tech,2.Pro,,0,0,,43.0,,,43.0
+2023-06-10,2023,dwars-door-het-hageland,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,125.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,77.0
+2023-03-24,2023,e3-harelbeke,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,84.0
+2023-05-01,2023,eschborn-frankfurt,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,135.0
+2023-02-01,2023,etoile-de-besseges,gc,Israel - Premier Tech,2.1,,0,0,,45.0,,,45.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,46.0
+2023-02-25,2023,faun-ardeche-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,15.0
+2023-03-26,2023,gent-wevelgem,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,335.0
+2023-05-06,2023,giro-d-italia,gc,Israel - Premier Tech,2.UWT,,0,0,,85.0,130.0,130.0,1140.0
+2023-05-06,2023,giro-d-italia,kom,Israel - Premier Tech,2.UWT,,0,0,,85.0,130.0,130.0,1140.0
+2023-05-06,2023,giro-d-italia,points,Israel - Premier Tech,2.UWT,,0,0,,85.0,130.0,130.0,1140.0
+2023-10-11,2023,giro-del-veneto,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,105.0
+2023-09-30,2023,giro-dell-emilia,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,105.0
+2023-09-17,2023,gooikse-pijl,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,43.0
+2023-01-29,2023,gp-d-ouverture,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,61.0
+2023-09-10,2023,gp-de-fourmies,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2023-09-13,2023,gp-de-wallonie,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,170.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,100.0
+2023-08-15,2023,gp-jef-scherens,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,20.0
+2023-09-10,2023,gp-montreal,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,45.0
+2023-09-08,2023,gp-quebec,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,430.0
+2023-02-28,2023,gp-samyn,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,15.0
+2023-10-05,2023,gran-piemonte,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,40.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,60.0
+2023-01-29,2023,great-ocean-road-race,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,352.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,25.0
+2023-06-03,2023,heist-op-den-berg,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,35.0
+2023-10-07,2023,il-lombardia,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,150.0
+2023-10-15,2023,japan-cup,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,76.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,45.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2023-02-26,2023,la-drome-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,90.0
+2023-04-19,2023,la-fleche-wallonne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,220.0
+2023-08-13,2023,la-poly-normande,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,23.0
+2023-06-15,2023,la-route-d-occitanie,gc,Israel - Premier Tech,2.1,40.0,0.0,1,,175.0,,,194.0
+2023-04-23,2023,liege-bastogne-liege,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,130.0
+2023-09-03,2023,maryland-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,178.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,10.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,18.0
+2023-03-18,2023,milano-sanremo,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,45.0
+2023-03-15,2023,milano-torino,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,130.0
+2023-01-08,2023,nc-australia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,75.0
+2023-06-25,2023,nc-belgium,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,5.0
+2023-06-23,2023,nc-canada-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-canada2,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,5.0
+2023-06-25,2023,nc-germany,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-israel,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,205.0
+2023-06-23,2023,nc-israel-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,30.0
+2023-06-24,2023,nc-italy,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,1.0
+2023-06-22,2023,nc-italy-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-latvia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,75.0
+2023-06-21,2023,nc-latvia-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-switserland,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,60.0
+2023-03-15,2023,nokere-koerse,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,75.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,50.0
+2023-03-05,2023,paris-nice,gc,Israel - Premier Tech,2.UWT,,0,0,,25.0,,,25.0
+2023-04-09,2023,paris-roubaix,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,95.0
+2023-10-08,2023,paris-tours,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,280.0
+2023-08-23,2023,renewi-tour,gc,Israel - Premier Tech,2.UWT,,0,0,,32.0,,,32.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,75.0
+2023-02-15,2023,ruta-del-sol,gc,Israel - Premier Tech,2.Pro,,0,0,,25.0,,,28.0
+2023-07-29,2023,san-sebastian,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,28.0
+2023-04-05,2023,scheldeprijs,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,98.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Israel - Premier Tech,2.1,,0,0,,43.0,,,48.0
+2023-03-04,2023,strade-bianche,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,16.0
+2023-03-06,2023,tirreno-adriatico,gc,Israel - Premier Tech,2.UWT,,0,0,,45.0,,,68.0
+2023-07-01,2023,tour-de-france,gc,Israel - Premier Tech,2.UWT,,0,0,,155.0,0.0,0.0,840.0
+2023-07-01,2023,tour-de-france,kom,Israel - Premier Tech,2.UWT,,0,0,,155.0,0.0,0.0,840.0
+2023-07-01,2023,tour-de-france,points,Israel - Premier Tech,2.UWT,,0,0,,155.0,0.0,0.0,840.0
+2023-05-10,2023,tour-de-hongrie,gc,Israel - Premier Tech,2.Pro,,0,0,,35.0,,,35.0
+2023-09-20,2023,tour-de-luxembourg,gc,Israel - Premier Tech,2.Pro,,0,0,,28.0,,,58.0
+2023-04-25,2023,tour-de-romandie,gc,Israel - Premier Tech,2.UWT,97.0,0.0,1,,5.0,,,22.0
+2023-06-11,2023,tour-de-suisse,gc,Israel - Premier Tech,2.UWT,,0,0,,120.0,,,120.0
+2023-07-22,2023,tour-de-wallonie,gc,Israel - Premier Tech,2.Pro,,0,0,,11.0,,,26.0
+2023-01-17,2023,tour-down-under,gc,Israel - Premier Tech,2.UWT,117.0,0.0,1,,80.0,,,113.0
+2023-06-14,2023,tour-of-belgium,gc,Israel - Premier Tech,2.Pro,,0,0,,55.0,,,55.0
+2023-10-12,2023,tour-of-guangxi,gc,Israel - Premier Tech,2.UWT,,0,0,,22.0,,,22.0
+2023-10-05,2023,tour-of-hainan,gc,Israel - Premier Tech,2.Pro,63.0,0.0,1,,295.0,,,353.0
+2023-02-19,2023,tour-of-rwanda,gc,Israel - Premier Tech,2.1,24.0,3.0,1,,3.0,,,3.0
+2023-04-17,2023,tour-of-the-alps,gc,Israel - Premier Tech,2.Pro,,0,0,,13.0,,,13.0
+2023-10-03,2023,tre-valli-varesine,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,81.0
+2023-05-07,2023,tro-bro-leon,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,218.0
+2023-01-25,2023,trofeo-calvia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-01-29,2023,trofeo-palma,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,50.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-02-20,2023,uae-tour,gc,Israel - Premier Tech,2.UWT,,0,0,,30.0,,,31.0
+2023-05-20,2023,veenendaal-veenendaal,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,21.0
+2023-10-15,2023,veneto-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,30.0
+2023-03-20,2023,volta-a-catalunya,gc,Israel - Premier Tech,2.UWT,,0,0,,152.0,,,217.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Israel - Premier Tech,2.1,,0,0,,0.0,,,0.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Israel - Premier Tech,2.Pro,,0,0,,55.0,,,78.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,103.0
+2024-05-14,2024,4-jours-de-dunkerque,gc,Israel - Premier Tech,2.Pro,,0,0,,3.0,,,31.0
+2024-04-14,2024,amstel-gold-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,50.0
+2024-08-04,2024,arctic-race-of-norway,gc,Israel - Premier Tech,2.Pro,89.0,0.0,1,,45.0,,,75.0
+2024-05-12,2024,boucles-de-l-aulne,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,70.0
+2024-04-10,2024,brabantse-pijl,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,285.0
+2024-03-15,2024,bredene-koksijde-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,43.0
+2024-08-25,2024,bretagne-classic,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,78.0
+2024-06-02,2024,brussels-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,105.0
+2024-05-09,2024,circuit-de-wallonie,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,30.0
+2024-05-05,2024,circuit-des-xi-villes,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,88.0
+2024-05-29,2024,circuit-franco-belge,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,8.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,0.0
+2024-04-12,2024,classic-grand-besancon-doubs,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,20.0
+2024-02-16,2024,classic-var,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,68.0
+2024-10-07,2024,coppa-bernocchi,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,8.0
+2024-09-08,2024,cyclassics-hamburg,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,24.0
+2024-06-23,2024,danish-championships,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2024-08-23,2024,druivenkoers-overijse,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,80.0
+2024-06-08,2024,dwars-door-het-hageland,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,30.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,33.0
+2024-03-22,2024,e3-harelbeke,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,56.0
+2024-05-01,2024,eschborn-frankfurt,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,242.0
+2024-04-28,2024,famenne-ardenne-classic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,103.0
+2024-02-24,2024,faun-ardeche-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,23.0
+2024-03-24,2024,gent-wevelgem,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,30.0
+2024-04-09,2024,giro-d-abruzzo,gc,Israel - Premier Tech,2.1,,0,0,,75.0,,,80.0
+2024-05-04,2024,giro-d-italia,gc,Israel - Premier Tech,2.UWT,,0,0,,20.0,0.0,0.0,230.0
+2024-05-04,2024,giro-d-italia,kom,Israel - Premier Tech,2.UWT,,0,0,,20.0,0.0,0.0,230.0
+2024-05-04,2024,giro-d-italia,points,Israel - Premier Tech,2.UWT,,0,0,,20.0,0.0,0.0,230.0
+2024-10-16,2024,giro-del-veneto,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,205.0
+2024-10-05,2024,giro-dell-emilia,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,105.0
+2024-09-22,2024,gooikse-pijl,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2024-09-15,2024,gp-d-isbergues,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,23.0
+2024-09-18,2024,gp-de-wallonie,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,53.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,58.0
+2024-08-15,2024,gp-jef-scherens,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,60.0
+2024-09-15,2024,gp-montreal,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,170.0
+2024-09-13,2024,gp-quebec,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,20.0
+2024-10-10,2024,gran-piemonte,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,156.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,0.0
+2024-01-28,2024,great-ocean-road-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,238.0
+2024-10-12,2024,il-lombardia,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,55.0
+2024-10-20,2024,japan-cup,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,145.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,6.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,13.0
+2024-02-25,2024,la-drome-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,58.0
+2024-04-17,2024,la-fleche-wallonne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,400.0
+2024-04-21,2024,liege-bastogne-liege,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,65.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,55.0
+2024-03-16,2024,milano-sanremo,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,100.0
+2024-03-13,2024,milano-torino,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,53.0
+2024-10-03,2024,munsterland-giro,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,95.0
+2024-01-07,2024,nc-australia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-belgium,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,4.0
+2024-06-22,2024,nc-canada2,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,100.0
+2024-06-23,2024,nc-germany,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2024-06-19,2024,nc-great-britain-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,20.0
+2024-06-22,2024,nc-israel,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,265.0
+2024-06-21,2024,nc-israel-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-italy,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2024-02-10,2024,nc-new-zealand,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,125.0
+2024-02-08,2024,nc-new-zealand-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,ncgreat-britain,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,10.0
+2024-03-13,2024,nokere-koerse,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,215.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,17.0
+2024-03-03,2024,paris-nice,gc,Israel - Premier Tech,2.UWT,,0,0,,13.0,,,48.0
+2024-04-07,2024,paris-roubaix,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,15.0
+2024-10-06,2024,paris-tours,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,50.0
+2024-01-25,2024,race-torquay,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,70.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,315.0
+2024-08-10,2024,san-sebastian,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,148.0
+2024-04-03,2024,scheldeprijs,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,101.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Israel - Premier Tech,2.1,103.0,0.0,1,,113.0,,,116.0
+2024-03-02,2024,strade-bianche,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,48.0
+2024-03-04,2024,tirreno-adriatico,gc,Israel - Premier Tech,2.UWT,,,1,,33.0,,,96.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Israel - Premier Tech,2.UWT,81.0,0.0,1,,385.0,,,550.0
+2024-02-09,2024,tour-cycliste-international-la-provence,gc,Israel - Premier Tech,2.1,,0,0,,15.0,,,32.0
+2024-06-29,2024,tour-de-france,gc,Israel - Premier Tech,2.UWT,,0,0,,355.0,0.0,0.0,1335.0
+2024-06-29,2024,tour-de-france,kom,Israel - Premier Tech,2.UWT,,0,0,,355.0,0.0,0.0,1335.0
+2024-06-29,2024,tour-de-france,points,Israel - Premier Tech,2.UWT,,0,0,,355.0,0.0,0.0,1335.0
+2024-08-12,2024,tour-de-pologne,gc,Israel - Premier Tech,2.UWT,,0,0,,52.0,,,73.0
+2024-06-09,2024,tour-de-suisse,gc,Israel - Premier Tech,2.UWT,,0,0,,255.0,,,387.0
+2024-03-10,2024,tour-de-taiwan,gc,Israel - Premier Tech,2.1,,0,0,,130.0,,,163.0
+2024-07-22,2024,tour-de-wallonie,gc,Israel - Premier Tech,2.Pro,,0,0,,258.0,,,288.0
+2024-02-17,2024,tour-des-alpes-maritimes,gc,Israel - Premier Tech,2.1,,0,0,,23.0,,,37.0
+2024-01-16,2024,tour-down-under,gc,Israel - Premier Tech,2.UWT,,0,0,,585.0,,,765.0
+2024-05-11,2024,tour-du-finistere,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,85.0
+2024-04-13,2024,tour-du-jura-cycliste,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,11.0
+2024-06-12,2024,tour-of-belgium,gc,Israel - Premier Tech,2.Pro,,0,0,,48.0,,,63.0
+2024-09-03,2024,tour-of-britain,gc,Israel - Premier Tech,2.Pro,,0,0,,308.0,,,398.0
+2024-10-01,2024,tour-of-croatia,gc,Israel - Premier Tech,2.1,,0,0,,50.0,,,69.0
+2024-10-15,2024,tour-of-guangxi,gc,Israel - Premier Tech,2.UWT,98.0,0.0,1,,14.0,,,138.0
+2024-02-19,2024,tour-of-rwanda,gc,Israel - Premier Tech,2.1,27.0,0.0,1,,150.0,,,214.0
+2024-10-08,2024,tre-valli-varesine,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,0.0
+2024-05-05,2024,tro-bro-leon,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,140.0
+2024-02-19,2024,uae-tour,gc,Israel - Premier Tech,2.UWT,,0,0,,47.0,,,29.0
+2024-10-20,2024,veneto-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,38.0
+2024-03-18,2024,volta-a-catalunya,gc,Israel - Premier Tech,2.UWT,,0,0,,40.0,,,150.0
+2024-08-17,2024,vuelta-a-espana,gc,Israel - Premier Tech,2.UWT,,0,0,,70.0,0.0,0.0,966.0
+2024-08-17,2024,vuelta-a-espana,kom,Israel - Premier Tech,2.UWT,,0,0,,70.0,0.0,0.0,966.0
+2024-08-17,2024,vuelta-a-espana,points,Israel - Premier Tech,2.UWT,,0,0,,70.0,0.0,0.0,966.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Israel - Premier Tech,2.Pro,,0,0,,0.0,,,25.0
+2025-04-20,2025,amstel-gold-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,70.0
+2025-06-09,2025,antwerp-port-epic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2025-08-07,2025,arctic-race-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,310.0,,,390.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,8.0
+2025-04-18,2025,brabantse-pijl,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,15.0
+2025-03-21,2025,bredene-koksijde-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,108.0
+2025-08-31,2025,bretagne-classic,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,76.0
+2025-06-08,2025,brussels-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,63.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,65.0
+2025-08-15,2025,circuit-franco-belge,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,150.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,51.0
+2025-02-21,2025,classic-var,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2025-05-13,2025,classique-dunkerque,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,200.0
+2025-06-22,2025,copenhagen-sprint,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,37.0
+2025-08-17,2025,cyclassics-hamburg,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,112.0
+2025-08-20,2025,deutschland-tour,gc,Israel - Premier Tech,2.Pro,,0,0,,135.0,,,158.0
+2025-06-14,2025,dwars-door-het-hageland,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,45.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,32.0
+2025-03-28,2025,e3-harelbeke,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,24.0
+2025-05-01,2025,eschborn-frankfurt,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,30.0
+2025-05-04,2025,famenne-ardenne-classic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,40.0
+2025-03-01,2025,faun-ardeche-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2025-03-30,2025,gent-wevelgem,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,255.0
+2025-05-09,2025,giro-d-italia,gc,Israel - Premier Tech,2.UWT,,0,0,,630.0,0.0,0.0,1090.0
+2025-05-09,2025,giro-d-italia,kom,Israel - Premier Tech,2.UWT,,0,0,,630.0,0.0,0.0,1090.0
+2025-05-09,2025,giro-d-italia,points,Israel - Premier Tech,2.UWT,,0,0,,630.0,0.0,0.0,1090.0
+2025-09-21,2025,gooikse-pijl,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,128.0
+2025-09-21,2025,gp-d-isbergues,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2025-09-14,2025,gp-de-fourmies,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,53.0
+2025-09-17,2025,gp-de-wallonie,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,50.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,38.0
+2025-09-14,2025,gp-montreal,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,140.0
+2025-09-12,2025,gp-quebec,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,101.0
+2025-02-26,2025,gran-camino,gc,Israel - Premier Tech,2.1,,0,0,,128.0,,,147.0
+2025-03-08,2025,grand-prix-criquielion,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,120.0
+2025-02-02,2025,great-ocean-road-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,172.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,60.0
+2025-10-19,2025,japan-cup,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,120.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,13.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,128.0
+2025-03-02,2025,la-drome-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,10.0
+2025-04-23,2025,la-fleche-wallonne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,32.0
+2025-04-27,2025,liege-bastogne-liege,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,45.0
+2025-09-06,2025,maryland-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,58.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,53.0
+2025-03-22,2025,milano-sanremo,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,105.0
+2025-03-19,2025,milano-torino,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,11.0
+2025-10-03,2025,munsterland-giro,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-belgium,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-canada-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,50.0
+2025-06-28,2025,nc-canada2,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,225.0
+2025-06-29,2025,nc-germany,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-great-britain-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,15.0
+2025-08-30,2025,nc-israel,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,135.0
+2025-10-25,2025,nc-israel-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,90.0
+2025-06-26,2025,nc-italy-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-latvia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,75.0
+2025-06-25,2025,nc-latvia-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,30.0
+2025-02-08,2025,nc-new-zealand,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,60.0
+2025-02-06,2025,nc-new-zealand-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,3.0
+2025-06-29,2025,ncgreat-britain,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,64.0
+2025-03-19,2025,nokere-koerse,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,43.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,32.0
+2025-04-13,2025,paris-roubaix,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,35.0
+2025-10-12,2025,paris-tours,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,18.0
+2025-01-30,2025,race-torquay,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,60.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,30.0
+2025-05-18,2025,rund-um-koln,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,85.0
+2025-04-09,2025,scheldeprijs,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,33.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Israel - Premier Tech,2.1,,0,0,,60.0,,,58.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Israel - Premier Tech,2.1,55.0,0.0,1,,125.0,,,158.0
+2025-03-08,2025,strade-bianche,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,32.0
+2025-03-10,2025,tirreno-adriatico,gc,Israel - Premier Tech,2.UWT,,0,0,,275.0,,,340.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Israel - Premier Tech,2.UWT,,0,0,,30.0,,,118.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,Israel - Premier Tech,2.1,,0,0,,38.0,,,38.0
+2025-07-05,2025,tour-de-france,gc,Israel - Premier Tech,2.UWT,,0,0,,45.0,0.0,0.0,320.0
+2025-07-05,2025,tour-de-france,kom,Israel - Premier Tech,2.UWT,,0,0,,45.0,0.0,0.0,320.0
+2025-07-05,2025,tour-de-france,points,Israel - Premier Tech,2.UWT,,0,0,,45.0,0.0,0.0,320.0
+2025-08-04,2025,tour-de-pologne,gc,Israel - Premier Tech,2.UWT,68.0,0.0,1,,178.0,,,207.0
+2025-06-15,2025,tour-de-suisse,gc,Israel - Premier Tech,2.UWT,97.0,0.0,1,,80.0,,,112.0
+2025-03-16,2025,tour-de-taiwan,gc,Israel - Premier Tech,2.1,,0,0,,210.0,,,247.0
+2025-07-26,2025,tour-de-wallonie,gc,Israel - Premier Tech,2.Pro,,0,0,,203.0,,,258.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,Israel - Premier Tech,2.1,,0,0,,63.0,,,68.0
+2025-01-21,2025,tour-down-under,gc,Israel - Premier Tech,2.UWT,,0,0,,130.0,,,173.0
+2025-05-09,2025,tour-du-finistere,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,48.0
+2025-06-18,2025,tour-of-belgium,gc,Israel - Premier Tech,2.Pro,,0,0,,130.0,,,155.0
+2025-09-02,2025,tour-of-britain,gc,Israel - Premier Tech,2.Pro,,0,0,,30.0,,,45.0
+2025-09-30,2025,tour-of-croatia,gc,Israel - Premier Tech,2.1,,0,0,,8.0,,,28.0
+2025-10-14,2025,tour-of-guangxi,gc,Israel - Premier Tech,2.UWT,,0,0,,10.0,,,32.0
+2025-05-29,2025,tour-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,5.0,,,10.0
+2025-02-23,2025,tour-of-rwanda,gc,Israel - Premier Tech,2.1,,0,0,,20.0,,,63.0
+2025-04-21,2025,tour-of-the-alps,gc,Israel - Premier Tech,2.Pro,76.0,0.0,1,,173.0,,,218.0
+2025-05-11,2025,tro-bro-leon,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,15.0
+2025-02-17,2025,uae-tour,gc,Israel - Premier Tech,2.UWT,,,1,,47.0,,,59.0
+2025-03-24,2025,volta-a-catalunya,gc,Israel - Premier Tech,2.UWT,,0,0,,80.0,,,184.0
+2025-08-23,2025,vuelta-a-espana,gc,Israel - Premier Tech,2.UWT,,0,0,,540.0,0.0,0.0,1367.0
+2025-08-23,2025,vuelta-a-espana,kom,Israel - Premier Tech,2.UWT,,0,0,,540.0,0.0,0.0,1367.0
+2025-08-23,2025,vuelta-a-espana,points,Israel - Premier Tech,2.UWT,,0,0,,540.0,0.0,0.0,1367.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Israel - Premier Tech,2.Pro,,0,0,,10.0,,,30.0

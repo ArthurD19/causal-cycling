@@ -1,0 +1,12 @@
+jour,mois,annee,stage,nom_pcs,categorie,fichier_gpx,fichier_pcs,score,statut
+2,2,2020,result,great-ocean-road-race,1.UWT,2020 Cadel Evans Great Ocean Road Race.gpx,02_February_2020__result__great-ocean-road-race_2020__1.UWT.csv,100,match
+29,2,2020,result,omloop-het-nieuwsblad,1.UWT,2020 Omloop Het Nieuwsblad.gpx,29_February_2020__result__omloop-het-nieuwsblad_2020__1.UWT.csv,100,match
+1,8,2020,result,strade-bianche,1.UWT,2020 Strade Bianche.gpx,01_August_2020__result__strade-bianche_2020__1.UWT.csv,100,match
+8,8,2020,result,milano-sanremo,1.UWT,2020 Milano - Sanremo.gpx,08_August_2020__result__milano-sanremo_2020__1.UWT.csv,100,match
+15,8,2020,result,il-lombardia,1.UWT,2020 Il Lombardia.gpx,15_August_2020__result__il-lombardia_2020__1.UWT.csv,100,match
+25,8,2020,result,bretagne-classic,1.UWT,2020 Bretagne Classic - Ouest France.gpx,25_August_2020__result__bretagne-classic_2020__1.UWT.csv,100,match
+30,9,2020,result,la-fleche-wallonne,1.UWT,2020 La Fleche Wallonne.gpx,30_September_2020__result__la-fleche-wallonne_2020__1.UWT.csv,100,match
+4,10,2020,result,liege-bastogne-liege,1.UWT,2020 Liege-Bastogne-Liege.gpx,04_October_2020__result__liege-bastogne-liege_2020__1.UWT.csv,100,match
+11,10,2020,result,gent-wevelgem,1.UWT,2020 Gent-Wevelgem In Flanders Fields.gpx,11_October_2020__result__gent-wevelgem_2020__1.UWT.csv,100,match
+18,10,2020,result,ronde-van-vlaanderen,1.UWT,2020 Ronde van Vlaanderen.gpx,18_October_2020__result__ronde-van-vlaanderen_2020__1.UWT.csv,100,match
+21,10,2020,result,classic-brugge-de-panne,1.UWT,2020 AG Driedaagse Brugge-De Panne.gpx,21_October_2020__result__classic-brugge-de-panne_2020__1.UWT.csv,84,match

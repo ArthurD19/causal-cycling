@@ -1,0 +1,61 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-09-09,2020,course-cycliste-de-solidarnosc,gc,Memil - CCN Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2020-01-31,2020,deia-trophy,gc,Memil - CCN Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2020-01-25,2020,gravel-and-tar,gc,Memil - CCN Pro Cycling,1.2,,,1,,0.0,,,35.0
+2020-02-02,2020,great-ocean-road-race,gc,Korda Mentha Real Estate Australia,1.UWT,,,1,,0.0,,,5.0
+2020-02-05,2020,herald-sun-tour,gc,Korda Mentha Real Estate Australia,2.1,,0,0,,28.0,,,28.0
+2020-01-12,2020,nc-australia,gc,Memil - CCN Pro Cycling,NC,,0,0,,0.0,,,0.0
+2020-10-04,2020,nc-sweden,gc,Memil - CCN Pro Cycling,NC,,0,0,,0.0,,,40.0
+2020-07-25,2020,nc-sweden-itt,gc,Memil - CCN Pro Cycling,NC,,0,0,,0.0,,,10.0
+2020-01-15,2020,new-zealand-cycle-classic,gc,Memil - CCN Pro Cycling,2.2,15.0,0.0,1,,0.0,,,0.0
+2020-01-30,2020,race-torquay,gc,Korda Mentha Real Estate Australia,1.1,,,1,,0.0,,,0.0
+2020-03-01,2020,tour-de-taiwan,gc,Memil - CCN Pro Cycling,2.1,68.0,0.0,1,,8.0,,,8.0
+2020-02-02,2020,trofeo-palma,gc,Memil - CCN Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,Memil - CCN Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,Memil - CCN Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2023-05-21,2023,antwerp-port-epic,gc,Team BridgeLane,1.1,,,1,,0.0,,,0.0
+2023-05-18,2023,circuit-de-wallonie,gc,Team BridgeLane,1.1,,,1,,0.0,,,0.0
+2023-01-29,2023,great-ocean-road-race,gc,UniSA-Australia,1.UWT,,,1,,0.0,,,125.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Team BridgeLane,1.1,,,1,,0.0,,,3.0
+2023-07-02,2023,midden-brabant-poort-omloop,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2023-01-08,2023,nc-australia,gc,Team BridgeLane,NC,,,1,,0.0,,,8.0
+2023-01-10,2023,nc-australia-itt,gc,Team BridgeLane,NC,,0,0,,0.0,,,1.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Team BridgeLane,2.2,,0,0,,0.0,,,0.0
+2023-04-01,2023,oceania-championships,gc,Team BridgeLane,CC,,,1,,0.0,,,298.0
+2023-03-30,2023,oceania-continental-championships-itt,gc,Team BridgeLane,CC,,0,0,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2023-06-01,2023,ronde-de-l-oise,gc,Team BridgeLane,2.2,24.0,0.0,1,,0.0,,,-5.0
+2023-05-06,2023,ronde-van-overijssel,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,Team BridgeLane,2.2,,0,0,,0.0,,,0.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,Team BridgeLane,2.2,,,1,,0.0,,,0.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Team BridgeLane,2.2,,0,0,,10.0,,,10.0
+2023-01-17,2023,tour-down-under,gc,UniSA-Australia,2.UWT,,0,0,,0.0,,,57.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,Team BridgeLane,2.2,,0,0,,0.0,,,-5.0
+2024-05-09,2024,circuit-de-wallonie,gc,Team BridgeLane,1.1,,0,0,,0.0,,,0.0
+2024-05-05,2024,circuit-des-xi-villes,gc,Team BridgeLane,1.1,,,1,,0.0,,,3.0
+2024-05-12,2024,fleche-ardennaise,gc,Team BridgeLane,1.2,,0,0,,0.0,,,0.0
+2024-07-14,2024,giro-dell-appennino,gc,Team BridgeLane,1.1,,0,0,,0.0,,,0.0
+2024-01-28,2024,great-ocean-road-race,gc,Team BridgeLane,1.UWT,,,1,,0.0,,,27.0
+2024-01-07,2024,nc-australia,gc,Team BridgeLane,NC,,,1,,0.0,,,84.0
+2024-01-10,2024,new-zealand-cycle-classic,gc,Team BridgeLane,2.2,2.0,30.0,1,,30.0,,,34.0
+2024-06-14,2024,oberosterreichrundfahrt,gc,Team BridgeLane,2.2,,0,0,,5.0,,,8.0
+2024-04-12,2024,oceania-championships,gc,Team BridgeLane,CC,,0,0,,0.0,,,626.0
+2024-05-20,2024,paris-troyes,gc,Team BridgeLane,1.2,,0,0,,0.0,,,40.0
+2024-01-25,2024,race-torquay,gc,Team BridgeLane,1.1,,,1,,0.0,,,18.0
+2024-05-04,2024,ronde-van-overijssel,gc,Team BridgeLane,1.2,,,1,,0.0,,,3.0
+2024-07-25,2024,tour-alsace,gc,Team BridgeLane,2.2,,0,0,,0.0,,,3.0
+2024-05-24,2024,tour-de-la-mirabelle,gc,Team BridgeLane,2.2,,0,0,,3.0,,,3.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Team BridgeLane,2.2,,,1,,0.0,,,-5.0
+2024-05-19,2024,tour-of-japan,gc,Team BridgeLane,2.2,,0,0,,10.0,,,10.0
+2025-07-28,2025,banyuwangi-tour-de-ijen,gc,Victoire Hiroshima,2.2,18.0,0.0,1,,3.0,,,3.0
+2025-10-19,2025,japan-cup,gc,Victoire Hiroshima,1.Pro,,,1,,0.0,,,15.0
+2025-01-12,2025,nc-australia,gc,Victoire Hiroshima,NC,,,1,,0.0,,,4.0
+2025-01-09,2025,nc-australia-itt,gc,Victoire Hiroshima,NC,,0,0,,0.0,,,0.0
+2025-06-22,2025,nc-japan,gc,Victoire Hiroshima,NC,,0,0,,0.0,,,31.0
+2025-06-29,2025,nc-venezuela,gc,Victoire Hiroshima,NC,,0,0,,0.0,,,20.0
+2025-10-05,2025,oita-urban-classic,gc,Victoire Hiroshima,1.2,,,1,,0.0,,,43.0
+2025-07-13,2025,the-road-race-tokyo-tama,gc,Victoire Hiroshima,1.2,,,1,,0.0,,,13.0
+2025-05-08,2025,tour-de-kumano,gc,Victoire Hiroshima,2.2,,,1,,0.0,,,0.0
+2025-10-11,2025,tour-de-kyushu,gc,Victoire Hiroshima,2.1,,,1,,3.0,,,3.0
+2025-11-09,2025,tour-de-okinawa,gc,Victoire Hiroshima,1.2,,,1,,0.0,,,20.0
+2025-05-18,2025,tour-of-japan,gc,Victoire Hiroshima,2.2,,,1,,35.0,,,36.0

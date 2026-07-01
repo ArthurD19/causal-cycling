@@ -1,0 +1,78 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-04-02,2018,circuito-belvedere,gc,IAM Excelsior,1.2U,,0,0,,0.0,,,0.0
+2018-05-09,2018,fleche-du-sud,gc,IAM Excelsior,2.2,114.0,0.0,1,,0.0,,,0.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,IAM Excelsior,2.2U,,0,0,,0.0,,,1.0
+2018-09-06,2018,giro-della-regione-friuli-venezia-giulia,gc,IAM Excelsior,2.2,,0,0,,0.0,,,3.0
+2018-04-03,2018,gp-palio-del-recioto,gc,IAM Excelsior,1.2U,,0,0,,0.0,,,15.0
+2018-09-11,2018,olympias-tour,gc,IAM Excelsior,2.2U,,0,0,,1.0,,,6.0
+2018-10-07,2018,piccolo-giro-di-lombardia,gc,IAM Excelsior,1.2U,,0,0,,0.0,,,0.0
+2018-03-03,2018,porec-trophy,gc,IAM Excelsior,1.2,,0,0,,0.0,,,0.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,AKROS - Thömus,1.HC,,0,0,,0.0,,,0.0
+2019-06-09,2019,gp-lugano,gc,AKROS - Thömus,1.1,,0,0,,0.0,,,0.0
+2019-07-28,2019,grand-prix-de-la-ville-de-perenchies,gc,AKROS - Thömus,1.2,,,1,,0.0,,,0.0
+2019-08-20,2019,grand-prix-des-marbriers,gc,AKROS - Thömus,1.2,,0,0,,0.0,,,0.0
+2019-08-03,2019,kreiz-breizh-elites,gc,AKROS - Thömus,2.2,95.0,0.0,1,,0.0,,,0.0
+2019-08-18,2019,la-poly-normande,gc,AKROS - Thömus,1.1,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-switserland,gc,AKROS - Thömus,NC,,,1,,0.0,,,1.0
+2019-05-24,2019,paris-arras-tour,gc,AKROS - Thömus,2.2,,0,0,,0.0,,,0.0
+2019-10-10,2019,paris-bourges,gc,AKROS - Thömus,1.1,,0,0,,0.0,,,0.0
+2019-09-29,2019,paris-chauny-classique,gc,AKROS - Thömus,1.1,,0,0,,0.0,,,0.0
+2019-03-03,2019,rhodes-gp,gc,AKROS - Thömus,1.2,,0,0,,0.0,,,3.0
+2019-05-09,2019,rhone-alpes-isere-tour,gc,AKROS - Thömus,2.2,59.0,0.0,1,,30.0,,,38.0
+2019-07-03,2019,sibiu-cycling-tour,gc,AKROS - Thömus,2.1,,0,0,,5.0,,,19.0
+2019-05-17,2019,tour-d-eure-et-loir,gc,AKROS - Thömus,2.2,,0,0,,0.0,,,0.0
+2019-06-20,2019,tour-des-pays-de-savoie,gc,AKROS - Thömus,2.2,,0,0,,0.0,,,0.0
+2019-09-15,2019,tour-du-doubs,gc,AKROS - Thömus,1.1,,,1,,0.0,,,0.0
+2019-04-27,2019,tour-du-jura-cycliste,gc,AKROS - Thömus,2.2,,0,0,,3.0,,,3.0
+2019-08-30,2019,tour-of-almaty,gc,AKROS - Thömus,2.1,,0,0,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,AKROS - Thömus,2.2,,0,0,,0.0,,,0.0
+2019-03-08,2019,tour-of-rhodes,gc,AKROS - Thömus,2.2,,0,0,,0.0,,,0.0
+2020-01-31,2020,deia-trophy,gc,Switzerland,1.1,,,1,,0.0,,,3.0
+2020-09-16,2020,giro-di-toscana,gc,Switzerland,1.1,,0,0,,0.0,,,63.0
+2020-03-08,2020,gp-de-la-ville-de-lillers,gc,Akros - Excelsior - Thömus,1.2,,0,0,,0.0,,,0.0
+2020-03-03,2020,gp-samyn,gc,Akros - Excelsior - Thömus,1.1,,,1,,0.0,,,0.0
+2020-08-23,2020,nc-france,gc,Akros - Excelsior - Thömus,NC,,0,0,,0.0,,,0.0
+2020-10-31,2020,nc-switserland,gc,Akros - Excelsior - Thömus,NC,,,1,,0.0,,,1.0
+2020-09-27,2020,paris-chauny-classique,gc,Akros - Excelsior - Thömus,1.1,,0,0,,0.0,,,3.0
+2020-07-23,2020,sibiu-cycling-tour,gc,Akros - Excelsior - Thömus,2.1,72.0,0.0,1,,8.0,,,8.0
+2020-08-07,2020,tour-de-l-ain,gc,Switzerland,2.1,,0,0,,0.0,,,3.0
+2020-08-05,2020,tour-des-pays-de-savoie,gc,Akros - Excelsior - Thömus,2.2,,0,0,,0.0,,,1.0
+2020-09-06,2020,tour-du-doubs,gc,Akros - Excelsior - Thömus,1.1,,,1,,0.0,,,3.0
+2020-02-20,2020,tour-of-antalya,gc,Akros - Excelsior - Thömus,2.1,,0,0,,0.0,,,0.0
+2020-02-02,2020,trofeo-palma,gc,Switzerland,1.1,,,1,,0.0,,,13.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,Switzerland,1.1,,0,0,,0.0,,,0.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,Switzerland,1.1,,,1,,0.0,,,5.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Switzerland,CC,,0,0,,0.0,,,70.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Switzerland,CC,,0,0,,0.0,,,45.0
+2020-09-27,2020,world-championship,gc,Switzerland,WC,,0,0,,0.0,,,410.0
+2020-09-25,2020,world-championship-itt,gc,Switzerland,WC,,0,0,,0.0,,,200.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Swiss Cycling,1.1,,,1,,0.0,,,0.0
+2021-05-14,2021,deia-trophy,gc,Swiss Cycling,1.1,,,1,,0.0,,,10.0
+2021-04-27,2021,tour-de-romandie,gc,Swiss Cycling,2.UWT,,0,0,,15.0,,,15.0
+2021-05-13,2021,trofeo-calvia,gc,Swiss Cycling,1.1,,,1,,0.0,,,0.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Swiss Cycling,1.1,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Switzerland,2.2,,0,0,,0.0,,,0.0
+2022-06-06,2022,paris-troyes,gc,AVC Aix-en-Provence,1.2,,,1,,0.0,,,5.0
+2022-03-20,2022,popolarissima,gc,Switzerland,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,Switzerland,1.2,,0,0,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,AVC Aix-en-Provence,2.2,,0,0,,0.0,,,0.0
+2022-06-10,2022,tour-d-eure-et-loir,gc,AVC Aix-en-Provence,2.2,71.0,0.0,1,,0.0,,,0.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,AVC Aix-en-Provence,2.2,99.0,0.0,1,,0.0,,,7.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Switzerland,2.2,,0,0,,25.0,,,25.0
+2022-03-21,2022,tour-de-normadie,gc,Switzerland,2.2,,0,0,,0.0,,,0.0
+2022-04-26,2022,tour-de-romandie,gc,Switzerland,2.UWT,116.0,0.0,1,,10.0,,,10.0
+2022-06-12,2022,tour-de-suisse,gc,Switzerland,2.UWT,,0,0,,33.0,,,33.0
+2022-04-13,2022,tour-du-loir-et-cher,gc,AVC Aix-en-Provence,2.2,111.0,0.0,1,,0.0,,,1.0
+2022-03-02,2022,trofej-umag,gc,Switzerland,1.2,,0,0,,0.0,,,0.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Switzerland,CC,,0,0,,0.0,,,125.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Switzerland,CC,,0,0,,0.0,,,15.0
+2022-09-25,2022,world-championship,gc,Switzerland,WC,,0,0,,0.0,,,70.0
+2022-09-18,2022,world-championship-itt,gc,Switzerland,WC,,0,0,,0.0,,,375.0
+2023-06-25,2023,nc-switserland,gc,Elite Fondations Cycling Team,NC,,,1,,0.0,,,0.0
+2023-10-01,2023,nc-switzerland-itt,gc,Elite Fondations Cycling Team,NC,,0,0,,0.0,,,20.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Elite Fondations Cycling Team,2.2,54.0,0.0,1,,20.0,,,21.0
+2024-03-03,2024,gp-de-la-ville-de-lillers,gc,Elite Fondations Cycling Team,1.2,,0,0,,0.0,,,25.0
+2024-03-02,2024,le-tour-des-100-communes,gc,Elite Fondations Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-switserland,gc,Elite Fondations Cycling Team,NC,,,1,,0.0,,,0.0
+2024-06-20,2024,nc-switzerland-itt,gc,Elite Fondations Cycling Team,NC,,,1,,0.0,,,3.0
+2024-05-24,2024,tour-de-la-mirabelle,gc,Elite Fondations Cycling Team,2.2,,0,0,,25.0,,,25.0

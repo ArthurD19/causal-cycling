@@ -1,0 +1,54 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-01-19,2019,gravel-and-tar,gc,GD Pringle Building/Spoken Cycles,1.2,,,1,,0.0,,,0.0
+2019-01-23,2019,new-zealand-cycle-classic,gc,GD Pringle Building/Spoken Cycles,2.2,87.0,0.0,1,,5.0,,,5.0
+2020-02-05,2020,herald-sun-tour,gc,St George Continental Cycling Team,2.1,,0,0,,85.0,,,93.0
+2020-02-15,2020,malaysian-international-classic-race,gc,St George Continental Cycling Team,1.1,,,1,,0.0,,,6.0
+2020-02-16,2020,nc-new-zealand,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,61.0
+2020-02-14,2020,nc-new-zealand-itt,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,35.0
+2020-01-15,2020,new-zealand-cycle-classic,gc,Trust House Team,2.2,59.0,0.0,1,,0.0,,,0.0
+2020-01-15,2020,new-zealand-cycle-classic,gc,St George Continental Cycling Team,2.2,,0,0,,0.0,,,11.0
+2020-02-07,2020,tour-de-langkawi,gc,St George Continental Cycling Team,2.Pro,97.0,0.0,1,,0.0,,,0.0
+2020-03-01,2020,tour-de-taiwan,gc,St George Continental Cycling Team,2.1,,0,0,,85.0,,,99.0
+2021-02-07,2021,nc-australia,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-02-14,2021,nc-new-zealand,gc,St George Continental Cycling Team,NC,,,1,,0.0,,,50.0
+2021-02-12,2021,nc-new-zealand-itt,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,20.0
+2021-01-14,2021,new-zealand-cycle-classic,gc,St George Continental Cycling Team,2.2,,,1,,3.0,,,3.0
+2022-01-16,2022,nc-australia,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,1.0
+2022-02-13,2022,nc-new-zealand,gc,St George Continental Cycling Team,NC,,,1,,0.0,,,1.0
+2022-02-11,2022,nc-new-zealand-itt,gc,St George Continental Cycling Team,NC,,0,0,,0.0,,,6.0
+2022-01-06,2022,new-zealand-cycle-classic,gc,St George Continental Cycling Team,2.2,22.0,0.0,1,,0.0,,,10.0
+2022-10-02,2022,tour-de-taiwan,gc,St George Continental Cycling Team,2.1,,0,0,,0.0,,,0.0
+2022-04-01,2022,tour-of-thailand,gc,St George Continental Cycling Team,2.1,14.0,5.0,1,,8.0,,,8.0
+2023-04-15,2023,arno-wallaard-memorial,gc,Global 6 Cycling,1.2,,0,0,,0.0,,,0.0
+2023-07-30,2023,circuito-de-getxo,gc,Global 6 Cycling,1.1,,0,0,,0.0,,,0.0
+2023-05-17,2023,fleche-du-sud,gc,Global 6 Cycling,2.2,,0,0,,6.0,,,13.0
+2023-01-21,2023,gravel-and-tar,gc,New Zealand,1.2,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-canada2,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-ireland,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-japan,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-luxembourg,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-luxembourg-itt,gc,Global 6 Cycling,NC,,0,0,,0.0,,,20.0
+2023-02-12,2023,nc-new-zealand,gc,Global 6 Cycling,NC,,,1,,0.0,,,1.0
+2023-06-25,2023,nc-norway,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2023-02-12,2023,nc-south-africa,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2023-02-10,2023,nc-south-africa-itt,gc,Global 6 Cycling,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-spain,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2023-01-11,2023,new-zealand-cycle-classic,gc,New Zealand,2.2,6.0,10.0,1,,10.0,,,22.0
+2023-04-01,2023,oceania-championships,gc,New Zealand,CC,,,1,,0.0,,,290.0
+2023-03-30,2023,oceania-continental-championships-itt,gc,New Zealand,CC,,0,0,,0.0,,,70.0
+2023-07-25,2023,prueba-villafranca,gc,Global 6 Cycling,1.1,,,1,,0.0,,,0.0
+2023-07-06,2023,sibiu-cycling-tour,gc,Global 6 Cycling,2.1,,0,0,,5.0,,,5.0
+2023-09-20,2023,tour-de-luxembourg,gc,Global 6 Cycling,2.Pro,,0,0,,0.0,,,0.0
+2023-03-12,2023,tour-de-taiwan,gc,Global 6 Cycling,2.1,,0,0,,53.0,,,58.0
+2023-09-03,2023,tour-of-britain,gc,Global 6 Cycling,2.Pro,,0,0,,10.0,,,10.0
+2023-05-02,2023,tour-of-hellas,gc,Global 6 Cycling,2.1,,0,0,,0.0,,,0.0
+2023-09-28,2023,tour-of-istanbul,gc,Global 6 Cycling,2.2,,0,0,,0.0,,,0.0
+2023-05-21,2023,tour-of-japan,gc,Global 6 Cycling,2.1,,,1,,0.0,,,0.0
+2023-06-01,2023,tour-of-malopolska,gc,Global 6 Cycling,2.2,124.0,0.0,1,,0.0,,,4.0
+2023-10-08,2023,tour-of-turkey,gc,Global 6 Cycling,2.1,,0,0,,0.0,,,0.0
+2023-08-09,2023,volta-a-portugal,gc,Global 6 Cycling,2.1,,0,0,,3.0,,,3.0
+2023-04-28,2023,vuelta-asturias,gc,Global 6 Cycling,2.1,,0,0,,3.0,,,3.0
+2023-08-06,2023,world-championship,gc,New Zealand,WC,,0,0,,0.0,,,15.0
+2023-08-11,2023,world-championship-itt,gc,New Zealand,WC,,0,0,,0.0,,,0.0
+2024-02-10,2024,nc-new-zealand,gc,Quality Food Services Southland,NC,,0,0,,0.0,,,0.0
+2024-01-10,2024,new-zealand-cycle-classic,gc,Quality Food Services Southland,2.2,56.0,0.0,1,,0.0,,,0.0

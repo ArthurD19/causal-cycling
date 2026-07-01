@@ -1,0 +1,26 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,A.R. Monex Pro CyclingTeam,1.2,,0,0,,0.0,,,0.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,A.R. Monex Pro CyclingTeam,2.2,,0,0,,0.0,,,0.0
+2021-03-21,2021,gp-izola-butan-plin,gc,A.R. Monex Pro CyclingTeam,1.2,,0,0,,0.0,,,0.0
+2021-04-25,2021,gran-premio-della-liberazione,gc,A.R. Monex Pro CyclingTeam,1.2U,,0,0,,0.0,,,0.0
+2021-07-03,2021,sibiu-cycling-tour,gc,A.R. Monex Pro CyclingTeam,2.1,,0,0,,0.0,,,0.0
+2021-06-02,2021,trofeo-alcide-degasperi,gc,A.R. Monex Pro CyclingTeam,1.2,,,1,,0.0,,,0.0
+2022-04-27,2022,tour-of-the-gila,gc,Canel's Zerouno,2.2,22.0,0.0,1,,25.0,,,41.0
+2022-11-12,2022,vuelta-a-ecuador,gc,Canel's Zerouno,2.2,,0,0,,0.0,,,8.0
+2022-06-03,2022,vuelta-pilsen-a-colombia,gc,Canel's Zerouno,2.2,,,1,,0.0,,,8.0
+2024-07-07,2024,giro-del-medio-brenta,gc,A.R. Monex Pro CyclingTeam,1.2,,0,0,,0.0,,,0.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,A.R. Monex Pro CyclingTeam,2.2,,0,0,,0.0,,,-15.0
+2024-06-27,2024,okolo-slovenska,gc,Mexico,2.1,,,1,,0.0,,,0.0
+2024-05-23,2024,panamerican-champ-itt,gc,Mexico,CC,,0,0,,0.0,,,0.0
+2024-05-26,2024,panamerican-championships,gc,Mexico,CC,,0,0,,0.0,,,95.0
+2024-03-17,2024,popolarissima,gc,A.R. Monex Pro CyclingTeam,1.2,,,1,,0.0,,,25.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,A.R. Monex Pro CyclingTeam,2.2,,0,0,,0.0,,,3.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Mexico,2.1,106.0,0.0,1,,0.0,,,0.0
+2024-10-25,2024,vuelta-a-guatemala,gc,Mexico,2.2,,0,0,,0.0,,,0.0
+2024-09-29,2024,world-championship,gc,Mexico,WC,,0,0,,0.0,,,0.0
+2025-06-29,2025,national-championships-honduras-road-race,gc,Grupo Intxausti,NC,,0,0,,0.0,,,40.0
+2025-06-22,2025,nc-costa-rica,gc,Grupo Intxausti,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-guatemala,gc,Grupo Intxausti,NC,,0,0,,0.0,,,10.0
+2025-06-22,2025,nc-guatemala-itt,gc,Grupo Intxausti,NC,,0,0,,0.0,,,3.0
+2025-10-25,2025,nc-mexico,gc,Grupo Intxausti,NC,,,1,,0.0,,,5.0
+2025-05-26,2025,nc-united-states,gc,Grupo Intxausti,NC,,0,0,,0.0,,,0.0

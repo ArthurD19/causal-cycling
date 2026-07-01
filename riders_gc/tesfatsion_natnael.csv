@@ -1,0 +1,490 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-11-25,2018,africa-cup,gc,Eritrea,1.1,,0,0,,0.0,,,430.0
+2018-02-18,2018,african-championships,gc,Eritrea,CC,,0,0,,0.0,,,648.0
+2018-02-15,2018,african-continental-championships-itt,gc,Eritrea,CC,,0,0,,0.0,,,70.0
+2018-01-15,2018,la-tropicale-amissa-bongo,gc,Eritrea,2.1,,0,0,,9.0,,,14.0
+2018-01-25,2018,speedy-tour-d-indonesia,gc,Eritrea,2.1,73.0,0.0,1,,60.0,,,63.0
+2018-02-22,2018,tour-of-antalya,gc,Eritrea,2.2,,0,0,,0.0,,,0.0
+2018-11-14,2018,tour-of-fuzhou,gc,Eritrea,2.1,15.0,5.0,1,,120.0,,,123.0
+2018-10-07,2018,tour-of-taihu-lake,gc,Eritrea,2.1,27.0,0.0,1,,0.0,,,3.0
+2018-09-30,2018,world-championship,gc,Eritrea,WC,,0,0,,0.0,,,10.0
+2018-09-26,2018,world-championship-itt,gc,Eritrea,WC,,0,0,,0.0,,,0.0
+2019-05-05,2019,circuito-del-porto-trofeo-arvedi,gc,Dimension Data for Qhubeka,1.2,,,1,,0.0,,,40.0
+2019-09-14,2019,coppa-agostoni,gc,Dimension Data for Qhubeka,1.1,,,1,,0.0,,,0.0
+2019-09-15,2019,coppa-bernocchi,gc,Dimension Data for Qhubeka,1.1,,,1,,0.0,,,68.0
+2019-06-09,2019,coppa-della-pace-trofeo-flli-anelli,gc,Dimension Data for Qhubeka,1.2U,,0,0,,0.0,,,0.0
+2019-07-14,2019,giro-del-medio-brenta,gc,Dimension Data for Qhubeka,1.2,,0,0,,0.0,,,0.0
+2019-09-05,2019,giro-della-regione-friuli-venezia-giulia,gc,Dimension Data for Qhubeka,2.2,48.0,0.0,1,,0.0,,,0.0
+2019-03-10,2019,gp-industria-artigianato,gc,Dimension Data for Qhubeka,1.HC,,,1,,0.0,,,6.0
+2019-04-25,2019,le-tour-de-bretagne,gc,Dimension Data for Qhubeka,2.2,106.0,0.0,1,,10.0,,,14.0
+2019-06-30,2019,nc-eritrea,gc,Dimension Data for Qhubeka,NC,,,1,,0.0,,,75.0
+2019-06-28,2019,nc-morocco-itt,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,50.0
+2019-06-23,2019,nc-rwanda,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,50.0
+2019-06-22,2019,nc-rwanda-itt,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-slovenia,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,0.0
+2019-05-24,2019,paris-arras-tour,gc,Dimension Data for Qhubeka,2.2,49.0,0.0,1,,0.0,,,0.0
+2019-08-01,2019,tour-alsace,gc,Dimension Data for Qhubeka,2.2,23.0,0.0,1,,0.0,,,0.0
+2019-05-15,2019,tour-de-limpopo,gc,Dimension Data for Qhubeka,2.2,,0,0,,65.0,,,83.0
+2019-02-24,2019,tour-of-rwanda,gc,Dimension Data for Qhubeka,2.1,,0,0,,8.0,,,8.0
+2019-06-02,2019,trofeo-alcide-degasperi,gc,Dimension Data for Qhubeka,1.2,,0,0,,0.0,,,25.0
+2019-07-02,2019,trofeo-citta-di-brescia,gc,Dimension Data for Qhubeka,1.2,,0,0,,0.0,,,30.0
+2020-08-23,2020,danish-championships,gc,NTT Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2020-09-19,2020,giro-dell-appennino,gc,NTT Continental Cycling Team,1.1,,0,0,,0.0,,,15.0
+2020-10-09,2020,giro-della-regione-friuli-venezia-giulia,gc,NTT Continental Cycling Team,2.2,,,1,,0.0,,,0.0
+2020-07-26,2020,gp-kranj,gc,NTT Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-08-03,2020,gran-trittico-lombardo,gc,NTT Continental Cycling Team,1.Pro,,,1,,0.0,,,0.0
+2020-01-20,2020,la-tropicale-amissa-bongo,gc,Eritrea,2.1,2.0,85.0,1,,151.0,,,168.0
+2020-02-16,2020,nc-new-zealand,gc,NTT Continental Cycling Team,NC,,0,0,,0.0,,,3.0
+2020-06-21,2020,nc-slovenia,gc,NTT Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2020-06-28,2020,nc-slovenia-itt,gc,NTT Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2020-02-09,2020,nc-south-africa,gc,NTT Continental Cycling Team,NC,,0,0,,0.0,,,10.0
+2020-08-12,2020,tour-bitwa-warszawska-1920,gc,NTT Continental Cycling Team,2.2,,,1,,0.0,,,0.0
+2020-02-23,2020,tour-of-rwanda,gc,Eritrea,2.1,1.0,125.0,1,,151.0,,,176.0
+2020-02-16,2020,trofeo-laigueglia,gc,NTT Continental Cycling Team,1.Pro,,0,0,,0.0,,,0.0
+2020-09-27,2020,world-championship,gc,Eritrea,WC,,0,0,,0.0,,,0.0
+2021-06-15,2021,adriatica-ionica-race,gc,Androni Giocattoli - Sidermec,2.1,18.0,3.0,1,,52.0,,,52.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,81.0,,,84.0
+2021-05-27,2021,boucles-de-la-mayenne,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,8.0,,,8.0
+2021-03-28,2021,cholet-pays-de-loire,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,20.0
+2021-09-03,2021,classic-grand-besancon-doubs,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,43.0
+2021-10-11,2021,coppa-agostoni,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,25.0
+2021-10-04,2021,coppa-bernocchi,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,10.0
+2021-05-08,2021,giro-d-italia,gc,Androni Giocattoli - Sidermec,2.UWT,92.0,0.0,1,,16.0,0.0,0.0,16.0
+2021-05-08,2021,giro-d-italia,kom,Androni Giocattoli - Sidermec,2.UWT,,,1,,16.0,0.0,0.0,16.0
+2021-05-08,2021,giro-d-italia,points,Androni Giocattoli - Sidermec,2.UWT,74.0,0.0,1,,16.0,0.0,0.0,16.0
+2021-10-13,2021,giro-del-veneto,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,51.0
+2021-06-24,2021,giro-dell-appennino,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,53.0
+2021-10-02,2021,giro-dell-emilia,gc,Androni Giocattoli - Sidermec,1.Pro,,,1,,0.0,,,3.0
+2021-09-28,2021,giro-di-sicilia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,91.0,,,99.0
+2021-09-15,2021,giro-di-toscana,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,8.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Androni Giocattoli - Sidermec,1.Pro,,,1,,0.0,,,20.0
+2021-03-07,2021,gp-industria-artigianato,gc,Androni Giocattoli - Sidermec,1.Pro,,,1,,0.0,,,33.0
+2021-03-21,2021,gp-izola-butan-plin,gc,Androni Giocattoli - Sidermec,1.2,,0,0,,0.0,,,30.0
+2021-06-27,2021,gp-lugano,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,63.0
+2021-10-07,2021,gran-piemonte,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,19.0
+2021-10-09,2021,il-lombardia,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,0.0
+2021-04-04,2021,la-roue-tourangelle,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,0.0
+2021-09-20,2021,le-tour-de-bretagne,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,0.0,,,7.0
+2021-09-18,2021,memorial-marco-pantani,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,35.0
+2021-03-20,2021,milano-sanremo,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,3.0
+2021-10-06,2021,milano-torino,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,3.0
+2021-06-18,2021,nc-ecuador,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,100.0
+2021-06-20,2021,nc-hungary,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-hungary-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-italy,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-italy-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-slovenia,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-spain,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-spain-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-switserland,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,75.0
+2021-06-20,2021,nc-ukraine,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,100.0
+2021-03-21,2021,per-sempre-alfredo,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,25.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,0.0,,,3.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,11.0,,,16.0
+2021-03-06,2021,strade-bianche,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,0.0
+2021-03-10,2021,tirreno-adriatico,gc,Androni Giocattoli - Sidermec,2.UWT,48.0,10.0,1,,20.0,,,20.0
+2021-07-22,2021,tour-alsace,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,20.0,,,27.0
+2021-05-12,2021,tour-de-hongrie,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,6.0,,,6.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,68.0,,,85.0
+2021-09-05,2021,tour-du-doubs,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,60.0
+2021-09-04,2021,tour-du-jura-cycliste,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,15.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,Androni Giocattoli - Sidermec,2.1,33.0,0.0,1,,0.0,,,5.0
+2021-09-28,2021,tour-of-croatia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,6.0
+2021-05-02,2021,tour-of-rwanda,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,55.0,,,74.0
+2021-06-09,2021,tour-of-slovenia,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,15.0,,,15.0
+2021-04-19,2021,tour-of-the-alps,gc,Androni Giocattoli - Sidermec,2.Pro,51.0,0.0,1,,100.0,,,100.0
+2021-04-11,2021,tour-of-turkey,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,130.0,,,135.0
+2021-10-05,2021,tre-valli-varesine,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,18.0
+2021-03-03,2021,trofeo-laigueglia,gc,Androni Giocattoli - Sidermec,1.Pro,,,1,,0.0,,,8.0
+2021-09-19,2021,trofeo-matteotti,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,110.0
+2021-08-31,2021,turul-romaniei,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,130.0,,,161.0
+2021-10-17,2021,veneto-classic,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,73.0
+2021-01-17,2021,vuelta-al-tachira,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,35.0,,,56.0
+2022-06-04,2022,adriatica-ionica-race,gc,Drone Hopper - Androni Giocattoli,2.1,2.0,85.0,1,,146.0,,,165.0
+2022-03-27,2022,african-championships,gc,Eritrea,CC,,0,0,,0.0,,,340.0
+2022-03-24,2022,african-continental-championships-itt,gc,Eritrea,CC,,0,0,,0.0,,,85.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,0.0,,,0.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-07-31,2022,circuito-de-getxo,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,85.0
+2022-02-13,2022,clasica-de-almeria,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,5.0
+2022-10-03,2022,coppa-bernocchi,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,10.0
+2022-08-04,2022,czech-tour,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,6.0,,,6.0
+2022-01-28,2022,deia-trophy,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-05-06,2022,giro-d-italia,gc,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,kom,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,points,Drone Hopper - Androni Giocattoli,2.UWT,,,1,,0.0,0.0,0.0,0.0
+2022-10-12,2022,giro-del-veneto,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,23.0
+2022-06-02,2022,giro-dell-appennino,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,91.0
+2022-10-01,2022,giro-dell-emilia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,91.0,,,94.0
+2022-09-14,2022,giro-di-toscana,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,30.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,8.0
+2022-03-27,2022,gp-industria-artigianato,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,108.0
+2022-02-24,2022,gran-camino,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,6.0,,,6.0
+2022-10-06,2022,gran-piemonte,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,3.0
+2022-10-08,2022,il-lombardia,gc,Drone Hopper - Androni Giocattoli,1.UWT,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,0.0,,,0.0
+2022-03-27,2022,la-roue-tourangelle,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-19,2022,milano-sanremo,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,3.0
+2022-03-16,2022,milano-torino,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,15.0
+2022-02-20,2022,nc-ecuador,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-eritrea,gc,Drone Hopper - Androni Giocattoli,NC,,,1,,0.0,,,75.0
+2022-06-26,2022,nc-italy,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,50.0
+2022-06-22,2022,nc-italy-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-norway-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-romania,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,10.0
+2022-06-24,2022,nc-romania-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,15.0
+2022-03-20,2022,per-sempre-alfredo,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,8.0
+2022-07-25,2022,prueba-villafranca,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,40.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,20.0,,,20.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Drone Hopper - Androni Giocattoli,2.1,9.0,25.0,1,,31.0,,,31.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,43.0,,,46.0
+2022-03-05,2022,strade-bianche,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,0.0
+2022-03-07,2022,tirreno-adriatico,gc,Drone Hopper - Androni Giocattoli,2.UWT,37.0,10.0,1,,50.0,,,50.0
+2022-05-11,2022,tour-de-hongrie,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,0.0,,,0.0
+2022-10-11,2022,tour-de-langkawi,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,65.0,,,5.0
+2022-08-16,2022,tour-du-limousin,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,0.0,,,5.0
+2022-02-10,2022,tour-of-antalya,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,45.0,,,48.0
+2022-04-27,2022,tour-of-hellas,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,35.0,,,43.0
+2022-06-15,2022,tour-of-slovenia,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,13.0,,,13.0
+2022-04-18,2022,tour-of-the-alps,gc,Drone Hopper - Androni Giocattoli,2.Pro,22.0,5.0,1,,8.0,,,8.0
+2022-04-10,2022,tour-of-turkey,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,130.0,,,150.0
+2022-10-04,2022,tre-valli-varesine,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-02,2022,trofeo-laigueglia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,8.0
+2022-01-30,2022,trofeo-palma,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-09-06,2022,turul-romaniei,gc,Drone Hopper - Androni Giocattoli,2.1,7.0,35.0,1,,35.0,,,55.0
+2022-10-16,2022,veneto-classic,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,3.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,3.0,,,3.0
+2022-01-16,2022,vuelta-al-tachira,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,28.0,,,37.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-09-25,2022,world-championship,gc,Eritrea,WC,,,1,,0.0,,,5.0
+2023-04-16,2023,amstel-gold-race,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,165.0
+2023-08-17,2023,arctic-race-of-norway,gc,Lidl - Trek,2.Pro,,0,0,,23.0,,,28.0
+2023-04-12,2023,brabantse-pijl,gc,Trek - Segafredo,1.Pro,,0,0,,0.0,,,40.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Trek - Segafredo,1.Pro,,0,0,,0.0,,,35.0
+2023-09-03,2023,bretagne-classic,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,24.0
+2023-09-28,2023,circuit-franco-belge,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,51.0
+2023-07-30,2023,circuito-de-getxo,gc,Lidl - Trek,1.1,,0,0,,0.0,,,135.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,20.0
+2023-10-02,2023,coppa-bernocchi,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,18.0
+2023-08-20,2023,cyclassics-hamburg,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,418.0
+2023-06-25,2023,danish-championships,gc,Trek - Segafredo,NC,,0,0,,0.0,,,101.0
+2023-08-23,2023,deutschland-tour,gc,Lidl - Trek,2.Pro,30.0,5.0,1,,30.0,,,45.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,136.0
+2023-03-24,2023,e3-harelbeke,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,48.0
+2023-02-01,2023,etoile-de-besseges,gc,Trek - Segafredo,2.1,,0,0,,90.0,,,123.0
+2023-02-25,2023,faun-ardeche-classic,gc,Trek - Segafredo,1.Pro,,,1,,0.0,,,125.0
+2023-02-12,2023,figueira-champions-classic,gc,Trek - Segafredo,1.1,,,1,,0.0,,,83.0
+2023-03-26,2023,gent-wevelgem,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,260.0
+2023-05-06,2023,giro-d-italia,gc,Trek - Segafredo,2.UWT,,,1,,45.0,0.0,0.0,1274.0
+2023-05-06,2023,giro-d-italia,kom,Trek - Segafredo,2.UWT,,,1,,45.0,0.0,0.0,1274.0
+2023-05-06,2023,giro-d-italia,points,Trek - Segafredo,2.UWT,,,1,,45.0,0.0,0.0,1274.0
+2023-10-11,2023,giro-del-veneto,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,35.0
+2023-09-30,2023,giro-dell-emilia,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,50.0
+2023-09-17,2023,gp-d-isbergues,gc,Lidl - Trek,1.1,,0,0,,0.0,,,85.0
+2023-03-16,2023,gp-de-denain,gc,Trek - Segafredo,1.Pro,,0,0,,0.0,,,0.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Trek - Segafredo,1.1,,0,0,,0.0,,,165.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,8.0
+2023-03-26,2023,gp-industria-artigianato,gc,Trek - Segafredo,1.Pro,,,1,,0.0,,,300.0
+2023-09-10,2023,gp-montreal,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,120.0
+2023-09-08,2023,gp-quebec,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,105.0
+2023-02-28,2023,gp-samyn,gc,Trek - Segafredo,1.1,,0,0,,0.0,,,76.0
+2023-10-05,2023,gran-piemonte,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,-2.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Trek - Segafredo,1.Pro,,,1,,0.0,,,128.0
+2023-01-29,2023,great-ocean-road-race,gc,Trek - Segafredo,1.UWT,,,1,,0.0,,,75.0
+2023-10-07,2023,il-lombardia,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,15.0
+2023-04-03,2023,itzulia-basque-country,gc,Trek - Segafredo,2.UWT,,,1,,56.0,,,120.0
+2023-10-15,2023,japan-cup,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,55.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Lidl - Trek,1.1,,0,0,,0.0,,,35.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Trek - Segafredo,1.Pro,,0,0,,0.0,,,45.0
+2023-02-26,2023,la-drome-classic,gc,Trek - Segafredo,1.Pro,,,1,,0.0,,,160.0
+2023-04-19,2023,la-fleche-wallonne,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,508.0
+2023-04-23,2023,liege-bastogne-liege,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,290.0
+2023-09-03,2023,maryland-cycling-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,325.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Lidl - Trek,1.1,,0,0,,0.0,,,90.0
+2023-03-18,2023,milano-sanremo,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,415.0
+2023-03-15,2023,milano-torino,gc,Trek - Segafredo,1.Pro,,0,0,,0.0,,,48.0
+2023-10-03,2023,munsterland-giro,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,150.0
+2023-06-25,2023,nc-belgium,gc,Trek - Segafredo,NC,,0,0,,0.0,,,60.0
+2023-06-22,2023,nc-czech-republic-itt,gc,Trek - Segafredo,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,nc-czech-republic2,gc,Trek - Segafredo,NC,,0,0,,0.0,,,100.0
+2023-06-22,2023,nc-denmark-itt,gc,Trek - Segafredo,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-eritrea,gc,Trek - Segafredo,NC,,,1,,0.0,,,20.0
+2023-06-23,2023,nc-eritrea-itt,gc,Trek - Segafredo,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-france,gc,Trek - Segafredo,NC,,0,0,,0.0,,,110.0
+2023-06-24,2023,nc-italy,gc,Trek - Segafredo,NC,,0,0,,0.0,,,21.0
+2023-06-22,2023,nc-italy-itt,gc,Trek - Segafredo,NC,,0,0,,0.0,,,5.0
+2023-06-25,2023,nc-latvia,gc,Trek - Segafredo,NC,,0,0,,0.0,,,160.0
+2023-06-21,2023,nc-latvia-itt,gc,Trek - Segafredo,NC,,0,0,,0.0,,,70.0
+2023-06-25,2023,nc-luxembourg,gc,Trek - Segafredo,NC,,0,0,,0.0,,,100.0
+2023-06-21,2023,nc-luxembourg-itt,gc,Trek - Segafredo,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-netherlands,gc,Trek - Segafredo,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-netherlands-itt,gc,Trek - Segafredo,NC,,0,0,,0.0,,,40.0
+2023-06-25,2023,nc-united-states,gc,Trek - Segafredo,NC,,0,0,,0.0,,,100.0
+2023-03-15,2023,nokere-koerse,gc,Trek - Segafredo,1.Pro,,0,0,,0.0,,,155.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,8.0
+2023-10-05,2023,paris-bourges,gc,Lidl - Trek,1.1,,0,0,,0.0,,,28.0
+2023-03-05,2023,paris-nice,gc,Trek - Segafredo,2.UWT,,0,0,,10.0,,,140.0
+2023-04-09,2023,paris-roubaix,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,505.0
+2023-10-08,2023,paris-tours,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,43.0
+2023-08-23,2023,renewi-tour,gc,Lidl - Trek,2.UWT,,0,0,,240.0,,,278.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,565.0
+2023-07-29,2023,san-sebastian,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,164.0
+2023-04-05,2023,scheldeprijs,gc,Trek - Segafredo,1.Pro,,0,0,,0.0,,,73.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Trek - Segafredo,2.1,13.0,5.0,1,,5.0,,,5.0
+2023-03-04,2023,strade-bianche,gc,Trek - Segafredo,1.UWT,,0,0,,0.0,,,72.0
+2023-03-06,2023,tirreno-adriatico,gc,Trek - Segafredo,2.UWT,,0,0,,235.0,,,300.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Trek - Segafredo,2.UWT,,,1,,80.0,,,195.0
+2023-07-01,2023,tour-de-france,gc,Lidl - Trek,2.UWT,,0,0,,75.0,210.0,150.0,1150.0
+2023-07-01,2023,tour-de-france,kom,Lidl - Trek,2.UWT,,0,0,,75.0,210.0,150.0,1150.0
+2023-07-01,2023,tour-de-france,points,Lidl - Trek,2.UWT,,0,0,,75.0,210.0,150.0,1150.0
+2023-05-10,2023,tour-de-hongrie,gc,Trek - Segafredo,2.Pro,,0,0,,13.0,,,28.0
+2023-07-31,2023,tour-de-l-ain,gc,Lidl - Trek,2.1,,0,0,,110.0,,,118.0
+2023-09-20,2023,tour-de-luxembourg,gc,Lidl - Trek,2.Pro,41.0,0.0,1,,5.0,,,5.0
+2023-07-29,2023,tour-de-pologne,gc,Lidl - Trek,2.UWT,,0,0,,24.0,,,30.0
+2023-04-26,2023,tour-de-romandie,gc,Trek - Segafredo,2.UWT,,0,0,,23.0,,,83.0
+2023-06-11,2023,tour-de-suisse,gc,Trek - Segafredo,2.UWT,,0,0,,520.0,,,695.0
+2023-07-22,2023,tour-de-wallonie,gc,Lidl - Trek,2.Pro,,0,0,,95.0,,,113.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Trek - Segafredo,2.1,,0,0,,59.0,,,78.0
+2023-01-17,2023,tour-down-under,gc,Trek - Segafredo,2.UWT,14.0,40.0,1,,190.0,,,265.0
+2023-06-14,2023,tour-of-belgium,gc,Trek - Segafredo,2.Pro,,0,0,,163.0,,,191.0
+2023-09-26,2023,tour-of-croatia,gc,Lidl - Trek,2.1,,0,0,,5.0,,,5.0
+2023-08-15,2023,tour-of-denmark,gc,Lidl - Trek,2.Pro,,0,0,,390.0,,,481.0
+2023-10-12,2023,tour-of-guangxi,gc,Lidl - Trek,2.UWT,,0,0,,32.0,,,41.0
+2023-05-26,2023,tour-of-norway,gc,Trek - Segafredo,2.Pro,,0,0,,175.0,,,203.0
+2023-10-03,2023,tre-valli-varesine,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,0.0
+2023-03-01,2023,trofeo-laigueglia,gc,Trek - Segafredo,1.Pro,,,1,,0.0,,,0.0
+2023-02-20,2023,uae-tour,gc,Trek - Segafredo,2.UWT,,0,0,,112.0,,,134.0
+2023-10-15,2023,veneto-classic,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,15.0
+2023-03-20,2023,volta-a-catalunya,gc,Trek - Segafredo,2.UWT,,0,0,,136.0,,,249.0
+2023-02-15,2023,volta-ao-algarve,gc,Trek - Segafredo,2.Pro,28.0,5.0,1,,58.0,,,58.0
+2023-08-27,2023,vuelta-a-espana,gc,Lidl - Trek,2.UWT,,0,0,,90.0,0.0,0.0,537.0
+2023-08-27,2023,vuelta-a-espana,kom,Lidl - Trek,2.UWT,,0,0,,90.0,0.0,0.0,537.0
+2023-08-27,2023,vuelta-a-espana,points,Lidl - Trek,2.UWT,,0,0,,90.0,0.0,0.0,537.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Trek - Segafredo,2.Pro,,0,0,,160.0,,,193.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Trek - Segafredo,2.Pro,,0,0,,50.0,,,80.0
+2024-10-13,2024,african-championships,gc,Eritrea,CC,,0,0,,0.0,,,495.0
+2024-10-09,2024,african-continental-championships-itt,gc,Eritrea,CC,,0,0,,0.0,,,15.0
+2024-03-15,2024,african-games-me-itt,gc,Eritrea,JC,,0,0,,0.0,,,30.0
+2024-03-10,2024,african-games-road-race-me,gc,Eritrea,JC,,0,0,,0.0,,,335.0
+2024-04-14,2024,amstel-gold-race,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,200.0
+2024-03-15,2024,bredene-koksijde-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,108.0
+2024-08-25,2024,bretagne-classic,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,196.0
+2024-08-11,2024,circuito-de-getxo,gc,Lidl - Trek,1.1,,,1,,0.0,,,38.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,145.0
+2024-10-07,2024,coppa-bernocchi,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,8.0
+2024-09-08,2024,cyclassics-hamburg,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,330.0
+2024-06-23,2024,danish-championships,gc,Lidl - Trek,NC,,0,0,,0.0,,,10.0
+2024-08-22,2024,deutschland-tour,gc,Lidl - Trek,2.Pro,,0,0,,220.0,,,285.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,107.0
+2024-03-22,2024,e3-harelbeke,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,544.0
+2024-05-01,2024,eschborn-frankfurt,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,41.0
+2024-02-01,2024,etoile-de-besseges,gc,Lidl - Trek,2.1,,0,0,,140.0,,,164.0
+2024-02-24,2024,faun-ardeche-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,133.0
+2024-02-10,2024,figueira-champions-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,13.0
+2024-03-24,2024,gent-wevelgem,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,755.0
+2024-05-04,2024,giro-d-italia,gc,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1110.0
+2024-05-04,2024,giro-d-italia,kom,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1110.0
+2024-05-04,2024,giro-d-italia,points,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1110.0
+2024-10-05,2024,giro-dell-emilia,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,0.0
+2024-09-22,2024,gooikse-pijl,gc,Lidl - Trek,1.1,,,1,,0.0,,,3.0
+2024-05-24,2024,gp-de-la-ville-d-alger,gc,Eritrea,1.2,,0,0,,0.0,,,3.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Lidl - Trek,1.1,,0,0,,0.0,,,3.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,35.0
+2024-09-15,2024,gp-montreal,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,265.0
+2024-09-13,2024,gp-quebec,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,235.0
+2024-10-10,2024,gran-piemonte,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,65.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,11.0
+2024-05-11,2024,grand-prix-d-oran,gc,Eritrea,1.2,,0,0,,0.0,,,20.0
+2024-05-22,2024,grand-prix-de-la-ville-d-annaba,gc,Eritrea,1.2,,0,0,,0.0,,,40.0
+2024-01-28,2024,great-ocean-road-race,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,320.0
+2024-10-12,2024,il-lombardia,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,630.0
+2024-04-01,2024,itzulia-basque-country,gc,Lidl - Trek,2.UWT,,,1,,284.0,,,339.0
+2024-10-20,2024,japan-cup,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,120.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Lidl - Trek,1.1,,,1,,0.0,,,8.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,50.0
+2024-02-25,2024,la-drome-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,93.0
+2024-04-17,2024,la-fleche-wallonne,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,56.0
+2024-04-21,2024,liege-bastogne-liege,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,130.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,Lidl - Trek,1.1,,0,0,,0.0,,,25.0
+2024-03-16,2024,milano-sanremo,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,655.0
+2024-10-03,2024,munsterland-giro,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-austria2,gc,Lidl - Trek,NC,,0,0,,0.0,,,40.0
+2024-06-23,2024,nc-belgium,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-20,2024,nc-czech-republic-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-czech-republic2,gc,Lidl - Trek,NC,,0,0,,0.0,,,40.0
+2024-06-21,2024,nc-denmark-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-15,2024,nc-eritrea,gc,Lidl - Trek,NC,,,1,,0.0,,,110.0
+2024-06-13,2024,nc-eritrea-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-france,gc,Lidl - Trek,NC,,0,0,,0.0,,,75.0
+2024-06-23,2024,nc-italy,gc,Lidl - Trek,NC,,0,0,,0.0,,,20.0
+2024-06-20,2024,nc-italy-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-luxembourg,gc,Lidl - Trek,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-netherlands,gc,Lidl - Trek,NC,,0,0,,0.0,,,2.0
+2024-06-19,2024,nc-netherlands-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,53.0
+2024-02-04,2024,nc-south-africa,gc,Lidl - Trek,NC,,0,0,,0.0,,,100.0
+2024-02-02,2024,nc-south-africa-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-03-13,2024,nokere-koerse,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,93.0
+2024-08-03,2024,olympic-games,gc,Eritrea,Olympics,,0,0,,0.0,,,15.0
+2024-07-27,2024,olympic-games-itt,gc,Eritrea,Olympics,,0,0,,0.0,,,0.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,133.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,Lidl - Trek,1.1,,,1,,0.0,,,5.0
+2024-03-03,2024,paris-nice,gc,Lidl - Trek,2.UWT,,0,0,,285.0,,,513.0
+2024-04-07,2024,paris-roubaix,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,575.0
+2024-10-06,2024,paris-tours,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,155.0
+2024-01-25,2024,race-torquay,gc,Lidl - Trek,1.1,,,1,,0.0,,,5.0
+2024-08-28,2024,renewi-tour,gc,Lidl - Trek,2.UWT,,0,0,,40.0,,,146.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,165.0
+2024-08-10,2024,san-sebastian,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,160.0
+2024-04-03,2024,scheldeprijs,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,8.0
+2024-03-02,2024,strade-bianche,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,322.0
+2024-03-04,2024,tirreno-adriatico,gc,Lidl - Trek,2.UWT,,0,0,,40.0,,,235.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Lidl - Trek,2.UWT,,0,0,,135.0,,,327.0
+2024-02-09,2024,tour-cycliste-international-la-provence,gc,Lidl - Trek,2.1,,0,0,,205.0,,,233.0
+2024-05-12,2024,tour-d-algerie-cycliste,gc,Eritrea,2.2,,0,0,,5.0,,,18.0
+2024-06-29,2024,tour-de-france,gc,Lidl - Trek,2.UWT,,0,0,,315.0,0.0,0.0,1015.0
+2024-06-29,2024,tour-de-france,kom,Lidl - Trek,2.UWT,,0,0,,315.0,0.0,0.0,1015.0
+2024-06-29,2024,tour-de-france,points,Lidl - Trek,2.UWT,,0,0,,315.0,0.0,0.0,1015.0
+2024-05-08,2024,tour-de-hongrie,gc,Lidl - Trek,2.Pro,40.0,3.0,1,,211.0,,,261.0
+2024-09-18,2024,tour-de-luxembourg,gc,Lidl - Trek,2.Pro,,0,0,,20.0,,,68.0
+2024-08-12,2024,tour-de-pologne,gc,Lidl - Trek,2.UWT,,0,0,,16.0,,,202.0
+2024-04-23,2024,tour-de-romandie,gc,Lidl - Trek,2.UWT,,0,0,,150.0,,,273.0
+2024-06-09,2024,tour-de-suisse,gc,Lidl - Trek,2.UWT,,0,0,,350.0,,,528.0
+2024-07-22,2024,tour-de-wallonie,gc,Lidl - Trek,2.Pro,8.0,50.0,1,,180.0,,,193.0
+2024-01-16,2024,tour-down-under,gc,Lidl - Trek,2.UWT,50.0,10.0,1,,75.0,,,82.0
+2024-06-12,2024,tour-of-belgium,gc,Lidl - Trek,2.Pro,,0,0,,253.0,,,273.0
+2024-10-15,2024,tour-of-guangxi,gc,Lidl - Trek,2.UWT,27.0,12.0,1,,82.0,,,89.0
+2024-05-23,2024,tour-of-norway,gc,Lidl - Trek,2.Pro,41.0,0.0,1,,105.0,,,133.0
+2024-02-19,2024,tour-of-rwanda,gc,Eritrea,2.1,,0,0,,13.0,,,13.0
+2024-04-15,2024,tour-of-the-alps,gc,Lidl - Trek,2.Pro,,0,0,,208.0,,,231.0
+2024-10-08,2024,tre-valli-varesine,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,0.0
+2024-02-19,2024,uae-tour,gc,Lidl - Trek,2.UWT,21.0,12.0,1,,117.0,,,144.0
+2024-03-18,2024,volta-a-catalunya,gc,Lidl - Trek,2.UWT,,0,0,,48.0,,,74.0
+2024-02-14,2024,volta-ao-algarve,gc,Lidl - Trek,2.Pro,,0,0,,33.0,,,33.0
+2024-08-05,2024,vuelta-a-burgos,gc,Lidl - Trek,2.Pro,,0,0,,45.0,,,48.0
+2024-08-17,2024,vuelta-a-espana,gc,Lidl - Trek,2.UWT,,0,0,,545.0,0.0,0.0,1455.0
+2024-08-17,2024,vuelta-a-espana,kom,Lidl - Trek,2.UWT,,0,0,,545.0,0.0,0.0,1455.0
+2024-08-17,2024,vuelta-a-espana,points,Lidl - Trek,2.UWT,,0,0,,545.0,0.0,0.0,1455.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Lidl - Trek,2.Pro,,0,0,,28.0,,,79.0
+2024-09-29,2024,world-championship,gc,Eritrea,WC,,,1,,0.0,,,10.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Movistar Team,2.Pro,,0,0,,125.0,,,140.0
+2025-11-23,2025,african-championships,gc,Eritrea,CC,,0,0,,0.0,,,561.0
+2025-11-20,2025,african-continental-championships-itt,gc,Eritrea,CC,,0,0,,0.0,,,20.0
+2025-04-20,2025,amstel-gold-race,gc,Movistar Team,1.UWT,,,1,,0.0,,,30.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Movistar Team,1.1,,0,0,,0.0,,,70.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Movistar Team,1.1,,0,0,,0.0,,,28.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Movistar Team,2.Pro,,0,0,,11.0,,,11.0
+2025-08-31,2025,bretagne-classic,gc,Movistar Team,1.UWT,,,1,,0.0,,,-23.0
+2025-08-15,2025,circuit-franco-belge,gc,Movistar Team,1.Pro,,,1,,0.0,,,30.0
+2025-08-03,2025,circuito-de-getxo,gc,Movistar Team,1.1,,0,0,,0.0,,,35.0
+2025-02-16,2025,clasica-de-almeria,gc,Movistar Team,1.Pro,,0,0,,0.0,,,58.0
+2025-02-17,2025,clasica-jaen-paraiso-interior,gc,Movistar Team,1.1,,0,0,,0.0,,,36.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,Movistar Team,1.1,,,1,,0.0,,,36.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Movistar Team,1.UWT,,0,0,,0.0,,,14.0
+2025-05-13,2025,classique-dunkerque,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2025-10-05,2025,coppa-agostoni,gc,Movistar Team,1.1,,,1,,0.0,,,138.0
+2025-10-06,2025,coppa-bernocchi,gc,Movistar Team,1.Pro,,,1,,0.0,,,5.0
+2025-08-17,2025,cyclassics-hamburg,gc,Movistar Team,1.UWT,,,1,,0.0,,,58.0
+2025-06-29,2025,danish-championships,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-01-31,2025,deia-trophy,gc,Movistar Team,1.1,,0,0,,0.0,,,63.0
+2025-08-20,2025,deutschland-tour,gc,Movistar Team,2.Pro,,0,0,,35.0,,,38.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Movistar Team,1.UWT,,0,0,,0.0,,,13.0
+2025-03-28,2025,e3-harelbeke,gc,Movistar Team,1.UWT,,0,0,,0.0,,,34.0
+2025-05-01,2025,eschborn-frankfurt,gc,Movistar Team,1.UWT,,0,0,,0.0,,,257.0
+2025-03-01,2025,faun-ardeche-classic,gc,Movistar Team,1.Pro,,,1,,0.0,,,100.0
+2025-02-16,2025,figueira-champions-classic,gc,Movistar Team,1.Pro,,,1,,0.0,,,53.0
+2025-03-30,2025,gent-wevelgem,gc,Movistar Team,1.UWT,,0,0,,0.0,,,50.0
+2025-05-09,2025,giro-d-italia,gc,Movistar Team,2.UWT,,0,0,,380.0,0.0,0.0,992.0
+2025-05-09,2025,giro-d-italia,kom,Movistar Team,2.UWT,,0,0,,380.0,0.0,0.0,992.0
+2025-05-09,2025,giro-d-italia,points,Movistar Team,2.UWT,,0,0,,380.0,0.0,0.0,992.0
+2025-10-04,2025,giro-dell-emilia,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2025-09-10,2025,giro-di-toscana,gc,Movistar Team,1.1,,,1,,0.0,,,26.0
+2025-09-21,2025,gooikse-pijl,gc,Movistar Team,1.1,,0,0,,0.0,,,3.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Movistar Team,1.Pro,,,1,,0.0,,,28.0
+2025-02-22,2025,gp-de-la-ville-d-alger,gc,Eritrea,1.2,,0,0,,0.0,,,18.0
+2025-05-10,2025,gp-de-plumelec,gc,Movistar Team,1.Pro,,0,0,,0.0,,,38.0
+2025-01-26,2025,gp-de-valence,gc,Movistar Team,1.1,,0,0,,0.0,,,3.0
+2025-09-17,2025,gp-de-wallonie,gc,Movistar Team,1.Pro,,,1,,0.0,,,55.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Movistar Team,1.Pro,,0,0,,0.0,,,3.0
+2025-09-07,2025,gp-industria-artigianato,gc,Movistar Team,1.Pro,,,1,,0.0,,,8.0
+2025-09-14,2025,gp-montreal,gc,Movistar Team,1.UWT,,0,0,,0.0,,,10.0
+2025-09-12,2025,gp-quebec,gc,Movistar Team,1.UWT,,0,0,,0.0,,,5.0
+2025-02-26,2025,gran-camino,gc,Movistar Team,2.1,,0,0,,40.0,,,48.0
+2025-10-09,2025,gran-piemonte,gc,Movistar Team,1.Pro,,,1,,0.0,,,40.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,Movistar Team,1.Pro,,0,0,,0.0,,,10.0
+2025-02-08,2025,grand-prix-sakiat-sidi-youcef,gc,Eritrea,1.2,,0,0,,0.0,,,40.0
+2025-02-20,2025,grand-prix-sonatrach,gc,Eritrea,1.2,,0,0,,0.0,,,3.0
+2025-02-02,2025,great-ocean-road-race,gc,Movistar Team,1.UWT,,,1,,0.0,,,218.0
+2025-10-11,2025,il-lombardia,gc,Movistar Team,1.UWT,,0,0,,0.0,,,125.0
+2025-04-07,2025,itzulia-basque-country,gc,Movistar Team,2.UWT,,0,0,,328.0,,,373.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Movistar Team,1.Pro,,0,0,,0.0,,,10.0
+2025-03-02,2025,la-drome-classic,gc,Movistar Team,1.Pro,,,1,,0.0,,,6.0
+2025-04-23,2025,la-fleche-wallonne,gc,Movistar Team,1.UWT,,0,0,,0.0,,,36.0
+2025-04-27,2025,liege-bastogne-liege,gc,Movistar Team,1.UWT,,0,0,,0.0,,,20.0
+2025-09-13,2025,memorial-marco-pantani,gc,Movistar Team,1.1,,,1,,0.0,,,126.0
+2025-03-22,2025,milano-sanremo,gc,Movistar Team,1.UWT,,0,0,,0.0,,,125.0
+2025-03-19,2025,milano-torino,gc,Movistar Team,1.Pro,,,1,,0.0,,,88.0
+2025-02-07,2025,muscat-classic,gc,Movistar Team,1.1,,0,0,,0.0,,,33.0
+2025-02-09,2025,nc-colombia,gc,Movistar Team,NC,,0,0,,0.0,,,50.0
+2025-01-31,2025,nc-ecuador-itt,gc,Movistar Team,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-eritrea,gc,Movistar Team,NC,,,1,,0.0,,,60.0
+2025-06-29,2025,nc-germany,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-germany-itt,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,Movistar Team,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-italy-itt,gc,Movistar Team,NC,,0,0,,0.0,,,6.0
+2025-06-29,2025,nc-spain,gc,Movistar Team,NC,,0,0,,0.0,,,100.0
+2025-06-27,2025,nc-spain-itt,gc,Movistar Team,NC,,0,0,,0.0,,,15.0
+2025-06-29,2025,nc-venezuela,gc,Movistar Team,NC,,0,0,,0.0,,,100.0
+2025-06-26,2025,nc-venezuela-itt,gc,Movistar Team,NC,,0,0,,0.0,,,50.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Movistar Team,1.UWT,,0,0,,0.0,,,0.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Movistar Team,1.1,,0,0,,0.0,,,25.0
+2025-03-09,2025,paris-nice,gc,Movistar Team,2.UWT,,0,0,,133.0,,,158.0
+2025-04-13,2025,paris-roubaix,gc,Movistar Team,1.UWT,,0,0,,0.0,,,0.0
+2025-07-25,2025,prueba-villafranca,gc,Movistar Team,1.1,,0,0,,0.0,,,43.0
+2025-01-30,2025,race-torquay,gc,Movistar Team,1.1,,,1,,0.0,,,83.0
+2025-08-20,2025,renewi-tour,gc,Movistar Team,2.UWT,79.0,0.0,1,,16.0,,,29.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Movistar Team,1.UWT,,0,0,,0.0,,,185.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Movistar Team,1.1,,0,0,,0.0,,,46.0
+2025-02-19,2025,ruta-del-sol,gc,Movistar Team,2.Pro,,0,0,,8.0,,,31.0
+2025-08-02,2025,san-sebastian,gc,Movistar Team,1.UWT,,0,0,,0.0,,,8.0
+2025-03-08,2025,strade-bianche,gc,Movistar Team,1.UWT,,,1,,0.0,,,32.0
+2025-03-10,2025,tirreno-adriatico,gc,Movistar Team,2.UWT,99.0,0.0,1,,50.0,,,58.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Movistar Team,2.UWT,,0,0,,190.0,,,275.0
+2025-02-09,2025,tour-d-algerie-cycliste,gc,Eritrea,2.2,,0,0,,0.0,,,21.0
+2025-07-05,2025,tour-de-france,gc,Movistar Team,2.UWT,,0,0,,115.0,0.0,0.0,475.0
+2025-07-05,2025,tour-de-france,kom,Movistar Team,2.UWT,,0,0,,115.0,0.0,0.0,475.0
+2025-07-05,2025,tour-de-france,points,Movistar Team,2.UWT,,0,0,,115.0,0.0,0.0,475.0
+2025-08-04,2025,tour-de-pologne,gc,Movistar Team,2.UWT,45.0,8.0,1,,40.0,,,56.0
+2025-04-29,2025,tour-de-romandie,gc,Movistar Team,2.UWT,,0,0,,100.0,,,128.0
+2025-06-15,2025,tour-de-suisse,gc,Movistar Team,2.UWT,,0,0,,180.0,,,198.0
+2025-07-26,2025,tour-de-wallonie,gc,Movistar Team,2.Pro,6.0,70.0,1,,176.0,,,216.0
+2025-01-21,2025,tour-down-under,gc,Movistar Team,2.UWT,33.0,10.0,1,,420.0,,,500.0
+2025-05-09,2025,tour-du-finistere,gc,Movistar Team,1.1,,0,0,,0.0,,,28.0
+2025-06-18,2025,tour-of-belgium,gc,Movistar Team,2.Pro,,0,0,,70.0,,,85.0
+2025-10-14,2025,tour-of-guangxi,gc,Movistar Team,2.UWT,,0,0,,30.0,,,51.0
+2025-02-08,2025,tour-of-oman,gc,Movistar Team,2.Pro,,0,0,,33.0,,,43.0
+2025-02-23,2025,tour-of-rwanda,gc,Eritrea,2.1,,0,0,,96.0,,,133.0
+2025-10-07,2025,tre-valli-varesine,gc,Movistar Team,1.Pro,,0,0,,0.0,,,5.0
+2025-05-11,2025,tro-bro-leon,gc,Movistar Team,1.Pro,,0,0,,0.0,,,11.0
+2025-01-29,2025,trofeo-calvia,gc,Movistar Team,1.1,,0,0,,0.0,,,40.0
+2025-09-14,2025,trofeo-matteotti,gc,Movistar Team,1.1,,,1,,0.0,,,13.0
+2025-02-02,2025,trofeo-palma,gc,Movistar Team,1.1,,0,0,,0.0,,,3.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Movistar Team,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Movistar Team,1.1,,0,0,,0.0,,,50.0
+2025-02-17,2025,uae-tour,gc,Movistar Team,2.UWT,,0,0,,295.0,,,351.0
+2025-03-24,2025,volta-a-catalunya,gc,Movistar Team,2.UWT,,0,0,,284.0,,,319.0
+2025-08-05,2025,vuelta-a-burgos,gc,Movistar Team,2.Pro,,0,0,,43.0,,,43.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Movistar Team,1.1,,0,0,,0.0,,,8.0
+2025-08-23,2025,vuelta-a-espana,gc,Movistar Team,2.UWT,,0,0,,40.0,0.0,0.0,962.0
+2025-08-23,2025,vuelta-a-espana,kom,Movistar Team,2.UWT,,0,0,,40.0,0.0,0.0,962.0
+2025-08-23,2025,vuelta-a-espana,points,Movistar Team,2.UWT,,0,0,,40.0,0.0,0.0,962.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Movistar Team,2.Pro,,0,0,,140.0,,,168.0
+2025-04-24,2025,vuelta-asturias,gc,Movistar Team,2.1,,0,0,,48.0,,,65.0
+2025-02-15,2025,vuelta-ciclista-a-la-region-de-murcia,gc,Movistar Team,1.1,,0,0,,0.0,,,55.0
+2025-09-28,2025,world-championship,gc,Eritrea,WC,,,1,,0.0,,,30.0

@@ -1,0 +1,722 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-06-10,2017,albani-classic-fyen-rundt,gc,Riwal Platform Cycling Team,1.2,,,1,,0.0,,,23.0
+2017-06-25,2017,danish-championships,gc,Riwal Platform Cycling Team,NC,,,1,,0.0,,,83.0
+2017-04-29,2017,destination-thy,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,10.0
+2017-03-12,2017,dorpenomloop-rucphen,gc,Riwal Platform Cycling Team,1.2,,,1,,0.0,,,0.0
+2017-05-01,2017,eschborn-frankfurt-u23,gc,Riwal Platform Cycling Team,1.2U,,,1,,0.0,,,15.0
+2017-08-05,2017,european-championships-mu,gc,Riwal Platform Cycling Team,CC,,0,0,,0.0,,,0.0
+2017-05-07,2017,fleche-ardennaise,gc,Riwal Platform Cycling Team,1.2,,,1,,0.0,,,3.0
+2017-06-11,2017,gp-horsens,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,18.0
+2017-08-20,2017,gp-jef-scherens,gc,Riwal Platform Cycling Team,1.1,,,1,,0.0,,,15.0
+2017-08-22,2017,gp-stad-zottegem,gc,Riwal Platform Cycling Team,1.1,,,1,,0.0,,,0.0
+2017-05-06,2017,hadeland-gp,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,3.0
+2017-08-05,2017,hansa-bygg-kalmar-grand-prix,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,25.0
+2017-04-28,2017,himmerland-rundt,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,60.0
+2017-07-29,2017,kreiz-breizh-elites,gc,Riwal Platform Cycling Team,2.2,,0,0,,60.0,,,66.0
+2017-04-15,2017,liege-bastogne-liege-u23,gc,Riwal Platform Cycling Team,1.2U,,,1,,0.0,,,0.0
+2017-06-22,2017,nc-denmark-itt,gc,Riwal Platform Cycling Team,NC,,0,0,,0.0,,,0.0
+2017-08-31,2017,okolo-jiznich-cech,gc,Riwal Platform Cycling Team,2.2,,0,0,,23.0,,,29.0
+2017-05-21,2017,ras-tailteann,gc,Riwal Platform Cycling Team,2.2,,,1,,23.0,,,33.0
+2017-05-07,2017,ringerike-gp,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,28.0
+2017-03-11,2017,ronde-van-drenthe,gc,Riwal Platform Cycling Team,1.1,,,1,,0.0,,,0.0
+2017-05-06,2017,ronde-van-overijssel,gc,Riwal Platform Cycling Team,1.2,,,1,,0.0,,,55.0
+2017-05-13,2017,scandinavian-race-uppsala,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,48.0
+2017-04-30,2017,skive-lobet,gc,Riwal Platform Cycling Team,1.2,,0,0,,0.0,,,50.0
+2017-03-20,2017,tour-de-normadie,gc,Riwal Platform Cycling Team,2.2,,0,0,,10.0,,,11.0
+2017-05-24,2017,tour-des-fjords,gc,Riwal Platform Cycling Team,2.1,,0,0,,8.0,,,8.0
+2017-04-08,2017,tour-des-flandres-espoirs,gc,Riwal Platform Cycling Team,1.Ncup,,,1,,0.0,,,0.0
+2017-04-12,2017,tour-du-loir-et-cher,gc,Riwal Platform Cycling Team,2.2,,0,0,,30.0,,,37.0
+2017-09-12,2017,tour-of-denmark,gc,Riwal Platform Cycling Team,2.HC,81.0,0.0,1,,48.0,,,48.0
+2017-06-09,2017,tour-of-malopolska,gc,Riwal Platform Cycling Team,2.2,,0,0,,28.0,,,29.0
+2017-04-01,2017,volta-nxt-classic,gc,Riwal Platform Cycling Team,1.1,,0,0,,0.0,,,3.0
+2018-06-16,2018,albani-classic-fyen-rundt,gc,Denmark,1.1,,0,0,,0.0,,,88.0
+2018-06-16,2018,albani-classic-fyen-rundt,gc,Riwal CeramicSpeed Cycling Team,1.1,,0,0,,0.0,,,0.0
+2018-09-09,2018,chrono-champenois-masculin,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,20.0
+2018-10-14,2018,chrono-des-nations-u23,gc,Riwal CeramicSpeed Cycling Team,1.2U,,0,0,,0.0,,,30.0
+2018-07-01,2018,danish-championships,gc,Riwal CeramicSpeed Cycling Team,NC,,,1,,0.0,,,40.0
+2018-07-25,2018,dookola-mazowsza,gc,Riwal CeramicSpeed Cycling Team,2.2,,0,0,,10.0,,,13.0
+2018-03-11,2018,dorpenomloop-rucphen,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,0.0
+2018-05-09,2018,fleche-du-sud,gc,Riwal CeramicSpeed Cycling Team,2.2,4.0,20.0,1,,20.0,,,27.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Denmark,2.2U,,,1,,20.0,,,25.0
+2018-09-23,2018,gooikse-pijl,gc,Riwal CeramicSpeed Cycling Team,1.1,,0,0,,0.0,,,75.0
+2018-06-17,2018,gp-horsens,gc,Denmark,1.1,,0,0,,0.0,,,60.0
+2018-06-17,2018,gp-horsens,gc,Riwal CeramicSpeed Cycling Team,1.1,,0,0,,0.0,,,3.0
+2018-08-21,2018,gp-stad-zottegem,gc,Riwal CeramicSpeed Cycling Team,1.1,,0,0,,0.0,,,3.0
+2018-09-02,2018,gylne-gutuer,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,3.0
+2018-05-05,2018,hadeland-gp,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,0.0
+2018-08-31,2018,hafjell-gp,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,20.0
+2018-04-28,2018,himmerland-rundt,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,5.0
+2018-09-01,2018,lillehammer-gp,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,33.0
+2018-06-28,2018,nc-denmark-itt,gc,Riwal CeramicSpeed Cycling Team,NC,,,1,,0.0,,,10.0
+2018-09-12,2018,okolo-slovenska,gc,Riwal CeramicSpeed Cycling Team,2.1,,0,0,,0.0,,,0.0
+2018-05-06,2018,ringerike-gp,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,20.0
+2018-03-11,2018,ronde-van-drenthe,gc,Riwal CeramicSpeed Cycling Team,1.HC,,,1,,0.0,,,8.0
+2018-05-12,2018,scandinavian-race-uppsala,gc,Riwal CeramicSpeed Cycling Team,1.2,,0,0,,0.0,,,20.0
+2018-04-29,2018,skive-lobet,gc,Riwal CeramicSpeed Cycling Team,1.2,,,1,,0.0,,,40.0
+2018-03-19,2018,tour-de-normadie,gc,Riwal CeramicSpeed Cycling Team,2.2,,0,0,,15.0,,,15.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Denmark,1.Ncup,,,1,,0.0,,,25.0
+2018-04-11,2018,tour-du-loir-et-cher,gc,Riwal CeramicSpeed Cycling Team,2.2,,0,0,,5.0,,,9.0
+2018-02-22,2018,tour-of-antalya,gc,Denmark,2.2,,0,0,,0.0,,,0.0
+2018-08-01,2018,tour-of-denmark,gc,Denmark,2.HC,,0,0,,65.0,,,85.0
+2018-08-01,2018,tour-of-denmark,gc,Riwal CeramicSpeed Cycling Team,2.HC,,0,0,,8.0,,,8.0
+2018-05-25,2018,tour-of-estonia,gc,Riwal CeramicSpeed Cycling Team,2.1,16.0,3.0,1,,101.0,,,118.0
+2018-06-08,2018,tour-of-malopolska,gc,Riwal CeramicSpeed Cycling Team,2.2,,0,0,,20.0,,,23.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,5.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Denmark,CC,,0,0,,0.0,,,10.0
+2018-08-22,2018,veenendaal-veenendaal,gc,Riwal CeramicSpeed Cycling Team,1.1,,0,0,,0.0,,,40.0
+2018-03-31,2018,volta-nxt-classic,gc,Riwal CeramicSpeed Cycling Team,1.1,,,1,,0.0,,,0.0
+2018-09-30,2018,world-championship,gc,Denmark,WC,,0,0,,0.0,,,215.0
+2018-09-26,2018,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,55.0
+2019-08-18,2019,albani-classic-fyen-rundt,gc,Riwal Readynez Cycling Team,1.2,,0,0,,0.0,,,60.0
+2019-08-15,2019,arctic-race-of-norway,gc,Riwal Readynez Cycling Team,2.HC,,0,0,,95.0,,,95.0
+2019-04-17,2019,brabantse-pijl,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,50.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,3.0
+2019-10-20,2019,chrono-des-nations,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,60.0
+2019-04-12,2019,circuit-des-ardennes,gc,Riwal Readynez Cycling Team,2.2,,0,0,,40.0,,,47.0
+2019-06-23,2019,circuit-des-xi-villes,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,3.0
+2019-10-05,2019,circuit-franco-belge,gc,Riwal Readynez Cycling Team,1.HC,,,1,,0.0,,,0.0
+2019-06-30,2019,danish-championships,gc,Riwal Readynez Cycling Team,NC,,,1,,0.0,,,50.0
+2019-06-21,2019,dwars-door-het-hageland,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-10-06,2019,famenne-ardenne-classic,gc,Riwal Readynez Cycling Team,1.1,,,1,,0.0,,,5.0
+2019-03-02,2019,faun-ardeche-classic,gc,Riwal Readynez Cycling Team,1.1,,,1,,0.0,,,3.0
+2019-04-03,2019,giro-di-sicilia,gc,Riwal Readynez Cycling Team,2.1,53.0,0.0,1,,6.0,,,6.0
+2019-07-25,2019,gp-cerami,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-03-24,2019,gp-de-denain,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,13.0
+2019-09-18,2019,gp-de-wallonie,gc,Riwal Readynez Cycling Team,1.1,,,1,,0.0,,,3.0
+2019-03-10,2019,gp-industria-artigianato,gc,Riwal Readynez Cycling Team,1.HC,,,1,,0.0,,,68.0
+2019-09-01,2019,gp-jef-scherens,gc,Riwal Readynez Cycling Team,1.1,,,1,,0.0,,,3.0
+2019-05-26,2019,grote-prijs-marcel-kint,gc,Riwal Readynez Cycling Team,1.1,,,1,,0.0,,,50.0
+2019-09-08,2019,gylne-gutuer,gc,Riwal Readynez Cycling Team,1.2,,,1,,0.0,,,3.0
+2019-05-11,2019,hadeland-gp,gc,Riwal Readynez Cycling Team,1.2,,,1,,0.0,,,30.0
+2019-09-06,2019,hafjell-gp,gc,Riwal Readynez Cycling Team,1.2,,,1,,0.0,,,40.0
+2019-08-03,2019,hansa-bygg-kalmar-grand-prix,gc,Riwal Readynez Cycling Team,1.2,,0,0,,0.0,,,35.0
+2019-06-22,2019,heist-op-den-berg,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,3.0
+2019-05-04,2019,himmerland-rundt,gc,Riwal Readynez Cycling Team,1.2,,,1,,0.0,,,30.0
+2019-03-03,2019,la-drome-classic,gc,Riwal Readynez Cycling Team,1.1,,,1,,0.0,,,60.0
+2019-09-07,2019,lillehammer-gp,gc,Riwal Readynez Cycling Team,1.2,,,1,,0.0,,,0.0
+2019-06-27,2019,nc-denmark-itt,gc,Riwal Readynez Cycling Team,NC,,,1,,0.0,,,18.0
+2019-06-30,2019,nc-norway,gc,Riwal Readynez Cycling Team,NC,,0,0,,0.0,,,1.0
+2019-06-27,2019,nc-norway-itt,gc,Riwal Readynez Cycling Team,NC,,0,0,,0.0,,,5.0
+2019-06-30,2019,nc-sweden,gc,Riwal Readynez Cycling Team,NC,,0,0,,0.0,,,110.0
+2019-03-20,2019,nokere-koerse,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,0.0
+2019-08-31,2019,omloop-mandel-leie-schelde-meulebeke,gc,Riwal Readynez Cycling Team,1.1,,,1,,0.0,,,3.0
+2019-10-13,2019,paris-tours,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,5.0
+2019-05-12,2019,ringerike-gp,gc,Riwal Readynez Cycling Team,1.2,,,1,,0.0,,,40.0
+2019-03-17,2019,ronde-van-drenthe,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,5.0
+2019-05-11,2019,scandinavian-race-uppsala,gc,Riwal Readynez Cycling Team,1.2,,0,0,,0.0,,,90.0
+2019-04-10,2019,scheldeprijs,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,23.0
+2019-05-05,2019,skive-lobet,gc,Riwal Readynez Cycling Team,1.2,,,1,,0.0,,,20.0
+2019-08-01,2019,tour-alsace,gc,Riwal Readynez Cycling Team,2.2,8.0,3.0,1,,3.0,,,3.0
+2019-06-05,2019,tour-de-luxembourg,gc,Riwal Readynez Cycling Team,2.HC,,0,0,,5.0,,,5.0
+2019-03-25,2019,tour-de-normadie,gc,Riwal Readynez Cycling Team,2.2,,0,0,,0.0,,,10.0
+2019-07-27,2019,tour-de-wallonie,gc,Riwal Readynez Cycling Team,2.HC,,0,0,,8.0,,,8.0
+2019-05-02,2019,tour-de-yorkshire,gc,Riwal Readynez Cycling Team,2.HC,,0,0,,119.0,,,139.0
+2019-02-22,2019,tour-des-alpes-maritimes,gc,Riwal Readynez Cycling Team,2.1,,0,0,,9.0,,,9.0
+2019-04-20,2019,tour-du-finistere,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,0.0
+2019-06-12,2019,tour-of-belgium,gc,Riwal Readynez Cycling Team,2.HC,5.0,85.0,1,,90.0,,,100.0
+2019-09-07,2019,tour-of-britain,gc,Riwal Readynez Cycling Team,2.HC,,0,0,,10.0,,,10.0
+2019-08-21,2019,tour-of-denmark,gc,Riwal Readynez Cycling Team,2.HC,,0,0,,128.0,,,138.0
+2019-05-28,2019,tour-of-norway,gc,Riwal Readynez Cycling Team,2.HC,,0,0,,5.0,,,5.0
+2019-04-22,2019,tro-bro-leon,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,75.0
+2019-02-17,2019,trofeo-laigueglia,gc,Riwal Readynez Cycling Team,1.HC,,0,0,,0.0,,,10.0
+2019-04-06,2019,volta-nxt-classic,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,5.0
+2020-02-04,2020,alula-tour,gc,Riwal Readynez Cycling Team,2.1,8.0,30.0,1,,53.0,,,56.0
+2020-09-13,2020,antwerp-port-epic,gc,Riwal Securitas Cycling Team,1.1,,0,0,,0.0,,,3.0
+2020-10-07,2020,brabantse-pijl,gc,Riwal Securitas Cycling Team,1.Pro,,,1,,0.0,,,15.0
+2020-08-30,2020,brussels-cycling-classic,gc,Riwal Securitas Cycling Team,1.Pro,,,1,,0.0,,,23.0
+2020-02-16,2020,clasica-de-almeria,gc,Riwal Readynez Cycling Team,1.Pro,,0,0,,0.0,,,3.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Riwal Securitas Cycling Team,1.UWT,,0,0,,0.0,,,5.0
+2020-08-23,2020,danish-championships,gc,Riwal Securitas Cycling Team,NC,,,1,,0.0,,,85.0
+2020-03-08,2020,dorpenomloop-rucphen,gc,Riwal Readynez Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-08-29,2020,druivenkoers-overijse,gc,Riwal Securitas Cycling Team,1.1,,,1,,0.0,,,30.0
+2020-08-15,2020,dwars-door-het-hageland,gc,Riwal Readynez Cycling Team,1.Pro,,0,0,,0.0,,,3.0
+2020-02-29,2020,faun-ardeche-classic,gc,Riwal Readynez Cycling Team,1.Pro,,0,0,,0.0,,,13.0
+2020-09-20,2020,gooikse-pijl,gc,Riwal Securitas Cycling Team,1.1,,0,0,,0.0,,,80.0
+2020-03-03,2020,gp-samyn,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,0.0
+2020-03-08,2020,grote-prijs-jean-pierre-monsere,gc,Riwal Readynez Cycling Team,1.1,,0,0,,0.0,,,6.0
+2020-09-06,2020,gylne-gutuer,gc,Riwal Securitas Cycling Team,1.2,,0,0,,0.0,,,30.0
+2020-09-04,2020,hafjell-gp,gc,Riwal Securitas Cycling Team,1.2,,0,0,,0.0,,,20.0
+2020-03-01,2020,la-drome-classic,gc,Riwal Readynez Cycling Team,1.Pro,,0,0,,0.0,,,8.0
+2020-08-01,2020,la-route-d-occitanie,gc,Riwal Readynez Cycling Team,2.1,,,1,,0.0,,,0.0
+2020-09-05,2020,lillehammer-gp,gc,Riwal Securitas Cycling Team,1.2,,0,0,,0.0,,,10.0
+2020-08-23,2020,nc-netherlands,gc,Riwal Securitas Cycling Team,NC,,0,0,,0.0,,,31.0
+2020-08-23,2020,nc-norway,gc,Riwal Securitas Cycling Team,NC,,0,0,,0.0,,,0.0
+2020-10-04,2020,nc-sweden,gc,Riwal Securitas Cycling Team,NC,,0,0,,0.0,,,160.0
+2020-09-22,2020,paris-camembert,gc,Riwal Securitas Cycling Team,1.1,,,1,,0.0,,,0.0
+2020-10-11,2020,paris-tours,gc,Riwal Securitas Cycling Team,1.Pro,,0,0,,0.0,,,55.0
+2020-02-19,2020,ruta-del-sol,gc,Riwal Readynez Cycling Team,2.Pro,,0,0,,3.0,,,3.0
+2020-10-14,2020,scheldeprijs,gc,Riwal Securitas Cycling Team,1.Pro,,0,0,,0.0,,,60.0
+2020-09-15,2020,tour-de-luxembourg,gc,Riwal Securitas Cycling Team,2.Pro,5.0,85.0,1,,85.0,,,105.0
+2020-08-16,2020,tour-de-wallonie,gc,Riwal Readynez Cycling Team,2.Pro,42.0,0.0,1,,25.0,,,25.0
+2020-02-21,2020,tour-des-alpes-maritimes,gc,Riwal Readynez Cycling Team,2.1,,,1,,0.0,,,0.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Riwal Securitas Cycling Team,2.1,,0,0,,38.0,,,38.0
+2020-02-16,2020,trofeo-laigueglia,gc,Riwal Readynez Cycling Team,1.Pro,,,1,,0.0,,,45.0
+2020-02-14,2020,vuelta-ciclista-a-la-region-de-murcia,gc,Riwal Readynez Cycling Team,2.1,,0,0,,0.0,,,0.0
+2021-04-18,2021,amstel-gold-race,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,115.0
+2021-04-14,2021,brabantse-pijl,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,20.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,5.0
+2021-08-29,2021,bretagne-classic,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,2.0
+2021-08-28,2021,brussels-cycling-classic,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,230.0
+2021-05-13,2021,circuit-de-wallonie,gc,Lotto Soudal,1.1,,0,0,,0.0,,,33.0
+2021-06-06,2021,circuit-des-xi-villes,gc,Lotto Soudal,1.1,,0,0,,0.0,,,18.0
+2021-09-29,2021,circuit-franco-belge,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,15.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,20.0
+2021-06-20,2021,danish-championships,gc,Lotto Soudal,NC,,,1,,0.0,,,3.0
+2021-08-26,2021,druivenkoers-overijse,gc,Lotto Soudal,1.1,,0,0,,0.0,,,28.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,130.0
+2021-03-26,2021,e3-harelbeke,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,64.0
+2021-09-19,2021,eschborn-frankfurt,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,255.0
+2021-02-03,2021,etoile-de-besseges,gc,Lotto Soudal,2.1,62.0,0.0,1,,145.0,,,159.0
+2021-03-28,2021,gent-wevelgem,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,40.0
+2021-05-08,2021,giro-d-italia,gc,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,232.0
+2021-05-08,2021,giro-d-italia,kom,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,232.0
+2021-05-08,2021,giro-d-italia,points,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,232.0
+2021-10-02,2021,giro-dell-emilia,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,10.0
+2021-01-31,2021,gp-d-ouverture,gc,Lotto Soudal,1.1,,,1,,0.0,,,40.0
+2021-09-12,2021,gp-de-fourmies,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,155.0
+2021-09-15,2021,gp-de-wallonie,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,138.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,153.0
+2021-03-02,2021,gp-samyn,gc,Lotto Soudal,1.1,,0,0,,0.0,,,35.0
+2021-10-07,2021,gran-piemonte,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,43.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Lotto Soudal,1.1,,0,0,,0.0,,,0.0
+2021-10-09,2021,il-lombardia,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,10.0
+2021-04-05,2021,itzulia-basque-country,gc,Lotto Soudal,2.UWT,,0,0,,0.0,,,0.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Lotto Soudal,1.1,,0,0,,0.0,,,3.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,10.0
+2021-04-21,2021,la-fleche-wallonne,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,8.0
+2021-04-25,2021,liege-bastogne-liege,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,20.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,Lotto Soudal,1.1,,0,0,,0.0,,,3.0
+2021-03-20,2021,milano-sanremo,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,410.0
+2021-06-20,2021,nc-belgium,gc,Lotto Soudal,NC,,0,0,,0.0,,,20.0
+2021-06-16,2021,nc-belgium-itt,gc,Lotto Soudal,NC,,0,0,,0.0,,,16.0
+2021-06-20,2021,nc-germany,gc,Lotto Soudal,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,Lotto Soudal,NC,,0,0,,0.0,,,0.0
+2021-10-17,2021,ncgreat-britain,gc,Lotto Soudal,NC,,0,0,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,5.0
+2021-07-24,2021,olympic-games,gc,Denmark,Olympics,,0,0,,0.0,,,70.0
+2021-07-28,2021,olympic-games-itt,gc,Denmark,Olympics,,0,0,,0.0,,,85.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,132.0
+2021-09-23,2021,omloop-van-het-houtland-lichtervelde,gc,Lotto Soudal,1.1,,0,0,,0.0,,,70.0
+2021-03-07,2021,paris-nice,gc,Lotto Soudal,2.UWT,,0,0,,73.0,,,73.0
+2021-10-03,2021,paris-roubaix,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,445.0
+2021-10-10,2021,paris-tours,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,3.0
+2021-08-30,2021,renewi-tour,gc,Lotto Soudal,2.UWT,,0,0,,244.0,,,294.0
+2021-05-24,2021,ronde-van-limburg,gc,Lotto Soudal,1.1,,0,0,,0.0,,,70.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,40.0
+2021-07-31,2021,san-sebastian,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,72.0
+2021-04-07,2021,scheldeprijs,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,8.0
+2021-03-06,2021,strade-bianche,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,43.0
+2021-03-10,2021,tirreno-adriatico,gc,Lotto Soudal,2.UWT,,0,0,,160.0,,,210.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Lotto Soudal,2.UWT,,0,0,,10.0,,,70.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Lotto Soudal,2.Pro,,0,0,,3.0,,,3.0
+2021-06-26,2021,tour-de-france,gc,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,25.0
+2021-06-26,2021,tour-de-france,kom,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,25.0
+2021-06-26,2021,tour-de-france,points,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,25.0
+2021-07-29,2021,tour-de-l-ain,gc,Lotto Soudal,2.1,13.0,5.0,1,,95.0,,,98.0
+2021-09-14,2021,tour-de-luxembourg,gc,Lotto Soudal,2.Pro,,0,0,,15.0,,,15.0
+2021-08-09,2021,tour-de-pologne,gc,Lotto Soudal,2.UWT,,0,0,,182.0,,,190.0
+2021-04-27,2021,tour-de-romandie,gc,Lotto Soudal,2.UWT,61.0,0.0,1,,30.0,,,30.0
+2021-06-06,2021,tour-de-suisse,gc,Lotto Soudal,2.UWT,20.0,30.0,1,,40.0,,,100.0
+2021-07-20,2021,tour-de-wallonie,gc,Lotto Soudal,2.Pro,,0,0,,70.0,,,70.0
+2021-06-09,2021,tour-of-belgium,gc,Lotto Soudal,2.Pro,,0,0,,68.0,,,108.0
+2021-08-10,2021,tour-of-denmark,gc,Denmark,2.Pro,,0,0,,10.0,,,10.0
+2021-08-10,2021,tour-of-denmark,gc,Lotto Soudal,2.Pro,,0,0,,91.0,,,101.0
+2021-08-19,2021,tour-of-norway,gc,Lotto Soudal,2.Pro,,0,0,,10.0,,,20.0
+2021-10-05,2021,tre-valli-varesine,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,91.0
+2021-05-16,2021,tro-bro-leon,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,105.0
+2021-02-21,2021,uae-tour,gc,Lotto Soudal,2.UWT,,0,0,,12.0,,,58.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,15.0
+2021-03-22,2021,volta-a-catalunya,gc,Lotto Soudal,2.UWT,,,1,,28.0,,,128.0
+2021-07-29,2021,vuelta-a-castilla-y-leon,gc,Lotto Soudal,1.1,,0,0,,0.0,,,98.0
+2021-08-14,2021,vuelta-a-espana,gc,Lotto Soudal,2.UWT,68.0,0.0,1,,40.0,0.0,0.0,44.0
+2021-08-14,2021,vuelta-a-espana,kom,Lotto Soudal,2.UWT,,,1,,40.0,0.0,0.0,44.0
+2021-08-14,2021,vuelta-a-espana,points,Lotto Soudal,2.UWT,28.0,0.0,1,,40.0,0.0,0.0,44.0
+2021-04-14,2021,vuelta-a-la-comunidad-valenciana,gc,Lotto Soudal,2.Pro,,0,0,,5.0,,,20.0
+2021-09-26,2021,world-championship,gc,Denmark,WC,,,1,,0.0,,,400.0
+2021-09-19,2021,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,155.0
+2022-05-03,2022,4-jours-de-dunkerque,gc,Lotto Soudal,2.Pro,12.0,25.0,1,,233.0,,,253.0
+2022-02-01,2022,alula-tour,gc,Lotto Soudal,2.1,,0,0,,125.0,,,156.0
+2022-04-10,2022,amstel-gold-race,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,53.0
+2022-05-22,2022,antwerp-port-epic,gc,Lotto Soudal,1.1,,0,0,,0.0,,,158.0
+2022-04-13,2022,brabantse-pijl,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,45.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,46.0
+2022-08-28,2022,bretagne-classic,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,276.0
+2022-06-05,2022,brussels-cycling-classic,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,13.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Lotto Soudal,1.1,,,1,,0.0,,,0.0
+2022-05-26,2022,circuit-de-wallonie,gc,Lotto Soudal,1.1,,0,0,,0.0,,,120.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Lotto Soudal,1.1,,0,0,,0.0,,,85.0
+2022-08-10,2022,circuit-franco-belge,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,305.0
+2022-07-31,2022,circuito-de-getxo,gc,Lotto Soudal,1.1,,,1,,0.0,,,0.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Lotto Soudal,1.1,,,1,,0.0,,,140.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,75.0
+2022-04-15,2022,classic-grand-besancon-doubs,gc,Lotto Soudal,1.1,,0,0,,0.0,,,90.0
+2022-09-29,2022,coppa-agostoni,gc,Lotto Soudal,1.1,,,1,,0.0,,,5.0
+2022-10-03,2022,coppa-bernocchi,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,33.0
+2022-08-21,2022,cyclassics-hamburg,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,16.0
+2022-06-26,2022,danish-championships,gc,Lotto Soudal,NC,,,1,,0.0,,,0.0
+2022-01-28,2022,deia-trophy,gc,Lotto Soudal,1.1,,0,0,,0.0,,,125.0
+2022-08-24,2022,deutschland-tour,gc,Lotto Soudal,2.Pro,,0,0,,65.0,,,85.0
+2022-08-24,2022,druivenkoers-overijse,gc,Lotto Soudal,1.1,,0,0,,0.0,,,33.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,103.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,182.0
+2022-03-25,2022,e3-harelbeke,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,16.0
+2022-05-01,2022,eschborn-frankfurt,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,112.0
+2022-10-02,2022,famenne-ardenne-classic,gc,Lotto Soudal,1.1,,0,0,,0.0,,,5.0
+2022-02-26,2022,faun-ardeche-classic,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,40.0
+2022-03-27,2022,gent-wevelgem,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,70.0
+2022-05-06,2022,giro-d-italia,gc,Lotto Soudal,2.UWT,,0,0,,16.0,0.0,0.0,184.0
+2022-05-06,2022,giro-d-italia,kom,Lotto Soudal,2.UWT,,0,0,,16.0,0.0,0.0,184.0
+2022-05-06,2022,giro-d-italia,points,Lotto Soudal,2.UWT,,0,0,,16.0,0.0,0.0,184.0
+2022-10-12,2022,giro-del-veneto,gc,Lotto Soudal,1.1,,,1,,0.0,,,28.0
+2022-10-01,2022,giro-dell-emilia,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,3.0
+2022-09-14,2022,giro-di-toscana,gc,Lotto Soudal,1.1,,,1,,0.0,,,35.0
+2022-09-18,2022,gooikse-pijl,gc,Lotto Soudal,1.1,,0,0,,0.0,,,40.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,63.0
+2022-09-18,2022,gp-d-isbergues,gc,Lotto Soudal,1.1,,0,0,,0.0,,,35.0
+2022-01-30,2022,gp-d-ouverture,gc,Lotto Soudal,1.1,,0,0,,0.0,,,3.0
+2022-09-11,2022,gp-de-fourmies,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,205.0
+2022-05-14,2022,gp-de-plumelec,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,73.0
+2022-09-14,2022,gp-de-wallonie,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,90.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Lotto Soudal,1.1,,,1,,0.0,,,105.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,23.0
+2022-08-07,2022,gp-jef-scherens,gc,Lotto Soudal,1.1,,0,0,,0.0,,,193.0
+2022-09-11,2022,gp-montreal,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,33.0
+2022-09-09,2022,gp-quebec,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,60.0
+2022-03-01,2022,gp-samyn,gc,Lotto Soudal,1.1,,0,0,,0.0,,,60.0
+2022-08-23,2022,gp-stad-zottegem,gc,Lotto Soudal,1.1,,0,0,,0.0,,,195.0
+2022-10-06,2022,gran-piemonte,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,5.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,45.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,Lotto Soudal,1.1,,0,0,,0.0,,,128.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,Lotto Soudal,1.1,,0,0,,0.0,,,134.0
+2022-06-04,2022,heist-op-den-berg,gc,Lotto Soudal,1.1,,0,0,,0.0,,,130.0
+2022-10-08,2022,il-lombardia,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,13.0
+2022-04-04,2022,itzulia-basque-country,gc,Lotto Soudal,2.UWT,,0,0,,24.0,,,24.0
+2022-10-16,2022,japan-cup,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,136.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Lotto Soudal,1.1,,0,0,,0.0,,,85.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,150.0
+2022-02-27,2022,la-drome-classic,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,10.0
+2022-04-20,2022,la-fleche-wallonne,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,32.0
+2022-08-14,2022,la-poly-normande,gc,Lotto Soudal,1.1,,,1,,0.0,,,43.0
+2022-04-24,2022,liege-bastogne-liege,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,30.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Lotto Soudal,1.1,,0,0,,0.0,,,43.0
+2022-10-09,2022,memorial-rik-van-steenbergen,gc,Lotto Soudal,1.1,,0,0,,0.0,,,85.0
+2022-05-31,2022,mercan-tour-classic-alpes-maritimes,gc,Lotto Soudal,1.1,,,1,,0.0,,,53.0
+2022-03-19,2022,milano-sanremo,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,10.0
+2022-10-03,2022,munsterland-giro,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,10.0
+2022-06-26,2022,nc-belgium,gc,Lotto Soudal,NC,,0,0,,0.0,,,30.0
+2022-06-23,2022,nc-belgium-itt,gc,Lotto Soudal,NC,,0,0,,0.0,,,35.0
+2022-06-26,2022,nc-italy,gc,Lotto Soudal,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-poland,gc,Lotto Soudal,NC,,0,0,,0.0,,,0.0
+2022-03-16,2022,nokere-koerse,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,130.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,135.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Lotto Soudal,1.1,,0,0,,0.0,,,85.0
+2022-10-06,2022,paris-bourges,gc,Lotto Soudal,1.1,,0,0,,0.0,,,30.0
+2022-09-25,2022,paris-chauny-classique,gc,Lotto Soudal,1.1,,0,0,,0.0,,,50.0
+2022-03-06,2022,paris-nice,gc,Lotto Soudal,2.UWT,,0,0,,35.0,,,35.0
+2022-04-17,2022,paris-roubaix,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,26.0
+2022-10-09,2022,paris-tours,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,13.0
+2022-06-06,2022,ronde-van-limburg,gc,Lotto Soudal,1.1,,0,0,,0.0,,,125.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Lotto Soudal,1.UWT,,0,0,,0.0,,,20.0
+2022-05-22,2022,rund-um-koln,gc,Lotto Soudal,1.1,,,1,,0.0,,,3.0
+2022-02-16,2022,ruta-del-sol,gc,Lotto Soudal,2.Pro,,0,0,,5.0,,,5.0
+2022-07-30,2022,san-sebastian,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,8.0
+2022-08-21,2022,schaal-schels,gc,Lotto Soudal,1.1,,0,0,,0.0,,,128.0
+2022-04-06,2022,scheldeprijs,gc,Lotto Soudal,1.Pro,,0,0,,0.0,,,55.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Lotto Soudal,2.1,,0,0,,88.0,,,93.0
+2022-03-05,2022,strade-bianche,gc,Lotto Soudal,1.UWT,,,1,,0.0,,,90.0
+2022-03-07,2022,tirreno-adriatico,gc,Lotto Soudal,2.UWT,,0,0,,0.0,,,60.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Lotto Soudal,2.UWT,,0,0,,50.0,,,50.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Lotto Soudal,2.Pro,,0,0,,11.0,,,11.0
+2022-07-01,2022,tour-de-france,gc,Lotto Soudal,2.UWT,72.0,0.0,1,,0.0,0.0,0.0,15.0
+2022-07-01,2022,tour-de-france,kom,Lotto Soudal,2.UWT,,,1,,0.0,0.0,0.0,15.0
+2022-07-01,2022,tour-de-france,points,Lotto Soudal,2.UWT,36.0,0.0,1,,0.0,0.0,0.0,15.0
+2022-08-09,2022,tour-de-l-ain,gc,Lotto Soudal,2.1,,0,0,,8.0,,,13.0
+2022-10-11,2022,tour-de-langkawi,gc,Lotto Soudal,2.Pro,,0,0,,8.0,,,8.0
+2022-07-30,2022,tour-de-pologne,gc,Lotto Soudal,2.UWT,,0,0,,72.0,,,72.0
+2022-04-26,2022,tour-de-romandie,gc,Lotto Soudal,2.UWT,,0,0,,70.0,,,70.0
+2022-06-12,2022,tour-de-suisse,gc,Lotto Soudal,2.UWT,16.0,30.0,1,,80.0,,,90.0
+2022-07-23,2022,tour-de-wallonie,gc,Lotto Soudal,2.Pro,,0,0,,110.0,,,130.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,Lotto Soudal,2.1,8.0,30.0,1,,115.0,,,143.0
+2022-09-04,2022,tour-du-doubs,gc,Lotto Soudal,1.1,,0,0,,0.0,,,33.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,Lotto Soudal,1.1,,0,0,,0.0,,,0.0
+2022-08-16,2022,tour-du-limousin,gc,Lotto Soudal,2.1,,,1,,3.0,,,3.0
+2022-06-15,2022,tour-of-belgium,gc,Lotto Soudal,2.Pro,,0,0,,235.0,,,250.0
+2022-04-10,2022,tour-of-turkey,gc,Lotto Soudal,2.Pro,,0,0,,88.0,,,133.0
+2022-10-04,2022,tre-valli-varesine,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,0.0
+2022-05-15,2022,tro-bro-leon,gc,Lotto Soudal,1.Pro,,,1,,0.0,,,178.0
+2022-01-26,2022,trofeo-calvia,gc,Lotto Soudal,1.1,,,1,,0.0,,,68.0
+2022-01-30,2022,trofeo-palma,gc,Lotto Soudal,1.1,,,1,,0.0,,,125.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Lotto Soudal,1.1,,,1,,0.0,,,33.0
+2022-02-20,2022,uae-tour,gc,Lotto Soudal,2.UWT,,0,0,,5.0,,,5.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Lotto Soudal,1.1,,0,0,,0.0,,,70.0
+2022-10-16,2022,veneto-classic,gc,Lotto Soudal,1.1,,,1,,0.0,,,28.0
+2022-03-21,2022,volta-a-catalunya,gc,Lotto Soudal,2.UWT,,0,0,,16.0,,,16.0
+2022-04-02,2022,volta-nxt-classic,gc,Lotto Soudal,1.1,,,1,,0.0,,,140.0
+2022-08-20,2022,vuelta-a-espana,gc,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,8.0
+2022-08-20,2022,vuelta-a-espana,kom,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,8.0
+2022-08-20,2022,vuelta-a-espana,points,Lotto Soudal,2.UWT,,0,0,,0.0,0.0,0.0,8.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Lotto Dstny,2.Pro,,0,0,,120.0,,,125.0
+2023-05-14,2023,albani-classic-fyen-rundt,gc,Denmark,1.2,,0,0,,0.0,,,25.0
+2023-04-16,2023,amstel-gold-race,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,455.0
+2023-05-21,2023,antwerp-port-epic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,60.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Lotto Dstny,1.1,,0,0,,0.0,,,88.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Lotto Dstny,2.Pro,,0,0,,88.0,,,106.0
+2023-04-12,2023,brabantse-pijl,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,66.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,75.0
+2023-09-03,2023,bretagne-classic,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,214.0
+2023-06-04,2023,brussels-cycling-classic,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,40.0
+2023-10-15,2023,chrono-des-nations,gc,Lotto Dstny,1.1,,0,0,,0.0,,,15.0
+2023-05-18,2023,circuit-de-wallonie,gc,Lotto Dstny,1.1,,0,0,,0.0,,,60.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Lotto Dstny,1.1,,0,0,,0.0,,,90.0
+2023-09-28,2023,circuit-franco-belge,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,226.0
+2023-02-12,2023,clasica-de-almeria,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,188.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Lotto Dstny,1.1,,,1,,0.0,,,55.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,292.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,Lotto Dstny,1.1,,0,0,,0.0,,,10.0
+2023-10-02,2023,coppa-bernocchi,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,3.0
+2023-08-20,2023,cyclassics-hamburg,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,120.0
+2023-06-25,2023,danish-championships,gc,Lotto Dstny,NC,,,1,,0.0,,,60.0
+2023-01-28,2023,deia-trophy,gc,Lotto Dstny,1.1,,0,0,,0.0,,,105.0
+2023-08-23,2023,deutschland-tour,gc,Lotto Dstny,2.Pro,,0,0,,3.0,,,6.0
+2023-08-19,2023,druivenkoers-overijse,gc,Lotto Dstny,1.1,,0,0,,0.0,,,206.0
+2023-06-10,2023,dwars-door-het-hageland,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,145.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,130.0
+2023-03-24,2023,e3-harelbeke,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,32.0
+2023-05-01,2023,eschborn-frankfurt,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,45.0
+2023-02-01,2023,etoile-de-besseges,gc,Lotto Dstny,2.1,,0,0,,38.0,,,66.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,125.0
+2023-02-25,2023,faun-ardeche-classic,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,25.0
+2023-03-26,2023,gent-wevelgem,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,335.0
+2023-10-11,2023,giro-del-veneto,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,180.0
+2023-09-17,2023,gooikse-pijl,gc,Lotto Dstny,1.1,,0,0,,0.0,,,30.0
+2023-01-29,2023,gp-d-ouverture,gc,Lotto Dstny,1.1,,0,0,,0.0,,,70.0
+2023-03-16,2023,gp-de-denain,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,88.0
+2023-09-10,2023,gp-de-fourmies,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,5.0
+2023-05-06,2023,gp-de-plumelec,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,203.0
+2023-01-22,2023,gp-de-valence,gc,Lotto Dstny,1.1,,0,0,,0.0,,,125.0
+2023-09-13,2023,gp-de-wallonie,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,130.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Lotto Dstny,1.1,,,1,,0.0,,,18.0
+2023-05-13,2023,gp-herning,gc,Denmark,1.2,,0,0,,0.0,,,65.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,146.0
+2023-08-15,2023,gp-jef-scherens,gc,Lotto Dstny,1.1,,0,0,,0.0,,,225.0
+2023-09-10,2023,gp-montreal,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,10.0
+2023-09-08,2023,gp-quebec,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,508.0
+2023-02-28,2023,gp-samyn,gc,Lotto Dstny,1.1,,0,0,,0.0,,,134.0
+2023-08-20,2023,gp-stad-zottegem,gc,Lotto Dstny,1.1,,0,0,,0.0,,,169.0
+2023-10-05,2023,gran-piemonte,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,25.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,103.0
+2023-03-04,2023,grand-prix-criquielion,gc,Lotto Dstny,1.1,,0,0,,0.0,,,97.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Lotto Dstny,1.1,,0,0,,0.0,,,85.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Lotto Dstny,1.1,,0,0,,0.0,,,125.0
+2023-06-03,2023,heist-op-den-berg,gc,Lotto Dstny,1.1,,0,0,,0.0,,,3.0
+2023-10-07,2023,il-lombardia,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,210.0
+2023-10-15,2023,japan-cup,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,115.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Lotto Dstny,1.1,,0,0,,0.0,,,35.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,66.0
+2023-02-26,2023,la-drome-classic,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,18.0
+2023-04-19,2023,la-fleche-wallonne,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,124.0
+2023-08-13,2023,la-poly-normande,gc,Lotto Dstny,1.1,,0,0,,0.0,,,125.0
+2023-04-23,2023,liege-bastogne-liege,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,125.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Lotto Dstny,1.1,,0,0,,0.0,,,40.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Lotto Dstny,1.1,,0,0,,0.0,,,93.0
+2023-03-18,2023,milano-sanremo,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,65.0
+2023-10-03,2023,munsterland-giro,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,5.0
+2023-02-10,2023,muscat-classic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,53.0
+2023-01-08,2023,nc-australia,gc,Lotto Dstny,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-belgium,gc,Lotto Dstny,NC,,0,0,,0.0,,,136.0
+2023-06-22,2023,nc-belgium-itt,gc,Lotto Dstny,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-germany,gc,Lotto Dstny,NC,,0,0,,0.0,,,21.0
+2023-06-25,2023,nc-netherlands,gc,Lotto Dstny,NC,,0,0,,0.0,,,0.0
+2023-03-15,2023,nokere-koerse,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,158.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,261.0
+2023-09-20,2023,omloop-van-het-houtland-lichtervelde,gc,Lotto Dstny,1.1,,0,0,,0.0,,,80.0
+2023-10-05,2023,paris-bourges,gc,Lotto Dstny,1.1,,0,0,,0.0,,,85.0
+2023-04-11,2023,paris-camembert,gc,Lotto Dstny,1.1,,0,0,,0.0,,,0.0
+2023-09-24,2023,paris-chauny-classique,gc,Lotto Dstny,1.1,,0,0,,0.0,,,8.0
+2023-03-05,2023,paris-nice,gc,Lotto Dstny,2.UWT,,0,0,,23.0,,,43.0
+2023-04-09,2023,paris-roubaix,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,155.0
+2023-10-08,2023,paris-tours,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,5.0
+2023-07-25,2023,prueba-villafranca,gc,Lotto Dstny,1.1,,0,0,,0.0,,,0.0
+2023-08-23,2023,renewi-tour,gc,Lotto Dstny,2.UWT,,0,0,,404.0,,,513.0
+2023-03-12,2023,ronde-van-drenthe,gc,Lotto Dstny,1.1,,0,0,,0.0,,,106.0
+2023-05-29,2023,ronde-van-limburg,gc,Lotto Dstny,1.1,,0,0,,0.0,,,85.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,125.0
+2023-05-21,2023,rund-um-koln,gc,Lotto Dstny,1.1,,0,0,,0.0,,,170.0
+2023-02-15,2023,ruta-del-sol,gc,Lotto Dstny,2.Pro,9.0,40.0,1,,40.0,,,45.0
+2023-07-29,2023,san-sebastian,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,24.0
+2023-04-05,2023,scheldeprijs,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,63.0
+2023-07-06,2023,sibiu-cycling-tour,gc,Lotto Dstny,2.1,,0,0,,120.0,,,150.0
+2023-03-04,2023,strade-bianche,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,84.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Lotto Dstny,2.UWT,,0,0,,20.0,,,90.0
+2023-07-01,2023,tour-de-france,gc,Lotto Dstny,2.UWT,,0,0,,15.0,0.0,0.0,710.0
+2023-07-01,2023,tour-de-france,kom,Lotto Dstny,2.UWT,,0,0,,15.0,0.0,0.0,710.0
+2023-07-01,2023,tour-de-france,points,Lotto Dstny,2.UWT,,0,0,,15.0,0.0,0.0,710.0
+2023-05-10,2023,tour-de-hongrie,gc,Lotto Dstny,2.Pro,,0,0,,90.0,,,115.0
+2023-09-20,2023,tour-de-luxembourg,gc,Lotto Dstny,2.Pro,,0,0,,45.0,,,55.0
+2023-07-29,2023,tour-de-pologne,gc,Lotto Dstny,2.UWT,70.0,0.0,1,,84.0,,,103.0
+2023-04-26,2023,tour-de-romandie,gc,Lotto Dstny,2.UWT,,0,0,,50.0,,,120.0
+2023-06-11,2023,tour-de-suisse,gc,Lotto Dstny,2.UWT,82.0,0.0,1,,3.0,,,13.0
+2023-03-12,2023,tour-de-taiwan,gc,Lotto Dstny,2.1,,0,0,,68.0,,,85.0
+2023-07-22,2023,tour-de-wallonie,gc,Lotto Dstny,2.Pro,,0,0,,130.0,,,170.0
+2023-04-16,2023,tour-du-doubs,gc,Lotto Dstny,1.1,,0,0,,0.0,,,13.0
+2023-05-13,2023,tour-du-finistere,gc,Lotto Dstny,1.1,,0,0,,0.0,,,25.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,Lotto Dstny,1.1,,0,0,,0.0,,,11.0
+2023-06-14,2023,tour-of-belgium,gc,Lotto Dstny,2.Pro,,0,0,,133.0,,,146.0
+2023-08-15,2023,tour-of-denmark,gc,Denmark,2.Pro,,0,0,,5.0,,,5.0
+2023-08-15,2023,tour-of-denmark,gc,Lotto Dstny,2.Pro,,0,0,,145.0,,,148.0
+2023-10-12,2023,tour-of-guangxi,gc,Lotto Dstny,2.UWT,,0,0,,56.0,,,90.0
+2023-02-11,2023,tour-of-oman,gc,Lotto Dstny,2.Pro,,0,0,,78.0,,,96.0
+2023-09-14,2023,tour-of-taihu-lake,gc,Lotto Dstny,2.Pro,,0,0,,168.0,,,213.0
+2023-10-03,2023,tre-valli-varesine,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,10.0
+2023-05-07,2023,tro-bro-leon,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,205.0
+2023-01-25,2023,trofeo-calvia,gc,Lotto Dstny,1.1,,0,0,,0.0,,,18.0
+2023-03-01,2023,trofeo-laigueglia,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,10.0
+2023-01-29,2023,trofeo-palma,gc,Lotto Dstny,1.1,,0,0,,0.0,,,70.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Lotto Dstny,1.1,,0,0,,0.0,,,70.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Lotto Dstny,1.1,,0,0,,0.0,,,6.0
+2023-02-20,2023,uae-tour,gc,Lotto Dstny,2.UWT,,0,0,,13.0,,,38.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,30.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Denmark,CC,,,1,,0.0,,,140.0
+2023-05-20,2023,veenendaal-veenendaal,gc,Lotto Dstny,1.1,,0,0,,0.0,,,43.0
+2023-10-15,2023,veneto-classic,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,148.0
+2023-03-20,2023,volta-a-catalunya,gc,Lotto Dstny,2.UWT,71.0,0.0,1,,32.0,,,101.0
+2023-04-01,2023,volta-nxt-classic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,205.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Lotto Dstny,2.1,,0,0,,0.0,,,14.0
+2023-08-27,2023,vuelta-a-espana,gc,Lotto Dstny,2.UWT,67.0,0.0,1,,25.0,0.0,95.0,804.0
+2023-08-27,2023,vuelta-a-espana,kom,Lotto Dstny,2.UWT,8.0,0.0,1,,25.0,0.0,95.0,804.0
+2023-08-27,2023,vuelta-a-espana,points,Lotto Dstny,2.UWT,3.0,95.0,1,,25.0,0.0,95.0,804.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Lotto Dstny,1.1,,,1,,0.0,,,63.0
+2023-08-06,2023,world-championship,gc,Denmark,WC,,0,0,,0.0,,,565.0
+2023-08-11,2023,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,105.0
+2024-05-14,2024,4-jours-de-dunkerque,gc,Lotto Dstny,2.Pro,,0,0,,180.0,,,193.0
+2024-04-14,2024,amstel-gold-race,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,46.0
+2024-05-19,2024,antwerp-port-epic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,60.0
+2024-08-04,2024,arctic-race-of-norway,gc,Lotto Dstny,2.Pro,,0,0,,68.0,,,73.0
+2024-05-12,2024,boucles-de-l-aulne,gc,Lotto Dstny,1.1,,0,0,,0.0,,,33.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,Lotto Dstny,2.Pro,,0,0,,8.0,,,6.0
+2024-04-10,2024,brabantse-pijl,gc,Lotto Dstny,1.Pro,,,1,,0.0,,,16.0
+2024-03-15,2024,bredene-koksijde-classic,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,88.0
+2024-08-25,2024,bretagne-classic,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,228.0
+2024-06-02,2024,brussels-cycling-classic,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,58.0
+2024-10-13,2024,chrono-des-nations,gc,Lotto Dstny,1.1,,0,0,,0.0,,,50.0
+2024-05-09,2024,circuit-de-wallonie,gc,Lotto Dstny,1.1,,0,0,,0.0,,,128.0
+2024-05-05,2024,circuit-des-xi-villes,gc,Lotto Dstny,1.1,,0,0,,0.0,,,95.0
+2024-05-29,2024,circuit-franco-belge,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,108.0
+2024-08-11,2024,circuito-de-getxo,gc,Lotto Dstny,1.1,,,1,,0.0,,,23.0
+2024-02-11,2024,clasica-de-almeria,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,100.0
+2024-02-12,2024,clasica-jaen-paraiso-interior,gc,Lotto Dstny,1.1,,0,0,,0.0,,,25.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,42.0
+2024-04-12,2024,classic-grand-besancon-doubs,gc,Lotto Dstny,1.1,,0,0,,0.0,,,85.0
+2024-10-07,2024,coppa-bernocchi,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,0.0
+2024-09-08,2024,cyclassics-hamburg,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,24.0
+2024-01-26,2024,deia-trophy,gc,Lotto Dstny,1.1,,0,0,,0.0,,,128.0
+2024-08-23,2024,druivenkoers-overijse,gc,Lotto Dstny,1.1,,0,0,,0.0,,,95.0
+2024-06-08,2024,dwars-door-het-hageland,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,60.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,27.0
+2024-03-22,2024,e3-harelbeke,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,52.0
+2024-10-02,2024,elfsteden-race,gc,Lotto Dstny,1.1,,0,0,,0.0,,,63.0
+2024-05-01,2024,eschborn-frankfurt,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,305.0
+2024-02-01,2024,etoile-de-besseges,gc,Lotto Dstny,2.1,,0,0,,58.0,,,63.0
+2024-04-28,2024,famenne-ardenne-classic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,195.0
+2024-02-24,2024,faun-ardeche-classic,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,90.0
+2024-03-24,2024,gent-wevelgem,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,20.0
+2024-09-22,2024,gooikse-pijl,gc,Lotto Dstny,1.1,,0,0,,0.0,,,30.0
+2024-09-15,2024,gp-d-isbergues,gc,Lotto Dstny,1.1,,0,0,,0.0,,,8.0
+2024-01-28,2024,gp-d-ouverture,gc,Lotto Dstny,1.1,,0,0,,0.0,,,45.0
+2024-03-14,2024,gp-de-denain,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,190.0
+2024-09-08,2024,gp-de-fourmies,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,5.0
+2024-05-04,2024,gp-de-plumelec,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,125.0
+2024-01-20,2024,gp-de-valence,gc,Lotto Dstny,1.1,,0,0,,0.0,,,3.0
+2024-09-18,2024,gp-de-wallonie,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,5.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Lotto Dstny,1.1,,0,0,,0.0,,,125.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,20.0
+2024-08-15,2024,gp-jef-scherens,gc,Lotto Dstny,1.1,,0,0,,0.0,,,100.0
+2024-09-15,2024,gp-montreal,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,300.0
+2024-09-13,2024,gp-quebec,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,60.0
+2024-02-27,2024,gp-samyn,gc,Lotto Dstny,1.1,,0,0,,0.0,,,5.0
+2024-10-10,2024,gran-piemonte,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,8.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,150.0
+2024-03-02,2024,grand-prix-criquielion,gc,Lotto Dstny,1.1,,0,0,,0.0,,,175.0
+2024-03-03,2024,grote-prijs-jean-pierre-monsere,gc,Lotto Dstny,1.1,,0,0,,0.0,,,168.0
+2024-06-01,2024,heist-op-den-berg,gc,Lotto Dstny,1.1,,0,0,,0.0,,,30.0
+2024-10-12,2024,il-lombardia,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,240.0
+2024-10-20,2024,japan-cup,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,35.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Lotto Dstny,1.1,,0,0,,0.0,,,60.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,55.0
+2024-02-25,2024,la-drome-classic,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,125.0
+2024-04-17,2024,la-fleche-wallonne,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,268.0
+2024-08-11,2024,la-poly-normande,gc,Lotto Dstny,1.1,,0,0,,0.0,,,175.0
+2024-04-21,2024,liege-bastogne-liege,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,465.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,Lotto Dstny,1.1,,0,0,,0.0,,,125.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,Lotto Dstny,1.1,,0,0,,0.0,,,70.0
+2024-03-16,2024,milano-sanremo,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,270.0
+2024-10-03,2024,munsterland-giro,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,25.0
+2024-02-09,2024,muscat-classic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,38.0
+2024-08-28,2024,muur-classic-geraardsbergen,gc,Lotto Dstny,1.1,,0,0,,0.0,,,205.0
+2024-06-23,2024,nc-belgium,gc,Lotto Dstny,NC,,0,0,,0.0,,,123.0
+2024-06-20,2024,nc-belgium-itt,gc,Lotto Dstny,NC,,0,0,,0.0,,,35.0
+2024-06-23,2024,nc-germany,gc,Lotto Dstny,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-netherlands,gc,Lotto Dstny,NC,,0,0,,0.0,,,0.0
+2024-02-10,2024,nc-new-zealand,gc,Lotto Dstny,NC,,0,0,,0.0,,,40.0
+2024-02-08,2024,nc-new-zealand-itt,gc,Lotto Dstny,NC,,0,0,,0.0,,,50.0
+2024-03-13,2024,nokere-koerse,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,60.0
+2024-06-27,2024,okolo-slovenska,gc,Lotto Dstny,2.1,,0,0,,90.0,,,109.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,82.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,Lotto Dstny,1.1,,0,0,,0.0,,,3.0
+2024-09-22,2024,paris-chauny-classique,gc,Lotto Dstny,1.1,,0,0,,0.0,,,5.0
+2024-03-03,2024,paris-nice,gc,Lotto Dstny,2.UWT,,0,0,,15.0,,,15.0
+2024-04-07,2024,paris-roubaix,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,55.0
+2024-10-06,2024,paris-tours,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,70.0
+2024-07-25,2024,prueba-villafranca,gc,Lotto Dstny,1.1,,0,0,,0.0,,,6.0
+2024-08-28,2024,renewi-tour,gc,Lotto Dstny,2.UWT,,0,0,,336.0,,,437.0
+2024-05-20,2024,ronde-van-limburg,gc,Lotto Dstny,1.1,,0,0,,0.0,,,70.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,50.0
+2024-05-26,2024,rund-um-koln,gc,Lotto Dstny,1.1,,0,0,,0.0,,,60.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Lotto Dstny,1.1,,0,0,,0.0,,,30.0
+2024-02-16,2024,ruta-del-sol,gc,Lotto Dstny,2.Pro,,0,0,,0.0,,,20.0
+2024-08-10,2024,san-sebastian,gc,Lotto Dstny,1.UWT,,,1,,0.0,,,308.0
+2024-04-03,2024,scheldeprijs,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,15.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,Lotto Dstny,2.1,,0,0,,93.0,,,118.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Lotto Dstny,2.1,,0,0,,140.0,,,140.0
+2024-03-02,2024,strade-bianche,gc,Lotto Dstny,1.UWT,,0,0,,0.0,,,316.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Lotto Dstny,2.UWT,,,1,,30.0,,,30.0
+2024-06-29,2024,tour-de-france,gc,Lotto Dstny,2.UWT,,0,0,,0.0,0.0,0.0,825.0
+2024-06-29,2024,tour-de-france,kom,Lotto Dstny,2.UWT,,0,0,,0.0,0.0,0.0,825.0
+2024-06-29,2024,tour-de-france,points,Lotto Dstny,2.UWT,,0,0,,0.0,0.0,0.0,825.0
+2024-05-08,2024,tour-de-hongrie,gc,Lotto Dstny,2.Pro,,0,0,,100.0,,,103.0
+2024-09-18,2024,tour-de-luxembourg,gc,Lotto Dstny,2.Pro,,,1,,0.0,,,10.0
+2024-04-23,2024,tour-de-romandie,gc,Lotto Dstny,2.UWT,54.0,5.0,1,,35.0,,,68.0
+2024-06-09,2024,tour-de-suisse,gc,Lotto Dstny,2.UWT,,0,0,,30.0,,,60.0
+2024-07-22,2024,tour-de-wallonie,gc,Lotto Dstny,2.Pro,37.0,3.0,1,,28.0,,,28.0
+2024-04-14,2024,tour-du-doubs,gc,Lotto Dstny,1.1,,0,0,,0.0,,,50.0
+2024-05-11,2024,tour-du-finistere,gc,Lotto Dstny,1.1,,0,0,,0.0,,,3.0
+2024-04-13,2024,tour-du-jura-cycliste,gc,Lotto Dstny,1.1,,0,0,,0.0,,,60.0
+2024-06-12,2024,tour-of-belgium,gc,Lotto Dstny,2.Pro,,0,0,,100.0,,,101.0
+2024-08-15,2024,tour-of-denmark,gc,Lotto Dstny,2.Pro,,0,0,,293.0,,,326.0
+2024-10-15,2024,tour-of-guangxi,gc,Lotto Dstny,2.UWT,,0,0,,317.0,,,412.0
+2024-09-12,2024,tour-of-istanbul,gc,Lotto Dstny,2.1,,0,0,,96.0,,,101.0
+2024-02-10,2024,tour-of-oman,gc,Lotto Dstny,2.Pro,,0,0,,31.0,,,31.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Lotto Dstny,2.Pro,,0,0,,60.0,,,83.0
+2024-10-08,2024,tre-valli-varesine,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,0.0
+2024-05-05,2024,tro-bro-leon,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,205.0
+2024-01-24,2024,trofeo-calvia,gc,Lotto Dstny,1.1,,0,0,,0.0,,,3.0
+2024-02-28,2024,trofeo-laigueglia,gc,Lotto Dstny,1.Pro,,0,0,,0.0,,,0.0
+2024-01-28,2024,trofeo-palma,gc,Lotto Dstny,1.1,,0,0,,0.0,,,35.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Lotto Dstny,1.1,,0,0,,0.0,,,30.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Lotto Dstny,1.1,,0,0,,0.0,,,10.0
+2024-02-19,2024,uae-tour,gc,Lotto Dstny,2.UWT,,0,0,,310.0,,,383.0
+2024-05-18,2024,veenendaal-veenendaal,gc,Lotto Dstny,1.1,,0,0,,0.0,,,30.0
+2024-03-18,2024,volta-a-catalunya,gc,Lotto Dstny,2.UWT,67.0,0.0,1,,0.0,,,0.0
+2024-03-30,2024,volta-nxt-classic,gc,Lotto Dstny,1.1,,0,0,,0.0,,,120.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Lotto Dstny,1.1,,0,0,,0.0,,,10.0
+2024-08-17,2024,vuelta-a-espana,gc,Lotto Dstny,2.UWT,,,1,,0.0,0.0,0.0,445.0
+2024-08-17,2024,vuelta-a-espana,kom,Lotto Dstny,2.UWT,,,1,,0.0,0.0,0.0,445.0
+2024-08-17,2024,vuelta-a-espana,points,Lotto Dstny,2.UWT,,,1,,0.0,0.0,0.0,445.0
+2024-02-10,2024,vuelta-ciclista-a-la-region-de-murcia,gc,Lotto Dstny,1.1,,0,0,,0.0,,,3.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Uno-X Mobility,2.Pro,,0,0,,23.0,,,28.0
+2025-01-28,2025,alula-tour,gc,Uno-X Mobility,2.1,,0,0,,215.0,,,215.0
+2025-04-20,2025,amstel-gold-race,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,30.0
+2025-06-09,2025,antwerp-port-epic,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,91.0
+2025-08-07,2025,arctic-race-of-norway,gc,Uno-X Mobility,2.Pro,,0,0,,35.0,,,88.0
+2025-04-18,2025,brabantse-pijl,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,5.0
+2025-03-21,2025,bredene-koksijde-classic,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,70.0
+2025-08-31,2025,bretagne-classic,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,8.0
+2025-06-08,2025,brussels-cycling-classic,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,53.0
+2025-10-19,2025,chrono-des-nations,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,75.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,38.0
+2025-08-15,2025,circuit-franco-belge,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,303.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,138.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,0.0
+2025-05-13,2025,classique-dunkerque,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,25.0
+2025-06-22,2025,copenhagen-sprint,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,70.0
+2025-10-05,2025,coppa-agostoni,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,33.0
+2025-10-06,2025,coppa-bernocchi,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,45.0
+2025-08-17,2025,cyclassics-hamburg,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,52.0
+2025-06-29,2025,danish-championships,gc,Uno-X Mobility,NC,,,1,,0.0,,,52.0
+2025-01-31,2025,deia-trophy,gc,Uno-X Mobility,1.1,,,1,,0.0,,,73.0
+2025-08-20,2025,deutschland-tour,gc,Uno-X Mobility,2.Pro,,0,0,,200.0,,,265.0
+2025-06-14,2025,dwars-door-het-hageland,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,220.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,52.0
+2025-03-28,2025,e3-harelbeke,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,16.0
+2025-05-01,2025,eschborn-frankfurt,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,280.0
+2025-02-05,2025,etoile-de-besseges,gc,Uno-X Mobility,2.1,,0,0,,0.0,,,14.0
+2025-03-30,2025,gent-wevelgem,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,293.0
+2025-10-15,2025,giro-del-veneto,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,175.0
+2025-10-04,2025,giro-dell-emilia,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,9.0
+2025-09-10,2025,giro-di-toscana,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,3.0
+2025-09-21,2025,gooikse-pijl,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,75.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,10.0
+2025-09-14,2025,gp-de-fourmies,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,78.0
+2025-05-10,2025,gp-de-plumelec,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,20.0
+2025-09-17,2025,gp-de-wallonie,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,0.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,5.0
+2025-09-07,2025,gp-industria-artigianato,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,70.0
+2025-09-14,2025,gp-montreal,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,40.0
+2025-09-12,2025,gp-quebec,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,28.0
+2025-03-04,2025,gp-samyn,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,43.0
+2025-02-26,2025,gran-camino,gc,Uno-X Mobility,2.1,,,1,,93.0,,,135.0
+2025-10-09,2025,gran-piemonte,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,13.0
+2025-03-08,2025,grand-prix-criquielion,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,0.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,90.0
+2025-05-10,2025,hadeland-gp,gc,Uno-X Mobility,1.2,,0,0,,0.0,,,70.0
+2025-06-07,2025,heist-op-den-berg,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,60.0
+2025-10-11,2025,il-lombardia,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,15.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,70.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,5.0
+2025-04-23,2025,la-fleche-wallonne,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,18.0
+2025-03-30,2025,la-roue-tourangelle,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,150.0
+2025-04-27,2025,liege-bastogne-liege,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,50.0
+2025-09-06,2025,maryland-cycling-classic,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,265.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,35.0
+2025-09-13,2025,memorial-marco-pantani,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,38.0
+2025-03-22,2025,milano-sanremo,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,305.0
+2025-03-19,2025,milano-torino,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,198.0
+2025-10-03,2025,munsterland-giro,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,50.0
+2025-02-07,2025,muscat-classic,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,20.0
+2025-08-27,2025,muur-classic-geraardsbergen,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,193.0
+2025-06-27,2025,nc-denmark-itt,gc,Uno-X Mobility,NC,,0,0,,0.0,,,3.0
+2025-06-29,2025,nc-norway,gc,Uno-X Mobility,NC,,0,0,,0.0,,,377.0
+2025-06-26,2025,nc-norway-itt,gc,Uno-X Mobility,NC,,0,0,,0.0,,,65.0
+2025-03-19,2025,nokere-koerse,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,40.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,302.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,38.0
+2025-04-02,2025,paris-camembert,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,40.0
+2025-09-28,2025,paris-chauny-classique,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,3.0
+2025-03-09,2025,paris-nice,gc,Uno-X Mobility,2.UWT,,0,0,,30.0,,,55.0
+2025-04-13,2025,paris-roubaix,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,245.0
+2025-10-12,2025,paris-tours,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,19.0
+2025-04-08,2025,region-pays-de-la-loire,gc,Uno-X Mobility,2.1,,0,0,,65.0,,,70.0
+2025-05-11,2025,ringerike-gp,gc,Uno-X Mobility,1.2,,0,0,,0.0,,,90.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,105.0
+2025-04-04,2025,route-adelie-de-vitre,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,128.0
+2025-02-19,2025,ruta-del-sol,gc,Uno-X Mobility,2.Pro,,0,0,,65.0,,,100.0
+2025-08-02,2025,san-sebastian,gc,Uno-X Mobility,1.UWT,,,1,,0.0,,,80.0
+2025-04-09,2025,scheldeprijs,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,50.0
+2025-03-08,2025,strade-bianche,gc,Uno-X Mobility,1.UWT,,0,0,,0.0,,,188.0
+2025-03-10,2025,tirreno-adriatico,gc,Uno-X Mobility,2.UWT,,0,0,,80.0,,,161.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Uno-X Mobility,2.UWT,,,1,,235.0,,,338.0
+2025-07-05,2025,tour-de-france,gc,Uno-X Mobility,2.UWT,,0,0,,535.0,0.0,0.0,1315.0
+2025-07-05,2025,tour-de-france,kom,Uno-X Mobility,2.UWT,,0,0,,535.0,0.0,0.0,1315.0
+2025-07-05,2025,tour-de-france,points,Uno-X Mobility,2.UWT,,0,0,,535.0,0.0,0.0,1315.0
+2025-09-28,2025,tour-de-langkawi,gc,Uno-X Mobility,2.Pro,,0,0,,158.0,,,254.0
+2025-09-17,2025,tour-de-luxembourg,gc,Uno-X Mobility,2.Pro,,0,0,,25.0,,,25.0
+2025-07-26,2025,tour-de-wallonie,gc,Uno-X Mobility,2.Pro,,0,0,,8.0,,,23.0
+2025-04-20,2025,tour-du-doubs,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,70.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,15.0
+2025-06-18,2025,tour-of-belgium,gc,Uno-X Mobility,2.Pro,,0,0,,20.0,,,20.0
+2025-09-02,2025,tour-of-britain,gc,Uno-X Mobility,2.Pro,,0,0,,5.0,,,5.0
+2025-08-12,2025,tour-of-denmark,gc,Uno-X Mobility,2.Pro,,0,0,,25.0,,,48.0
+2025-05-29,2025,tour-of-norway,gc,Uno-X Mobility,2.Pro,,0,0,,100.0,,,118.0
+2025-02-08,2025,tour-of-oman,gc,Uno-X Mobility,2.Pro,,0,0,,35.0,,,50.0
+2025-06-04,2025,tour-of-slovenia,gc,Uno-X Mobility,2.Pro,,0,0,,270.0,,,280.0
+2025-04-27,2025,tour-of-turkey,gc,Uno-X Mobility,2.Pro,28.0,5.0,1,,90.0,,,133.0
+2025-10-07,2025,tre-valli-varesine,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,100.0
+2025-05-11,2025,tro-bro-leon,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,150.0
+2025-10-12,2025,trofeo-baracchi,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,35.0
+2025-01-29,2025,trofeo-calvia,gc,Uno-X Mobility,1.1,,,1,,0.0,,,10.0
+2025-09-14,2025,trofeo-matteotti,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,60.0
+2025-02-02,2025,trofeo-palma,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,105.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Uno-X Mobility,1.1,,0,0,,0.0,,,70.0
+2025-10-19,2025,veneto-classic,gc,Uno-X Mobility,1.Pro,,0,0,,0.0,,,270.0
+2025-08-05,2025,vuelta-a-burgos,gc,Uno-X Mobility,2.Pro,,,1,,40.0,,,45.0

@@ -1,0 +1,24 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-07-17,2021,gp-czech-republic,gc,AC Sparta Praha,1.2,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-czech-republic2,gc,AC Sparta Praha,NC,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-poland,gc,AC Sparta Praha,NC,,0,0,,0.0,,,0.0
+2021-09-10,2021,okolo-jiznich-cech,gc,AC Sparta Praha,2.2,87.0,0.0,1,,0.0,,,0.0
+2021-08-20,2021,szlakiem-grodow-piastowskich,gc,AC Sparta Praha,2.2,,0,0,,0.0,,,0.0
+2021-07-10,2021,visegrad-4-bicycle-race-gp-hungary,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2021-07-18,2021,visegrad-4-bicycle-race-gp-polski-via-odra,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2021-07-11,2021,visegrad-4-bicycle-race-gp-slovakia,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2021-09-18,2021,zodc-zuidenveld-tour,gc,AC Sparta Praha,1.2,,,1,,0.0,,,25.0
+2022-04-16,2022,arno-wallaard-memorial,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-05-26,2022,circuit-de-wallonie,gc,AC Sparta Praha,1.1,,,1,,0.0,,,0.0
+2022-07-09,2022,gp-czech-republic,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-07-30,2022,kreiz-breizh-elites,gc,AC Sparta Praha,2.2,,,1,,0.0,,,0.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,AC Sparta Praha,1.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-czech-republic2,gc,AC Sparta Praha,NC,,,1,,0.0,,,0.0
+2022-09-08,2022,okolo-jiznich-cech,gc,AC Sparta Praha,2.2,83.0,0.0,1,,0.0,,,0.0
+2022-05-07,2022,ronde-van-overijssel,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-07-23,2022,visegrad-4-bicycle-race-gp-hungary,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-07-10,2022,visegrad-4-bicycle-race-gp-polski-via-odra,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-07-24,2022,visegrad-4-bicycle-race-gp-slovakia,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-04-30,2022,zodc-zuidenveld-tour,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2023-07-23,2023,gp-czech-republic,gc,Regionální tým Příbram,1.2,,,1,,0.0,,,0.0
+2023-07-22,2023,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Vyber Příbrami,1.2,,,1,,0.0,,,0.0

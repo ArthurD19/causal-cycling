@@ -1,0 +1,101 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-07-26,2017,tour-alsace,gc,Amc Besancon,2.2,84.0,0.0,1,,0.0,,,0.0
+2020-03-08,2020,gp-de-la-ville-de-lillers,gc,Akros - Excelsior - Thömus,1.2,,0,0,,0.0,,,0.0
+2020-03-03,2020,gp-samyn,gc,Akros - Excelsior - Thömus,1.1,,,1,,0.0,,,0.0
+2020-08-23,2020,nc-france,gc,Akros - Excelsior - Thömus,NC,,0,0,,0.0,,,0.0
+2020-10-31,2020,nc-switserland,gc,Akros - Excelsior - Thömus,NC,,0,0,,0.0,,,1.0
+2020-09-27,2020,paris-chauny-classique,gc,Akros - Excelsior - Thömus,1.1,,,1,,0.0,,,3.0
+2020-07-23,2020,sibiu-cycling-tour,gc,Akros - Excelsior - Thömus,2.1,78.0,0.0,1,,8.0,,,8.0
+2020-08-05,2020,tour-des-pays-de-savoie,gc,Akros - Excelsior - Thömus,2.2,62.0,0.0,1,,0.0,,,1.0
+2020-09-06,2020,tour-du-doubs,gc,Akros - Excelsior - Thömus,1.1,,0,0,,0.0,,,3.0
+2020-02-20,2020,tour-of-antalya,gc,Akros - Excelsior - Thömus,2.1,118.0,0.0,1,,0.0,,,0.0
+2021-10-17,2021,paris-mantes-en-yvelines,gc,Charvieu Chavagneux Isère Cyclisme,1.2,,,1,,0.0,,,0.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Charvieu Chavagneux Isère Cyclisme,2.2,36.0,0.0,1,,0.0,,,0.0
+2022-08-06,2022,la-maurienne,gc,Charvieu Chavagneux Isère Cyclisme,1.2,,,1,,0.0,,,5.0
+2022-05-25,2022,rhone-alpes-isere-tour,gc,Charvieu Chavagneux Isère Cyclisme,2.2,7.0,5.0,1,,5.0,,,5.0
+2022-06-17,2022,tour-du-pays-de-montbeliard,gc,Charvieu Chavagneux Isère Cyclisme,2.2,4.0,20.0,1,,20.0,,,20.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,St Michel - Mavic - Auber93,2.Pro,,0,0,,10.0,,,10.0
+2023-05-14,2023,boucles-de-l-aulne,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,5.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,St Michel - Mavic - Auber93,2.Pro,,,1,,3.0,,,3.0
+2023-03-19,2023,cholet-pays-de-loire,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,63.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,3.0
+2023-03-18,2023,classic-loire-atlantique,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,30.0
+2023-02-01,2023,etoile-de-besseges,gc,St Michel - Mavic - Auber93,2.1,,0,0,,0.0,,,0.0
+2023-02-25,2023,faun-ardeche-classic,gc,St Michel - Mavic - Auber93,1.Pro,,,1,,0.0,,,0.0
+2023-09-17,2023,gp-d-isbergues,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,10.0
+2023-01-29,2023,gp-d-ouverture,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,0.0
+2023-03-16,2023,gp-de-denain,gc,St Michel - Mavic - Auber93,1.Pro,,0,0,,0.0,,,45.0
+2023-09-10,2023,gp-de-fourmies,gc,St Michel - Mavic - Auber93,1.Pro,,0,0,,0.0,,,0.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,St Michel - Mavic - Auber93,1.2,,0,0,,0.0,,,25.0
+2023-05-06,2023,gp-de-plumelec,gc,St Michel - Mavic - Auber93,1.Pro,,,1,,0.0,,,45.0
+2023-07-23,2023,grand-prix-de-la-ville-de-perenchies,gc,St Michel - Mavic - Auber93,1.2,,0,0,,0.0,,,50.0
+2023-09-03,2023,grand-prix-de-plouay,gc,St Michel - Mavic - Auber93,1.2,,,1,,0.0,,,33.0
+2023-02-26,2023,la-drome-classic,gc,St Michel - Mavic - Auber93,1.Pro,,,1,,0.0,,,5.0
+2023-08-13,2023,la-poly-normande,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,5.0
+2023-03-26,2023,la-roue-tourangelle,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,5.0
+2023-06-15,2023,la-route-d-occitanie,gc,St Michel - Mavic - Auber93,2.1,,,1,,6.0,,,6.0
+2023-04-25,2023,le-tour-de-bretagne,gc,St Michel - Mavic - Auber93,2.2,29.0,0.0,1,,0.0,,,7.0
+2023-03-04,2023,le-tour-des-100-communes,gc,St Michel - Mavic - Auber93,1.2,,0,0,,0.0,,,15.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-france,gc,St Michel - Mavic - Auber93,NC,,,1,,0.0,,,3.0
+2023-06-22,2023,nc-france-itt,gc,St Michel - Mavic - Auber93,NC,,0,0,,0.0,,,0.0
+2023-10-05,2023,paris-bourges,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,0.0
+2023-04-11,2023,paris-camembert,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,3.0
+2023-09-24,2023,paris-chauny-classique,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,3.0
+2023-10-08,2023,paris-tours,gc,St Michel - Mavic - Auber93,1.Pro,,0,0,,0.0,,,105.0
+2023-04-04,2023,region-pays-de-la-loire,gc,St Michel - Mavic - Auber93,2.1,,0,0,,26.0,,,26.0
+2023-06-01,2023,ronde-de-l-oise,gc,St Michel - Mavic - Auber93,2.2,9.0,3.0,1,,23.0,,,25.0
+2023-03-31,2023,route-adelie-de-vitre,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,68.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,St Michel - Mavic - Auber93,2.2,,0,0,,3.0,,,3.0
+2023-07-31,2023,tour-de-l-ain,gc,St Michel - Mavic - Auber93,2.1,,,1,,8.0,,,8.0
+2023-10-01,2023,tour-de-vendee,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,3.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,St Michel - Mavic - Auber93,2.1,,,1,,3.0,,,3.0
+2023-04-16,2023,tour-du-doubs,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,3.0
+2023-05-13,2023,tour-du-finistere,gc,St Michel - Mavic - Auber93,1.1,,,1,,0.0,,,16.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,St Michel - Mavic - Auber93,1.1,,0,0,,0.0,,,0.0
+2023-08-15,2023,tour-du-limousin,gc,St Michel - Mavic - Auber93,2.1,,0,0,,40.0,,,40.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,St Michel - Mavic - Auber93,2.1,38.0,0.0,1,,0.0,,,5.0
+2023-05-07,2023,tro-bro-leon,gc,St Michel - Mavic - Auber93,1.Pro,,0,0,,0.0,,,53.0
+2024-05-14,2024,4-jours-de-dunkerque,gc,Philippe Wagner/Bazin,2.Pro,,0,0,,5.0,,,5.0
+2024-05-09,2024,circuit-de-wallonie,gc,Philippe Wagner/Bazin,1.1,,,1,,0.0,,,0.0
+2024-04-04,2024,circuit-des-ardennes,gc,Philippe Wagner/Bazin,2.2,34.0,0.0,1,,10.0,,,10.0
+2024-05-05,2024,circuit-des-xi-villes,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,70.0
+2024-05-29,2024,circuit-franco-belge,gc,Philippe Wagner/Bazin,1.Pro,,0,0,,0.0,,,0.0
+2024-04-12,2024,classic-grand-besancon-doubs,gc,Philippe Wagner/Bazin,1.1,,,1,,0.0,,,3.0
+2024-03-16,2024,classic-loire-atlantique,gc,Philippe Wagner/Bazin,1.1,,,1,,0.0,,,3.0
+2024-08-23,2024,druivenkoers-overijse,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-06-08,2024,dwars-door-het-hageland,gc,Philippe Wagner/Bazin,1.Pro,,0,0,,0.0,,,0.0
+2024-04-28,2024,famenne-ardenne-classic,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-09-22,2024,gooikse-pijl,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-09-28,2024,gp-cerami,gc,Philippe Wagner/Bazin,1.2,,0,0,,0.0,,,0.0
+2024-09-15,2024,gp-d-isbergues,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-01-28,2024,gp-d-ouverture,gc,Philippe Wagner/Bazin,1.1,,,1,,0.0,,,0.0
+2024-03-03,2024,gp-de-la-ville-de-lillers,gc,Philippe Wagner/Bazin,1.2,,0,0,,0.0,,,0.0
+2024-09-18,2024,gp-de-wallonie,gc,Philippe Wagner/Bazin,1.Pro,,0,0,,0.0,,,0.0
+2024-08-15,2024,gp-jef-scherens,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-02-27,2024,gp-samyn,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-03-02,2024,grand-prix-criquielion,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,60.0
+2024-03-03,2024,grote-prijs-jean-pierre-monsere,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-04-25,2024,le-tour-de-bretagne,gc,Philippe Wagner/Bazin,2.2,,0,0,,0.0,,,7.0
+2024-03-02,2024,le-tour-des-100-communes,gc,Philippe Wagner/Bazin,1.2,,0,0,,0.0,,,0.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-belgium,gc,Philippe Wagner/Bazin,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-france,gc,Philippe Wagner/Bazin,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-france-itt,gc,Philippe Wagner/Bazin,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-luxembourg,gc,Philippe Wagner/Bazin,NC,,0,0,,0.0,,,60.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,70.0
+2024-05-01,2024,omloop-van-het-waasland,gc,Philippe Wagner/Bazin,1.2,,0,0,,0.0,,,45.0
+2024-05-30,2024,ronde-de-l-oise,gc,Philippe Wagner/Bazin,2.2,40.0,0.0,1,,40.0,,,42.0
+2024-05-20,2024,ronde-van-limburg,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,3.0
+2024-06-30,2024,sd-worx-bw-classic,gc,Philippe Wagner/Bazin,1.2,,0,0,,0.0,,,0.0
+2024-07-25,2024,tour-alsace,gc,Philippe Wagner/Bazin,2.2,65.0,0.0,1,,3.0,,,3.0
+2024-08-23,2024,tour-cycliste-international-de-la-guadeloupe,gc,Philippe Wagner/Bazin,2.2,,,1,,0.0,,,15.0
+2024-02-09,2024,tour-cycliste-international-la-provence,gc,Philippe Wagner/Bazin,2.1,,0,0,,0.0,,,0.0
+2024-05-23,2024,tour-de-la-mirabelle,gc,Philippe Wagner/Bazin,2.2,,,1,,3.0,,,3.0
+2024-04-14,2024,tour-du-doubs,gc,Philippe Wagner/Bazin,1.1,,,1,,0.0,,,3.0
+2024-04-13,2024,tour-du-jura-cycliste,gc,Philippe Wagner/Bazin,1.1,,0,0,,0.0,,,0.0
+2024-08-13,2024,tour-du-limousin,gc,Philippe Wagner/Bazin,2.1,68.0,0.0,1,,35.0,,,40.0
+2024-06-12,2024,tour-of-belgium,gc,Philippe Wagner/Bazin,2.Pro,,0,0,,0.0,,,5.0
+2024-01-26,2024,tour-of-sharjah,gc,Philippe Wagner/Bazin,2.2,,0,0,,3.0,,,17.0
+2024-03-30,2024,volta-nxt-classic,gc,Philippe Wagner/Bazin,1.1,,,1,,0.0,,,0.0

@@ -1,0 +1,17 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-10-23,2022,vuelta-a-guatemala,gc,Pinturas CELCO,2.2,39.0,0.0,1,,0.0,,,0.0
+2023-08-13,2023,gran-premio-chapin,gc,Aldosa Jalapa,1.2,,0,0,,0.0,,,0.0
+2023-08-12,2023,gran-premio-guatemala,gc,Aldosa Jalapa,1.2,,0,0,,0.0,,,0.0
+2023-11-17,2023,vuelta-a-guatemala,gc,Aldosa Jalapa,2.2,27.0,0.0,1,,0.0,,,0.0
+2024-06-23,2024,nc-guatemala,gc,Asociacion de Quetzaltenango - Ceramicas Castelli,NC,,,1,,0.0,,,3.0
+2024-06-23,2024,nc-guatemala,gc,Eca Electricidad,NC,,0,0,,0.0,,,3.0
+2024-06-16,2024,nc-guatemala-itt,gc,Asociacion de Quetzaltenango - Ceramicas Castelli,NC,,0,0,,0.0,,,13.0
+2024-10-25,2024,vuelta-a-guatemala,gc,Eca Electricidad,2.2,45.0,0.0,1,,0.0,,,0.0
+2024-10-25,2024,vuelta-a-guatemala,gc,Asociacion de Quetzaltenango - Ceramicas Castelli,2.2,,0,0,,0.0,,,0.0
+2024-05-01,2024,vuelta-bantrab,gc,Asociacion de Quetzaltenango - Ceramicas Castelli,2.2,,0,0,,3.0,,,-32.0
+2024-05-01,2024,vuelta-bantrab,gc,Eca Electricidad,2.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-guatemala,gc,Copeba - Muni Toto - FAW,NC,,,1,,0.0,,,3.0
+2025-06-22,2025,nc-guatemala-itt,gc,Copeba - Muni Toto - FAW,NC,,,1,,0.0,,,3.0
+2025-10-24,2025,vuelta-a-guatemala,gc,Asociación de San Marcos - Acredicom,2.2,37.0,0.0,1,,0.0,,,-25.0
+2025-10-24,2025,vuelta-a-guatemala,gc,Copeba - Muni Toto - FAW,2.2,,0,0,,0.0,,,0.0
+2025-04-30,2025,vuelta-bantrab,gc,Copeba - Muni Toto - FAW,2.2,,,1,,0.0,,,-30.0

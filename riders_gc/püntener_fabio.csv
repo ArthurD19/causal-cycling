@@ -1,0 +1,26 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,Switzerland,2.2,,0,0,,0.0,,,0.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Switzerland,1.1,,0,0,,0.0,,,6.0
+2021-02-06,2021,grand-prix-alanya,gc,Switzerland,1.2,,0,0,,0.0,,,30.0
+2021-02-07,2021,grand-prix-gazipasa,gc,Switzerland,1.2,,0,0,,0.0,,,0.0
+2021-03-11,2021,istrian-spring-tour,gc,Switzerland,2.2,65.0,0.0,1,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Switzerland,Olympics,,0,0,,0.0,,,50.0
+2021-07-28,2021,olympic-games-itt,gc,Switzerland,Olympics,,0,0,,0.0,,,150.0
+2021-03-07,2021,porec-trophy,gc,Switzerland,1.2,,,1,,0.0,,,0.0
+2021-06-06,2021,tour-de-suisse,gc,Switzerland,2.UWT,,0,0,,10.0,,,10.0
+2021-03-03,2021,trofej-umag,gc,Switzerland,1.2,,,1,,0.0,,,0.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Switzerland,CC,,0,0,,0.0,,,100.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Switzerland,CC,,0,0,,0.0,,,100.0
+2021-09-26,2021,world-championship,gc,Switzerland,WC,,0,0,,0.0,,,20.0
+2021-09-19,2021,world-championship-itt,gc,Switzerland,WC,,0,0,,0.0,,,210.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Swiss Cycling,1.1,,0,0,,0.0,,,3.0
+2022-02-05,2022,grand-prix-alanya,gc,Swiss Cycling,1.2,,,1,,0.0,,,0.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Swiss Cycling,1.1,,0,0,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,Swiss Cycling,2.2,40.0,0.0,1,,0.0,,,7.0
+2023-03-05,2023,porec-trophy,gc,Swiss Cycling,1.2,,0,0,,0.0,,,0.0
+2023-03-01,2023,trofej-umag,gc,Swiss Cycling,1.2,,0,0,,0.0,,,0.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,Swiss Cycling,2.2,,0,0,,0.0,,,-4.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Swiss Cycling,1.1,,,1,,0.0,,,0.0
+2024-04-23,2024,tour-de-romandie,gc,Swiss Cycling,2.UWT,,0,0,,0.0,,,2.0
+2024-06-09,2024,tour-de-suisse,gc,Swiss Cycling,2.UWT,83.0,0.0,1,,0.0,,,0.0
+2024-03-20,2024,volta-ao-alentejo,gc,Swiss Cycling,2.2,,0,0,,0.0,,,0.0

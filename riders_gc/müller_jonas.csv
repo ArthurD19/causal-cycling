@@ -1,0 +1,34 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-04-06,2023,circuit-des-ardennes,gc,Tudor Pro Cycling Team U23,2.2,,0,0,,0.0,,,0.0
+2023-06-25,2023,danish-championships,gc,Tudor Pro Cycling Team U23,NC,,0,0,,0.0,,,0.0
+2023-09-03,2023,grand-prix-de-plouay,gc,Tudor Pro Cycling Team U23,1.2,,0,0,,0.0,,,25.0
+2023-03-09,2023,istrian-spring-tour,gc,Tudor Pro Cycling Team U23,2.2,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-germany,gc,Tudor Pro Cycling Team U23,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-lithuania,gc,Tudor Pro Cycling Team U23,NC,,0,0,,0.0,,,40.0
+2023-06-22,2023,nc-lithuania-itt,gc,Tudor Pro Cycling Team U23,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-switserland,gc,Tudor Pro Cycling Team U23,NC,,,1,,0.0,,,11.0
+2023-03-05,2023,porec-trophy,gc,Tudor Pro Cycling Team U23,1.2,,0,0,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,Tudor Pro Cycling Team U23,2.2,,0,0,,30.0,,,33.0
+2023-03-01,2023,trofej-umag,gc,Tudor Pro Cycling Team U23,1.2,,0,0,,0.0,,,0.0
+2024-05-01,2024,gp-vorarlberg,gc,CLN,1.2,,,1,,0.0,,,0.0
+2024-08-25,2024,grand-prix-kaisareiame,gc,CLN,1.2,,,1,,0.0,,,0.0
+2024-08-24,2024,grand-prix-soganli,gc,CLN,1.2,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-switserland,gc,CLN,NC,,,1,,0.0,,,0.0
+2024-06-20,2024,nc-switzerland-itt,gc,CLN,NC,,0,0,,0.0,,,0.0
+2024-05-30,2024,ronde-de-l-oise,gc,CLN,2.2,,,1,,0.0,,,0.0
+2024-10-11,2024,tour-de-serbie,gc,CLN,2.2,26.0,0.0,1,,0.0,,,0.0
+2024-08-30,2024,tour-of-samsun,gc,CLN,2.2,28.0,0.0,1,,0.0,,,0.0
+2024-04-21,2024,trofeo-torino-biella-giro-della-provincia-di-biell,gc,CLN,1.2,,,1,,0.0,,,0.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,CLN,1.2,,,1,,0.0,,,0.0
+2025-09-27,2025,gp-cerami,gc,CLN,1.2,,,1,,0.0,,,0.0
+2025-02-22,2025,gp-de-la-ville-d-alger,gc,CLN,1.2,,,1,,0.0,,,3.0
+2025-08-24,2025,grand-prix-ordu,gc,CLN,1.2,,,1,,0.0,,,0.0
+2025-02-08,2025,grand-prix-sakiat-sidi-youcef,gc,CLN,1.2,,,1,,0.0,,,15.0
+2025-02-20,2025,grand-prix-sonatrach,gc,CLN,1.2,,,1,,0.0,,,0.0
+2025-09-20,2025,milano-rapallo,gc,CLN,1.2,,,1,,0.0,,,0.0
+2025-06-22,2025,nc-serbia,gc,CLN,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-switserland,gc,CLN,NC,,,1,,0.0,,,0.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,CLN,2.2,,,1,,0.0,,,0.0
+2025-02-09,2025,tour-d-algerie-cycliste,gc,CLN,2.2,30.0,0.0,1,,0.0,,,0.0
+2025-09-04,2025,tour-of-kosovo,gc,CLN,2.2,41.0,0.0,1,,0.0,,,0.0
+2025-08-27,2025,tour-of-samsun,gc,CLN,2.2,22.0,0.0,1,,0.0,,,3.0

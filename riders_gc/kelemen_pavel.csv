@@ -1,0 +1,58 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-07-17,2021,gp-czech-republic,gc,Team Dukla Praha,1.2,,0,0,,0.0,,,0.0
+2021-07-10,2021,visegrad-4-bicycle-race-gp-hungary,gc,Team Dukla Praha,1.2,,,1,,0.0,,,0.0
+2021-07-18,2021,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team Dukla Praha,1.2,,,1,,0.0,,,3.0
+2022-04-16,2022,arno-wallaard-memorial,gc,AC Sparta Praha,1.2,,0,0,,0.0,,,0.0
+2022-05-26,2022,circuit-de-wallonie,gc,AC Sparta Praha,1.1,,0,0,,0.0,,,0.0
+2022-07-09,2022,gp-czech-republic,gc,AC Sparta Praha,1.2,,0,0,,0.0,,,0.0
+2022-07-30,2022,kreiz-breizh-elites,gc,AC Sparta Praha,2.2,114.0,0.0,1,,0.0,,,0.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-czech-republic2,gc,AC Sparta Praha,NC,,,1,,0.0,,,0.0
+2022-09-08,2022,okolo-jiznich-cech,gc,AC Sparta Praha,2.2,80.0,0.0,1,,0.0,,,0.0
+2022-05-07,2022,ronde-van-overijssel,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-07-23,2022,visegrad-4-bicycle-race-gp-hungary,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-07-10,2022,visegrad-4-bicycle-race-gp-polski-via-odra,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-07-24,2022,visegrad-4-bicycle-race-gp-slovakia,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2022-04-30,2022,zodc-zuidenveld-tour,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2023-05-14,2023,albani-classic-fyen-rundt,gc,ATT Investments,1.2,,0,0,,0.0,,,5.0
+2023-08-18,2023,baltic-chain-tour,gc,ATT Investments,2.2,71.0,0.0,1,,0.0,,,0.0
+2023-04-19,2023,banja-luka-belgrade-i,gc,ATT Investments,2.2,73.0,0.0,1,,0.0,,,0.0
+2023-06-28,2023,course-cycliste-de-solidarnosc,gc,ATT Investments,2.2,51.0,0.0,1,,3.0,,,11.0
+2023-07-27,2023,czech-tour,gc,ATT Investments,2.1,,0,0,,75.0,,,75.0
+2023-05-17,2023,fleche-du-sud,gc,ATT Investments,2.2,,0,0,,25.0,,,25.0
+2023-03-26,2023,gp-adria-mobil,gc,ATT Investments,1.2,,0,0,,0.0,,,10.0
+2023-07-14,2023,gp-cycliste-de-gemenc,gc,ATT Investments,2.2,104.0,0.0,1,,20.0,,,23.0
+2023-07-23,2023,gp-czech-republic,gc,ATT Investments,1.2,,0,0,,0.0,,,38.0
+2023-05-13,2023,gp-herning,gc,ATT Investments,1.2,,0,0,,0.0,,,0.0
+2023-03-19,2023,gp-izola-butan-plin,gc,ATT Investments,1.2,,0,0,,0.0,,,0.0
+2023-07-23,2023,gp-kranj,gc,ATT Investments,1.2,,0,0,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,ATT Investments,2.2,123.0,0.0,1,,0.0,,,0.0
+2023-08-12,2023,memorial-henryka-lasaka,gc,ATT Investments,1.2,,0,0,,0.0,,,25.0
+2023-08-13,2023,memorial_jana_magiery_2022,gc,ATT Investments,1.2,,0,0,,0.0,,,38.0
+2023-06-22,2023,nc-czech-republic-itt,gc,ATT Investments,NC,,0,0,,0.0,,,76.0
+2023-06-25,2023,nc-czech-republic2,gc,ATT Investments,NC,,,1,,0.0,,,1.0
+2023-06-25,2023,nc-estonia,gc,ATT Investments,NC,,0,0,,0.0,,,4.0
+2023-06-25,2023,nc-hungary,gc,ATT Investments,NC,,0,0,,0.0,,,75.0
+2023-06-22,2023,nc-hungary-itt,gc,ATT Investments,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-slovakia,gc,ATT Investments,NC,,0,0,,0.0,,,100.0
+2023-06-22,2023,nc-slovakia-itt,gc,ATT Investments,NC,,0,0,,0.0,,,50.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,ATT Investments,2.2,,0,0,,3.0,,,6.0
+2023-09-07,2023,okolo-jiznich-cech,gc,ATT Investments,2.2,,0,0,,20.0,,,20.0
+2023-09-13,2023,okolo-slovenska,gc,ATT Investments,2.1,,0,0,,23.0,,,23.0
+2023-03-05,2023,porec-trophy,gc,ATT Investments,1.2,,,1,,0.0,,,0.0
+2023-03-11,2023,rhodes-gp,gc,ATT Investments,1.2,,0,0,,0.0,,,20.0
+2023-05-21,2023,rund-um-koln,gc,ATT Investments,1.1,,,1,,0.0,,,3.0
+2023-07-06,2023,sibiu-cycling-tour,gc,ATT Investments,2.1,,0,0,,95.0,,,100.0
+2023-03-04,2023,south-aegean-tour,gc,ATT Investments,2.2,,0,0,,43.0,,,47.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,ATT Investments,2.2,,,1,,0.0,,,0.0
+2023-05-10,2023,tour-de-hongrie,gc,ATT Investments,2.Pro,120.0,0.0,1,,8.0,,,-7.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,ATT Investments,2.2,,,1,,3.0,,,3.0
+2023-09-26,2023,tour-of-croatia,gc,ATT Investments,2.1,,,1,,20.0,,,5.0
+2023-05-26,2023,tour-of-estonia,gc,ATT Investments,2.1,,0,0,,102.0,,,102.0
+2023-05-02,2023,tour-of-hellas,gc,ATT Investments,2.1,,0,0,,86.0,,,86.0
+2023-06-01,2023,tour-of-malopolska,gc,ATT Investments,2.2,,0,0,,45.0,,,66.0
+2023-03-17,2023,tour-of-rhodes,gc,ATT Investments,2.2,,0,0,,20.0,,,23.0
+2023-03-01,2023,trofej-umag,gc,ATT Investments,1.2,,,1,,0.0,,,3.0
+2023-07-08,2023,visegrad-4-bicycle-race-gp-hungary,gc,ATT Investments,1.2,,0,0,,0.0,,,20.0
+2023-07-22,2023,visegrad-4-bicycle-race-gp-polski-via-odra,gc,ATT Investments,1.2,,,1,,0.0,,,13.0
+2023-07-09,2023,visegrad-4-bicycle-race-gp-slovakia,gc,ATT Investments,1.2,,0,0,,0.0,,,18.0

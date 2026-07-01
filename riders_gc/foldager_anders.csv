@@ -1,0 +1,387 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-05-30,2021,albani-classic-fyen-rundt,gc,Team Herning CK Elite,1.2,,0,0,,0.0,,,0.0
+2021-05-29,2021,gp-herning,gc,Team Herning CK Elite,1.2,,0,0,,0.0,,,0.0
+2021-08-28,2021,himmerland-rundt,gc,Team Herning CK Elite,1.2,,,1,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Denmark,Olympics,,0,0,,0.0,,,70.0
+2021-07-28,2021,olympic-games-itt,gc,Denmark,Olympics,,0,0,,0.0,,,85.0
+2021-08-29,2021,skive-lobet,gc,Team Herning CK Elite,1.2,,,1,,0.0,,,10.0
+2021-08-10,2021,tour-of-denmark,gc,Denmark,2.Pro,105.0,0.0,1,,10.0,,,10.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,15.0
+2021-09-26,2021,world-championship,gc,Denmark,WC,,0,0,,0.0,,,400.0
+2021-09-19,2021,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,155.0
+2022-05-22,2022,albani-classic-fyen-rundt,gc,Denmark,1.2,,0,0,,0.0,,,40.0
+2022-02-01,2022,alula-tour,gc,Team BikeExchange - Jayco,2.1,,0,0,,9.0,,,42.0
+2022-04-10,2022,amstel-gold-race,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,160.0
+2022-08-11,2022,arctic-race-of-norway,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,20.0,,,40.0
+2022-04-13,2022,brabantse-pijl,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,60.0
+2022-08-28,2022,bretagne-classic,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,16.0
+2022-06-05,2022,brussels-cycling-classic,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,50.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,40.0
+2022-10-16,2022,chrono-des-nations,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,73.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,3.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,0.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,252.0
+2022-09-29,2022,coppa-agostoni,gc,Biesse - Carrera,1.1,,,1,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,10.0
+2022-10-03,2022,coppa-bernocchi,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,3.0
+2022-08-21,2022,cyclassics-hamburg,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,56.0
+2022-08-04,2022,czech-tour,gc,Team BikeExchange - Jayco,2.1,,0,0,,73.0,,,73.0
+2022-06-26,2022,danish-championships,gc,Biesse - Carrera,NC,,,1,,0.0,,,0.0
+2022-01-28,2022,deia-trophy,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,3.0
+2022-08-24,2022,druivenkoers-overijse,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,8.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,3.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,100.0
+2022-03-25,2022,e3-harelbeke,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,16.0
+2022-03-27,2022,gent-wevelgem,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,50.0
+2022-05-06,2022,giro-d-italia,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,104.0,0.0,0.0,416.0
+2022-05-06,2022,giro-d-italia,kom,Team BikeExchange - Jayco,2.UWT,,0,0,,104.0,0.0,0.0,416.0
+2022-05-06,2022,giro-d-italia,points,Team BikeExchange - Jayco,2.UWT,,0,0,,104.0,0.0,0.0,416.0
+2022-07-03,2022,giro-del-medio-brenta,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,31.0
+2022-10-12,2022,giro-del-veneto,gc,Biesse - Carrera,1.1,,0,0,,0.0,,,0.0
+2022-10-12,2022,giro-del-veneto,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,35.0
+2022-06-02,2022,giro-dell-appennino,gc,Biesse - Carrera,1.1,,0,0,,0.0,,,3.0
+2022-10-01,2022,giro-dell-emilia,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,3.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Biesse - Carrera,2.2,62.0,0.0,1,,15.0,,,15.0
+2022-04-12,2022,giro-di-sicilia,gc,Biesse - Carrera,2.1,,0,0,,3.0,,,3.0
+2022-09-18,2022,gooikse-pijl,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,50.0
+2022-09-11,2022,gp-de-fourmies,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,153.0
+2022-09-14,2022,gp-de-wallonie,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,5.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,10.0
+2022-05-21,2022,gp-herning,gc,Denmark,1.2,,0,0,,0.0,,,65.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,5.0
+2022-03-27,2022,gp-industria-artigianato,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,3.0
+2022-09-11,2022,gp-montreal,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,70.0
+2022-09-09,2022,gp-quebec,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,418.0
+2022-08-23,2022,gp-stad-zottegem,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,10.0
+2022-10-06,2022,gran-piemonte,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,0.0
+2022-10-08,2022,il-lombardia,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,15.0
+2022-04-04,2022,itzulia-basque-country,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,0.0,,,0.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,70.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,5.0
+2022-04-20,2022,la-fleche-wallonne,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,32.0
+2022-04-24,2022,liege-bastogne-liege,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,10.0
+2022-09-04,2022,maryland-cycling-classic,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,83.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,0.0
+2022-10-09,2022,memorial-rik-van-steenbergen,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,70.0
+2022-03-19,2022,milano-sanremo,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,290.0
+2022-03-16,2022,milano-torino,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,0.0
+2022-10-03,2022,munsterland-giro,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,66.0
+2022-01-16,2022,nc-australia,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,20.0
+2022-01-12,2022,nc-australia-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,30.0
+2022-06-22,2022,nc-estonia-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-italy,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-italy,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-italy-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,16.0
+2022-06-24,2022,nc-netherlands,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-slovakia,gc,Biesse - Carrera,NC,,0,0,,0.0,,,40.0
+2022-06-26,2022,nc-slovenia,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,60.0
+2022-06-26,2022,nc-switserland,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-united-states,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,3.0
+2022-06-23,2022,nc-usa-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,50.0
+2022-09-13,2022,okolo-slovenska,gc,Biesse - Carrera,2.1,,0,0,,0.0,,,0.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,0.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,70.0
+2022-10-06,2022,paris-bourges,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,0.0
+2022-09-25,2022,paris-chauny-classique,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,85.0
+2022-03-06,2022,paris-nice,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,400.0,,,470.0
+2022-04-17,2022,paris-roubaix,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,10.0
+2022-10-09,2022,paris-tours,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,5.0
+2022-03-20,2022,per-sempre-alfredo,gc,Biesse - Carrera,1.1,,,1,,0.0,,,30.0
+2022-03-20,2022,per-sempre-alfredo,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,105.0
+2022-03-20,2022,popolarissima,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,0.0
+2022-07-25,2022,prueba-villafranca,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,213.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,75.0
+2022-05-22,2022,rund-um-koln,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,63.0
+2022-02-16,2022,ruta-del-sol,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,88.0,,,88.0
+2022-07-30,2022,san-sebastian,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,144.0
+2022-04-06,2022,scheldeprijs,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,5.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Biesse - Carrera,2.1,,,1,,0.0,,,0.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Team BikeExchange - Jayco,2.1,,0,0,,0.0,,,5.0
+2022-03-05,2022,strade-bianche,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,0.0
+2022-03-07,2022,tirreno-adriatico,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,20.0,,,40.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,20.0,,,20.0
+2022-07-01,2022,tour-de-france,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,40.0,0.0,0.0,480.0
+2022-07-01,2022,tour-de-france,kom,Team BikeExchange - Jayco,2.UWT,,0,0,,40.0,0.0,0.0,480.0
+2022-07-01,2022,tour-de-france,points,Team BikeExchange - Jayco,2.UWT,,0,0,,40.0,0.0,0.0,480.0
+2022-05-11,2022,tour-de-hongrie,gc,Team BikeExchange - Jayco,2.1,,0,0,,5.0,,,19.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Biesse - Carrera,2.2,,0,0,,0.0,,,0.0
+2022-07-30,2022,tour-de-pologne,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,252.0,,,252.0
+2022-04-26,2022,tour-de-romandie,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,5.0,,,5.0
+2022-06-12,2022,tour-de-suisse,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,35.0,,,70.0
+2022-08-16,2022,tour-of-denmark,gc,Denmark,2.Pro,111.0,0.0,1,,5.0,,,5.0
+2022-05-26,2022,tour-of-estonia,gc,Team BikeExchange - Jayco,2.1,,0,0,,133.0,,,146.0
+2022-02-10,2022,tour-of-oman,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,68.0,,,93.0
+2022-06-15,2022,tour-of-slovenia,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,5.0,,,25.0
+2022-04-10,2022,tour-of-turkey,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,33.0,,,68.0
+2022-10-04,2022,tre-valli-varesine,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,0.0
+2022-06-02,2022,trofeo-alcide-degasperi,gc,Biesse - Carrera,1.2,,,1,,0.0,,,28.0
+2022-01-26,2022,trofeo-calvia,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,15.0
+2022-07-05,2022,trofeo-citta-di-brescia,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,15.0
+2022-03-02,2022,trofeo-laigueglia,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,0.0
+2022-01-30,2022,trofeo-palma,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,40.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,60.0
+2022-02-20,2022,uae-tour,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,,,12.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,40.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Denmark,CC,,0,0,,0.0,,,60.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,125.0
+2022-10-16,2022,veneto-classic,gc,Biesse - Carrera,1.1,,0,0,,0.0,,,0.0
+2022-10-16,2022,veneto-classic,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,3.0
+2022-03-21,2022,volta-a-catalunya,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,,,120.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Team BikeExchange - Jayco,2.1,,0,0,,128.0,,,147.0
+2022-08-20,2022,vuelta-a-espana,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,0.0,0.0,116.0
+2022-08-20,2022,vuelta-a-espana,kom,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,0.0,0.0,116.0
+2022-08-20,2022,vuelta-a-espana,points,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,0.0,0.0,116.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,0.0,,,0.0
+2022-04-29,2022,vuelta-asturias,gc,Team BikeExchange - Jayco,2.1,,0,0,,3.0,,,31.0
+2022-09-25,2022,world-championship,gc,Denmark,WC,,0,0,,0.0,,,161.0
+2022-09-18,2022,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,20.0
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,5.0
+2023-09-28,2023,coppa-agostoni,gc,Biesse - Carrera,1.1,,,1,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,3.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Biesse - Carrera,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,danish-championships,gc,Biesse - Carrera,NC,,,1,,0.0,,,0.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Biesse - Carrera,1.2,,,1,,0.0,,,3.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,25.0
+2023-10-11,2023,giro-del-veneto,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,13.0
+2023-06-02,2023,giro-dell-appennino,gc,Biesse - Carrera,1.1,,0,0,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Biesse - Carrera,2.2,,0,0,,40.0,,,40.0
+2023-04-11,2023,giro-di-sicilia,gc,Biesse - Carrera,2.1,,0,0,,0.0,,,0.0
+2023-03-26,2023,gp-industria-artigianato,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,14.0
+2023-06-24,2023,nc-italy,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,5.0
+2023-03-19,2023,per-sempre-alfredo,gc,Biesse - Carrera,1.1,,,1,,0.0,,,70.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Biesse - Carrera,2.2,,0,0,,0.0,,,0.0
+2023-06-02,2023,trofeo-alcide-degasperi,gc,Biesse - Carrera,1.2,,,1,,0.0,,,25.0
+2023-07-04,2023,trofeo-citta-di-brescia,gc,Biesse - Carrera,1.2,,,1,,0.0,,,20.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Biesse - Carrera,1.2,,,1,,0.0,,,25.0
+2023-03-01,2023,trofeo-laigueglia,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,5.0
+2023-10-15,2023,veneto-classic,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,0.0
+2024-05-26,2024,albani-classic-fyen-rundt,gc,Denmark,1.2,,0,0,,0.0,,,30.0
+2024-01-30,2024,alula-tour,gc,Team Jayco AlUla,2.1,,0,0,,125.0,,,144.0
+2024-04-14,2024,amstel-gold-race,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,85.0
+2024-08-04,2024,arctic-race-of-norway,gc,Team Jayco AlUla,2.Pro,15.0,10.0,1,,118.0,,,121.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,Team Jayco AlUla,2.Pro,13.0,20.0,1,,73.0,,,73.0
+2024-04-10,2024,brabantse-pijl,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,50.0
+2024-03-15,2024,bredene-koksijde-classic,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,155.0
+2024-08-25,2024,bretagne-classic,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,122.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,12.0
+2024-10-06,2024,coppa-agostoni,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,30.0
+2024-10-07,2024,coppa-bernocchi,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,0.0
+2024-09-08,2024,cyclassics-hamburg,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,16.0
+2024-06-23,2024,danish-championships,gc,Team Jayco AlUla,NC,,,1,,0.0,,,3.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,26.0
+2024-03-22,2024,e3-harelbeke,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,4.0
+2024-10-02,2024,elfsteden-race,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,70.0
+2024-05-01,2024,eschborn-frankfurt,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,18.0
+2024-03-24,2024,gent-wevelgem,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,110.0
+2024-05-04,2024,giro-d-italia,gc,Team Jayco AlUla,2.UWT,,0,0,,185.0,0.0,0.0,748.0
+2024-05-04,2024,giro-d-italia,kom,Team Jayco AlUla,2.UWT,,0,0,,185.0,0.0,0.0,748.0
+2024-05-04,2024,giro-d-italia,points,Team Jayco AlUla,2.UWT,,0,0,,185.0,0.0,0.0,748.0
+2024-10-16,2024,giro-del-veneto,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,125.0
+2024-10-05,2024,giro-dell-emilia,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,88.0
+2024-09-11,2024,giro-di-toscana,gc,Team Jayco AlUla,1.1,,,1,,0.0,,,15.0
+2024-09-22,2024,gooikse-pijl,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,75.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,135.0
+2024-03-14,2024,gp-de-denain,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,8.0
+2024-09-08,2024,gp-de-fourmies,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,8.0
+2024-01-20,2024,gp-de-valence,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,125.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Team Jayco AlUla,1.1,,,1,,0.0,,,50.0
+2024-05-25,2024,gp-herning,gc,Denmark,1.2,,0,0,,0.0,,,40.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,0.0
+2024-09-15,2024,gp-montreal,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,50.0
+2024-09-13,2024,gp-quebec,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,505.0
+2024-10-10,2024,gran-piemonte,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,30.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,20.0
+2024-01-28,2024,great-ocean-road-race,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,75.0
+2024-10-12,2024,il-lombardia,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,95.0
+2024-04-01,2024,itzulia-basque-country,gc,Team Jayco AlUla,2.UWT,,0,0,,20.0,,,40.0
+2024-10-20,2024,japan-cup,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,8.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,35.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,3.0
+2024-04-17,2024,la-fleche-wallonne,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,0.0
+2024-04-21,2024,liege-bastogne-liege,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,45.0
+2024-09-14,2024,memorial-marco-pantani,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,35.0
+2024-03-16,2024,milano-sanremo,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,670.0
+2024-10-03,2024,munsterland-giro,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,93.0
+2024-02-09,2024,muscat-classic,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,20.0
+2024-01-07,2024,nc-australia,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,245.0
+2024-01-04,2024,nc-australia-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,115.0
+2024-01-28,2024,nc-colombia,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,3.0
+2024-06-21,2024,nc-denmark-itt,gc,Team Jayco AlUla,NC,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-germany,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-germany-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-ireland,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,10.0
+2024-06-20,2024,nc-ireland-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-italy,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,1.0
+2024-06-20,2024,nc-italy-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-netherlands,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,100.0
+2024-06-23,2024,nc-slovenia,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-switserland,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,100.0
+2024-06-20,2024,nc-switzerland-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,10.0
+2024-05-19,2024,nc-united-states,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,0.0
+2024-06-27,2024,okolo-slovenska,gc,Team Jayco AlUla,2.1,4.0,60.0,1,,285.0,,,318.0
+2024-08-03,2024,olympic-games,gc,Denmark,Olympics,,0,0,,0.0,,,95.0
+2024-07-27,2024,olympic-games-itt,gc,Denmark,Olympics,,0,0,,0.0,,,90.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,2.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,210.0
+2024-03-03,2024,paris-nice,gc,Team Jayco AlUla,2.UWT,,0,0,,235.0,,,322.0
+2024-04-07,2024,paris-roubaix,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,15.0
+2024-07-25,2024,prueba-villafranca,gc,Team Jayco AlUla,1.1,,,1,,0.0,,,0.0
+2024-01-25,2024,race-torquay,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,10.0
+2024-08-28,2024,renewi-tour,gc,Team Jayco AlUla,2.UWT,,0,0,,8.0,,,53.0
+2024-05-20,2024,ronde-van-limburg,gc,Team Jayco AlUla,1.1,,,1,,0.0,,,125.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,160.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,130.0
+2024-02-16,2024,ruta-del-sol,gc,Team Jayco AlUla,2.Pro,,0,0,,0.0,,,0.0
+2024-08-10,2024,san-sebastian,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,8.0
+2024-04-03,2024,scheldeprijs,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,133.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,Team Jayco AlUla,2.1,92.0,0.0,1,,63.0,,,71.0
+2024-03-02,2024,strade-bianche,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,84.0
+2024-03-04,2024,tirreno-adriatico,gc,Team Jayco AlUla,2.UWT,,0,0,,50.0,,,50.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Team Jayco AlUla,2.UWT,,0,0,,50.0,,,50.0
+2024-06-29,2024,tour-de-france,gc,Team Jayco AlUla,2.UWT,,0,0,,165.0,0.0,0.0,880.0
+2024-06-29,2024,tour-de-france,kom,Team Jayco AlUla,2.UWT,,0,0,,165.0,0.0,0.0,880.0
+2024-06-29,2024,tour-de-france,points,Team Jayco AlUla,2.UWT,,0,0,,165.0,0.0,0.0,880.0
+2024-05-08,2024,tour-de-hongrie,gc,Team Jayco AlUla,2.Pro,,0,0,,65.0,,,80.0
+2024-08-12,2024,tour-de-pologne,gc,Team Jayco AlUla,2.UWT,,0,0,,24.0,,,32.0
+2024-04-23,2024,tour-de-romandie,gc,Team Jayco AlUla,2.UWT,,0,0,,80.0,,,110.0
+2024-06-09,2024,tour-de-suisse,gc,Team Jayco AlUla,2.UWT,57.0,3.0,1,,6.0,,,54.0
+2024-01-16,2024,tour-down-under,gc,Team Jayco AlUla,2.UWT,,0,0,,170.0,,,245.0
+2024-07-02,2024,tour-of-austria,gc,Team Jayco AlUla,2.1,,0,0,,29.0,,,43.0
+2024-10-01,2024,tour-of-croatia,gc,Team Jayco AlUla,2.1,6.0,40.0,1,,40.0,,,40.0
+2024-08-15,2024,tour-of-denmark,gc,Denmark,2.Pro,3.0,125.0,1,,128.0,,,133.0
+2024-10-15,2024,tour-of-guangxi,gc,Team Jayco AlUla,2.UWT,,0,0,,41.0,,,51.0
+2024-02-10,2024,tour-of-oman,gc,Team Jayco AlUla,2.Pro,,0,0,,5.0,,,35.0
+2024-06-12,2024,tour-of-slovenia,gc,Team Jayco AlUla,2.Pro,,0,0,,70.0,,,110.0
+2024-04-15,2024,tour-of-the-alps,gc,Team Jayco AlUla,2.Pro,,0,0,,10.0,,,45.0
+2024-10-08,2024,tre-valli-varesine,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofeo-laigueglia,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,13.0
+2024-09-15,2024,trofeo-matteotti,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,75.0
+2024-02-19,2024,uae-tour,gc,Team Jayco AlUla,2.UWT,,0,0,,17.0,,,31.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,10.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Denmark,CC,,,1,,0.0,,,98.0
+2024-05-18,2024,veenendaal-veenendaal,gc,Team Jayco AlUla,1.1,,,1,,0.0,,,70.0
+2024-10-20,2024,veneto-classic,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,125.0
+2024-03-18,2024,volta-a-catalunya,gc,Team Jayco AlUla,2.UWT,,0,0,,142.0,,,173.0
+2024-08-05,2024,vuelta-a-burgos,gc,Team Jayco AlUla,2.Pro,,0,0,,5.0,,,25.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Team Jayco AlUla,1.1,,,1,,0.0,,,125.0
+2024-08-17,2024,vuelta-a-espana,gc,Team Jayco AlUla,2.UWT,,0,0,,165.0,0.0,0.0,1255.0
+2024-08-17,2024,vuelta-a-espana,kom,Team Jayco AlUla,2.UWT,,0,0,,165.0,0.0,0.0,1255.0
+2024-08-17,2024,vuelta-a-espana,points,Team Jayco AlUla,2.UWT,,0,0,,165.0,0.0,0.0,1255.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Team Jayco AlUla,2.Pro,,0,0,,45.0,,,48.0
+2024-09-29,2024,world-championship,gc,Denmark,WC,,0,0,,0.0,,,160.0
+2024-09-22,2024,world-championship-itt,gc,Denmark,WC,,0,0,,0.0,,,155.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Denmark,1.2,,0,0,,0.0,,,25.0
+2025-01-28,2025,alula-tour,gc,Team Jayco AlUla,2.1,,0,0,,40.0,,,58.0
+2025-04-20,2025,amstel-gold-race,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,263.0
+2025-08-07,2025,arctic-race-of-norway,gc,Team Jayco AlUla,2.Pro,,0,0,,85.0,,,85.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Team Jayco AlUla,2.Pro,,0,0,,0.0,,,5.0
+2025-03-21,2025,bredene-koksijde-classic,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,3.0
+2025-08-31,2025,bretagne-classic,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,116.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,20.0
+2025-08-15,2025,circuit-franco-belge,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,10.0
+2025-02-16,2025,clasica-de-almeria,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,5.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,60.0
+2025-06-22,2025,copenhagen-sprint,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,100.0
+2025-06-22,2025,copenhagen-sprint,gc,Denmark,1.UWT,,0,0,,0.0,,,45.0
+2025-10-06,2025,coppa-bernocchi,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,85.0
+2025-08-17,2025,cyclassics-hamburg,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,0.0
+2025-06-29,2025,danish-championships,gc,Team Jayco AlUla,NC,,,1,,0.0,,,1.0
+2025-06-14,2025,dwars-door-het-hageland,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,3.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,10.0
+2025-03-28,2025,e3-harelbeke,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,16.0
+2025-05-01,2025,eschborn-frankfurt,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,324.0
+2025-03-30,2025,gent-wevelgem,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,15.0
+2025-05-09,2025,giro-d-italia,gc,Team Jayco AlUla,2.UWT,,0,0,,60.0,0.0,0.0,612.0
+2025-05-09,2025,giro-d-italia,kom,Team Jayco AlUla,2.UWT,,0,0,,60.0,0.0,0.0,612.0
+2025-05-09,2025,giro-d-italia,points,Team Jayco AlUla,2.UWT,,0,0,,60.0,0.0,0.0,612.0
+2025-10-15,2025,giro-del-veneto,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,75.0
+2025-10-04,2025,giro-dell-emilia,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,8.0
+2025-09-10,2025,giro-di-toscana,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,8.0
+2025-09-21,2025,gooikse-pijl,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,85.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,0.0
+2025-03-20,2025,gp-de-denain,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,0.0
+2025-09-14,2025,gp-de-fourmies,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,85.0
+2025-01-26,2025,gp-de-valence,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,0.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,95.0
+2025-05-03,2025,gp-herning,gc,Denmark,1.2,,0,0,,0.0,,,10.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,5.0
+2025-09-07,2025,gp-industria-artigianato,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,105.0
+2025-09-14,2025,gp-montreal,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,60.0
+2025-09-12,2025,gp-quebec,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,120.0
+2025-10-09,2025,gran-piemonte,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,95.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,20.0
+2025-02-02,2025,great-ocean-road-race,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,317.0
+2025-10-11,2025,il-lombardia,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,110.0
+2025-04-07,2025,itzulia-basque-country,gc,Team Jayco AlUla,2.UWT,,,1,,0.0,,,1.0
+2025-10-19,2025,japan-cup,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,93.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,85.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,5.0
+2025-04-23,2025,la-fleche-wallonne,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,92.0
+2025-04-27,2025,liege-bastogne-liege,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,180.0
+2025-09-06,2025,maryland-cycling-classic,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,125.0
+2025-03-22,2025,milano-sanremo,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,470.0
+2025-10-03,2025,munsterland-giro,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,5.0
+2025-02-07,2025,muscat-classic,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,10.0
+2025-01-12,2025,nc-australia,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,176.0
+2025-01-09,2025,nc-australia-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,95.0
+2025-06-27,2025,nc-austria-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,30.0
+2025-06-29,2025,nc-austria2,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-germany,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,75.0
+2025-06-27,2025,nc-germany-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-italy,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,0.0
+2025-06-28,2025,nc-netherlands,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,60.0
+2025-06-24,2025,nc-netherlands-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,1.0
+2025-02-08,2025,nc-new-zealand,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,30.0
+2025-02-09,2025,nc-south-africa,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,3.0
+2025-02-07,2025,nc-south-africa-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-switserland,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,100.0
+2025-06-26,2025,nc-switzerland-itt,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,ncgreat-britain,gc,Team Jayco AlUla,NC,,0,0,,0.0,,,0.0
+2025-09-17,2025,okolo-slovenska,gc,Team Jayco AlUla,2.1,,0,0,,191.0,,,205.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,12.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,3.0
+2025-03-09,2025,paris-nice,gc,Team Jayco AlUla,2.UWT,,0,0,,55.0,,,97.0
+2025-04-13,2025,paris-roubaix,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,5.0
+2025-01-30,2025,race-torquay,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,3.0
+2025-08-20,2025,renewi-tour,gc,Team Jayco AlUla,2.UWT,,0,0,,30.0,,,60.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,85.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Team Jayco AlUla,1.1,,0,0,,0.0,,,10.0
+2025-02-19,2025,ruta-del-sol,gc,Team Jayco AlUla,2.Pro,40.0,3.0,1,,14.0,,,14.0
+2025-08-02,2025,san-sebastian,gc,Team Jayco AlUla,1.UWT,,0,0,,0.0,,,200.0
+2025-04-09,2025,scheldeprijs,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,33.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Team Jayco AlUla,2.1,,0,0,,5.0,,,19.0
+2025-03-08,2025,strade-bianche,gc,Team Jayco AlUla,1.UWT,,,1,,0.0,,,18.0
+2025-03-10,2025,tirreno-adriatico,gc,Team Jayco AlUla,2.UWT,,0,0,,20.0,,,20.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Team Jayco AlUla,2.UWT,87.0,0.0,1,,40.0,,,50.0
+2025-07-05,2025,tour-de-france,gc,Team Jayco AlUla,2.UWT,,0,0,,190.0,0.0,0.0,860.0
+2025-07-05,2025,tour-de-france,kom,Team Jayco AlUla,2.UWT,,0,0,,190.0,0.0,0.0,860.0
+2025-07-05,2025,tour-de-france,points,Team Jayco AlUla,2.UWT,,0,0,,190.0,0.0,0.0,860.0
+2025-05-14,2025,tour-de-hongrie,gc,Team Jayco AlUla,2.Pro,,0,0,,0.0,,,45.0
+2025-08-04,2025,tour-de-pologne,gc,Team Jayco AlUla,2.UWT,,0,0,,84.0,,,87.0
+2025-04-29,2025,tour-de-romandie,gc,Team Jayco AlUla,2.UWT,,,1,,60.0,,,62.0
+2025-06-15,2025,tour-de-suisse,gc,Team Jayco AlUla,2.UWT,,0,0,,160.0,,,220.0
+2025-07-26,2025,tour-de-wallonie,gc,Team Jayco AlUla,2.Pro,5.0,85.0,1,,88.0,,,93.0
+2025-01-21,2025,tour-down-under,gc,Team Jayco AlUla,2.UWT,,0,0,,225.0,,,250.0
+2025-07-09,2025,tour-of-austria,gc,Team Jayco AlUla,2.1,,0,0,,95.0,,,95.0
+2025-09-30,2025,tour-of-croatia,gc,Team Jayco AlUla,2.1,,0,0,,25.0,,,25.0
+2025-08-12,2025,tour-of-denmark,gc,Denmark,2.Pro,15.0,10.0,1,,23.0,,,23.0
+2025-10-14,2025,tour-of-guangxi,gc,Team Jayco AlUla,2.UWT,,0,0,,325.0,,,373.0
+2025-04-02,2025,tour-of-hellas,gc,Team Jayco AlUla,2.1,,0,0,,6.0,,,30.0
+2025-02-08,2025,tour-of-oman,gc,Team Jayco AlUla,2.Pro,,0,0,,73.0,,,78.0
+2025-06-04,2025,tour-of-slovenia,gc,Team Jayco AlUla,2.Pro,,0,0,,0.0,,,20.0
+2025-04-21,2025,tour-of-the-alps,gc,Team Jayco AlUla,2.Pro,,0,0,,35.0,,,40.0
+2025-10-07,2025,tre-valli-varesine,gc,Team Jayco AlUla,1.Pro,,0,0,,0.0,,,5.0
+2025-03-05,2025,trofeo-laigueglia,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,30.0
+2025-02-17,2025,uae-tour,gc,Team Jayco AlUla,2.UWT,,0,0,,10.0,,,44.0
+2025-10-01,2025,uec-road-european-championships-itt,gc,Denmark,CC,,0,0,,0.0,,,40.0
+2025-10-05,2025,uec-road-european-championships-me,gc,Denmark,CC,,0,0,,0.0,,,80.0
+2025-10-19,2025,veneto-classic,gc,Team Jayco AlUla,1.Pro,,,1,,0.0,,,90.0
+2025-03-24,2025,volta-a-catalunya,gc,Team Jayco AlUla,2.UWT,107.0,0.0,1,,48.0,,,74.0
+2025-08-23,2025,vuelta-a-espana,gc,Team Jayco AlUla,2.UWT,147.0,0.0,1,,50.0,0.0,0.0,267.0
+2025-08-23,2025,vuelta-a-espana,kom,Team Jayco AlUla,2.UWT,,,1,,50.0,0.0,0.0,267.0
+2025-08-23,2025,vuelta-a-espana,points,Team Jayco AlUla,2.UWT,63.0,0.0,1,,50.0,0.0,0.0,267.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Team Jayco AlUla,2.Pro,,0,0,,40.0,,,40.0
+2025-09-28,2025,world-championship,gc,Denmark,WC,,,1,,0.0,,,595.0

@@ -1,0 +1,55 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-09-09,2020,course-cycliste-de-solidarnosc,gc,Memil - CCN Pro Cycling,2.2,101.0,0.0,1,,0.0,,,0.0
+2020-01-31,2020,deia-trophy,gc,Memil - CCN Pro Cycling,1.1,,,1,,0.0,,,0.0
+2020-01-25,2020,gravel-and-tar,gc,Memil - CCN Pro Cycling,1.2,,0,0,,0.0,,,35.0
+2020-01-12,2020,nc-australia,gc,Memil - CCN Pro Cycling,NC,,0,0,,0.0,,,0.0
+2020-10-04,2020,nc-sweden,gc,Memil - CCN Pro Cycling,NC,,,1,,0.0,,,40.0
+2020-07-25,2020,nc-sweden-itt,gc,Memil - CCN Pro Cycling,NC,,,1,,0.0,,,10.0
+2020-01-15,2020,new-zealand-cycle-classic,gc,Memil - CCN Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2020-03-01,2020,tour-de-taiwan,gc,Memil - CCN Pro Cycling,2.1,,0,0,,8.0,,,8.0
+2020-02-02,2020,trofeo-palma,gc,Memil - CCN Pro Cycling,1.1,,,1,,0.0,,,0.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,Memil - CCN Pro Cycling,1.1,,,1,,0.0,,,0.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,Memil - CCN Pro Cycling,1.1,,,1,,0.0,,,0.0
+2023-05-14,2023,albani-classic-fyen-rundt,gc,Team IBT - Tripeak,1.2,,0,0,,0.0,,,0.0
+2023-08-18,2023,baltic-chain-tour,gc,Team IBT - Tripeak,2.2,,0,0,,5.0,,,5.0
+2023-06-25,2023,danish-championships,gc,Team IBT - Tripeak,NC,,0,0,,0.0,,,0.0
+2023-05-13,2023,gp-herning,gc,Team IBT - Tripeak,1.2,,0,0,,0.0,,,0.0
+2023-09-17,2023,grote-prijs-rik-van-looy,gc,Team IBT - Tripeak,1.2,,0,0,,0.0,,,0.0
+2023-08-12,2023,memorial-henryka-lasaka,gc,Team IBT - Tripeak,1.2,,0,0,,0.0,,,0.0
+2023-06-04,2023,memorial-philippe-van-coningsloo,gc,Team IBT - Tripeak,1.2,,,1,,0.0,,,3.0
+2023-08-13,2023,memorial_jana_magiery_2022,gc,Team IBT - Tripeak,1.2,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-denmark-itt,gc,Team IBT - Tripeak,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-sweden,gc,Team IBT - Tripeak,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-sweden-itt,gc,Team IBT - Tripeak,NC,,0,0,,0.0,,,23.0
+2023-03-11,2023,rhodes-gp,gc,Team IBT - Tripeak,1.2,,0,0,,0.0,,,0.0
+2023-03-04,2023,south-aegean-tour,gc,Team IBT - Tripeak,2.2,,0,0,,0.0,,,0.0
+2023-03-17,2023,tour-of-rhodes,gc,Team IBT - Tripeak,2.2,,0,0,,0.0,,,7.0
+2024-06-26,2024,course-cycliste-de-solidarnosc,gc,Svealand Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-07-24,2024,dookola-mazowsza,gc,Svealand Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-05-04,2024,hadeland-gp,gc,Svealand Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-07-23,2024,memorial-andrzeja-trochanowskiego,gc,Svealand Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-sweden,gc,Svealand Cycling Team,NC,,,1,,0.0,,,0.0
+2024-06-18,2024,nc-sweden-itt,gc,Svealand Cycling Team,NC,,0,0,,0.0,,,15.0
+2024-07-28,2024,puchar-ministra-obrony-narodowej,gc,Svealand Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-05-05,2024,ringerike-gp,gc,Svealand Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-08-21,2024,tour-bitwa-warszawska-1920,gc,Svealand Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-06-12,2024,tour-de-kurpie,gc,Svealand Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-07-23,2025,dookola-mazowsza,gc,Lucky Sport Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-03-09,2025,dorpenomloop-rucphen,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-09-21,2025,gooikse-pijl,gc,Lucky Sport Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-05-03,2025,gp-herning,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-05-10,2025,hadeland-gp,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-08-02,2025,kreiz-breizh-elites,gc,Lucky Sport Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-07-22,2025,memorial-andrzeja-trochanowskiego,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-06-15,2025,nc-finland,gc,Lucky Sport Cycling Team,NC,,0,0,,0.0,,,15.0
+2025-06-13,2025,nc-finland-itt,gc,Lucky Sport Cycling Team,NC,,0,0,,0.0,,,3.0
+2025-06-29,2025,nc-sweden,gc,Lucky Sport Cycling Team,NC,,,1,,0.0,,,33.0
+2025-07-01,2025,nc-sweden-itt,gc,Lucky Sport Cycling Team,NC,,0,0,,0.0,,,1.0
+2025-03-26,2025,olympias-tour,gc,Lucky Sport Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-07-27,2025,puchar-ministra-obrony-narodowej,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-05-17,2025,raceseo-1749389130,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-05-11,2025,ringerike-gp,gc,Lucky Sport Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,ronde-van-de-achterhoek,gc,Lucky Sport Cycling Team,1.2,,,1,,0.0,,,0.0
+2025-08-30,2025,slag-om-norg,gc,Lucky Sport Cycling Team,1.2,,,1,,0.0,,,0.0
+2025-06-04,2025,tour-of-lithuania,gc,Lucky Sport Cycling Team,2.2,,0,0,,0.0,,,0.0

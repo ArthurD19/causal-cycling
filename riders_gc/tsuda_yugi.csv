@@ -1,0 +1,63 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-04-15,2022,classic-grand-besancon-doubs,gc,EF Education-NIPPO Development Team,1.1,,0,0,,0.0,,,0.0
+2022-06-26,2022,danish-championships,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2022-05-08,2022,fleche-ardennaise,gc,EF Education-NIPPO Development Team,1.2,,,1,,0.0,,,0.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,EF Education-NIPPO Development Team,2.1,56.0,0.0,1,,0.0,,,0.0
+2022-09-18,2022,gp-d-isbergues,gc,EF Education-NIPPO Development Team,1.1,,0,0,,0.0,,,0.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,EF Education-NIPPO Development Team,1.1,,0,0,,0.0,,,0.0
+2022-02-05,2022,grand-prix-alanya,gc,EF Education-NIPPO Development Team,1.2,,,1,,0.0,,,0.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,EF Education-NIPPO Development Team,1.2,,,1,,0.0,,,0.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,10.0
+2022-09-17,2022,grote-prijs-rik-van-looy,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,EF Education-NIPPO Development Team,2.2,85.0,0.0,1,,20.0,,,21.0
+2022-04-25,2022,le-tour-de-bretagne,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-japan,gc,EF Education-NIPPO Development Team,NC,,,1,,0.0,,,8.0
+2022-06-26,2022,nc-norway,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-norway-itt,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-poland,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-switserland,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,1.0
+2022-06-06,2022,paris-troyes,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
+2022-04-01,2022,route-adelie-de-vitre,gc,EF Education-NIPPO Development Team,1.1,,,1,,0.0,,,0.0
+2022-07-02,2022,sibiu-cycling-tour,gc,EF Education-NIPPO Development Team,2.1,,0,0,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,0.0
+2022-09-09,2022,tour-de-hokkaido,gc,EF Education-NIPPO Development Team,2.2,,0,0,,40.0,,,43.0
+2022-05-27,2022,tour-de-kumano,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,1.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,EF Education-NIPPO Development Team,2.2,90.0,0.0,1,,0.0,,,0.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,EF Education-NIPPO Development Team,1.1,,0,0,,0.0,,,0.0
+2022-06-17,2022,tour-du-pays-de-montbeliard,gc,EF Education-NIPPO Development Team,2.2,,0,0,,15.0,,,15.0
+2022-05-19,2022,tour-of-japan,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,7.0
+2022-03-02,2022,trofej-umag,gc,EF Education-NIPPO Development Team,1.2,,,1,,0.0,,,20.0
+2023-10-15,2023,japan-cup,gc,Kinan Cycling Team,1.Pro,,,1,,0.0,,,0.0
+2023-11-05,2023,mine-akiyoshi-dai-karst-international-road-race,gc,Kinan Cycling Team,1.2,,0,0,,0.0,,,33.0
+2023-01-08,2023,nc-australia,gc,Kinan Cycling Team,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-japan,gc,Kinan Cycling Team,NC,,0,0,,0.0,,,60.0
+2023-01-11,2023,new-zealand-cycle-classic,gc,Kinan Cycling Team,2.2,,0,0,,15.0,,,18.0
+2023-10-01,2023,oita-urban-classic,gc,Kinan Cycling Team,1.2,,0,0,,0.0,,,65.0
+2023-09-08,2023,tour-de-hokkaido,gc,Kinan Cycling Team,2.2,,0,0,,0.0,,,0.0
+2023-06-03,2023,tour-de-kumano,gc,Kinan Cycling Team,2.2,,,1,,0.0,,,10.0
+2023-10-07,2023,tour-de-kyushu,gc,Kinan Cycling Team,2.1,,0,0,,45.0,,,50.0
+2023-11-12,2023,tour-de-okinawa,gc,Kinan Cycling Team,1.2,,0,0,,0.0,,,3.0
+2023-03-12,2023,tour-de-taiwan,gc,Kinan Cycling Team,2.1,,0,0,,43.0,,,43.0
+2023-05-21,2023,tour-of-japan,gc,Kinan Cycling Team,2.1,54.0,0.0,1,,80.0,,,88.0
+2023-01-27,2023,tour-of-sharjah,gc,Kinan Cycling Team,2.2,,0,0,,20.0,,,20.0
+2024-06-12,2024,asian-championships-me,gc,Japan,CC,,0,0,,0.0,,,150.0
+2024-06-09,2024,asian-cycling-championships-itt,gc,Japan,CC,,0,0,,0.0,,,40.0
+2024-08-31,2024,in-the-footsteps-of-the-romans,gc,NIPPO-EF-Martigues,2.2,9.0,3.0,1,,6.0,,,6.0
+2024-10-20,2024,japan-cup,gc,Japan,1.Pro,,,1,,0.0,,,-10.0
+2024-06-21,2024,nc-bulgaria,gc,NIPPO-EF-Martigues,NC,,0,0,,0.0,,,3.0
+2024-06-20,2024,nc-bulgaria-itt,gc,NIPPO-EF-Martigues,NC,,0,0,,0.0,,,0.0
+2024-06-16,2024,nc-finland,gc,NIPPO-EF-Martigues,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-ireland,gc,NIPPO-EF-Martigues,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-japan,gc,NIPPO-EF-Martigues,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-japan-itt,gc,NIPPO-EF-Martigues,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-poland,gc,NIPPO-EF-Martigues,NC,,0,0,,0.0,,,0.0
+2024-09-29,2024,oita-urban-classic,gc,NIPPO-EF-Martigues,1.2,,,1,,0.0,,,0.0
+2024-08-03,2024,olympic-games,gc,Japan,Olympics,,0,0,,0.0,,,5.0
+2024-05-10,2024,tour-de-kumano,gc,NIPPO-EF-Martigues,2.2,,0,0,,0.0,,,0.0
+2024-05-31,2024,tour-du-maroc,gc,NIPPO-EF-Martigues,2.2,22.0,0.0,1,,0.0,,,1.0
+2024-08-24,2024,tour-of-bulgaria,gc,NIPPO-EF-Martigues,2.2,26.0,0.0,1,,0.0,,,0.0
+2024-05-19,2024,tour-of-japan,gc,Japan,2.2,,0,0,,0.0,,,6.0
+2024-05-19,2024,tour-of-japan,gc,NIPPO-EF-Martigues,2.2,,0,0,,0.0,,,0.0
+2024-09-29,2024,world-championship,gc,Japan,WC,,0,0,,0.0,,,0.0

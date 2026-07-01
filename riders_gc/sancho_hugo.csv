@@ -1,0 +1,42 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-12,2017,classica-aldeias-do-xisto-cylin-portugal,gc,LA Aluminios-Metalusa,1.2,,,1,,0.0,,,3.0
+2017-07-05,2017,gp-int-torres-vedras,gc,LA Aluminios-Metalusa,2.2,13.0,0.0,1,,3.0,,,3.0
+2017-06-02,2017,gp-internacional-beiras-e-serra-da-estrela,gc,LA Aluminios-Metalusa,2.1,42.0,0.0,1,,3.0,,,3.0
+2017-06-23,2017,nc-portugal,gc,LA Aluminios-Metalusa,NC,,0,0,,0.0,,,1.0
+2017-06-25,2017,nc-portugal2,gc,LA Aluminios-Metalusa,NC,,0,0,,0.0,,,3.0
+2017-06-25,2017,nc-spain,gc,LA Aluminios-Metalusa,NC,,0,0,,0.0,,,0.0
+2017-06-23,2017,nc-spain-itt,gc,LA Aluminios-Metalusa,NC,,0,0,,0.0,,,0.0
+2017-03-05,2017,trofeu-da-arrabida,gc,LA Aluminios-Metalusa,1.2,,,1,,0.0,,,0.0
+2017-08-04,2017,volta-a-portugal,gc,LA Aluminios-Metalusa,2.1,11.0,15.0,1,,23.0,,,23.0
+2017-02-22,2017,volta-ao-alentejo,gc,LA Aluminios-Metalusa,2.1,115.0,0.0,1,,41.0,,,41.0
+2017-02-15,2017,volta-ao-algarve,gc,LA Aluminios-Metalusa,2.HC,119.0,0.0,1,,35.0,,,35.0
+2017-05-19,2017,vuelta-a-castilla-y-leon,gc,LA Aluminios-Metalusa,2.1,59.0,0.0,1,,0.0,,,0.0
+2017-04-29,2017,vuelta-asturias,gc,LA Aluminios-Metalusa,2.1,,,1,,3.0,,,3.0
+2017-04-02,2017,vuelta-ciclista-a-la-rioja,gc,LA Aluminios-Metalusa,1.1,,,1,,0.0,,,5.0
+2018-07-18,2018,Grande-Premio-de-Portugal-N2,gc,Vito-Feirense-BlackJack,2.2,,0,0,,10.0,,,18.0
+2018-03-25,2018,classica-aldeias-do-xisto-cylin-portugal,gc,Vito-Feirense-BlackJack,1.2,,,1,,0.0,,,0.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Vito-Feirense-BlackJack,2.1,,,1,,25.0,,,25.0
+2018-06-22,2018,nc-portugal,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,1.0
+2018-06-24,2018,nc-portugal2,gc,Vito-Feirense-BlackJack,NC,,,1,,0.0,,,5.0
+2018-06-24,2018,nc-spain,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,0.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Vito-Feirense-BlackJack,1.2,,0,0,,0.0,,,0.0
+2018-08-01,2018,volta-a-portugal,gc,Vito-Feirense-BlackJack,2.1,32.0,0.0,1,,6.0,,,9.0
+2018-03-14,2018,volta-ao-alentejo,gc,Vito-Feirense-BlackJack,2.2,103.0,0.0,1,,0.0,,,7.0
+2018-02-14,2018,volta-ao-algarve,gc,Vito-Feirense-BlackJack,2.HC,97.0,0.0,1,,0.0,,,0.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Vito-Feirense-BlackJack,2.1,,0,0,,175.0,,,192.0
+2019-07-11,2019,gp-int-torres-vedras,gc,Miranda - Mortágua,2.2,13.0,0.0,1,,0.0,,,0.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,Miranda - Mortágua,2.1,50.0,0.0,1,,0.0,,,0.0
+2019-06-28,2019,nc-portugal,gc,Miranda - Mortágua,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-portugal2,gc,Miranda - Mortágua,NC,,,1,,0.0,,,0.0
+2019-03-17,2019,trofeu-da-arrabida,gc,Miranda - Mortágua,1.2,,,1,,0.0,,,0.0
+2019-07-31,2019,volta-a-portugal,gc,Miranda - Mortágua,2.1,11.0,15.0,1,,15.0,,,20.0
+2019-03-20,2019,volta-ao-alentejo,gc,Miranda - Mortágua,2.2,67.0,0.0,1,,0.0,,,0.0
+2019-02-20,2019,volta-ao-algarve,gc,Miranda - Mortágua,2.HC,93.0,0.0,1,,0.0,,,0.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Miranda - Mortágua,2.1,,,1,,0.0,,,0.0
+2020-09-19,2020,gp-int-torres-vedras,gc,Miranda - Mortágua,2.2,22.0,0.0,1,,0.0,,,1.0
+2020-08-14,2020,nc-portugal,gc,Miranda - Mortágua,NC,,0,0,,0.0,,,0.0
+2020-08-16,2020,nc-portugal2,gc,Miranda - Mortágua,NC,,,1,,0.0,,,1.0
+2020-08-23,2020,nc-spain,gc,Miranda - Mortágua,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-spain-itt,gc,Miranda - Mortágua,NC,,0,0,,0.0,,,0.0
+2020-09-27,2020,volta-a-portugal,gc,Miranda - Mortágua,2.1,27.0,0.0,1,,5.0,,,16.0
+2020-02-19,2020,volta-ao-algarve,gc,Miranda - Mortágua,2.Pro,103.0,0.0,1,,0.0,,,0.0

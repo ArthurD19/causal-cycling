@@ -1,0 +1,448 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-23,2017,abu-dhabi-tour,gc,Team Sky,2.UWT,,0,0,,17.0,,,17.0
+2017-04-16,2017,amstel-gold-race,gc,Team Sky,1.UWT,,,1,,0.0,,,575.0
+2017-08-27,2017,bretagne-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,408.0
+2017-08-20,2017,cyclassics-hamburg,gc,Team Sky,1.UWT,,0,0,,0.0,,,416.0
+2017-01-27,2017,deia-trophy,gc,Team Sky,1.1,,0,0,,0.0,,,60.0
+2017-01-31,2017,dubai-tour,gc,Team Sky,2.HC,,0,0,,85.0,,,95.0
+2017-03-24,2017,e3-harelbeke,gc,Team Sky,1.UWT,,0,0,,0.0,,,34.0
+2017-03-26,2017,gent-wevelgem,gc,Team Sky,1.UWT,,0,0,,0.0,,,20.0
+2017-05-05,2017,giro-d-italia,gc,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-05-05,2017,giro-d-italia,kom,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-05-05,2017,giro-d-italia,points,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-09-30,2017,giro-dell-emilia,gc,Team Sky,1.HC,,,1,,0.0,,,93.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Team Sky,1.HC,,0,0,,0.0,,,130.0
+2017-09-28,2017,gp-citta-di-peccioli,gc,Team Sky,1.1,,0,0,,0.0,,,40.0
+2017-09-10,2017,gp-montreal,gc,Team Sky,1.UWT,,,1,,0.0,,,55.0
+2017-09-08,2017,gp-quebec,gc,Team Sky,1.UWT,,,1,,0.0,,,45.0
+2017-04-01,2017,gran-premio-miguel-indurain,gc,Team Sky,1.1,,,1,,0.0,,,139.0
+2017-01-29,2017,great-ocean-road-race,gc,Team Sky,1.UWT,,,1,,0.0,,,137.0
+2017-02-01,2017,herald-sun-tour,gc,Team Sky,2.1,,0,0,,115.0,,,160.0
+2017-10-07,2017,il-lombardia,gc,Team Sky,1.UWT,,,1,,0.0,,,490.0
+2017-04-03,2017,itzulia-basque-country,gc,Team Sky,2.UWT,8.0,100.0,1,,144.0,,,164.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,0,0,,0.0,,,140.0
+2017-04-19,2017,la-fleche-wallonne,gc,Team Sky,1.UWT,,,1,,0.0,,,356.0
+2017-06-15,2017,la-route-d-occitanie,gc,Team Sky,2.1,16.0,3.0,1,,111.0,,,130.0
+2017-04-23,2017,liege-bastogne-liege,gc,Team Sky,1.UWT,,,1,,0.0,,,375.0
+2017-03-18,2017,milano-sanremo,gc,Team Sky,1.UWT,,0,0,,0.0,,,610.0
+2017-10-05,2017,milano-torino,gc,Team Sky,1.HC,,,1,,0.0,,,75.0
+2017-02-26,2017,nc-colombia,gc,Team Sky,NC,,,1,,0.0,,,70.0
+2017-06-22,2017,nc-great-britain-itt,gc,Team Sky,NC,,0,0,,0.0,,,16.0
+2017-06-25,2017,nc-italy,gc,Team Sky,NC,,0,0,,0.0,,,25.0
+2017-06-23,2017,nc-italy-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-netherlands,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-poland,gc,Team Sky,NC,,0,0,,0.0,,,5.0
+2017-06-21,2017,nc-poland-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-spain,gc,Team Sky,NC,,0,0,,0.0,,,15.0
+2017-06-23,2017,nc-spain-itt,gc,Team Sky,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,ncgreat-britain,gc,Team Sky,NC,,0,0,,0.0,,,60.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,0,0,,0.0,,,120.0
+2017-03-05,2017,paris-nice,gc,Team Sky,2.UWT,1.0,500.0,1,,530.0,,,555.0
+2017-04-09,2017,paris-roubaix,gc,Team Sky,1.UWT,,0,0,,0.0,,,228.0
+2017-08-07,2017,renewi-tour,gc,Team Sky,2.UWT,,0,0,,2.0,,,2.0
+2017-07-30,2017,ride-london-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,40.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,35.0
+2017-02-15,2017,ruta-del-sol,gc,Team Sky,2.HC,,0,0,,275.0,,,285.0
+2017-07-29,2017,san-sebastian,gc,Team Sky,1.UWT,,,1,,0.0,,,624.0
+2017-04-05,2017,scheldeprijs,gc,Team Sky,1.HC,,0,0,,0.0,,,153.0
+2017-03-04,2017,strade-bianche,gc,Team Sky,1.UWT,,0,0,,0.0,,,331.0
+2017-03-09,2017,tirreno-adriatico,gc,Team Sky,2.UWT,,0,0,,273.0,,,383.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Team Sky,2.UWT,,0,0,,308.0,,,378.0
+2017-07-01,2017,tour-de-france,gc,Team Sky,2.UWT,28.0,30.0,1,,1700.0,0.0,0.0,2040.0
+2017-07-01,2017,tour-de-france,kom,Team Sky,2.UWT,,,1,,1700.0,0.0,0.0,2040.0
+2017-07-01,2017,tour-de-france,points,Team Sky,2.UWT,129.0,0.0,1,,1700.0,0.0,0.0,2040.0
+2017-07-29,2017,tour-de-pologne,gc,Team Sky,2.UWT,,0,0,,286.0,,,454.0
+2017-04-25,2017,tour-de-romandie,gc,Team Sky,2.UWT,,0,0,,30.0,,,90.0
+2017-06-10,2017,tour-de-suisse,gc,Team Sky,2.UWT,,0,0,,150.0,,,150.0
+2017-04-28,2017,tour-de-yorkshire,gc,Team Sky,2.1,,0,0,,30.0,,,30.0
+2017-01-17,2017,tour-down-under,gc,Team Sky,2.UWT,12.0,60.0,1,,70.0,,,105.0
+2017-08-22,2017,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Sky,2.1,,0,0,,88.0,,,126.0
+2017-09-03,2017,tour-of-britain,gc,Team Sky,2.HC,,0,0,,185.0,,,225.0
+2017-05-14,2017,tour-of-california,gc,Team Sky,2.UWT,,0,0,,225.0,,,292.0
+2017-10-19,2017,tour-of-guangxi,gc,Team Sky,2.UWT,,0,0,,117.0,,,117.0
+2017-04-17,2017,tour-of-the-alps,gc,Team Sky,2.HC,,0,0,,288.0,,,333.0
+2017-10-03,2017,tre-valli-varesine,gc,Team Sky,1.HC,,,1,,0.0,,,60.0
+2017-01-29,2017,trofeo-palma,gc,Team Sky,1.1,,0,0,,0.0,,,35.0
+2017-01-28,2017,trofeo-pollenca-port-d-andratx,gc,Team Sky,1.1,,0,0,,0.0,,,59.0
+2017-01-26,2017,trofeo-ses-salines-felanitx,gc,Team Sky,1.1,,0,0,,0.0,,,65.0
+2017-03-20,2017,volta-a-catalunya,gc,Team Sky,2.UWT,,0,0,,28.0,,,48.0
+2017-02-15,2017,volta-ao-algarve,gc,Team Sky,2.HC,,0,0,,155.0,,,160.0
+2017-08-01,2017,vuelta-a-burgos,gc,Team Sky,2.HC,,0,0,,210.0,,,265.0
+2017-08-20,2017,vuelta-a-espana,gc,Team Sky,2.UWT,,0,0,,1262.0,20.0,100.0,1638.0
+2017-08-20,2017,vuelta-a-espana,kom,Team Sky,2.UWT,,0,0,,1262.0,20.0,100.0,1638.0
+2017-08-20,2017,vuelta-a-espana,points,Team Sky,2.UWT,,0,0,,1262.0,20.0,100.0,1638.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,68.0,,,68.0
+2017-09-24,2017,world-championship,gc,Colombia,WC,,,1,,0.0,,,170.0
+2017-09-20,2017,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2018-02-21,2018,abu-dhabi-tour,gc,Team Sky,2.UWT,,0,0,,36.0,,,51.0
+2018-04-15,2018,amstel-gold-race,gc,Team Sky,1.UWT,,,1,,0.0,,,40.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Team Sky,1.HC,,0,0,,0.0,,,150.0
+2018-08-26,2018,bretagne-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,16.0
+2018-02-06,2018,colombia-21,gc,Team Sky,2.1,4.0,60.0,1,,188.0,,,204.0
+2018-02-06,2018,colombia-21,gc,Colombia,2.1,,0,0,,10.0,,,10.0
+2018-09-15,2018,coppa-agostoni,gc,Team Sky,1.1,,0,0,,0.0,,,125.0
+2018-09-16,2018,coppa-bernocchi,gc,Team Sky,1.1,,0,0,,0.0,,,53.0
+2018-08-19,2018,cyclassics-hamburg,gc,Team Sky,1.UWT,,0,0,,0.0,,,28.0
+2018-01-26,2018,deia-trophy,gc,Team Sky,1.1,,0,0,,0.0,,,91.0
+2018-08-23,2018,deutschland-tour,gc,Team Sky,2.1,,0,0,,8.0,,,8.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,48.0
+2018-03-23,2018,e3-harelbeke,gc,Team Sky,1.UWT,,0,0,,0.0,,,120.0
+2018-03-25,2018,gent-wevelgem,gc,Team Sky,1.UWT,,0,0,,0.0,,,10.0
+2018-05-04,2018,giro-d-italia,gc,Team Sky,2.UWT,13.0,84.0,1,,1054.0,100.0,0.0,1258.0
+2018-05-04,2018,giro-d-italia,kom,Team Sky,2.UWT,33.0,0.0,1,,1054.0,100.0,0.0,1258.0
+2018-05-04,2018,giro-d-italia,points,Team Sky,2.UWT,,,1,,1054.0,100.0,0.0,1258.0
+2018-10-06,2018,giro-dell-emilia,gc,Team Sky,1.HC,,0,0,,0.0,,,16.0
+2018-09-19,2018,giro-di-toscana,gc,Team Sky,1.1,,0,0,,0.0,,,130.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Team Sky,1.HC,,0,0,,0.0,,,60.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Team Sky,1.1,,0,0,,0.0,,,73.0
+2018-09-09,2018,gp-montreal,gc,Team Sky,1.UWT,,0,0,,0.0,,,30.0
+2018-09-07,2018,gp-quebec,gc,Team Sky,1.UWT,,0,0,,0.0,,,45.0
+2018-10-11,2018,gran-piemonte,gc,Team Sky,1.HC,,0,0,,0.0,,,23.0
+2018-01-28,2018,great-ocean-road-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,54.0
+2018-10-13,2018,il-lombardia,gc,Team Sky,1.UWT,,,1,,0.0,,,65.0
+2018-04-02,2018,itzulia-basque-country,gc,Team Sky,2.UWT,,0,0,,82.0,,,98.0
+2018-07-29,2018,juegos-deportivos-centroamericanos-y-del-carbie,gc,Colombia,JR,,0,0,,0.0,,,0.0
+2018-07-20,2018,juegos-deportivos-centroamericanos-y-del-carbie-it,gc,Colombia,JR,,0,0,,0.0,,,0.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,0,0,,0.0,,,50.0
+2018-04-18,2018,la-fleche-wallonne,gc,Team Sky,1.UWT,,,1,,0.0,,,58.0
+2018-06-14,2018,la-route-d-occitanie,gc,Team Sky,2.1,,0,0,,70.0,,,73.0
+2018-04-22,2018,liege-bastogne-liege,gc,Team Sky,1.UWT,,,1,,0.0,,,123.0
+2018-09-22,2018,memorial-marco-pantani,gc,Team Sky,1.1,,0,0,,0.0,,,33.0
+2018-03-17,2018,milano-sanremo,gc,Team Sky,1.UWT,,0,0,,0.0,,,90.0
+2018-10-10,2018,milano-torino,gc,Team Sky,1.HC,,,1,,0.0,,,38.0
+2018-07-01,2018,nc-belarus,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-29,2018,nc-belarus-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-02-04,2018,nc-colombia,gc,Team Sky,NC,,,1,,0.0,,,100.0
+2018-02-02,2018,nc-colombia-itt,gc,Team Sky,NC,,,1,,0.0,,,55.0
+2018-07-01,2018,nc-germany,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-28,2018,nc-great-britain-itt,gc,Team Sky,NC,,0,0,,0.0,,,58.0
+2018-06-30,2018,nc-italy,gc,Team Sky,NC,,0,0,,0.0,,,3.0
+2018-10-04,2018,nc-italy-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2018-07-01,2018,nc-netherlands,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-27,2018,nc-netherlands-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-06-24,2018,nc-norway,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-21,2018,nc-norway-itt,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-poland,gc,Team Sky,NC,,0,0,,0.0,,,150.0
+2018-06-22,2018,nc-poland-itt,gc,Team Sky,NC,,0,0,,0.0,,,23.0
+2018-07-01,2018,nc-russia,gc,Team Sky,NC,,0,0,,0.0,,,10.0
+2018-06-29,2018,nc-russia-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-spain,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-spain-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-07-01,2018,ncgreat-britain,gc,Team Sky,NC,,0,0,,0.0,,,60.0
+2018-03-14,2018,nokere-koerse,gc,Team Sky,1.HC,,0,0,,0.0,,,38.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,0,0,,0.0,,,292.0
+2018-03-04,2018,paris-nice,gc,Team Sky,2.UWT,12.0,60.0,1,,170.0,,,290.0
+2018-04-08,2018,paris-roubaix,gc,Team Sky,1.UWT,,0,0,,0.0,,,50.0
+2018-08-13,2018,renewi-tour,gc,Team Sky,2.UWT,,0,0,,180.0,,,180.0
+2018-07-29,2018,ride-london-classic,gc,Team Sky,1.UWT,,0,0,,0.0,,,31.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,100.0
+2018-02-14,2018,ruta-del-sol,gc,Team Sky,2.HC,,0,0,,193.0,,,233.0
+2018-08-04,2018,san-sebastian,gc,Team Sky,1.UWT,,0,0,,0.0,,,20.0
+2018-04-04,2018,scheldeprijs,gc,Team Sky,1.HC,,0,0,,0.0,,,133.0
+2018-03-03,2018,strade-bianche,gc,Team Sky,1.UWT,,0,0,,0.0,,,54.0
+2018-03-08,2018,tirreno-adriatico,gc,Team Sky,2.UWT,,0,0,,850.0,,,870.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Colombia,2.2U,,0,0,,0.0,,,0.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Team Sky,2.UWT,,0,0,,590.0,,,720.0
+2018-07-07,2018,tour-de-france,gc,Team Sky,2.UWT,,0,0,,1780.0,0.0,0.0,2225.0
+2018-07-07,2018,tour-de-france,kom,Team Sky,2.UWT,,0,0,,1780.0,0.0,0.0,2225.0
+2018-07-07,2018,tour-de-france,points,Team Sky,2.UWT,,0,0,,1780.0,0.0,0.0,2225.0
+2018-08-04,2018,tour-de-pologne,gc,Team Sky,2.UWT,21.0,16.0,1,,424.0,,,532.0
+2018-04-24,2018,tour-de-romandie,gc,Team Sky,2.UWT,,0,0,,465.0,,,535.0
+2018-06-10,2018,tour-de-suisse,gc,Team Sky,2.UWT,,0,0,,60.0,,,60.0
+2018-05-03,2018,tour-de-yorkshire,gc,Team Sky,2.1,,0,0,,5.0,,,5.0
+2018-05-22,2018,tour-des-fjords,gc,Team Sky,2.HC,,0,0,,13.0,,,18.0
+2018-01-16,2018,tour-down-under,gc,Team Sky,2.UWT,,0,0,,185.0,,,185.0
+2018-09-02,2018,tour-of-britain,gc,Team Sky,2.HC,,0,0,,156.0,,,196.0
+2018-05-13,2018,tour-of-california,gc,Team Sky,2.UWT,,0,0,,438.0,,,530.0
+2018-10-16,2018,tour-of-guangxi,gc,Team Sky,2.UWT,,0,0,,343.0,,,383.0
+2018-05-16,2018,tour-of-norway,gc,Team Sky,2.HC,,0,0,,5.0,,,10.0
+2018-04-16,2018,tour-of-the-alps,gc,Team Sky,2.HC,,0,0,,108.0,,,108.0
+2018-01-28,2018,trofeo-palma,gc,Team Sky,1.1,,0,0,,0.0,,,28.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Team Sky,1.1,,0,0,,0.0,,,36.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Team Sky,1.1,,0,0,,0.0,,,28.0
+2018-03-19,2018,volta-a-catalunya,gc,Team Sky,2.UWT,29.0,16.0,1,,20.0,,,40.0
+2018-02-14,2018,volta-ao-algarve,gc,Team Sky,2.HC,,0,0,,355.0,,,420.0
+2018-08-07,2018,vuelta-a-burgos,gc,Team Sky,2.HC,,0,0,,295.0,,,300.0
+2018-08-25,2018,vuelta-a-espana,gc,Team Sky,2.UWT,28.0,24.0,1,,100.0,0.0,0.0,268.0
+2018-08-25,2018,vuelta-a-espana,kom,Team Sky,2.UWT,47.0,0.0,1,,100.0,0.0,0.0,268.0
+2018-08-25,2018,vuelta-a-espana,points,Team Sky,2.UWT,65.0,0.0,1,,100.0,0.0,0.0,268.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,21.0,,,21.0
+2018-09-30,2018,world-championship,gc,Colombia,WC,,,1,,0.0,,,60.0
+2018-09-26,2018,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,0.0
+2019-07-25,2019,adriatica-ionica-race,gc,UAE Team Emirates,2.1,,0,0,,35.0,,,35.0
+2019-04-21,2019,amstel-gold-race,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,90.0
+2019-04-17,2019,brabantse-pijl,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,8.0
+2019-03-22,2019,bredene-koksijde-classic,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,50.0
+2019-09-01,2019,bretagne-classic,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,40.0
+2019-09-07,2019,brussels-cycling-classic,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,190.0
+2019-06-23,2019,circuit-des-xi-villes,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,83.0
+2019-03-27,2019,classic-brugge-de-panne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,255.0
+2019-02-13,2019,colombia-21,gc,UAE Team Emirates,2.1,8.0,30.0,1,,30.0,,,47.0
+2019-09-14,2019,coppa-agostoni,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,128.0
+2019-09-15,2019,coppa-bernocchi,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,88.0
+2019-08-25,2019,cyclassics-hamburg,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,260.0
+2019-02-02,2019,deia-trophy,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,10.0
+2019-08-29,2019,deutschland-tour,gc,UAE Team Emirates,2.HC,,0,0,,93.0,,,133.0
+2019-06-21,2019,dwars-door-het-hageland,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,55.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,49.0
+2019-03-29,2019,e3-harelbeke,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,24.0
+2019-05-01,2019,eschborn-frankfurt,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,227.0
+2019-03-31,2019,gent-wevelgem,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,520.0
+2019-05-11,2019,giro-d-italia,gc,UAE Team Emirates,2.UWT,,0,0,,84.0,0.0,0.0,316.0
+2019-05-11,2019,giro-d-italia,kom,UAE Team Emirates,2.UWT,,0,0,,84.0,0.0,0.0,316.0
+2019-05-11,2019,giro-d-italia,points,UAE Team Emirates,2.UWT,,0,0,,84.0,0.0,0.0,316.0
+2019-10-05,2019,giro-dell-emilia,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,75.0
+2019-04-03,2019,giro-di-sicilia,gc,UAE Team Emirates,2.1,,0,0,,60.0,,,63.0
+2019-09-18,2019,giro-di-toscana,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,10.0
+2019-10-06,2019,gp-bruno-beghelli,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,10.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,5.0
+2019-09-08,2019,gp-de-fourmies,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,180.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,205.0
+2019-03-10,2019,gp-industria-artigianato,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,30.0
+2019-06-09,2019,gp-lugano,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,248.0
+2019-09-15,2019,gp-montreal,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,563.0
+2019-09-13,2019,gp-quebec,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,305.0
+2019-10-10,2019,gran-piemonte,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,90.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,UAE Team Emirates,1.1,,,1,,0.0,,,40.0
+2019-01-27,2019,great-ocean-road-race,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,72.0
+2019-06-22,2019,heist-op-den-berg,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,85.0
+2019-10-12,2019,il-lombardia,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,33.0
+2019-04-08,2019,itzulia-basque-country,gc,UAE Team Emirates,2.UWT,14.0,32.0,1,,532.0,,,592.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,8.0
+2019-04-24,2019,la-fleche-wallonne,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,304.0
+2019-04-28,2019,liege-bastogne-liege,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,60.0
+2019-09-21,2019,memorial-marco-pantani,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,60.0
+2019-03-23,2019,milano-sanremo,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,75.0
+2019-10-09,2019,milano-torino,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,11.0
+2019-10-03,2019,munsterland-giro,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,118.0
+2019-06-16,2019,nc-belarus,gc,UAE Team Emirates,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-belgium,gc,UAE Team Emirates,NC,,0,0,,0.0,,,5.0
+2019-06-30,2019,nc-italy,gc,UAE Team Emirates,NC,,0,0,,0.0,,,53.0
+2019-06-30,2019,nc-norway,gc,UAE Team Emirates,NC,,0,0,,0.0,,,21.0
+2019-06-30,2019,nc-slovenia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,20.0
+2019-06-07,2019,nc-slovenia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-switserland,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2019-06-26,2019,nc-switzerland-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2019-03-01,2019,nc-united-arab-emirates,gc,UAE Team Emirates,NC,,0,0,,0.0,,,100.0
+2019-02-23,2019,nc-united-arab-emirates-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,50.0
+2019-03-20,2019,nokere-koerse,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,133.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,5.0
+2019-03-10,2019,paris-nice,gc,UAE Team Emirates,2.UWT,31.0,10.0,1,,10.0,,,10.0
+2019-04-14,2019,paris-roubaix,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,3.0
+2019-10-13,2019,paris-tours,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,5.0
+2019-08-12,2019,renewi-tour,gc,UAE Team Emirates,2.UWT,,0,0,,28.0,,,56.0
+2019-08-04,2019,ride-london-classic,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,112.0
+2019-06-10,2019,ronde-van-limburg,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,90.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,335.0
+2019-08-03,2019,san-sebastian,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,20.0
+2019-04-10,2019,scheldeprijs,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,40.0
+2019-03-09,2019,strade-bianche,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,17.0
+2019-03-14,2019,tirreno-adriatico,gc,UAE Team Emirates,2.UWT,,0,0,,125.0,,,135.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,UAE Team Emirates,2.UWT,,0,0,,148.0,,,148.0
+2019-07-06,2019,tour-de-france,gc,UAE Team Emirates,2.UWT,47.0,20.0,1,,180.0,0.0,0.0,235.0
+2019-07-06,2019,tour-de-france,kom,UAE Team Emirates,2.UWT,,,1,,180.0,0.0,0.0,235.0
+2019-07-06,2019,tour-de-france,points,UAE Team Emirates,2.UWT,115.0,0.0,1,,180.0,0.0,0.0,235.0
+2019-08-03,2019,tour-de-pologne,gc,UAE Team Emirates,2.UWT,,0,0,,280.0,,,320.0
+2019-04-30,2019,tour-de-romandie,gc,UAE Team Emirates,2.UWT,,0,0,,420.0,,,490.0
+2019-06-15,2019,tour-de-suisse,gc,UAE Team Emirates,2.UWT,13.0,50.0,1,,76.0,,,76.0
+2019-01-15,2019,tour-down-under,gc,UAE Team Emirates,2.UWT,,0,0,,190.0,,,250.0
+2019-05-12,2019,tour-of-california,gc,UAE Team Emirates,2.UWT,,0,0,,318.0,,,379.0
+2019-10-17,2019,tour-of-guangxi,gc,UAE Team Emirates,2.UWT,,0,0,,32.0,,,142.0
+2019-05-28,2019,tour-of-norway,gc,UAE Team Emirates,2.HC,,0,0,,203.0,,,238.0
+2019-02-16,2019,tour-of-oman,gc,UAE Team Emirates,2.HC,,0,0,,170.0,,,200.0
+2019-06-19,2019,tour-of-slovenia,gc,UAE Team Emirates,2.HC,,0,0,,340.0,,,380.0
+2019-04-16,2019,tour-of-turkey,gc,UAE Team Emirates,2.UWT,,0,0,,365.0,,,380.0
+2019-10-08,2019,tre-valli-varesine,gc,UAE Team Emirates,1.HC,,0,0,,0.0,,,5.0
+2019-02-03,2019,trofeo-palma,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,15.0
+2019-02-01,2019,trofeo-pollenca-port-d-andratx,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,11.0
+2019-01-31,2019,trofeo-ses-salines-felanitx,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,30.0
+2019-02-25,2019,uae-tour,gc,UAE Team Emirates,2.UWT,,0,0,,135.0,,,205.0
+2019-03-25,2019,volta-a-catalunya,gc,UAE Team Emirates,2.UWT,,0,0,,26.0,,,34.0
+2019-02-20,2019,volta-ao-algarve,gc,UAE Team Emirates,2.HC,,0,0,,225.0,,,250.0
+2019-08-13,2019,vuelta-a-burgos,gc,UAE Team Emirates,2.HC,,0,0,,38.0,,,63.0
+2019-08-25,2019,vuelta-a-espana,gc,UAE Team Emirates,2.UWT,45.0,16.0,1,,591.0,0.0,40.0,915.0
+2019-08-25,2019,vuelta-a-espana,kom,UAE Team Emirates,2.UWT,8.0,0.0,1,,591.0,0.0,40.0,915.0
+2019-08-25,2019,vuelta-a-espana,points,UAE Team Emirates,2.UWT,83.0,0.0,1,,591.0,0.0,40.0,915.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,UAE Team Emirates,2.1,,0,0,,80.0,,,85.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,UAE Team Emirates,2.1,,0,0,,60.0,,,98.0
+2020-02-04,2020,alula-tour,gc,UAE Team Emirates,2.1,,0,0,,70.0,,,84.0
+2020-10-07,2020,brabantse-pijl,gc,UAE Team Emirates,1.Pro,,,1,,0.0,,,45.0
+2020-08-25,2020,bretagne-classic,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,72.0
+2020-08-30,2020,brussels-cycling-classic,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,88.0
+2020-08-06,2020,cic-mont-ventoux,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,53.0
+2020-08-02,2020,circuito-de-getxo,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,0.0
+2020-02-16,2020,clasica-de-almeria,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,150.0
+2020-10-21,2020,classic-brugge-de-panne,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,57.0
+2020-02-12,2020,colombia-21,gc,UAE Team Emirates,2.1,10.0,20.0,1,,36.0,,,78.0
+2020-02-12,2020,colombia-21,gc,Colombia,2.1,,0,0,,35.0,,,35.0
+2020-08-29,2020,druivenkoers-overijse,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,25.0
+2020-10-11,2020,gent-wevelgem,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,50.0
+2020-10-03,2020,giro-d-italia,gc,UAE Team Emirates,2.UWT,,0,0,,96.0,0.0,0.0,408.0
+2020-10-03,2020,giro-d-italia,kom,UAE Team Emirates,2.UWT,,0,0,,96.0,0.0,0.0,408.0
+2020-10-03,2020,giro-d-italia,points,UAE Team Emirates,2.UWT,,0,0,,96.0,0.0,0.0,408.0
+2020-09-19,2020,giro-dell-appennino,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,85.0
+2020-08-18,2020,giro-dell-emilia,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,140.0
+2020-09-16,2020,giro-di-toscana,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,125.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,175.0
+2020-08-12,2020,gran-piemonte,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,160.0
+2020-08-03,2020,gran-trittico-lombardo,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,80.0
+2020-08-15,2020,il-lombardia,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,128.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,125.0
+2020-09-30,2020,la-fleche-wallonne,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,80.0
+2020-10-04,2020,liege-bastogne-liege,gc,UAE Team Emirates,1.UWT,,,1,,0.0,,,345.0
+2020-08-30,2020,memorial-marco-pantani,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,70.0
+2020-08-08,2020,milano-sanremo,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,90.0
+2020-08-05,2020,milano-torino,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,68.0
+2020-07-26,2020,nc-belarus,gc,UAE Team Emirates,NC,,0,0,,0.0,,,75.0
+2020-09-22,2020,nc-belgium,gc,UAE Team Emirates,NC,,0,0,,0.0,,,0.0
+2020-02-02,2020,nc-colombia,gc,UAE Team Emirates,NC,,,1,,0.0,,,35.0
+2020-01-30,2020,nc-colombia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,1.0
+2020-08-23,2020,nc-italy,gc,UAE Team Emirates,NC,,0,0,,0.0,,,33.0
+2020-08-23,2020,nc-norway,gc,UAE Team Emirates,NC,,0,0,,0.0,,,130.0
+2020-08-14,2020,nc-portugal,gc,UAE Team Emirates,NC,,0,0,,0.0,,,80.0
+2020-08-16,2020,nc-portugal2,gc,UAE Team Emirates,NC,,0,0,,0.0,,,100.0
+2020-06-21,2020,nc-slovenia,gc,UAE Team Emirates,NC,,0,0,,0.0,,,105.0
+2020-06-28,2020,nc-slovenia-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,70.0
+2020-07-12,2020,nc-switzerland-itt,gc,UAE Team Emirates,NC,,0,0,,0.0,,,10.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,5.0
+2020-09-29,2020,renewi-tour,gc,UAE Team Emirates,2.UWT,,0,0,,52.0,,,122.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,360.0
+2020-02-19,2020,ruta-del-sol,gc,UAE Team Emirates,2.Pro,,0,0,,65.0,,,70.0
+2020-10-14,2020,scheldeprijs,gc,UAE Team Emirates,1.Pro,,0,0,,0.0,,,108.0
+2020-08-01,2020,strade-bianche,gc,UAE Team Emirates,1.UWT,,0,0,,0.0,,,317.0
+2020-09-07,2020,tirreno-adriatico,gc,UAE Team Emirates,2.UWT,22.0,20.0,1,,40.0,,,90.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,UAE Team Emirates,2.UWT,,0,0,,325.0,,,420.0
+2020-08-29,2020,tour-de-france,gc,UAE Team Emirates,2.UWT,,0,0,,1025.0,120.0,0.0,1600.0
+2020-08-29,2020,tour-de-france,kom,UAE Team Emirates,2.UWT,,0,0,,1025.0,120.0,0.0,1600.0
+2020-08-29,2020,tour-de-france,points,UAE Team Emirates,2.UWT,,0,0,,1025.0,120.0,0.0,1600.0
+2020-08-07,2020,tour-de-l-ain,gc,UAE Team Emirates,2.1,,0,0,,23.0,,,26.0
+2020-09-15,2020,tour-de-luxembourg,gc,UAE Team Emirates,2.Pro,,0,0,,200.0,,,260.0
+2020-08-05,2020,tour-de-pologne,gc,UAE Team Emirates,2.UWT,,0,0,,252.0,,,272.0
+2020-01-21,2020,tour-down-under,gc,UAE Team Emirates,2.UWT,,0,0,,490.0,,,525.0
+2020-08-18,2020,tour-du-limousin,gc,UAE Team Emirates,2.1,,0,0,,70.0,,,103.0
+2020-08-29,2020,trofeo-matteotti,gc,UAE Team Emirates,1.1,,0,0,,0.0,,,125.0
+2020-02-23,2020,uae-tour,gc,UAE Team Emirates,2.UWT,,0,0,,386.0,,,456.0
+2020-02-19,2020,volta-ao-algarve,gc,UAE Team Emirates,2.Pro,,0,0,,115.0,,,115.0
+2020-07-28,2020,vuelta-a-burgos,gc,UAE Team Emirates,2.Pro,,0,0,,90.0,,,110.0
+2020-10-20,2020,vuelta-a-espana,gc,UAE Team Emirates,2.UWT,15.0,60.0,1,,336.0,0.0,0.0,532.0
+2020-10-20,2020,vuelta-a-espana,kom,UAE Team Emirates,2.UWT,,,1,,336.0,0.0,0.0,532.0
+2020-10-20,2020,vuelta-a-espana,points,UAE Team Emirates,2.UWT,60.0,0.0,1,,336.0,0.0,0.0,532.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,UAE Team Emirates,2.Pro,,0,0,,218.0,,,263.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,UAE Team Emirates,2.Pro,,0,0,,100.0,,,175.0
+2020-09-27,2020,world-championship,gc,Colombia,WC,,,1,,0.0,,,80.0
+2020-09-25,2020,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,5.0
+2021-04-18,2021,amstel-gold-race,gc,Team Qhubeka ASSOS,1.UWT,,,1,,0.0,,,30.0
+2021-08-05,2021,arctic-race-of-norway,gc,Team Qhubeka NextHash,2.Pro,,0,0,,10.0,,,10.0
+2021-04-14,2021,brabantse-pijl,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,13.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,70.0
+2021-08-29,2021,bretagne-classic,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,86.0
+2021-08-28,2021,brussels-cycling-classic,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,45.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,63.0
+2021-09-29,2021,circuit-franco-belge,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,53.0
+2021-08-01,2021,circuito-de-getxo,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,140.0
+2021-02-14,2021,clasica-de-almeria,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,203.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,187.0
+2021-10-04,2021,coppa-bernocchi,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,98.0
+2021-06-20,2021,danish-championships,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-05-14,2021,deia-trophy,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,0.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,39.0
+2021-03-26,2021,e3-harelbeke,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,40.0
+2021-02-03,2021,etoile-de-besseges,gc,Team Qhubeka ASSOS,2.1,,0,0,,40.0,,,43.0
+2021-02-27,2021,faun-ardeche-classic,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,13.0
+2021-03-28,2021,gent-wevelgem,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,430.0
+2021-05-08,2021,giro-d-italia,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,8.0,0.0,0.0,388.0
+2021-05-08,2021,giro-d-italia,kom,Team Qhubeka ASSOS,2.UWT,,0,0,,8.0,0.0,0.0,388.0
+2021-05-08,2021,giro-d-italia,points,Team Qhubeka ASSOS,2.UWT,,0,0,,8.0,0.0,0.0,388.0
+2021-10-02,2021,giro-dell-emilia,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,15.0
+2021-09-19,2021,gp-d-isbergues,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,20.0
+2021-09-15,2021,gp-de-wallonie,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,43.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,60.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,140.0
+2021-06-27,2021,gp-lugano,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,8.0
+2021-03-02,2021,gp-samyn,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,38.0
+2021-10-07,2021,gran-piemonte,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,155.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,0.0
+2021-10-09,2021,il-lombardia,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,20.0
+2021-04-05,2021,itzulia-basque-country,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,16.0,,,16.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,3.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,30.0
+2021-02-28,2021,la-drome-classic,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,88.0
+2021-04-21,2021,la-fleche-wallonne,gc,Team Qhubeka ASSOS,1.UWT,,,1,,0.0,,,24.0
+2021-04-25,2021,liege-bastogne-liege,gc,Team Qhubeka ASSOS,1.UWT,,,1,,0.0,,,16.0
+2021-03-20,2021,milano-sanremo,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,43.0
+2021-10-06,2021,milano-torino,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,5.0
+2021-06-20,2021,nc-austria2,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,40.0
+2021-06-20,2021,nc-belgium,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-16,2021,nc-belgium-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-czech-republic2,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-19,2021,nc-germany-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-italy,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,3.0
+2021-06-20,2021,nc-netherlands,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-poland,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-poland-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-03-21,2021,nc-south-africa,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,60.0
+2021-06-20,2021,nc-spain,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-switserland,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,20.0
+2021-06-16,2021,nc-switzerland-itt,gc,Team Qhubeka ASSOS,NC,,0,0,,0.0,,,15.0
+2021-10-17,2021,ncgreat-britain,gc,Team Qhubeka NextHash,NC,,0,0,,0.0,,,50.0
+2021-03-17,2021,nokere-koerse,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,63.0
+2021-09-15,2021,okolo-slovenska,gc,Team Qhubeka NextHash,2.1,,0,0,,21.0,,,24.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,27.0
+2021-03-07,2021,paris-nice,gc,Team Qhubeka ASSOS,2.UWT,19.0,30.0,1,,50.0,,,50.0
+2021-10-03,2021,paris-roubaix,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,65.0
+2021-08-30,2021,renewi-tour,gc,Team Qhubeka NextHash,2.UWT,,0,0,,270.0,,,270.0
+2021-05-24,2021,ronde-van-limburg,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,63.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,90.0
+2021-07-31,2021,san-sebastian,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,0.0
+2021-04-07,2021,scheldeprijs,gc,Team Qhubeka ASSOS,1.Pro,,0,0,,0.0,,,75.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Team Qhubeka NextHash,2.1,,0,0,,85.0,,,93.0
+2021-03-06,2021,strade-bianche,gc,Team Qhubeka ASSOS,1.UWT,,0,0,,0.0,,,230.0
+2021-03-10,2021,tirreno-adriatico,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,30.0,,,30.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,30.0,,,30.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Team Qhubeka ASSOS,2.Pro,,0,0,,15.0,,,15.0
+2021-06-26,2021,tour-de-france,gc,Team Qhubeka NextHash,2.UWT,21.0,40.0,1,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,kom,Team Qhubeka NextHash,2.UWT,,,1,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,points,Team Qhubeka NextHash,2.UWT,96.0,0.0,1,,40.0,0.0,0.0,40.0
+2021-08-09,2021,tour-de-pologne,gc,Team Qhubeka NextHash,2.UWT,,0,0,,8.0,,,8.0
+2021-04-27,2021,tour-de-romandie,gc,Team Qhubeka ASSOS,2.UWT,51.0,5.0,1,,5.0,,,5.0
+2021-06-06,2021,tour-de-suisse,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,178.0,,,178.0
+2021-07-20,2021,tour-de-wallonie,gc,Team Qhubeka NextHash,2.Pro,,0,0,,8.0,,,18.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Team Qhubeka ASSOS,2.1,,0,0,,3.0,,,3.0
+2021-06-09,2021,tour-of-belgium,gc,Team Qhubeka ASSOS,2.Pro,,0,0,,20.0,,,20.0
+2021-09-05,2021,tour-of-britain,gc,Team Qhubeka NextHash,2.Pro,,0,0,,11.0,,,21.0
+2021-08-10,2021,tour-of-denmark,gc,Team Qhubeka NextHash,2.Pro,,0,0,,10.0,,,25.0
+2021-04-19,2021,tour-of-the-alps,gc,Team Qhubeka ASSOS,2.Pro,,0,0,,8.0,,,8.0
+2021-10-05,2021,tre-valli-varesine,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,5.0
+2021-05-13,2021,trofeo-calvia,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,15.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Team Qhubeka ASSOS,1.1,,0,0,,0.0,,,20.0
+2021-02-21,2021,uae-tour,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,12.0,,,12.0
+2021-03-22,2021,volta-a-catalunya,gc,Team Qhubeka ASSOS,2.UWT,,0,0,,0.0,,,0.0
+2021-08-03,2021,vuelta-a-burgos,gc,Team Qhubeka NextHash,2.Pro,,0,0,,150.0,,,160.0
+2021-08-14,2021,vuelta-a-espana,gc,Team Qhubeka NextHash,2.UWT,,,1,,12.0,0.0,0.0,12.0
+2021-08-14,2021,vuelta-a-espana,kom,Team Qhubeka NextHash,2.UWT,,,1,,12.0,0.0,0.0,12.0
+2021-08-14,2021,vuelta-a-espana,points,Team Qhubeka NextHash,2.UWT,,,1,,12.0,0.0,0.0,12.0
+2022-05-19,2022,joe-martin-stage-race-me,gc,2nBike Emanuel Ibarry,2.2,4.0,20.0,1,,20.0,,,20.0
+2023-05-18,2023,joe-martin-stage-race-me,gc,Denver Disruptors,2.2,8.0,3.0,1,,43.0,,,59.0
+2023-02-05,2023,nc-colombia,gc,Denver Disruptors,NC,,,1,,0.0,,,30.0
+2023-06-25,2023,nc-estonia,gc,Denver Disruptors,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-romania,gc,Denver Disruptors,NC,,0,0,,0.0,,,50.0
+2023-06-23,2023,nc-romania-itt,gc,Denver Disruptors,NC,,0,0,,0.0,,,15.0
+2023-02-12,2023,nc-south-africa,gc,Denver Disruptors,NC,,0,0,,0.0,,,75.0
+2023-06-25,2023,nc-united-states,gc,Denver Disruptors,NC,,0,0,,0.0,,,1.0
+2023-06-22,2023,nc-usa-itt,gc,Denver Disruptors,NC,,0,0,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Nu Colombia,2.1,14.0,5.0,1,,155.0,,,163.0
+2024-01-28,2024,nc-colombia,gc,Nu Colombia,NC,,,1,,0.0,,,53.0
+2024-01-25,2024,nc-colombia-itt,gc,Nu Colombia,NC,,0,0,,0.0,,,20.0
+2024-11-01,2024,tour-do-rio,gc,Nu Colombia,2.2,1.0,40.0,1,,45.0,,,52.0
+2024-10-25,2024,vuelta-a-guatemala,gc,Nu Colombia,2.2,,0,0,,0.0,,,30.0
+2024-05-01,2024,vuelta-bantrab,gc,Nu Colombia,2.2,7.0,5.0,1,,55.0,,,49.0
+2024-06-14,2024,vuelta-pilsen-a-colombia,gc,Nu Colombia,2.2,24.0,0.0,1,,40.0,,,67.0
+2025-05-18,2025,gran-premio-new-york-city,gc,Nu Colombia,1.2,,,1,,0.0,,,10.0
+2025-04-04,2025,jamaica-international-cycling-classic,gc,Nu Colombia,2.2,1.0,40.0,1,,55.0,,,66.0
+2025-02-09,2025,nc-colombia,gc,Nu Colombia,NC,,,1,,0.0,,,35.0
+2025-02-06,2025,nc-colombia-itt,gc,Nu Colombia,NC,,0,0,,0.0,,,16.0
+2025-08-01,2025,tour-cycliste-international-de-la-guadeloupe,gc,Nu Colombia,2.2,,0,0,,55.0,,,75.0
+2025-10-24,2025,vuelta-a-guatemala,gc,Nu Colombia,2.2,,0,0,,28.0,,,37.0
+2025-04-30,2025,vuelta-bantrab,gc,Nu Colombia,2.2,,0,0,,26.0,,,45.0
+2025-08-01,2025,vuelta-pilsen-a-colombia,gc,Nu Colombia,2.2,52.0,0.0,1,,50.0,,,63.0

@@ -1,0 +1,135 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-07-10,2022,2-districtenpijl-ekeren-deurne-me,gc,Willebrord Wil Vooruit,1.2,,0,0,,0.0,,,20.0
+2022-04-16,2022,arno-wallaard-memorial,gc,Willebrord Wil Vooruit,1.2,,0,0,,0.0,,,0.0
+2022-03-13,2022,dorpenomloop-rucphen,gc,Willebrord Wil Vooruit,1.2,,,1,,0.0,,,0.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,Willebrord Wil Vooruit,1.2,,0,0,,0.0,,,0.0
+2022-09-08,2022,okolo-jiznich-cech,gc,Willebrord Wil Vooruit,2.2,88.0,0.0,1,,0.0,,,0.0
+2023-04-15,2023,arno-wallaard-memorial,gc,ABLOC CT,1.2,,0,0,,0.0,,,28.0
+2023-10-15,2023,chrono-des-nations,gc,Netherlands,1.1,,0,0,,0.0,,,3.0
+2023-06-11,2023,circuit-des-xi-villes,gc,ABLOC CT,1.1,,0,0,,0.0,,,3.0
+2023-09-28,2023,circuit-franco-belge,gc,ABLOC CT,1.Pro,,0,0,,0.0,,,0.0
+2023-07-26,2023,dookola-mazowsza,gc,ABLOC CT,2.2,,0,0,,18.0,,,20.0
+2023-03-12,2023,dorpenomloop-rucphen,gc,ABLOC CT,1.2,,,1,,0.0,,,0.0
+2023-08-19,2023,druivenkoers-overijse,gc,ABLOC CT,1.1,,,1,,0.0,,,0.0
+2023-06-10,2023,dwars-door-het-hageland,gc,ABLOC CT,1.Pro,,0,0,,0.0,,,5.0
+2023-04-23,2023,east-midlands-international-cicle-classic,gc,ABLOC CT,1.2,,0,0,,0.0,,,3.0
+2023-10-04,2023,elfsteden-race,gc,ABLOC CT,1.1,,,1,,0.0,,,0.0
+2023-05-17,2023,fleche-du-sud,gc,ABLOC CT,2.2,,0,0,,3.0,,,6.0
+2023-09-17,2023,gooikse-pijl,gc,ABLOC CT,1.1,,,1,,0.0,,,0.0
+2023-08-15,2023,gp-jef-scherens,gc,ABLOC CT,1.1,,,1,,0.0,,,0.0
+2023-08-20,2023,gp-stad-zottegem,gc,ABLOC CT,1.1,,,1,,0.0,,,0.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,ABLOC CT,1.1,,0,0,,0.0,,,40.0
+2023-07-25,2023,memorial-andrzeja-trochanowskiego,gc,ABLOC CT,1.2,,0,0,,0.0,,,3.0
+2023-06-04,2023,memorial-philippe-van-coningsloo,gc,ABLOC CT,1.2,,0,0,,0.0,,,0.0
+2023-07-02,2023,midden-brabant-poort-omloop,gc,ABLOC CT,1.2,,0,0,,0.0,,,30.0
+2023-08-30,2023,muur-classic-geraardsbergen,gc,ABLOC CT,1.2,,,1,,0.0,,,10.0
+2023-06-18,2023,nc-finland,gc,ABLOC CT,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-netherlands,gc,ABLOC CT,NC,,0,0,,0.0,,,11.0
+2023-06-21,2023,nc-netherlands-itt,gc,ABLOC CT,NC,,0,0,,0.0,,,5.0
+2023-03-22,2023,olympias-tour,gc,ABLOC CT,2.2,,0,0,,0.0,,,2.0
+2023-05-29,2023,paris-troyes,gc,Netherlands,1.2,,,1,,0.0,,,-2.0
+2023-07-30,2023,puchar-ministra-obrony-narodowej,gc,ABLOC CT,1.2,,0,0,,0.0,,,20.0
+2023-06-01,2023,ronde-de-l-oise,gc,ABLOC CT,2.2,72.0,0.0,1,,50.0,,,58.0
+2023-08-27,2023,ronde-van-de-achterhoek,gc,ABLOC CT,1.2,,0,0,,0.0,,,43.0
+2023-03-12,2023,ronde-van-drenthe,gc,ABLOC CT,1.1,,0,0,,0.0,,,3.0
+2023-03-12,2023,ronde-van-drenthe,gc,Netherlands,1.1,,0,0,,0.0,,,0.0
+2023-05-29,2023,ronde-van-limburg,gc,ABLOC CT,1.1,,0,0,,0.0,,,5.0
+2023-05-06,2023,ronde-van-overijssel,gc,ABLOC CT,1.2,,,1,,0.0,,,25.0
+2023-07-06,2023,sibiu-cycling-tour,gc,ABLOC CT,2.1,104.0,0.0,1,,3.0,,,3.0
+2023-03-04,2023,ster-van-zwolle,gc,ABLOC CT,1.2,,0,0,,0.0,,,15.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Netherlands,2.2,,,1,,0.0,,,7.0
+2023-08-15,2023,tour-du-limousin,gc,ABLOC CT,2.1,,0,0,,0.0,,,-5.0
+2023-04-12,2023,tour-du-loir-et-cher,gc,ABLOC CT,2.2,,0,0,,30.0,,,38.0
+2023-10-05,2023,tour-of-hainan,gc,ABLOC CT,2.Pro,,0,0,,10.0,,,30.0
+2023-05-02,2023,tour-of-hellas,gc,ABLOC CT,2.1,,0,0,,3.0,,,3.0
+2023-07-09,2023,tour-of-magnificent-qinghai,gc,ABLOC CT,2.Pro,,0,0,,5.0,,,78.0
+2023-09-08,2023,tour-of-poyang-lake,gc,ABLOC CT,2.2,,0,0,,15.0,,,31.0
+2023-09-14,2023,tour-of-taihu-lake,gc,ABLOC CT,2.Pro,,0,0,,63.0,,,78.0
+2023-10-08,2023,tour-of-turkey,gc,ABLOC CT,2.1,128.0,0.0,1,,0.0,,,0.0
+2023-10-08,2023,tour-of-turkey,gc,Netherlands,2.1,,0,0,,0.0,,,0.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Netherlands,CC,,0,0,,0.0,,,18.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Netherlands,CC,,0,0,,0.0,,,260.0
+2023-05-20,2023,veenendaal-veenendaal,gc,ABLOC CT,1.1,,,1,,0.0,,,30.0
+2023-04-01,2023,volta-nxt-classic,gc,ABLOC CT,1.1,,0,0,,0.0,,,3.0
+2023-08-06,2023,world-championship,gc,Netherlands,WC,,0,0,,0.0,,,1020.0
+2023-08-11,2023,world-championship-itt,gc,Netherlands,WC,,0,0,,0.0,,,0.0
+2023-06-07,2023,zlm-tour,gc,ABLOC CT,2.Pro,,0,0,,10.0,,,13.0
+2024-05-26,2024,albani-classic-fyen-rundt,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,20.0
+2024-04-13,2024,arno-wallaard-memorial,gc,Parkhotel Valkenburg,1.2,,,1,,0.0,,,0.0
+2024-05-05,2024,circuit-des-xi-villes,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,3.0
+2024-05-29,2024,circuit-franco-belge,gc,Parkhotel Valkenburg,1.Pro,,0,0,,0.0,,,0.0
+2024-03-17,2024,dorpenomloop-rucphen,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,0.0
+2024-08-23,2024,druivenkoers-overijse,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,0.0
+2024-10-02,2024,elfsteden-race,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,85.0
+2024-05-12,2024,fleche-ardennaise,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,0.0
+2024-05-08,2024,fleche-du-sud,gc,Parkhotel Valkenburg,2.2,,0,0,,5.0,,,8.0
+2024-05-25,2024,gp-herning,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,20.0
+2024-03-03,2024,grote-prijs-jean-pierre-monsere,gc,Parkhotel Valkenburg,1.1,,,1,,0.0,,,0.0
+2024-09-07,2024,grote-prijs-rik-van-looy,gc,Parkhotel Valkenburg,1.2,,,1,,0.0,,,0.0
+2024-06-01,2024,heist-op-den-berg,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,0.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Parkhotel Valkenburg,2.2,,0,0,,0.0,,,0.0
+2024-06-30,2024,midden-brabant-poort-omloop,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,15.0
+2024-08-28,2024,muur-classic-geraardsbergen,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-netherlands,gc,Parkhotel Valkenburg,NC,,,1,,0.0,,,30.0
+2024-06-19,2024,nc-netherlands-itt,gc,Parkhotel Valkenburg,NC,,0,0,,0.0,,,0.0
+2024-06-14,2024,oberosterreichrundfahrt,gc,Parkhotel Valkenburg,2.2,,0,0,,0.0,,,0.0
+2024-03-20,2024,olympias-tour,gc,Parkhotel Valkenburg,2.2,,0,0,,25.0,,,25.0
+2024-08-03,2024,olympic-games,gc,Netherlands,Olympics,,0,0,,0.0,,,120.0
+2024-07-27,2024,olympic-games-itt,gc,Netherlands,Olympics,,0,0,,0.0,,,10.0
+2024-05-26,2024,omloop-der-kempen,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,40.0
+2024-05-01,2024,omloop-van-het-waasland,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,0.0
+2024-05-30,2024,ronde-de-l-oise,gc,Parkhotel Valkenburg,2.2,56.0,0.0,1,,0.0,,,-5.0
+2024-08-25,2024,ronde-van-de-achterhoek,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,10.0
+2024-05-04,2024,ronde-van-overijssel,gc,Parkhotel Valkenburg,1.2,,,1,,0.0,,,5.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Parkhotel Valkenburg,2.1,117.0,0.0,1,,3.0,,,3.0
+2024-03-02,2024,ster-van-zwolle,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,0.0
+2024-05-23,2024,tour-de-la-mirabelle,gc,Netherlands,2.2,82.0,0.0,1,,30.0,,,33.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Parkhotel Valkenburg,2.2,,0,0,,10.0,,,17.0
+2024-08-15,2024,tour-of-denmark,gc,Parkhotel Valkenburg,2.Pro,,0,0,,0.0,,,23.0
+2024-08-27,2024,tour-of-hainan,gc,Parkhotel Valkenburg,2.Pro,,,1,,5.0,,,5.0
+2024-09-26,2024,tour-of-huangshan,gc,Parkhotel Valkenburg,2.2,,0,0,,20.0,,,20.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Parkhotel Valkenburg,2.Pro,,0,0,,5.0,,,25.0
+2024-09-04,2024,tour-of-poyang-lake,gc,Parkhotel Valkenburg,2.2,,0,0,,3.0,,,11.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Parkhotel Valkenburg,2.Pro,,0,0,,200.0,,,225.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Netherlands,CC,,0,0,,0.0,,,55.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Netherlands,CC,,0,0,,0.0,,,210.0
+2024-05-18,2024,veenendaal-veenendaal,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,15.0
+2024-03-30,2024,volta-nxt-classic,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,3.0
+2024-09-29,2024,world-championship,gc,Netherlands,WC,,0,0,,0.0,,,750.0
+2024-09-22,2024,world-championship-itt,gc,Netherlands,WC,,0,0,,0.0,,,10.0
+2024-06-05,2024,zlm-tour,gc,Parkhotel Valkenburg,2.1,58.0,0.0,1,,3.0,,,8.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,3.0
+2025-09-27,2025,arno-wallaard-memorial,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,25.0
+2025-03-09,2025,dorpenomloop-rucphen,gc,Parkhotel Valkenburg,1.2,,,1,,0.0,,,25.0
+2025-04-27,2025,east-midlands-international-cicle-classic,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,40.0
+2025-05-03,2025,fleche-ardennaise,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,0.0
+2025-05-28,2025,fleche-du-sud,gc,Parkhotel Valkenburg,2.2,,0,0,,40.0,,,43.0
+2025-05-03,2025,gp-herning,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,0.0
+2025-09-14,2025,grote-prijs-rik-van-looy,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,3.0
+2025-08-02,2025,kreiz-breizh-elites,gc,Parkhotel Valkenburg,2.2,,0,0,,0.0,,,0.0
+2025-07-06,2025,midden-brabant-poort-omloop,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,25.0
+2025-06-28,2025,nc-netherlands,gc,Parkhotel Valkenburg,NC,,,1,,0.0,,,3.0
+2025-06-24,2025,nc-netherlands-itt,gc,Parkhotel Valkenburg,NC,,0,0,,0.0,,,1.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Parkhotel Valkenburg,2.2,,0,0,,0.0,,,-12.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Netherlands,2.2,85.0,0.0,1,,0.0,,,-2.0
+2025-03-26,2025,olympias-tour,gc,Parkhotel Valkenburg,2.2,,0,0,,0.0,,,0.0
+2025-05-18,2025,omloop-der-kempen,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,3.0
+2025-05-01,2025,omloop-van-het-waasland,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,3.0
+2025-08-31,2025,ronde-van-de-achterhoek,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,6.0
+2025-04-16,2025,ronde-van-limburg,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,3.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Parkhotel Valkenburg,2.1,,0,0,,3.0,,,3.0
+2025-08-30,2025,slag-om-norg,gc,Parkhotel Valkenburg,1.2,,0,0,,0.0,,,10.0
+2025-04-16,2025,tour-du-loir-et-cher,gc,Parkhotel Valkenburg,2.2,,0,0,,0.0,,,0.0
+2025-08-26,2025,tour-du-poitou-charentes-et-de-la-vienne,gc,Parkhotel Valkenburg,2.1,79.0,0.0,1,,0.0,,,0.0
+2025-09-09,2025,tour-of-binzhou,gc,Parkhotel Valkenburg,1.1,,0,0,,0.0,,,70.0
+2025-04-07,2025,tour-of-hainan,gc,Parkhotel Valkenburg,2.Pro,,0,0,,59.0,,,59.0
+2025-04-02,2025,tour-of-hellas,gc,Parkhotel Valkenburg,2.1,44.0,0.0,1,,0.0,,,0.0
+2025-10-14,2025,tour-of-holland,gc,Parkhotel Valkenburg,2.1,,0,0,,0.0,,,0.0
+2025-09-19,2025,tour-of-huangshan,gc,Parkhotel Valkenburg,2.1,,0,0,,6.0,,,6.0
+2025-09-15,2025,tour-of-poyang-lake,gc,Parkhotel Valkenburg,2.2,,0,0,,35.0,,,52.0
+2025-09-05,2025,tour-of-shanghai,gc,Parkhotel Valkenburg,2.2,,0,0,,20.0,,,22.0
+2025-10-09,2025,tour-of-taihu-lake,gc,Parkhotel Valkenburg,2.Pro,,0,0,,85.0,,,100.0
+2025-10-01,2025,uec-road-european-championships-itt,gc,Netherlands,CC,,0,0,,0.0,,,20.0
+2025-10-05,2025,uec-road-european-championships-me,gc,Netherlands,CC,,0,0,,0.0,,,0.0
+2025-09-28,2025,world-championship,gc,Netherlands,WC,,0,0,,0.0,,,45.0
+2025-09-21,2025,world-championship-itt,gc,Netherlands,WC,,0,0,,0.0,,,80.0

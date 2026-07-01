@@ -1,0 +1,28 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-10-07,2021,circuit-des-ardennes,gc,Ecuador,2.2,92.0,0.0,1,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Ecuador,Olympics,,0,0,,0.0,,,610.0
+2021-08-13,2021,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,3.0
+2021-08-15,2021,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,376.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Ecuador,2.2,28.0,0.0,1,,0.0,,,0.0
+2021-09-26,2021,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,0.0
+2023-01-08,2023,nc-australia,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,0.0
+2023-02-05,2023,nc-colombia,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,0.0
+2023-02-12,2023,nc-ecuador,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,55.0
+2023-02-11,2023,nc-ecuador-itt,gc,Team Banco Guayaquil - Ecuador,NC,,0,0,,0.0,,,18.0
+2023-10-29,2023,pan-american-games,gc,Ecuador,JC,,0,0,,0.0,,,330.0
+2023-10-22,2023,pan-american-games---tt,gc,Ecuador,JC,,0,0,,0.0,,,55.0
+2023-04-19,2023,panamerican-champ-itt,gc,Ecuador,CC,,0,0,,0.0,,,10.0
+2023-04-23,2023,panamerican-championships,gc,Ecuador,CC,,0,0,,0.0,,,120.0
+2023-05-04,2023,tour-de-catamarca-internacional,gc,Team Banco Guayaquil - Ecuador,2.2,,0,0,,25.0,,,28.0
+2023-09-25,2023,vuelta-a-ecuador,gc,Team Banco Guayaquil - Ecuador,2.2,5.0,15.0,1,,85.0,,,102.0
+2023-05-11,2023,vuelta-a-formosa-internacional,gc,Team Banco Guayaquil - Ecuador,2.2,,0,0,,0.0,,,1.0
+2023-11-17,2023,vuelta-a-guatemala,gc,Ecuador,2.2,,,1,,25.0,,,30.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Team Banco Guayaquil - Ecuador,2.Pro,128.0,0.0,1,,0.0,,,-15.0
+2023-06-16,2023,vuelta-pilsen-a-colombia,gc,Team Banco Guayaquil - Ecuador,2.2,16.0,0.0,1,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Ecuador,WC,,0,0,,0.0,,,0.0
+2025-02-09,2025,nc-colombia,gc,Movistar Best PC,NC,,0,0,,0.0,,,0.0
+2025-02-02,2025,nc-ecuador,gc,Movistar Best PC,NC,,,1,,0.0,,,113.0
+2025-01-31,2025,nc-ecuador-itt,gc,Movistar Best PC,NC,,,1,,0.0,,,3.0
+2025-10-24,2025,vuelta-a-guatemala,gc,Movistar Best PC,2.2,,0,0,,45.0,,,54.0
+2025-12-12,2025,vuelta-internacional-a-costa-rica,gc,Movistar Best PC,2.2,13.0,0.0,1,,20.0,,,28.0
+2025-08-01,2025,vuelta-pilsen-a-colombia,gc,Movistar Best PC,2.2,,0,0,,0.0,,,0.0

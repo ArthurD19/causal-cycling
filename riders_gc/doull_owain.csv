@@ -1,0 +1,810 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-23,2017,abu-dhabi-tour,gc,Team Sky,2.UWT,116.0,0.0,1,,17.0,,,17.0
+2017-04-16,2017,amstel-gold-race,gc,Team Sky,1.UWT,,,1,,0.0,,,575.0
+2017-08-27,2017,bretagne-classic,gc,Team Sky,1.UWT,,,1,,0.0,,,408.0
+2017-08-20,2017,cyclassics-hamburg,gc,Team Sky,1.UWT,,,1,,0.0,,,416.0
+2017-01-27,2017,deia-trophy,gc,Great Britain,1.1,,0,0,,0.0,,,0.0
+2017-01-27,2017,deia-trophy,gc,Team Sky,1.1,,0,0,,0.0,,,60.0
+2017-01-31,2017,dubai-tour,gc,Team Sky,2.HC,,0,0,,85.0,,,95.0
+2017-03-24,2017,e3-harelbeke,gc,Team Sky,1.UWT,,,1,,0.0,,,34.0
+2017-03-26,2017,gent-wevelgem,gc,Team Sky,1.UWT,,,1,,0.0,,,20.0
+2017-05-05,2017,giro-d-italia,gc,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-05-05,2017,giro-d-italia,kom,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-05-05,2017,giro-d-italia,points,Team Sky,2.UWT,,0,0,,104.0,100.0,0.0,384.0
+2017-09-30,2017,giro-dell-emilia,gc,Team Sky,1.HC,,0,0,,0.0,,,93.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Team Sky,1.HC,,0,0,,0.0,,,130.0
+2017-09-28,2017,gp-citta-di-peccioli,gc,Team Sky,1.1,,0,0,,0.0,,,40.0
+2017-09-10,2017,gp-montreal,gc,Team Sky,1.UWT,,0,0,,0.0,,,55.0
+2017-09-08,2017,gp-quebec,gc,Team Sky,1.UWT,,0,0,,0.0,,,45.0
+2017-04-01,2017,gran-premio-miguel-indurain,gc,Team Sky,1.1,,0,0,,0.0,,,139.0
+2017-01-29,2017,great-ocean-road-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,137.0
+2017-02-01,2017,herald-sun-tour,gc,Team Sky,2.1,,0,0,,115.0,,,160.0
+2017-10-07,2017,il-lombardia,gc,Team Sky,1.UWT,,0,0,,0.0,,,490.0
+2017-04-03,2017,itzulia-basque-country,gc,Team Sky,2.UWT,,0,0,,144.0,,,164.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,0,0,,0.0,,,140.0
+2017-04-19,2017,la-fleche-wallonne,gc,Team Sky,1.UWT,,,1,,0.0,,,356.0
+2017-06-15,2017,la-route-d-occitanie,gc,Team Sky,2.1,,0,0,,111.0,,,130.0
+2017-04-23,2017,liege-bastogne-liege,gc,Team Sky,1.UWT,,0,0,,0.0,,,375.0
+2017-03-18,2017,milano-sanremo,gc,Team Sky,1.UWT,,0,0,,0.0,,,610.0
+2017-10-05,2017,milano-torino,gc,Team Sky,1.HC,,0,0,,0.0,,,75.0
+2017-02-26,2017,nc-colombia,gc,Team Sky,NC,,0,0,,0.0,,,70.0
+2017-06-22,2017,nc-great-britain-itt,gc,Team Sky,NC,,,1,,0.0,,,16.0
+2017-06-25,2017,nc-italy,gc,Team Sky,NC,,0,0,,0.0,,,25.0
+2017-06-23,2017,nc-italy-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-netherlands,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-poland,gc,Team Sky,NC,,0,0,,0.0,,,5.0
+2017-06-21,2017,nc-poland-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-spain,gc,Team Sky,NC,,0,0,,0.0,,,15.0
+2017-06-23,2017,nc-spain-itt,gc,Team Sky,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,ncgreat-britain,gc,Team Sky,NC,,,1,,0.0,,,60.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,0,0,,0.0,,,120.0
+2017-03-05,2017,paris-nice,gc,Team Sky,2.UWT,,0,0,,530.0,,,555.0
+2017-04-09,2017,paris-roubaix,gc,Team Sky,1.UWT,,,1,,0.0,,,228.0
+2017-08-07,2017,renewi-tour,gc,Team Sky,2.UWT,84.0,0.0,1,,2.0,,,2.0
+2017-07-30,2017,ride-london-classic,gc,Team Sky,1.UWT,,,1,,0.0,,,40.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,,1,,0.0,,,35.0
+2017-02-15,2017,ruta-del-sol,gc,Team Sky,2.HC,,0,0,,275.0,,,285.0
+2017-07-29,2017,san-sebastian,gc,Team Sky,1.UWT,,0,0,,0.0,,,624.0
+2017-04-05,2017,scheldeprijs,gc,Team Sky,1.HC,,,1,,0.0,,,153.0
+2017-03-04,2017,strade-bianche,gc,Team Sky,1.UWT,,,1,,0.0,,,331.0
+2017-03-09,2017,tirreno-adriatico,gc,Team Sky,2.UWT,,0,0,,273.0,,,383.0
+2017-07-26,2017,tour-alsace,gc,Great Britain,2.2,,0,0,,0.0,,,1.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Team Sky,2.UWT,,0,0,,308.0,,,378.0
+2017-07-01,2017,tour-de-france,gc,Team Sky,2.UWT,,0,0,,1700.0,0.0,0.0,2040.0
+2017-07-01,2017,tour-de-france,kom,Team Sky,2.UWT,,0,0,,1700.0,0.0,0.0,2040.0
+2017-07-01,2017,tour-de-france,points,Team Sky,2.UWT,,0,0,,1700.0,0.0,0.0,2040.0
+2017-07-29,2017,tour-de-pologne,gc,Team Sky,2.UWT,,0,0,,286.0,,,454.0
+2017-04-25,2017,tour-de-romandie,gc,Team Sky,2.UWT,,,1,,30.0,,,90.0
+2017-06-10,2017,tour-de-suisse,gc,Team Sky,2.UWT,80.0,0.0,1,,150.0,,,150.0
+2017-04-28,2017,tour-de-yorkshire,gc,Great Britain,2.1,,0,0,,0.0,,,0.0
+2017-04-28,2017,tour-de-yorkshire,gc,Team Sky,2.1,,0,0,,30.0,,,30.0
+2017-01-17,2017,tour-down-under,gc,Team Sky,2.UWT,,0,0,,70.0,,,105.0
+2017-08-22,2017,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Sky,2.1,7.0,35.0,1,,88.0,,,126.0
+2017-09-03,2017,tour-of-britain,gc,Team Sky,2.HC,9.0,40.0,1,,185.0,,,225.0
+2017-09-03,2017,tour-of-britain,gc,Great Britain,2.HC,,0,0,,0.0,,,0.0
+2017-05-14,2017,tour-of-california,gc,Team Sky,2.UWT,63.0,0.0,1,,225.0,,,292.0
+2017-10-19,2017,tour-of-guangxi,gc,Team Sky,2.UWT,76.0,0.0,1,,117.0,,,117.0
+2017-04-17,2017,tour-of-the-alps,gc,Team Sky,2.HC,,0,0,,288.0,,,333.0
+2017-10-03,2017,tre-valli-varesine,gc,Team Sky,1.HC,,0,0,,0.0,,,60.0
+2017-01-29,2017,trofeo-palma,gc,Great Britain,1.1,,0,0,,0.0,,,11.0
+2017-01-29,2017,trofeo-palma,gc,Team Sky,1.1,,0,0,,0.0,,,35.0
+2017-01-28,2017,trofeo-pollenca-port-d-andratx,gc,Great Britain,1.1,,0,0,,0.0,,,0.0
+2017-01-28,2017,trofeo-pollenca-port-d-andratx,gc,Team Sky,1.1,,0,0,,0.0,,,59.0
+2017-01-26,2017,trofeo-ses-salines-felanitx,gc,Great Britain,1.1,,0,0,,0.0,,,3.0
+2017-01-26,2017,trofeo-ses-salines-felanitx,gc,Team Sky,1.1,,0,0,,0.0,,,65.0
+2017-07-09,2017,velothon-wales,gc,Great Britain,1.1,,0,0,,0.0,,,73.0
+2017-03-20,2017,volta-a-catalunya,gc,Team Sky,2.UWT,,0,0,,28.0,,,48.0
+2017-02-15,2017,volta-ao-algarve,gc,Team Sky,2.HC,,0,0,,155.0,,,160.0
+2017-08-01,2017,vuelta-a-burgos,gc,Team Sky,2.HC,,0,0,,210.0,,,265.0
+2017-08-20,2017,vuelta-a-espana,gc,Team Sky,2.UWT,,0,0,,1262.0,20.0,100.0,1638.0
+2017-08-20,2017,vuelta-a-espana,kom,Team Sky,2.UWT,,0,0,,1262.0,20.0,100.0,1638.0
+2017-08-20,2017,vuelta-a-espana,points,Team Sky,2.UWT,,0,0,,1262.0,20.0,100.0,1638.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,68.0,,,68.0
+2017-09-24,2017,world-championship,gc,Great Britain,WC,,,1,,0.0,,,285.0
+2017-09-20,2017,world-championship-itt,gc,Great Britain,WC,,0,0,,0.0,,,200.0
+2018-02-21,2018,abu-dhabi-tour,gc,Team Sky,2.UWT,,0,0,,36.0,,,51.0
+2018-04-15,2018,amstel-gold-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,40.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Team Sky,1.HC,,0,0,,0.0,,,150.0
+2018-08-26,2018,bretagne-classic,gc,Team Sky,1.UWT,,,1,,0.0,,,16.0
+2018-04-02,2018,circuito-belvedere,gc,Great Britain,1.2U,,0,0,,0.0,,,0.0
+2018-02-06,2018,colombia-21,gc,Team Sky,2.1,,0,0,,188.0,,,204.0
+2018-09-15,2018,coppa-agostoni,gc,Team Sky,1.1,,0,0,,0.0,,,125.0
+2018-09-16,2018,coppa-bernocchi,gc,Team Sky,1.1,,0,0,,0.0,,,53.0
+2018-08-19,2018,cyclassics-hamburg,gc,Team Sky,1.UWT,,0,0,,0.0,,,28.0
+2018-01-26,2018,deia-trophy,gc,Team Sky,1.1,,0,0,,0.0,,,91.0
+2018-08-23,2018,deutschland-tour,gc,Team Sky,2.1,,0,0,,8.0,,,8.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,48.0
+2018-03-23,2018,e3-harelbeke,gc,Team Sky,1.UWT,,,1,,0.0,,,120.0
+2018-05-09,2018,fleche-du-sud,gc,Great Britain,2.2,,0,0,,0.0,,,15.0
+2018-03-25,2018,gent-wevelgem,gc,Team Sky,1.UWT,,,1,,0.0,,,10.0
+2018-05-04,2018,giro-d-italia,gc,Team Sky,2.UWT,,0,0,,1054.0,100.0,0.0,1258.0
+2018-05-04,2018,giro-d-italia,kom,Team Sky,2.UWT,,0,0,,1054.0,100.0,0.0,1258.0
+2018-05-04,2018,giro-d-italia,points,Team Sky,2.UWT,,0,0,,1054.0,100.0,0.0,1258.0
+2018-10-06,2018,giro-dell-emilia,gc,Team Sky,1.HC,,0,0,,0.0,,,16.0
+2018-09-19,2018,giro-di-toscana,gc,Team Sky,1.1,,0,0,,0.0,,,130.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Team Sky,1.HC,,,1,,0.0,,,60.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Team Sky,1.1,,0,0,,0.0,,,73.0
+2018-09-09,2018,gp-montreal,gc,Team Sky,1.UWT,,,1,,0.0,,,30.0
+2018-09-07,2018,gp-quebec,gc,Team Sky,1.UWT,,,1,,0.0,,,45.0
+2018-10-11,2018,gran-piemonte,gc,Team Sky,1.HC,,0,0,,0.0,,,23.0
+2018-01-28,2018,great-ocean-road-race,gc,Team Sky,1.UWT,,,1,,0.0,,,54.0
+2018-10-13,2018,il-lombardia,gc,Team Sky,1.UWT,,0,0,,0.0,,,65.0
+2018-04-02,2018,itzulia-basque-country,gc,Team Sky,2.UWT,,0,0,,82.0,,,98.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,,1,,0.0,,,50.0
+2018-04-18,2018,la-fleche-wallonne,gc,Team Sky,1.UWT,,0,0,,0.0,,,58.0
+2018-06-14,2018,la-route-d-occitanie,gc,Team Sky,2.1,,0,0,,70.0,,,73.0
+2018-04-22,2018,liege-bastogne-liege,gc,Team Sky,1.UWT,,0,0,,0.0,,,123.0
+2018-09-22,2018,memorial-marco-pantani,gc,Team Sky,1.1,,0,0,,0.0,,,33.0
+2018-03-17,2018,milano-sanremo,gc,Team Sky,1.UWT,,0,0,,0.0,,,90.0
+2018-10-10,2018,milano-torino,gc,Team Sky,1.HC,,0,0,,0.0,,,38.0
+2018-07-01,2018,nc-belarus,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-29,2018,nc-belarus-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-02-04,2018,nc-colombia,gc,Team Sky,NC,,0,0,,0.0,,,100.0
+2018-02-02,2018,nc-colombia-itt,gc,Team Sky,NC,,0,0,,0.0,,,55.0
+2018-07-01,2018,nc-germany,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-28,2018,nc-great-britain-itt,gc,Team Sky,NC,,,1,,0.0,,,58.0
+2018-06-30,2018,nc-italy,gc,Team Sky,NC,,0,0,,0.0,,,3.0
+2018-10-04,2018,nc-italy-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2018-07-01,2018,nc-netherlands,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-27,2018,nc-netherlands-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-06-24,2018,nc-norway,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-21,2018,nc-norway-itt,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-poland,gc,Team Sky,NC,,0,0,,0.0,,,150.0
+2018-06-22,2018,nc-poland-itt,gc,Team Sky,NC,,0,0,,0.0,,,23.0
+2018-07-01,2018,nc-russia,gc,Team Sky,NC,,0,0,,0.0,,,10.0
+2018-06-29,2018,nc-russia-itt,gc,Team Sky,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-spain,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-spain-itt,gc,Team Sky,NC,,0,0,,0.0,,,50.0
+2018-07-01,2018,ncgreat-britain,gc,Team Sky,NC,,,1,,0.0,,,60.0
+2018-03-14,2018,nokere-koerse,gc,Team Sky,1.HC,,0,0,,0.0,,,38.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,,1,,0.0,,,292.0
+2018-03-04,2018,paris-nice,gc,Team Sky,2.UWT,,0,0,,170.0,,,290.0
+2018-04-08,2018,paris-roubaix,gc,Team Sky,1.UWT,,,1,,0.0,,,50.0
+2018-08-13,2018,renewi-tour,gc,Team Sky,2.UWT,,,1,,180.0,,,180.0
+2018-07-29,2018,ride-london-classic,gc,Team Sky,1.UWT,,,1,,0.0,,,31.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,0,0,,0.0,,,100.0
+2018-02-14,2018,ruta-del-sol,gc,Team Sky,2.HC,,0,0,,193.0,,,233.0
+2018-08-04,2018,san-sebastian,gc,Team Sky,1.UWT,,0,0,,0.0,,,20.0
+2018-04-04,2018,scheldeprijs,gc,Team Sky,1.HC,,,1,,0.0,,,133.0
+2018-03-03,2018,strade-bianche,gc,Team Sky,1.UWT,,,1,,0.0,,,54.0
+2018-03-08,2018,tirreno-adriatico,gc,Team Sky,2.UWT,,0,0,,850.0,,,870.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Great Britain,2.2U,,0,0,,0.0,,,0.0
+2018-08-02,2018,tour-alsace,gc,Great Britain,2.2,,0,0,,3.0,,,4.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Team Sky,2.UWT,,0,0,,590.0,,,720.0
+2018-07-07,2018,tour-de-france,gc,Team Sky,2.UWT,,0,0,,1780.0,0.0,0.0,2225.0
+2018-07-07,2018,tour-de-france,kom,Team Sky,2.UWT,,0,0,,1780.0,0.0,0.0,2225.0
+2018-07-07,2018,tour-de-france,points,Team Sky,2.UWT,,0,0,,1780.0,0.0,0.0,2225.0
+2018-08-04,2018,tour-de-pologne,gc,Team Sky,2.UWT,,0,0,,424.0,,,532.0
+2018-04-24,2018,tour-de-romandie,gc,Team Sky,2.UWT,,0,0,,465.0,,,535.0
+2018-06-10,2018,tour-de-suisse,gc,Team Sky,2.UWT,103.0,0.0,1,,60.0,,,60.0
+2018-05-03,2018,tour-de-yorkshire,gc,Team Sky,2.1,32.0,0.0,1,,5.0,,,5.0
+2018-05-03,2018,tour-de-yorkshire,gc,Great Britain,2.1,,0,0,,5.0,,,5.0
+2018-05-22,2018,tour-des-fjords,gc,Team Sky,2.HC,34.0,3.0,1,,13.0,,,18.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Great Britain,1.Ncup,,0,0,,0.0,,,0.0
+2018-01-16,2018,tour-down-under,gc,Team Sky,2.UWT,45.0,10.0,1,,185.0,,,185.0
+2018-09-02,2018,tour-of-britain,gc,Great Britain,2.HC,,0,0,,8.0,,,8.0
+2018-09-02,2018,tour-of-britain,gc,Team Sky,2.HC,,0,0,,156.0,,,196.0
+2018-05-13,2018,tour-of-california,gc,Team Sky,2.UWT,,0,0,,438.0,,,530.0
+2018-10-16,2018,tour-of-guangxi,gc,Team Sky,2.UWT,56.0,1.0,1,,343.0,,,383.0
+2018-05-16,2018,tour-of-norway,gc,Team Sky,2.HC,,0,0,,5.0,,,10.0
+2018-04-16,2018,tour-of-the-alps,gc,Team Sky,2.HC,,0,0,,108.0,,,108.0
+2018-01-28,2018,trofeo-palma,gc,Team Sky,1.1,,0,0,,0.0,,,28.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Team Sky,1.1,,0,0,,0.0,,,36.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Team Sky,1.1,,0,0,,0.0,,,28.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,Great Britain,CC,,0,0,,0.0,,,25.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Great Britain,CC,,,1,,0.0,,,25.0
+2018-03-19,2018,volta-a-catalunya,gc,Team Sky,2.UWT,,0,0,,20.0,,,40.0
+2018-02-14,2018,volta-ao-algarve,gc,Team Sky,2.HC,110.0,0.0,1,,355.0,,,420.0
+2018-08-07,2018,vuelta-a-burgos,gc,Team Sky,2.HC,,0,0,,295.0,,,300.0
+2018-08-25,2018,vuelta-a-espana,gc,Team Sky,2.UWT,,0,0,,100.0,0.0,0.0,268.0
+2018-08-25,2018,vuelta-a-espana,kom,Team Sky,2.UWT,,0,0,,100.0,0.0,0.0,268.0
+2018-08-25,2018,vuelta-a-espana,points,Team Sky,2.UWT,,0,0,,100.0,0.0,0.0,268.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,21.0,,,21.0
+2018-09-30,2018,world-championship,gc,Great Britain,WC,,0,0,,0.0,,,45.0
+2018-09-26,2018,world-championship-itt,gc,Great Britain,WC,,0,0,,0.0,,,0.0
+2019-04-21,2019,amstel-gold-race,gc,Team Sky,1.UWT,,0,0,,0.0,,,80.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Team Sky,1.HC,,0,0,,0.0,,,155.0
+2019-09-01,2019,bretagne-classic,gc,Team INEOS,1.UWT,,0,0,,0.0,,,16.0
+2019-10-20,2019,chrono-des-nations,gc,Team INEOS,1.1,,0,0,,0.0,,,85.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Team Sky,1.UWT,,,1,,0.0,,,125.0
+2019-02-13,2019,colombia-21,gc,Team Sky,2.1,,0,0,,145.0,,,150.0
+2019-08-25,2019,cyclassics-hamburg,gc,Team INEOS,1.UWT,,0,0,,0.0,,,64.0
+2019-08-29,2019,deutschland-tour,gc,Team INEOS,2.HC,,0,0,,35.0,,,35.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Team Sky,1.UWT,,,1,,0.0,,,128.0
+2019-03-29,2019,e3-harelbeke,gc,Team Sky,1.UWT,,,1,,0.0,,,4.0
+2019-06-23,2019,european-games,gc,Great Britain,JC,,0,0,,0.0,,,90.0
+2019-03-31,2019,gent-wevelgem,gc,Team Sky,1.UWT,,0,0,,0.0,,,35.0
+2019-05-11,2019,giro-d-italia,gc,Team INEOS,2.UWT,,0,0,,260.0,0.0,0.0,280.0
+2019-05-11,2019,giro-d-italia,kom,Team INEOS,2.UWT,,0,0,,260.0,0.0,0.0,280.0
+2019-05-11,2019,giro-d-italia,points,Team INEOS,2.UWT,,0,0,,260.0,0.0,0.0,280.0
+2019-10-05,2019,giro-dell-emilia,gc,Team INEOS,1.HC,,0,0,,0.0,,,53.0
+2019-09-18,2019,giro-di-toscana,gc,Team INEOS,1.1,,0,0,,0.0,,,128.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Team INEOS,1.HC,,0,0,,0.0,,,3.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Team INEOS,1.1,,0,0,,0.0,,,56.0
+2019-09-15,2019,gp-montreal,gc,Team INEOS,1.UWT,,0,0,,0.0,,,10.0
+2019-09-13,2019,gp-quebec,gc,Team INEOS,1.UWT,,0,0,,0.0,,,0.0
+2019-10-10,2019,gran-piemonte,gc,Team INEOS,1.HC,,0,0,,0.0,,,355.0
+2019-01-27,2019,great-ocean-road-race,gc,Team Sky,1.UWT,,,1,,0.0,,,235.0
+2019-01-30,2019,herald-sun-tour,gc,Team Sky,2.1,25.0,3.0,1,,196.0,,,242.0
+2019-10-12,2019,il-lombardia,gc,Team INEOS,1.UWT,,0,0,,0.0,,,405.0
+2019-04-08,2019,itzulia-basque-country,gc,Team Sky,2.UWT,,0,0,,16.0,,,32.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Great Britain,1.1,,,1,,0.0,,,0.0
+2019-08-03,2019,kreiz-breizh-elites,gc,Great Britain,2.2,,0,0,,0.0,,,0.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Team Sky,1.HC,,,1,,0.0,,,150.0
+2019-04-24,2019,la-fleche-wallonne,gc,Team Sky,1.UWT,,0,0,,0.0,,,40.0
+2019-06-20,2019,la-route-d-occitanie,gc,Team INEOS,2.1,,0,0,,165.0,,,189.0
+2019-04-28,2019,liege-bastogne-liege,gc,Team Sky,1.UWT,,0,0,,0.0,,,155.0
+2019-09-21,2019,memorial-marco-pantani,gc,Team INEOS,1.1,,0,0,,0.0,,,90.0
+2019-03-23,2019,milano-sanremo,gc,Team Sky,1.UWT,,,1,,0.0,,,335.0
+2019-10-09,2019,milano-torino,gc,Team INEOS,1.HC,,0,0,,0.0,,,75.0
+2019-10-03,2019,munsterland-giro,gc,Team INEOS,1.HC,,0,0,,0.0,,,30.0
+2019-06-16,2019,nc-belarus,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-02-03,2019,nc-colombia,gc,Team Sky,NC,,0,0,,0.0,,,0.0
+2019-02-01,2019,nc-colombia-itt,gc,Team Sky,NC,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-germany,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-great-britain-itt,gc,Team INEOS,NC,,,1,,0.0,,,18.0
+2019-06-30,2019,nc-ireland,gc,Team INEOS,NC,,0,0,,0.0,,,75.0
+2019-06-27,2019,nc-ireland-itt,gc,Team INEOS,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,nc-italy,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-06-28,2019,nc-italy-itt,gc,Team INEOS,NC,,0,0,,0.0,,,60.0
+2019-06-26,2019,nc-netherlands-itt,gc,Team INEOS,NC,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-norway,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-poland,gc,Team INEOS,NC,,0,0,,0.0,,,30.0
+2019-06-28,2019,nc-poland-itt,gc,Team INEOS,NC,,0,0,,0.0,,,15.0
+2019-06-28,2019,nc-spain-itt,gc,Team INEOS,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,ncgreat-britain,gc,Team INEOS,NC,,,1,,0.0,,,175.0
+2019-03-20,2019,nokere-koerse,gc,Team Sky,1.HC,,,1,,0.0,,,3.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Team Sky,1.UWT,,,1,,0.0,,,49.0
+2019-03-10,2019,paris-nice,gc,Team Sky,2.UWT,,0,0,,848.0,,,858.0
+2019-04-14,2019,paris-roubaix,gc,Team Sky,1.UWT,,,1,,0.0,,,30.0
+2019-08-12,2019,renewi-tour,gc,Team INEOS,2.UWT,,0,0,,40.0,,,90.0
+2019-08-04,2019,ride-london-classic,gc,Great Britain,1.UWT,,0,0,,0.0,,,83.0
+2019-08-04,2019,ride-london-classic,gc,Team INEOS,1.UWT,,0,0,,0.0,,,44.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Team Sky,1.UWT,,,1,,0.0,,,70.0
+2019-08-03,2019,san-sebastian,gc,Team INEOS,1.UWT,,0,0,,0.0,,,40.0
+2019-04-10,2019,scheldeprijs,gc,Team Sky,1.HC,,,1,,0.0,,,125.0
+2019-03-09,2019,strade-bianche,gc,Team Sky,1.UWT,,,1,,0.0,,,62.0
+2019-03-14,2019,tirreno-adriatico,gc,Team Sky,2.UWT,,0,0,,170.0,,,170.0
+2019-07-21,2019,tokyo-2020-test-event,gc,Great Britain,1.2,,0,0,,0.0,,,23.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Team INEOS,2.UWT,,0,0,,315.0,,,435.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Team Sky,2.1,50.0,0.0,1,,35.0,,,49.0
+2019-07-06,2019,tour-de-france,gc,Team INEOS,2.UWT,,0,0,,1870.0,50.0,0.0,1965.0
+2019-07-06,2019,tour-de-france,kom,Team INEOS,2.UWT,,0,0,,1870.0,50.0,0.0,1965.0
+2019-07-06,2019,tour-de-france,points,Team INEOS,2.UWT,,0,0,,1870.0,50.0,0.0,1965.0
+2019-08-03,2019,tour-de-pologne,gc,Team INEOS,2.UWT,51.0,4.0,1,,602.0,,,630.0
+2019-04-30,2019,tour-de-romandie,gc,Team INEOS,2.UWT,,0,0,,344.0,,,364.0
+2019-06-15,2019,tour-de-suisse,gc,Team INEOS,2.UWT,84.0,0.0,1,,565.0,,,660.0
+2019-07-27,2019,tour-de-wallonie,gc,Team INEOS,2.HC,,0,0,,178.0,,,188.0
+2019-05-02,2019,tour-de-yorkshire,gc,Team INEOS,2.HC,11.0,30.0,1,,390.0,,,420.0
+2019-05-02,2019,tour-de-yorkshire,gc,Great Britain,2.HC,,0,0,,3.0,,,3.0
+2019-01-15,2019,tour-down-under,gc,Team Sky,2.UWT,99.0,0.0,1,,365.0,,,390.0
+2019-09-07,2019,tour-of-britain,gc,Great Britain,2.HC,,0,0,,5.0,,,15.0
+2019-09-07,2019,tour-of-britain,gc,Team INEOS,2.HC,,0,0,,180.0,,,185.0
+2019-05-12,2019,tour-of-california,gc,Team INEOS,2.UWT,62.0,0.0,1,,25.0,,,31.0
+2019-10-17,2019,tour-of-guangxi,gc,Team INEOS,2.UWT,,0,0,,295.0,,,301.0
+2019-05-28,2019,tour-of-norway,gc,Team INEOS,2.HC,,0,0,,158.0,,,193.0
+2019-04-22,2019,tour-of-the-alps,gc,Team Sky,2.HC,,0,0,,380.0,,,450.0
+2019-10-08,2019,tre-valli-varesine,gc,Team INEOS,1.HC,,0,0,,0.0,,,60.0
+2019-02-25,2019,uae-tour,gc,Team Sky,2.UWT,,0,0,,69.0,,,69.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Great Britain,CC,,0,0,,0.0,,,25.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Great Britain,CC,,0,0,,0.0,,,36.0
+2019-03-25,2019,volta-a-catalunya,gc,Team Sky,2.UWT,,0,0,,292.0,,,312.0
+2019-02-20,2019,volta-ao-algarve,gc,Team Sky,2.HC,,0,0,,160.0,,,175.0
+2019-08-13,2019,vuelta-a-burgos,gc,Team INEOS,2.HC,,0,0,,265.0,,,310.0
+2019-08-25,2019,vuelta-a-espana,gc,Team INEOS,2.UWT,71.0,0.0,1,,80.0,0.0,0.0,140.0
+2019-08-25,2019,vuelta-a-espana,kom,Team INEOS,2.UWT,,,1,,80.0,0.0,0.0,140.0
+2019-08-25,2019,vuelta-a-espana,points,Team INEOS,2.UWT,95.0,0.0,1,,80.0,0.0,0.0,140.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Team Sky,2.1,,0,0,,26.0,,,29.0
+2019-09-29,2019,world-championship,gc,Great Britain,WC,,,1,,0.0,,,40.0
+2019-09-25,2019,world-championship-itt,gc,Great Britain,WC,,0,0,,0.0,,,145.0
+2020-10-07,2020,brabantse-pijl,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,70.0
+2020-10-21,2020,classic-brugge-de-panne,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,15.0
+2020-02-12,2020,colombia-21,gc,Team INEOS,2.1,,0,0,,60.0,,,68.0
+2020-10-11,2020,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,60.0
+2020-10-03,2020,giro-d-italia,gc,INEOS Grenadiers,2.UWT,,0,0,,958.0,40.0,0.0,1910.0
+2020-10-03,2020,giro-d-italia,kom,INEOS Grenadiers,2.UWT,,0,0,,958.0,40.0,0.0,1910.0
+2020-10-03,2020,giro-d-italia,points,INEOS Grenadiers,2.UWT,,0,0,,958.0,40.0,0.0,1910.0
+2020-09-19,2020,giro-dell-appennino,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2020-08-18,2020,giro-dell-emilia,gc,Team INEOS,1.Pro,,0,0,,0.0,,,105.0
+2020-09-16,2020,giro-di-toscana,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,85.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,43.0
+2020-08-12,2020,gran-piemonte,gc,Team INEOS,1.Pro,,0,0,,0.0,,,13.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Team INEOS,1.Pro,,0,0,,0.0,,,143.0
+2020-02-02,2020,great-ocean-road-race,gc,Team INEOS,1.UWT,,,1,,0.0,,,383.0
+2020-08-15,2020,il-lombardia,gc,Team INEOS,1.UWT,,0,0,,0.0,,,63.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Team INEOS,1.Pro,,,1,,0.0,,,50.0
+2020-09-30,2020,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,142.0
+2020-08-01,2020,la-route-d-occitanie,gc,Team INEOS,2.1,,0,0,,210.0,,,229.0
+2020-10-04,2020,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,85.0
+2020-08-30,2020,memorial-marco-pantani,gc,INEOS Grenadiers,1.1,,,1,,0.0,,,85.0
+2020-08-08,2020,milano-sanremo,gc,Team INEOS,1.UWT,,0,0,,0.0,,,55.0
+2020-08-05,2020,milano-torino,gc,Team INEOS,1.Pro,,0,0,,0.0,,,46.0
+2020-01-08,2020,nc-australia-itt,gc,Team INEOS,NC,,0,0,,0.0,,,30.0
+2020-02-02,2020,nc-colombia,gc,Team INEOS,NC,,0,0,,0.0,,,75.0
+2020-01-30,2020,nc-colombia-itt,gc,Team INEOS,NC,,0,0,,0.0,,,35.0
+2020-08-23,2020,nc-germany,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-italy-itt,gc,Team INEOS,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-poland,gc,Team INEOS,NC,,0,0,,0.0,,,40.0
+2020-08-23,2020,nc-spain,gc,Team INEOS,NC,,0,0,,0.0,,,0.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Team INEOS,1.UWT,,,1,,0.0,,,12.0
+2020-01-30,2020,race-torquay,gc,Team INEOS,1.1,,,1,,0.0,,,0.0
+2020-09-29,2020,renewi-tour,gc,INEOS Grenadiers,2.UWT,14.0,32.0,1,,44.0,,,44.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,140.0
+2020-10-14,2020,scheldeprijs,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,3.0
+2020-08-01,2020,strade-bianche,gc,Team INEOS,1.UWT,,,1,,0.0,,,35.0
+2020-09-07,2020,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,,0,0,,420.0,,,515.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Team INEOS,2.UWT,,0,0,,100.0,,,110.0
+2020-02-13,2020,tour-cycliste-international-la-provence,gc,Team INEOS,2.Pro,62.0,0.0,1,,75.0,,,95.0
+2020-08-29,2020,tour-de-france,gc,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-29,2020,tour-de-france,kom,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-29,2020,tour-de-france,points,INEOS Grenadiers,2.UWT,,0,0,,145.0,50.0,0.0,395.0
+2020-08-07,2020,tour-de-l-ain,gc,Team INEOS,2.1,,0,0,,93.0,,,103.0
+2020-08-05,2020,tour-de-pologne,gc,Team INEOS,2.UWT,47.0,8.0,1,,24.0,,,74.0
+2020-08-16,2020,tour-de-wallonie,gc,Team INEOS,2.Pro,,,1,,50.0,,,50.0
+2020-01-21,2020,tour-down-under,gc,Team INEOS,2.UWT,80.0,0.0,1,,530.0,,,530.0
+2020-02-23,2020,uae-tour,gc,Team INEOS,2.UWT,,0,0,,40.0,,,40.0
+2020-02-19,2020,volta-ao-algarve,gc,Team INEOS,2.Pro,,0,0,,25.0,,,35.0
+2020-07-28,2020,vuelta-a-burgos,gc,Team INEOS,2.Pro,,0,0,,80.0,,,100.0
+2020-10-20,2020,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,,0,0,,708.0,20.0,40.0,848.0
+2020-10-20,2020,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,0,0,,708.0,20.0,40.0,848.0
+2020-10-20,2020,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,0,0,,708.0,20.0,40.0,848.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Team INEOS,2.Pro,,0,0,,163.0,,,168.0
+2021-04-18,2021,amstel-gold-race,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,545.0
+2021-04-14,2021,brabantse-pijl,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,205.0
+2021-03-19,2021,bredene-koksijde-classic,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2021-08-29,2021,bretagne-classic,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,228.0
+2021-09-29,2021,circuit-franco-belge,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,10.0
+2021-10-04,2021,coppa-bernocchi,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,357.0
+2021-03-26,2021,e3-harelbeke,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,144.0
+2021-02-03,2021,etoile-de-besseges,gc,INEOS Grenadiers,2.1,25.0,3.0,1,,93.0,,,124.0
+2021-03-28,2021,gent-wevelgem,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,175.0
+2021-05-08,2021,giro-d-italia,gc,INEOS Grenadiers,2.UWT,,0,0,,1310.0,40.0,0.0,1842.0
+2021-05-08,2021,giro-d-italia,kom,INEOS Grenadiers,2.UWT,,0,0,,1310.0,40.0,0.0,1842.0
+2021-05-08,2021,giro-d-italia,points,INEOS Grenadiers,2.UWT,,0,0,,1310.0,40.0,0.0,1842.0
+2021-06-24,2021,giro-dell-appennino,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,3.0
+2021-10-02,2021,giro-dell-emilia,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,105.0
+2021-09-15,2021,giro-di-toscana,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,33.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,68.0
+2021-09-21,2021,gp-de-denain,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,133.0
+2021-03-07,2021,gp-industria-artigianato,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,105.0
+2021-06-27,2021,gp-lugano,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,125.0
+2021-10-07,2021,gran-piemonte,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,35.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,48.0
+2021-10-09,2021,il-lombardia,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,358.0
+2021-04-05,2021,itzulia-basque-country,gc,INEOS Grenadiers,2.UWT,,0,0,,252.0,,,252.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,130.0
+2021-04-21,2021,la-fleche-wallonne,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,260.0
+2021-06-10,2021,la-route-d-occitanie,gc,INEOS Grenadiers,2.1,48.0,0.0,1,,0.0,,,0.0
+2021-04-25,2021,liege-bastogne-liege,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,110.0
+2021-09-18,2021,memorial-marco-pantani,gc,INEOS Grenadiers,1.1,,0,0,,0.0,,,25.0
+2021-03-20,2021,milano-sanremo,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,85.0
+2021-10-06,2021,milano-torino,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,155.0
+2021-10-14,2021,nc-great-britain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2021-10-03,2021,nc-ireland,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2021-06-18,2021,nc-italy-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-poland,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-spain,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,10.0
+2021-06-18,2021,nc-spain-itt,gc,INEOS Grenadiers,NC,,0,0,,0.0,,,20.0
+2021-10-17,2021,ncgreat-britain,gc,INEOS Grenadiers,NC,,,1,,0.0,,,160.0
+2021-03-17,2021,nokere-koerse,gc,INEOS Grenadiers,1.Pro,,,1,,0.0,,,48.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,24.0
+2021-03-07,2021,paris-nice,gc,INEOS Grenadiers,2.UWT,,0,0,,80.0,,,80.0
+2021-10-03,2021,paris-roubaix,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,278.0
+2021-08-30,2021,renewi-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,52.0,,,52.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,100.0
+2021-05-18,2021,ruta-del-sol,gc,INEOS Grenadiers,2.Pro,61.0,0.0,1,,168.0,,,208.0
+2021-07-31,2021,san-sebastian,gc,INEOS Grenadiers,1.UWT,,0,0,,0.0,,,124.0
+2021-03-06,2021,strade-bianche,gc,INEOS Grenadiers,1.UWT,,,1,,0.0,,,347.0
+2021-03-10,2021,tirreno-adriatico,gc,INEOS Grenadiers,2.UWT,,0,0,,335.0,,,345.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,INEOS Grenadiers,2.UWT,,0,0,,923.0,,,1033.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,INEOS Grenadiers,2.Pro,,0,0,,333.0,,,363.0
+2021-06-26,2021,tour-de-france,gc,INEOS Grenadiers,2.UWT,,0,0,,785.0,0.0,0.0,835.0
+2021-06-26,2021,tour-de-france,kom,INEOS Grenadiers,2.UWT,,0,0,,785.0,0.0,0.0,835.0
+2021-06-26,2021,tour-de-france,points,INEOS Grenadiers,2.UWT,,0,0,,785.0,0.0,0.0,835.0
+2021-08-09,2021,tour-de-pologne,gc,INEOS Grenadiers,2.UWT,69.0,0.0,1,,264.0,,,264.0
+2021-04-27,2021,tour-de-romandie,gc,INEOS Grenadiers,2.UWT,90.0,0.0,1,,940.0,,,1055.0
+2021-06-06,2021,tour-de-suisse,gc,INEOS Grenadiers,2.UWT,,0,0,,585.0,,,645.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,INEOS Grenadiers,2.1,,0,0,,23.0,,,31.0
+2021-09-05,2021,tour-of-britain,gc,INEOS Grenadiers,2.Pro,50.0,0.0,1,,260.0,,,300.0
+2021-08-19,2021,tour-of-norway,gc,INEOS Grenadiers,2.Pro,,0,0,,206.0,,,246.0
+2021-04-19,2021,tour-of-the-alps,gc,INEOS Grenadiers,2.Pro,,0,0,,98.0,,,148.0
+2021-10-05,2021,tre-valli-varesine,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,5.0
+2021-03-03,2021,trofeo-laigueglia,gc,INEOS Grenadiers,1.Pro,,0,0,,0.0,,,153.0
+2021-02-21,2021,uae-tour,gc,INEOS Grenadiers,2.UWT,,0,0,,251.0,,,312.0
+2021-03-22,2021,volta-a-catalunya,gc,INEOS Grenadiers,2.UWT,,0,0,,1004.0,,,1112.0
+2021-05-05,2021,volta-ao-algarve,gc,INEOS Grenadiers,2.Pro,,0,0,,205.0,,,225.0
+2021-08-03,2021,vuelta-a-burgos,gc,INEOS Grenadiers,2.Pro,,0,0,,103.0,,,103.0
+2021-08-14,2021,vuelta-a-espana,gc,INEOS Grenadiers,2.UWT,,0,0,,800.0,0.0,0.0,904.0
+2021-08-14,2021,vuelta-a-espana,kom,INEOS Grenadiers,2.UWT,,0,0,,800.0,0.0,0.0,904.0
+2021-08-14,2021,vuelta-a-espana,points,INEOS Grenadiers,2.UWT,,0,0,,800.0,0.0,0.0,904.0
+2022-04-10,2022,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,35.0
+2022-04-13,2022,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,33.0
+2022-08-28,2022,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,88.0
+2022-10-16,2022,chrono-des-nations,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,50.0
+2022-06-14,2022,cic-mont-ventoux,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,216.0
+2022-07-31,2022,circuito-de-getxo,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,3.0
+2022-02-13,2022,clasica-de-almeria,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,60.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2022-03-23,2022,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,10.0
+2022-08-07,2022,commonwealth-games,gc,Wales,JR,,,1,,0.0,,,0.0
+2022-08-04,2022,commonwealth-games-itt2,gc,Wales,JR,,,1,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,105.0
+2022-10-03,2022,coppa-bernocchi,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,40.0
+2022-08-21,2022,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,68.0
+2022-06-26,2022,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,1.0
+2022-08-24,2022,deutschland-tour,gc,EF Education - EasyPost,2.Pro,,0,0,,158.0,,,173.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,5.0
+2022-03-25,2022,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,24.0
+2022-05-01,2022,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,37.0
+2022-02-02,2022,etoile-de-besseges,gc,EF Education - EasyPost,2.1,77.0,0.0,1,,85.0,,,90.0
+2022-03-27,2022,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,33.0
+2022-05-06,2022,giro-d-italia,gc,EF Education - EasyPost,2.UWT,,,1,,180.0,0.0,0.0,236.0
+2022-05-06,2022,giro-d-italia,kom,EF Education - EasyPost,2.UWT,,,1,,180.0,0.0,0.0,236.0
+2022-05-06,2022,giro-d-italia,points,EF Education - EasyPost,2.UWT,,,1,,180.0,0.0,0.0,236.0
+2022-10-01,2022,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,143.0
+2022-09-14,2022,giro-di-toscana,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,58.0
+2022-09-18,2022,gooikse-pijl,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,3.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,290.0
+2022-01-30,2022,gp-d-ouverture,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,20.0
+2022-09-11,2022,gp-de-fourmies,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,3.0
+2022-09-14,2022,gp-de-wallonie,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,68.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,6.0
+2022-09-11,2022,gp-montreal,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,33.0
+2022-09-09,2022,gp-quebec,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,185.0
+2022-02-24,2022,gran-camino,gc,EF Education - EasyPost,2.1,,0,0,,70.0,,,98.0
+2022-10-06,2022,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,96.0
+2022-10-08,2022,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,110.0
+2022-04-04,2022,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,,0,0,,92.0,,,92.0
+2022-10-16,2022,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,385.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,5.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,5.0
+2022-04-20,2022,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,168.0
+2022-06-16,2022,la-route-d-occitanie,gc,EF Education - EasyPost,2.1,,0,0,,15.0,,,20.0
+2022-04-24,2022,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,125.0
+2022-09-04,2022,maryland-cycling-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,293.0
+2022-03-19,2022,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,30.0
+2022-03-16,2022,milano-torino,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,11.0
+2022-06-26,2022,nc-belgium,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-02-13,2022,nc-colombia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2022-02-10,2022,nc-colombia-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2022-06-23,2022,nc-denmark-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2022-02-20,2022,nc-ecuador,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2022-06-26,2022,nc-eritrea,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2022-06-24,2022,nc-eritrea-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-germany,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,40.0
+2022-06-24,2022,nc-germany-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,25.0
+2022-06-23,2022,nc-great-britain-itt,gc,EF Education - EasyPost,NC,,,1,,0.0,,,25.0
+2022-06-26,2022,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2022-06-23,2022,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2022-06-24,2022,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-netherlands-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,6.0
+2022-06-26,2022,nc-norway,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-poland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-poland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-switserland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-switzerland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,ncgreat-britain,gc,EF Education - EasyPost,NC,,,1,,0.0,,,10.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,20.0
+2022-10-06,2022,paris-bourges,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,3.0
+2022-03-06,2022,paris-nice,gc,EF Education - EasyPost,2.UWT,47.0,10.0,1,,15.0,,,15.0
+2022-04-17,2022,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,35.0
+2022-10-09,2022,paris-tours,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,8.0
+2022-07-25,2022,prueba-villafranca,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2022-04-05,2022,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,6.0,,,6.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,10.0
+2022-07-30,2022,san-sebastian,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,112.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,,0,0,,60.0,,,60.0
+2022-03-05,2022,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,62.0
+2022-03-07,2022,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,40.0,,,40.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,91.0,0.0,1,,250.0,,,260.0
+2022-07-01,2022,tour-de-france,gc,EF Education - EasyPost,2.UWT,89.0,0.0,1,,190.0,0.0,0.0,400.0
+2022-07-01,2022,tour-de-france,kom,EF Education - EasyPost,2.UWT,,,1,,190.0,0.0,0.0,400.0
+2022-07-01,2022,tour-de-france,points,EF Education - EasyPost,2.UWT,107.0,0.0,1,,190.0,0.0,0.0,400.0
+2022-08-09,2022,tour-de-l-ain,gc,EF Education - EasyPost,2.1,,0,0,,3.0,,,3.0
+2022-10-11,2022,tour-de-langkawi,gc,EF Education - EasyPost,2.Pro,,0,0,,223.0,,,243.0
+2022-07-30,2022,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,0,0,,80.0,,,80.0
+2022-04-26,2022,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,80.0,,,80.0
+2022-06-12,2022,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,285.0,,,335.0
+2022-07-23,2022,tour-de-wallonie,gc,EF Education - EasyPost,2.Pro,,0,0,,108.0,,,108.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,EF Education - EasyPost,2.1,,0,0,,25.0,,,25.0
+2022-08-16,2022,tour-of-denmark,gc,EF Education - EasyPost,2.Pro,,0,0,,90.0,,,95.0
+2022-05-24,2022,tour-of-norway,gc,EF Education - EasyPost,2.Pro,,0,0,,53.0,,,53.0
+2022-04-18,2022,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,,0,0,,55.0,,,55.0
+2022-10-04,2022,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,40.0
+2022-02-20,2022,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,62.0,,,102.0
+2022-03-21,2022,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,,0,0,,32.0,,,32.0
+2022-08-02,2022,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,,0,0,,120.0,,,130.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,EF Education - EasyPost,2.1,,0,0,,63.0,,,63.0
+2022-08-20,2022,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,,0,0,,268.0,0.0,0.0,368.0
+2022-08-20,2022,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,0,0,,268.0,0.0,0.0,368.0
+2022-08-20,2022,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,0,0,,268.0,0.0,0.0,368.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2023-04-16,2023,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,400.0
+2023-04-12,2023,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,155.0
+2023-09-03,2023,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,64.0
+2023-10-15,2023,chrono-des-nations,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,110.0
+2023-06-13,2023,cic-mont-ventoux,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,200.0
+2023-03-22,2023,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,61.0
+2023-08-20,2023,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,48.0
+2023-06-25,2023,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-01-28,2023,deia-trophy,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,58.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,229.0
+2023-03-24,2023,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,76.0
+2023-05-01,2023,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,132.0
+2023-02-01,2023,etoile-de-besseges,gc,EF Education - EasyPost,2.1,,0,0,,125.0,,,130.0
+2023-02-25,2023,faun-ardeche-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,21.0
+2023-02-12,2023,figueira-champions-classic,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,120.0
+2023-03-26,2023,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,33.0
+2023-05-06,2023,giro-d-italia,gc,EF Education - EasyPost,2.UWT,,0,0,,50.0,95.0,0.0,900.0
+2023-05-06,2023,giro-d-italia,kom,EF Education - EasyPost,2.UWT,,0,0,,50.0,95.0,0.0,900.0
+2023-05-06,2023,giro-d-italia,points,EF Education - EasyPost,2.UWT,,0,0,,50.0,95.0,0.0,900.0
+2023-09-30,2023,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,68.0
+2023-09-13,2023,giro-di-toscana,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,95.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,110.0
+2023-01-29,2023,gp-d-ouverture,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,140.0
+2023-03-26,2023,gp-industria-artigianato,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,243.0
+2023-09-10,2023,gp-montreal,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,30.0
+2023-09-08,2023,gp-quebec,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,60.0
+2023-10-05,2023,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,8.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,60.0
+2023-01-29,2023,great-ocean-road-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,81.0
+2023-10-07,2023,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,245.0
+2023-04-03,2023,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,,0,0,,80.0,,,108.0
+2023-10-15,2023,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,65.0
+2023-02-26,2023,la-drome-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,13.0
+2023-04-19,2023,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,32.0
+2023-06-15,2023,la-route-d-occitanie,gc,EF Education - EasyPost,2.1,,0,0,,85.0,,,116.0
+2023-04-23,2023,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,455.0
+2023-09-03,2023,maryland-cycling-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,220.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,128.0
+2023-03-18,2023,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,315.0
+2023-03-15,2023,milano-torino,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,10.0
+2023-06-25,2023,nc-belgium,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-02-05,2023,nc-colombia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,105.0
+2023-02-02,2023,nc-colombia-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2023-02-12,2023,nc-ecuador,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,160.0
+2023-02-11,2023,nc-ecuador-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,70.0
+2023-06-25,2023,nc-eritrea,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-eritrea-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-germany,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,40.0
+2023-06-23,2023,nc-germany-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,15.0
+2023-06-21,2023,nc-great-britain-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2023-06-22,2023,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,15.0
+2023-06-24,2023,nc-italy,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,33.0
+2023-06-25,2023,nc-norway,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-poland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2023-02-12,2023,nc-south-africa,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2023-02-10,2023,nc-south-africa-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-switserland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2023-10-01,2023,nc-switzerland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,ncgreat-britain,gc,EF Education - EasyPost,NC,,,1,,0.0,,,60.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,64.0
+2023-03-05,2023,paris-nice,gc,EF Education - EasyPost,2.UWT,63.0,0.0,1,,175.0,,,250.0
+2023-04-09,2023,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,20.0
+2023-10-08,2023,paris-tours,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,10.0
+2023-03-19,2023,per-sempre-alfredo,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,5.0
+2023-07-25,2023,prueba-villafranca,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,95.0
+2023-04-04,2023,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,83.0,,,93.0
+2023-08-23,2023,renewi-tour,gc,EF Education - EasyPost,2.UWT,19.0,24.0,1,,80.0,,,80.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,430.0
+2023-07-29,2023,san-sebastian,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,276.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,,0,0,,245.0,,,282.0
+2023-03-04,2023,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,24.0
+2023-03-06,2023,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,135.0,,,147.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,91.0,0.0,1,,40.0,,,57.0
+2023-07-01,2023,tour-de-france,gc,EF Education - EasyPost,2.UWT,,0,0,,0.0,0.0,0.0,310.0
+2023-07-01,2023,tour-de-france,kom,EF Education - EasyPost,2.UWT,,0,0,,0.0,0.0,0.0,310.0
+2023-07-01,2023,tour-de-france,points,EF Education - EasyPost,2.UWT,,0,0,,0.0,0.0,0.0,310.0
+2023-07-31,2023,tour-de-l-ain,gc,EF Education - EasyPost,2.1,,0,0,,56.0,,,70.0
+2023-09-23,2023,tour-de-langkawi,gc,EF Education - EasyPost,2.Pro,,0,0,,378.0,,,413.0
+2023-09-20,2023,tour-de-luxembourg,gc,EF Education - EasyPost,2.Pro,,0,0,,130.0,,,150.0
+2023-07-29,2023,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,0,0,,24.0,,,104.0
+2023-04-26,2023,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,30.0,,,46.0
+2023-06-11,2023,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,235.0,,,305.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,EF Education - EasyPost,2.1,,0,0,,75.0,,,85.0
+2023-01-17,2023,tour-down-under,gc,EF Education - EasyPost,2.UWT,,0,0,,33.0,,,108.0
+2023-09-03,2023,tour-of-britain,gc,Great Britain,2.Pro,,0,0,,20.0,,,83.0
+2023-08-15,2023,tour-of-denmark,gc,EF Education - EasyPost,2.Pro,,0,0,,151.0,,,171.0
+2023-10-12,2023,tour-of-guangxi,gc,EF Education - EasyPost,2.UWT,,0,0,,217.0,,,257.0
+2023-05-26,2023,tour-of-norway,gc,EF Education - EasyPost,2.Pro,,0,0,,50.0,,,53.0
+2023-02-19,2023,tour-of-rwanda,gc,Great Britain,2.1,,0,0,,40.0,,,45.0
+2023-04-17,2023,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,,0,0,,255.0,,,313.0
+2023-10-03,2023,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,150.0
+2023-01-25,2023,trofeo-calvia,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,80.0
+2023-03-01,2023,trofeo-laigueglia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,90.0
+2023-01-29,2023,trofeo-palma,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,20.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,5.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,125.0
+2023-02-20,2023,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,64.0,,,70.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Great Britain,CC,,0,0,,0.0,,,70.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Great Britain,CC,,0,0,,0.0,,,36.0
+2023-03-20,2023,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,,0,0,,144.0,,,155.0
+2023-02-15,2023,volta-ao-algarve,gc,EF Education - EasyPost,2.Pro,58.0,0.0,1,,50.0,,,90.0
+2023-08-15,2023,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,,0,0,,13.0,,,18.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,EF Education - EasyPost,2.1,35.0,0.0,1,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,,0,0,,70.0,0.0,0.0,507.0
+2023-08-27,2023,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,0,0,,70.0,0.0,0.0,507.0
+2023-08-27,2023,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,0,0,,70.0,0.0,0.0,507.0
+2023-08-06,2023,world-championship,gc,Great Britain,WC,,,1,,0.0,,,75.0
+2023-08-11,2023,world-championship-itt,gc,Great Britain,WC,,0,0,,0.0,,,325.0
+2024-04-14,2024,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,105.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,EF Education - EasyPost,2.Pro,50.0,0.0,1,,235.0,,,260.0
+2024-04-10,2024,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,88.0
+2024-08-25,2024,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,68.0
+2024-03-20,2024,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,42.0
+2024-02-06,2024,colombia-21,gc,EF Education - EasyPost,2.1,,0,0,,190.0,,,217.0
+2024-10-07,2024,coppa-bernocchi,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,138.0
+2024-09-08,2024,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,48.0
+2024-06-23,2024,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2024-01-26,2024,deia-trophy,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,56.0
+2024-08-22,2024,deutschland-tour,gc,EF Education - EasyPost,2.Pro,,0,0,,90.0,,,100.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,75.0
+2024-03-22,2024,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,2.0
+2024-05-01,2024,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,212.0
+2024-02-01,2024,etoile-de-besseges,gc,EF Education - EasyPost,2.1,,0,0,,130.0,,,138.0
+2024-02-10,2024,figueira-champions-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,96.0
+2024-03-24,2024,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,70.0
+2024-05-04,2024,giro-d-italia,gc,EF Education - EasyPost,2.UWT,,0,0,,75.0,95.0,0.0,750.0
+2024-05-04,2024,giro-d-italia,kom,EF Education - EasyPost,2.UWT,,0,0,,75.0,95.0,0.0,750.0
+2024-05-04,2024,giro-d-italia,points,EF Education - EasyPost,2.UWT,,0,0,,75.0,95.0,0.0,750.0
+2024-10-05,2024,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,48.0
+2024-09-11,2024,giro-di-toscana,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,8.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,75.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,108.0
+2024-09-08,2024,gp-industria-artigianato,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,10.0
+2024-09-15,2024,gp-montreal,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,50.0
+2024-09-13,2024,gp-quebec,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,155.0
+2024-02-22,2024,gran-camino,gc,EF Education - EasyPost,2.1,,0,0,,58.0,,,66.0
+2024-10-10,2024,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,205.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,96.0
+2024-01-28,2024,great-ocean-road-race,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,117.0
+2024-10-12,2024,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,265.0
+2024-04-01,2024,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,,0,0,,64.0,,,67.0
+2024-10-20,2024,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,250.0
+2024-04-17,2024,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,48.0
+2024-04-21,2024,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,90.0
+2024-09-14,2024,memorial-marco-pantani,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,43.0
+2024-03-16,2024,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,365.0
+2024-03-13,2024,milano-torino,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,203.0
+2024-01-28,2024,nc-colombia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2024-01-25,2024,nc-colombia-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,3.0
+2024-02-03,2024,nc-ecuador,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,125.0
+2024-02-01,2024,nc-ecuador-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-germany,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2024-06-20,2024,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-italy,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2024-06-23,2024,nc-japan,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2024-06-21,2024,nc-japan-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2024-06-21,2024,nc-portugal,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-portugal2,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2024-06-23,2024,nc-spain,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-spain-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-switserland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,60.0
+2024-06-20,2024,nc-switzerland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2024-05-19,2024,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,160.0
+2024-05-15,2024,nc-usa-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,ncgreat-britain,gc,EF Education - EasyPost,NC,,,1,,0.0,,,40.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,2.0
+2024-03-03,2024,paris-nice,gc,EF Education - EasyPost,2.UWT,48.0,10.0,1,,35.0,,,10.0
+2024-04-07,2024,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,30.0
+2024-01-25,2024,race-torquay,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,3.0
+2024-04-02,2024,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,163.0,,,196.0
+2024-08-28,2024,renewi-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,56.0,,,84.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,245.0
+2024-08-10,2024,san-sebastian,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,148.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,,0,0,,88.0,,,110.0
+2024-03-02,2024,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,72.0
+2024-03-04,2024,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,10.0,,,-15.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,59.0,3.0,1,,36.0,,,106.0
+2024-06-29,2024,tour-de-france,gc,EF Education - EasyPost,2.UWT,,0,0,,140.0,210.0,0.0,995.0
+2024-06-29,2024,tour-de-france,kom,EF Education - EasyPost,2.UWT,,0,0,,140.0,210.0,0.0,995.0
+2024-06-29,2024,tour-de-france,points,EF Education - EasyPost,2.UWT,,0,0,,140.0,210.0,0.0,995.0
+2024-10-12,2024,tour-de-kyushu,gc,EF Education - EasyPost,2.1,,0,0,,85.0,,,96.0
+2024-07-13,2024,tour-de-l-ain,gc,EF Education - EasyPost,2.1,,0,0,,155.0,,,169.0
+2024-09-29,2024,tour-de-langkawi,gc,EF Education - EasyPost,2.Pro,,0,0,,11.0,,,26.0
+2024-09-18,2024,tour-de-luxembourg,gc,EF Education - EasyPost,2.Pro,,0,0,,70.0,,,70.0
+2024-08-12,2024,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,0,0,,108.0,,,153.0
+2024-04-23,2024,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,180.0,,,240.0
+2024-06-09,2024,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,20.0,,,122.0
+2024-01-16,2024,tour-down-under,gc,EF Education - EasyPost,2.UWT,73.0,0.0,1,,30.0,,,30.0
+2024-10-15,2024,tour-of-guangxi,gc,EF Education - EasyPost,2.UWT,,0,0,,22.0,,,57.0
+2024-06-12,2024,tour-of-slovenia,gc,EF Education - EasyPost,2.Pro,,0,0,,65.0,,,85.0
+2024-04-15,2024,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,,0,0,,10.0,,,20.0
+2024-10-08,2024,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,215.0
+2024-02-28,2024,trofeo-laigueglia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,106.0
+2024-09-15,2024,trofeo-matteotti,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,28.0
+2024-01-28,2024,trofeo-palma,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,70.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,23.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,60.0
+2024-02-19,2024,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,30.0,,,31.0
+2024-03-18,2024,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,,0,0,,44.0,,,124.0
+2024-02-14,2024,volta-ao-algarve,gc,EF Education - EasyPost,2.Pro,,0,0,,110.0,,,128.0
+2024-08-05,2024,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,52.0,0.0,1,,10.0,,,10.0
+2024-08-17,2024,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,118.0,0.0,1,,620.0,0.0,0.0,970.0
+2024-08-17,2024,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,,1,,620.0,0.0,0.0,970.0
+2024-08-17,2024,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,,1,,620.0,0.0,0.0,970.0
+2025-04-20,2025,amstel-gold-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,145.0
+2025-06-22,2025,andorra-morabanc-classica,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,130.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,EF Education - EasyPost,2.Pro,,0,0,,75.0,,,78.0
+2025-04-18,2025,brabantse-pijl,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,60.0
+2025-08-31,2025,bretagne-classic,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,24.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,125.0
+2025-03-26,2025,classic-brugge-de-panne,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,220.0
+2025-02-21,2025,classic-var,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,3.0
+2025-10-06,2025,coppa-bernocchi,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,10.0
+2025-08-17,2025,cyclassics-hamburg,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,18.0
+2025-06-29,2025,danish-championships,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,30.0
+2025-01-31,2025,deia-trophy,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,342.0
+2025-03-28,2025,e3-harelbeke,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,16.0
+2025-05-01,2025,eschborn-frankfurt,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,185.0
+2025-02-05,2025,etoile-de-besseges,gc,EF Education - EasyPost,2.1,,0,0,,0.0,,,3.0
+2025-03-01,2025,faun-ardeche-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,0.0
+2025-02-16,2025,figueira-champions-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,103.0
+2025-03-30,2025,gent-wevelgem,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,65.0
+2025-05-09,2025,giro-d-italia,gc,EF Education - EasyPost,2.UWT,110.0,0.0,1,,765.0,0.0,0.0,1670.0
+2025-05-09,2025,giro-d-italia,kom,EF Education - EasyPost,2.UWT,,,1,,765.0,0.0,0.0,1670.0
+2025-05-09,2025,giro-d-italia,points,EF Education - EasyPost,2.UWT,,,1,,765.0,0.0,0.0,1670.0
+2025-10-04,2025,giro-dell-emilia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,50.0
+2025-09-10,2025,giro-di-toscana,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,33.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,70.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,150.0
+2025-09-07,2025,gp-industria-artigianato,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,38.0
+2025-09-14,2025,gp-montreal,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,335.0
+2025-09-12,2025,gp-quebec,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,30.0
+2025-10-09,2025,gran-piemonte,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,65.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,73.0
+2025-02-02,2025,great-ocean-road-race,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,46.0
+2025-10-11,2025,il-lombardia,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,30.0
+2025-04-07,2025,itzulia-basque-country,gc,EF Education - EasyPost,2.UWT,,0,0,,16.0,,,91.0
+2025-10-19,2025,japan-cup,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,170.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,65.0
+2025-03-02,2025,la-drome-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,8.0
+2025-04-23,2025,la-fleche-wallonne,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,196.0
+2025-06-18,2025,la-route-d-occitanie,gc,EF Education - EasyPost,2.1,,0,0,,3.0,,,17.0
+2025-04-27,2025,liege-bastogne-liege,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,685.0
+2025-09-06,2025,maryland-cycling-classic,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,58.0
+2025-09-13,2025,memorial-marco-pantani,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,65.0
+2025-03-22,2025,milano-sanremo,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,95.0
+2025-03-19,2025,milano-torino,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,68.0
+2025-10-03,2025,munsterland-giro,gc,EF Education - EasyPost,1.Pro,,,1,,0.0,,,45.0
+2025-06-27,2025,nc-denmark-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2025-02-02,2025,nc-ecuador,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,75.0
+2025-06-29,2025,nc-estonia,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,100.0
+2025-06-26,2025,nc-great-britain-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-ireland,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,50.0
+2025-06-26,2025,nc-ireland-itt,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2025-06-28,2025,nc-netherlands,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-portugal2,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,1.0
+2025-05-26,2025,nc-united-states,gc,EF Education - EasyPost,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,ncgreat-britain,gc,EF Education - EasyPost,NC,,,1,,0.0,,,4.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,140.0
+2025-03-09,2025,paris-nice,gc,EF Education - EasyPost,2.UWT,46.0,10.0,1,,30.0,,,60.0
+2025-04-13,2025,paris-roubaix,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,65.0
+2025-01-30,2025,race-torquay,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,3.0
+2025-04-08,2025,region-pays-de-la-loire,gc,EF Education - EasyPost,2.1,,0,0,,70.0,,,78.0
+2025-08-20,2025,renewi-tour,gc,EF Education - EasyPost,2.UWT,102.0,0.0,1,,16.0,,,25.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,EF Education - EasyPost,1.UWT,,,1,,0.0,,,60.0
+2025-08-02,2025,san-sebastian,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,188.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,EF Education - EasyPost,2.1,,0,0,,3.0,,,3.0
+2025-03-08,2025,strade-bianche,gc,EF Education - EasyPost,1.UWT,,0,0,,0.0,,,328.0
+2025-03-10,2025,tirreno-adriatico,gc,EF Education - EasyPost,2.UWT,,0,0,,60.0,,,73.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,EF Education - EasyPost,2.UWT,,0,0,,60.0,,,80.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,EF Education - EasyPost,2.1,24.0,3.0,1,,76.0,,,81.0
+2025-07-05,2025,tour-de-france,gc,EF Education - EasyPost,2.UWT,,0,0,,380.0,0.0,0.0,1070.0
+2025-07-05,2025,tour-de-france,kom,EF Education - EasyPost,2.UWT,,0,0,,380.0,0.0,0.0,1070.0
+2025-07-05,2025,tour-de-france,points,EF Education - EasyPost,2.UWT,,0,0,,380.0,0.0,0.0,1070.0
+2025-09-17,2025,tour-de-luxembourg,gc,EF Education - EasyPost,2.Pro,,0,0,,195.0,,,241.0
+2025-08-04,2025,tour-de-pologne,gc,EF Education - EasyPost,2.UWT,,,1,,16.0,,,31.0
+2025-04-29,2025,tour-de-romandie,gc,EF Education - EasyPost,2.UWT,,0,0,,50.0,,,90.0
+2025-06-15,2025,tour-de-suisse,gc,EF Education - EasyPost,2.UWT,,0,0,,10.0,,,115.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,EF Education - EasyPost,2.1,53.0,0.0,1,,30.0,,,15.0
+2025-01-21,2025,tour-down-under,gc,EF Education - EasyPost,2.UWT,,0,0,,43.0,,,43.0
+2025-07-09,2025,tour-of-austria,gc,EF Education - EasyPost,2.1,,0,0,,123.0,,,136.0
+2025-10-14,2025,tour-of-guangxi,gc,EF Education - EasyPost,2.UWT,95.0,0.0,1,,230.0,,,254.0
+2025-04-21,2025,tour-of-the-alps,gc,EF Education - EasyPost,2.Pro,,0,0,,15.0,,,15.0
+2025-10-07,2025,tre-valli-varesine,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,8.0
+2025-10-12,2025,trofeo-baracchi,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,30.0
+2025-01-29,2025,trofeo-calvia,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2025-03-05,2025,trofeo-laigueglia,gc,EF Education - EasyPost,1.Pro,,0,0,,0.0,,,113.0
+2025-09-14,2025,trofeo-matteotti,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,85.0
+2025-02-02,2025,trofeo-palma,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,6.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,EF Education - EasyPost,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,EF Education - EasyPost,1.1,,,1,,0.0,,,125.0
+2025-02-17,2025,uae-tour,gc,EF Education - EasyPost,2.UWT,,0,0,,52.0,,,52.0
+2025-03-24,2025,volta-a-catalunya,gc,EF Education - EasyPost,2.UWT,,0,0,,88.0,,,119.0
+2025-02-19,2025,volta-ao-algarve,gc,EF Education - EasyPost,2.Pro,,0,0,,78.0,,,78.0
+2025-08-05,2025,vuelta-a-burgos,gc,EF Education - EasyPost,2.Pro,,0,0,,13.0,,,28.0
+2025-08-23,2025,vuelta-a-espana,gc,EF Education - EasyPost,2.UWT,,0,0,,20.0,0.0,0.0,440.0
+2025-08-23,2025,vuelta-a-espana,kom,EF Education - EasyPost,2.UWT,,0,0,,20.0,0.0,0.0,440.0
+2025-08-23,2025,vuelta-a-espana,points,EF Education - EasyPost,2.UWT,,0,0,,20.0,0.0,0.0,440.0

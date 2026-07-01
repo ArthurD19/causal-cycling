@@ -1,0 +1,256 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-06-01,2017,boucles-de-la-mayenne,gc,Caja Rural - Seguros RGA,2.1,17.0,3.0,1,,3.0,,,3.0
+2017-07-31,2017,circuito-de-getxo,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,14.0
+2017-02-12,2017,clasica-de-almeria,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2017-03-18,2017,classic-loire-atlantique,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,13.0
+2017-08-10,2017,colorado-classic,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,66.0,,,66.0
+2017-09-13,2017,coppa-agostoni,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,25.0
+2017-09-14,2017,coppa-bernocchi,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,28.0
+2017-01-27,2017,deia-trophy,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2017-02-01,2017,etoile-de-besseges,gc,Caja Rural - Seguros RGA,2.1,,0,0,,5.0,,,5.0
+2017-02-25,2017,faun-ardeche-classic,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2017-09-30,2017,giro-dell-emilia,gc,Caja Rural - Seguros RGA,1.HC,,0,0,,0.0,,,3.0
+2017-09-26,2017,giro-di-toscana,gc,Caja Rural - Seguros RGA,2.1,,0,0,,30.0,,,30.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Caja Rural - Seguros RGA,1.HC,,0,0,,0.0,,,8.0
+2017-09-28,2017,gp-citta-di-peccioli,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,50.0
+2017-06-02,2017,gp-internacional-beiras-e-serra-da-estrela,gc,Caja Rural - Seguros RGA,2.1,,0,0,,25.0,,,25.0
+2017-06-02,2017,gp-internacional-beiras-e-serra-da-estrela,gc,Portugal,2.1,,0,0,,0.0,,,0.0
+2017-04-01,2017,gran-premio-miguel-indurain,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2017-09-11,2017,grote-prijs-marcel-kint,gc,Caja Rural - Seguros RGA,1.2,,0,0,,0.0,,,20.0
+2017-04-03,2017,itzulia-basque-country,gc,Caja Rural - Seguros RGA,2.UWT,,,1,,8.0,,,8.0
+2017-04-09,2017,klasika-primavera,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,71.0
+2017-02-26,2017,la-drome-classic,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,5.0
+2017-06-15,2017,la-route-d-occitanie,gc,Caja Rural - Seguros RGA,2.1,,0,0,,53.0,,,53.0
+2017-09-16,2017,memorial-marco-pantani,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,8.0
+2017-06-23,2017,nc-portugal,gc,Caja Rural - Seguros RGA,NC,,,1,,0.0,,,25.0
+2017-06-25,2017,nc-spain,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,20.0
+2017-06-23,2017,nc-spain-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,2.0
+2017-06-25,2017,nc-switserland,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-united-states,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2017-07-25,2017,prueba-villafranca,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,49.0
+2017-05-03,2017,rhone-alpes-isere-tour,gc,Caja Rural - Seguros RGA,2.2,,0,0,,0.0,,,11.0
+2017-07-30,2017,ride-london-classic,gc,Caja Rural - Seguros RGA,1.UWT,,0,0,,0.0,,,22.0
+2017-02-15,2017,ruta-del-sol,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,8.0,,,8.0
+2017-07-29,2017,san-sebastian,gc,Caja Rural - Seguros RGA,1.UWT,,,1,,0.0,,,8.0
+2017-10-01,2017,tour-de-vendee,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,23.0
+2017-05-24,2017,tour-des-fjords,gc,Caja Rural - Seguros RGA,2.1,,0,0,,0.0,,,3.0
+2017-09-23,2017,tour-du-gevaudan-languedoc-roussillon,gc,Caja Rural - Seguros RGA,2.2,,,1,,20.0,,,20.0
+2017-09-09,2017,tour-du-jura,gc,Caja Rural - Seguros RGA,1.2,,0,0,,0.0,,,0.0
+2017-08-15,2017,tour-du-limousin,gc,Caja Rural - Seguros RGA,2.1,,0,0,,11.0,,,14.0
+2017-04-18,2017,tour-of-croatia,gc,Caja Rural - Seguros RGA,2.1,119.0,0.0,1,,0.0,,,0.0
+2017-10-19,2017,tour-of-guangxi,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,5.0,,,5.0
+2017-05-17,2017,tour-of-norway,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,60.0,,,60.0
+2017-04-17,2017,tour-of-the-alps,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,23.0,,,23.0
+2017-10-10,2017,tour-of-turkey,gc,Caja Rural - Seguros RGA,2.UWT,50.0,5.0,1,,117.0,,,117.0
+2017-07-31,2017,tour-of-utah,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,73.0,,,73.0
+2017-10-03,2017,tre-valli-varesine,gc,Caja Rural - Seguros RGA,1.HC,,0,0,,0.0,,,5.0
+2017-01-29,2017,trofeo-palma,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,5.0
+2017-01-28,2017,trofeo-pollenca-port-d-andratx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,35.0
+2017-01-26,2017,trofeo-ses-salines-felanitx,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,Portugal,CC,,,1,,0.0,,,0.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Portugal,CC,,,1,,0.0,,,0.0
+2017-03-20,2017,volta-a-catalunya,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,0.0,,,0.0
+2017-02-22,2017,volta-ao-alentejo,gc,Caja Rural - Seguros RGA,2.1,,0,0,,0.0,,,8.0
+2017-02-15,2017,volta-ao-algarve,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,0.0,,,0.0
+2017-08-01,2017,vuelta-a-burgos,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,30.0,,,30.0
+2017-05-19,2017,vuelta-a-castilla-y-leon,gc,Caja Rural - Seguros RGA,2.1,55.0,0.0,1,,8.0,,,11.0
+2017-08-20,2017,vuelta-a-espana,gc,Caja Rural - Seguros RGA,2.UWT,132.0,0.0,1,,68.0,0.0,0.0,68.0
+2017-08-20,2017,vuelta-a-espana,kom,Caja Rural - Seguros RGA,2.UWT,67.0,0.0,1,,68.0,0.0,0.0,68.0
+2017-08-20,2017,vuelta-a-espana,points,Caja Rural - Seguros RGA,2.UWT,70.0,0.0,1,,68.0,0.0,0.0,68.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Caja Rural - Seguros RGA,2.1,,,1,,0.0,,,0.0
+2017-04-29,2017,vuelta-asturias,gc,Caja Rural - Seguros RGA,2.1,,0,0,,40.0,,,40.0
+2017-01-23,2017,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Caja Rural - Seguros RGA,2.1,15.0,5.0,1,,5.0,,,5.0
+2017-02-11,2017,vuelta-ciclista-a-la-region-de-murcia,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2017-04-02,2017,vuelta-ciclista-a-la-rioja,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,103.0
+2017-05-05,2017,vuelta-international-a-la-cominudad-de-madrid,gc,Caja Rural - Seguros RGA,2.1,32.0,0.0,1,,101.0,,,104.0
+2017-09-24,2017,world-championship,gc,Portugal,WC,,0,0,,0.0,,,35.0
+2017-09-20,2017,world-championship-itt,gc,Portugal,WC,,0,0,,0.0,,,150.0
+2018-07-18,2018,Grande-Premio-de-Portugal-N2,gc,Caja Rural - Seguros RGA,2.2,,0,0,,3.0,,,7.0
+2018-05-27,2018,boucles-de-l-aulne,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2018-05-31,2018,boucles-de-la-mayenne,gc,Caja Rural - Seguros RGA,2.1,86.0,0.0,1,,0.0,,,0.0
+2018-07-31,2018,circuito-de-getxo,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,236.0
+2018-02-11,2018,clasica-de-almeria,gc,Caja Rural - Seguros RGA,1.HC,,0,0,,0.0,,,20.0
+2018-09-15,2018,coppa-agostoni,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2018-09-16,2018,coppa-bernocchi,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2018-01-26,2018,deia-trophy,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,9.0
+2018-01-31,2018,etoile-de-besseges,gc,Caja Rural - Seguros RGA,2.1,,0,0,,3.0,,,3.0
+2018-10-06,2018,giro-dell-emilia,gc,Caja Rural - Seguros RGA,1.HC,,0,0,,0.0,,,0.0
+2018-09-19,2018,giro-di-toscana,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,0.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Caja Rural - Seguros RGA,1.HC,,0,0,,0.0,,,0.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,0.0
+2018-05-26,2018,gp-de-plumelec,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,23.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Caja Rural - Seguros RGA,2.1,,,1,,50.0,,,50.0
+2018-03-31,2018,gran-premio-miguel-indurain,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,73.0
+2018-04-02,2018,itzulia-basque-country,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,20.0,,,20.0
+2018-04-08,2018,klasika-primavera,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,38.0
+2018-04-01,2018,la-roue-tourangelle,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,0.0
+2018-06-14,2018,la-route-d-occitanie,gc,Caja Rural - Seguros RGA,2.1,,0,0,,40.0,,,40.0
+2018-09-22,2018,memorial-marco-pantani,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-france,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2018-06-30,2018,nc-italy,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-portugal,gc,Caja Rural - Seguros RGA,NC,,,1,,0.0,,,10.0
+2018-06-24,2018,nc-portugal2,gc,Caja Rural - Seguros RGA,NC,,,1,,0.0,,,1.0
+2018-06-24,2018,nc-spain,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-spain-itt,gc,Caja Rural - Seguros RGA,NC,,0,0,,0.0,,,1.0
+2018-05-03,2018,panamerican-champ-itt,gc,Caja Rural - Seguros RGA,CC,,0,0,,0.0,,,0.0
+2018-05-06,2018,panamerican-championships,gc,Caja Rural - Seguros RGA,CC,,0,0,,0.0,,,0.0
+2018-07-25,2018,prueba-villafranca,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,15.0
+2018-05-03,2018,rhone-alpes-isere-tour,gc,Caja Rural - Seguros RGA,2.2,,0,0,,0.0,,,7.0
+2018-02-14,2018,ruta-del-sol,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,10.0,,,15.0
+2018-08-04,2018,san-sebastian,gc,Caja Rural - Seguros RGA,1.UWT,,0,0,,0.0,,,40.0
+2018-10-06,2018,tour-de-vendee,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,5.0
+2018-05-22,2018,tour-des-fjords,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,10.0,,,10.0
+2018-08-15,2018,tour-du-limousin,gc,Caja Rural - Seguros RGA,2.1,,0,0,,0.0,,,0.0
+2018-04-17,2018,tour-of-croatia,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,40.0,,,40.0
+2018-05-16,2018,tour-of-norway,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,108.0,,,113.0
+2018-02-13,2018,tour-of-oman,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,8.0,,,8.0
+2018-10-09,2018,tour-of-turkey,gc,Caja Rural - Seguros RGA,2.UWT,57.0,1.0,1,,42.0,,,42.0
+2018-10-09,2018,tre-valli-varesine,gc,Caja Rural - Seguros RGA,1.HC,,0,0,,0.0,,,5.0
+2018-09-23,2018,trofeo-matteotti,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,35.0
+2018-01-28,2018,trofeo-palma,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,3.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Caja Rural - Seguros RGA,1.1,,,1,,0.0,,,3.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Caja Rural - Seguros RGA,1.2,,,1,,0.0,,,13.0
+2018-03-19,2018,volta-a-catalunya,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,12.0,,,12.0
+2018-08-01,2018,volta-a-portugal,gc,Caja Rural - Seguros RGA,2.1,70.0,0.0,1,,0.0,,,14.0
+2018-03-14,2018,volta-ao-alentejo,gc,Caja Rural - Seguros RGA,2.2,37.0,0.0,1,,20.0,,,23.0
+2018-02-14,2018,volta-ao-algarve,gc,Caja Rural - Seguros RGA,2.HC,120.0,0.0,1,,11.0,,,11.0
+2018-05-11,2018,vuelta-a-aragon,gc,Caja Rural - Seguros RGA,2.1,,0,0,,20.0,,,20.0
+2018-08-07,2018,vuelta-a-burgos,gc,Caja Rural - Seguros RGA,2.HC,,0,0,,103.0,,,113.0
+2018-04-20,2018,vuelta-a-castilla-y-leon,gc,Caja Rural - Seguros RGA,2.1,93.0,0.0,1,,23.0,,,23.0
+2018-08-25,2018,vuelta-a-espana,gc,Caja Rural - Seguros RGA,2.UWT,,0,0,,64.0,0.0,0.0,76.0
+2018-08-25,2018,vuelta-a-espana,kom,Caja Rural - Seguros RGA,2.UWT,,0,0,,64.0,0.0,0.0,76.0
+2018-08-25,2018,vuelta-a-espana,points,Caja Rural - Seguros RGA,2.UWT,,0,0,,64.0,0.0,0.0,76.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Caja Rural - Seguros RGA,2.1,,,1,,0.0,,,0.0
+2018-04-27,2018,vuelta-asturias,gc,Caja Rural - Seguros RGA,2.1,,0,0,,60.0,,,60.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Caja Rural - Seguros RGA,2.1,,0,0,,5.0,,,5.0
+2018-02-10,2018,vuelta-ciclista-a-la-region-de-murcia,gc,Caja Rural - Seguros RGA,1.1,,0,0,,0.0,,,0.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Caja Rural - Seguros RGA,2.1,87.0,0.0,1,,0.0,,,14.0
+2019-08-18,2019,albani-classic-fyen-rundt,gc,W52 / FC Porto,1.2,,0,0,,0.0,,,5.0
+2019-07-11,2019,gp-int-torres-vedras,gc,W52 / FC Porto,2.2,,0,0,,15.0,,,32.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,W52 / FC Porto,2.1,,0,0,,13.0,,,35.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,W52 / FC Porto,1.1,,0,0,,0.0,,,3.0
+2019-06-28,2019,nc-portugal,gc,W52 / FC Porto,NC,,,1,,0.0,,,34.0
+2019-06-30,2019,nc-portugal2,gc,W52 / FC Porto,NC,,,1,,0.0,,,136.0
+2019-07-25,2019,prueba-villafranca,gc,W52 / FC Porto,1.1,,0,0,,0.0,,,20.0
+2019-06-05,2019,tour-de-luxembourg,gc,W52 / FC Porto,2.HC,,0,0,,40.0,,,40.0
+2019-08-21,2019,tour-du-limousin,gc,W52 / FC Porto,2.1,,,1,,43.0,,,43.0
+2019-08-27,2019,tour-du-poitou-charentes-et-de-la-vienne,gc,W52 / FC Porto,2.1,,0,0,,11.0,,,11.0
+2019-08-21,2019,tour-of-denmark,gc,W52 / FC Porto,2.HC,,0,0,,38.0,,,38.0
+2019-07-15,2019,tour-of-magnificent-qinghai,gc,W52 / FC Porto,2.HC,31.0,3.0,1,,66.0,,,66.0
+2019-04-16,2019,tour-of-turkey,gc,W52 / FC Porto,2.UWT,31.0,5.0,1,,22.0,,,22.0
+2019-03-17,2019,trofeu-da-arrabida,gc,W52 / FC Porto,1.2,,,1,,0.0,,,50.0
+2019-07-31,2019,volta-a-portugal,gc,W52 / FC Porto,2.1,,0,0,,258.0,,,357.0
+2019-03-20,2019,volta-ao-alentejo,gc,W52 / FC Porto,2.2,11.0,0.0,1,,65.0,,,68.0
+2019-02-20,2019,volta-ao-algarve,gc,W52 / FC Porto,2.HC,,,1,,40.0,,,40.0
+2019-05-17,2019,vuelta-a-aragon,gc,W52 / FC Porto,2.1,45.0,0.0,1,,0.0,,,0.0
+2019-08-13,2019,vuelta-a-burgos,gc,W52 / FC Porto,2.HC,,,1,,33.0,,,33.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,W52 / FC Porto,2.1,,0,0,,0.0,,,0.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,W52 / FC Porto,2.1,,0,0,,0.0,,,0.0
+2019-05-03,2019,vuelta-asturias,gc,W52 / FC Porto,2.1,,0,0,,10.0,,,10.0
+2019-05-10,2019,vuelta-international-a-la-cominudad-de-madrid,gc,W52 / FC Porto,2.1,,0,0,,0.0,,,0.0
+2020-08-02,2020,circuito-de-getxo,gc,Feirense,1.1,,,1,,0.0,,,0.0
+2020-09-19,2020,gp-int-torres-vedras,gc,Feirense,2.2,35.0,0.0,1,,0.0,,,0.0
+2020-08-14,2020,nc-portugal,gc,Feirense,NC,,,1,,0.0,,,15.0
+2020-08-16,2020,nc-portugal2,gc,Feirense,NC,,,1,,0.0,,,0.0
+2020-08-23,2020,nc-spain,gc,Feirense,NC,,0,0,,0.0,,,0.0
+2020-10-12,2020,prueba-villafranca,gc,Feirense,1.1,,,1,,0.0,,,3.0
+2020-09-06,2020,tour-du-doubs,gc,Feirense,1.1,,,1,,0.0,,,3.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Portugal,CC,,,1,,0.0,,,0.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Portugal,CC,,,1,,0.0,,,30.0
+2020-09-27,2020,volta-a-portugal,gc,Feirense,2.1,68.0,0.0,1,,0.0,,,5.0
+2020-09-27,2020,world-championship,gc,Portugal,WC,,0,0,,0.0,,,30.0
+2020-09-25,2020,world-championship-itt,gc,Portugal,WC,,0,0,,0.0,,,40.0
+2021-07-16,2021,gp-int-torres-vedras,gc,Efapel,2.2,,0,0,,40.0,,,50.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Efapel,1.Pro,,,1,,0.0,,,5.0
+2021-06-18,2021,nc-portugal,gc,Efapel,NC,,,1,,0.0,,,31.0
+2021-06-20,2021,nc-portugal2,gc,Efapel,NC,,,1,,0.0,,,0.0
+2021-06-17,2021,nc-russia-itt,gc,Efapel,NC,,0,0,,0.0,,,5.0
+2021-06-20,2021,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Portugal,Olympics,,0,0,,0.0,,,70.0
+2021-07-28,2021,olympic-games-itt,gc,Portugal,Olympics,,0,0,,0.0,,,10.0
+2021-05-02,2021,trofeu-da-arrabida,gc,Efapel,1.2,,,1,,0.0,,,18.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Portugal,CC,,,1,,0.0,,,3.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Portugal,CC,,,1,,0.0,,,35.0
+2021-08-04,2021,volta-a-portugal,gc,Efapel,2.1,21.0,3.0,1,,173.0,,,275.0
+2021-06-23,2021,volta-ao-alentejo,gc,Efapel,2.2,3.0,25.0,1,,65.0,,,77.0
+2021-05-05,2021,volta-ao-algarve,gc,Efapel,2.Pro,64.0,0.0,1,,0.0,,,10.0
+2021-07-29,2021,vuelta-a-castilla-y-leon,gc,Efapel,1.1,,0,0,,0.0,,,70.0
+2021-09-26,2021,world-championship,gc,Portugal,WC,,,1,,0.0,,,25.0
+2021-09-19,2021,world-championship-itt,gc,Portugal,WC,,,1,,0.0,,,25.0
+2022-06-30,2022,gp-int-torres-vedras,gc,Glassdrive Q8 Anicolor,2.2,,0,0,,40.0,,,48.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Glassdrive Q8 Anicolor,1.Pro,,,1,,0.0,,,5.0
+2022-06-30,2022,mediterranean-games-itt,gc,Portugal,JR,,,1,,0.0,,,0.0
+2022-07-02,2022,mersin-mediterranean-games,gc,Portugal,JR,,,1,,0.0,,,0.0
+2022-06-24,2022,nc-portugal,gc,Glassdrive Q8 Anicolor,NC,,,1,,0.0,,,50.0
+2022-06-26,2022,nc-portugal2,gc,Glassdrive Q8 Anicolor,NC,,,1,,0.0,,,61.0
+2022-03-13,2022,trofeu-da-arrabida,gc,Glassdrive Q8 Anicolor,1.2,,,1,,0.0,,,25.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Portugal,CC,,0,0,,0.0,,,15.0
+2022-08-04,2022,volta-a-portugal,gc,Glassdrive Q8 Anicolor,2.1,97.0,0.0,1,,280.0,,,385.0
+2022-03-16,2022,volta-ao-alentejo,gc,Glassdrive Q8 Anicolor,2.2,5.0,15.0,1,,18.0,,,18.0
+2022-02-16,2022,volta-ao-algarve,gc,Glassdrive Q8 Anicolor,2.Pro,,,1,,5.0,,,5.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Glassdrive Q8 Anicolor,2.1,,0,0,,5.0,,,5.0
+2022-09-25,2022,world-championship,gc,Portugal,WC,,0,0,,0.0,,,13.0
+2022-09-18,2022,world-championship-itt,gc,Portugal,WC,,0,0,,0.0,,,70.0
+2023-02-12,2023,figueira-champions-classic,gc,Glassdrive Q8 Anicolor,1.1,,0,0,,0.0,,,3.0
+2023-07-13,2023,gp-int-torres-vedras,gc,Glassdrive Q8 Anicolor,2.2,55.0,0.0,1,,110.0,,,131.0
+2023-05-26,2023,gp-internacional-beiras-e-serra-da-estrela,gc,Glassdrive Q8 Anicolor,2.2,,,1,,55.0,,,59.0
+2023-06-23,2023,nc-portugal,gc,Glassdrive Q8 Anicolor,NC,,,1,,0.0,,,5.0
+2023-06-25,2023,nc-portugal2,gc,Glassdrive Q8 Anicolor,NC,,,1,,0.0,,,91.0
+2023-06-25,2023,nc-spain,gc,Glassdrive Q8 Anicolor,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-spain-itt,gc,Glassdrive Q8 Anicolor,NC,,0,0,,0.0,,,0.0
+2023-03-19,2023,trofeu-da-arrabida,gc,Glassdrive Q8 Anicolor,1.2,,,1,,0.0,,,0.0
+2023-08-09,2023,volta-a-portugal,gc,Glassdrive Q8 Anicolor,2.1,41.0,0.0,1,,125.0,,,169.0
+2023-03-22,2023,volta-ao-alentejo,gc,Glassdrive Q8 Anicolor,2.2,77.0,0.0,1,,20.0,,,20.0
+2023-02-15,2023,volta-ao-algarve,gc,Glassdrive Q8 Anicolor,2.Pro,,0,0,,3.0,,,3.0
+2024-10-13,2024,chrono-des-nations,gc,Sabgal / Anicolor,1.1,,0,0,,0.0,,,10.0
+2024-04-04,2024,circuit-des-ardennes,gc,Sabgal / Anicolor,2.2,,0,0,,30.0,,,33.0
+2024-08-11,2024,circuito-de-getxo,gc,Sabgal / Anicolor,1.1,,0,0,,0.0,,,0.0
+2024-06-23,2024,danish-championships,gc,Sabgal / Anicolor,NC,,0,0,,0.0,,,0.0
+2024-02-10,2024,figueira-champions-classic,gc,Sabgal / Anicolor,1.Pro,,,1,,0.0,,,0.0
+2024-01-20,2024,gp-de-valence,gc,Sabgal / Anicolor,1.1,,,1,,0.0,,,0.0
+2024-07-11,2024,gp-int-torres-vedras,gc,Sabgal / Anicolor,2.2,54.0,0.0,1,,25.0,,,33.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Sabgal / Anicolor,2.2,45.0,0.0,1,,75.0,,,89.0
+2024-02-22,2024,gran-camino,gc,Sabgal / Anicolor,2.1,72.0,0.0,1,,0.0,,,0.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Sabgal / Anicolor,1.Pro,,0,0,,0.0,,,3.0
+2024-06-21,2024,nc-denmark-itt,gc,Sabgal / Anicolor,NC,,0,0,,0.0,,,0.0
+2024-06-19,2024,nc-great-britain-itt,gc,Sabgal / Anicolor,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-portugal,gc,Sabgal / Anicolor,NC,,,1,,0.0,,,18.0
+2024-06-23,2024,nc-portugal2,gc,Sabgal / Anicolor,NC,,,1,,0.0,,,3.0
+2024-06-23,2024,nc-spain,gc,Sabgal / Anicolor,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,Sabgal / Anicolor,NC,,0,0,,0.0,,,0.0
+2024-02-08,2024,tour-of-antalya,gc,Sabgal / Anicolor,2.1,,0,0,,0.0,,,0.0
+2024-09-03,2024,tour-of-britain,gc,Sabgal / Anicolor,2.Pro,,0,0,,60.0,,,60.0
+2024-03-17,2024,trofeu-da-arrabida,gc,Sabgal / Anicolor,1.2,,,1,,0.0,,,28.0
+2024-07-24,2024,volta-a-portugal,gc,Sabgal / Anicolor,2.1,57.0,0.0,1,,128.0,,,152.0
+2024-03-20,2024,volta-ao-alentejo,gc,Sabgal / Anicolor,2.2,50.0,0.0,1,,3.0,,,5.0
+2024-02-14,2024,volta-ao-algarve,gc,Sabgal / Anicolor,2.Pro,78.0,0.0,1,,0.0,,,0.0
+2024-04-26,2024,vuelta-asturias,gc,Sabgal / Anicolor,2.1,,0,0,,3.0,,,3.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Anicolor / Tien 21,1.1,,0,0,,0.0,,,3.0
+2025-01-24,2025,classica-camp-de-morvedre,gc,Anicolor / Tien 21,1.2,,,1,,0.0,,,0.0
+2025-01-31,2025,deia-trophy,gc,Anicolor / Tien 21,1.1,,0,0,,0.0,,,0.0
+2025-02-16,2025,figueira-champions-classic,gc,Anicolor / Tien 21,1.Pro,,,1,,0.0,,,0.0
+2025-01-26,2025,gp-de-valence,gc,Anicolor / Tien 21,1.1,,,1,,0.0,,,10.0
+2025-07-10,2025,gp-int-torres-vedras,gc,Anicolor / Tien 21,2.2,,,1,,75.0,,,78.0
+2025-05-23,2025,gp-internacional-beiras-e-serra-da-estrela,gc,Anicolor / Tien 21,2.1,54.0,0.0,1,,198.0,,,215.0
+2025-02-26,2025,gran-camino,gc,Anicolor / Tien 21,2.1,89.0,0.0,1,,3.0,,,3.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,Anicolor / Tien 21,1.Pro,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-france,gc,Anicolor / Tien 21,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-france-itt,gc,Anicolor / Tien 21,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-great-britain-itt,gc,Anicolor / Tien 21,NC,,0,0,,0.0,,,1.0
+2025-06-27,2025,nc-portugal,gc,Anicolor / Tien 21,NC,,,1,,0.0,,,30.0
+2025-06-29,2025,nc-portugal2,gc,Anicolor / Tien 21,NC,,,1,,0.0,,,83.0
+2025-06-29,2025,nc-spain,gc,Anicolor / Tien 21,NC,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-spain-itt,gc,Anicolor / Tien 21,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,Anicolor / Tien 21,NC,,0,0,,0.0,,,0.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Anicolor / Tien 21,1.1,,,1,,0.0,,,0.0
+2025-09-02,2025,tour-of-britain,gc,Anicolor / Tien 21,2.Pro,73.0,0.0,1,,13.0,,,13.0
+2025-01-29,2025,trofeo-calvia,gc,Anicolor / Tien 21,1.1,,0,0,,0.0,,,0.0
+2025-02-02,2025,trofeo-palma,gc,Anicolor / Tien 21,1.1,,0,0,,0.0,,,0.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Anicolor / Tien 21,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Anicolor / Tien 21,1.1,,0,0,,0.0,,,0.0
+2025-03-23,2025,trofeu-da-arrabida,gc,Anicolor / Tien 21,1.2,,,1,,0.0,,,25.0
+2025-08-06,2025,volta-a-portugal,gc,Anicolor / Tien 21,2.1,34.0,0.0,1,,250.0,,,282.0
+2025-03-26,2025,volta-ao-alentejo,gc,Anicolor / Tien 21,2.2,67.0,0.0,1,,3.0,,,3.0
+2025-02-19,2025,volta-ao-algarve,gc,Anicolor / Tien 21,2.Pro,129.0,0.0,1,,8.0,,,8.0
+2025-04-24,2025,vuelta-asturias,gc,Anicolor / Tien 21,2.1,,0,0,,70.0,,,73.0

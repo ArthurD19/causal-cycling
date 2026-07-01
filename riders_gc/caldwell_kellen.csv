@@ -1,0 +1,23 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2024-05-19,2024,gran-premio-new-york-city,gc,Team California,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-bermuda,gc,Team California,NC,,0,0,,0.0,,,20.0
+2024-06-20,2024,nc-bermuda-itt,gc,Team California,NC,,0,0,,0.0,,,10.0
+2024-05-19,2024,nc-united-states,gc,Team California,NC,,,1,,0.0,,,0.0
+2024-04-24,2024,tour-of-the-gila,gc,Team California,2.2,21.0,0.0,1,,0.0,,,3.0
+2025-04-09,2025,circuit-des-ardennes,gc,EF Education - Aevolo,2.2,,,1,,0.0,,,0.0
+2025-06-29,2025,danish-championships,gc,EF Education - Aevolo,NC,,0,0,,0.0,,,0.0
+2025-09-21,2025,gp-d-isbergues,gc,EF Education - Aevolo,1.1,,0,0,,0.0,,,0.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,EF Education - Aevolo,1.1,,0,0,,0.0,,,0.0
+2025-04-25,2025,le-tour-de-bretagne,gc,EF Education - Aevolo,2.2,,0,0,,5.0,,,29.0
+2025-06-27,2025,nc-denmark-itt,gc,EF Education - Aevolo,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-sweden,gc,EF Education - Aevolo,NC,,0,0,,0.0,,,3.0
+2025-07-01,2025,nc-sweden-itt,gc,EF Education - Aevolo,NC,,0,0,,0.0,,,0.0
+2025-05-26,2025,nc-united-states,gc,EF Education - Aevolo,NC,,,1,,0.0,,,61.0
+2025-06-29,2025,ncgreat-britain,gc,EF Education - Aevolo,NC,,0,0,,0.0,,,1.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,EF Education - Aevolo,1.1,,0,0,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,EF Education - Aevolo,1.2,,0,0,,0.0,,,0.0
+2025-05-28,2025,rhone-alpes-isere-tour,gc,EF Education - Aevolo,2.2,,0,0,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,EF Education - Aevolo,2.2,77.0,0.0,1,,5.0,,,5.0
+2025-07-31,2025,tour-alsace,gc,EF Education - Aevolo,2.2,,0,0,,40.0,,,47.0
+2025-03-13,2025,tour-of-rhodes,gc,EF Education - Aevolo,2.2,27.0,0.0,1,,25.0,,,28.0
+2025-03-26,2025,volta-ao-alentejo,gc,EF Education - Aevolo,2.2,49.0,0.0,1,,40.0,,,60.0

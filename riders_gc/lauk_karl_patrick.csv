@@ -1,0 +1,464 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-23,2017,abu-dhabi-tour,gc,Astana Pro Team,2.UWT,,0,0,,95.0,,,95.0
+2017-04-16,2017,amstel-gold-race,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,15.0
+2017-08-10,2017,arctic-race-of-norway,gc,Astana Pro Team,2.HC,,,1,,35.0,,,35.0
+2017-08-27,2017,bretagne-classic,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,16.0
+2017-09-02,2017,brussels-cycling-classic,gc,Astana Pro Team,1.HC,,0,0,,0.0,,,60.0
+2017-04-29,2017,carpathia-couriers-paths,gc,Estonia,2.2U,,0,0,,0.0,,,0.0
+2017-08-20,2017,cyclassics-hamburg,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,36.0
+2017-06-25,2017,danish-championships,gc,Astana Pro Team,NC,,0,0,,0.0,,,0.0
+2017-01-31,2017,dubai-tour,gc,Astana Pro Team,2.HC,,0,0,,76.0,,,81.0
+2017-03-22,2017,dwars-door-vlaanderen,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,255.0
+2017-03-24,2017,e3-harelbeke,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,168.0
+2017-08-05,2017,european-championships-mu,gc,Astana Pro Team,CC,,,1,,0.0,,,0.0
+2017-03-26,2017,gent-wevelgem,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,20.0
+2017-05-05,2017,giro-d-italia,gc,Astana Pro Team,2.UWT,,0,0,,104.0,40.0,0.0,164.0
+2017-05-05,2017,giro-d-italia,kom,Astana Pro Team,2.UWT,,0,0,,104.0,40.0,0.0,164.0
+2017-05-05,2017,giro-d-italia,points,Astana Pro Team,2.UWT,,0,0,,104.0,40.0,0.0,164.0
+2017-09-30,2017,giro-dell-emilia,gc,Astana Pro Team,1.HC,,,1,,0.0,,,55.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Astana Pro Team,1.HC,,0,0,,0.0,,,205.0
+2017-09-03,2017,gp-de-fourmies,gc,Astana Pro Team,1.HC,,0,0,,0.0,,,15.0
+2017-06-08,2017,gp-du-canton-d-argovie,gc,Astana Pro Team,1.HC,,0,0,,0.0,,,55.0
+2017-09-10,2017,gp-montreal,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,20.0
+2017-09-08,2017,gp-quebec,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,20.0
+2017-10-07,2017,il-lombardia,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,268.0
+2017-04-03,2017,itzulia-basque-country,gc,Astana Pro Team,2.UWT,,0,0,,24.0,,,24.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Astana Pro Team,1.HC,,0,0,,0.0,,,3.0
+2017-04-19,2017,la-fleche-wallonne,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,18.0
+2017-06-15,2017,la-route-d-occitanie,gc,Astana Pro Team,2.1,,0,0,,20.0,,,20.0
+2017-04-23,2017,liege-bastogne-liege,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,43.0
+2017-03-18,2017,milano-sanremo,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,90.0
+2017-10-05,2017,milano-torino,gc,Astana Pro Team,1.HC,,,1,,0.0,,,138.0
+2017-06-25,2017,nc-belgium,gc,Astana Pro Team,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-italy,gc,Astana Pro Team,NC,,0,0,,0.0,,,70.0
+2017-06-23,2017,nc-italy-itt,gc,Astana Pro Team,NC,,0,0,,0.0,,,15.0
+2017-06-25,2017,nc-kazakhstan,gc,Astana Pro Team,NC,,0,0,,0.0,,,100.0
+2017-06-21,2017,nc-kazakhstan-itt,gc,Astana Pro Team,NC,,0,0,,0.0,,,85.0
+2017-06-25,2017,nc-norway,gc,Astana Pro Team,NC,,0,0,,0.0,,,10.0
+2017-06-22,2017,nc-norway-itt,gc,Astana Pro Team,NC,,0,0,,0.0,,,1.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,157.0
+2017-03-05,2017,paris-nice,gc,Astana Pro Team,2.UWT,,0,0,,80.0,,,80.0
+2017-04-09,2017,paris-roubaix,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,35.0
+2017-08-07,2017,renewi-tour,gc,Astana Pro Team,2.UWT,,0,0,,148.0,,,148.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,90.0
+2017-07-29,2017,san-sebastian,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,40.0
+2017-04-05,2017,scheldeprijs,gc,Astana Pro Team,1.HC,,0,0,,0.0,,,10.0
+2017-03-04,2017,strade-bianche,gc,Astana Pro Team,1.UWT,,0,0,,0.0,,,84.0
+2017-03-09,2017,tirreno-adriatico,gc,Astana Pro Team,2.UWT,,0,0,,65.0,,,65.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Astana Pro Team,2.UWT,,0,0,,735.0,,,855.0
+2017-07-01,2017,tour-de-france,gc,Astana Pro Team,2.UWT,,0,0,,495.0,0.0,0.0,645.0
+2017-07-01,2017,tour-de-france,kom,Astana Pro Team,2.UWT,,0,0,,495.0,0.0,0.0,645.0
+2017-07-01,2017,tour-de-france,points,Astana Pro Team,2.UWT,,0,0,,495.0,0.0,0.0,645.0
+2017-07-29,2017,tour-de-pologne,gc,Astana Pro Team,2.UWT,,0,0,,24.0,,,24.0
+2017-04-25,2017,tour-de-romandie,gc,Astana Pro Team,2.UWT,,0,0,,50.0,,,75.0
+2017-06-10,2017,tour-de-suisse,gc,Astana Pro Team,2.UWT,,0,0,,85.0,,,85.0
+2017-01-17,2017,tour-down-under,gc,Astana Pro Team,2.UWT,,0,0,,30.0,,,30.0
+2017-09-30,2017,tour-of-almaty,gc,Astana Pro Team,2.1,,0,0,,245.0,,,278.0
+2017-07-02,2017,tour-of-austria,gc,Astana Pro Team,2.1,,0,0,,70.0,,,106.0
+2017-05-24,2017,tour-of-belgium,gc,Astana Pro Team,2.HC,,0,0,,0.0,,,0.0
+2017-05-14,2017,tour-of-california,gc,Astana Pro Team,2.UWT,,0,0,,4.0,,,4.0
+2017-04-18,2017,tour-of-croatia,gc,Astana Pro Team,2.1,,0,0,,28.0,,,36.0
+2017-09-12,2017,tour-of-denmark,gc,Astana Pro Team,2.HC,,0,0,,150.0,,,165.0
+2017-05-26,2017,tour-of-estonia,gc,Estonia,2.1,1.0,125.0,1,,238.0,,,269.0
+2017-10-19,2017,tour-of-guangxi,gc,Astana Pro Team,2.UWT,,0,0,,21.0,,,21.0
+2017-02-14,2017,tour-of-oman,gc,Astana Pro Team,2.HC,,0,0,,143.0,,,158.0
+2017-04-17,2017,tour-of-the-alps,gc,Astana Pro Team,2.HC,,0,0,,110.0,,,130.0
+2017-10-10,2017,tour-of-turkey,gc,Astana Pro Team,2.UWT,,0,0,,325.0,,,346.0
+2017-10-03,2017,tre-valli-varesine,gc,Astana Pro Team,1.HC,,,1,,0.0,,,68.0
+2017-02-12,2017,trofeo-laigueglia,gc,Astana Pro Team,1.HC,,0,0,,0.0,,,11.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Estonia,CC,,0,0,,0.0,,,70.0
+2017-03-20,2017,volta-a-catalunya,gc,Astana Pro Team,2.UWT,,0,0,,84.0,,,84.0
+2017-02-15,2017,volta-ao-algarve,gc,Astana Pro Team,2.HC,,0,0,,110.0,,,110.0
+2017-08-01,2017,vuelta-a-burgos,gc,Astana Pro Team,2.HC,,0,0,,165.0,,,195.0
+2017-08-20,2017,vuelta-a-espana,gc,Astana Pro Team,2.UWT,,0,0,,356.0,40.0,0.0,768.0
+2017-08-20,2017,vuelta-a-espana,kom,Astana Pro Team,2.UWT,,0,0,,356.0,40.0,0.0,768.0
+2017-08-20,2017,vuelta-a-espana,points,Astana Pro Team,2.UWT,,0,0,,356.0,40.0,0.0,768.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Astana Pro Team,2.1,,0,0,,43.0,,,43.0
+2017-09-24,2017,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,0.0
+2018-05-08,2018,4-jours-de-dunkerque,gc,Team Fortuneo - Samsic,2.HC,,0,0,,38.0,,,38.0
+2018-09-02,2018,antwerp-port-epic,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,0.0
+2018-08-16,2018,arctic-race-of-norway,gc,Team Fortuneo - Samsic,2.HC,,0,0,,80.0,,,80.0
+2018-08-23,2018,baltic-chain-tour,gc,Estonia,2.2,,0,0,,45.0,,,62.0
+2018-05-27,2018,boucles-de-l-aulne,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,41.0
+2018-05-31,2018,boucles-de-la-mayenne,gc,Team Fortuneo - Samsic,2.1,,0,0,,28.0,,,28.0
+2018-04-11,2018,brabantse-pijl,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,5.0
+2018-08-26,2018,bretagne-classic,gc,Team Fortuneo - Samsic,1.UWT,,0,0,,0.0,,,24.0
+2018-09-01,2018,brussels-cycling-classic,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,25.0
+2018-03-25,2018,cholet-pays-de-loire,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,65.0
+2018-10-14,2018,chrono-des-nations,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,3.0
+2018-09-22,2018,circuit-franco-belge,gc,Team Fortuneo - Samsic,1.HC,,,1,,0.0,,,5.0
+2018-03-24,2018,classic-loire-atlantique,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,123.0
+2018-09-15,2018,coppa-agostoni,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,38.0
+2018-09-16,2018,coppa-bernocchi,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,0.0
+2018-07-01,2018,danish-championships,gc,Team Fortuneo - Samsic,NC,,0,0,,0.0,,,60.0
+2018-01-26,2018,deia-trophy,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,5.0
+2018-08-23,2018,deutschland-tour,gc,Team Fortuneo - Samsic,2.1,,0,0,,40.0,,,40.0
+2018-05-01,2018,eschborn-frankfurt,gc,Team Fortuneo - Samsic,1.UWT,,0,0,,0.0,,,6.0
+2018-01-31,2018,etoile-de-besseges,gc,Team Fortuneo - Samsic,2.1,,0,0,,3.0,,,3.0
+2018-09-27,2018,famenne-ardenne-classic,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,33.0
+2018-02-24,2018,faun-ardeche-classic,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,10.0
+2018-09-19,2018,giro-di-toscana,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,5.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,20.0
+2018-09-23,2018,gp-d-isbergues,gc,Team Fortuneo - Samsic,1.1,,,1,,0.0,,,0.0
+2018-01-28,2018,gp-d-ouverture,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,6.0
+2018-03-18,2018,gp-de-denain,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,88.0
+2018-09-02,2018,gp-de-fourmies,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,5.0
+2018-05-26,2018,gp-de-plumelec,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,30.0
+2018-09-12,2018,gp-de-wallonie,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,73.0
+2018-09-15,2018,gp-impanis-van-petegem,gc,Team Fortuneo - Samsic,1.HC,,,1,,0.0,,,5.0
+2018-09-16,2018,gp-jef-scherens,gc,Team Fortuneo - Samsic,1.1,,,1,,0.0,,,0.0
+2018-02-27,2018,gp-samyn,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,35.0
+2018-10-13,2018,il-lombardia,gc,Team Fortuneo - Samsic,1.UWT,,0,0,,0.0,,,20.0
+2018-09-14,2018,kampioenschap-van-vlaanderen1,gc,Team Fortuneo - Samsic,1.1,,,1,,0.0,,,50.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,0.0
+2018-02-25,2018,la-drome-classic,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,5.0
+2018-04-18,2018,la-fleche-wallonne,gc,Team Fortuneo - Samsic,1.UWT,,0,0,,0.0,,,8.0
+2018-08-05,2018,la-poly-normande,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,153.0
+2018-04-01,2018,la-roue-tourangelle,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,3.0
+2018-06-14,2018,la-route-d-occitanie,gc,Team Fortuneo - Samsic,2.1,,0,0,,14.0,,,14.0
+2018-04-25,2018,le-tour-de-bretagne,gc,Team Fortuneo - Samsic,2.2,,0,0,,0.0,,,0.0
+2018-04-22,2018,liege-bastogne-liege,gc,Team Fortuneo - Samsic,1.UWT,,0,0,,0.0,,,5.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,3.0
+2018-09-22,2018,memorial-marco-pantani,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,20.0
+2018-10-10,2018,milano-torino,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,8.0
+2018-07-01,2018,nc-france,gc,Team Fortuneo - Samsic,NC,,0,0,,0.0,,,25.0
+2018-06-28,2018,nc-france-itt,gc,Team Fortuneo - Samsic,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-netherlands,gc,Team Fortuneo - Samsic,NC,,0,0,,0.0,,,0.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Team Fortuneo - Samsic,1.UWT,,0,0,,0.0,,,12.0
+2018-09-19,2018,omloop-van-het-houtland-lichtervelde,gc,Team Fortuneo - Samsic,1.1,,,1,,0.0,,,50.0
+2018-10-04,2018,paris-bourges,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,60.0
+2018-04-10,2018,paris-camembert,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,20.0
+2018-06-24,2018,paris-chauny-classique,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,5.0
+2018-03-04,2018,paris-nice,gc,Team Fortuneo - Samsic,2.UWT,,0,0,,35.0,,,35.0
+2018-04-08,2018,paris-roubaix,gc,Team Fortuneo - Samsic,1.UWT,,0,0,,0.0,,,0.0
+2018-10-07,2018,paris-tours,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,0.0
+2018-03-11,2018,paris-troyes,gc,Team Fortuneo - Samsic,1.2,,0,0,,0.0,,,10.0
+2018-04-03,2018,region-pays-de-la-loire,gc,Team Fortuneo - Samsic,2.1,,0,0,,28.0,,,28.0
+2018-05-03,2018,rhone-alpes-isere-tour,gc,Team Fortuneo - Samsic,2.2,,0,0,,0.0,,,0.0
+2018-06-07,2018,ronde-de-l-oise,gc,Team Fortuneo - Samsic,2.2,,0,0,,3.0,,,5.0
+2018-03-30,2018,route-adelie-de-vitre,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,95.0
+2018-04-04,2018,scheldeprijs,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,40.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Team Fortuneo - Samsic,2.UWT,,0,0,,50.0,,,50.0
+2018-02-08,2018,tour-cycliste-international-la-provence,gc,Team Fortuneo - Samsic,2.1,,0,0,,21.0,,,21.0
+2018-07-07,2018,tour-de-france,gc,Team Fortuneo - Samsic,2.UWT,,0,0,,105.0,50.0,0.0,105.0
+2018-07-07,2018,tour-de-france,kom,Team Fortuneo - Samsic,2.UWT,,0,0,,105.0,50.0,0.0,105.0
+2018-07-07,2018,tour-de-france,points,Team Fortuneo - Samsic,2.UWT,,0,0,,105.0,50.0,0.0,105.0
+2018-05-18,2018,tour-de-l-ain,gc,Team Fortuneo - Samsic,2.1,,0,0,,15.0,,,15.0
+2018-10-06,2018,tour-de-vendee,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,33.0
+2018-07-28,2018,tour-de-wallonie,gc,Team Fortuneo - Samsic,2.HC,,0,0,,0.0,,,0.0
+2018-02-17,2018,tour-des-alpes-maritimes,gc,Team Fortuneo - Samsic,2.1,,0,0,,5.0,,,5.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Estonia,1.Ncup,,,1,,0.0,,,0.0
+2018-06-21,2018,tour-des-pays-de-savoie,gc,Team Fortuneo - Samsic,2.2,,0,0,,35.0,,,45.0
+2018-09-09,2018,tour-du-doubs,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,28.0
+2018-04-14,2018,tour-du-finistere,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,18.0
+2018-04-21,2018,tour-du-jura-cycliste,gc,Team Fortuneo - Samsic,2.2,,0,0,,3.0,,,3.0
+2018-08-15,2018,tour-du-limousin,gc,Team Fortuneo - Samsic,2.1,,0,0,,20.0,,,23.0
+2018-04-11,2018,tour-du-loir-et-cher,gc,Estonia,2.2,94.0,0.0,1,,0.0,,,0.0
+2018-08-21,2018,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Fortuneo - Samsic,2.1,,0,0,,28.0,,,28.0
+2018-02-22,2018,tour-of-antalya,gc,Estonia,2.2,,0,0,,0.0,,,0.0
+2018-05-23,2018,tour-of-belgium,gc,Team Fortuneo - Samsic,2.HC,,0,0,,5.0,,,5.0
+2018-05-25,2018,tour-of-estonia,gc,Estonia,2.1,36.0,0.0,1,,75.0,,,75.0
+2018-02-13,2018,tour-of-oman,gc,Team Fortuneo - Samsic,2.HC,,0,0,,10.0,,,10.0
+2018-04-15,2018,tro-bro-leon,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,8.0
+2018-02-11,2018,trofeo-laigueglia,gc,Team Fortuneo - Samsic,1.HC,,0,0,,0.0,,,5.0
+2018-01-28,2018,trofeo-palma,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,5.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,10.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Team Fortuneo - Samsic,1.1,,0,0,,0.0,,,5.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Estonia,CC,,0,0,,0.0,,,5.0
+2018-03-19,2018,volta-a-catalunya,gc,Team Fortuneo - Samsic,2.UWT,,0,0,,36.0,,,36.0
+2018-08-07,2018,vuelta-a-burgos,gc,Team Fortuneo - Samsic,2.HC,,0,0,,8.0,,,8.0
+2018-09-30,2018,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2018-09-26,2018,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2019-09-08,2019,chrono-champenois-masculin,gc,Equipe continentale Groupama-FDJ,1.2,,0,0,,0.0,,,10.0
+2019-06-23,2019,european-games,gc,Estonia,JC,,,1,,0.0,,,255.0
+2019-06-25,2019,european-games-itt,gc,Estonia,JC,,0,0,,0.0,,,0.0
+2019-09-01,2019,gp-de-la-ville-de-nogent-sur-oise,gc,Equipe continentale Groupama-FDJ,1.2,,,1,,0.0,,,25.0
+2019-09-18,2019,gp-de-wallonie,gc,Equipe continentale Groupama-FDJ,1.1,,0,0,,0.0,,,0.0
+2019-05-19,2019,grand-prix-criquielion,gc,Equipe continentale Groupama-FDJ,1.2,,,1,,0.0,,,25.0
+2019-04-25,2019,le-tour-de-bretagne,gc,Equipe continentale Groupama-FDJ,2.2,91.0,0.0,1,,15.0,,,15.0
+2019-06-30,2019,nc-estonia,gc,Equipe continentale Groupama-FDJ,NC,,,1,,0.0,,,40.0
+2019-06-27,2019,nc-estonia-itt,gc,Equipe continentale Groupama-FDJ,NC,,,1,,0.0,,,30.0
+2019-06-30,2019,nc-france,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-france-itt,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-slovenia,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,ncgreat-britain,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,3.0
+2019-05-24,2019,paris-arras-tour,gc,Equipe continentale Groupama-FDJ,2.2,71.0,0.0,1,,0.0,,,0.0
+2019-03-17,2019,paris-troyes,gc,Equipe continentale Groupama-FDJ,1.2,,0,0,,0.0,,,0.0
+2019-05-09,2019,rhone-alpes-isere-tour,gc,Equipe continentale Groupama-FDJ,2.2,57.0,0.0,1,,0.0,,,7.0
+2019-08-01,2019,tour-alsace,gc,Equipe continentale Groupama-FDJ,2.2,,,1,,20.0,,,21.0
+2019-03-25,2019,tour-de-normadie,gc,Equipe continentale Groupama-FDJ,2.2,,0,0,,0.0,,,0.0
+2019-04-27,2019,tour-du-jura-cycliste,gc,Equipe continentale Groupama-FDJ,2.2,,0,0,,30.0,,,31.0
+2019-02-21,2019,tour-of-antalya,gc,Estonia,2.2,,0,0,,0.0,,,0.0
+2019-05-23,2019,tour-of-estonia,gc,Estonia,2.1,,0,0,,48.0,,,51.0
+2019-09-11,2019,turul-romaniei,gc,Estonia,2.1,60.0,0.0,1,,0.0,,,22.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2019-09-29,2019,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2019-09-25,2019,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,85.0
+2020-08-13,2020,baltic-chain-tour,gc,Estonia,2.2,,0,0,,46.0,,,56.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,3.0
+2020-09-27,2020,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2020-09-25,2020,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2021-08-20,2021,baltic-chain-tour,gc,Estonia,2.2,2.0,30.0,1,,30.0,,,38.0
+2021-10-07,2021,circuit-des-ardennes,gc,Team Pro Immo Nicolas Roux,2.2,,,1,,0.0,,,1.0
+2021-08-29,2021,gp-de-la-somme,gc,Team Pro Immo Nicolas Roux,1.2,,,1,,0.0,,,0.0
+2021-07-18,2021,gp-de-la-ville-de-nogent-sur-oise,gc,Team Pro Immo Nicolas Roux,1.2,,,1,,0.0,,,85.0
+2021-07-25,2021,grand-prix-de-la-ville-de-perenchies,gc,Team Pro Immo Nicolas Roux,1.2,,,1,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Estonia,Olympics,,0,0,,0.0,,,10.0
+2021-07-28,2021,olympic-games-itt,gc,Estonia,Olympics,,0,0,,0.0,,,0.0
+2021-04-04,2021,rhodes-gp,gc,Team Pro Immo Nicolas Roux,1.2,,,1,,0.0,,,6.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Team Pro Immo Nicolas Roux,2.2,,,1,,0.0,,,9.0
+2021-10-22,2021,tour-cycliste-international-de-la-guadeloupe,gc,Team Pro Immo Nicolas Roux,2.2,29.0,0.0,1,,43.0,,,72.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Team Pro Immo Nicolas Roux,2.2,,0,0,,0.0,,,0.0
+2021-05-28,2021,tour-of-estonia,gc,Estonia,2.1,1.0,125.0,1,,256.0,,,284.0
+2021-04-08,2021,tour-of-rhodes,gc,Team Pro Immo Nicolas Roux,2.2,37.0,0.0,1,,0.0,,,7.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,0.0
+2021-09-26,2021,world-championship,gc,Estonia,WC,,,1,,0.0,,,0.0
+2022-05-03,2022,4-jours-de-dunkerque,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,0.0,,,10.0
+2022-04-10,2022,amstel-gold-race,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,3.0
+2022-05-22,2022,antwerp-port-epic,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,28.0
+2022-08-11,2022,arctic-race-of-norway,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,3.0,,,3.0
+2022-08-18,2022,baltic-chain-tour,gc,Estonia,2.2,,0,0,,73.0,,,97.0
+2022-05-22,2022,boucles-de-l-aulne,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,9.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,90.0,,,90.0
+2022-04-13,2022,brabantse-pijl,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,0.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Bingoal Pauwels Sauces WB,1.Pro,,,1,,0.0,,,73.0
+2022-08-28,2022,bretagne-classic,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,20.0
+2022-06-05,2022,brussels-cycling-classic,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,118.0
+2022-05-26,2022,circuit-de-wallonie,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,38.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,38.0
+2022-08-10,2022,circuit-franco-belge,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,58.0
+2022-02-13,2022,clasica-de-almeria,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,105.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Bingoal Pauwels Sauces WB,1.UWT,,,1,,0.0,,,65.0
+2022-04-15,2022,classic-grand-besancon-doubs,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-09-29,2022,coppa-agostoni,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-10-03,2022,coppa-bernocchi,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,5.0
+2022-08-04,2022,czech-tour,gc,Bingoal Pauwels Sauces WB,2.1,,0,0,,5.0,,,10.0
+2022-08-24,2022,druivenkoers-overijse,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,25.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,3.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,5.0
+2022-03-25,2022,e3-harelbeke,gc,Bingoal Pauwels Sauces WB,1.UWT,,,1,,0.0,,,8.0
+2022-05-01,2022,eschborn-frankfurt,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,22.0
+2022-02-02,2022,etoile-de-besseges,gc,Bingoal Pauwels Sauces WB,2.1,108.0,0.0,1,,6.0,,,6.0
+2022-10-02,2022,famenne-ardenne-classic,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,6.0
+2022-02-26,2022,faun-ardeche-classic,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,0.0
+2022-03-27,2022,gent-wevelgem,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,60.0
+2022-10-12,2022,giro-del-veneto,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,15.0
+2022-10-01,2022,giro-dell-emilia,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,0.0
+2022-09-18,2022,gooikse-pijl,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,10.0
+2022-09-18,2022,gp-d-isbergues,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-01-30,2022,gp-d-ouverture,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,6.0
+2022-03-17,2022,gp-de-denain,gc,Bingoal Pauwels Sauces WB,1.Pro,,,1,,0.0,,,10.0
+2022-09-11,2022,gp-de-fourmies,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,25.0
+2022-03-06,2022,gp-de-la-ville-de-lillers,gc,Bingoal Pauwels Sauces WB,1.2,,0,0,,0.0,,,40.0
+2022-05-14,2022,gp-de-plumelec,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,3.0
+2022-09-14,2022,gp-de-wallonie,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,11.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,11.0
+2022-03-27,2022,gp-industria-artigianato,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,10.0
+2022-08-07,2022,gp-jef-scherens,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-03-01,2022,gp-samyn,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,5.0
+2022-08-23,2022,gp-stad-zottegem,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-10-06,2022,gran-piemonte,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,0.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,26.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,8.0
+2022-06-04,2022,heist-op-den-berg,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,6.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,53.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Bingoal Pauwels Sauces WB,1.Pro,,,1,,0.0,,,10.0
+2022-02-27,2022,la-drome-classic,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,3.0
+2022-04-20,2022,la-fleche-wallonne,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,0.0
+2022-08-14,2022,la-poly-normande,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,0.0
+2022-04-24,2022,liege-bastogne-liege,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,10.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,0.0
+2022-10-09,2022,memorial-rik-van-steenbergen,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,11.0
+2022-06-26,2022,nc-belgium,gc,Bingoal Pauwels Sauces WB,NC,,0,0,,0.0,,,60.0
+2022-06-26,2022,nc-estonia,gc,Bingoal Pauwels Sauces WB,NC,,,1,,0.0,,,3.0
+2022-06-26,2022,nc-italy,gc,Bingoal Pauwels Sauces WB,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-luxembourg,gc,Bingoal Pauwels Sauces WB,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-luxembourg-itt,gc,Bingoal Pauwels Sauces WB,NC,,0,0,,0.0,,,10.0
+2022-06-24,2022,nc-netherlands,gc,Bingoal Pauwels Sauces WB,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-poland,gc,Bingoal Pauwels Sauces WB,NC,,0,0,,0.0,,,0.0
+2022-03-16,2022,nokere-koerse,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,15.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Bingoal Pauwels Sauces WB,1.UWT,,0,0,,0.0,,,17.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-10-06,2022,paris-bourges,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,3.0
+2022-04-12,2022,paris-camembert,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,3.0
+2022-09-25,2022,paris-chauny-classique,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-04-17,2022,paris-roubaix,gc,Bingoal Pauwels Sauces WB,1.UWT,,,1,,0.0,,,20.0
+2022-10-09,2022,paris-tours,gc,Bingoal Pauwels Sauces WB,1.Pro,,,1,,0.0,,,0.0
+2022-03-20,2022,per-sempre-alfredo,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,113.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Bingoal Pauwels Sauces WB,2.1,,0,0,,0.0,,,0.0
+2022-03-13,2022,ronde-van-drenthe,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,3.0
+2022-06-06,2022,ronde-van-limburg,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,90.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Bingoal Pauwels Sauces WB,1.UWT,,,1,,0.0,,,10.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Bingoal Pauwels Sauces WB,1.1,,,1,,0.0,,,0.0
+2022-08-21,2022,schaal-schels,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,63.0
+2022-04-06,2022,scheldeprijs,gc,Bingoal Pauwels Sauces WB,1.Pro,,,1,,0.0,,,0.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Bingoal Pauwels Sauces WB,2.1,,0,0,,3.0,,,6.0
+2022-09-13,2022,tour-de-luxembourg,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,3.0,,,3.0
+2022-07-23,2022,tour-de-wallonie,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,10.0,,,10.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,Bingoal Pauwels Sauces WB,2.1,,0,0,,3.0,,,3.0
+2022-09-04,2022,tour-du-doubs,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,0.0
+2022-05-21,2022,tour-du-finistere,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,16.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,3.0
+2022-08-16,2022,tour-du-limousin,gc,Bingoal Pauwels Sauces WB,2.1,,0,0,,3.0,,,3.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,Bingoal Pauwels Sauces WB,2.1,92.0,0.0,1,,0.0,,,0.0
+2022-02-10,2022,tour-of-antalya,gc,Bingoal Pauwels Sauces WB,2.1,97.0,0.0,1,,73.0,,,79.0
+2022-06-15,2022,tour-of-belgium,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,5.0,,,5.0
+2022-09-04,2022,tour-of-britain,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,70.0,,,80.0
+2022-09-27,2022,tour-of-croatia,gc,Bingoal Pauwels Sauces WB,2.1,,0,0,,3.0,,,3.0
+2022-08-16,2022,tour-of-denmark,gc,Bingoal Pauwels Sauces WB,2.Pro,,,1,,0.0,,,5.0
+2022-05-26,2022,tour-of-estonia,gc,Estonia,2.1,,0,0,,131.0,,,145.0
+2022-04-27,2022,tour-of-hellas,gc,Bingoal Pauwels Sauces WB,2.1,,0,0,,95.0,,,100.0
+2022-02-10,2022,tour-of-oman,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,8.0,,,8.0
+2022-10-04,2022,tre-valli-varesine,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,0.0
+2022-05-15,2022,tro-bro-leon,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,10.0
+2022-03-02,2022,trofeo-laigueglia,gc,Bingoal Pauwels Sauces WB,1.Pro,,0,0,,0.0,,,5.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,3.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,35.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,50.0
+2022-10-16,2022,veneto-classic,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,0.0
+2022-04-02,2022,volta-nxt-classic,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,13.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Bingoal Pauwels Sauces WB,2.Pro,,0,0,,0.0,,,0.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Bingoal Pauwels Sauces WB,1.1,,0,0,,0.0,,,23.0
+2022-06-08,2022,zlm-tour,gc,Bingoal Pauwels Sauces WB,2.Pro,4.0,100.0,1,,185.0,,,205.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Bingoal WB,2.Pro,,,1,,8.0,,,8.0
+2023-01-30,2023,alula-tour,gc,Bingoal WB,2.1,,0,0,,25.0,,,30.0
+2023-05-21,2023,antwerp-port-epic,gc,Bingoal WB,1.1,,0,0,,0.0,,,0.0
+2023-08-17,2023,arctic-race-of-norway,gc,Bingoal WB,2.Pro,,0,0,,10.0,,,10.0
+2023-08-18,2023,baltic-chain-tour,gc,Estonia,2.2,,0,0,,40.0,,,47.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Bingoal WB,1.1,,0,0,,0.0,,,90.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Bingoal WB,2.Pro,,0,0,,10.0,,,13.0
+2023-04-12,2023,brabantse-pijl,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,5.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Bingoal WB,1.Pro,,,1,,0.0,,,40.0
+2023-09-03,2023,bretagne-classic,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,16.0
+2023-06-04,2023,brussels-cycling-classic,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,8.0
+2023-05-18,2023,circuit-de-wallonie,gc,Bingoal WB,1.1,,0,0,,0.0,,,3.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Bingoal WB,1.1,,0,0,,0.0,,,0.0
+2023-09-28,2023,circuit-franco-belge,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,3.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,10.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,Bingoal WB,1.1,,0,0,,0.0,,,6.0
+2023-09-28,2023,coppa-agostoni,gc,Bingoal WB,1.1,,0,0,,0.0,,,0.0
+2023-10-02,2023,coppa-bernocchi,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,8.0
+2023-07-27,2023,czech-tour,gc,Bingoal WB,2.1,,,1,,6.0,,,6.0
+2023-06-25,2023,danish-championships,gc,Bingoal WB,NC,,0,0,,0.0,,,0.0
+2023-08-19,2023,druivenkoers-overijse,gc,Bingoal WB,1.1,,,1,,0.0,,,9.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,0.0
+2023-03-24,2023,e3-harelbeke,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,8.0
+2023-05-01,2023,eschborn-frankfurt,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,19.0
+2023-02-01,2023,etoile-de-besseges,gc,Bingoal WB,2.1,,0,0,,0.0,,,0.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Bingoal WB,1.1,,0,0,,0.0,,,3.0
+2023-02-25,2023,faun-ardeche-classic,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,3.0
+2023-03-26,2023,gent-wevelgem,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,0.0
+2023-09-30,2023,giro-dell-emilia,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,5.0
+2023-04-11,2023,giro-di-sicilia,gc,Bingoal WB,2.1,,0,0,,6.0,,,6.0
+2023-09-17,2023,gooikse-pijl,gc,Bingoal WB,1.1,,,1,,0.0,,,3.0
+2023-09-17,2023,gp-d-isbergues,gc,Bingoal WB,1.1,,0,0,,0.0,,,15.0
+2023-01-29,2023,gp-d-ouverture,gc,Bingoal WB,1.1,,0,0,,0.0,,,0.0
+2023-03-16,2023,gp-de-denain,gc,Bingoal WB,1.Pro,,,1,,0.0,,,11.0
+2023-09-10,2023,gp-de-fourmies,gc,Bingoal WB,1.Pro,,,1,,0.0,,,35.0
+2023-05-06,2023,gp-de-plumelec,gc,Bingoal WB,1.Pro,,,1,,0.0,,,5.0
+2023-09-13,2023,gp-de-wallonie,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,10.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,8.0
+2023-03-26,2023,gp-industria-artigianato,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,75.0
+2023-08-15,2023,gp-jef-scherens,gc,Bingoal WB,1.1,,0,0,,0.0,,,35.0
+2023-02-28,2023,gp-samyn,gc,Bingoal WB,1.1,,,1,,0.0,,,5.0
+2023-08-20,2023,gp-stad-zottegem,gc,Bingoal WB,1.1,,0,0,,0.0,,,3.0
+2023-03-04,2023,grand-prix-criquielion,gc,Bingoal WB,1.1,,,1,,0.0,,,5.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Bingoal WB,1.1,,,1,,0.0,,,38.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Bingoal WB,1.1,,0,0,,0.0,,,23.0
+2023-06-03,2023,heist-op-den-berg,gc,Bingoal WB,1.1,,0,0,,0.0,,,25.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Bingoal WB,1.1,,,1,,0.0,,,3.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Bingoal WB,1.Pro,,,1,,0.0,,,0.0
+2023-02-26,2023,la-drome-classic,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,11.0
+2023-04-19,2023,la-fleche-wallonne,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,0.0
+2023-08-13,2023,la-poly-normande,gc,Bingoal WB,1.1,,0,0,,0.0,,,15.0
+2023-01-23,2023,la-tropicale-amissa-bongo,gc,Bingoal WB,2.1,9.0,25.0,1,,73.0,,,114.0
+2023-04-23,2023,liege-bastogne-liege,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,15.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Bingoal WB,1.1,,0,0,,0.0,,,3.0
+2023-03-15,2023,milano-torino,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,3.0
+2023-02-10,2023,muscat-classic,gc,Bingoal WB,1.1,,0,0,,0.0,,,25.0
+2023-06-25,2023,nc-belgium,gc,Bingoal WB,NC,,0,0,,0.0,,,3.0
+2023-06-22,2023,nc-belgium-itt,gc,Bingoal WB,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-estonia,gc,Bingoal WB,NC,,,1,,0.0,,,50.0
+2023-06-24,2023,nc-italy,gc,Bingoal WB,NC,,0,0,,0.0,,,0.0
+2023-03-15,2023,nokere-koerse,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,60.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,1.0
+2023-09-20,2023,omloop-van-het-houtland-lichtervelde,gc,Bingoal WB,1.1,,,1,,0.0,,,26.0
+2023-09-24,2023,paris-chauny-classique,gc,Bingoal WB,1.1,,0,0,,0.0,,,25.0
+2023-04-09,2023,paris-roubaix,gc,Bingoal WB,1.UWT,,,1,,0.0,,,15.0
+2023-10-08,2023,paris-tours,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,10.0
+2023-03-19,2023,per-sempre-alfredo,gc,Bingoal WB,1.1,,0,0,,0.0,,,63.0
+2023-04-04,2023,region-pays-de-la-loire,gc,Bingoal WB,2.1,,0,0,,31.0,,,31.0
+2023-08-23,2023,renewi-tour,gc,Bingoal WB,2.UWT,103.0,0.0,1,,8.0,,,-42.0
+2023-03-12,2023,ronde-van-drenthe,gc,Bingoal WB,1.1,,,1,,0.0,,,3.0
+2023-05-29,2023,ronde-van-limburg,gc,Bingoal WB,1.1,,0,0,,0.0,,,3.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Bingoal WB,1.UWT,,0,0,,0.0,,,15.0
+2023-04-05,2023,scheldeprijs,gc,Bingoal WB,1.Pro,,,1,,0.0,,,6.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Bingoal WB,2.1,,0,0,,3.0,,,17.0
+2023-09-20,2023,tour-de-luxembourg,gc,Bingoal WB,2.Pro,,0,0,,3.0,,,-12.0
+2023-07-22,2023,tour-de-wallonie,gc,Bingoal WB,2.Pro,,0,0,,3.0,,,3.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Bingoal WB,2.1,,0,0,,3.0,,,3.0
+2023-04-16,2023,tour-du-doubs,gc,Bingoal WB,1.1,,0,0,,0.0,,,3.0
+2023-05-13,2023,tour-du-finistere,gc,Bingoal WB,1.1,,0,0,,0.0,,,35.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,Bingoal WB,1.1,,0,0,,0.0,,,0.0
+2023-07-02,2023,tour-of-austria,gc,Bingoal WB,2.1,,0,0,,23.0,,,23.0
+2023-06-14,2023,tour-of-belgium,gc,Bingoal WB,2.Pro,,0,0,,3.0,,,3.0
+2023-09-03,2023,tour-of-britain,gc,Bingoal WB,2.Pro,,0,0,,18.0,,,23.0
+2023-05-26,2023,tour-of-estonia,gc,Estonia,2.1,46.0,0.0,1,,76.0,,,76.0
+2023-05-02,2023,tour-of-hellas,gc,Bingoal WB,2.1,,0,0,,6.0,,,6.0
+2023-02-11,2023,tour-of-oman,gc,Bingoal WB,2.Pro,,0,0,,10.0,,,10.0
+2023-06-14,2023,tour-of-slovenia,gc,Bingoal WB,2.Pro,,0,0,,10.0,,,15.0
+2023-10-08,2023,tour-of-turkey,gc,Bingoal WB,2.1,,0,0,,33.0,,,33.0
+2023-10-03,2023,tre-valli-varesine,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,0.0
+2023-05-07,2023,tro-bro-leon,gc,Bingoal WB,1.Pro,,,1,,0.0,,,0.0
+2023-03-01,2023,trofeo-laigueglia,gc,Bingoal WB,1.Pro,,0,0,,0.0,,,10.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,6.0
+2023-05-20,2023,veenendaal-veenendaal,gc,Bingoal WB,1.1,,0,0,,0.0,,,28.0
+2023-04-01,2023,volta-nxt-classic,gc,Bingoal WB,1.1,,0,0,,0.0,,,43.0
+2023-06-07,2023,zlm-tour,gc,Bingoal WB,2.Pro,97.0,0.0,1,,13.0,,,23.0
+2024-02-06,2024,colombia-21,gc,Estonia,2.1,,0,0,,0.0,,,-5.0
+2024-06-22,2024,nc-estonia,gc,Huansheng - SCOM - Taishan Sport Cycling Team,NC,,,1,,0.0,,,3.0
+2024-06-22,2024,nc-estonia,gc,Peloton,NC,,0,0,,0.0,,,0.0
+2024-06-25,2024,nc-mongolia,gc,Huansheng - SCOM - Taishan Sport Cycling Team,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-mongolia-itt,gc,Huansheng - SCOM - Taishan Sport Cycling Team,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-norway,gc,Huansheng - SCOM - Taishan Sport Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-ukraine,gc,Huansheng - SCOM - Taishan Sport Cycling Team,NC,,0,0,,0.0,,,1.0
+2024-08-03,2024,olympic-games,gc,Estonia,Olympics,,0,0,,0.0,,,30.0
+2024-05-24,2024,tour-of-estonia,gc,Estonia,2.1,2.0,85.0,1,,155.0,,,177.0
+2024-09-26,2024,tour-of-huangshan,gc,Huansheng - SCOM - Taishan Sport Cycling Team,2.2,29.0,0.0,1,,0.0,,,3.0
+2024-06-05,2024,tour-of-lithuania,gc,Peloton,2.2,15.0,0.0,1,,0.0,,,-2.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Huansheng - SCOM - Taishan Sport Cycling Team,2.Pro,64.0,0.0,1,,5.0,,,-10.0
+2024-09-04,2024,tour-of-poyang-lake,gc,Huansheng - SCOM - Taishan Sport Cycling Team,2.2,,0,0,,3.0,,,1.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Huansheng - SCOM - Taishan Sport Cycling Team,2.Pro,4.0,100.0,1,,105.0,,,123.0
+2024-08-23,2024,trans-himalaya-cycling-race,gc,Huansheng - SCOM - Taishan Sport Cycling Team,2.2,,0,0,,25.0,,,35.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Estonia,CC,,0,0,,0.0,,,0.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Estonia,CC,,,1,,0.0,,,155.0
+2024-09-29,2024,world-championship,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2024-09-22,2024,world-championship-itt,gc,Estonia,WC,,0,0,,0.0,,,0.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Quick Pro Team,1.2,,,1,,0.0,,,0.0
+2025-07-28,2025,banyuwangi-tour-de-ijen,gc,Quick Pro Team,2.2,,0,0,,0.0,,,0.0
+2025-05-03,2025,gp-herning,gc,Quick Pro Team,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-estonia,gc,Quick Pro Team,NC,,,1,,0.0,,,65.0
+2025-06-21,2025,nc-estonia-itt,gc,Quick Pro Team,NC,,0,0,,0.0,,,3.0
+2025-06-22,2025,nc-hong-kong,gc,Quick Pro Team,NC,,0,0,,0.0,,,0.0
+2025-06-21,2025,nc-hong-kong-itt,gc,Quick Pro Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-mongolia,gc,Quick Pro Team,NC,,0,0,,0.0,,,25.0
+2025-06-27,2025,nc-mongolia-itt,gc,Quick Pro Team,NC,,0,0,,0.0,,,0.0
+2025-05-17,2025,raceseo-1749389130,gc,Quick Pro Team,1.2,,,1,,0.0,,,0.0
+2025-06-04,2025,tour-de-gyeongnam,gc,Quick Pro Team,2.2,,0,0,,0.0,,,0.0
+2025-03-16,2025,tour-de-taiwan,gc,Quick Pro Team,2.1,53.0,0.0,1,,0.0,,,0.0
+2025-09-09,2025,tour-of-binzhou,gc,Quick Pro Team,1.1,,,1,,0.0,,,3.0
+2025-05-30,2025,tour-of-estonia,gc,Quick Pro Team,2.1,15.0,5.0,1,,5.0,,,5.0
+2025-04-07,2025,tour-of-hainan,gc,Quick Pro Team,2.Pro,50.0,0.0,1,,0.0,,,-10.0
+2025-09-19,2025,tour-of-huangshan,gc,Quick Pro Team,2.1,43.0,0.0,1,,10.0,,,10.0
+2025-06-04,2025,tour-of-lithuania,gc,Quick Pro Team,2.2,27.0,0.0,1,,40.0,,,64.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Quick Pro Team,2.Pro,102.0,0.0,1,,0.0,,,20.0
+2025-10-12,2025,tour-of-mentougou,gc,Quick Pro Team,2.2,,0,0,,0.0,,,0.0
+2025-09-15,2025,tour-of-poyang-lake,gc,Quick Pro Team,2.2,,0,0,,0.0,,,24.0
+2025-09-05,2025,tour-of-shanghai,gc,Quick Pro Team,2.2,95.0,0.0,1,,5.0,,,6.0
+2025-10-09,2025,tour-of-taihu-lake,gc,Quick Pro Team,2.Pro,11.0,30.0,1,,30.0,,,70.0
+2025-08-07,2025,trans-himalaya-cycling-race,gc,Quick Pro Team,2.1,17.0,3.0,1,,9.0,,,33.0
+2025-06-14,2025,yellow-river-estuary-road-cycling-race,gc,Quick Pro Team,2.2,,0,0,,5.0,,,6.0

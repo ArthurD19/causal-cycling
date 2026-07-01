@@ -1,0 +1,46 @@
+\section{Heterogeneous Treatment Effects with Causal Forests}
+
+\subsection{Motivation}
+
+The DML estimator yields a single average effect $\hat{\theta}_0$, but hides potentially important heterogeneity. A domestique's contribution to his team's point tally likely varies with the terrain: a climber adds value on mountain stages but little on flat sprints. Similarly, the effect of a particular rider may differ depending on whether the team's designated leader is in the race or not. Estimating the CATE $\tau(x) = \mathbb{E}[Y_i(1) - Y_i(0) \mid X_i = x]$ allows these distinctions to be made explicit.
+
+\subsection{The Causal Forest Estimator}
+
+The \textbf{Causal Forest} of \citet{wager2018} extends the random forest algorithm to estimate $\tau(x)$ nonparametrically. The key idea is to adapt the splitting criterion so that trees are grown to maximise heterogeneity in treatment effects rather than prediction accuracy.
+
+Formally, each tree is built from a random subsample of observations and a random subset of features. At each node, a split on covariate $j$ at threshold $c$ is chosen to maximise:
+\begin{equation}
+    \Delta(j, c) = \frac{n_L n_R}{n_L + n_R} \left(\hat{\tau}_L - \hat{\tau}_R\right)^2
+    \label{eq:splitting}
+\end{equation}
+where $\hat{\tau}_L$ and $\hat{\tau}_R$ are local treatment effect estimates in the left and right child nodes, and $n_L$, $n_R$ are the corresponding sample sizes. The final estimate $\hat{\tau}(x)$ is the weighted average of the within-leaf treatment effects across all trees, with weights defined by the frequency with which observation $i$ falls in the same leaf as query point $x$.
+
+\subsection{Honesty}
+
+A standard regression tree trained to predict treatment effects would overfit the sample, producing estimates with inflated variance and invalid confidence intervals. The causal forest addresses this through \textbf{honesty}: the sample used to grow the tree structure (splitting observations) is separate from the sample used to estimate leaf effects. Each observation contributes to one role but not the other, ensuring that the leaf-level treatment effect estimators are unbiased conditionally on the tree structure.
+
+In our implementation, the EconML \texttt{CausalForestDML} estimator combines the DML residualisation step of Section~5 with the honest forest. The first-stage residuals $\tilde{Y}_i$ and $\tilde{D}_i$ from the cross-fitted DML are fed into the forest, which estimates $\tau(x)$ by regressing $\tilde{Y}_i$ on $\tilde{D}_i$ locally around each $x$. This two-step approach inherits the Neyman orthogonality of DML while capturing spatial heterogeneity in the covariates.
+
+Confidence intervals for $\hat{\tau}(x_i)$ are obtained by a non-parametric bootstrap with $B = 200$ replications at the observation level. The forest uses $T = 300$ trees.
+
+\subsection{Heterogeneity Analysis}
+
+The estimated CATEs are analysed along several dimensions to extract actionable insight.
+
+\paragraph{By stage type.} The four stage clusters defined in Section~3.3 are used as the primary stratification variable. For each cluster, the distribution of $\hat{\tau}(x_i)$ summarises how a rider's marginal contribution varies across terrain profiles.
+
+\paragraph{By leader presence.} The binary feature $\texttt{leader\_played}$ indicates whether the team's designated leader participated in the race. Splitting the CATE distribution by this variable reveals whether the rider's effect is complementary to or substitutable for the team leader.
+
+\paragraph{By team role.} The feature $\texttt{is\_team\_leader}$ equals 1 when the rider under analysis is the top cumulative UCI points scorer in his team for the given season and stage type. Comparing CATEs between leader and domestique roles provides a structural decomposition of team value creation.
+
+\paragraph{Variable importance.} The causal forest assigns feature importances based on the frequency with which each covariate is used in splits that explain treatment effect heterogeneity. These importances are distinct from predictive importances: they measure which features \emph{moderate} the treatment effect, not which features predict the outcome.
+
+\subsection{Model Limitations and Critical Assessment}
+
+\paragraph{Unconfoundedness.} The validity of all results rests on the conditional independence assumption (Equation~\eqref{eq:cia}). While the covariate set is rich, unobserved confounders---tactical team instructions, rider injuries not reflected in the data, last-minute selection changes---could bias the estimates. Sensitivity to this assumption is not formally tested, which is a recognised limitation of the approach.
+
+\paragraph{Propensity model quality.} For several riders, the $R^2$ of the selection model $\hat{m}$ is negative on out-of-fold data, indicating that observable race characteristics explain essentially none of the selection variance. This is structurally expected at the race level: whether a rider starts a particular week-long stage race depends primarily on team planning over the full season, which is not captured by race-level GPX features. The residuals $\tilde{D}_i$ in this regime carry mostly noise, which inflates the standard error of $\hat{\theta}_0$ without introducing bias, but reduces statistical power.
+
+\paragraph{SUTVA at the team level.} The SUTVA assumption may be mildly violated: whether another team member is selected for the same race directly affects the collective team score. This interference is partially absorbed by the $\texttt{leader\_played}$ and $\texttt{is\_team\_leader}$ covariates, but it cannot be fully eliminated without modelling the full roster jointly.
+
+\paragraph{Sample size.} Riders with fewer than 60 total observations (selected + non-selected) are excluded from the analysis. Even above this threshold, CATE estimates for individual riders in specific subgroups (e.g.\ a specific rider in a specific stage cluster for a single year) can be based on very few observations, and the associated confidence intervals are wide. Results should be interpreted at the population level or for riders with rich historical data.

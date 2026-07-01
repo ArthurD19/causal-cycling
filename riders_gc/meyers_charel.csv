@@ -1,0 +1,30 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-05-30,2019,fleche-du-sud,gc,LC Tétange,2.2,,,1,,0.0,,,0.0
+2022-04-06,2022,circuit-des-ardennes,gc,VC Unité Schwenheim,2.2,,,1,,0.0,,,0.0
+2022-05-25,2022,fleche-du-sud,gc,Regional Ekipp Lëtzebuerg,2.2,75.0,0.0,1,,0.0,,,0.0
+2023-04-06,2023,circuit-des-ardennes,gc,VC Unité Schwenheim,2.2,119.0,0.0,1,,0.0,,,0.0
+2023-09-10,2023,gp-de-la-somme,gc,VC Unité Schwenheim,1.2,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-france-itt,gc,VC Unité Schwenheim,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-luxembourg,gc,VC Unité Schwenheim,NC,,,1,,0.0,,,0.0
+2023-06-21,2023,nc-luxembourg-itt,gc,VC Unité Schwenheim,NC,,,1,,0.0,,,3.0
+2023-05-29,2023,paris-troyes,gc,VC Unité Schwenheim,1.2,,,1,,0.0,,,0.0
+2024-04-04,2024,circuit-des-ardennes,gc,VC Unité Schwenheim,2.2,82.0,0.0,1,,0.0,,,0.0
+2024-05-08,2024,fleche-du-sud,gc,VC Unité Schwenheim,2.2,88.0,0.0,1,,0.0,,,0.0
+2024-04-28,2024,gp-de-la-somme,gc,VC Unité Schwenheim,1.2,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-france-itt,gc,VC Unité Schwenheim,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-luxembourg,gc,VC Unité Schwenheim,NC,,,1,,0.0,,,3.0
+2024-06-21,2024,nc-luxembourg-itt,gc,VC Unité Schwenheim,NC,,,1,,0.0,,,10.0
+2024-03-20,2024,olympias-tour,gc,Luxembourg,2.2,,0,0,,0.0,,,0.0
+2024-08-03,2024,olympic-games,gc,Luxembourg,Olympics,,0,0,,0.0,,,15.0
+2024-05-20,2024,paris-troyes,gc,VC Unité Schwenheim,1.2,,,1,,0.0,,,0.0
+2024-09-18,2024,tour-de-luxembourg,gc,Luxembourg,2.Pro,,0,0,,38.0,,,38.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Luxembourg,CC,,0,0,,0.0,,,0.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Luxembourg,CC,,,1,,0.0,,,50.0
+2024-09-29,2024,world-championship,gc,Luxembourg,WC,,0,0,,0.0,,,0.0
+2025-04-05,2025,boucle-de-l-artois,gc,VC Unité Schwenheim,1.2,,0,0,,0.0,,,0.0
+2025-04-09,2025,circuit-des-ardennes,gc,VC Unité Schwenheim,2.2,65.0,0.0,1,,0.0,,,0.0
+2025-05-28,2025,fleche-du-sud,gc,VC Unité Schwenheim,2.2,31.0,0.0,1,,0.0,,,0.0
+2025-07-27,2025,grand-prix-de-la-ville-de-perenchies,gc,VC Unité Schwenheim,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-luxembourg,gc,VC Unité Schwenheim,NC,,,1,,0.0,,,1.0
+2025-06-26,2025,nc-luxembourg-itt,gc,VC Unité Schwenheim,NC,,,1,,0.0,,,3.0
+2025-06-09,2025,paris-troyes,gc,VC Unité Schwenheim,1.2,,,1,,0.0,,,0.0

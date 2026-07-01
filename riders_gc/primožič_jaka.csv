@@ -1,0 +1,175 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-08-27,2017,1st-ljubljana-zagreb,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2017-02-19,2017,gp-laguna,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2017-09-10,2017,int-raiffeisen-gp-judendorf-strassengel,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2017-03-09,2017,istrian-spring-tour,gc,KK Kranj,2.2,87.0,0.0,1,,0.0,,,0.0
+2017-06-08,2017,oberosterreichrundfahrt,gc,KK Kranj,2.2,,0,0,,0.0,,,1.0
+2017-06-15,2017,tour-of-slovenia,gc,Slovenia,2.1,113.0,0.0,1,,0.0,,,0.0
+2017-03-01,2017,trofej-umag,gc,KK Kranj,1.2,,0,0,,0.0,,,0.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Slovenia,CC,,0,0,,0.0,,,105.0
+2017-09-24,2017,world-championship,gc,Slovenia,WC,,0,0,,0.0,,,10.0
+2017-09-20,2017,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,300.0
+2018-08-26,2018,1st-ljubljana-zagreb,gc,KK Kranj,1.2,,0,0,,0.0,,,0.0
+2018-04-28,2018,banja-luka-belgrade-i,gc,Slovenia,2.1,,0,0,,3.0,,,3.0
+2018-04-02,2018,circuito-belvedere,gc,KK Kranj,1.2U,,,1,,0.0,,,0.0
+2018-04-01,2018,gp-adria-mobil,gc,KK Kranj,1.2,,0,0,,0.0,,,0.0
+2018-02-18,2018,gp-laguna,gc,KK Kranj,1.2,,,1,,0.0,,,20.0
+2018-04-03,2018,gp-palio-del-recioto,gc,KK Kranj,1.2U,,,1,,0.0,,,0.0
+2018-09-16,2018,int-raiffeisen-gp-judendorf-strassengel,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2018-03-08,2018,istrian-spring-tour,gc,KK Kranj,2.2,25.0,0.0,1,,0.0,,,0.0
+2018-06-27,2018,mersin-mediterranean-games,gc,Slovenia,JR,,,1,,0.0,,,0.0
+2018-03-03,2018,porec-trophy,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Slovenia,1.Ncup,,,1,,0.0,,,0.0
+2018-06-13,2018,tour-of-slovenia,gc,Slovenia,2.1,100.0,0.0,1,,0.0,,,0.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Slovenia,CC,,0,0,,0.0,,,15.0
+2018-09-30,2018,world-championship,gc,Slovenia,WC,,0,0,,0.0,,,10.0
+2018-09-26,2018,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,0.0
+2019-09-01,2019,1st-ljubljana-zagreb,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2019-04-18,2019,banja-luka-belgrade-i,gc,Slovenia,2.1,,0,0,,0.0,,,0.0
+2019-06-23,2019,european-games,gc,Slovenia,JC,,,1,,0.0,,,0.0
+2019-06-25,2019,european-games-itt,gc,Slovenia,JC,,,1,,0.0,,,0.0
+2019-04-07,2019,gp-adria-mobil,gc,KK Kranj,1.2,,,1,,0.0,,,15.0
+2019-03-14,2019,istrian-spring-tour,gc,KK Kranj,2.2,17.0,0.0,1,,0.0,,,0.0
+2019-06-13,2019,oberosterreichrundfahrt,gc,KK Kranj,2.2,11.0,0.0,1,,0.0,,,0.0
+2019-06-19,2019,tour-of-slovenia,gc,Slovenia,2.HC,,0,0,,8.0,,,8.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Slovenia,CC,,0,0,,0.0,,,70.0
+2019-09-29,2019,world-championship,gc,Slovenia,WC,,0,0,,0.0,,,30.0
+2019-09-25,2019,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,30.0
+2020-10-09,2020,giro-della-regione-friuli-venezia-giulia,gc,KK Kranj,2.2,28.0,0.0,1,,0.0,,,0.0
+2020-07-26,2020,gp-kranj,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2020-06-21,2020,nc-slovenia,gc,KK Kranj,NC,,,1,,0.0,,,23.0
+2020-03-08,2020,porec-trophy,gc,KK Kranj,1.2,,,1,,0.0,,,10.0
+2020-03-04,2020,trofej-umag,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,Slovenia,2.1,14.0,5.0,1,,30.0,,,30.0
+2021-07-04,2021,giro-del-medio-brenta,gc,KK Kranj,1.2,,0,0,,0.0,,,0.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,KK Kranj,2.2,39.0,0.0,1,,0.0,,,0.0
+2021-03-28,2021,gp-adria-mobil,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-03-21,2021,gp-izola-butan-plin,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-07-25,2021,gp-kranj,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-07-25,2021,gp-kranj,gc,Slovenia,1.2,,0,0,,0.0,,,10.0
+2021-05-30,2021,gp-slovenia,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-03-11,2021,istrian-spring-tour,gc,KK Kranj,2.2,8.0,3.0,1,,3.0,,,3.0
+2021-07-24,2021,olympic-games,gc,Slovenia,Olympics,,0,0,,0.0,,,430.0
+2021-07-28,2021,olympic-games-itt,gc,Slovenia,Olympics,,0,0,,0.0,,,350.0
+2021-03-07,2021,porec-trophy,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-09-09,2021,tour-de-serbie,gc,KK Kranj,2.2,13.0,0.0,1,,3.0,,,3.0
+2021-06-09,2021,tour-of-slovenia,gc,Slovenia,2.Pro,,,1,,8.0,,,8.0
+2021-03-03,2021,trofej-umag,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Slovenia,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Slovenia,CC,,0,0,,0.0,,,130.0
+2021-09-26,2021,world-championship,gc,Slovenia,WC,,0,0,,0.0,,,120.0
+2021-09-19,2021,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,65.0
+2022-04-14,2022,banja-luka-belgrade-i,gc,Hrinkow Advarics Cycleang,2.1,55.0,0.0,1,,116.0,,,119.0
+2022-04-14,2022,banja-luka-belgrade-i,gc,Slovenia,2.1,,0,0,,3.0,,,3.0
+2022-10-12,2022,giro-del-veneto,gc,Hrinkow Advarics Cycleang,1.1,,,1,,0.0,,,0.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Hrinkow Advarics Cycleang,2.2,9.0,3.0,1,,3.0,,,3.0
+2022-05-22,2022,gp-gorenjska,gc,Hrinkow Advarics Cycleang,1.2,,,1,,0.0,,,5.0
+2022-03-24,2022,gp-goriska-vipava-valley,gc,Hrinkow Advarics Cycleang,1.2,,,1,,0.0,,,35.0
+2022-03-20,2022,gp-izola-butan-plin,gc,Hrinkow Advarics Cycleang,1.2,,,1,,0.0,,,0.0
+2022-07-24,2022,gp-kranj,gc,Hrinkow Advarics Cycleang,1.2,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Hrinkow Advarics Cycleang,2.2,9.0,3.0,1,,3.0,,,3.0
+2022-06-30,2022,mediterranean-games-itt,gc,Slovenia,JR,,0,0,,0.0,,,0.0
+2022-07-02,2022,mersin-mediterranean-games,gc,Slovenia,JR,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-austria-itt,gc,Hrinkow Advarics Cycleang,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-austria2,gc,Hrinkow Advarics Cycleang,NC,,0,0,,0.0,,,38.0
+2022-06-26,2022,nc-germany,gc,Hrinkow Advarics Cycleang,NC,,0,0,,0.0,,,1.0
+2022-06-26,2022,nc-slovenia,gc,Hrinkow Advarics Cycleang,NC,,,1,,0.0,,,50.0
+2022-06-09,2022,oberosterreichrundfahrt,gc,Hrinkow Advarics Cycleang,2.2,20.0,0.0,1,,60.0,,,67.0
+2022-03-06,2022,porec-trophy,gc,Hrinkow Advarics Cycleang,1.2,,,1,,0.0,,,0.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Hrinkow Advarics Cycleang,2.1,,,1,,3.0,,,3.0
+2022-09-27,2022,tour-of-croatia,gc,Hrinkow Advarics Cycleang,2.1,,0,0,,0.0,,,0.0
+2022-06-03,2022,tour-of-malopolska,gc,Hrinkow Advarics Cycleang,2.2,16.0,0.0,1,,70.0,,,83.0
+2022-06-15,2022,tour-of-slovenia,gc,Slovenia,2.Pro,21.0,5.0,1,,5.0,,,5.0
+2022-03-02,2022,trofej-umag,gc,Hrinkow Advarics Cycleang,1.2,,,1,,0.0,,,0.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Slovenia,CC,,0,0,,0.0,,,0.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Slovenia,CC,,,1,,0.0,,,90.0
+2022-10-16,2022,veneto-classic,gc,Hrinkow Advarics Cycleang,1.1,,,1,,0.0,,,0.0
+2022-07-23,2022,visegrad-4-bicycle-race-gp-hungary,gc,Hrinkow Advarics Cycleang,1.2,,0,0,,0.0,,,0.0
+2022-09-25,2022,world-championship,gc,Slovenia,WC,,,1,,0.0,,,120.0
+2022-09-18,2022,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,100.0
+2023-04-19,2023,banja-luka-belgrade-i,gc,Team Hrinkow Advarics,2.2,23.0,0.0,1,,0.0,,,0.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Team Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Team Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2023-05-17,2023,fleche-du-sud,gc,Team Hrinkow Advarics,2.2,6.0,10.0,1,,10.0,,,13.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Team Hrinkow Advarics,2.2,8.0,3.0,1,,3.0,,,6.0
+2023-07-15,2023,gp-cycliste-de-gemenc,gc,Team Hrinkow Advarics,2.2,,0,0,,0.0,,,1.0
+2023-05-21,2023,gp-gorenjska,gc,Team Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Team Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Team Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2023-07-23,2023,gp-kranj,gc,Team Hrinkow Advarics,1.2,,,1,,0.0,,,10.0
+2023-04-30,2023,gp-vorarlberg,gc,Team Hrinkow Advarics,1.2,,,1,,0.0,,,25.0
+2023-03-09,2023,istrian-spring-tour,gc,Team Hrinkow Advarics,2.2,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-austria-itt,gc,Team Hrinkow Advarics,NC,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-austria2,gc,Team Hrinkow Advarics,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-germany,gc,Team Hrinkow Advarics,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Team Hrinkow Advarics,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-slovenia,gc,Team Hrinkow Advarics,NC,,,1,,0.0,,,40.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Team Hrinkow Advarics,2.2,18.0,0.0,1,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,Team Hrinkow Advarics,2.1,22.0,3.0,1,,3.0,,,3.0
+2023-03-05,2023,porec-trophy,gc,Team Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2023-03-12,2023,tour-de-taiwan,gc,Team Hrinkow Advarics,2.1,34.0,0.0,1,,55.0,,,58.0
+2023-07-02,2023,tour-of-austria,gc,Team Hrinkow Advarics,2.1,,,1,,3.0,,,3.0
+2023-09-26,2023,tour-of-croatia,gc,Team Hrinkow Advarics,2.1,38.0,0.0,1,,0.0,,,0.0
+2023-06-14,2023,tour-of-slovenia,gc,Slovenia,2.Pro,20.0,5.0,1,,5.0,,,5.0
+2023-03-01,2023,trofej-umag,gc,Team Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Team Hrinkow Advarics,1.2,,0,0,,0.0,,,3.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Slovenia,CC,,,1,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Slovenia,WC,,,1,,0.0,,,615.0
+2023-08-11,2023,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,3.0
+2024-10-01,2024,coppa-citta-di-san-daniele2,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2024-05-08,2024,fleche-du-sud,gc,Hrinkow Advarics,2.2,5.0,15.0,1,,35.0,,,36.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,Hrinkow Advarics,2.2,,,1,,0.0,,,0.0
+2024-03-19,2024,gp-brda-collio,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2024-05-19,2024,gp-gorenjska,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,15.0
+2024-03-21,2024,gp-goriska-vipava-valley,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2024-03-17,2024,gp-izola-butan-plin,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2024-05-01,2024,gp-vorarlberg,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,40.0
+2024-04-28,2024,kirschblutenrennen,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,13.0
+2024-06-21,2024,nc-austria-itt,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-austria2,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-germany,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-germany-itt,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-slovenia,gc,Hrinkow Advarics,NC,,,1,,0.0,,,50.0
+2024-06-20,2024,nc-slovenia-itt,gc,Hrinkow Advarics,NC,,,1,,0.0,,,20.0
+2024-06-13,2024,oberosterreichrundfahrt,gc,Hrinkow Advarics,2.2,30.0,0.0,1,,10.0,,,10.0
+2024-06-27,2024,okolo-slovenska,gc,Hrinkow Advarics,2.1,,,1,,0.0,,,-25.0
+2024-08-03,2024,olympic-games,gc,Slovenia,Olympics,,0,0,,0.0,,,240.0
+2024-07-27,2024,olympic-games-itt,gc,Slovenia,Olympics,,0,0,,0.0,,,0.0
+2024-03-03,2024,porec-trophy,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2024-03-10,2024,tour-de-taiwan,gc,Hrinkow Advarics,2.1,19.0,3.0,1,,3.0,,,-12.0
+2024-04-14,2024,tour-du-doubs,gc,Hrinkow Advarics,1.1,,,1,,0.0,,,0.0
+2024-07-02,2024,tour-of-austria,gc,Hrinkow Advarics,2.1,43.0,0.0,1,,0.0,,,0.0
+2024-05-30,2024,tour-of-malopolska,gc,Hrinkow Advarics,2.2,,0,0,,25.0,,,26.0
+2024-02-28,2024,trofej-umag,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,15.0
+2024-09-29,2024,world-championship,gc,Slovenia,WC,,,1,,0.0,,,900.0
+2024-09-22,2024,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,40.0
+2025-04-09,2025,circuit-des-ardennes,gc,Hrinkow Advarics,2.2,,0,0,,20.0,,,26.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,Hrinkow Advarics,1.1,,0,0,,0.0,,,0.0
+2025-10-07,2025,coppa-citta-di-san-daniele2,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2025-08-14,2025,czech-tour,gc,Hrinkow Advarics,2.1,,0,0,,5.0,,,5.0
+2025-09-04,2025,giro-della-regione-friuli-venezia-giulia,gc,Hrinkow Advarics,2.2,116.0,0.0,1,,0.0,,,0.0
+2025-03-27,2025,gp-brda-collio,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,6.0
+2025-03-23,2025,gp-izola-butan-plin,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,gp-kranj,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2025-05-01,2025,gp-vorarlberg,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2025-03-13,2025,istrian-spring-tour,gc,Hrinkow Advarics,2.2,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-austria-itt,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,6.0
+2025-06-29,2025,nc-austria2,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,1.0
+2025-06-29,2025,nc-luxembourg,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,10.0
+2025-06-26,2025,nc-luxembourg-itt,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-slovakia,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,10.0
+2025-06-26,2025,nc-slovakia-itt,gc,Hrinkow Advarics,NC,,0,0,,0.0,,,3.0
+2025-06-29,2025,nc-slovenia,gc,Hrinkow Advarics,NC,,,1,,0.0,,,10.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Hrinkow Advarics,2.2,,0,0,,20.0,,,20.0
+2025-03-09,2025,porec-trophy,gc,Hrinkow Advarics,1.2,,,1,,0.0,,,0.0
+2025-09-17,2025,tour-de-luxembourg,gc,Hrinkow Advarics,2.Pro,85.0,0.0,1,,3.0,,,3.0
+2025-03-16,2025,tour-de-taiwan,gc,Hrinkow Advarics,2.1,,,1,,66.0,,,80.0
+2025-04-20,2025,tour-du-doubs,gc,Hrinkow Advarics,1.1,,0,0,,0.0,,,0.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,Hrinkow Advarics,1.1,,0,0,,0.0,,,0.0
+2025-07-09,2025,tour-of-austria,gc,Hrinkow Advarics,2.1,67.0,0.0,1,,0.0,,,0.0
+2025-04-02,2025,tour-of-hellas,gc,Hrinkow Advarics,2.1,,0,0,,30.0,,,15.0
+2025-03-05,2025,trofej-umag,gc,Hrinkow Advarics,1.2,,0,0,,0.0,,,0.0
+2025-10-05,2025,uec-road-european-championships-me,gc,Slovenia,CC,,,1,,0.0,,,245.0
+2025-09-28,2025,world-championship,gc,Slovenia,WC,,,1,,0.0,,,1030.0
+2025-09-21,2025,world-championship-itt,gc,Slovenia,WC,,0,0,,0.0,,,195.0

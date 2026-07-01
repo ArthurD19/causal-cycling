@@ -1,0 +1,21 @@
+jour,mois,annee,stage,nom_pcs,categorie,fichier_gpx,fichier_pcs,score,statut
+28,1,2024,result,great-ocean-road-race,1.UWT,2024 Cadel Evans Great Ocean Road Race.gpx,28_January_2024__result__great-ocean-road-race_2024__1.UWT.csv,100,match
+24,2,2024,result,omloop-het-nieuwsblad,1.UWT,2024 Omloop Nieuwsblad.gpx,24_February_2024__result__omloop-het-nieuwsblad_2024__1.UWT.csv,79,match
+2,3,2024,result,strade-bianche,1.UWT,2024 Strade Bianche.gpx,02_March_2024__result__strade-bianche_2024__1.UWT.csv,100,match
+16,3,2024,result,milano-sanremo,1.UWT,2024 Milano-Sanremo.gpx,16_March_2024__result__milano-sanremo_2024__1.UWT.csv,100,match
+20,3,2024,result,classic-brugge-de-panne,1.UWT,2024 Classic Brugge-De Panne.gpx,20_March_2024__result__classic-brugge-de-panne_2024__1.UWT.csv,100,match
+22,3,2024,result,e3-harelbeke,1.UWT,2024 E3 Saxo Classic.gpx,22_March_2024__result__e3-harelbeke_2024__1.UWT.csv,100,match
+24,3,2024,result,gent-wevelgem,1.UWT,2024 Gent-Wevelgem in Flanders Fields.gpx,24_March_2024__result__gent-wevelgem_2024__1.UWT.csv,100,match
+27,3,2024,result,dwars-door-vlaanderen,1.UWT,2024 Dwars door Vlaanderen - A travers la Flandre.gpx,27_March_2024__result__dwars-door-vlaanderen_2024__1.UWT.csv,100,match
+31,3,2024,result,ronde-van-vlaanderen,1.UWT,2024 Ronde van Vlaanderen - Tour des Flandres.gpx,31_March_2024__result__ronde-van-vlaanderen_2024__1.UWT.csv,100,match
+7,4,2024,result,paris-roubaix,1.UWT,2024 Paris-Roubaix.gpx,07_April_2024__result__paris-roubaix_2024__1.UWT.csv,100,match
+14,4,2024,result,amstel-gold-race,1.UWT,2024 Amstel Gold Race.gpx,14_April_2024__result__amstel-gold-race_2024__1.UWT.csv,100,match
+17,4,2024,result,la-fleche-wallonne,1.UWT,2024 La Fleche Wallonne.gpx,17_April_2024__result__la-fleche-wallonne_2024__1.UWT.csv,100,match
+21,4,2024,result,liege-bastogne-liege,1.UWT,2024 Liege-Bastogne-Liege.gpx,21_April_2024__result__liege-bastogne-liege_2024__1.UWT.csv,100,match
+1,5,2024,result,eschborn-frankfurt,1.UWT,2024 Eschborn-Frankfurt.gpx,01_May_2024__result__eschborn-frankfurt_2024__1.UWT.csv,100,match
+10,8,2024,result,san-sebastian,1.UWT,2024 Donostia San Sebastian Klasikoa.gpx,10_August_2024__result__san-sebastian_2024__1.UWT.csv,100,match
+25,8,2024,result,bretagne-classic,1.UWT,2024 Bretagne Classic - Ouest-France.gpx,25_August_2024__result__bretagne-classic_2024__1.UWT.csv,100,match
+8,9,2024,result,cyclassics-hamburg,1.UWT,2024 Bemer Cyclassics.gpx,08_September_2024__result__cyclassics-hamburg_2024__1.UWT.csv,100,match
+13,9,2024,result,gp-quebec,1.UWT,2024 Grand Prix Cycliste de Quebec.gpx,13_September_2024__result__gp-quebec_2024__1.UWT.csv,100,match
+15,9,2024,result,gp-montreal,1.UWT,2024 Grand Prix Cycliste de Montreal.gpx,15_September_2024__result__gp-montreal_2024__1.UWT.csv,100,match
+12,10,2024,result,il-lombardia,1.UWT,2024 Il Lombardia.gpx,12_October_2024__result__il-lombardia_2024__1.UWT.csv,100,match

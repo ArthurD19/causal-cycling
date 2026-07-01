@@ -1,0 +1,622 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-04-16,2017,amstel-gold-race,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,70.0
+2017-04-12,2017,brabantse-pijl,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,0,0,,0.0,,,5.0
+2017-08-27,2017,bretagne-classic,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,238.0
+2017-10-15,2017,chrono-des-nations,gc,Cannondale - Drapac Pro Cycling Team,1.1,,0,0,,0.0,,,30.0
+2017-06-18,2017,circuit-des-xi-villes,gc,Belgium,1.1,,0,0,,0.0,,,58.0
+2017-08-10,2017,colorado-classic,gc,Cannondale - Drapac Pro Cycling Team,2.HC,,0,0,,153.0,,,173.0
+2017-08-20,2017,cyclassics-hamburg,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,34.0
+2017-03-22,2017,dwars-door-vlaanderen,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,112.0
+2017-03-24,2017,e3-harelbeke,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,190.0
+2017-05-01,2017,eschborn-frankfurt,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,37.0
+2017-03-26,2017,gent-wevelgem,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,15.0
+2017-05-05,2017,giro-d-italia,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,192.0,0.0,0.0,340.0
+2017-05-05,2017,giro-d-italia,kom,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,192.0,0.0,0.0,340.0
+2017-05-05,2017,giro-d-italia,points,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,192.0,0.0,0.0,340.0
+2017-09-30,2017,giro-dell-emilia,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,0,0,,0.0,,,130.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,0,0,,0.0,,,90.0
+2017-09-13,2017,gp-de-wallonie,gc,Belgium,1.1,,0,0,,0.0,,,25.0
+2017-03-05,2017,gp-industria-artigianato,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,,1,,0.0,,,200.0
+2017-09-10,2017,gp-montreal,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,438.0
+2017-09-08,2017,gp-quebec,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,358.0
+2017-04-01,2017,gran-premio-miguel-indurain,gc,Cannondale - Drapac Pro Cycling Team,1.1,,0,0,,0.0,,,110.0
+2017-01-29,2017,great-ocean-road-race,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,57.0
+2017-06-21,2017,halle-ingooigem,gc,Belgium,1.1,,,1,,0.0,,,85.0
+2017-10-07,2017,il-lombardia,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,55.0
+2017-04-03,2017,itzulia-basque-country,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,128.0,,,136.0
+2017-10-22,2017,japan-cup,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,0,0,,0.0,,,30.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,0,0,,0.0,,,8.0
+2017-04-19,2017,la-fleche-wallonne,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,88.0
+2017-06-15,2017,la-route-d-occitanie,gc,Cannondale - Drapac Pro Cycling Team,2.1,,0,0,,35.0,,,63.0
+2017-04-23,2017,liege-bastogne-liege,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,160.0
+2017-03-18,2017,milano-sanremo,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,10.0
+2017-10-05,2017,milano-torino,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,,1,,0.0,,,200.0
+2017-01-08,2017,nc-australia,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,15.0
+2017-01-05,2017,nc-australia-itt,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,5.0
+2017-06-25,2017,nc-belgium,gc,Cannondale - Drapac Pro Cycling Team,NC,,,1,,0.0,,,55.0
+2017-06-25,2017,nc-ireland,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,70.0
+2017-06-22,2017,nc-ireland-itt,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-italy,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-latvia,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,3.0
+2017-06-21,2017,nc-latvia-itt,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,nc-netherlands,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,70.0
+2017-01-08,2017,nc-new-zealand,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,3.0
+2017-06-25,2017,nc-slovenia,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,10.0
+2017-06-25,2017,nc-united-states,gc,Cannondale - Drapac Pro Cycling Team,NC,,0,0,,0.0,,,15.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,232.0
+2017-03-05,2017,paris-nice,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,5.0,,,5.0
+2017-04-09,2017,paris-roubaix,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,375.0
+2017-08-07,2017,renewi-tour,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,12.0,48.0,1,,60.0,,,60.0
+2017-07-30,2017,ride-london-classic,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,305.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,300.0
+2017-02-15,2017,ruta-del-sol,gc,Cannondale - Drapac Pro Cycling Team,2.HC,,0,0,,50.0,,,60.0
+2017-07-29,2017,san-sebastian,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,0,0,,0.0,,,168.0
+2017-04-05,2017,scheldeprijs,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,0,0,,0.0,,,13.0
+2017-03-04,2017,strade-bianche,gc,Cannondale - Drapac Pro Cycling Team,1.UWT,,,1,,0.0,,,1.0
+2017-03-09,2017,tirreno-adriatico,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,129.0,0.0,1,,128.0,,,128.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,43.0,,,43.0
+2017-07-01,2017,tour-de-france,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,855.0,0.0,0.0,1085.0
+2017-07-01,2017,tour-de-france,kom,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,855.0,0.0,0.0,1085.0
+2017-07-01,2017,tour-de-france,points,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,855.0,0.0,0.0,1085.0
+2017-07-29,2017,tour-de-pologne,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,16.0,,,16.0
+2017-04-25,2017,tour-de-romandie,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,33.0,,,33.0
+2017-06-10,2017,tour-de-suisse,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,95.0,0.0,1,,43.0,,,78.0
+2017-01-17,2017,tour-down-under,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,70.0,,,70.0
+2017-09-01,2017,tour-of-alberta,gc,Cannondale - Drapac Pro Cycling Team,2.1,,0,0,,133.0,,,183.0
+2017-07-02,2017,tour-of-austria,gc,Cannondale - Drapac Pro Cycling Team,2.1,41.0,0.0,1,,0.0,,,30.0
+2017-05-24,2017,tour-of-belgium,gc,Belgium,2.HC,,0,0,,275.0,,,280.0
+2017-09-03,2017,tour-of-britain,gc,Cannondale - Drapac Pro Cycling Team,2.HC,,0,0,,35.0,,,35.0
+2017-05-14,2017,tour-of-california,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,237.0,,,283.0
+2017-10-19,2017,tour-of-guangxi,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,48.0,5.0,1,,27.0,,,33.0
+2017-05-17,2017,tour-of-norway,gc,Cannondale - Drapac Pro Cycling Team,2.HC,85.0,0.0,1,,73.0,,,73.0
+2017-04-17,2017,tour-of-the-alps,gc,Cannondale - Drapac Pro Cycling Team,2.HC,,0,0,,85.0,,,85.0
+2017-10-03,2017,tre-valli-varesine,gc,Cannondale - Drapac Pro Cycling Team,1.HC,,,1,,0.0,,,93.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,Belgium,CC,,0,0,,0.0,,,70.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Belgium,CC,,0,0,,0.0,,,90.0
+2017-08-18,2017,veenendaal-veenendaal,gc,Cannondale - Drapac Pro Cycling Team,1.1,,,1,,0.0,,,91.0
+2017-03-20,2017,volta-a-catalunya,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,80.0,,,80.0
+2017-02-15,2017,volta-ao-algarve,gc,Cannondale - Drapac Pro Cycling Team,2.HC,88.0,0.0,1,,15.0,,,15.0
+2017-08-20,2017,vuelta-a-espana,gc,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,260.0,100.0,0.0,316.0
+2017-08-20,2017,vuelta-a-espana,kom,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,260.0,100.0,0.0,316.0
+2017-08-20,2017,vuelta-a-espana,points,Cannondale - Drapac Pro Cycling Team,2.UWT,,0,0,,260.0,100.0,0.0,316.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Cannondale - Drapac Pro Cycling Team,2.1,92.0,0.0,1,,0.0,,,0.0
+2017-09-24,2017,world-championship,gc,Belgium,WC,,0,0,,0.0,,,255.0
+2017-09-20,2017,world-championship-itt,gc,Belgium,WC,,0,0,,0.0,,,10.0
+2018-02-21,2018,abu-dhabi-tour,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,33.0,,,33.0
+2018-04-15,2018,amstel-gold-race,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,130.0
+2018-08-26,2018,bretagne-classic,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,8.0
+2018-02-06,2018,colombia-21,gc,Team EF Education First - Drapac p/b Cannondale,2.1,,0,0,,123.0,,,137.0
+2018-08-16,2018,colorado-classic,gc,Team EF Education First - Drapac p/b Cannondale,2.HC,,0,0,,285.0,,,290.0
+2018-08-19,2018,cyclassics-hamburg,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,0,0,,0.0,,,120.0
+2018-07-01,2018,danish-championships,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,0.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,225.0
+2018-03-23,2018,e3-harelbeke,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,120.0
+2018-03-25,2018,gent-wevelgem,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,100.0
+2018-05-04,2018,giro-d-italia,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,56.0,0.0,0.0,164.0
+2018-05-04,2018,giro-d-italia,kom,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,56.0,0.0,0.0,164.0
+2018-05-04,2018,giro-d-italia,points,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,56.0,0.0,0.0,164.0
+2018-10-06,2018,giro-dell-emilia,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,0,0,,0.0,,,270.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,0,0,,0.0,,,0.0
+2018-03-04,2018,gp-industria-artigianato,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,,1,,0.0,,,5.0
+2018-09-09,2018,gp-montreal,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,10.0
+2018-09-07,2018,gp-quebec,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,60.0
+2018-10-11,2018,gran-piemonte,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,0,0,,0.0,,,5.0
+2018-10-13,2018,il-lombardia,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,0,0,,0.0,,,335.0
+2018-04-02,2018,itzulia-basque-country,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,24.0,,,24.0
+2018-10-21,2018,japan-cup,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,0,0,,0.0,,,125.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,,1,,0.0,,,18.0
+2018-04-18,2018,la-fleche-wallonne,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,0,0,,0.0,,,40.0
+2018-04-22,2018,liege-bastogne-liege,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,0,0,,0.0,,,410.0
+2018-03-17,2018,milano-sanremo,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,0,0,,0.0,,,100.0
+2018-10-10,2018,milano-torino,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,0,0,,0.0,,,35.0
+2018-01-07,2018,nc-australia,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,15.0
+2018-06-24,2018,nc-belgium,gc,Team EF Education First - Drapac p/b Cannondale,NC,,,1,,0.0,,,40.0
+2018-02-04,2018,nc-colombia,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,20.0
+2018-02-02,2018,nc-colombia-itt,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,40.0
+2018-07-01,2018,nc-netherlands,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,30.0
+2018-01-07,2018,nc-new-zealand,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,1.0
+2018-06-24,2018,nc-spain,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-sweden,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,40.0
+2018-06-24,2018,nc-united-states,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,1.0
+2018-07-01,2018,ncgreat-britain,gc,Team EF Education First - Drapac p/b Cannondale,NC,,0,0,,0.0,,,0.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,240.0
+2018-09-19,2018,omloop-van-het-houtland-lichtervelde,gc,Team EF Education First - Drapac p/b Cannondale,1.1,,,1,,0.0,,,5.0
+2018-03-04,2018,paris-nice,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,23.0,,,23.0
+2018-04-08,2018,paris-roubaix,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,310.0
+2018-10-07,2018,paris-tours,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,,1,,0.0,,,65.0
+2018-04-03,2018,region-pays-de-la-loire,gc,Team EF Education First - Drapac p/b Cannondale,2.1,,0,0,,3.0,,,17.0
+2018-08-13,2018,renewi-tour,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,,1,,24.0,,,44.0
+2018-07-29,2018,ride-london-classic,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,0,0,,0.0,,,10.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,80.0
+2018-02-14,2018,ruta-del-sol,gc,Team EF Education First - Drapac p/b Cannondale,2.HC,40.0,3.0,1,,53.0,,,83.0
+2018-08-04,2018,san-sebastian,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,0,0,,0.0,,,172.0
+2018-04-04,2018,scheldeprijs,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,0,0,,0.0,,,5.0
+2018-03-03,2018,strade-bianche,gc,Team EF Education First - Drapac p/b Cannondale,1.UWT,,,1,,0.0,,,30.0
+2018-10-13,2018,tacx-pro-classic,gc,Team EF Education First - Drapac p/b Cannondale,1.1,,0,0,,0.0,,,33.0
+2018-03-08,2018,tirreno-adriatico,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,65.0,0.0,1,,95.0,,,95.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,135.0,,,135.0
+2018-07-07,2018,tour-de-france,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,115.0,0.0,1,,55.0,0.0,0.0,55.0
+2018-07-07,2018,tour-de-france,kom,Team EF Education First - Drapac p/b Cannondale,2.UWT,,,1,,55.0,0.0,0.0,55.0
+2018-07-07,2018,tour-de-france,points,Team EF Education First - Drapac p/b Cannondale,2.UWT,94.0,0.0,1,,55.0,0.0,0.0,55.0
+2018-08-04,2018,tour-de-pologne,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,24.0,,,44.0
+2018-04-24,2018,tour-de-romandie,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,103.0,,,103.0
+2018-06-10,2018,tour-de-suisse,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,79.0,0.0,1,,30.0,,,30.0
+2018-05-22,2018,tour-des-fjords,gc,Team EF Education First - Drapac p/b Cannondale,2.HC,,,1,,3.0,,,3.0
+2018-01-16,2018,tour-down-under,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,50.0,,,50.0
+2018-07-07,2018,tour-of-austria,gc,Team EF Education First - Drapac p/b Cannondale,2.1,,0,0,,0.0,,,0.0
+2018-09-02,2018,tour-of-britain,gc,Team EF Education First - Drapac p/b Cannondale,2.HC,,0,0,,15.0,,,30.0
+2018-05-13,2018,tour-of-california,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,224.0,,,224.0
+2018-10-16,2018,tour-of-guangxi,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,69.0,0.0,1,,127.0,,,127.0
+2018-06-13,2018,tour-of-slovenia,gc,Team EF Education First - Drapac p/b Cannondale,2.1,,0,0,,85.0,,,99.0
+2018-08-06,2018,tour-of-utah,gc,Team EF Education First - Drapac p/b Cannondale,2.HC,,0,0,,200.0,,,200.0
+2018-10-09,2018,tre-valli-varesine,gc,Team EF Education First - Drapac p/b Cannondale,1.HC,,0,0,,0.0,,,160.0
+2018-03-19,2018,volta-a-catalunya,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,162.0,,,162.0
+2018-08-25,2018,vuelta-a-espana,gc,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,324.0,0.0,0.0,560.0
+2018-08-25,2018,vuelta-a-espana,kom,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,324.0,0.0,0.0,560.0
+2018-08-25,2018,vuelta-a-espana,points,Team EF Education First - Drapac p/b Cannondale,2.UWT,,0,0,,324.0,0.0,0.0,560.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Team EF Education First - Drapac p/b Cannondale,2.1,55.0,0.0,1,,0.0,,,0.0
+2019-07-25,2019,adriatica-ionica-race,gc,EF Education First,2.1,41.0,0.0,1,,60.0,,,63.0
+2019-04-21,2019,amstel-gold-race,gc,EF Education First,1.UWT,,0,0,,0.0,,,400.0
+2019-04-17,2019,brabantse-pijl,gc,EF Education First,1.HC,,0,0,,0.0,,,70.0
+2019-09-01,2019,bretagne-classic,gc,EF Education First,1.UWT,,,1,,0.0,,,402.0
+2019-06-17,2019,cic-mont-ventoux,gc,EF Education First,1.1,,0,0,,0.0,,,3.0
+2019-03-27,2019,classic-brugge-de-panne,gc,EF Education First,1.UWT,,0,0,,0.0,,,0.0
+2019-02-13,2019,colombia-21,gc,EF Education First,2.1,,0,0,,113.0,,,113.0
+2019-08-25,2019,cyclassics-hamburg,gc,EF Education First,1.UWT,,0,0,,0.0,,,4.0
+2019-08-29,2019,deutschland-tour,gc,EF Education First,2.HC,,0,0,,5.0,,,5.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,EF Education First,1.UWT,,0,0,,0.0,,,7.0
+2019-03-29,2019,e3-harelbeke,gc,EF Education First,1.UWT,,,1,,0.0,,,268.0
+2019-05-01,2019,eschborn-frankfurt,gc,EF Education First,1.UWT,,0,0,,0.0,,,12.0
+2019-02-07,2019,etoile-de-besseges,gc,EF Education First,2.1,5.0,50.0,1,,85.0,,,90.0
+2019-03-31,2019,gent-wevelgem,gc,EF Education First,1.UWT,,0,0,,0.0,,,20.0
+2019-05-11,2019,giro-d-italia,gc,EF Education First,2.UWT,,0,0,,268.0,0.0,0.0,288.0
+2019-05-11,2019,giro-d-italia,kom,EF Education First,2.UWT,,0,0,,268.0,0.0,0.0,288.0
+2019-05-11,2019,giro-d-italia,points,EF Education First,2.UWT,,0,0,,268.0,0.0,0.0,288.0
+2019-10-05,2019,giro-dell-emilia,gc,EF Education First,1.HC,,0,0,,0.0,,,281.0
+2019-10-06,2019,gp-bruno-beghelli,gc,EF Education First,1.HC,,,1,,0.0,,,45.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,EF Education First,1.HC,,,1,,0.0,,,15.0
+2019-03-10,2019,gp-industria-artigianato,gc,EF Education First,1.HC,,0,0,,0.0,,,3.0
+2019-09-15,2019,gp-montreal,gc,EF Education First,1.UWT,,,1,,0.0,,,150.0
+2019-09-13,2019,gp-quebec,gc,EF Education First,1.UWT,,,1,,0.0,,,115.0
+2019-10-10,2019,gran-piemonte,gc,EF Education First,1.HC,,0,0,,0.0,,,15.0
+2019-01-27,2019,great-ocean-road-race,gc,EF Education First,1.UWT,,0,0,,0.0,,,32.0
+2019-01-30,2019,herald-sun-tour,gc,EF Education First,2.1,,0,0,,70.0,,,98.0
+2019-10-12,2019,il-lombardia,gc,EF Education First,1.UWT,,,1,,0.0,,,233.0
+2019-04-08,2019,itzulia-basque-country,gc,EF Education First,2.UWT,,0,0,,80.0,,,100.0
+2019-10-20,2019,japan-cup,gc,EF Education First,1.HC,,0,0,,0.0,,,150.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,EF Education First,1.HC,,0,0,,0.0,,,8.0
+2019-04-24,2019,la-fleche-wallonne,gc,EF Education First,1.UWT,,0,0,,0.0,,,20.0
+2019-06-20,2019,la-route-d-occitanie,gc,EF Education First,2.1,,0,0,,105.0,,,116.0
+2019-04-28,2019,liege-bastogne-liege,gc,EF Education First,1.UWT,,0,0,,0.0,,,285.0
+2019-09-21,2019,memorial-marco-pantani,gc,EF Education First,1.1,,0,0,,0.0,,,3.0
+2019-03-23,2019,milano-sanremo,gc,EF Education First,1.UWT,,0,0,,0.0,,,120.0
+2019-10-09,2019,milano-torino,gc,EF Education First,1.HC,,0,0,,0.0,,,203.0
+2019-01-06,2019,nc-australia,gc,EF Education First,NC,,0,0,,0.0,,,0.0
+2019-01-08,2019,nc-australia-itt,gc,EF Education First,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-belgium,gc,EF Education First,NC,,,1,,0.0,,,0.0
+2019-02-03,2019,nc-colombia,gc,EF Education First,NC,,0,0,,0.0,,,0.0
+2019-02-01,2019,nc-colombia-itt,gc,EF Education First,NC,,0,0,,0.0,,,50.0
+2019-06-23,2019,nc-ecuador,gc,EF Education First,NC,,0,0,,0.0,,,100.0
+2019-06-22,2019,nc-ecuador-itt,gc,EF Education First,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-italy,gc,EF Education First,NC,,0,0,,0.0,,,60.0
+2019-06-28,2019,nc-italy-itt,gc,EF Education First,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,nc-netherlands,gc,EF Education First,NC,,0,0,,0.0,,,75.0
+2019-06-26,2019,nc-netherlands-itt,gc,EF Education First,NC,,0,0,,0.0,,,33.0
+2019-01-06,2019,nc-new-zealand,gc,EF Education First,NC,,0,0,,0.0,,,60.0
+2019-06-30,2019,nc-united-states,gc,EF Education First,NC,,0,0,,0.0,,,106.0
+2019-06-27,2019,nc-usa-itt,gc,EF Education First,NC,,0,0,,0.0,,,5.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,EF Education First,1.UWT,,,1,,0.0,,,21.0
+2019-03-10,2019,paris-nice,gc,EF Education First,2.UWT,,0,0,,60.0,,,120.0
+2019-04-14,2019,paris-roubaix,gc,EF Education First,1.UWT,,,1,,0.0,,,363.0
+2019-08-12,2019,renewi-tour,gc,EF Education First,2.UWT,12.0,48.0,1,,130.0,,,130.0
+2019-08-04,2019,ride-london-classic,gc,EF Education First,1.UWT,,,1,,0.0,,,45.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,EF Education First,1.UWT,,,1,,0.0,,,565.0
+2019-08-03,2019,san-sebastian,gc,EF Education First,1.UWT,,0,0,,0.0,,,144.0
+2019-04-10,2019,scheldeprijs,gc,EF Education First,1.HC,,,1,,0.0,,,5.0
+2019-03-09,2019,strade-bianche,gc,EF Education First,1.UWT,,0,0,,0.0,,,76.0
+2019-03-14,2019,tirreno-adriatico,gc,EF Education First,2.UWT,31.0,10.0,1,,225.0,,,260.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,EF Education First,2.UWT,,0,0,,400.0,,,425.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,EF Education First,2.1,84.0,0.0,1,,85.0,,,95.0
+2019-07-06,2019,tour-de-france,gc,EF Education First,2.UWT,,0,0,,380.0,0.0,0.0,395.0
+2019-07-06,2019,tour-de-france,kom,EF Education First,2.UWT,,0,0,,380.0,0.0,0.0,395.0
+2019-07-06,2019,tour-de-france,points,EF Education First,2.UWT,,0,0,,380.0,0.0,0.0,395.0
+2019-08-03,2019,tour-de-pologne,gc,EF Education First,2.UWT,,0,0,,236.0,,,236.0
+2019-04-30,2019,tour-de-romandie,gc,EF Education First,2.UWT,,0,0,,175.0,,,175.0
+2019-06-15,2019,tour-de-suisse,gc,EF Education First,2.UWT,,,1,,25.0,,,85.0
+2019-02-22,2019,tour-des-alpes-maritimes,gc,EF Education First,2.1,51.0,0.0,1,,85.0,,,102.0
+2019-01-15,2019,tour-down-under,gc,EF Education First,2.UWT,,0,0,,160.0,,,160.0
+2019-09-07,2019,tour-of-britain,gc,EF Education First,2.HC,,0,0,,55.0,,,75.0
+2019-05-12,2019,tour-of-california,gc,EF Education First,2.UWT,,0,0,,360.0,,,396.0
+2019-10-17,2019,tour-of-guangxi,gc,EF Education First,2.UWT,39.0,5.0,1,,260.0,,,315.0
+2019-05-28,2019,tour-of-norway,gc,EF Education First,2.HC,26.0,5.0,1,,5.0,,,5.0
+2019-08-12,2019,tour-of-utah,gc,EF Education First,2.HC,,0,0,,193.0,,,253.0
+2019-10-08,2019,tre-valli-varesine,gc,EF Education First,1.HC,,0,0,,0.0,,,95.0
+2019-09-22,2019,trofeo-matteotti,gc,EF Education First,1.1,,,1,,0.0,,,40.0
+2019-02-25,2019,uae-tour,gc,EF Education First,2.UWT,,0,0,,20.0,,,20.0
+2019-03-25,2019,volta-a-catalunya,gc,EF Education First,2.UWT,,0,0,,164.0,,,164.0
+2019-08-25,2019,vuelta-a-espana,gc,EF Education First,2.UWT,,0,0,,92.0,0.0,0.0,236.0
+2019-08-25,2019,vuelta-a-espana,kom,EF Education First,2.UWT,,0,0,,92.0,0.0,0.0,236.0
+2019-08-25,2019,vuelta-a-espana,points,EF Education First,2.UWT,,0,0,,92.0,0.0,0.0,236.0
+2020-08-25,2020,bretagne-classic,gc,EF Pro Cycling,1.UWT,,,1,,0.0,,,32.0
+2020-10-21,2020,classic-brugge-de-panne,gc,EF Pro Cycling,1.UWT,,,1,,0.0,,,10.0
+2020-02-12,2020,colombia-21,gc,EF Pro Cycling,2.1,,0,0,,280.0,,,313.0
+2020-02-05,2020,etoile-de-besseges,gc,EF Pro Cycling,2.1,,0,0,,88.0,,,129.0
+2020-02-29,2020,faun-ardeche-classic,gc,EF Pro Cycling,1.Pro,,0,0,,0.0,,,155.0
+2020-10-11,2020,gent-wevelgem,gc,EF Pro Cycling,1.UWT,,,1,,0.0,,,315.0
+2020-10-03,2020,giro-d-italia,gc,EF Pro Cycling,2.UWT,,0,0,,40.0,100.0,0.0,272.0
+2020-10-03,2020,giro-d-italia,kom,EF Pro Cycling,2.UWT,,0,0,,40.0,100.0,0.0,272.0
+2020-10-03,2020,giro-d-italia,points,EF Pro Cycling,2.UWT,,0,0,,40.0,100.0,0.0,272.0
+2020-02-02,2020,great-ocean-road-race,gc,EF Pro Cycling,1.UWT,,0,0,,0.0,,,205.0
+2020-02-05,2020,herald-sun-tour,gc,EF Pro Cycling,2.1,,0,0,,71.0,,,77.0
+2020-08-15,2020,il-lombardia,gc,EF Pro Cycling,1.UWT,,0,0,,0.0,,,90.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,EF Pro Cycling,1.Pro,,,1,,0.0,,,30.0
+2020-03-01,2020,la-drome-classic,gc,EF Pro Cycling,1.Pro,,0,0,,0.0,,,290.0
+2020-09-30,2020,la-fleche-wallonne,gc,EF Pro Cycling,1.UWT,,0,0,,0.0,,,300.0
+2020-10-04,2020,liege-bastogne-liege,gc,EF Pro Cycling,1.UWT,,0,0,,0.0,,,215.0
+2020-08-08,2020,milano-sanremo,gc,EF Pro Cycling,1.UWT,,0,0,,0.0,,,40.0
+2020-09-22,2020,nc-belgium,gc,EF Pro Cycling,NC,,,1,,0.0,,,0.0
+2020-02-02,2020,nc-colombia,gc,EF Pro Cycling,NC,,0,0,,0.0,,,160.0
+2020-01-30,2020,nc-colombia-itt,gc,EF Pro Cycling,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-netherlands,gc,EF Pro Cycling,NC,,0,0,,0.0,,,0.0
+2020-10-31,2020,nc-switserland,gc,EF Pro Cycling,NC,,0,0,,0.0,,,1.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,EF Pro Cycling,1.UWT,,,1,,0.0,,,14.0
+2020-03-08,2020,paris-nice,gc,EF Pro Cycling,2.UWT,,,1,,460.0,,,470.0
+2020-01-30,2020,race-torquay,gc,EF Pro Cycling,1.1,,0,0,,0.0,,,15.0
+2020-09-29,2020,renewi-tour,gc,EF Pro Cycling,2.UWT,32.0,8.0,1,,64.0,,,72.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,EF Pro Cycling,1.UWT,,,1,,0.0,,,83.0
+2020-08-01,2020,strade-bianche,gc,EF Pro Cycling,1.UWT,,0,0,,0.0,,,185.0
+2020-09-07,2020,tirreno-adriatico,gc,EF Pro Cycling,2.UWT,,0,0,,158.0,,,273.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,EF Pro Cycling,2.UWT,,0,0,,530.0,,,555.0
+2020-02-13,2020,tour-cycliste-international-la-provence,gc,EF Pro Cycling,2.Pro,100.0,0.0,1,,110.0,,,115.0
+2020-08-29,2020,tour-de-france,gc,EF Pro Cycling,2.UWT,,0,0,,340.0,0.0,0.0,485.0
+2020-08-29,2020,tour-de-france,kom,EF Pro Cycling,2.UWT,,0,0,,340.0,0.0,0.0,485.0
+2020-08-29,2020,tour-de-france,points,EF Pro Cycling,2.UWT,,0,0,,340.0,0.0,0.0,485.0
+2020-08-05,2020,tour-de-pologne,gc,EF Pro Cycling,2.UWT,,0,0,,32.0,,,32.0
+2020-02-21,2020,tour-des-alpes-maritimes,gc,EF Pro Cycling,2.1,,,1,,63.0,,,68.0
+2020-01-21,2020,tour-down-under,gc,EF Pro Cycling,2.UWT,,0,0,,40.0,,,40.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Belgium,CC,,0,0,,0.0,,,40.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Belgium,CC,,,1,,0.0,,,110.0
+2020-10-20,2020,vuelta-a-espana,gc,EF Pro Cycling,2.UWT,,0,0,,595.0,0.0,0.0,991.0
+2020-10-20,2020,vuelta-a-espana,kom,EF Pro Cycling,2.UWT,,0,0,,595.0,0.0,0.0,991.0
+2020-10-20,2020,vuelta-a-espana,points,EF Pro Cycling,2.UWT,,0,0,,595.0,0.0,0.0,991.0
+2020-09-27,2020,world-championship,gc,Belgium,WC,,0,0,,0.0,,,545.0
+2020-09-25,2020,world-championship-itt,gc,Belgium,WC,,0,0,,0.0,,,320.0
+2021-04-18,2021,amstel-gold-race,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,40.0
+2021-08-05,2021,arctic-race-of-norway,gc,Israel Start-Up Nation,2.Pro,,0,0,,200.0,,,220.0
+2021-04-14,2021,brabantse-pijl,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,3.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,103.0
+2021-08-29,2021,bretagne-classic,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,100.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,168.0
+2021-10-17,2021,chrono-des-nations,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,70.0
+2021-09-29,2021,circuit-franco-belge,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,98.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,133.0
+2021-10-11,2021,coppa-agostoni,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,5.0
+2021-10-04,2021,coppa-bernocchi,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,0.0
+2021-06-20,2021,danish-championships,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,100.0
+2021-05-14,2021,deia-trophy,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,60.0
+2021-08-26,2021,deutschland-tour,gc,Israel Start-Up Nation,2.Pro,,0,0,,0.0,,,5.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,0.0
+2021-03-26,2021,e3-harelbeke,gc,Israel Start-Up Nation,1.UWT,,,1,,0.0,,,20.0
+2021-09-19,2021,eschborn-frankfurt,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,37.0
+2021-02-03,2021,etoile-de-besseges,gc,Israel Start-Up Nation,2.1,39.0,0.0,1,,50.0,,,53.0
+2021-02-27,2021,faun-ardeche-classic,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,5.0
+2021-03-28,2021,gent-wevelgem,gc,Israel Start-Up Nation,1.UWT,,,1,,0.0,,,20.0
+2021-05-08,2021,giro-d-italia,gc,Israel Start-Up Nation,2.UWT,,0,0,,156.0,0.0,40.0,436.0
+2021-05-08,2021,giro-d-italia,kom,Israel Start-Up Nation,2.UWT,,0,0,,156.0,0.0,40.0,436.0
+2021-05-08,2021,giro-d-italia,points,Israel Start-Up Nation,2.UWT,,0,0,,156.0,0.0,40.0,436.0
+2021-06-24,2021,giro-dell-appennino,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,125.0
+2021-10-02,2021,giro-dell-emilia,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,265.0
+2021-09-28,2021,giro-di-sicilia,gc,Israel Start-Up Nation,2.1,,0,0,,6.0,,,6.0
+2021-09-19,2021,gooikse-pijl,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,125.0
+2021-09-21,2021,gp-de-denain,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,185.0
+2021-09-12,2021,gp-de-fourmies,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,113.0
+2021-09-15,2021,gp-de-wallonie,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,70.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,25.0
+2021-06-27,2021,gp-lugano,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,70.0
+2021-03-02,2021,gp-samyn,gc,Israel Start-Up Nation,1.1,,,1,,0.0,,,110.0
+2021-10-07,2021,gran-piemonte,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,8.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,105.0
+2021-10-09,2021,il-lombardia,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,110.0
+2021-04-05,2021,itzulia-basque-country,gc,Israel Start-Up Nation,2.UWT,,0,0,,26.0,,,26.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,85.0
+2021-02-28,2021,la-drome-classic,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,153.0
+2021-04-21,2021,la-fleche-wallonne,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,232.0
+2021-04-25,2021,liege-bastogne-liege,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,245.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,Israel Start-Up Nation,1.1,,,1,,0.0,,,65.0
+2021-03-20,2021,milano-sanremo,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,10.0
+2021-10-06,2021,milano-torino,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,115.0
+2021-10-03,2021,munsterland-giro,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,191.0
+2021-02-07,2021,nc-australia,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,3.0
+2021-06-19,2021,nc-austria-itt,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-austria2,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-belgium,gc,Israel Start-Up Nation,NC,,,1,,0.0,,,0.0
+2021-09-11,2021,nc-canada2,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,100.0
+2021-06-20,2021,nc-estonia,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,10.0
+2021-06-17,2021,nc-estonia-itt,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,30.0
+2021-06-20,2021,nc-france,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,0.0
+2021-06-12,2021,nc-israel-itt,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,35.0
+2021-06-20,2021,nc-latvia,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,30.0
+2021-10-17,2021,ncgreat-britain,gc,Israel Start-Up Nation,NC,,0,0,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,125.0
+2021-09-15,2021,okolo-slovenska,gc,Israel Start-Up Nation,2.1,,0,0,,16.0,,,30.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Israel Start-Up Nation,1.UWT,,,1,,0.0,,,235.0
+2021-03-07,2021,paris-nice,gc,Israel Start-Up Nation,2.UWT,52.0,5.0,1,,25.0,,,25.0
+2021-10-03,2021,paris-roubaix,gc,Israel Start-Up Nation,1.UWT,,,1,,0.0,,,255.0
+2021-10-10,2021,paris-tours,gc,Israel Start-Up Nation,1.Pro,,,1,,0.0,,,5.0
+2021-08-30,2021,renewi-tour,gc,Israel Start-Up Nation,2.UWT,,0,0,,80.0,,,80.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Israel Start-Up Nation,1.UWT,,,1,,0.0,,,295.0
+2021-05-18,2021,ruta-del-sol,gc,Israel Start-Up Nation,2.Pro,,0,0,,55.0,,,85.0
+2021-07-31,2021,san-sebastian,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,16.0
+2021-04-07,2021,scheldeprijs,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,8.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Israel Start-Up Nation,2.1,2.0,85.0,1,,115.0,,,127.0
+2021-03-06,2021,strade-bianche,gc,Israel Start-Up Nation,1.UWT,,0,0,,0.0,,,1.0
+2021-03-10,2021,tirreno-adriatico,gc,Israel Start-Up Nation,2.UWT,,0,0,,30.0,,,90.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Israel Start-Up Nation,2.UWT,,0,0,,40.0,,,40.0
+2021-06-26,2021,tour-de-france,gc,Israel Start-Up Nation,2.UWT,,0,0,,25.0,0.0,0.0,65.0
+2021-06-26,2021,tour-de-france,kom,Israel Start-Up Nation,2.UWT,,0,0,,25.0,0.0,0.0,65.0
+2021-06-26,2021,tour-de-france,points,Israel Start-Up Nation,2.UWT,,0,0,,25.0,0.0,0.0,65.0
+2021-05-12,2021,tour-de-hongrie,gc,Israel Start-Up Nation,2.1,,0,0,,85.0,,,90.0
+2021-08-09,2021,tour-de-pologne,gc,Israel Start-Up Nation,2.UWT,,0,0,,12.0,,,40.0
+2021-04-27,2021,tour-de-romandie,gc,Israel Start-Up Nation,2.UWT,,0,0,,230.0,,,325.0
+2021-06-06,2021,tour-de-suisse,gc,Israel Start-Up Nation,2.UWT,,,1,,228.0,,,263.0
+2021-07-20,2021,tour-de-wallonie,gc,Israel Start-Up Nation,2.Pro,,0,0,,145.0,,,160.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Israel Start-Up Nation,2.1,78.0,0.0,1,,90.0,,,104.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,Israel Start-Up Nation,2.1,,0,0,,63.0,,,77.0
+2021-09-05,2021,tour-of-britain,gc,Israel Start-Up Nation,2.Pro,,0,0,,145.0,,,160.0
+2021-09-28,2021,tour-of-croatia,gc,Israel Start-Up Nation,2.1,,0,0,,15.0,,,20.0
+2021-05-02,2021,tour-of-rwanda,gc,Israel Start-Up Nation,2.1,,0,0,,85.0,,,93.0
+2021-04-19,2021,tour-of-the-alps,gc,Israel Start-Up Nation,2.Pro,,0,0,,13.0,,,23.0
+2021-04-11,2021,tour-of-turkey,gc,Israel Start-Up Nation,2.Pro,,0,0,,5.0,,,30.0
+2021-10-05,2021,tre-valli-varesine,gc,Israel Start-Up Nation,1.Pro,,0,0,,0.0,,,203.0
+2021-05-13,2021,trofeo-calvia,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,5.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Israel Start-Up Nation,1.1,,0,0,,0.0,,,3.0
+2021-02-21,2021,uae-tour,gc,Israel Start-Up Nation,2.UWT,,0,0,,36.0,,,36.0
+2021-03-22,2021,volta-a-catalunya,gc,Israel Start-Up Nation,2.UWT,,0,0,,72.0,,,112.0
+2021-08-03,2021,vuelta-a-burgos,gc,Israel Start-Up Nation,2.Pro,66.0,0.0,1,,10.0,,,10.0
+2021-08-14,2021,vuelta-a-espana,gc,Israel Start-Up Nation,2.UWT,,,1,,0.0,0.0,0.0,4.0
+2021-08-14,2021,vuelta-a-espana,kom,Israel Start-Up Nation,2.UWT,,,1,,0.0,0.0,0.0,4.0
+2021-08-14,2021,vuelta-a-espana,points,Israel Start-Up Nation,2.UWT,,,1,,0.0,0.0,0.0,4.0
+2022-04-10,2022,amstel-gold-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,30.0
+2022-08-11,2022,arctic-race-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,215.0,,,220.0
+2022-04-13,2022,brabantse-pijl,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,30.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,13.0
+2022-08-28,2022,bretagne-classic,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,40.0
+2022-06-05,2022,brussels-cycling-classic,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,15.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,70.0
+2022-10-16,2022,chrono-des-nations,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,18.0
+2022-06-14,2022,cic-mont-ventoux,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,8.0
+2022-05-26,2022,circuit-de-wallonie,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,3.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,90.0
+2022-08-10,2022,circuit-franco-belge,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,36.0
+2022-07-31,2022,circuito-de-getxo,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2022-02-13,2022,clasica-de-almeria,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,130.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,57.0
+2022-09-29,2022,coppa-agostoni,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2022-10-03,2022,coppa-bernocchi,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,150.0
+2022-08-21,2022,cyclassics-hamburg,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,28.0
+2022-06-26,2022,danish-championships,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-01-28,2022,deia-trophy,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,70.0
+2022-08-24,2022,deutschland-tour,gc,Israel - Premier Tech,2.Pro,,0,0,,0.0,,,0.0
+2022-08-24,2022,druivenkoers-overijse,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,10.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,25.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,5.0
+2022-03-25,2022,e3-harelbeke,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,16.0
+2022-05-01,2022,eschborn-frankfurt,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,23.0
+2022-02-02,2022,etoile-de-besseges,gc,Israel - Premier Tech,2.1,,0,0,,10.0,,,10.0
+2022-10-02,2022,famenne-ardenne-classic,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,68.0
+2022-03-27,2022,gent-wevelgem,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,5.0
+2022-05-06,2022,giro-d-italia,gc,Israel - Premier Tech,2.UWT,,0,0,,0.0,0.0,0.0,24.0
+2022-05-06,2022,giro-d-italia,kom,Israel - Premier Tech,2.UWT,,0,0,,0.0,0.0,0.0,24.0
+2022-05-06,2022,giro-d-italia,points,Israel - Premier Tech,2.UWT,,0,0,,0.0,0.0,0.0,24.0
+2022-10-12,2022,giro-del-veneto,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,60.0
+2022-06-02,2022,giro-dell-appennino,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,60.0
+2022-10-01,2022,giro-dell-emilia,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,8.0
+2022-09-14,2022,giro-di-toscana,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2022-09-18,2022,gooikse-pijl,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,25.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,0.0
+2022-01-30,2022,gp-d-ouverture,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2022-09-11,2022,gp-de-fourmies,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,13.0
+2022-09-14,2022,gp-de-wallonie,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,185.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,8.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,85.0
+2022-08-07,2022,gp-jef-scherens,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,58.0
+2022-09-11,2022,gp-montreal,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,75.0
+2022-09-09,2022,gp-quebec,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,60.0
+2022-03-01,2022,gp-samyn,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,3.0
+2022-08-23,2022,gp-stad-zottegem,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,70.0
+2022-02-24,2022,gran-camino,gc,Israel - Premier Tech,2.1,,0,0,,108.0,,,127.0
+2022-10-06,2022,gran-piemonte,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,65.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,125.0
+2022-05-29,2022,grote-prijs-marcel-kint,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,33.0
+2022-06-04,2022,heist-op-den-berg,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,115.0
+2022-10-08,2022,il-lombardia,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,5.0
+2022-04-04,2022,itzulia-basque-country,gc,Israel - Premier Tech,2.UWT,,0,0,,48.0,,,48.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,11.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,91.0
+2022-04-20,2022,la-fleche-wallonne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,148.0
+2022-08-14,2022,la-poly-normande,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,35.0
+2022-06-16,2022,la-route-d-occitanie,gc,Israel - Premier Tech,2.1,,0,0,,130.0,,,144.0
+2022-04-24,2022,liege-bastogne-liege,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,140.0
+2022-09-04,2022,maryland-cycling-classic,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,285.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,3.0
+2022-05-31,2022,mercan-tour-classic-alpes-maritimes,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,225.0
+2022-03-19,2022,milano-sanremo,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,60.0
+2022-03-16,2022,milano-torino,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,20.0
+2022-10-03,2022,munsterland-giro,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,115.0
+2022-06-23,2022,nc-austria-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-belgium,gc,Israel - Premier Tech,NC,,,1,,0.0,,,0.0
+2022-06-23,2022,nc-canada-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-canada2,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,75.0
+2022-06-23,2022,nc-great-britain-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,3.0
+2022-06-25,2022,nc-israel,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,115.0
+2022-06-24,2022,nc-israel-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,25.0
+2022-06-26,2022,nc-italy,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-italy-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,5.0
+2022-06-26,2022,nc-latvia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,1.0
+2022-06-22,2022,nc-latvia-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-norway,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,40.0
+2022-06-26,2022,nc-switserland,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-switzerland-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,ncgreat-britain,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2022-03-16,2022,nokere-koerse,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,10.0
+2022-09-13,2022,okolo-slovenska,gc,Israel - Premier Tech,2.1,,0,0,,15.0,,,15.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,50.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,16.0
+2022-10-06,2022,paris-bourges,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,3.0
+2022-09-25,2022,paris-chauny-classique,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,29.0
+2022-03-06,2022,paris-nice,gc,Israel - Premier Tech,2.UWT,,0,0,,50.0,,,50.0
+2022-04-17,2022,paris-roubaix,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,10.0
+2022-10-09,2022,paris-tours,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,5.0
+2022-07-25,2022,prueba-villafranca,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,6.0
+2022-06-06,2022,ronde-van-limburg,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,43.0
+2022-05-22,2022,rund-um-koln,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2022-02-16,2022,ruta-del-sol,gc,Israel - Premier Tech,2.Pro,90.0,0.0,1,,8.0,,,18.0
+2022-07-30,2022,san-sebastian,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,24.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Israel - Premier Tech,2.1,,0,0,,5.0,,,8.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Israel - Premier Tech,2.1,,0,0,,50.0,,,50.0
+2022-03-05,2022,strade-bianche,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,18.0
+2022-03-07,2022,tirreno-adriatico,gc,Israel - Premier Tech,2.UWT,,0,0,,10.0,,,35.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Israel - Premier Tech,2.UWT,,0,0,,5.0,,,5.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Israel - Premier Tech,2.Pro,41.0,0.0,1,,28.0,,,38.0
+2022-07-01,2022,tour-de-france,gc,Israel - Premier Tech,2.UWT,,0,0,,40.0,0.0,0.0,355.0
+2022-07-01,2022,tour-de-france,kom,Israel - Premier Tech,2.UWT,,0,0,,40.0,0.0,0.0,355.0
+2022-07-01,2022,tour-de-france,points,Israel - Premier Tech,2.UWT,,0,0,,40.0,0.0,0.0,355.0
+2022-05-11,2022,tour-de-hongrie,gc,Israel - Premier Tech,2.1,,0,0,,85.0,,,98.0
+2022-07-30,2022,tour-de-pologne,gc,Israel - Premier Tech,2.UWT,,0,0,,32.0,,,32.0
+2022-04-26,2022,tour-de-romandie,gc,Israel - Premier Tech,2.UWT,,0,0,,60.0,,,120.0
+2022-06-12,2022,tour-de-suisse,gc,Israel - Premier Tech,2.UWT,,0,0,,375.0,,,445.0
+2022-07-23,2022,tour-de-wallonie,gc,Israel - Premier Tech,2.Pro,25.0,5.0,1,,63.0,,,63.0
+2022-06-15,2022,tour-of-belgium,gc,Israel - Premier Tech,2.Pro,15.0,10.0,1,,25.0,,,25.0
+2022-09-04,2022,tour-of-britain,gc,Israel - Premier Tech,2.Pro,,0,0,,160.0,,,190.0
+2022-09-27,2022,tour-of-croatia,gc,Israel - Premier Tech,2.1,,0,0,,0.0,,,0.0
+2022-08-16,2022,tour-of-denmark,gc,Israel - Premier Tech,2.Pro,,0,0,,15.0,,,15.0
+2022-05-24,2022,tour-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,46.0,,,46.0
+2022-04-18,2022,tour-of-the-alps,gc,Israel - Premier Tech,2.Pro,,0,0,,0.0,,,0.0
+2022-04-10,2022,tour-of-turkey,gc,Israel - Premier Tech,2.Pro,,0,0,,210.0,,,240.0
+2022-10-04,2022,tre-valli-varesine,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,53.0
+2022-01-30,2022,trofeo-palma,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,45.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,43.0
+2022-02-20,2022,uae-tour,gc,Israel - Premier Tech,2.UWT,,0,0,,14.0,,,14.0
+2022-10-16,2022,veneto-classic,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,5.0
+2022-03-21,2022,volta-a-catalunya,gc,Israel - Premier Tech,2.UWT,,0,0,,12.0,,,12.0
+2022-08-02,2022,vuelta-a-burgos,gc,Israel - Premier Tech,2.Pro,,0,0,,10.0,,,15.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Israel - Premier Tech,2.1,,0,0,,35.0,,,49.0
+2022-08-20,2022,vuelta-a-espana,gc,Israel - Premier Tech,2.UWT,,0,0,,20.0,0.0,0.0,60.0
+2022-08-20,2022,vuelta-a-espana,kom,Israel - Premier Tech,2.UWT,,0,0,,20.0,0.0,0.0,60.0
+2022-08-20,2022,vuelta-a-espana,points,Israel - Premier Tech,2.UWT,,0,0,,20.0,0.0,0.0,60.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Israel - Premier Tech,2.Pro,,0,0,,80.0,,,80.0
+2023-04-16,2023,amstel-gold-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,30.0
+2023-05-21,2023,antwerp-port-epic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,45.0
+2023-08-17,2023,arctic-race-of-norway,gc,Israel - Premier Tech,2.Pro,,0,0,,293.0,,,316.0
+2023-04-12,2023,brabantse-pijl,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,8.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,33.0
+2023-09-03,2023,bretagne-classic,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,48.0
+2023-06-04,2023,brussels-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,85.0
+2023-10-15,2023,chrono-des-nations,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,20.0
+2023-06-13,2023,cic-mont-ventoux,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,225.0
+2023-05-18,2023,circuit-de-wallonie,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,28.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,41.0
+2023-09-28,2023,circuit-franco-belge,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,125.0
+2023-02-12,2023,clasica-de-almeria,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,103.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,5.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,29.0
+2023-10-02,2023,coppa-bernocchi,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2023-08-20,2023,cyclassics-hamburg,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,48.0
+2023-07-27,2023,czech-tour,gc,Israel - Premier Tech,2.1,,0,0,,35.0,,,49.0
+2023-01-28,2023,deia-trophy,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-08-23,2023,deutschland-tour,gc,Israel - Premier Tech,2.Pro,,0,0,,43.0,,,43.0
+2023-06-10,2023,dwars-door-het-hageland,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,125.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,77.0
+2023-03-24,2023,e3-harelbeke,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,84.0
+2023-05-01,2023,eschborn-frankfurt,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,135.0
+2023-02-01,2023,etoile-de-besseges,gc,Israel - Premier Tech,2.1,34.0,0.0,1,,45.0,,,45.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,46.0
+2023-02-25,2023,faun-ardeche-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,15.0
+2023-03-26,2023,gent-wevelgem,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,335.0
+2023-05-06,2023,giro-d-italia,gc,Israel - Premier Tech,2.UWT,,0,0,,85.0,130.0,130.0,1140.0
+2023-05-06,2023,giro-d-italia,kom,Israel - Premier Tech,2.UWT,,0,0,,85.0,130.0,130.0,1140.0
+2023-05-06,2023,giro-d-italia,points,Israel - Premier Tech,2.UWT,,0,0,,85.0,130.0,130.0,1140.0
+2023-10-11,2023,giro-del-veneto,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,105.0
+2023-09-30,2023,giro-dell-emilia,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,105.0
+2023-09-17,2023,gooikse-pijl,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,43.0
+2023-01-29,2023,gp-d-ouverture,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,61.0
+2023-09-10,2023,gp-de-fourmies,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,5.0
+2023-09-13,2023,gp-de-wallonie,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,170.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,100.0
+2023-08-15,2023,gp-jef-scherens,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,20.0
+2023-09-10,2023,gp-montreal,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,45.0
+2023-09-08,2023,gp-quebec,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,430.0
+2023-02-28,2023,gp-samyn,gc,Israel - Premier Tech,1.1,,,1,,0.0,,,15.0
+2023-10-05,2023,gran-piemonte,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,40.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,60.0
+2023-01-29,2023,great-ocean-road-race,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,352.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,25.0
+2023-06-03,2023,heist-op-den-berg,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,35.0
+2023-10-07,2023,il-lombardia,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,150.0
+2023-10-15,2023,japan-cup,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,76.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,45.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,5.0
+2023-02-26,2023,la-drome-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,90.0
+2023-04-19,2023,la-fleche-wallonne,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,220.0
+2023-08-13,2023,la-poly-normande,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,23.0
+2023-06-15,2023,la-route-d-occitanie,gc,Israel - Premier Tech,2.1,,0,0,,175.0,,,194.0
+2023-04-23,2023,liege-bastogne-liege,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,130.0
+2023-09-03,2023,maryland-cycling-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,178.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,10.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,18.0
+2023-03-18,2023,milano-sanremo,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,45.0
+2023-03-15,2023,milano-torino,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,130.0
+2023-01-08,2023,nc-australia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,75.0
+2023-06-25,2023,nc-belgium,gc,Israel - Premier Tech,NC,,,1,,0.0,,,5.0
+2023-06-23,2023,nc-canada-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-canada2,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,5.0
+2023-06-25,2023,nc-germany,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-israel,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,205.0
+2023-06-23,2023,nc-israel-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,30.0
+2023-06-24,2023,nc-italy,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,1.0
+2023-06-22,2023,nc-italy-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-latvia,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,75.0
+2023-06-21,2023,nc-latvia-itt,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-switserland,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,Israel - Premier Tech,NC,,0,0,,0.0,,,60.0
+2023-03-15,2023,nokere-koerse,gc,Israel - Premier Tech,1.Pro,,,1,,0.0,,,75.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,50.0
+2023-03-05,2023,paris-nice,gc,Israel - Premier Tech,2.UWT,,0,0,,25.0,,,25.0
+2023-04-09,2023,paris-roubaix,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,95.0
+2023-10-08,2023,paris-tours,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,280.0
+2023-08-23,2023,renewi-tour,gc,Israel - Premier Tech,2.UWT,,0,0,,32.0,,,32.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Israel - Premier Tech,1.UWT,,,1,,0.0,,,75.0
+2023-02-15,2023,ruta-del-sol,gc,Israel - Premier Tech,2.Pro,,,1,,25.0,,,28.0
+2023-07-29,2023,san-sebastian,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,28.0
+2023-04-05,2023,scheldeprijs,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,98.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Israel - Premier Tech,2.1,,0,0,,43.0,,,48.0
+2023-03-04,2023,strade-bianche,gc,Israel - Premier Tech,1.UWT,,0,0,,0.0,,,16.0
+2023-03-06,2023,tirreno-adriatico,gc,Israel - Premier Tech,2.UWT,,0,0,,45.0,,,68.0
+2023-07-01,2023,tour-de-france,gc,Israel - Premier Tech,2.UWT,,0,0,,155.0,0.0,0.0,840.0
+2023-07-01,2023,tour-de-france,kom,Israel - Premier Tech,2.UWT,,0,0,,155.0,0.0,0.0,840.0
+2023-07-01,2023,tour-de-france,points,Israel - Premier Tech,2.UWT,,0,0,,155.0,0.0,0.0,840.0
+2023-05-10,2023,tour-de-hongrie,gc,Israel - Premier Tech,2.Pro,,0,0,,35.0,,,35.0
+2023-09-20,2023,tour-de-luxembourg,gc,Israel - Premier Tech,2.Pro,,0,0,,28.0,,,58.0
+2023-04-26,2023,tour-de-romandie,gc,Israel - Premier Tech,2.UWT,,0,0,,5.0,,,22.0
+2023-06-11,2023,tour-de-suisse,gc,Israel - Premier Tech,2.UWT,,0,0,,120.0,,,120.0
+2023-07-22,2023,tour-de-wallonie,gc,Israel - Premier Tech,2.Pro,,0,0,,11.0,,,26.0
+2023-01-17,2023,tour-down-under,gc,Israel - Premier Tech,2.UWT,,0,0,,80.0,,,113.0
+2023-06-14,2023,tour-of-belgium,gc,Israel - Premier Tech,2.Pro,73.0,0.0,1,,55.0,,,55.0
+2023-10-12,2023,tour-of-guangxi,gc,Israel - Premier Tech,2.UWT,,0,0,,22.0,,,22.0
+2023-10-05,2023,tour-of-hainan,gc,Israel - Premier Tech,2.Pro,,0,0,,295.0,,,353.0
+2023-02-19,2023,tour-of-rwanda,gc,Israel - Premier Tech,2.1,,0,0,,3.0,,,3.0
+2023-04-17,2023,tour-of-the-alps,gc,Israel - Premier Tech,2.Pro,,0,0,,13.0,,,13.0
+2023-10-03,2023,tre-valli-varesine,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,81.0
+2023-05-07,2023,tro-bro-leon,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,218.0
+2023-01-25,2023,trofeo-calvia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-01-29,2023,trofeo-palma,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,50.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,0.0
+2023-02-20,2023,uae-tour,gc,Israel - Premier Tech,2.UWT,,0,0,,30.0,,,31.0
+2023-05-20,2023,veenendaal-veenendaal,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,21.0
+2023-10-15,2023,veneto-classic,gc,Israel - Premier Tech,1.Pro,,0,0,,0.0,,,30.0
+2023-03-20,2023,volta-a-catalunya,gc,Israel - Premier Tech,2.UWT,,0,0,,152.0,,,217.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Israel - Premier Tech,2.1,,0,0,,0.0,,,0.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Israel - Premier Tech,2.Pro,,0,0,,55.0,,,78.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Israel - Premier Tech,1.1,,0,0,,0.0,,,103.0

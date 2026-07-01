@@ -1,0 +1,35 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-09-26,2018,grand-prix-chantal-biya,gc,Cameroon,2.2,31.0,0.0,1,,3.0,,,3.0
+2018-01-15,2018,la-tropicale-amissa-bongo,gc,Cameroon,2.1,,0,0,,3.0,,,3.0
+2018-05-26,2018,tour-du-cameroun,gc,Cameroon,2.2,31.0,0.0,1,,0.0,,,10.0
+2018-10-26,2018,tour-du-faso,gc,Cameroon,2.2,,,1,,3.0,,,3.0
+2019-10-17,2019,grand-prix-chantal-biya,gc,Cameroon,2.2,25.0,0.0,1,,0.0,,,0.0
+2019-01-21,2019,la-tropicale-amissa-bongo,gc,Cameroon,2.1,78.0,0.0,1,,0.0,,,0.0
+2019-06-01,2019,tour-du-cameroun,gc,Cameroon,2.2,27.0,0.0,1,,0.0,,,0.0
+2019-02-24,2019,tour-of-rwanda,gc,Cameroon,2.1,,0,0,,0.0,,,0.0
+2020-11-18,2020,grand-prix-chantal-biya,gc,Cameroon,2.2,23.0,0.0,1,,0.0,,,1.0
+2020-01-20,2020,la-tropicale-amissa-bongo,gc,Cameroon,2.1,47.0,0.0,1,,0.0,,,14.0
+2021-10-06,2021,grand-prix-chantal-biya,gc,SNH Vélo Club,2.2,8.0,3.0,1,,34.0,,,44.0
+2021-05-29,2021,tour-du-cameroun,gc,SNH Vélo Club,2.2,18.0,0.0,1,,45.0,,,46.0
+2022-10-03,2022,grand-prix-chantal-biya,gc,SNH Vélo Club,2.2,16.0,0.0,1,,25.0,,,28.0
+2022-10-03,2022,grand-prix-chantal-biya,gc,Cameroon,2.2,,0,0,,0.0,,,0.0
+2022-05-03,2022,tour-du-benin,gc,Cameroon,2.2,26.0,0.0,1,,23.0,,,26.0
+2022-06-04,2022,tour-du-cameroun,gc,SNH Vélo Club,2.2,14.0,0.0,1,,25.0,,,35.0
+2022-06-04,2022,tour-du-cameroun,gc,Cameroon,2.2,,0,0,,0.0,,,0.0
+2023-10-03,2023,grand-prix-chantal-biya,gc,SNH Vélo Club,2.2,22.0,0.0,1,,15.0,,,16.0
+2023-10-03,2023,grand-prix-chantal-biya,gc,Cameroon,2.2,,0,0,,0.0,,,0.0
+2023-01-23,2023,la-tropicale-amissa-bongo,gc,Cameroon,2.1,54.0,0.0,1,,0.0,,,0.0
+2023-05-02,2023,tour-du-benin,gc,Cameroon,2.2,16.0,0.0,1,,25.0,,,36.0
+2023-06-03,2023,tour-du-cameroun,gc,SNH Vélo Club,2.2,17.0,0.0,1,,10.0,,,13.0
+2023-06-03,2023,tour-du-cameroun,gc,Cameroon,2.2,,0,0,,20.0,,,20.0
+2023-10-27,2023,tour-du-faso,gc,Cameroon,2.2,13.0,0.0,1,,6.0,,,7.0
+2024-10-01,2024,grand-prix-chantal-biya,gc,SNH Vélo Club,2.2,9.0,3.0,1,,3.0,,,7.0
+2024-10-06,2024,grand-prix-d-ongola,gc,SNH Vélo Club,1.2,,,1,,0.0,,,3.0
+2024-06-23,2024,national-championships-cameroon-road-race,gc,SNH Vélo Club,NC,,,1,,0.0,,,133.0
+2024-04-30,2024,tour-du-benin,gc,SNH Vélo Club,2.2,38.0,0.0,1,,0.0,,,3.0
+2024-05-31,2024,tour-du-cameroun,gc,SNH Vélo Club,2.2,5.0,15.0,1,,73.0,,,97.0
+2025-09-10,2025,grand-prix-chantal-biya,gc,SNH Vélo Club,2.2,10.0,3.0,1,,31.0,,,42.0
+2025-05-04,2025,grand-prix-de-cotonou,gc,SNH Vélo Club,1.2,,,1,,0.0,,,18.0
+2025-06-29,2025,national-championships-cameroon-road-race,gc,SNH Vélo Club,NC,,,1,,0.0,,,128.0
+2025-04-28,2025,tour-du-benin,gc,SNH Vélo Club,2.2,18.0,0.0,1,,15.0,,,15.0
+2025-06-04,2025,tour-du-cameroun,gc,SNH Vélo Club,2.2,7.0,5.0,1,,20.0,,,24.0

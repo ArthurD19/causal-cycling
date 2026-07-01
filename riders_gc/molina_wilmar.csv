@@ -1,0 +1,44 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-05-23,2019,chabany-race,gc,Team Novák,1.2,,0,0,,0.0,,,0.0
+2019-07-26,2019,gemenc-grand-prix-i,gc,Team Novák,1.2,,,1,,0.0,,,0.0
+2019-07-27,2019,gemenc-grand-prix-ii,gc,Team Novák,1.2,,,1,,0.0,,,0.0
+2019-03-10,2019,grand-prix-justiniano-hotels,gc,Team Novák,1.2,,0,0,,0.0,,,0.0
+2019-03-09,2019,grand-prix-velo-alanya,gc,Team Novák,1.2,,0,0,,0.0,,,0.0
+2019-05-26,2019,horizon-park-classic,gc,Team Novák,1.2,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-romania,gc,Team Novák,NC,,0,0,,0.0,,,2.0
+2019-06-28,2019,nc-romania-itt,gc,Team Novák,NC,,0,0,,0.0,,,15.0
+2019-06-30,2019,nc-ukraine,gc,Team Novák,NC,,0,0,,0.0,,,0.0
+2019-05-24,2019,race-horizon-park,gc,Team Novák,1.2,,0,0,,0.0,,,25.0
+2019-05-25,2019,race-horizon-park-2,gc,Team Novák,1.2,,0,0,,0.0,,,0.0
+2019-07-03,2019,sibiu-cycling-tour,gc,Team Novák,2.1,67.0,0.0,1,,0.0,,,0.0
+2019-06-11,2019,tour-de-hongrie,gc,Team Novák,2.1,79.0,0.0,1,,0.0,,,0.0
+2019-07-30,2019,tour-de-serbie,gc,Team Novák,2.2,37.0,0.0,1,,0.0,,,0.0
+2019-06-07,2019,tour-of-bihor-bellotto,gc,Team Novák,2.1,77.0,0.0,1,,0.0,,,0.0
+2019-08-07,2019,tour-of-szeklerland,gc,Team Novák,2.2,,,1,,15.0,,,15.0
+2019-09-11,2019,turul-romaniei,gc,Team Novák,2.1,,0,0,,3.0,,,6.0
+2019-07-21,2019,v4-special-series-debrecen---ibrany,gc,Team Novák,1.2,,,1,,0.0,,,0.0
+2019-07-20,2019,v4-special-series-vasarosnameny-nyiregyhaza,gc,Team Novák,1.2,,,1,,0.0,,,0.0
+2020-02-12,2020,colombia-21,gc,Colombia Tierra de Atletas - GW Bicicletas,2.1,,0,0,,48.0,,,48.0
+2020-09-19,2020,giro-dell-appennino,gc,Colombia Tierra de Atletas - GW Bicicletas,1.1,,0,0,,0.0,,,0.0
+2020-08-18,2020,giro-dell-emilia,gc,Colombia Tierra de Atletas - GW Bicicletas,1.Pro,,0,0,,0.0,,,3.0
+2020-09-16,2020,giro-di-toscana,gc,Colombia Tierra de Atletas - GW Bicicletas,1.1,,0,0,,0.0,,,15.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Colombia Tierra de Atletas - GW Bicicletas,1.Pro,,0,0,,0.0,,,10.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Colombia Tierra de Atletas - GW Bicicletas,1.Pro,,0,0,,0.0,,,0.0
+2020-08-30,2020,memorial-marco-pantani,gc,Colombia Tierra de Atletas - GW Bicicletas,1.1,,0,0,,0.0,,,3.0
+2020-02-02,2020,nc-colombia,gc,Colombia Tierra de Atletas - GW Bicicletas,NC,,0,0,,0.0,,,3.0
+2020-01-30,2020,nc-colombia-itt,gc,Colombia Tierra de Atletas - GW Bicicletas,NC,,0,0,,0.0,,,0.0
+2020-03-08,2020,porec-trophy,gc,Colombia Tierra de Atletas - GW Bicicletas,1.2,,0,0,,0.0,,,20.0
+2020-03-04,2020,trofej-umag,gc,Colombia Tierra de Atletas - GW Bicicletas,1.2,,,1,,0.0,,,0.0
+2020-08-29,2020,trofeo-matteotti,gc,Colombia Tierra de Atletas - GW Bicicletas,1.1,,0,0,,0.0,,,0.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Colombia Tierra de Atletas - GW Bicicletas,2.Pro,,0,0,,13.0,,,13.0
+2021-06-28,2021,in-the-footsteps-of-the-romans,gc,Team Novák,2.2,57.0,0.0,1,,0.0,,,0.0
+2021-06-20,2021,nc-hungary,gc,Team Novák,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-hungary-itt,gc,Team Novák,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-russia,gc,Team Novák,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-russia-itt,gc,Team Novák,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-ukraine,gc,Team Novák,NC,,0,0,,0.0,,,10.0
+2021-06-30,2021,tour-of-bulgaria,gc,Team Novák,2.2,60.0,0.0,1,,0.0,,,0.0
+2021-08-04,2021,tour-of-szeklerland,gc,Team Novák,2.2,16.0,0.0,1,,0.0,,,0.0
+2021-07-10,2021,visegrad-4-bicycle-race-gp-hungary,gc,Team Novák,1.2,,,1,,0.0,,,0.0
+2021-07-11,2021,visegrad-4-bicycle-race-gp-slovakia,gc,Team Novák,1.2,,0,0,,0.0,,,0.0
+2021-04-16,2021,vuelta-pilsen-a-colombia,gc,Fundacion Depormundo,2.2,78.0,0.0,1,,0.0,,,0.0

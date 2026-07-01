@@ -1,0 +1,51 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-10-14,2021,nc-great-britain-itt,gc,SwiftCarbon Pro Cycling,NC,,0,0,,0.0,,,0.0
+2021-10-03,2021,nc-ireland,gc,SwiftCarbon Pro Cycling,NC,,0,0,,0.0,,,1.0
+2021-09-30,2021,nc-ireland-itt,gc,SwiftCarbon Pro Cycling,NC,,0,0,,0.0,,,3.0
+2021-10-17,2021,ncgreat-britain,gc,SwiftCarbon Pro Cycling,NC,,,1,,0.0,,,1.0
+2021-09-05,2021,tour-of-britain,gc,SwiftCarbon Pro Cycling,2.Pro,,0,0,,5.0,,,10.0
+2021-08-04,2021,volta-a-portugal,gc,SwiftCarbon Pro Cycling,2.1,,0,0,,0.0,,,0.0
+2022-07-10,2022,2-districtenpijl-ekeren-deurne-me,gc,WiV SunGod,1.2,,,1,,0.0,,,36.0
+2022-04-16,2022,arno-wallaard-memorial,gc,WiV SunGod,1.2,,0,0,,0.0,,,10.0
+2022-06-12,2022,circuit-des-xi-villes,gc,WiV SunGod,1.1,,0,0,,0.0,,,30.0
+2022-03-13,2022,dorpenomloop-rucphen,gc,WiV SunGod,1.2,,,1,,0.0,,,3.0
+2022-04-24,2022,east-midlands-international-cicle-classic,gc,WiV SunGod,1.2,,0,0,,0.0,,,25.0
+2022-10-02,2022,famenne-ardenne-classic,gc,WiV SunGod,1.1,,,1,,0.0,,,20.0
+2022-09-18,2022,gooikse-pijl,gc,WiV SunGod,1.1,,,1,,0.0,,,3.0
+2022-01-23,2022,gp-de-valence,gc,WiV SunGod,1.2,,,1,,0.0,,,0.0
+2022-08-07,2022,gp-jef-scherens,gc,WiV SunGod,1.1,,,1,,0.0,,,45.0
+2022-08-23,2022,gp-stad-zottegem,gc,WiV SunGod,1.1,,0,0,,0.0,,,8.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,WiV SunGod,1.1,,0,0,,0.0,,,5.0
+2022-06-04,2022,heist-op-den-berg,gc,WiV SunGod,1.1,,0,0,,0.0,,,3.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,WiV SunGod,1.2,,,1,,0.0,,,28.0
+2022-06-23,2022,nc-canada-itt,gc,WiV SunGod,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-canada2,gc,WiV SunGod,NC,,0,0,,0.0,,,60.0
+2022-06-23,2022,nc-great-britain-itt,gc,WiV SunGod,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-ireland,gc,WiV SunGod,NC,,0,0,,0.0,,,100.0
+2022-06-26,2022,ncgreat-britain,gc,WiV SunGod,NC,,0,0,,0.0,,,41.0
+2022-06-06,2022,paris-troyes,gc,WiV SunGod,1.2,,0,0,,0.0,,,60.0
+2022-08-28,2022,ronde-van-de-achterhoek,gc,WiV SunGod,1.2,,,1,,0.0,,,25.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,WiV SunGod,2.2,,0,0,,70.0,,,91.0
+2022-02-10,2022,tour-of-antalya,gc,WiV SunGod,2.1,,0,0,,35.0,,,40.0
+2022-09-04,2022,tour-of-britain,gc,WiV SunGod,2.Pro,,0,0,,100.0,,,110.0
+2022-04-02,2022,volta-nxt-classic,gc,WiV SunGod,1.1,,0,0,,0.0,,,8.0
+2023-05-17,2023,fleche-du-sud,gc,Cross Team Legendre,2.2,60.0,0.0,1,,0.0,,,0.0
+2023-02-28,2023,gp-samyn,gc,AT85 Pro Cycling,1.1,,,1,,0.0,,,0.0
+2023-03-04,2023,grand-prix-criquielion,gc,AT85 Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,AT85 Pro Cycling,1.1,,,1,,0.0,,,3.0
+2023-01-08,2023,nc-australia,gc,AT85 Pro Cycling,NC,,0,0,,0.0,,,0.0
+2023-02-12,2023,nc-new-zealand,gc,AT85 Pro Cycling,NC,,0,0,,0.0,,,10.0
+2023-06-25,2023,nc-switserland,gc,Cross Team Legendre,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,Cross Team Legendre,NC,,,1,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,Cross Team Legendre,1.2,,,1,,0.0,,,-5.0
+2023-07-27,2023,tour-alsace,gc,Cross Team Legendre,2.2,71.0,0.0,1,,0.0,,,0.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Cross Team Legendre,2.2,65.0,0.0,1,,0.0,,,0.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,Cross Team Legendre,2.2,,0,0,,0.0,,,3.0
+2023-05-02,2023,tour-of-hellas,gc,Cross Team Legendre,2.1,,,1,,15.0,,,15.0
+2024-04-28,2024,gp-de-la-somme,gc,UV Aube,1.2,,,1,,0.0,,,8.0
+2024-09-15,2024,gp-de-la-ville-de-nogent-sur-oise,gc,UV Aube,1.2,,,1,,0.0,,,15.0
+2024-06-20,2024,nc-france-itt,gc,UV Aube,NC,,0,0,,0.0,,,0.0
+2024-05-20,2024,paris-troyes,gc,UV Aube,1.2,,,1,,0.0,,,0.0
+2025-08-31,2025,gp-de-la-somme,gc,Team Bricquebec Cotentin,1.2,,,1,,0.0,,,0.0
+2025-08-31,2025,grand-prix-de-plouay,gc,Team Bricquebec Cotentin,1.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,Team Bricquebec Cotentin,NC,,,1,,0.0,,,0.0

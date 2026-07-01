@@ -1,0 +1,910 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-05,2017,3daagse-van-west-vlaanderen,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,26.0
+2017-02-23,2017,abu-dhabi-tour,gc,Quick-Step Floors,2.UWT,5.0,120.0,1,,137.0,,,177.0
+2017-04-16,2017,amstel-gold-race,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,520.0
+2017-05-28,2017,boucles-de-l-aulne,gc,France,1.1,,0,0,,0.0,,,3.0
+2017-04-12,2017,brabantse-pijl,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,255.0
+2017-03-17,2017,bredene-koksijde-classic,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,20.0
+2017-08-27,2017,bretagne-classic,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,56.0
+2017-09-02,2017,brussels-cycling-classic,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,40.0
+2017-06-18,2017,circuit-des-xi-villes,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,31.0
+2017-10-01,2017,circuit-franco-belge,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,30.0
+2017-03-28,2017,classic-brugge-de-panne,gc,Quick-Step Floors,2.HC,,0,0,,211.0,,,236.0
+2017-03-18,2017,classic-loire-atlantique,gc,France,1.1,,0,0,,0.0,,,0.0
+2017-08-20,2017,cyclassics-hamburg,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,158.0
+2017-01-31,2017,dubai-tour,gc,Quick-Step Floors,2.HC,78.0,0.0,1,,200.0,,,260.0
+2017-03-22,2017,dwars-door-vlaanderen,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,575.0
+2017-03-24,2017,e3-harelbeke,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,472.0
+2017-05-01,2017,eschborn-frankfurt,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,87.0
+2017-03-26,2017,gent-wevelgem,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,580.0
+2017-05-05,2017,giro-d-italia,gc,Quick-Step Floors,2.UWT,,0,0,,260.0,0.0,100.0,840.0
+2017-05-05,2017,giro-d-italia,kom,Quick-Step Floors,2.UWT,,0,0,,260.0,0.0,100.0,840.0
+2017-05-05,2017,giro-d-italia,points,Quick-Step Floors,2.UWT,,0,0,,260.0,0.0,100.0,840.0
+2017-07-19,2017,gp-cerami,gc,Quick-Step Floors,1.1,,,1,,0.0,,,81.0
+2017-09-03,2017,gp-de-fourmies,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,33.0
+2017-05-27,2017,gp-de-plumelec,gc,France,1.1,,0,0,,0.0,,,45.0
+2017-09-13,2017,gp-de-wallonie,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,30.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,310.0
+2017-08-20,2017,gp-jef-scherens,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,20.0
+2017-09-10,2017,gp-montreal,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,130.0
+2017-09-08,2017,gp-quebec,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,210.0
+2017-03-01,2017,gp-samyn,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,95.0
+2017-01-29,2017,great-ocean-road-race,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,214.0
+2017-06-21,2017,halle-ingooigem,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,70.0
+2017-10-07,2017,il-lombardia,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,430.0
+2017-04-03,2017,itzulia-basque-country,gc,Quick-Step Floors,2.UWT,,,1,,260.0,,,330.0
+2017-09-15,2017,kampioenschap-van-vlaanderen1,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,128.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,128.0
+2017-04-19,2017,la-fleche-wallonne,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,332.0
+2017-04-23,2017,liege-bastogne-liege,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,413.0
+2017-10-03,2017,memorial-frank-vandenbroucke,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,155.0
+2017-03-18,2017,milano-sanremo,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,575.0
+2017-10-05,2017,milano-torino,gc,Quick-Step Floors,1.HC,,,1,,0.0,,,35.0
+2017-10-03,2017,munsterland-giro,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,108.0
+2017-06-25,2017,nc-belgium,gc,Quick-Step Floors,NC,,0,0,,0.0,,,10.0
+2017-06-22,2017,nc-belgium-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,41.0
+2017-06-22,2017,nc-czech-republic-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,nc-czech-republic2,gc,Quick-Step Floors,NC,,0,0,,0.0,,,110.0
+2017-06-25,2017,nc-france,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2017-06-22,2017,nc-france-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-germany,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2017-06-23,2017,nc-germany-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2017-06-25,2017,nc-italy,gc,Quick-Step Floors,NC,,0,0,,0.0,,,5.0
+2017-06-25,2017,nc-luxembourg,gc,Quick-Step Floors,NC,,0,0,,0.0,,,70.0
+2017-06-21,2017,nc-luxembourg-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2017-01-08,2017,nc-new-zealand,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2017-01-06,2017,nc-new-zealand-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,30.0
+2017-09-30,2017,omloop-eurometropool,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,8.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,117.0
+2017-08-26,2017,omloop-mandel-leie-schelde-meulebeke,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,130.0
+2017-03-05,2017,paris-nice,gc,Quick-Step Floors,2.UWT,5.0,225.0,1,,630.0,,,785.0
+2017-04-09,2017,paris-roubaix,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,460.0
+2017-10-08,2017,paris-tours,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,475.0
+2017-08-07,2017,renewi-tour,gc,Quick-Step Floors,2.UWT,,0,0,,158.0,,,178.0
+2017-07-30,2017,ride-london-classic,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,52.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,905.0
+2017-07-29,2017,san-sebastian,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,34.0
+2017-04-05,2017,scheldeprijs,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,205.0
+2017-03-04,2017,strade-bianche,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,204.0
+2017-03-09,2017,tirreno-adriatico,gc,Quick-Step Floors,2.UWT,,0,0,,60.0,,,120.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Quick-Step Floors,2.UWT,,0,0,,325.0,,,350.0
+2017-02-21,2017,tour-cycliste-international-la-provence,gc,France,2.1,,0,0,,3.0,,,3.0
+2017-07-01,2017,tour-de-france,gc,Quick-Step Floors,2.UWT,,0,0,,415.0,0.0,0.0,1110.0
+2017-07-01,2017,tour-de-france,kom,Quick-Step Floors,2.UWT,,0,0,,415.0,0.0,0.0,1110.0
+2017-07-01,2017,tour-de-france,points,Quick-Step Floors,2.UWT,,0,0,,415.0,0.0,0.0,1110.0
+2017-08-08,2017,tour-de-l-ain,gc,France,2.1,,0,0,,8.0,,,8.0
+2017-03-20,2017,tour-de-normadie,gc,France,2.2,,0,0,,0.0,,,4.0
+2017-07-29,2017,tour-de-pologne,gc,Quick-Step Floors,2.UWT,,0,0,,56.0,,,64.0
+2017-04-25,2017,tour-de-romandie,gc,Quick-Step Floors,2.UWT,,0,0,,185.0,,,185.0
+2017-06-10,2017,tour-de-suisse,gc,Quick-Step Floors,2.UWT,,0,0,,20.0,,,100.0
+2017-01-17,2017,tour-down-under,gc,Quick-Step Floors,2.UWT,,0,0,,70.0,,,70.0
+2017-09-10,2017,tour-du-doubs,gc,France,1.1,,0,0,,0.0,,,35.0
+2017-05-24,2017,tour-of-belgium,gc,Quick-Step Floors,2.HC,,0,0,,345.0,,,355.0
+2017-09-03,2017,tour-of-britain,gc,Quick-Step Floors,2.HC,,0,0,,24.0,,,69.0
+2017-05-14,2017,tour-of-california,gc,Quick-Step Floors,2.UWT,,0,0,,55.0,,,95.0
+2017-10-19,2017,tour-of-guangxi,gc,Quick-Step Floors,2.UWT,4.0,175.0,1,,226.0,,,401.0
+2017-02-14,2017,tour-of-oman,gc,Quick-Step Floors,2.HC,,0,0,,50.0,,,50.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,0.0
+2017-08-06,2017,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,15.0
+2017-03-20,2017,volta-a-catalunya,gc,Quick-Step Floors,2.UWT,,0,0,,160.0,,,180.0
+2017-02-15,2017,volta-ao-algarve,gc,Quick-Step Floors,2.HC,,0,0,,76.0,,,116.0
+2017-08-01,2017,vuelta-a-burgos,gc,Quick-Step Floors,2.HC,23.0,5.0,1,,280.0,,,335.0
+2017-08-20,2017,vuelta-a-espana,gc,Quick-Step Floors,2.UWT,68.0,0.0,1,,16.0,0.0,40.0,716.0
+2017-08-20,2017,vuelta-a-espana,kom,Quick-Step Floors,2.UWT,25.0,0.0,1,,16.0,0.0,40.0,716.0
+2017-08-20,2017,vuelta-a-espana,points,Quick-Step Floors,2.UWT,20.0,0.0,1,,16.0,0.0,40.0,716.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Quick-Step Floors,2.1,,0,0,,90.0,,,90.0
+2017-01-23,2017,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Quick-Step Floors,2.1,,0,0,,20.0,,,95.0
+2017-09-24,2017,world-championship,gc,France,WC,,,1,,0.0,,,180.0
+2017-09-20,2017,world-championship-itt,gc,France,WC,,0,0,,0.0,,,25.0
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,313.0
+2018-02-21,2018,abu-dhabi-tour,gc,Quick-Step Floors,2.UWT,4.0,175.0,1,,182.0,,,228.0
+2018-06-21,2018,adriatica-ionica-race,gc,Quick-Step Floors,2.1,,0,0,,0.0,,,45.0
+2018-04-15,2018,amstel-gold-race,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,210.0
+2018-05-27,2018,boucles-de-l-aulne,gc,France,1.1,,0,0,,0.0,,,0.0
+2018-04-11,2018,brabantse-pijl,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,100.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,220.0
+2018-08-26,2018,bretagne-classic,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,228.0
+2018-09-01,2018,brussels-cycling-classic,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,100.0
+2018-06-17,2018,circuit-des-xi-villes,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,63.0
+2018-09-22,2018,circuit-franco-belge,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,13.0
+2018-02-11,2018,clasica-de-almeria,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,90.0
+2018-03-21,2018,classic-brugge-de-panne,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,208.0
+2018-02-06,2018,colombia-21,gc,Quick-Step Floors,2.1,7.0,35.0,1,,55.0,,,114.0
+2018-08-19,2018,cyclassics-hamburg,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,432.0
+2018-07-01,2018,danish-championships,gc,Quick-Step Floors,NC,,0,0,,0.0,,,100.0
+2018-08-23,2018,deutschland-tour,gc,Quick-Step Floors,2.1,,0,0,,70.0,,,98.0
+2018-02-06,2018,dubai-tour,gc,Quick-Step Floors,2.HC,,0,0,,211.0,,,256.0
+2018-06-15,2018,dwars-door-het-hageland,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,88.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,485.0
+2018-03-23,2018,e3-harelbeke,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,852.0
+2018-05-01,2018,eschborn-frankfurt,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,34.0
+2018-02-24,2018,faun-ardeche-classic,gc,France,1.1,,0,0,,0.0,,,0.0
+2018-02-24,2018,faun-ardeche-classic,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,128.0
+2018-03-25,2018,gent-wevelgem,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,605.0
+2018-05-04,2018,giro-d-italia,gc,Quick-Step Floors,2.UWT,,0,0,,36.0,0.0,100.0,628.0
+2018-05-04,2018,giro-d-italia,kom,Quick-Step Floors,2.UWT,,0,0,,36.0,0.0,100.0,628.0
+2018-05-04,2018,giro-d-italia,points,Quick-Step Floors,2.UWT,,0,0,,36.0,0.0,100.0,628.0
+2018-09-23,2018,gp-d-isbergues,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,208.0
+2018-09-02,2018,gp-de-fourmies,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,133.0
+2018-05-26,2018,gp-de-plumelec,gc,France,1.1,,0,0,,0.0,,,10.0
+2018-09-09,2018,gp-montreal,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,33.0
+2018-09-07,2018,gp-quebec,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,185.0
+2018-02-27,2018,gp-samyn,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,215.0
+2018-10-11,2018,gran-piemonte,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,195.0
+2018-01-28,2018,great-ocean-road-race,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,447.0
+2018-08-24,2018,great-war-remembrance-race,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,95.0
+2018-06-19,2018,halle-ingooigem,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,88.0
+2018-10-13,2018,il-lombardia,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,35.0
+2018-04-02,2018,itzulia-basque-country,gc,Quick-Step Floors,2.UWT,35.0,8.0,1,,164.0,,,314.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,30.0
+2018-02-25,2018,la-drome-classic,gc,France,1.1,,0,0,,0.0,,,0.0
+2018-02-25,2018,la-drome-classic,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,195.0
+2018-04-18,2018,la-fleche-wallonne,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,540.0
+2018-04-22,2018,liege-bastogne-liege,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,805.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,105.0
+2018-03-17,2018,milano-sanremo,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,70.0
+2018-10-10,2018,milano-torino,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,5.0
+2018-10-03,2018,munsterland-giro,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,78.0
+2018-04-01,2018,nc-argentina,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-belgium,gc,Quick-Step Floors,NC,,0,0,,0.0,,,225.0
+2018-06-21,2018,nc-belgium-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,35.0
+2018-02-04,2018,nc-colombia,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-21,2018,nc-czech-republic-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-czech-republic2,gc,Quick-Step Floors,NC,,0,0,,0.0,,,40.0
+2018-06-28,2018,nc-denmark-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2018-07-18,2018,nc-ecuador,gc,Quick-Step Floors,NC,,0,0,,0.0,,,30.0
+2018-07-01,2018,nc-france,gc,Quick-Step Floors,NC,,,1,,0.0,,,61.0
+2018-06-28,2018,nc-france-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-germany,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-29,2018,nc-germany-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,15.0
+2018-06-30,2018,nc-italy,gc,Quick-Step Floors,NC,,0,0,,0.0,,,103.0
+2018-10-04,2018,nc-italy-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,1.0
+2018-07-01,2018,nc-luxembourg,gc,Quick-Step Floors,NC,,0,0,,0.0,,,100.0
+2018-06-28,2018,nc-luxembourg-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,25.0
+2018-07-01,2018,nc-netherlands,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-06-27,2018,nc-netherlands-itt,gc,Quick-Step Floors,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-spain,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,ncgreat-britain,gc,Quick-Step Floors,NC,,0,0,,0.0,,,0.0
+2018-03-14,2018,nokere-koerse,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,211.0
+2018-09-12,2018,okolo-slovenska,gc,Quick-Step Floors,2.1,1.0,125.0,1,,125.0,,,188.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,147.0
+2018-05-06,2018,panamerican-championships,gc,Quick-Step Floors,CC,,0,0,,0.0,,,200.0
+2018-03-04,2018,paris-nice,gc,Quick-Step Floors,2.UWT,18.0,30.0,1,,40.0,,,85.0
+2018-04-08,2018,paris-roubaix,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,490.0
+2018-10-07,2018,paris-tours,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,210.0
+2018-08-13,2018,renewi-tour,gc,Quick-Step Floors,2.UWT,,0,0,,372.0,,,446.0
+2018-07-29,2018,ride-london-classic,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,251.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,940.0
+2018-08-04,2018,san-sebastian,gc,Quick-Step Floors,1.UWT,,,1,,0.0,,,460.0
+2018-04-04,2018,scheldeprijs,gc,Quick-Step Floors,1.HC,,0,0,,0.0,,,211.0
+2018-03-03,2018,strade-bianche,gc,Quick-Step Floors,1.UWT,,0,0,,0.0,,,172.0
+2018-03-08,2018,tirreno-adriatico,gc,Quick-Step Floors,2.UWT,,0,0,,60.0,,,70.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,France,2.2U,,0,0,,0.0,,,0.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Quick-Step Floors,2.UWT,21.0,20.0,1,,40.0,,,125.0
+2018-07-07,2018,tour-de-france,gc,Quick-Step Floors,2.UWT,33.0,25.0,1,,175.0,120.0,0.0,840.0
+2018-07-07,2018,tour-de-france,kom,Quick-Step Floors,2.UWT,1.0,120.0,1,,175.0,120.0,0.0,840.0
+2018-07-07,2018,tour-de-france,points,Quick-Step Floors,2.UWT,5.0,0.0,1,,175.0,120.0,0.0,840.0
+2018-08-04,2018,tour-de-pologne,gc,Quick-Step Floors,2.UWT,,0,0,,48.0,,,138.0
+2018-04-24,2018,tour-de-romandie,gc,Quick-Step Floors,2.UWT,,0,0,,10.0,,,35.0
+2018-06-10,2018,tour-de-suisse,gc,Quick-Step Floors,2.UWT,,0,0,,285.0,,,395.0
+2018-07-28,2018,tour-de-wallonie,gc,Quick-Step Floors,2.HC,,0,0,,280.0,,,300.0
+2018-05-22,2018,tour-des-fjords,gc,Quick-Step Floors,2.HC,,0,0,,8.0,,,28.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,France,1.Ncup,,0,0,,0.0,,,10.0
+2018-01-16,2018,tour-down-under,gc,Quick-Step Floors,2.UWT,,0,0,,275.0,,,335.0
+2018-09-02,2018,tour-of-britain,gc,Quick-Step Floors,2.HC,1.0,200.0,1,,285.0,,,330.0
+2018-05-13,2018,tour-of-california,gc,Quick-Step Floors,2.UWT,,0,0,,85.0,,,205.0
+2018-10-16,2018,tour-of-guangxi,gc,Quick-Step Floors,2.UWT,,0,0,,270.0,,,371.0
+2018-02-13,2018,tour-of-oman,gc,Quick-Step Floors,2.HC,,0,0,,81.0,,,81.0
+2018-10-09,2018,tour-of-turkey,gc,Quick-Step Floors,2.UWT,,0,0,,34.0,,,144.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,0.0
+2018-08-12,2018,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,75.0
+2018-03-19,2018,volta-a-catalunya,gc,Quick-Step Floors,2.UWT,,0,0,,32.0,,,132.0
+2018-02-14,2018,volta-ao-algarve,gc,Quick-Step Floors,2.HC,,0,0,,165.0,,,165.0
+2018-08-25,2018,vuelta-a-espana,gc,Quick-Step Floors,2.UWT,,0,0,,680.0,0.0,20.0,1136.0
+2018-08-25,2018,vuelta-a-espana,kom,Quick-Step Floors,2.UWT,,0,0,,680.0,0.0,20.0,1136.0
+2018-08-25,2018,vuelta-a-espana,points,Quick-Step Floors,2.UWT,,0,0,,680.0,0.0,20.0,1136.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Quick-Step Floors,2.1,,0,0,,30.0,,,66.0
+2018-02-10,2018,vuelta-ciclista-a-la-region-de-murcia,gc,Quick-Step Floors,1.1,,0,0,,0.0,,,161.0
+2018-09-30,2018,world-championship,gc,France,WC,,,1,,0.0,,,773.0
+2018-09-26,2018,world-championship-itt,gc,France,WC,,0,0,,0.0,,,5.0
+2019-07-25,2019,adriatica-ionica-race,gc,Deceuninck - Quick Step,2.1,,0,0,,120.0,,,175.0
+2019-04-21,2019,amstel-gold-race,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,305.0
+2019-04-17,2019,brabantse-pijl,gc,Deceuninck - Quick Step,1.HC,,,1,,0.0,,,195.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,130.0
+2019-09-01,2019,bretagne-classic,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,88.0
+2019-09-07,2019,brussels-cycling-classic,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,30.0
+2019-06-23,2019,circuit-des-xi-villes,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,90.0
+2019-10-05,2019,circuit-franco-belge,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,163.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,247.0
+2019-02-13,2019,colombia-21,gc,Deceuninck - Quick Step,2.1,7.0,35.0,1,,35.0,,,85.0
+2019-08-25,2019,cyclassics-hamburg,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,448.0
+2019-06-30,2019,danish-championships,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,175.0
+2019-08-29,2019,deutschland-tour,gc,Deceuninck - Quick Step,2.HC,94.0,0.0,1,,149.0,,,184.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,302.0
+2019-03-29,2019,e3-harelbeke,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,686.0
+2019-06-23,2019,european-games,gc,France,JC,,0,0,,0.0,,,15.0
+2019-03-31,2019,gent-wevelgem,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,60.0
+2019-05-11,2019,giro-d-italia,gc,Deceuninck - Quick Step,2.UWT,,0,0,,60.0,0.0,0.0,228.0
+2019-05-11,2019,giro-d-italia,kom,Deceuninck - Quick Step,2.UWT,,0,0,,60.0,0.0,0.0,228.0
+2019-05-11,2019,giro-d-italia,points,Deceuninck - Quick Step,2.UWT,,0,0,,60.0,0.0,0.0,228.0
+2019-09-22,2019,gp-d-isbergues,gc,France,1.1,,0,0,,0.0,,,6.0
+2019-09-21,2019,gp-impanis-van-petegem,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,16.0
+2019-09-15,2019,gp-montreal,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,115.0
+2019-09-13,2019,gp-quebec,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,175.0
+2019-03-05,2019,gp-samyn,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,213.0
+2019-01-27,2019,great-ocean-road-race,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,405.0
+2019-06-26,2019,halle-ingooigem,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,70.0
+2019-06-22,2019,heist-op-den-berg,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,155.0
+2019-10-12,2019,il-lombardia,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,60.0
+2019-04-08,2019,itzulia-basque-country,gc,Deceuninck - Quick Step,2.UWT,,,1,,68.0,,,118.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,136.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,361.0
+2019-04-24,2019,la-fleche-wallonne,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,424.0
+2019-04-28,2019,liege-bastogne-liege,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,36.0
+2019-10-08,2019,memorial-frank-vandenbroucke,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,35.0
+2019-03-23,2019,milano-sanremo,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,500.0
+2019-10-09,2019,milano-torino,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,38.0
+2019-10-03,2019,munsterland-giro,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,213.0
+2019-04-28,2019,nc-argentina,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-belgium,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,53.0
+2019-06-27,2019,nc-belgium-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2019-06-27,2019,nc-czech-republic-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-czech-republic2,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,63.0
+2019-06-27,2019,nc-denmark-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-france,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-france-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,10.0
+2019-06-30,2019,nc-italy,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2019-06-28,2019,nc-italy-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-luxembourg,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,100.0
+2019-06-28,2019,nc-luxembourg-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-netherlands,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,100.0
+2019-03-20,2019,nokere-koerse,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,0.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,490.0
+2019-03-10,2019,paris-nice,gc,Deceuninck - Quick Step,2.UWT,,0,0,,160.0,,,190.0
+2019-04-14,2019,paris-roubaix,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,1135.0
+2019-08-12,2019,renewi-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,92.0,,,142.0
+2019-08-04,2019,ride-london-classic,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,538.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,470.0
+2019-08-03,2019,san-sebastian,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,524.0
+2019-04-10,2019,scheldeprijs,gc,Deceuninck - Quick Step,1.HC,,0,0,,0.0,,,205.0
+2019-03-09,2019,strade-bianche,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,551.0
+2019-10-12,2019,tacx-pro-classic,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,85.0
+2019-03-14,2019,tirreno-adriatico,gc,Deceuninck - Quick Step,2.UWT,6.0,175.0,1,,188.0,,,378.0
+2019-07-21,2019,tokyo-2020-test-event,gc,France,1.2,,0,0,,0.0,,,35.0
+2019-08-01,2019,tour-alsace,gc,France,2.2,,0,0,,0.0,,,0.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Deceuninck - Quick Step,2.UWT,35.0,10.0,1,,30.0,,,125.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Deceuninck - Quick Step,2.1,,0,0,,23.0,,,40.0
+2019-07-06,2019,tour-de-france,gc,Deceuninck - Quick Step,2.UWT,5.0,475.0,1,,515.0,0.0,25.0,1140.0
+2019-07-06,2019,tour-de-france,kom,Deceuninck - Quick Step,2.UWT,14.0,0.0,1,,515.0,0.0,25.0,1140.0
+2019-07-06,2019,tour-de-france,points,Deceuninck - Quick Step,2.UWT,10.0,0.0,1,,515.0,0.0,25.0,1140.0
+2019-08-03,2019,tour-de-pologne,gc,Deceuninck - Quick Step,2.UWT,,0,0,,78.0,,,86.0
+2019-04-30,2019,tour-de-romandie,gc,Deceuninck - Quick Step,2.UWT,,0,0,,40.0,,,40.0
+2019-06-15,2019,tour-de-suisse,gc,Deceuninck - Quick Step,2.UWT,,0,0,,110.0,,,340.0
+2019-01-15,2019,tour-down-under,gc,Deceuninck - Quick Step,2.UWT,,0,0,,115.0,,,175.0
+2019-04-17,2019,tour-du-loir-et-cher,gc,France,2.2,,0,0,,0.0,,,3.0
+2019-06-12,2019,tour-of-belgium,gc,Deceuninck - Quick Step,2.HC,,0,0,,200.0,,,240.0
+2019-05-12,2019,tour-of-california,gc,Deceuninck - Quick Step,2.UWT,,0,0,,222.0,,,357.0
+2019-10-17,2019,tour-of-guangxi,gc,Deceuninck - Quick Step,2.UWT,,0,0,,355.0,,,395.0
+2019-05-28,2019,tour-of-norway,gc,Deceuninck - Quick Step,2.HC,,0,0,,8.0,,,38.0
+2019-02-24,2019,tour-of-rwanda,gc,France,2.1,,0,0,,15.0,,,15.0
+2019-04-16,2019,tour-of-turkey,gc,Deceuninck - Quick Step,2.UWT,,0,0,,195.0,,,265.0
+2019-02-25,2019,uae-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,87.0,,,142.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,0.0
+2019-08-11,2019,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,65.0
+2019-03-25,2019,volta-a-catalunya,gc,Deceuninck - Quick Step,2.UWT,,0,0,,96.0,,,116.0
+2019-02-20,2019,volta-ao-algarve,gc,Deceuninck - Quick Step,2.HC,,0,0,,173.0,,,223.0
+2019-08-25,2019,vuelta-a-espana,gc,Deceuninck - Quick Step,2.UWT,,0,0,,164.0,0.0,0.0,788.0
+2019-08-25,2019,vuelta-a-espana,kom,Deceuninck - Quick Step,2.UWT,,0,0,,164.0,0.0,0.0,788.0
+2019-08-25,2019,vuelta-a-espana,points,Deceuninck - Quick Step,2.UWT,,0,0,,164.0,0.0,0.0,788.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Deceuninck - Quick Step,2.1,2.0,85.0,1,,110.0,,,149.0
+2019-09-29,2019,world-championship,gc,France,WC,,,1,,0.0,,,50.0
+2019-09-25,2019,world-championship-itt,gc,France,WC,,0,0,,0.0,,,5.0
+2020-10-07,2020,brabantse-pijl,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,295.0
+2020-08-25,2020,bretagne-classic,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,268.0
+2020-08-30,2020,brussels-cycling-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,155.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,725.0
+2020-02-12,2020,colombia-21,gc,Deceuninck - Quick Step,2.1,72.0,0.0,1,,0.0,,,16.0
+2020-08-23,2020,danish-championships,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,161.0
+2020-08-29,2020,druivenkoers-overijse,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,193.0
+2020-08-15,2020,dwars-door-het-hageland,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,105.0
+2020-02-29,2020,faun-ardeche-classic,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,298.0
+2020-10-11,2020,gent-wevelgem,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,630.0
+2020-10-03,2020,giro-d-italia,gc,Deceuninck - Quick Step,2.UWT,,0,0,,756.0,0.0,20.0,984.0
+2020-10-03,2020,giro-d-italia,kom,Deceuninck - Quick Step,2.UWT,,0,0,,756.0,0.0,20.0,984.0
+2020-10-03,2020,giro-d-italia,points,Deceuninck - Quick Step,2.UWT,,0,0,,756.0,0.0,20.0,984.0
+2020-08-18,2020,giro-dell-emilia,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,240.0
+2020-09-20,2020,gooikse-pijl,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,0.0
+2020-09-20,2020,gp-d-isbergues,gc,France,1.1,,0,0,,0.0,,,3.0
+2020-03-03,2020,gp-samyn,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,80.0
+2020-08-12,2020,gran-piemonte,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,85.0
+2020-02-02,2020,great-ocean-road-race,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,337.0
+2020-03-08,2020,grote-prijs-jean-pierre-monsere,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,160.0
+2020-08-15,2020,il-lombardia,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,3.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,303.0
+2020-03-01,2020,la-drome-classic,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,10.0
+2020-09-30,2020,la-fleche-wallonne,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,32.0
+2020-10-04,2020,liege-bastogne-liege,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,225.0
+2020-08-08,2020,milano-sanremo,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,433.0
+2020-08-05,2020,milano-torino,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,10.0
+2020-09-22,2020,nc-belgium,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,135.0
+2020-08-22,2020,nc-czech-republic2,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,75.0
+2020-10-03,2020,nc-denmark-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-france,gc,Deceuninck - Quick Step,NC,,,1,,0.0,,,60.0
+2020-08-21,2020,nc-france-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-italy,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,85.0
+2020-08-23,2020,nc-luxembourg,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,75.0
+2020-08-20,2020,nc-luxembourg-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2020-02-16,2020,nc-new-zealand,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,100.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,435.0
+2020-03-08,2020,paris-nice,gc,Deceuninck - Quick Step,2.UWT,16.0,30.0,1,,130.0,,,140.0
+2020-01-30,2020,race-torquay,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,175.0
+2020-09-29,2020,renewi-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,380.0,,,380.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,348.0
+2020-10-14,2020,scheldeprijs,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,60.0
+2020-08-01,2020,strade-bianche,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,127.0
+2020-09-07,2020,tirreno-adriatico,gc,Deceuninck - Quick Step,2.UWT,,0,0,,325.0,,,350.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Deceuninck - Quick Step,2.UWT,24.0,20.0,1,,30.0,,,40.0
+2020-02-13,2020,tour-cycliste-international-la-provence,gc,Deceuninck - Quick Step,2.Pro,,0,0,,8.0,,,13.0
+2020-08-29,2020,tour-de-france,gc,Deceuninck - Quick Step,2.UWT,36.0,25.0,1,,45.0,0.0,120.0,555.0
+2020-08-29,2020,tour-de-france,kom,Deceuninck - Quick Step,2.UWT,15.0,0.0,1,,45.0,0.0,120.0,555.0
+2020-08-29,2020,tour-de-france,points,Deceuninck - Quick Step,2.UWT,7.0,0.0,1,,45.0,0.0,120.0,555.0
+2020-08-07,2020,tour-de-l-ain,gc,Deceuninck - Quick Step,2.1,,0,0,,35.0,,,49.0
+2020-08-05,2020,tour-de-pologne,gc,Deceuninck - Quick Step,2.UWT,,0,0,,400.0,,,558.0
+2020-08-16,2020,tour-de-wallonie,gc,Deceuninck - Quick Step,2.Pro,,0,0,,100.0,,,130.0
+2020-01-21,2020,tour-down-under,gc,Deceuninck - Quick Step,2.UWT,,0,0,,110.0,,,205.0
+2020-09-06,2020,tour-du-doubs,gc,France,1.1,,0,0,,0.0,,,0.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Deceuninck - Quick Step,2.1,,0,0,,6.0,,,11.0
+2020-02-23,2020,uae-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,12.0,,,27.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,58.0
+2020-08-26,2020,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,250.0
+2020-02-19,2020,volta-ao-algarve,gc,Deceuninck - Quick Step,2.Pro,,0,0,,240.0,,,310.0
+2020-07-28,2020,vuelta-a-burgos,gc,Deceuninck - Quick Step,2.Pro,,0,0,,328.0,,,388.0
+2020-10-20,2020,vuelta-a-espana,gc,Deceuninck - Quick Step,2.UWT,,0,0,,52.0,0.0,0.0,252.0
+2020-10-20,2020,vuelta-a-espana,kom,Deceuninck - Quick Step,2.UWT,,0,0,,52.0,0.0,0.0,252.0
+2020-10-20,2020,vuelta-a-espana,points,Deceuninck - Quick Step,2.UWT,,0,0,,52.0,0.0,0.0,252.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Deceuninck - Quick Step,2.Pro,,0,0,,20.0,,,60.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Deceuninck - Quick Step,2.Pro,,,1,,200.0,,,250.0
+2020-09-27,2020,world-championship,gc,France,WC,,,1,,0.0,,,710.0
+2020-09-25,2020,world-championship-itt,gc,France,WC,,0,0,,0.0,,,85.0
+2021-04-18,2021,amstel-gold-race,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,175.0
+2021-10-17,2021,boucles-de-l-aulne,gc,France,1.1,,0,0,,0.0,,,0.0
+2021-04-14,2021,brabantse-pijl,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,43.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,138.0
+2021-08-29,2021,bretagne-classic,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,646.0
+2021-08-28,2021,brussels-cycling-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,203.0
+2021-10-17,2021,chrono-des-nations,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,53.0
+2021-10-07,2021,circuit-des-ardennes,gc,France,2.2,,0,0,,10.0,,,10.0
+2021-06-06,2021,circuit-des-xi-villes,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,138.0
+2021-09-29,2021,circuit-franco-belge,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,210.0
+2021-02-14,2021,clasica-de-almeria,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,160.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,387.0
+2021-09-03,2021,classic-grand-besancon-doubs,gc,France,1.1,,0,0,,0.0,,,0.0
+2021-10-04,2021,coppa-bernocchi,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,328.0
+2021-06-20,2021,danish-championships,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,40.0
+2021-08-26,2021,deutschland-tour,gc,Deceuninck - Quick Step,2.Pro,,0,0,,35.0,,,35.0
+2021-08-26,2021,druivenkoers-overijse,gc,Deceuninck - Quick Step,1.1,,,1,,0.0,,,280.0
+2021-06-05,2021,dwars-door-het-hageland,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,125.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,259.0
+2021-03-26,2021,e3-harelbeke,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,956.0
+2021-02-27,2021,faun-ardeche-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,105.0
+2021-03-28,2021,gent-wevelgem,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,110.0
+2021-05-08,2021,giro-d-italia,gc,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,0.0,0.0,508.0
+2021-05-08,2021,giro-d-italia,kom,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,0.0,0.0,508.0
+2021-05-08,2021,giro-d-italia,points,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,0.0,0.0,508.0
+2021-10-02,2021,giro-dell-emilia,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,243.0
+2021-09-19,2021,gooikse-pijl,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,125.0
+2021-09-19,2021,gp-d-isbergues,gc,France,1.1,,0,0,,0.0,,,13.0
+2021-09-12,2021,gp-de-fourmies,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,60.0
+2021-10-16,2021,gp-de-plumelec,gc,France,1.Pro,,0,0,,0.0,,,75.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,470.0
+2021-03-07,2021,gp-industria-artigianato,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,208.0
+2021-03-02,2021,gp-samyn,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,0.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,85.0
+2021-08-20,2021,grote-prijs-marcel-kint,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,150.0
+2021-07-31,2021,heist-op-den-berg,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,148.0
+2021-10-09,2021,il-lombardia,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,615.0
+2021-04-05,2021,itzulia-basque-country,gc,Deceuninck - Quick Step,2.UWT,,0,0,,92.0,,,162.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,0.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,43.0
+2021-02-28,2021,la-drome-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,336.0
+2021-04-21,2021,la-fleche-wallonne,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,424.0
+2021-06-10,2021,la-route-d-occitanie,gc,France,2.1,,0,0,,3.0,,,3.0
+2021-04-25,2021,liege-bastogne-liege,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,420.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,8.0
+2021-03-20,2021,milano-sanremo,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,65.0
+2021-10-06,2021,milano-torino,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,185.0
+2021-10-03,2021,munsterland-giro,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,380.0
+2021-06-20,2021,nc-belgium,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,61.0
+2021-06-16,2021,nc-belgium-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,80.0
+2021-06-17,2021,nc-czech-republic-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,55.0
+2021-06-20,2021,nc-czech-republic2,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-denmark-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-france,gc,Deceuninck - Quick Step,NC,,,1,,0.0,,,100.0
+2021-06-17,2021,nc-france-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,20.0
+2021-10-03,2021,nc-ireland,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,78.0
+2021-06-18,2021,nc-italy-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-netherlands,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-portugal,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-portugal2,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-united-states,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-usa-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-10-17,2021,ncgreat-britain,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,5.0
+2021-09-15,2021,okolo-slovenska,gc,Deceuninck - Quick Step,2.1,,0,0,,85.0,,,121.0
+2021-07-24,2021,olympic-games,gc,France,Olympics,,0,0,,0.0,,,208.0
+2021-07-28,2021,olympic-games-itt,gc,France,Olympics,,0,0,,0.0,,,5.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,402.0
+2021-03-07,2021,paris-nice,gc,Deceuninck - Quick Step,2.UWT,,0,0,,25.0,,,110.0
+2021-10-03,2021,paris-roubaix,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,248.0
+2021-08-30,2021,renewi-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,56.0,,,64.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,640.0
+2021-05-18,2021,ruta-del-sol,gc,Deceuninck - Quick Step,2.Pro,,0,0,,0.0,,,10.0
+2021-07-31,2021,san-sebastian,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,424.0
+2021-04-07,2021,scheldeprijs,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,285.0
+2021-03-06,2021,strade-bianche,gc,Deceuninck - Quick Step,1.UWT,,,1,,0.0,,,267.0
+2021-03-10,2021,tirreno-adriatico,gc,Deceuninck - Quick Step,2.UWT,41.0,10.0,1,,198.0,,,268.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,,,10.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Deceuninck - Quick Step,2.Pro,2.0,150.0,1,,200.0,,,255.0
+2021-06-26,2021,tour-de-france,gc,Deceuninck - Quick Step,2.UWT,30.0,30.0,1,,155.0,0.0,120.0,970.0
+2021-06-26,2021,tour-de-france,kom,Deceuninck - Quick Step,2.UWT,16.0,0.0,1,,155.0,0.0,120.0,970.0
+2021-06-26,2021,tour-de-france,points,Deceuninck - Quick Step,2.UWT,7.0,0.0,1,,155.0,0.0,120.0,970.0
+2021-07-29,2021,tour-de-l-ain,gc,Deceuninck - Quick Step,2.1,,0,0,,60.0,,,79.0
+2021-07-29,2021,tour-de-l-ain,gc,France,2.1,,0,0,,3.0,,,3.0
+2021-09-14,2021,tour-de-luxembourg,gc,Deceuninck - Quick Step,2.Pro,,0,0,,348.0,,,418.0
+2021-08-09,2021,tour-de-pologne,gc,Deceuninck - Quick Step,2.UWT,,0,0,,596.0,,,786.0
+2021-04-27,2021,tour-de-romandie,gc,Deceuninck - Quick Step,2.UWT,,0,0,,388.0,,,448.0
+2021-06-06,2021,tour-de-suisse,gc,Deceuninck - Quick Step,2.UWT,,,1,,110.0,,,165.0
+2021-07-20,2021,tour-de-wallonie,gc,Deceuninck - Quick Step,2.Pro,,0,0,,10.0,,,50.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,France,2.2,,0,0,,15.0,,,16.0
+2021-09-05,2021,tour-du-doubs,gc,France,1.1,,0,0,,0.0,,,0.0
+2021-09-04,2021,tour-du-jura-cycliste,gc,France,1.1,,0,0,,0.0,,,40.0
+2021-06-09,2021,tour-of-belgium,gc,Deceuninck - Quick Step,2.Pro,,0,0,,353.0,,,428.0
+2021-09-05,2021,tour-of-britain,gc,Deceuninck - Quick Step,2.Pro,3.0,125.0,1,,230.0,,,270.0
+2021-08-10,2021,tour-of-denmark,gc,Deceuninck - Quick Step,2.Pro,,0,0,,220.0,,,270.0
+2021-04-11,2021,tour-of-turkey,gc,Deceuninck - Quick Step,2.Pro,,0,0,,0.0,,,85.0
+2021-03-03,2021,trofeo-laigueglia,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,195.0
+2021-02-21,2021,uae-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,,,441.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,5.0
+2021-09-12,2021,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,190.0
+2021-03-22,2021,volta-a-catalunya,gc,Deceuninck - Quick Step,2.UWT,,0,0,,156.0,,,184.0
+2021-05-05,2021,volta-ao-algarve,gc,Deceuninck - Quick Step,2.Pro,,0,0,,125.0,,,190.0
+2021-08-14,2021,vuelta-a-espana,gc,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,0.0,100.0,608.0
+2021-08-14,2021,vuelta-a-espana,kom,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,0.0,100.0,608.0
+2021-08-14,2021,vuelta-a-espana,points,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,0.0,100.0,608.0
+2021-09-26,2021,world-championship,gc,France,WC,,,1,,0.0,,,818.0
+2021-09-19,2021,world-championship-itt,gc,France,WC,,0,0,,0.0,,,20.0
+2022-02-01,2022,alula-tour,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,63.0,,,74.0
+2022-04-10,2022,amstel-gold-race,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,230.0
+2022-04-13,2022,brabantse-pijl,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,85.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,40.0
+2022-08-28,2022,bretagne-classic,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,40.0
+2022-06-05,2022,brussels-cycling-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,8.0
+2022-03-20,2022,cholet-pays-de-loire,gc,France,1.1,,0,0,,0.0,,,6.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,125.0
+2022-08-10,2022,circuit-franco-belge,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,8.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,66.0
+2022-03-19,2022,classic-loire-atlantique,gc,France,1.1,,0,0,,0.0,,,56.0
+2022-10-03,2022,coppa-bernocchi,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,200.0
+2022-08-21,2022,cyclassics-hamburg,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,40.0
+2022-06-26,2022,danish-championships,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,60.0
+2022-08-24,2022,deutschland-tour,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,155.0,,,170.0
+2022-08-24,2022,druivenkoers-overijse,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,5.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,233.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,37.0
+2022-03-25,2022,e3-harelbeke,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,80.0
+2022-02-26,2022,faun-ardeche-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,160.0
+2022-03-27,2022,gent-wevelgem,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,20.0
+2022-05-06,2022,giro-d-italia,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,24.0,0.0,20.0,220.0
+2022-05-06,2022,giro-d-italia,kom,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,24.0,0.0,20.0,220.0
+2022-05-06,2022,giro-d-italia,points,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,24.0,0.0,20.0,220.0
+2022-10-01,2022,giro-dell-emilia,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,13.0
+2022-09-18,2022,gooikse-pijl,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,5.0
+2022-09-11,2022,gp-de-fourmies,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,75.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,0.0
+2022-08-07,2022,gp-jef-scherens,gc,Quick-Step Alpha Vinyl Team,1.1,,,1,,0.0,,,110.0
+2022-09-11,2022,gp-montreal,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,585.0
+2022-09-09,2022,gp-quebec,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,240.0
+2022-03-01,2022,gp-samyn,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,33.0
+2022-10-06,2022,gran-piemonte,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,60.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,53.0
+2022-06-04,2022,heist-op-den-berg,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,70.0
+2022-10-08,2022,il-lombardia,gc,Quick-Step Alpha Vinyl Team,1.UWT,,,1,,0.0,,,115.0
+2022-04-04,2022,itzulia-basque-country,gc,Quick-Step Alpha Vinyl Team,2.UWT,24.0,16.0,1,,244.0,,,370.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,125.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,200.0
+2022-02-27,2022,la-drome-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,90.0
+2022-04-20,2022,la-fleche-wallonne,gc,Quick-Step Alpha Vinyl Team,1.UWT,,,1,,0.0,,,228.0
+2022-04-24,2022,liege-bastogne-liege,gc,Quick-Step Alpha Vinyl Team,1.UWT,,,1,,0.0,,,520.0
+2022-06-30,2022,mediterranean-games-itt,gc,France,JR,,0,0,,0.0,,,0.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,0.0
+2022-10-09,2022,memorial-rik-van-steenbergen,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,85.0
+2022-07-02,2022,mersin-mediterranean-games,gc,France,JR,,0,0,,0.0,,,0.0
+2022-03-19,2022,milano-sanremo,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,53.0
+2022-03-16,2022,milano-torino,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,260.0
+2022-10-03,2022,munsterland-giro,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,81.0
+2022-06-26,2022,nc-belgium,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-belgium-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,83.0
+2022-06-23,2022,nc-czech-republic-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,3.0
+2022-06-23,2022,nc-denmark-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-france,gc,Quick-Step Alpha Vinyl Team,NC,,,1,,0.0,,,101.0
+2022-06-23,2022,nc-france-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-germany,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,5.0
+2022-06-24,2022,nc-germany-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-italy,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-italy-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-24,2022,nc-netherlands,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-switserland,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,50.0
+2022-06-23,2022,nc-switzerland-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,ncgreat-britain,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,100.0
+2022-03-16,2022,nokere-koerse,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,170.0
+2022-09-13,2022,okolo-slovenska,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,210.0,,,254.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,60.0
+2022-03-06,2022,paris-nice,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,30.0,,,90.0
+2022-04-17,2022,paris-roubaix,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,168.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,0.0,,,3.0
+2022-06-06,2022,ronde-van-limburg,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,6.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,65.0
+2022-02-16,2022,ruta-del-sol,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,55.0,,,60.0
+2022-07-30,2022,san-sebastian,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,408.0
+2022-04-06,2022,scheldeprijs,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,25.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,0.0,,,33.0
+2022-03-05,2022,strade-bianche,gc,Quick-Step Alpha Vinyl Team,1.UWT,,,1,,0.0,,,221.0
+2022-03-07,2022,tirreno-adriatico,gc,Quick-Step Alpha Vinyl Team,2.UWT,33.0,10.0,1,,80.0,,,105.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,50.0,,,50.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Quick-Step Alpha Vinyl Team,2.Pro,2.0,150.0,1,,258.0,,,273.0
+2022-07-01,2022,tour-de-france,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,0.0,0.0,0.0,260.0
+2022-07-01,2022,tour-de-france,kom,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,0.0,0.0,0.0,260.0
+2022-07-01,2022,tour-de-france,points,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,0.0,0.0,0.0,260.0
+2022-05-11,2022,tour-de-hongrie,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,0.0,,,33.0
+2022-08-09,2022,tour-de-l-ain,gc,Quick-Step Alpha Vinyl Team,2.1,16.0,3.0,1,,33.0,,,36.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,France,2.2,,0,0,,8.0,,,15.0
+2022-09-13,2022,tour-de-luxembourg,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,8.0,,,28.0
+2022-07-30,2022,tour-de-pologne,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,158.0,,,158.0
+2022-04-26,2022,tour-de-romandie,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,30.0,,,30.0
+2022-06-12,2022,tour-de-suisse,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,103.0,,,163.0
+2022-07-23,2022,tour-de-wallonie,gc,Quick-Step Alpha Vinyl Team,2.Pro,,,1,,0.0,,,40.0
+2022-06-15,2022,tour-of-belgium,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,205.0,,,255.0
+2022-08-16,2022,tour-of-denmark,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,101.0,,,106.0
+2022-05-24,2022,tour-of-norway,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,210.0,,,290.0
+2022-02-10,2022,tour-of-oman,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,188.0,,,248.0
+2022-02-20,2022,uae-tour,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,12.0,,,52.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,15.0
+2022-08-14,2022,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,205.0
+2022-03-21,2022,volta-a-catalunya,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,2.0,,,102.0
+2022-02-16,2022,volta-ao-algarve,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,203.0,,,263.0
+2022-08-02,2022,vuelta-a-burgos,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,106.0,,,106.0
+2022-08-20,2022,vuelta-a-espana,gc,Quick-Step Alpha Vinyl Team,2.UWT,,,1,,886.0,0.0,0.0,1162.0
+2022-08-20,2022,vuelta-a-espana,kom,Quick-Step Alpha Vinyl Team,2.UWT,,,1,,886.0,0.0,0.0,1162.0
+2022-08-20,2022,vuelta-a-espana,points,Quick-Step Alpha Vinyl Team,2.UWT,,,1,,886.0,0.0,0.0,1162.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,150.0,,,210.0
+2022-09-25,2022,world-championship,gc,France,WC,,,1,,0.0,,,540.0
+2022-09-18,2022,world-championship-itt,gc,France,WC,,0,0,,0.0,,,90.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Soudal Quick-Step,2.Pro,,0,0,,226.0,,,281.0
+2023-04-16,2023,amstel-gold-race,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,225.0
+2023-04-12,2023,brabantse-pijl,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,160.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,11.0
+2023-09-03,2023,bretagne-classic,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,28.0
+2023-06-04,2023,brussels-cycling-classic,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,30.0
+2023-10-15,2023,chrono-des-nations,gc,France,1.1,,0,0,,0.0,,,5.0
+2023-10-15,2023,chrono-des-nations,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,145.0
+2023-06-11,2023,circuit-des-xi-villes,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,98.0
+2023-09-28,2023,circuit-franco-belge,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,166.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,410.0
+2023-10-02,2023,coppa-bernocchi,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,260.0
+2023-08-20,2023,cyclassics-hamburg,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,226.0
+2023-06-25,2023,danish-championships,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,0.0
+2023-01-28,2023,deia-trophy,gc,Soudal Quick-Step,1.1,,,1,,0.0,,,73.0
+2023-08-23,2023,deutschland-tour,gc,Soudal Quick-Step,2.Pro,,0,0,,200.0,,,246.0
+2023-06-10,2023,dwars-door-het-hageland,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,260.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,109.0
+2023-03-24,2023,e3-harelbeke,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,44.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,73.0
+2023-02-25,2023,faun-ardeche-classic,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,205.0
+2023-02-12,2023,figueira-champions-classic,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,148.0
+2023-03-26,2023,gent-wevelgem,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,80.0
+2023-05-06,2023,giro-d-italia,gc,Soudal Quick-Step,2.UWT,,0,0,,140.0,0.0,0.0,799.0
+2023-05-06,2023,giro-d-italia,kom,Soudal Quick-Step,2.UWT,,0,0,,140.0,0.0,0.0,799.0
+2023-05-06,2023,giro-d-italia,points,Soudal Quick-Step,2.UWT,,0,0,,140.0,0.0,0.0,799.0
+2023-09-30,2023,giro-dell-emilia,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,11.0
+2023-09-17,2023,gooikse-pijl,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,45.0
+2023-09-17,2023,gp-d-isbergues,gc,France,1.1,,0,0,,0.0,,,8.0
+2023-09-10,2023,gp-de-fourmies,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,200.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,40.0
+2023-09-10,2023,gp-montreal,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,100.0
+2023-09-08,2023,gp-quebec,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,110.0
+2023-02-28,2023,gp-samyn,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,0.0
+2023-10-05,2023,gran-piemonte,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,235.0
+2023-03-04,2023,grand-prix-criquielion,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,98.0
+2023-01-29,2023,great-ocean-road-race,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,35.0
+2023-03-05,2023,grote-prijs-jean-pierre-monsere,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,43.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,90.0
+2023-06-03,2023,heist-op-den-berg,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,60.0
+2023-10-07,2023,il-lombardia,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,880.0
+2023-04-03,2023,itzulia-basque-country,gc,Soudal Quick-Step,2.UWT,,0,0,,172.0,,,326.0
+2023-10-15,2023,japan-cup,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,28.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,75.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,46.0
+2023-02-26,2023,la-drome-classic,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,135.0
+2023-04-19,2023,la-fleche-wallonne,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,74.0
+2023-04-23,2023,liege-bastogne-liege,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,840.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,41.0
+2023-03-18,2023,milano-sanremo,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,270.0
+2023-10-03,2023,munsterland-giro,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,0.0
+2023-02-10,2023,muscat-classic,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,91.0
+2023-06-25,2023,nc-belgium,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,100.0
+2023-06-22,2023,nc-belgium-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,25.0
+2023-06-22,2023,nc-denmark-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-france,gc,Soudal Quick-Step,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-france-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,nc-germany,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,50.0
+2023-06-23,2023,nc-germany-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,10.0
+2023-06-21,2023,nc-great-britain-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,10.0
+2023-06-24,2023,nc-italy,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-netherlands,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-switserland,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,50.0
+2023-06-25,2023,ncgreat-britain,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,75.0
+2023-03-15,2023,nokere-koerse,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,200.0
+2023-09-13,2023,okolo-slovenska,gc,Soudal Quick-Step,2.1,,0,0,,173.0,,,254.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,116.0
+2023-03-05,2023,paris-nice,gc,Soudal Quick-Step,2.UWT,,0,0,,20.0,,,85.0
+2023-04-09,2023,paris-roubaix,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,70.0
+2023-08-23,2023,renewi-tour,gc,Soudal Quick-Step,2.UWT,,0,0,,300.0,,,389.0
+2023-05-29,2023,ronde-van-limburg,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,60.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,285.0
+2023-07-29,2023,san-sebastian,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,488.0
+2023-04-05,2023,scheldeprijs,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,3.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Soudal Quick-Step,2.1,,0,0,,128.0,,,171.0
+2023-03-04,2023,strade-bianche,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,26.0
+2023-03-06,2023,tirreno-adriatico,gc,Soudal Quick-Step,2.UWT,30.0,20.0,1,,30.0,,,140.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Soudal Quick-Step,2.UWT,10.0,85.0,1,,88.0,,,233.0
+2023-07-01,2023,tour-de-france,gc,Soudal Quick-Step,2.UWT,33.0,35.0,1,,35.0,0.0,0.0,605.0
+2023-07-01,2023,tour-de-france,kom,Soudal Quick-Step,2.UWT,17.0,0.0,1,,35.0,0.0,0.0,605.0
+2023-07-01,2023,tour-de-france,points,Soudal Quick-Step,2.UWT,18.0,0.0,1,,35.0,0.0,0.0,605.0
+2023-05-10,2023,tour-de-hongrie,gc,Soudal Quick-Step,2.Pro,,0,0,,11.0,,,31.0
+2023-09-20,2023,tour-de-luxembourg,gc,Soudal Quick-Step,2.Pro,39.0,3.0,1,,113.0,,,122.0
+2023-07-29,2023,tour-de-pologne,gc,Soudal Quick-Step,2.UWT,,0,0,,424.0,,,627.0
+2023-04-26,2023,tour-de-romandie,gc,Soudal Quick-Step,2.UWT,,0,0,,10.0,,,70.0
+2023-06-11,2023,tour-de-suisse,gc,Soudal Quick-Step,2.UWT,,0,0,,345.0,,,582.0
+2023-07-22,2023,tour-de-wallonie,gc,Soudal Quick-Step,2.Pro,,0,0,,83.0,,,136.0
+2023-01-17,2023,tour-down-under,gc,Soudal Quick-Step,2.UWT,,0,0,,255.0,,,295.0
+2023-06-14,2023,tour-of-belgium,gc,Soudal Quick-Step,2.Pro,,0,0,,233.0,,,313.0
+2023-08-15,2023,tour-of-denmark,gc,Soudal Quick-Step,2.Pro,,0,0,,5.0,,,60.0
+2023-02-11,2023,tour-of-oman,gc,Soudal Quick-Step,2.Pro,,0,0,,168.0,,,231.0
+2023-10-03,2023,tre-valli-varesine,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,203.0
+2023-01-25,2023,trofeo-calvia,gc,Soudal Quick-Step,1.1,,,1,,0.0,,,190.0
+2023-01-29,2023,trofeo-palma,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,128.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Soudal Quick-Step,1.1,,,1,,0.0,,,9.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,88.0
+2023-02-20,2023,uae-tour,gc,Soudal Quick-Step,2.UWT,,0,0,,305.0,,,450.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,10.0
+2023-09-24,2023,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,310.0
+2023-03-20,2023,volta-a-catalunya,gc,Soudal Quick-Step,2.UWT,,0,0,,336.0,,,542.0
+2023-02-15,2023,volta-ao-algarve,gc,Soudal Quick-Step,2.Pro,,0,0,,140.0,,,185.0
+2023-08-27,2023,vuelta-a-espana,gc,Soudal Quick-Step,2.UWT,,0,0,,190.0,180.0,130.0,1380.0
+2023-08-27,2023,vuelta-a-espana,kom,Soudal Quick-Step,2.UWT,,0,0,,190.0,180.0,130.0,1380.0
+2023-08-27,2023,vuelta-a-espana,points,Soudal Quick-Step,2.UWT,,0,0,,190.0,180.0,130.0,1380.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Soudal Quick-Step,2.Pro,,0,0,,78.0,,,123.0
+2023-08-06,2023,world-championship,gc,France,WC,,,1,,0.0,,,75.0
+2023-08-11,2023,world-championship-itt,gc,France,WC,,0,0,,0.0,,,8.0
+2024-05-14,2024,4-jours-de-dunkerque,gc,Soudal Quick-Step,2.Pro,,0,0,,5.0,,,25.0
+2024-01-30,2024,alula-tour,gc,Soudal Quick-Step,2.1,,0,0,,85.0,,,121.0
+2024-04-14,2024,amstel-gold-race,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,278.0
+2024-04-10,2024,brabantse-pijl,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,5.0
+2024-03-15,2024,bredene-koksijde-classic,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,48.0
+2024-08-25,2024,bretagne-classic,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,324.0
+2024-06-02,2024,brussels-cycling-classic,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,8.0
+2024-10-13,2024,chrono-des-nations,gc,France,1.1,,0,0,,0.0,,,5.0
+2024-05-29,2024,circuit-franco-belge,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,5.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,275.0
+2024-10-07,2024,coppa-bernocchi,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,5.0
+2024-09-08,2024,cyclassics-hamburg,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,42.0
+2024-07-25,2024,czech-tour,gc,Soudal Quick-Step,2.1,26.0,0.0,1,,0.0,,,28.0
+2024-06-23,2024,danish-championships,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,75.0
+2024-01-26,2024,deia-trophy,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,50.0
+2024-08-22,2024,deutschland-tour,gc,Soudal Quick-Step,2.Pro,,0,0,,143.0,,,156.0
+2024-06-08,2024,dwars-door-het-hageland,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,3.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,22.0
+2024-03-22,2024,e3-harelbeke,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,24.0
+2024-05-01,2024,eschborn-frankfurt,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,16.0
+2024-02-24,2024,faun-ardeche-classic,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,35.0
+2024-02-10,2024,figueira-champions-classic,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,205.0
+2024-03-24,2024,gent-wevelgem,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,148.0
+2024-05-04,2024,giro-d-italia,gc,Soudal Quick-Step,2.UWT,48.0,20.0,1,,335.0,0.0,95.0,1399.0
+2024-05-04,2024,giro-d-italia,kom,Soudal Quick-Step,2.UWT,5.0,0.0,1,,335.0,0.0,95.0,1399.0
+2024-05-04,2024,giro-d-italia,points,Soudal Quick-Step,2.UWT,4.0,0.0,1,,335.0,0.0,95.0,1399.0
+2024-10-05,2024,giro-dell-emilia,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,0.0
+2024-09-22,2024,gooikse-pijl,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,125.0
+2024-03-14,2024,gp-de-denain,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,5.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,23.0
+2024-08-15,2024,gp-jef-scherens,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,43.0
+2024-09-15,2024,gp-montreal,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,348.0
+2024-09-13,2024,gp-quebec,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,80.0
+2024-10-12,2024,il-lombardia,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,645.0
+2024-04-01,2024,itzulia-basque-country,gc,Soudal Quick-Step,2.UWT,,0,0,,16.0,,,61.0
+2024-10-20,2024,japan-cup,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,245.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,125.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Soudal Quick-Step,1.Pro,,,1,,0.0,,,65.0
+2024-02-25,2024,la-drome-classic,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,11.0
+2024-04-17,2024,la-fleche-wallonne,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,24.0
+2024-04-21,2024,liege-bastogne-liege,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,285.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,45.0
+2024-03-16,2024,milano-sanremo,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,305.0
+2024-10-03,2024,munsterland-giro,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,46.0
+2024-02-09,2024,muscat-classic,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,85.0
+2024-06-23,2024,nc-belgium,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,30.0
+2024-06-20,2024,nc-czech-republic-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-czech-republic2,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-denmark-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-france,gc,Soudal Quick-Step,NC,,,1,,0.0,,,1.0
+2024-06-23,2024,nc-italy,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-netherlands,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,0.0
+2024-06-19,2024,nc-netherlands-itt,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,nc-slovakia,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,75.0
+2024-06-23,2024,nc-spain,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,40.0
+2024-06-23,2024,ncgreat-britain,gc,Soudal Quick-Step,NC,,0,0,,0.0,,,0.0
+2024-03-13,2024,nokere-koerse,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,215.0
+2024-06-27,2024,okolo-slovenska,gc,Soudal Quick-Step,2.1,2.0,85.0,1,,123.0,,,130.0
+2024-08-03,2024,olympic-games,gc,France,Olympics,,,1,,0.0,,,1460.0
+2024-07-27,2024,olympic-games-itt,gc,France,Olympics,,0,0,,0.0,,,20.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,17.0
+2024-03-03,2024,paris-nice,gc,Soudal Quick-Step,2.UWT,,0,0,,470.0,,,595.0
+2024-04-07,2024,paris-roubaix,gc,Soudal Quick-Step,1.UWT,,0,0,,0.0,,,30.0
+2024-08-28,2024,renewi-tour,gc,Soudal Quick-Step,2.UWT,,0,0,,56.0,,,56.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,65.0
+2024-08-10,2024,san-sebastian,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,348.0
+2024-04-03,2024,scheldeprijs,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,203.0
+2024-03-02,2024,strade-bianche,gc,Soudal Quick-Step,1.UWT,,,1,,0.0,,,18.0
+2024-03-04,2024,tirreno-adriatico,gc,Soudal Quick-Step,2.UWT,62.0,0.0,1,,5.0,,,70.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Soudal Quick-Step,2.UWT,,0,0,,235.0,,,315.0
+2024-06-29,2024,tour-de-france,gc,Soudal Quick-Step,2.UWT,,0,0,,1540.0,0.0,0.0,2945.0
+2024-06-29,2024,tour-de-france,kom,Soudal Quick-Step,2.UWT,,0,0,,1540.0,0.0,0.0,2945.0
+2024-06-29,2024,tour-de-france,points,Soudal Quick-Step,2.UWT,,0,0,,1540.0,0.0,0.0,2945.0
+2024-09-18,2024,tour-de-luxembourg,gc,Soudal Quick-Step,2.Pro,,0,0,,100.0,,,120.0
+2024-08-12,2024,tour-de-pologne,gc,Soudal Quick-Step,2.UWT,,0,0,,20.0,,,115.0
+2024-04-23,2024,tour-de-romandie,gc,Soudal Quick-Step,2.UWT,33.0,10.0,1,,295.0,,,365.0
+2024-06-09,2024,tour-de-suisse,gc,Soudal Quick-Step,2.UWT,,0,0,,30.0,,,90.0
+2024-01-16,2024,tour-down-under,gc,Soudal Quick-Step,2.UWT,6.0,175.0,1,,218.0,,,266.0
+2024-06-12,2024,tour-of-belgium,gc,Soudal Quick-Step,2.Pro,,0,0,,73.0,,,118.0
+2024-09-03,2024,tour-of-britain,gc,Soudal Quick-Step,2.Pro,14.0,15.0,1,,25.0,,,118.0
+2024-10-15,2024,tour-of-guangxi,gc,Soudal Quick-Step,2.UWT,,0,0,,24.0,,,76.0
+2024-02-10,2024,tour-of-oman,gc,Soudal Quick-Step,2.Pro,,0,0,,215.0,,,283.0
+2024-10-08,2024,tre-valli-varesine,gc,Soudal Quick-Step,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,20.0
+2024-01-28,2024,trofeo-palma,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,25.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,55.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Soudal Quick-Step,1.1,,0,0,,0.0,,,195.0
+2024-02-19,2024,uae-tour,gc,Soudal Quick-Step,2.UWT,,0,0,,207.0,,,376.0
+2024-09-15,2024,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,101.0
+2024-03-18,2024,volta-a-catalunya,gc,Soudal Quick-Step,2.UWT,,0,0,,358.0,,,396.0
+2024-02-14,2024,volta-ao-algarve,gc,Soudal Quick-Step,2.Pro,,0,0,,205.0,,,258.0
+2024-08-17,2024,vuelta-a-espana,gc,Soudal Quick-Step,2.UWT,,0,0,,385.0,0.0,0.0,904.0
+2024-08-17,2024,vuelta-a-espana,kom,Soudal Quick-Step,2.UWT,,0,0,,385.0,0.0,0.0,904.0
+2024-08-17,2024,vuelta-a-espana,points,Soudal Quick-Step,2.UWT,,0,0,,385.0,0.0,0.0,904.0
+2024-09-29,2024,world-championship,gc,France,WC,,,1,,0.0,,,225.0
+2024-09-22,2024,world-championship-itt,gc,France,WC,,0,0,,0.0,,,58.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,8.0,,,23.0
+2025-01-28,2025,alula-tour,gc,Tudor Pro Cycling Team,2.1,,0,0,,3.0,,,6.0
+2025-04-20,2025,amstel-gold-race,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,40.0
+2025-08-07,2025,arctic-race-of-norway,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,8.0,,,18.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,25.0,,,50.0
+2025-04-18,2025,brabantse-pijl,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,3.0
+2025-03-21,2025,bredene-koksijde-classic,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,10.0
+2025-08-31,2025,bretagne-classic,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,148.0
+2025-06-08,2025,brussels-cycling-classic,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,10.0
+2025-10-19,2025,chrono-des-nations,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,8.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,15.0
+2025-08-15,2025,circuit-franco-belge,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,103.0
+2025-02-16,2025,clasica-de-almeria,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,130.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,0.0
+2025-05-13,2025,classique-dunkerque,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,125.0
+2025-06-22,2025,copenhagen-sprint,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,7.0
+2025-10-06,2025,coppa-bernocchi,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,70.0
+2025-08-17,2025,cyclassics-hamburg,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,48.0
+2025-06-29,2025,danish-championships,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-01-31,2025,deia-trophy,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,155.0
+2025-08-20,2025,deutschland-tour,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,105.0,,,120.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,17.0
+2025-03-28,2025,e3-harelbeke,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,34.0
+2025-05-01,2025,eschborn-frankfurt,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,80.0
+2025-03-01,2025,faun-ardeche-classic,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,160.0
+2025-02-16,2025,figueira-champions-classic,gc,Tudor Pro Cycling Team,1.Pro,,,1,,0.0,,,53.0
+2025-03-30,2025,gent-wevelgem,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,45.0
+2025-04-15,2025,giro-d-abruzzo,gc,Tudor Pro Cycling Team,2.1,,0,0,,100.0,,,103.0
+2025-05-09,2025,giro-d-italia,gc,Tudor Pro Cycling Team,2.UWT,,0,0,,255.0,0.0,0.0,724.0
+2025-05-09,2025,giro-d-italia,kom,Tudor Pro Cycling Team,2.UWT,,0,0,,255.0,0.0,0.0,724.0
+2025-05-09,2025,giro-d-italia,points,Tudor Pro Cycling Team,2.UWT,,0,0,,255.0,0.0,0.0,724.0
+2025-10-15,2025,giro-del-veneto,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,13.0
+2025-10-04,2025,giro-dell-emilia,gc,Tudor Pro Cycling Team,1.Pro,,,1,,0.0,,,65.0
+2025-09-10,2025,giro-di-toscana,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,135.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,75.0
+2025-09-21,2025,gp-d-isbergues,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-09-14,2025,gp-de-fourmies,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,63.0
+2025-01-26,2025,gp-de-valence,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,125.0
+2025-09-17,2025,gp-de-wallonie,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,88.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,58.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,90.0
+2025-09-07,2025,gp-industria-artigianato,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,60.0
+2025-09-14,2025,gp-montreal,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,20.0
+2025-09-12,2025,gp-quebec,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,520.0
+2025-10-09,2025,gran-piemonte,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,155.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,73.0
+2025-03-08,2025,grand-prix-criquielion,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,20.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-06-07,2025,heist-op-den-berg,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-10-11,2025,il-lombardia,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,585.0
+2025-04-07,2025,itzulia-basque-country,gc,Tudor Pro Cycling Team,2.UWT,,,1,,16.0,,,22.0
+2025-10-19,2025,japan-cup,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,110.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,3.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,90.0
+2025-03-02,2025,la-drome-classic,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,100.0
+2025-04-23,2025,la-fleche-wallonne,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,26.0
+2025-03-30,2025,la-roue-tourangelle,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-04-27,2025,liege-bastogne-liege,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,-5.0
+2025-09-06,2025,maryland-cycling-classic,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,140.0
+2025-09-13,2025,memorial-marco-pantani,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,150.0
+2025-03-22,2025,milano-sanremo,gc,Tudor Pro Cycling Team,1.UWT,,,1,,0.0,,,190.0
+2025-03-19,2025,milano-torino,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,55.0
+2025-10-03,2025,munsterland-giro,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,53.0
+2025-02-07,2025,muscat-classic,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,125.0
+2025-06-29,2025,nc-austria2,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,50.0
+2025-06-26,2025,nc-czech-republic-itt,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,nc-czech-republic2,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-france,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-france-itt,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-germany,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,40.0
+2025-06-29,2025,nc-italy,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-lithuania,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,50.0
+2025-06-21,2025,nc-lithuania-itt,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,25.0
+2025-06-29,2025,nc-luxembourg,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,175.0
+2025-06-26,2025,nc-luxembourg-itt,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,20.0
+2025-06-28,2025,nc-netherlands,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-sweden,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,75.0
+2025-06-29,2025,nc-switserland,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,76.0
+2025-06-26,2025,nc-switzerland-itt,gc,Tudor Pro Cycling Team,NC,,0,0,,0.0,,,48.0
+2025-03-19,2025,nokere-koerse,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,53.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,47.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,23.0
+2025-03-09,2025,paris-nice,gc,Tudor Pro Cycling Team,2.UWT,44.0,10.0,1,,245.0,,,360.0
+2025-04-13,2025,paris-roubaix,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,155.0
+2025-10-12,2025,paris-tours,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,208.0
+2025-08-20,2025,renewi-tour,gc,Tudor Pro Cycling Team,2.UWT,,0,0,,0.0,,,25.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,75.0
+2025-05-18,2025,rund-um-koln,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,10.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,5.0
+2025-08-02,2025,san-sebastian,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,28.0
+2025-04-09,2025,scheldeprijs,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,0.0
+2025-03-08,2025,strade-bianche,gc,Tudor Pro Cycling Team,1.UWT,,0,0,,0.0,,,24.0
+2025-03-10,2025,tirreno-adriatico,gc,Tudor Pro Cycling Team,2.UWT,,0,0,,28.0,,,143.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Tudor Pro Cycling Team,2.UWT,,0,0,,45.0,,,47.0
+2025-07-05,2025,tour-de-france,gc,Tudor Pro Cycling Team,2.UWT,56.0,15.0,1,,40.0,0.0,0.0,785.0
+2025-07-05,2025,tour-de-france,kom,Tudor Pro Cycling Team,2.UWT,40.0,0.0,1,,40.0,0.0,0.0,785.0
+2025-07-05,2025,tour-de-france,points,Tudor Pro Cycling Team,2.UWT,20.0,0.0,1,,40.0,0.0,0.0,785.0
+2025-09-28,2025,tour-de-langkawi,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,130.0,,,215.0
+2025-09-17,2025,tour-de-luxembourg,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,185.0,,,198.0
+2025-08-04,2025,tour-de-pologne,gc,Tudor Pro Cycling Team,2.UWT,,0,0,,64.0,,,94.0
+2025-04-29,2025,tour-de-romandie,gc,Tudor Pro Cycling Team,2.UWT,,0,0,,105.0,,,137.0
+2025-06-15,2025,tour-de-suisse,gc,Tudor Pro Cycling Team,2.UWT,5.0,225.0,1,,225.0,,,290.0
+2025-06-18,2025,tour-of-belgium,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,3.0,,,6.0
+2025-09-02,2025,tour-of-britain,gc,Tudor Pro Cycling Team,2.Pro,3.0,125.0,1,,155.0,,,188.0
+2025-02-08,2025,tour-of-oman,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,50.0,,,59.0
+2025-04-21,2025,tour-of-the-alps,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,208.0,,,241.0
+2025-10-07,2025,tre-valli-varesine,gc,Tudor Pro Cycling Team,1.Pro,,,1,,0.0,,,128.0
+2025-05-11,2025,tro-bro-leon,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,48.0
+2025-10-12,2025,trofeo-baracchi,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,85.0
+2025-01-29,2025,trofeo-calvia,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,50.0
+2025-03-05,2025,trofeo-laigueglia,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,128.0
+2025-02-02,2025,trofeo-palma,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,20.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-02-17,2025,uae-tour,gc,Tudor Pro Cycling Team,2.UWT,,0,0,,25.0,,,33.0
+2025-10-01,2025,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,5.0
+2025-10-05,2025,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,320.0
+2025-10-19,2025,veneto-classic,gc,Tudor Pro Cycling Team,1.Pro,,0,0,,0.0,,,33.0
+2025-02-19,2025,volta-ao-algarve,gc,Tudor Pro Cycling Team,2.Pro,20.0,5.0,1,,15.0,,,15.0
+2025-08-05,2025,vuelta-a-burgos,gc,Tudor Pro Cycling Team,2.Pro,,0,0,,15.0,,,20.0
+2025-02-15,2025,vuelta-ciclista-a-la-region-de-murcia,gc,Tudor Pro Cycling Team,1.1,,0,0,,0.0,,,0.0
+2025-09-28,2025,world-championship,gc,France,WC,,,1,,0.0,,,180.0
+2025-09-21,2025,world-championship-itt,gc,France,WC,,0,0,,0.0,,,105.0

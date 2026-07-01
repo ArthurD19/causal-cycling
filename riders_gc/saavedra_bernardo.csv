@@ -1,0 +1,44 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-07-18,2018,Grande-Premio-de-Portugal-N2,gc,Vito-Feirense-BlackJack,2.2,103.0,0.0,1,,10.0,,,18.0
+2018-03-25,2018,classica-aldeias-do-xisto-cylin-portugal,gc,Vito-Feirense-BlackJack,1.2,,0,0,,0.0,,,0.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Vito-Feirense-BlackJack,2.1,,0,0,,25.0,,,25.0
+2018-06-22,2018,nc-portugal,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,1.0
+2018-06-24,2018,nc-portugal2,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,5.0
+2018-06-24,2018,nc-spain,gc,Vito-Feirense-BlackJack,NC,,0,0,,0.0,,,0.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Vito-Feirense-BlackJack,1.2,,0,0,,0.0,,,0.0
+2018-08-01,2018,volta-a-portugal,gc,Vito-Feirense-BlackJack,2.1,,0,0,,6.0,,,9.0
+2018-03-14,2018,volta-ao-alentejo,gc,Vito-Feirense-BlackJack,2.2,,0,0,,0.0,,,7.0
+2018-02-14,2018,volta-ao-algarve,gc,Vito-Feirense-BlackJack,2.HC,,0,0,,0.0,,,0.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Vito-Feirense-BlackJack,2.1,,0,0,,175.0,,,192.0
+2019-07-31,2019,circuito-de-getxo,gc,Vito-Feirense-Pnb,1.1,,0,0,,0.0,,,6.0
+2019-07-11,2019,gp-int-torres-vedras,gc,Vito-Feirense-Pnb,2.2,,0,0,,0.0,,,0.0
+2019-04-12,2019,gp-internacional-beiras-e-serra-da-estrela,gc,Vito-Feirense-Pnb,2.1,69.0,0.0,1,,0.0,,,0.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,Vito-Feirense-Pnb,1.1,,,1,,0.0,,,0.0
+2019-06-30,2019,nc-germany,gc,Vito-Feirense-Pnb,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-portugal2,gc,Vito-Feirense-Pnb,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-spain,gc,Vito-Feirense-Pnb,NC,,0,0,,0.0,,,1.0
+2019-07-25,2019,prueba-villafranca,gc,Vito-Feirense-Pnb,1.1,,,1,,0.0,,,88.0
+2019-03-17,2019,trofeu-da-arrabida,gc,Vito-Feirense-Pnb,1.2,,,1,,0.0,,,0.0
+2019-07-31,2019,volta-a-portugal,gc,Vito-Feirense-Pnb,2.1,,0,0,,3.0,,,3.0
+2019-03-20,2019,volta-ao-alentejo,gc,Vito-Feirense-Pnb,2.2,,0,0,,0.0,,,0.0
+2019-02-20,2019,volta-ao-algarve,gc,Vito-Feirense-Pnb,2.HC,,,1,,0.0,,,0.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Vito-Feirense-Pnb,2.1,,0,0,,6.0,,,11.0
+2020-08-02,2020,circuito-de-getxo,gc,Feirense,1.1,,0,0,,0.0,,,0.0
+2020-09-19,2020,gp-int-torres-vedras,gc,Feirense,2.2,69.0,0.0,1,,0.0,,,0.0
+2020-08-14,2020,nc-portugal,gc,Feirense,NC,,0,0,,0.0,,,15.0
+2020-08-16,2020,nc-portugal2,gc,Feirense,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-spain,gc,Feirense,NC,,0,0,,0.0,,,0.0
+2020-10-12,2020,prueba-villafranca,gc,Feirense,1.1,,0,0,,0.0,,,3.0
+2020-09-06,2020,tour-du-doubs,gc,Feirense,1.1,,,1,,0.0,,,3.0
+2020-09-27,2020,volta-a-portugal,gc,Feirense,2.1,88.0,0.0,1,,0.0,,,5.0
+2021-10-02,2021,classic-loire-atlantique,gc,Antarte - Feirense,1.1,,0,0,,0.0,,,0.0
+2021-07-16,2021,gp-int-torres-vedras,gc,Antarte - Feirense,2.2,,,1,,0.0,,,3.0
+2021-06-20,2021,nc-portugal2,gc,Antarte - Feirense,NC,,,1,,0.0,,,40.0
+2021-09-26,2021,paris-chauny-classique,gc,Antarte - Feirense,1.1,,,1,,0.0,,,0.0
+2021-07-25,2021,prueba-villafranca,gc,Antarte - Feirense,1.1,,,1,,0.0,,,0.0
+2021-10-01,2021,route-adelie-de-vitre,gc,Antarte - Feirense,1.1,,0,0,,0.0,,,0.0
+2021-10-09,2021,tour-de-vendee,gc,Antarte - Feirense,1.1,,0,0,,0.0,,,0.0
+2021-05-02,2021,trofeu-da-arrabida,gc,Antarte - Feirense,1.2,,,1,,0.0,,,5.0
+2021-08-04,2021,volta-a-portugal,gc,Antarte - Feirense,2.1,,0,0,,3.0,,,3.0
+2021-06-23,2021,volta-ao-alentejo,gc,Antarte - Feirense,2.2,,,1,,0.0,,,0.0
+2021-05-05,2021,volta-ao-algarve,gc,Antarte - Feirense,2.Pro,,0,0,,8.0,,,8.0

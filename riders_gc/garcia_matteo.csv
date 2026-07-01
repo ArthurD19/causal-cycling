@@ -1,0 +1,46 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-12,2017,classica-aldeias-do-xisto-cylin-portugal,gc,Efapel,1.2,,0,0,,0.0,,,20.0
+2017-07-05,2017,gp-int-torres-vedras,gc,Efapel,2.2,,0,0,,5.0,,,6.0
+2017-06-02,2017,gp-internacional-beiras-e-serra-da-estrela,gc,Efapel,2.1,52.0,0.0,1,,143.0,,,151.0
+2017-06-23,2017,nc-portugal,gc,Efapel,NC,,0,0,,0.0,,,23.0
+2017-06-25,2017,nc-portugal2,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2017-03-05,2017,trofeu-da-arrabida,gc,Efapel,1.2,,0,0,,0.0,,,30.0
+2017-08-04,2017,volta-a-portugal,gc,Efapel,2.1,,0,0,,61.0,,,86.0
+2017-02-22,2017,volta-ao-alentejo,gc,Efapel,2.1,43.0,0.0,1,,13.0,,,13.0
+2017-02-15,2017,volta-ao-algarve,gc,Efapel,2.HC,117.0,0.0,1,,0.0,,,0.0
+2017-05-19,2017,vuelta-a-castilla-y-leon,gc,Efapel,2.1,25.0,3.0,1,,101.0,,,109.0
+2018-04-28,2018,carpathia-couriers-paths,gc,UCI WCC Men's Team,2.2U,,0,0,,0.0,,,0.0
+2018-04-06,2018,circuit-des-ardennes,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-07-04,2018,course-cycliste-de-solidarnosc,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-07-29,2018,gp-kranj,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-04-25,2018,le-tour-de-bretagne,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-06-30,2018,mediterranean-games-itt,gc,UCI WCC Men's Team,JR,,0,0,,0.0,,,0.0
+2018-08-11,2018,memorial-henryka-lasaka,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-croatia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-hungary,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,50.0
+2018-06-28,2018,nc-hungary-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,25.0
+2018-07-01,2018,nc-kazakhstan,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2018-06-27,2018,nc-kazakhstan-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,30.0
+2018-06-25,2018,nc-mongolia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,3.0
+2018-07-01,2018,nc-panama,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,15.0
+2018-06-29,2018,nc-panama-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,25.0
+2018-06-24,2018,nc-poland,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-serbia,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,20.0
+2018-06-22,2018,nc-serbia-itt,gc,UCI WCC Men's Team,NC,,0,0,,0.0,,,25.0
+2018-05-18,2018,paris-arras-tour,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-05-27,2018,paris-roubaix-u23,gc,UCI WCC Men's Team,1.2U,,0,0,,0.0,,,0.0
+2018-08-12,2018,puchar-uzdrowisk-karpackich,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-08-02,2018,tour-alsace,gc,UCI WCC Men's Team,2.2,32.0,0.0,1,,0.0,,,0.0
+2018-04-23,2018,tour-de-limpopo,gc,UCI WCC Men's Team,2.2,,0,0,,15.0,,,18.0
+2018-06-08,2018,tour-de-serbie,gc,UCI WCC Men's Team,2.2,,0,0,,5.0,,,5.0
+2018-06-01,2018,tour-of-bihor-bellotto,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-06-08,2018,tour-of-malopolska,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-09-03,2018,tour-of-xingtai,gc,UCI WCC Men's Team,2.2,,0,0,,0.0,,,0.0
+2018-07-22,2018,v4-special-series-debrecen---ibrany,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2018-04-22,2018,visegrad-4-bicycle-race-gp-polski-via-odra,gc,UCI WCC Men's Team,1.2,,0,0,,0.0,,,0.0
+2025-04-04,2025,jamaica-international-cycling-classic,gc,Cornwall Cycling Club,2.2,11.0,0.0,1,,0.0,,,0.0
+2025-06-28,2025,nc-canada2,gc,Cornwall Cycling Club,NC,,0,0,,0.0,,,0.0
+2025-07-06,2025,nc-jamaica,gc,Cornwall Cycling Club,NC,,0,0,,0.0,,,60.0
+2025-07-05,2025,nc-jamaica-itt,gc,Cornwall Cycling Club,NC,,0,0,,0.0,,,35.0

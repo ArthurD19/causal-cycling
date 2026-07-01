@@ -1,0 +1,133 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-08-24,2017,baltic-chain-tour,gc,Staki - Technorama,2.2,9.0,3.0,1,,3.0,,,3.0
+2017-05-17,2017,baltyk-karkonosze-tour,gc,Staki - Technorama,2.2,19.0,0.0,1,,0.0,,,0.0
+2017-04-29,2017,carpathia-couriers-paths,gc,Lithuania,2.2U,13.0,0.0,1,,0.0,,,0.0
+2017-06-28,2017,course-cycliste-de-solidarnosc,gc,Staki - Technorama,2.2,24.0,0.0,1,,0.0,,,0.0
+2017-08-05,2017,european-championships-mu,gc,Staki - Technorama,CC,,,1,,0.0,,,0.0
+2017-07-08,2017,grand-prix-minsk,gc,Staki - Technorama,1.2,,,1,,0.0,,,0.0
+2017-03-09,2017,istrian-spring-tour,gc,Staki - Technorama,2.2,33.0,0.0,1,,0.0,,,0.0
+2017-07-07,2017,minsk-cup,gc,Staki - Technorama,1.2,,,1,,0.0,,,0.0
+2017-06-25,2017,nc-lithuania,gc,Staki - Technorama,NC,,,1,,0.0,,,45.0
+2017-06-23,2017,nc-lithuania-itt,gc,Staki - Technorama,NC,,0,0,,0.0,,,4.0
+2017-03-04,2017,porec-trophy,gc,Staki - Technorama,1.2,,,1,,0.0,,,0.0
+2017-04-07,2017,tour-du-maroc,gc,Staki - Technorama,2.2,,,1,,0.0,,,7.0
+2017-05-26,2017,tour-of-estonia,gc,Staki - Technorama,2.1,29.0,0.0,1,,0.0,,,0.0
+2017-05-26,2017,tour-of-estonia,gc,Lithuania,2.1,,0,0,,3.0,,,3.0
+2017-03-01,2017,trofej-umag,gc,Staki - Technorama,1.2,,,1,,0.0,,,0.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,Lithuania,CC,,0,0,,0.0,,,0.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Lithuania,CC,,0,0,,0.0,,,0.0
+2017-09-24,2017,world-championship,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2017-09-20,2017,world-championship-itt,gc,Lithuania,WC,,0,0,,0.0,,,5.0
+2018-08-23,2018,baltic-chain-tour,gc,Staki - Technorama,2.2,75.0,0.0,1,,0.0,,,0.0
+2018-04-28,2018,carpathia-couriers-paths,gc,Staki - Technorama,2.2U,7.0,3.0,1,,3.0,,,3.0
+2018-07-04,2018,course-cycliste-de-solidarnosc,gc,Staki - Technorama,2.2,35.0,0.0,1,,0.0,,,0.0
+2018-08-19,2018,grand-prix-minsk,gc,Staki - Technorama,1.2,,,1,,0.0,,,0.0
+2018-09-30,2018,international-azerbaijan-tour,gc,Staki - Technorama,2.1,3.0,70.0,1,,70.0,,,70.0
+2018-08-18,2018,minsk-cup,gc,Staki - Technorama,1.2,,,1,,0.0,,,3.0
+2018-06-24,2018,nc-lithuania,gc,Staki - Technorama,NC,,,1,,0.0,,,24.0
+2018-06-22,2018,nc-lithuania-itt,gc,Staki - Technorama,NC,,0,0,,0.0,,,5.0
+2018-09-06,2018,okolo-jiznich-cech,gc,Staki - Technorama,2.2,74.0,0.0,1,,0.0,,,0.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,Staki - Technorama,2.2,70.0,0.0,1,,0.0,,,0.0
+2018-06-01,2018,szlakiem-walk-majora-hubala,gc,Staki - Technorama,2.1,95.0,0.0,1,,0.0,,,0.0
+2018-05-25,2018,tour-of-estonia,gc,Staki - Technorama,2.1,29.0,0.0,1,,0.0,,,0.0
+2019-07-24,2019,dookola-mazowsza,gc,Lithuania,2.2,13.0,0.0,1,,0.0,,,0.0
+2019-06-23,2019,european-games,gc,Lithuania,JC,,,1,,0.0,,,5.0
+2019-06-25,2019,european-games-itt,gc,Lithuania,JC,,0,0,,0.0,,,25.0
+2019-05-23,2019,tour-of-estonia,gc,Lithuania,2.1,25.0,3.0,1,,3.0,,,3.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Lithuania,CC,,0,0,,0.0,,,0.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Lithuania,CC,,0,0,,0.0,,,0.0
+2019-09-29,2019,world-championship,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2019-09-25,2019,world-championship-itt,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2020-08-13,2020,baltic-chain-tour,gc,Lithuania,2.2,13.0,0.0,1,,10.0,,,10.0
+2020-07-15,2020,dookola-mazowsza,gc,Klaipeda Cycling Team,2.2,,0,0,,0.0,,,0.0
+2020-03-08,2020,porec-trophy,gc,Klaipeda Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-07-19,2020,puchar-ministra-obrony-narodowej,gc,Klaipeda Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-03-04,2020,trofej-umag,gc,Klaipeda Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Lithuania,CC,,0,0,,0.0,,,0.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Lithuania,CC,,,1,,0.0,,,0.0
+2020-09-27,2020,world-championship,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2020-09-25,2020,world-championship-itt,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2021-09-12,2021,antwerp-port-epic,gc,Lviv Continental Cycling Team,1.1,,0,0,,0.0,,,0.0
+2021-08-20,2021,baltic-chain-tour,gc,Lithuania,2.2,41.0,0.0,1,,15.0,,,16.0
+2021-05-13,2021,circuit-de-wallonie,gc,Lviv Continental Cycling Team,1.1,,,1,,0.0,,,0.0
+2021-06-05,2021,dwars-door-het-hageland,gc,Lviv Continental Cycling Team,1.Pro,,0,0,,0.0,,,0.0
+2021-08-29,2021,gp-de-la-somme,gc,Lviv Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-07-18,2021,gp-de-la-ville-de-nogent-sur-oise,gc,Lviv Continental Cycling Team,1.2,,,1,,0.0,,,0.0
+2021-08-15,2021,gp-jef-scherens,gc,Lviv Continental Cycling Team,1.1,,0,0,,0.0,,,0.0
+2021-03-02,2021,gp-samyn,gc,Lviv Continental Cycling Team,1.1,,0,0,,0.0,,,0.0
+2021-08-17,2021,gp-stad-zottegem,gc,Lviv Continental Cycling Team,1.1,,0,0,,0.0,,,0.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Lviv Continental Cycling Team,1.1,,0,0,,0.0,,,3.0
+2021-08-20,2021,grote-prijs-marcel-kint,gc,Lviv Continental Cycling Team,1.1,,0,0,,0.0,,,0.0
+2021-07-31,2021,heist-op-den-berg,gc,Lviv Continental Cycling Team,1.1,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-belgium,gc,Lviv Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Lviv Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-lithuania,gc,Lviv Continental Cycling Team,NC,,,1,,0.0,,,80.0
+2021-06-17,2021,nc-lithuania-itt,gc,Lviv Continental Cycling Team,NC,,,1,,0.0,,,35.0
+2021-06-20,2021,nc-luxembourg,gc,Lviv Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-portugal,gc,Lviv Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-portugal2,gc,Lviv Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-ukraine,gc,Lviv Continental Cycling Team,NC,,0,0,,0.0,,,3.0
+2021-10-17,2021,ncgreat-britain,gc,Lviv Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Lithuania,Olympics,,0,0,,0.0,,,0.0
+2021-07-25,2021,prueba-villafranca,gc,Lviv Continental Cycling Team,1.1,,0,0,,0.0,,,0.0
+2021-08-29,2021,ronde-van-de-achterhoek,gc,Lviv Continental Cycling Team,1.2,,,1,,0.0,,,0.0
+2021-05-28,2021,tour-of-estonia,gc,Lithuania,2.1,27.0,0.0,1,,23.0,,,23.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Lithuania,CC,,,1,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Lithuania,CC,,,1,,0.0,,,0.0
+2021-09-26,2021,world-championship,gc,Lithuania,WC,,0,0,,0.0,,,0.0
+2021-09-19,2021,world-championship-itt,gc,Lithuania,WC,,,1,,0.0,,,0.0
+2022-05-22,2022,albani-classic-fyen-rundt,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-08-18,2022,baltic-chain-tour,gc,Kaunas Cycling Team,2.2,9.0,3.0,1,,3.0,,,3.0
+2022-07-27,2022,dookola-mazowsza,gc,Kaunas Cycling Team,2.2,33.0,0.0,1,,0.0,,,0.0
+2022-05-21,2022,gp-herning,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-03-05,2022,grand-prix-gazipasa,gc,Lithuania,1.2,,0,0,,0.0,,,3.0
+2022-03-20,2022,grand-prix-gundogmus-me,gc,Lithuania,1.2,,0,0,,0.0,,,0.0
+2022-03-19,2022,grand-prix-manavgat-side,gc,Lithuania,1.2,,0,0,,0.0,,,35.0
+2022-03-06,2022,grand-prix-mediterrennean,gc,Lithuania,1.2,,0,0,,0.0,,,0.0
+2022-04-29,2022,grand-prix-nasielsk-serock,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-04-30,2022,grand-prix-wyszkow,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-05-07,2022,hadeland-gp,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-07-26,2022,memorial-andrzeja-trochanowskiego,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-06-05,2022,memorial-philippe-van-coningsloo,gc,Kaunas Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-lithuania,gc,Kaunas Cycling Team,NC,,,1,,0.0,,,120.0
+2022-06-22,2022,nc-lithuania-itt,gc,Kaunas Cycling Team,NC,,,1,,0.0,,,30.0
+2022-05-08,2022,ringerike-gp,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-06-10,2022,tour-d-eure-et-loir,gc,Kaunas Cycling Team,2.2,,0,0,,0.0,,,0.0
+2022-05-26,2022,tour-of-estonia,gc,Lithuania,2.1,11.0,15.0,1,,140.0,,,145.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Lithuania,CC,,0,0,,0.0,,,0.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Lithuania,CC,,,1,,0.0,,,0.0
+2022-09-25,2022,world-championship,gc,Lithuania,WC,,,1,,0.0,,,0.0
+2022-09-18,2022,world-championship-itt,gc,Lithuania,WC,,,1,,0.0,,,0.0
+2023-05-14,2023,albani-classic-fyen-rundt,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-08-18,2023,baltic-chain-tour,gc,Kaunas Cycling Team,2.2,25.0,0.0,1,,0.0,,,0.0
+2023-07-26,2023,dookola-mazowsza,gc,Kaunas Cycling Team,2.2,11.0,0.0,1,,0.0,,,0.0
+2023-05-13,2023,gp-herning,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-07-25,2023,memorial-andrzeja-trochanowskiego,gc,Kaunas Cycling Team,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-lithuania,gc,Kaunas Cycling Team,NC,,,1,,0.0,,,101.0
+2023-06-22,2023,nc-lithuania-itt,gc,Kaunas Cycling Team,NC,,,1,,0.0,,,35.0
+2023-04-12,2023,tour-du-loir-et-cher,gc,Kaunas Cycling Team,2.2,,,1,,0.0,,,0.0
+2023-05-26,2023,tour-of-estonia,gc,Kaunas Cycling Team,2.1,49.0,0.0,1,,0.0,,,0.0
+2024-07-24,2024,dookola-mazowsza,gc,Energus Cycling Team,2.2,26.0,0.0,1,,0.0,,,0.0
+2024-07-20,2024,gp-czech-republic,gc,Energus Cycling Team,1.2,,,1,,0.0,,,0.0
+2024-07-23,2024,memorial-andrzeja-trochanowskiego,gc,Energus Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-belgium,gc,Energus Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-06-22,2024,nc-latvia,gc,Energus Cycling Team,NC,,0,0,,0.0,,,63.0
+2024-06-22,2024,nc-lithuania,gc,Energus Cycling Team,NC,,,1,,0.0,,,74.0
+2024-06-15,2024,nc-lithuania-itt,gc,Energus Cycling Team,NC,,,1,,0.0,,,35.0
+2024-09-05,2024,okolo-jiznich-cech,gc,Energus Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-07-28,2024,puchar-ministra-obrony-narodowej,gc,Energus Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-08-21,2024,tour-bitwa-warszawska-1920,gc,Energus Cycling Team,2.2,48.0,0.0,1,,0.0,,,0.0
+2024-05-24,2024,tour-of-estonia,gc,Energus Cycling Team,2.1,10.0,20.0,1,,53.0,,,53.0
+2024-06-05,2024,tour-of-lithuania,gc,Energus Cycling Team,2.2,64.0,0.0,1,,10.0,,,10.0
+2024-05-30,2024,tour-of-malopolska,gc,Energus Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-07-21,2024,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Energus Cycling Team,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-latvia,gc,Energus Cycling Team,NC,,0,0,,0.0,,,40.0
+2025-06-29,2025,nc-lithuania,gc,Energus Cycling Team,NC,,0,0,,0.0,,,11.0
+2025-06-21,2025,nc-lithuania-itt,gc,Energus Cycling Team,NC,,0,0,,0.0,,,23.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Energus Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-05-10,2025,silesian-classic,gc,Energus Cycling Team,1.2,,0,0,,0.0,,,0.0
+2025-04-06,2025,syedra-ancient-city,gc,Energus Cycling Team,1.2,,,1,,0.0,,,0.0
+2025-05-30,2025,tour-of-estonia,gc,Energus Cycling Team,2.1,,0,0,,6.0,,,6.0
+2025-06-04,2025,tour-of-lithuania,gc,Lithuania,2.2,53.0,0.0,1,,0.0,,,0.0
+2025-06-04,2025,tour-of-lithuania,gc,Energus Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-04-10,2025,tour-of-mersin,gc,Energus Cycling Team,2.2,71.0,0.0,1,,0.0,,,0.0

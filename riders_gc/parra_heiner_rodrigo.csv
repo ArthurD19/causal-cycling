@@ -1,0 +1,40 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-08-02,2017,vuelta-pilsen-a-colombia,gc,Boyaca Es Para Vivirla,2.2,16.0,0.0,1,,0.0,,,0.0
+2018-02-06,2018,colombia-21,gc,GW - Shimano,2.1,14.0,5.0,1,,5.0,,,5.0
+2018-02-04,2018,nc-colombia,gc,GW - Shimano,NC,,,1,,0.0,,,43.0
+2018-02-02,2018,nc-colombia-itt,gc,GW - Shimano,NC,,0,0,,0.0,,,0.0
+2018-01-12,2018,vuelta-al-tachira,gc,GW - Shimano,2.2,15.0,0.0,1,,0.0,,,15.0
+2019-02-13,2019,colombia-21,gc,GW - Shimano,2.1,50.0,0.0,1,,0.0,,,0.0
+2019-02-03,2019,nc-colombia,gc,GW - Shimano,NC,,,1,,0.0,,,81.0
+2019-02-01,2019,nc-colombia-itt,gc,GW - Shimano,NC,,0,0,,0.0,,,0.0
+2019-01-11,2019,vuelta-al-tachira,gc,GW - Shimano,2.2,,,1,,0.0,,,1.0
+2020-02-12,2020,colombia-21,gc,Colombia,2.1,27.0,0.0,1,,35.0,,,35.0
+2020-09-27,2020,world-championship,gc,Colombia,WC,,0,0,,0.0,,,80.0
+2020-09-25,2020,world-championship-itt,gc,Colombia,WC,,0,0,,0.0,,,5.0
+2021-08-26,2021,joe-martin-stage-race-me,gc,Canel's Zerouno,2.2,,,1,,0.0,,,0.0
+2021-06-13,2021,nc-mexico,gc,Canel's Zerouno,NC,,0,0,,0.0,,,46.0
+2021-06-11,2021,nc-mexico-itt,gc,Canel's Zerouno,NC,,0,0,,0.0,,,55.0
+2021-04-16,2021,vuelta-pilsen-a-colombia,gc,Canel's Zerouno,2.2,9.0,3.0,1,,3.0,,,3.0
+2022-04-27,2022,tour-of-the-gila,gc,Canel's Zerouno,2.2,5.0,15.0,1,,25.0,,,41.0
+2022-11-12,2022,vuelta-a-ecuador,gc,Canel's Zerouno,2.2,12.0,0.0,1,,0.0,,,8.0
+2022-06-03,2022,vuelta-pilsen-a-colombia,gc,Canel's Zerouno,2.2,14.0,0.0,1,,0.0,,,8.0
+2023-06-25,2023,nc-ireland,gc,Canel's Pro Cycling,NC,,0,0,,0.0,,,0.0
+2023-07-23,2023,nc-mexico,gc,Canel's Pro Cycling,NC,,0,0,,0.0,,,3.0
+2023-07-21,2023,nc-mexico-itt,gc,Canel's Pro Cycling,NC,,0,0,,0.0,,,0.0
+2023-04-26,2023,tour-of-the-gila,gc,Canel's Pro Cycling,2.2,9.0,3.0,1,,3.0,,,11.0
+2023-09-25,2023,vuelta-a-ecuador,gc,Canel's Pro Cycling,2.2,11.0,0.0,1,,0.0,,,15.0
+2023-11-17,2023,vuelta-a-guatemala,gc,Canel's Pro Cycling,2.2,9.0,3.0,1,,3.0,,,12.0
+2023-06-16,2023,vuelta-pilsen-a-colombia,gc,Canel's Pro Cycling,2.2,34.0,0.0,1,,0.0,,,0.0
+2024-02-06,2024,colombia-21,gc,Canel's - Java,2.1,38.0,0.0,1,,0.0,,,0.0
+2024-05-19,2024,gran-premio-new-york-city,gc,Canel's - Java,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-costa-rica,gc,Canel's - Java,NC,,0,0,,0.0,,,33.0
+2024-04-24,2024,tour-of-the-gila,gc,Canel's - Java,2.2,11.0,0.0,1,,0.0,,,0.0
+2024-10-25,2024,vuelta-a-guatemala,gc,Canel's - Java,2.2,25.0,0.0,1,,0.0,,,17.0
+2024-12-13,2024,vuelta-internacional-a-costa-rica,gc,Canel's - Java,2.2,11.0,0.0,1,,0.0,,,12.0
+2024-06-14,2024,vuelta-pilsen-a-colombia,gc,Canel's - Java,2.2,18.0,0.0,1,,0.0,,,0.0
+2025-05-18,2025,gran-premio-new-york-city,gc,Canel's - Java,1.2,,0,0,,0.0,,,3.0
+2025-02-09,2025,nc-colombia,gc,Canel's - Java,NC,,0,0,,0.0,,,0.0
+2025-04-23,2025,tour-of-the-gila,gc,Canel's - Java,2.2,31.0,0.0,1,,20.0,,,23.0
+2025-10-24,2025,vuelta-a-guatemala,gc,Canel's - Java,2.2,11.0,0.0,1,,0.0,,,0.0
+2025-12-12,2025,vuelta-internacional-a-costa-rica,gc,Canel's - Java,2.2,22.0,0.0,1,,5.0,,,6.0
+2025-08-01,2025,vuelta-pilsen-a-colombia,gc,Canel's - Java,2.2,24.0,0.0,1,,0.0,,,0.0

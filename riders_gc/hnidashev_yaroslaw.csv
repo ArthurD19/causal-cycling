@@ -1,0 +1,46 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-05-23,2019,chabany-race,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,60.0
+2019-09-20,2019,grand-prix-erciyes-mimar-sinan-me,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,0.0
+2019-03-10,2019,grand-prix-justiniano-hotels,gc,Kyiv Capital Team,1.2,,0,0,,0.0,,,10.0
+2019-05-12,2019,grand-prix-minsk,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,0.0
+2019-03-09,2019,grand-prix-velo-alanya,gc,Kyiv Capital Team,1.2,,0,0,,0.0,,,20.0
+2019-05-26,2019,horizon-park-classic,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,45.0
+2019-05-11,2019,minsk-cup,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,0.0
+2019-06-30,2019,nc-ukraine,gc,Kyiv Capital Team,NC,,,1,,0.0,,,70.0
+2019-06-27,2019,nc-ukraine-itt,gc,Kyiv Capital Team,NC,,0,0,,0.0,,,30.0
+2019-06-02,2019,odessa-gp,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,18.0
+2019-05-24,2019,race-horizon-park,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,30.0
+2019-05-25,2019,race-horizon-park-2,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,30.0
+2019-06-01,2019,tour-de-ribas,gc,Kyiv Capital Team,1.2,,,1,,0.0,,,30.0
+2019-05-17,2019,tour-of-black-sea,gc,Kyiv Capital Team,2.2,,0,0,,25.0,,,29.0
+2019-09-21,2019,tour-of-kayseri,gc,Kyiv Capital Team,2.2,39.0,0.0,1,,0.0,,,0.0
+2019-06-14,2019,tour-of-malopolska,gc,Kyiv Capital Team,2.2,,0,0,,20.0,,,21.0
+2019-08-07,2019,tour-of-szeklerland,gc,Kyiv Capital Team,2.2,20.0,0.0,1,,0.0,,,0.0
+2020-02-16,2020,gp-antalya,gc,Antalya Gençlik Spor Kulübü,1.2,,,1,,0.0,,,3.0
+2020-02-16,2020,gp-antalya,gc,Ukraine,1.2,,0,0,,0.0,,,5.0
+2020-02-09,2020,gp-manavgat,gc,Antalya Gençlik Spor Kulübü,1.2,,0,0,,0.0,,,0.0
+2020-02-09,2020,gp-manavgat,gc,Ukraine,1.2,,0,0,,0.0,,,40.0
+2020-02-13,2020,grand-prix-alanya,gc,Ukraine,1.2,,,1,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,Lviv Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,15.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Ukraine,1.2,,0,0,,0.0,,,88.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Ukraine,1.2,,0,0,,0.0,,,80.0
+2020-09-03,2020,grand-prix-develi,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-09-03,2020,grand-prix-develi,gc,Ukraine,1.2,,0,0,,0.0,,,110.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Lviv Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Ukraine,1.2,,0,0,,0.0,,,3.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Ukraine,1.2,,0,0,,0.0,,,15.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,15.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Ukraine,1.2,,0,0,,0.0,,,43.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Ukraine,1.2,,0,0,,0.0,,,25.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Ukraine,1.2,,0,0,,0.0,,,105.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,30.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Ukraine,1.2,,0,0,,0.0,,,88.0
+2020-02-20,2020,tour-of-antalya,gc,Ukraine,2.1,132.0,0.0,1,,3.0,,,3.0
+2020-07-28,2020,tour-of-bulgaria,gc,Ukraine,2.2,,0,0,,0.0,,,0.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Ukraine,CC,,0,0,,0.0,,,0.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Ukraine,CC,,0,0,,0.0,,,4.0
+2020-09-27,2020,world-championship,gc,Ukraine,WC,,0,0,,0.0,,,0.0
+2020-09-25,2020,world-championship-itt,gc,Ukraine,WC,,0,0,,0.0,,,0.0

@@ -1,0 +1,53 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2024-05-05,2024,circuit-des-xi-villes,gc,AC Sparta Praha,1.1,,,1,,0.0,,,0.0
+2024-07-20,2024,gp-czech-republic,gc,AC Sparta Praha,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-czech-republic2,gc,AC Sparta Praha,NC,,,1,,0.0,,,0.0
+2024-09-05,2024,okolo-jiznich-cech,gc,AC Sparta Praha,2.2,,,1,,0.0,,,0.0
+2024-05-04,2024,ronde-van-overijssel,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2024-07-06,2024,visegrad-4-bicycle-race-gp-hungary,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2024-07-21,2024,visegrad-4-bicycle-race-gp-polski-via-odra,gc,AC Sparta Praha,1.2,,0,0,,0.0,,,0.0
+2024-07-07,2024,visegrad-4-bicycle-race-gp-slovakia,gc,AC Sparta Praha,1.2,,,1,,0.0,,,0.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,ATT Investments,1.2,,0,0,,0.0,,,20.0
+2025-04-23,2025,banja-luka-belgrade-i,gc,ATT Investments,2.2,86.0,0.0,1,,3.0,,,3.0
+2025-04-09,2025,circuit-des-ardennes,gc,ATT Investments,2.2,,0,0,,0.0,,,0.0
+2025-08-14,2025,czech-tour,gc,ATT Investments,2.1,,0,0,,11.0,,,14.0
+2025-07-23,2025,dookola-mazowsza,gc,ATT Investments,2.2,,0,0,,40.0,,,50.0
+2025-05-28,2025,fleche-du-sud,gc,ATT Investments,2.2,,0,0,,23.0,,,27.0
+2025-03-30,2025,gp-adria-mobil,gc,ATT Investments,1.2,,,1,,0.0,,,0.0
+2025-03-27,2025,gp-brda-collio,gc,ATT Investments,1.2,,0,0,,0.0,,,40.0
+2025-05-03,2025,gp-herning,gc,ATT Investments,1.2,,0,0,,0.0,,,0.0
+2025-03-23,2025,gp-izola-butan-plin,gc,ATT Investments,1.2,,0,0,,0.0,,,15.0
+2025-08-31,2025,gp-kranj,gc,ATT Investments,1.2,,0,0,,0.0,,,3.0
+2025-05-01,2025,gp-vorarlberg,gc,ATT Investments,1.2,,0,0,,0.0,,,25.0
+2025-03-13,2025,istrian-spring-tour,gc,ATT Investments,2.2,,0,0,,0.0,,,7.0
+2025-07-22,2025,memorial-andrzeja-trochanowskiego,gc,ATT Investments,1.2,,0,0,,0.0,,,45.0
+2025-06-26,2025,nc-czech-republic-itt,gc,ATT Investments,NC,,0,0,,0.0,,,8.0
+2025-06-29,2025,nc-czech-republic2,gc,ATT Investments,NC,,,1,,0.0,,,19.0
+2025-06-29,2025,nc-hungary,gc,ATT Investments,NC,,0,0,,0.0,,,0.0
+2025-06-25,2025,nc-hungary-itt,gc,ATT Investments,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-poland,gc,ATT Investments,NC,,0,0,,0.0,,,33.0
+2025-06-26,2025,nc-poland-itt,gc,ATT Investments,NC,,0,0,,0.0,,,20.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,ATT Investments,2.2,112.0,0.0,1,,3.0,,,10.0
+2025-09-04,2025,okolo-jiznich-cech,gc,ATT Investments,2.2,,0,0,,3.0,,,3.0
+2025-09-17,2025,okolo-slovenska,gc,ATT Investments,2.1,,0,0,,20.0,,,20.0
+2025-03-09,2025,porec-trophy,gc,ATT Investments,1.2,,0,0,,0.0,,,0.0
+2025-07-27,2025,puchar-ministra-obrony-narodowej,gc,ATT Investments,1.2,,0,0,,0.0,,,3.0
+2025-03-08,2025,rhodes-gp,gc,ATT Investments,1.2,,0,0,,0.0,,,40.0
+2025-05-10,2025,silesian-classic,gc,ATT Investments,1.2,,0,0,,0.0,,,70.0
+2025-04-13,2025,slezanski-mnich1,gc,ATT Investments,1.2,,0,0,,0.0,,,98.0
+2025-03-01,2025,south-aegean-tour,gc,ATT Investments,2.2,,0,0,,20.0,,,23.0
+2025-08-20,2025,tour-bitwa-warszawska-1920,gc,ATT Investments,2.2,,0,0,,78.0,,,104.0
+2025-08-27,2025,tour-de-kurpie,gc,ATT Investments,2.2,,0,0,,95.0,,,113.0
+2025-04-16,2025,tour-du-loir-et-cher,gc,ATT Investments,2.2,,0,0,,23.0,,,37.0
+2025-07-09,2025,tour-of-austria,gc,ATT Investments,2.1,,0,0,,13.0,,,13.0
+2025-09-30,2025,tour-of-croatia,gc,ATT Investments,2.1,,0,0,,30.0,,,30.0
+2025-05-30,2025,tour-of-estonia,gc,ATT Investments,2.1,,0,0,,105.0,,,119.0
+2025-04-02,2025,tour-of-hellas,gc,ATT Investments,2.1,,0,0,,8.0,,,11.0
+2025-09-04,2025,tour-of-istanbul,gc,ATT Investments,2.1,,0,0,,11.0,,,11.0
+2025-03-13,2025,tour-of-rhodes,gc,ATT Investments,2.2,,0,0,,20.0,,,30.0
+2025-08-07,2025,tour-of-szeklerland,gc,ATT Investments,2.2,,0,0,,65.0,,,82.0
+2025-03-05,2025,trofej-umag,gc,ATT Investments,1.2,,0,0,,0.0,,,20.0
+2025-09-10,2025,turul-romaniei,gc,ATT Investments,2.2,,0,0,,0.0,,,1.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,ATT Investments,1.2,,0,0,,0.0,,,20.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,ATT Investments,1.2,,0,0,,0.0,,,60.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,ATT Investments,1.2,,0,0,,0.0,,,10.0

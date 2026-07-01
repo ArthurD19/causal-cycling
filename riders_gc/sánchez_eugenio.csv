@@ -1,0 +1,234 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-04-25,2019,le-tour-de-bretagne,gc,Lizarte,2.2,78.0,0.0,1,,0.0,,,0.0
+2021-01-24,2021,gp-de-valence,gc,Spain,1.2,,,1,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Spain,Olympics,,0,0,,0.0,,,30.0
+2021-07-28,2021,olympic-games-itt,gc,Spain,Olympics,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Spain,CC,,0,0,,0.0,,,5.0
+2021-09-26,2021,world-championship,gc,Spain,WC,,0,0,,0.0,,,58.0
+2021-09-19,2021,world-championship-itt,gc,Spain,WC,,0,0,,0.0,,,0.0
+2022-06-04,2022,adriatica-ionica-race,gc,Equipo Kern Pharma,2.1,,,1,,0.0,,,8.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Equipo Kern Pharma,2.Pro,70.0,0.0,1,,25.0,,,25.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,8.0
+2022-03-20,2022,cholet-pays-de-loire,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,3.0
+2022-06-14,2022,cic-mont-ventoux,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,25.0
+2022-07-31,2022,circuito-de-getxo,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-02-13,2022,clasica-de-almeria,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,5.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,6.0
+2022-04-15,2022,classic-grand-besancon-doubs,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,3.0
+2022-03-19,2022,classic-loire-atlantique,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2022-10-03,2022,coppa-bernocchi,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,5.0
+2022-01-28,2022,deia-trophy,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-02-02,2022,etoile-de-besseges,gc,Equipo Kern Pharma,2.1,55.0,0.0,1,,6.0,,,6.0
+2022-06-02,2022,giro-dell-appennino,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,30.0
+2022-10-01,2022,giro-dell-emilia,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,3.0
+2022-01-30,2022,gp-d-ouverture,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,73.0
+2022-05-14,2022,gp-de-plumelec,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,23.0
+2022-01-23,2022,gp-de-valence,gc,Equipo Kern Pharma,1.2,,,1,,0.0,,,23.0
+2022-03-27,2022,gp-industria-artigianato,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,13.0
+2022-02-24,2022,gran-camino,gc,Equipo Kern Pharma,2.1,,0,0,,68.0,,,68.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,13.0
+2022-04-04,2022,itzulia-basque-country,gc,Equipo Kern Pharma,2.UWT,,0,0,,12.0,,,12.0
+2022-06-16,2022,la-route-d-occitanie,gc,Equipo Kern Pharma,2.1,,0,0,,5.0,,,19.0
+2022-04-24,2022,liege-bastogne-liege,gc,Equipo Kern Pharma,1.UWT,,,1,,0.0,,,0.0
+2022-05-31,2022,mercan-tour-classic-alpes-maritimes,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,5.0
+2022-06-26,2022,nc-czech-republic2,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,5.0
+2022-06-22,2022,nc-netherlands-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-spain,gc,Equipo Kern Pharma,NC,,,1,,0.0,,,40.0
+2022-06-24,2022,nc-spain-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,50.0
+2022-09-13,2022,okolo-slovenska,gc,Equipo Kern Pharma,2.1,,0,0,,9.0,,,9.0
+2022-07-25,2022,prueba-villafranca,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-05-25,2022,rhone-alpes-isere-tour,gc,Equipo Kern Pharma,2.2,,0,0,,0.0,,,0.0
+2022-02-16,2022,ruta-del-sol,gc,Equipo Kern Pharma,2.Pro,,0,0,,0.0,,,0.0
+2022-07-30,2022,san-sebastian,gc,Equipo Kern Pharma,1.UWT,,,1,,0.0,,,72.0
+2022-07-28,2022,tour-alsace,gc,Equipo Kern Pharma,2.2,,0,0,,0.0,,,0.0
+2022-04-26,2022,tour-de-romandie,gc,Equipo Kern Pharma,2.UWT,,0,0,,20.0,,,20.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,Equipo Kern Pharma,2.1,50.0,0.0,1,,3.0,,,3.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,0.0
+2022-08-16,2022,tour-du-limousin,gc,Equipo Kern Pharma,2.1,,,1,,0.0,,,0.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,Equipo Kern Pharma,2.1,61.0,0.0,1,,6.0,,,6.0
+2022-09-27,2022,tour-of-croatia,gc,Equipo Kern Pharma,2.1,95.0,0.0,1,,3.0,,,3.0
+2022-06-15,2022,tour-of-slovenia,gc,Equipo Kern Pharma,2.Pro,,0,0,,98.0,,,98.0
+2022-04-18,2022,tour-of-the-alps,gc,Equipo Kern Pharma,2.Pro,,0,0,,6.0,,,6.0
+2022-04-10,2022,tour-of-turkey,gc,Equipo Kern Pharma,2.Pro,,0,0,,13.0,,,13.0
+2022-10-04,2022,tre-valli-varesine,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,3.0
+2022-05-15,2022,tro-bro-leon,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,3.0
+2022-01-26,2022,trofeo-calvia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,5.0
+2022-03-02,2022,trofeo-laigueglia,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,3.0
+2022-01-30,2022,trofeo-palma,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-03-21,2022,volta-a-catalunya,gc,Equipo Kern Pharma,2.UWT,,0,0,,2.0,,,2.0
+2022-08-02,2022,vuelta-a-burgos,gc,Equipo Kern Pharma,2.Pro,,0,0,,8.0,,,8.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Equipo Kern Pharma,2.1,72.0,0.0,1,,23.0,,,23.0
+2022-08-20,2022,vuelta-a-espana,gc,Equipo Kern Pharma,2.UWT,,0,0,,48.0,0.0,0.0,48.0
+2022-08-20,2022,vuelta-a-espana,kom,Equipo Kern Pharma,2.UWT,,0,0,,48.0,0.0,0.0,48.0
+2022-08-20,2022,vuelta-a-espana,points,Equipo Kern Pharma,2.UWT,,0,0,,48.0,0.0,0.0,48.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Equipo Kern Pharma,2.Pro,,0,0,,5.0,,,5.0
+2022-04-29,2022,vuelta-asturias,gc,Equipo Kern Pharma,2.1,,0,0,,43.0,,,46.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Equipo Kern Pharma,2.Pro,,,1,,0.0,,,0.0
+2023-08-17,2023,arctic-race-of-norway,gc,Equipo Kern Pharma,2.Pro,,0,0,,60.0,,,60.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,9.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Equipo Kern Pharma,2.Pro,93.0,0.0,1,,9.0,,,9.0
+2023-06-13,2023,cic-mont-ventoux,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,14.0
+2023-07-30,2023,circuito-de-getxo,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,5.0
+2023-02-12,2023,clasica-de-almeria,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,5.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,0.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,70.0
+2023-07-27,2023,czech-tour,gc,Equipo Kern Pharma,2.1,,0,0,,53.0,,,53.0
+2023-01-28,2023,deia-trophy,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-02-01,2023,etoile-de-besseges,gc,Equipo Kern Pharma,2.1,,,1,,8.0,,,8.0
+2023-06-02,2023,giro-dell-appennino,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,53.0
+2023-01-29,2023,gp-d-ouverture,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,0.0
+2023-05-06,2023,gp-de-plumelec,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,8.0
+2023-01-22,2023,gp-de-valence,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,15.0
+2023-07-13,2023,gp-int-torres-vedras,gc,Equipo Kern Pharma,2.2,68.0,0.0,1,,3.0,,,4.0
+2023-02-23,2023,gran-camino,gc,Equipo Kern Pharma,2.1,,0,0,,9.0,,,9.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,90.0
+2023-04-03,2023,itzulia-basque-country,gc,Equipo Kern Pharma,2.UWT,,0,0,,16.0,,,16.0
+2023-04-19,2023,la-fleche-wallonne,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,52.0
+2023-06-15,2023,la-route-d-occitanie,gc,Equipo Kern Pharma,2.1,,0,0,,6.0,,,6.0
+2023-04-23,2023,liege-bastogne-liege,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,15.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-02-10,2023,muscat-classic,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,41.0
+2023-06-25,2023,nc-netherlands,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-netherlands-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Equipo Kern Pharma,NC,,,1,,0.0,,,50.0
+2023-06-23,2023,nc-spain-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,7.0
+2023-09-13,2023,okolo-slovenska,gc,Equipo Kern Pharma,2.1,,0,0,,40.0,,,40.0
+2023-10-05,2023,paris-bourges,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2023-10-08,2023,paris-tours,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,5.0
+2023-07-25,2023,prueba-villafranca,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,61.0
+2023-02-15,2023,ruta-del-sol,gc,Equipo Kern Pharma,2.Pro,,0,0,,10.0,,,10.0
+2023-07-29,2023,san-sebastian,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,36.0
+2023-09-23,2023,tour-de-langkawi,gc,Equipo Kern Pharma,2.Pro,38.0,3.0,1,,183.0,,,193.0
+2023-03-12,2023,tour-de-taiwan,gc,Equipo Kern Pharma,2.1,,0,0,,85.0,,,99.0
+2023-10-01,2023,tour-de-vendee,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-04-16,2023,tour-du-doubs,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,45.0
+2023-05-13,2023,tour-du-finistere,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,11.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,30.0
+2023-09-03,2023,tour-of-britain,gc,Equipo Kern Pharma,2.Pro,,0,0,,33.0,,,33.0
+2023-09-26,2023,tour-of-croatia,gc,Equipo Kern Pharma,2.1,,0,0,,38.0,,,23.0
+2023-02-11,2023,tour-of-oman,gc,Equipo Kern Pharma,2.Pro,,0,0,,13.0,,,13.0
+2023-06-14,2023,tour-of-slovenia,gc,Equipo Kern Pharma,2.Pro,,0,0,,63.0,,,63.0
+2023-04-17,2023,tour-of-the-alps,gc,Equipo Kern Pharma,2.Pro,,,1,,0.0,,,0.0
+2023-05-07,2023,tro-bro-leon,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,3.0
+2023-01-25,2023,trofeo-calvia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2023-01-29,2023,trofeo-palma,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,53.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,6.0
+2023-03-19,2023,trofeu-da-arrabida,gc,Equipo Kern Pharma,1.2,,0,0,,0.0,,,30.0
+2023-03-20,2023,volta-a-catalunya,gc,Equipo Kern Pharma,2.UWT,,0,0,,8.0,,,8.0
+2023-08-09,2023,volta-a-portugal,gc,Equipo Kern Pharma,2.1,35.0,0.0,1,,3.0,,,6.0
+2023-03-22,2023,volta-ao-alentejo,gc,Equipo Kern Pharma,2.2,,0,0,,20.0,,,20.0
+2023-08-15,2023,vuelta-a-burgos,gc,Equipo Kern Pharma,2.Pro,,0,0,,75.0,,,85.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Equipo Kern Pharma,2.1,70.0,0.0,1,,0.0,,,5.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Equipo Kern Pharma,2.Pro,,0,0,,3.0,,,3.0
+2023-04-28,2023,vuelta-asturias,gc,Equipo Kern Pharma,2.1,79.0,0.0,1,,49.0,,,52.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,3.0
+2024-05-19,2024,antwerp-port-epic,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,50.0
+2024-08-04,2024,arctic-race-of-norway,gc,Equipo Kern Pharma,2.Pro,,0,0,,10.0,,,10.0
+2024-05-12,2024,boucles-de-l-aulne,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2024-06-02,2024,brussels-cycling-classic,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,40.0
+2024-03-17,2024,cholet-pays-de-loire,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,33.0
+2024-05-29,2024,circuit-franco-belge,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,60.0
+2024-08-11,2024,circuito-de-getxo,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-02-11,2024,clasica-de-almeria,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,10.0
+2024-02-12,2024,clasica-jaen-paraiso-interior,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,5.0
+2024-07-15,2024,clasica-terres-de-l-ebre,gc,Equipo Kern Pharma,1.2,,,1,,0.0,,,60.0
+2024-04-12,2024,classic-grand-besancon-doubs,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-03-16,2024,classic-loire-atlantique,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,3.0
+2024-01-26,2024,deia-trophy,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2024-02-01,2024,etoile-de-besseges,gc,Equipo Kern Pharma,2.1,,0,0,,3.0,,,3.0
+2024-02-10,2024,figueira-champions-classic,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,11.0
+2024-07-14,2024,giro-dell-appennino,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,28.0
+2024-04-21,2024,giro-di-romagna,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,58.0
+2024-09-11,2024,giro-di-toscana,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,5.0
+2024-01-28,2024,gp-d-ouverture,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,50.0
+2024-05-04,2024,gp-de-plumelec,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,8.0
+2024-01-20,2024,gp-de-valence,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,5.0
+2024-07-11,2024,gp-int-torres-vedras,gc,Equipo Kern Pharma,2.2,,0,0,,0.0,,,0.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Equipo Kern Pharma,2.2,,0,0,,21.0,,,22.0
+2024-02-27,2024,gp-samyn,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2024-02-22,2024,gran-camino,gc,Equipo Kern Pharma,2.1,47.0,0.0,1,,3.0,,,6.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,38.0
+2024-03-02,2024,grand-prix-criquielion,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,25.0
+2024-03-03,2024,grote-prijs-jean-pierre-monsere,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,60.0
+2024-06-01,2024,heist-op-den-berg,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-04-01,2024,itzulia-basque-country,gc,Equipo Kern Pharma,2.UWT,,0,0,,16.0,,,36.0
+2024-03-24,2024,la-roue-tourangelle,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,30.0
+2024-04-21,2024,liege-bastogne-liege,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,0.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,3.0
+2024-02-09,2024,muscat-classic,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-poland,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-poland-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-spain,gc,Equipo Kern Pharma,NC,,,1,,0.0,,,20.0
+2024-06-21,2024,nc-spain-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,4.0
+2024-03-27,2024,paris-camembert,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,3.0
+2024-10-06,2024,paris-tours,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,0.0
+2024-07-25,2024,prueba-villafranca,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,73.0
+2024-04-02,2024,region-pays-de-la-loire,gc,Equipo Kern Pharma,2.1,,0,0,,8.0,,,8.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,Equipo Kern Pharma,2.2,51.0,0.0,1,,40.0,,,47.0
+2024-05-20,2024,ronde-van-limburg,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,26.0
+2024-03-29,2024,route-adelie-de-vitre,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,0.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,35.0
+2024-02-16,2024,ruta-del-sol,gc,Equipo Kern Pharma,2.Pro,,0,0,,0.0,,,0.0
+2024-08-10,2024,san-sebastian,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,52.0
+2024-09-29,2024,tour-de-langkawi,gc,Equipo Kern Pharma,2.Pro,,0,0,,238.0,,,241.0
+2024-03-10,2024,tour-de-taiwan,gc,Equipo Kern Pharma,2.1,,0,0,,10.0,,,15.0
+2024-04-14,2024,tour-du-doubs,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-05-11,2024,tour-du-finistere,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,6.0
+2024-04-13,2024,tour-du-jura-cycliste,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,6.0
+2024-10-01,2024,tour-of-croatia,gc,Equipo Kern Pharma,2.1,,0,0,,38.0,,,23.0
+2024-08-27,2024,tour-of-hainan,gc,Equipo Kern Pharma,2.Pro,,0,0,,200.0,,,218.0
+2024-02-10,2024,tour-of-oman,gc,Equipo Kern Pharma,2.Pro,,0,0,,48.0,,,48.0
+2024-06-12,2024,tour-of-slovenia,gc,Equipo Kern Pharma,2.Pro,,0,0,,85.0,,,85.0
+2024-04-15,2024,tour-of-the-alps,gc,Equipo Kern Pharma,2.Pro,,,1,,16.0,,,16.0
+2024-05-05,2024,tro-bro-leon,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-09-15,2024,trofeo-matteotti,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,5.0
+2024-01-28,2024,trofeo-palma,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-03-18,2024,volta-a-catalunya,gc,Equipo Kern Pharma,2.UWT,,0,0,,32.0,,,38.0
+2024-07-24,2024,volta-a-portugal,gc,Equipo Kern Pharma,2.1,,0,0,,13.0,,,19.0
+2024-08-05,2024,vuelta-a-burgos,gc,Equipo Kern Pharma,2.Pro,,0,0,,168.0,,,168.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,6.0
+2024-08-17,2024,vuelta-a-espana,gc,Equipo Kern Pharma,2.UWT,,0,0,,100.0,0.0,0.0,1324.0
+2024-08-17,2024,vuelta-a-espana,kom,Equipo Kern Pharma,2.UWT,,0,0,,100.0,0.0,0.0,1324.0
+2024-08-17,2024,vuelta-a-espana,points,Equipo Kern Pharma,2.UWT,,0,0,,100.0,0.0,0.0,1324.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Equipo Kern Pharma,2.Pro,99.0,0.0,1,,11.0,,,11.0
+2024-04-26,2024,vuelta-asturias,gc,Equipo Kern Pharma,2.1,,0,0,,33.0,,,33.0
+2024-02-10,2024,vuelta-ciclista-a-la-region-de-murcia,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,3.0
+2025-07-28,2025,banyuwangi-tour-de-ijen,gc,Victoria Sports Pro Cycling,2.2,,0,0,,3.0,,,9.0
+2025-08-03,2025,circuito-de-getxo,gc,Victoria Sports Pro Cycling,1.1,,,1,,0.0,,,0.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,Victoria Sports Pro Cycling,1.1,,,1,,0.0,,,0.0
+2025-09-06,2025,dhofar-classic,gc,Victoria Sports Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2025-06-24,2025,giro-dell-appennino,gc,Victoria Sports Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2025-03-30,2025,gp-adria-mobil,gc,Victoria Sports Pro Cycling,1.2,,,1,,0.0,,,0.0
+2025-05-01,2025,gp-vorarlberg,gc,Victoria Sports Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2025-06-28,2025,nc-netherlands,gc,Victoria Sports Pro Cycling,NC,,0,0,,0.0,,,0.0
+2025-02-28,2025,nc-philippines,gc,Victoria Sports Pro Cycling,NC,,0,0,,0.0,,,61.0
+2025-02-25,2025,nc-philippines-itt,gc,Victoria Sports Pro Cycling,NC,,0,0,,0.0,,,18.0
+2025-10-05,2025,oita-urban-classic,gc,Victoria Sports Pro Cycling,1.2,,,1,,0.0,,,0.0
+2025-07-25,2025,prueba-villafranca,gc,Victoria Sports Pro Cycling,1.1,,,1,,0.0,,,0.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Victoria Sports Pro Cycling,2.1,,0,0,,0.0,,,0.0
+2025-05-10,2025,silesian-classic,gc,Victoria Sports Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2025-04-06,2025,syedra-ancient-city,gc,Victoria Sports Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2025-07-13,2025,the-road-race-tokyo-tama,gc,Victoria Sports Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2025-10-11,2025,tour-de-kyushu,gc,Victoria Sports Pro Cycling,2.1,27.0,0.0,1,,13.0,,,13.0
+2025-03-16,2025,tour-de-taiwan,gc,Victoria Sports Pro Cycling,2.1,,0,0,,3.0,,,3.0
+2025-09-09,2025,tour-of-binzhou,gc,Victoria Sports Pro Cycling,1.1,,,1,,0.0,,,3.0
+2025-05-30,2025,tour-of-estonia,gc,Victoria Sports Pro Cycling,2.1,,0,0,,0.0,,,0.0
+2025-04-02,2025,tour-of-hellas,gc,Victoria Sports Pro Cycling,2.1,56.0,0.0,1,,0.0,,,0.0
+2025-09-19,2025,tour-of-huangshan,gc,Victoria Sports Pro Cycling,2.1,31.0,0.0,1,,70.0,,,84.0
+2025-06-04,2025,tour-of-lithuania,gc,Victoria Sports Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2025-10-12,2025,tour-of-mentougou,gc,Victoria Sports Pro Cycling,2.2,,0,0,,0.0,,,3.0
+2025-04-10,2025,tour-of-mersin,gc,Victoria Sports Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2025-09-07,2025,tour-of-salalah,gc,Victoria Sports Pro Cycling,2.2,,0,0,,0.0,,,8.0
+2025-01-24,2025,tour-of-sharjah,gc,Victoria Sports Pro Cycling,2.2,,,1,,0.0,,,0.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,Victoria Sports Pro Cycling,1.2,,0,0,,0.0,,,15.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Victoria Sports Pro Cycling,1.1,,,1,,0.0,,,0.0
+2025-04-24,2025,vuelta-asturias,gc,Victoria Sports Pro Cycling,2.1,,,1,,0.0,,,0.0
+2025-06-14,2025,yellow-river-estuary-road-cycling-race,gc,Victoria Sports Pro Cycling,2.2,,0,0,,0.0,,,-5.0

@@ -1,0 +1,45 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-09-04,2020,hafjell-gp,gc,Lillehammer CK,1.2,,0,0,,0.0,,,0.0
+2020-09-05,2020,lillehammer-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,0.0
+2021-10-03,2021,gylne-gutuer,gc,Lillehammer CK,1.2,,,1,,0.0,,,25.0
+2021-08-28,2021,himmerland-rundt,gc,Lillehammer CK,1.2,,0,0,,0.0,,,5.0
+2021-10-02,2021,lillehammer-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,20.0
+2021-08-29,2021,skive-lobet,gc,Lillehammer CK,1.2,,0,0,,0.0,,,3.0
+2022-09-04,2022,gylne-gutuer,gc,Lillehammer CK,1.2,,0,0,,0.0,,,0.0
+2022-05-07,2022,hadeland-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,20.0
+2022-09-03,2022,lillehammer-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,10.0
+2022-09-08,2022,okolo-jiznich-cech,gc,Lillehammer CK,2.2,66.0,0.0,1,,0.0,,,0.0
+2022-05-08,2022,ringerike-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,25.0
+2022-08-06,2022,scandinavian-race-uppsala,gc,Lillehammer CK,1.2,,,1,,0.0,,,0.0
+2023-09-03,2023,gylne-gutuer,gc,Lillehammer CK,1.2,,,1,,0.0,,,0.0
+2023-05-06,2023,hadeland-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,0.0
+2023-09-02,2023,lillehammer-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,25.0
+2023-06-25,2023,nc-norway,gc,Lillehammer CK,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-norway-itt,gc,Lillehammer CK,NC,,0,0,,0.0,,,0.0
+2023-09-07,2023,okolo-jiznich-cech,gc,Lillehammer CK,2.2,,0,0,,0.0,,,1.0
+2023-05-07,2023,ringerike-gp,gc,Lillehammer CK,1.2,,,1,,0.0,,,0.0
+2023-06-01,2023,ronde-de-l-oise,gc,Lillehammer CK,2.2,71.0,0.0,1,,15.0,,,18.0
+2024-05-26,2024,albani-classic-fyen-rundt,gc,Lillehammer CK Continental Team,1.2,,0,0,,0.0,,,0.0
+2024-04-13,2024,arno-wallaard-memorial,gc,Lillehammer CK Continental Team,1.2,,0,0,,0.0,,,0.0
+2024-04-28,2024,famenne-ardenne-classic,gc,Lillehammer CK Continental Team,1.1,,,1,,0.0,,,0.0
+2024-09-28,2024,gp-cerami,gc,Lillehammer CK Continental Team,1.2,,0,0,,0.0,,,0.0
+2024-05-25,2024,gp-herning,gc,Lillehammer CK Continental Team,1.2,,0,0,,0.0,,,0.0
+2024-05-04,2024,hadeland-gp,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,3.0
+2024-06-23,2024,nc-norway,gc,Lillehammer CK Continental Team,NC,,,1,,0.0,,,0.0
+2024-06-20,2024,nc-norway-itt,gc,Lillehammer CK Continental Team,NC,,0,0,,0.0,,,0.0
+2024-09-05,2024,okolo-jiznich-cech,gc,Lillehammer CK Continental Team,2.2,,0,0,,5.0,,,5.0
+2024-05-26,2024,omloop-der-kempen,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,0.0
+2024-05-05,2024,ringerike-gp,gc,Lillehammer CK Continental Team,1.2,,0,0,,0.0,,,10.0
+2024-05-30,2024,ronde-de-l-oise,gc,Lillehammer CK Continental Team,2.2,,,1,,10.0,,,10.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,0.0
+2025-08-07,2025,arctic-race-of-norway,gc,Lillehammer CK Continental Team,2.Pro,,0,0,,0.0,,,0.0
+2025-09-27,2025,arno-wallaard-memorial,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,0.0
+2025-05-03,2025,gp-herning,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,0.0
+2025-05-10,2025,hadeland-gp,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-norway,gc,Lillehammer CK Continental Team,NC,,,1,,0.0,,,1.0
+2025-06-26,2025,nc-norway-itt,gc,Lillehammer CK Continental Team,NC,,0,0,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,-2.0
+2025-05-11,2025,ringerike-gp,gc,Lillehammer CK Continental Team,1.2,,,1,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,Lillehammer CK Continental Team,2.2,,0,0,,25.0,,,32.0
+2025-05-29,2025,tour-of-norway,gc,Lillehammer CK Continental Team,2.Pro,82.0,0.0,1,,10.0,,,10.0
+2025-03-13,2025,tour-of-rhodes,gc,Lillehammer CK Continental Team,2.2,14.0,0.0,1,,0.0,,,7.0

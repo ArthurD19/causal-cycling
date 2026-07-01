@@ -1,0 +1,76 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-05-05,2019,circuito-del-porto-trofeo-arvedi,gc,Biesse Carrera,1.2,,,1,,0.0,,,0.0
+2019-09-14,2019,coppa-agostoni,gc,Biesse Carrera,1.1,,0,0,,0.0,,,5.0
+2019-09-15,2019,coppa-bernocchi,gc,Biesse Carrera,1.1,,,1,,0.0,,,5.0
+2019-07-14,2019,giro-del-medio-brenta,gc,Biesse Carrera,1.2,,,1,,0.0,,,43.0
+2019-04-28,2019,giro-dell-appennino,gc,Biesse Carrera,1.1,,0,0,,0.0,,,70.0
+2019-10-05,2019,giro-dell-emilia,gc,Biesse Carrera,1.HC,,,1,,0.0,,,0.0
+2019-09-05,2019,giro-della-regione-friuli-venezia-giulia,gc,Biesse Carrera,2.2,,0,0,,20.0,,,21.0
+2019-04-07,2019,gp-adria-mobil,gc,Biesse Carrera,1.2,,0,0,,0.0,,,3.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Biesse Carrera,1.HC,,,1,,0.0,,,0.0
+2019-03-10,2019,gp-industria-artigianato,gc,Biesse Carrera,1.HC,,,1,,0.0,,,3.0
+2019-02-24,2019,gp-izola-butan-plin,gc,Biesse Carrera,1.2,,0,0,,0.0,,,20.0
+2019-06-09,2019,gp-lugano,gc,Biesse Carrera,1.1,,0,0,,0.0,,,13.0
+2019-03-14,2019,istrian-spring-tour,gc,Biesse Carrera,2.2,,0,0,,3.0,,,3.0
+2019-09-21,2019,memorial-marco-pantani,gc,Biesse Carrera,1.1,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-italy,gc,Biesse Carrera,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-switserland,gc,Biesse Carrera,NC,,0,0,,0.0,,,0.0
+2019-03-09,2019,porec-trophy,gc,Biesse Carrera,1.2,,0,0,,0.0,,,0.0
+2019-03-06,2019,trofej-umag,gc,Biesse Carrera,1.2,,0,0,,0.0,,,0.0
+2019-06-02,2019,trofeo-alcide-degasperi,gc,Biesse Carrera,1.2,,,1,,0.0,,,20.0
+2019-07-02,2019,trofeo-citta-di-brescia,gc,Biesse Carrera,1.2,,,1,,0.0,,,15.0
+2019-02-17,2019,trofeo-laigueglia,gc,Biesse Carrera,1.HC,,0,0,,0.0,,,0.0
+2019-09-22,2019,trofeo-matteotti,gc,Biesse Carrera,1.1,,0,0,,0.0,,,3.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Biesse Carrera,2.1,,0,0,,0.0,,,0.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Gallina Ecotek Colosio,1.2,,,1,,0.0,,,0.0
+2021-06-03,2021,giro-ciclistico-d-italia,gc,Gallina Ecotek Colosio,2.2,,0,0,,0.0,,,0.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,Gallina Ecotek Colosio,2.2,,0,0,,0.0,,,1.0
+2021-07-17,2021,gp-czech-republic,gc,Gallina Ecotek Colosio,1.2,,0,0,,0.0,,,3.0
+2021-03-07,2021,porec-trophy,gc,Gallina Ecotek Colosio,1.2,,,1,,0.0,,,0.0
+2021-08-04,2021,tour-of-szeklerland,gc,Gallina Ecotek Colosio,2.2,62.0,0.0,1,,3.0,,,4.0
+2021-07-10,2021,visegrad-4-bicycle-race-gp-hungary,gc,Gallina Ecotek Colosio,1.2,,,1,,0.0,,,13.0
+2021-07-18,2021,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Gallina Ecotek Colosio,1.2,,0,0,,0.0,,,25.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Viris Vigevano,1.2,,,1,,0.0,,,10.0
+2022-07-03,2022,giro-del-medio-brenta,gc,Solme - Imesa - Olmo,1.2,,,1,,0.0,,,0.0
+2022-03-27,2022,gp-adria-mobil,gc,Solme - Imesa - Olmo,1.2,,0,0,,0.0,,,0.0
+2022-07-16,2022,gp-cycliste-de-gemenc,gc,Solme - Imesa - Olmo,2.2,10.0,3.0,1,,3.0,,,3.0
+2022-03-24,2022,gp-goriska-vipava-valley,gc,Solme - Imesa - Olmo,1.2,,0,0,,0.0,,,0.0
+2022-03-20,2022,popolarissima,gc,Solme - Imesa - Olmo,1.2,,0,0,,0.0,,,15.0
+2022-08-09,2022,tour-of-szeklerland,gc,Solme - Imesa - Olmo,2.2,68.0,0.0,1,,0.0,,,0.0
+2022-06-02,2022,trofeo-alcide-degasperi,gc,Viris Vigevano,1.2,,,1,,0.0,,,0.0
+2022-07-05,2022,trofeo-citta-di-brescia,gc,Solme - Imesa - Olmo,1.2,,,1,,0.0,,,0.0
+2022-07-23,2022,visegrad-4-bicycle-race-gp-hungary,gc,Solme - Imesa - Olmo,1.2,,,1,,0.0,,,3.0
+2022-07-24,2022,visegrad-4-bicycle-race-gp-slovakia,gc,Solme - Imesa - Olmo,1.2,,,1,,0.0,,,0.0
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Solme - Olmo,1.2,,,1,,0.0,,,25.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Solme - Olmo,1.2,,0,0,,0.0,,,0.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Solme - Olmo,1.2,,0,0,,0.0,,,0.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Solme - Olmo,1.2,,0,0,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Solme - Olmo,2.2,,,1,,0.0,,,0.0
+2023-03-26,2023,gp-adria-mobil,gc,Solme - Olmo,1.2,,,1,,0.0,,,3.0
+2023-07-14,2023,gp-cycliste-de-gemenc,gc,Solme - Olmo,2.2,72.0,0.0,1,,0.0,,,7.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Solme - Olmo,1.2,,,1,,0.0,,,0.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Solme - Olmo,1.2,,0,0,,0.0,,,0.0
+2023-07-23,2023,gp-kranj,gc,Solme - Olmo,1.2,,,1,,0.0,,,3.0
+2023-06-25,2023,nc-hungary,gc,Solme - Olmo,NC,,0,0,,0.0,,,3.0
+2023-06-24,2023,nc-italy,gc,Solme - Olmo,NC,,0,0,,0.0,,,0.0
+2023-03-19,2023,popolarissima,gc,Solme - Olmo,1.2,,,1,,0.0,,,3.0
+2023-08-09,2023,tour-of-szeklerland,gc,Solme - Olmo,2.2,66.0,0.0,1,,0.0,,,1.0
+2023-06-02,2023,trofeo-alcide-degasperi,gc,Solme - Olmo,1.2,,,1,,0.0,,,0.0
+2023-07-04,2023,trofeo-citta-di-brescia,gc,Solme - Olmo,1.2,,,1,,0.0,,,0.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Solme - Olmo,1.2,,0,0,,0.0,,,15.0
+2023-07-08,2023,visegrad-4-bicycle-race-gp-hungary,gc,Solme - Olmo,1.2,,0,0,,0.0,,,3.0
+2023-07-09,2023,visegrad-4-bicycle-race-gp-slovakia,gc,Solme - Olmo,1.2,,0,0,,0.0,,,0.0
+2024-04-18,2024,banja-luka-belgrade-i,gc,Gallina Ecotek Lucchini,2.2,115.0,0.0,1,,3.0,,,3.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,Gallina Ecotek Lucchini,1.2,,0,0,,0.0,,,0.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,Gallina Ecotek Lucchini,1.2,,0,0,,0.0,,,0.0
+2024-03-19,2024,gp-brda-collio,gc,Gallina Ecotek Lucchini,1.2,,,1,,0.0,,,0.0
+2024-03-21,2024,gp-goriska-vipava-valley,gc,Gallina Ecotek Lucchini,1.2,,0,0,,0.0,,,0.0
+2024-08-31,2024,in-the-footsteps-of-the-romans,gc,Gallina Ecotek Lucchini,2.2,,0,0,,0.0,,,0.0
+2024-03-07,2024,istrian-spring-tour,gc,Gallina Ecotek Lucchini,2.2,,0,0,,0.0,,,0.0
+2024-03-17,2024,popolarissima,gc,Gallina Ecotek Lucchini,1.2,,,1,,0.0,,,0.0
+2024-03-03,2024,porec-trophy,gc,Gallina Ecotek Lucchini,1.2,,,1,,0.0,,,0.0
+2024-08-24,2024,tour-of-bulgaria,gc,Gallina Ecotek Lucchini,2.2,,0,0,,0.0,,,0.0
+2024-05-30,2024,tour-of-malopolska,gc,Gallina Ecotek Lucchini,2.2,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofej-umag,gc,Gallina Ecotek Lucchini,1.2,,,1,,0.0,,,0.0
+2024-07-02,2024,trofeo-citta-di-brescia,gc,Gallina Ecotek Lucchini,1.2,,0,0,,0.0,,,0.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,Gallina Ecotek Lucchini,1.2,,0,0,,0.0,,,0.0

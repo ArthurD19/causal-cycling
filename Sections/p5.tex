@@ -1,0 +1,53 @@
+\section{Double Machine Learning for Average Treatment Effect Estimation}
+
+\subsection{The Partially Linear Model}
+
+To estimate the ATE defined in Equation~\eqref{eq:ate}, we use the \textbf{Double Machine Learning} (DML) framework of \citet{chernozhukov2018}. The underlying structural equation is the partially linear model:
+\begin{equation}
+    Y_i = \theta_0 D_i + g_0(X_i) + \varepsilon_i, \quad \mathbb{E}[\varepsilon_i \mid X_i, D_i] = 0
+    \label{eq:plm}
+\end{equation}
+\begin{equation}
+    D_i = m_0(X_i) + V_i, \quad \mathbb{E}[V_i \mid X_i] = 0
+    \label{eq:selection}
+\end{equation}
+
+where $\theta_0$ is the scalar ATE to be estimated, $g_0(\cdot)$ is an unknown function capturing the direct effect of covariates on the outcome, and $m_0(\cdot) = \mathbb{E}[D_i \mid X_i]$ is the propensity score---the probability that the rider is selected given the race context. Both nuisance functions $g_0$ and $m_0$ are unrestricted and can be approximated by any machine learning estimator.
+
+\subsection{The Partialling-Out Estimator}
+
+Naive estimation of $\theta_0$ by OLS suffers from regularisation bias: fitting a high-dimensional $g_0$ using, say, lasso or a random forest introduces shrinkage on $\theta_0$ as well, rendering the estimator inconsistent. The partialling-out approach of Frisch, Waugh, and Lovell circumvents this by projecting both $Y_i$ and $D_i$ onto the residual space orthogonal to $X_i$.
+
+Let $\hat{g}$ and $\hat{m}$ denote machine learning estimates of the two nuisance functions, trained on a held-out sample (see Section~5.3). Define the residuals:
+\begin{equation}
+    \tilde{Y}_i = Y_i - \hat{g}(X_i), \qquad \tilde{D}_i = D_i - \hat{m}(X_i)
+    \label{eq:residuals}
+\end{equation}
+
+The DML estimator of $\theta_0$ is the OLS coefficient in the residual-on-residual regression:
+\begin{equation}
+    \hat{\theta}_0^{\text{DML}} = \left(\sum_{i=1}^n \tilde{D}_i^2\right)^{-1} \sum_{i=1}^n \tilde{D}_i \tilde{Y}_i
+    \label{eq:dml_estimator}
+\end{equation}
+
+Intuitively, $\tilde{D}_i$ measures how unexpectedly the rider was selected given the race context, and $\tilde{Y}_i$ measures how surprisingly well or poorly the team performed. The estimator regresses the unexplained outcome variation on the unexplained selection variation, isolating the causal channel.
+
+\subsection{Cross-Fitting}
+
+A critical implementation detail is that $\hat{g}$ and $\hat{m}$ must not be trained on the same observations used to compute the residuals, otherwise the Neyman orthogonality argument breaks down and the estimator inherits the bias of the nuisance models. We use $K = 5$-fold cross-fitting: the dataset is split into 5 folds; for each fold $k$, the nuisance models are trained on the remaining 4 folds and applied to generate residuals for fold $k$. The estimator in Equation~\eqref{eq:dml_estimator} is then computed on the full pooled residuals. Under mild regularity conditions, this yields a $\sqrt{n}$-consistent and asymptotically normal estimator regardless of the convergence rate of the nuisance models.
+
+\subsection{Nuisance Model Specification}
+
+Both $\hat{g}$ and $\hat{m}$ are approximated by \textbf{gradient boosted trees} (GBM) with the default scikit-learn parameterisation (100 estimators, max depth 3, learning rate 0.1). GBMs are chosen for their ability to capture nonlinear interactions between race terrain features without requiring manual specification of functional form. The propensity model $\hat{m}$ is fitted with logistic loss since $D_i \in \{0,1\}$; the outcome model $\hat{g}$ uses squared error loss.
+
+The quality of the two first-stage models is assessed through their out-of-fold $R^2$ scores, reported alongside the ATE estimate. A low $R^2$ for the propensity model indicates that the observable covariates explain little of the selection variation---a structural feature of race-level selection decisions driven by team planning and injury considerations rather than observable race characteristics. A low outcome $R^2$ limits the precision of the second-stage estimate but does not introduce bias.
+
+\subsection{Inference}
+
+The asymptotic variance of $\hat{\theta}_0^{\text{DML}}$ follows from the score function of the partialling-out estimator:
+\begin{equation}
+    \widehat{\text{Var}}(\hat{\theta}_0^{\text{DML}}) = \frac{\frac{1}{n}\sum_i \tilde{D}_i^2 \hat{\varepsilon}_i^2}{\left(\frac{1}{n}\sum_i \tilde{D}_i^2\right)^2}
+\end{equation}
+where $\hat{\varepsilon}_i = \tilde{Y}_i - \hat{\theta}_0 \tilde{D}_i$. The 95\% confidence interval $[\hat{\theta}_0 \pm 1.96 \cdot \widehat{\text{se}}]$ is reported for each rider. A two-sided $t$-test at the 5\% level is used to assess statistical significance.
+
+In addition to this analytical interval, a non-parametric bootstrap with $B = 200$ replications resamples the cross-fitted residuals to produce a bootstrap confidence interval. Both intervals are reported; when they diverge substantially, the bootstrap is preferred as it does not rely on the asymptotic normal approximation.

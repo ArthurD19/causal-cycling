@@ -1,0 +1,46 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-05-19,2022,joe-martin-stage-race-me,gc,Desjardin-Ford Cromwell Primeau Velo,2.2,,,1,,0.0,,,0.0
+2023-08-18,2023,baltic-chain-tour,gc,Team Ecoflo Chronos,2.2,,0,0,,0.0,,,-5.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Team Ecoflo Chronos,1.1,,,1,,0.0,,,0.0
+2023-03-19,2023,cholet-pays-de-loire,gc,Team Ecoflo Chronos,1.1,,,1,,0.0,,,0.0
+2023-04-06,2023,circuit-des-ardennes,gc,Team Ecoflo Chronos,2.2,,0,0,,0.0,,,0.0
+2023-03-18,2023,classic-loire-atlantique,gc,Team Ecoflo Chronos,1.1,,0,0,,0.0,,,0.0
+2023-04-23,2023,east-midlands-international-cicle-classic,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2023-05-07,2023,fleche-ardennaise,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2023-09-10,2023,gp-de-la-somme,gc,Team Ecoflo Chronos,1.2,,0,0,,0.0,,,3.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2023-02-28,2023,gp-samyn,gc,Team Ecoflo Chronos,1.1,,,1,,0.0,,,0.0
+2023-07-23,2023,grand-prix-de-la-ville-de-perenchies,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2023-09-03,2023,grand-prix-de-plouay,gc,Team Ecoflo Chronos,1.2,,0,0,,0.0,,,0.0
+2023-03-26,2023,la-roue-tourangelle,gc,Team Ecoflo Chronos,1.1,,0,0,,0.0,,,5.0
+2023-03-04,2023,le-tour-des-100-communes,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-canada2,gc,Team Ecoflo Chronos,NC,,,1,,0.0,,,231.0
+2023-06-24,2023,nc-israel,gc,Team Ecoflo Chronos,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-israel-itt,gc,Team Ecoflo Chronos,NC,,0,0,,0.0,,,10.0
+2023-05-29,2023,paris-troyes,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2023-06-01,2023,ronde-de-l-oise,gc,Team Ecoflo Chronos,2.2,,0,0,,25.0,,,32.0
+2023-07-27,2023,tour-alsace,gc,Team Ecoflo Chronos,2.2,98.0,0.0,1,,0.0,,,0.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,Team Ecoflo Chronos,2.2,,0,0,,0.0,,,0.0
+2023-06-14,2023,tour-de-beauce,gc,Team Ecoflo Chronos,2.2,48.0,0.0,1,,45.0,,,57.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Team Ecoflo Chronos,2.2,,0,0,,0.0,,,0.0
+2023-05-13,2023,tour-du-finistere,gc,Team Ecoflo Chronos,1.1,,0,0,,0.0,,,3.0
+2023-04-12,2023,tour-du-loir-et-cher,gc,Team Ecoflo Chronos,2.2,98.0,0.0,1,,0.0,,,0.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,Team Ecoflo Chronos,2.2,,0,0,,0.0,,,0.0
+2024-04-28,2024,famenne-ardenne-classic,gc,Team Ecoflo Chronos,1.1,,,1,,0.0,,,0.0
+2024-05-12,2024,fleche-ardennaise,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2024-06-22,2024,nc-canada2,gc,Team Ecoflo Chronos,NC,,,1,,0.0,,,43.0
+2024-06-21,2024,nc-israel-itt,gc,Team Ecoflo Chronos,NC,,0,0,,0.0,,,20.0
+2024-05-20,2024,paris-troyes,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2024-05-04,2024,ronde-van-overijssel,gc,Team Ecoflo Chronos,1.2,,,1,,0.0,,,0.0
+2024-08-23,2024,tour-cycliste-international-de-la-guadeloupe,gc,Team Ecoflo Chronos,2.2,33.0,0.0,1,,0.0,,,5.0
+2024-06-12,2024,tour-de-beauce,gc,Team Ecoflo Chronos,2.2,60.0,0.0,1,,0.0,,,4.0
+2024-05-23,2024,tour-de-la-mirabelle,gc,Team Ecoflo Chronos,2.2,,,1,,0.0,,,0.0
+2024-04-04,2024,tour-of-mersin,gc,Team Ecoflo Chronos,2.2,78.0,0.0,1,,0.0,,,0.0
+2024-04-24,2024,tour-of-the-gila,gc,Team Ecoflo Chronos,2.2,,0,0,,20.0,,,21.0
+2025-09-14,2025,gp-montreal,gc,Canada,1.UWT,,,1,,0.0,,,0.0
+2025-09-12,2025,gp-quebec,gc,Canada,1.UWT,,,1,,0.0,,,0.0
+2025-05-18,2025,gran-premio-new-york-city,gc,Cannondale Echelon p/b 4iiii,1.2,,,1,,0.0,,,0.0
+2025-06-28,2025,nc-canada2,gc,Cannondale Echelon p/b 4iiii,NC,,,1,,0.0,,,21.0
+2025-06-11,2025,tour-de-beauce,gc,Cannondale Echelon p/b 4iiii,2.2,,,1,,3.0,,,10.0
+2025-09-28,2025,world-championship,gc,Canada,WC,,0,0,,0.0,,,0.0
+2025-09-21,2025,world-championship-itt,gc,Canada,WC,,0,0,,0.0,,,40.0

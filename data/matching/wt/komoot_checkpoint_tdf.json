@@ -1,0 +1,34 @@
+[
+  {
+    "fichier_gpx": "2025 Tour de France Stage 1.gpx"
+  },
+  {
+    "fichier_gpx": "2025 Tour de France Stage 2.gpx",
+    "route_url": "https://www.komoot.com/tour/2950071966",
+    "road_km": 167.0,
+    "state_road_km": 38.2,
+    "street_km": 2.38,
+    "cycleway_km": 1.59,
+    "unknown_km": 0.414,
+    "path_km": 0.109,
+    "asphalt_km": 208.0,
+    "paved_km": 1.5,
+    "cobblestones_km": 0.703
+  },
+  {
+    "fichier_gpx": "2025 Tour de France Stage 3.gpx",
+    "route_url": "https://www.komoot.com/tour/2950073056",
+    "road_km": 101.0,
+    "state_road_km": 42.4,
+    "cycleway_km": 31.7,
+    "street_km": 1.73,
+    "off-grid_(unknown)_km": 1.16,
+    "path_km": 0.301,
+    "unknown_km": 1.33,
+    "access_road_km": 0.139,
+    "asphalt_km": 173.0,
+    "paved_km": 2.56,
+    "cobblestones_km": 1.12,
+    "compacted_gravel_km": 0.301
+  }
+]

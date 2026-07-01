@@ -1,0 +1,420 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-05-27,2018,boucles-de-l-aulne,gc,France,1.1,,,1,,0.0,,,0.0
+2018-02-24,2018,faun-ardeche-classic,gc,France,1.1,,0,0,,0.0,,,0.0
+2018-05-26,2018,gp-de-plumelec,gc,France,1.1,,,1,,0.0,,,10.0
+2018-02-25,2018,la-drome-classic,gc,France,1.1,,0,0,,0.0,,,0.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,France,2.2U,,0,0,,0.0,,,0.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,France,1.Ncup,,0,0,,0.0,,,10.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,France,CC,,0,0,,0.0,,,0.0
+2018-08-12,2018,uec-road-european-championships-me,gc,France,CC,,0,0,,0.0,,,75.0
+2018-09-30,2018,world-championship,gc,France,WC,,0,0,,0.0,,,773.0
+2018-09-26,2018,world-championship-itt,gc,France,WC,,0,0,,0.0,,,5.0
+2019-05-14,2019,4-jours-de-dunkerque,gc,Team Arkéa Samsic,2.HC,,0,0,,71.0,,,71.0
+2019-08-15,2019,arctic-race-of-norway,gc,Team Arkéa Samsic,2.HC,,0,0,,155.0,,,165.0
+2019-06-02,2019,boucles-de-l-aulne,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,40.0
+2019-06-06,2019,boucles-de-la-mayenne,gc,Team Arkéa Samsic,2.1,,0,0,,3.0,,,3.0
+2019-04-17,2019,brabantse-pijl,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,8.0
+2019-09-01,2019,bretagne-classic,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,52.0
+2019-09-07,2019,brussels-cycling-classic,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,8.0
+2019-03-31,2019,cholet-pays-de-loire,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,60.0
+2019-06-17,2019,cic-mont-ventoux,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,55.0
+2019-10-05,2019,circuit-franco-belge,gc,Team Arkéa Samsic,1.HC,,,1,,0.0,,,55.0
+2019-03-30,2019,classic-loire-atlantique,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2019-09-14,2019,coppa-agostoni,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,40.0
+2019-09-15,2019,coppa-bernocchi,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,10.0
+2019-08-25,2019,cyclassics-hamburg,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,80.0
+2019-02-02,2019,deia-trophy,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,0.0
+2019-08-29,2019,deutschland-tour,gc,Team Arkéa Samsic,2.HC,,0,0,,0.0,,,0.0
+2019-05-01,2019,eschborn-frankfurt,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,34.0
+2019-02-07,2019,etoile-de-besseges,gc,Team Arkéa Samsic,2.1,,0,0,,5.0,,,5.0
+2019-10-06,2019,famenne-ardenne-classic,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,0.0
+2019-03-02,2019,faun-ardeche-classic,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,0.0
+2019-10-05,2019,giro-dell-emilia,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,3.0
+2019-09-18,2019,giro-di-toscana,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,25.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,3.0
+2019-07-25,2019,gp-cerami,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,0.0
+2019-09-22,2019,gp-d-isbergues,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2019-02-03,2019,gp-d-ouverture,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2019-03-24,2019,gp-de-denain,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,55.0
+2019-09-08,2019,gp-de-fourmies,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,0.0
+2019-06-01,2019,gp-de-plumelec,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,11.0
+2019-09-18,2019,gp-de-wallonie,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,0.0
+2019-09-21,2019,gp-impanis-van-petegem,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,13.0
+2019-03-10,2019,gp-industria-artigianato,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,8.0
+2019-03-05,2019,gp-samyn,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,0.0
+2019-08-20,2019,gp-stad-zottegem,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,88.0
+2019-10-10,2019,gran-piemonte,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,0.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,0.0
+2019-08-03,2019,kreiz-breizh-elites,gc,Team Arkéa Samsic,2.2,52.0,0.0,1,,21.0,,,21.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,56.0
+2019-03-03,2019,la-drome-classic,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,73.0
+2019-08-18,2019,la-poly-normande,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,38.0
+2019-04-07,2019,la-roue-tourangelle,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,28.0
+2019-06-20,2019,la-route-d-occitanie,gc,Team Arkéa Samsic,2.1,,0,0,,5.0,,,8.0
+2019-01-21,2019,la-tropicale-amissa-bongo,gc,Team Arkéa Samsic,2.1,,0,0,,70.0,,,97.0
+2019-04-25,2019,le-tour-de-bretagne,gc,Team Arkéa Samsic,2.2,,0,0,,6.0,,,7.0
+2019-04-28,2019,liege-bastogne-liege,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,0.0
+2019-10-08,2019,memorial-frank-vandenbroucke,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,5.0
+2019-09-21,2019,memorial-marco-pantani,gc,Team Arkéa Samsic,1.1,,,1,,0.0,,,3.0
+2019-10-09,2019,milano-torino,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,0.0
+2019-10-03,2019,munsterland-giro,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,10.0
+2019-06-30,2019,nc-france,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,101.0
+2019-06-27,2019,nc-france-itt,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-netherlands,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,ncgreat-britain,gc,Team Arkéa Samsic,NC,,0,0,,0.0,,,0.0
+2019-03-20,2019,nokere-koerse,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,56.0
+2019-10-10,2019,paris-bourges,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,0.0
+2019-04-16,2019,paris-camembert,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,85.0
+2019-09-29,2019,paris-chauny-classique,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,9.0
+2019-03-10,2019,paris-nice,gc,Team Arkéa Samsic,2.UWT,,0,0,,10.0,,,10.0
+2019-04-14,2019,paris-roubaix,gc,Team Arkéa Samsic,1.UWT,,0,0,,0.0,,,10.0
+2019-10-13,2019,paris-tours,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,11.0
+2019-03-17,2019,paris-troyes,gc,Team Arkéa Samsic,1.2,,0,0,,0.0,,,3.0
+2019-04-09,2019,region-pays-de-la-loire,gc,Team Arkéa Samsic,2.1,,0,0,,3.0,,,8.0
+2019-04-05,2019,route-adelie-de-vitre,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,95.0
+2019-04-10,2019,scheldeprijs,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,5.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Team Arkéa Samsic,2.UWT,,0,0,,65.0,,,65.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Team Arkéa Samsic,2.1,,0,0,,0.0,,,0.0
+2019-07-06,2019,tour-de-france,gc,Team Arkéa Samsic,2.UWT,,0,0,,175.0,0.0,0.0,175.0
+2019-07-06,2019,tour-de-france,kom,Team Arkéa Samsic,2.UWT,,0,0,,175.0,0.0,0.0,175.0
+2019-07-06,2019,tour-de-france,points,Team Arkéa Samsic,2.UWT,,0,0,,175.0,0.0,0.0,175.0
+2019-05-24,2019,tour-de-l-ain,gc,Team Arkéa Samsic,2.1,,0,0,,63.0,,,68.0
+2019-10-06,2019,tour-de-vendee,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,38.0
+2019-02-22,2019,tour-des-alpes-maritimes,gc,Team Arkéa Samsic,2.1,,0,0,,8.0,,,8.0
+2019-06-20,2019,tour-des-pays-de-savoie,gc,Team Arkéa Samsic,2.2,,0,0,,0.0,,,9.0
+2019-09-15,2019,tour-du-doubs,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,140.0
+2019-04-20,2019,tour-du-finistere,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,39.0
+2019-08-21,2019,tour-du-limousin,gc,Team Arkéa Samsic,2.1,,0,0,,45.0,,,45.0
+2019-08-27,2019,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Arkéa Samsic,2.1,,0,0,,26.0,,,26.0
+2019-07-06,2019,tour-of-austria,gc,Team Arkéa Samsic,2.1,,0,0,,6.0,,,6.0
+2019-06-12,2019,tour-of-belgium,gc,Team Arkéa Samsic,2.HC,,0,0,,33.0,,,33.0
+2019-05-28,2019,tour-of-norway,gc,Team Arkéa Samsic,2.HC,,0,0,,33.0,,,33.0
+2019-02-16,2019,tour-of-oman,gc,Team Arkéa Samsic,2.HC,,0,0,,85.0,,,85.0
+2019-04-22,2019,tour-of-the-alps,gc,Team Arkéa Samsic,2.HC,,0,0,,8.0,,,8.0
+2019-04-22,2019,tro-bro-leon,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,91.0
+2019-02-17,2019,trofeo-laigueglia,gc,Team Arkéa Samsic,1.HC,,0,0,,0.0,,,25.0
+2019-02-03,2019,trofeo-palma,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,50.0
+2019-02-01,2019,trofeo-pollenca-port-d-andratx,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,25.0
+2019-01-31,2019,trofeo-ses-salines-felanitx,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,25.0
+2019-08-21,2019,veenendaal-veenendaal,gc,Team Arkéa Samsic,1.1,,0,0,,0.0,,,3.0
+2019-03-25,2019,volta-a-catalunya,gc,Team Arkéa Samsic,2.UWT,,0,0,,0.0,,,0.0
+2019-07-31,2019,volta-a-portugal,gc,Team Arkéa Samsic,2.1,,0,0,,3.0,,,8.0
+2019-05-10,2019,vuelta-international-a-la-cominudad-de-madrid,gc,Team Arkéa Samsic,2.1,,0,0,,210.0,,,235.0
+2021-04-18,2021,amstel-gold-race,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,40.0
+2021-09-12,2021,antwerp-port-epic,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,145.0
+2021-08-05,2021,arctic-race-of-norway,gc,Intermarché - Wanty - Gobert Matériaux,2.Pro,,0,0,,153.0,,,168.0
+2021-05-27,2021,boucles-de-la-mayenne,gc,Intermarché - Wanty - Gobert Matériaux,2.Pro,,0,0,,5.0,,,5.0
+2021-04-14,2021,brabantse-pijl,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,10.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,0.0
+2021-08-29,2021,bretagne-classic,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,2.0
+2021-08-28,2021,brussels-cycling-classic,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,200.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,30.0
+2021-03-28,2021,cholet-pays-de-loire,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,15.0
+2021-10-17,2021,chrono-des-nations,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,10.0
+2021-05-13,2021,circuit-de-wallonie,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,10.0
+2021-10-07,2021,circuit-des-ardennes,gc,VC Villefranche Beaujolais,2.2,65.0,0.0,1,,0.0,,,0.0
+2021-06-06,2021,circuit-des-xi-villes,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,40.0
+2021-09-29,2021,circuit-franco-belge,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,106.0
+2021-02-14,2021,clasica-de-almeria,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,70.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,0.0
+2021-09-03,2021,classic-grand-besancon-doubs,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,,1,,0.0,,,130.0
+2021-10-02,2021,classic-loire-atlantique,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,,1,,0.0,,,5.0
+2021-10-11,2021,coppa-agostoni,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,48.0
+2021-08-05,2021,czech-tour,gc,Intermarché - Wanty - Gobert Matériaux,2.1,,0,0,,120.0,,,126.0
+2021-05-14,2021,deia-trophy,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,38.0
+2021-08-26,2021,deutschland-tour,gc,Intermarché - Wanty - Gobert Matériaux,2.Pro,65.0,0.0,1,,120.0,,,120.0
+2021-08-26,2021,druivenkoers-overijse,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,108.0
+2021-06-05,2021,dwars-door-het-hageland,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,235.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,45.0
+2021-03-26,2021,e3-harelbeke,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,42.0
+2021-09-19,2021,eschborn-frankfurt,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,205.0
+2021-02-03,2021,etoile-de-besseges,gc,Intermarché - Wanty - Gobert Matériaux,2.1,,0,0,,20.0,,,20.0
+2021-02-27,2021,faun-ardeche-classic,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,11.0
+2021-03-28,2021,gent-wevelgem,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,40.0
+2021-05-08,2021,giro-d-italia,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,68.0,0.0,0.0,176.0
+2021-05-08,2021,giro-d-italia,kom,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,68.0,0.0,0.0,176.0
+2021-05-08,2021,giro-d-italia,points,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,68.0,0.0,0.0,176.0
+2021-10-13,2021,giro-del-veneto,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,36.0
+2021-09-15,2021,giro-di-toscana,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,,1,,0.0,,,63.0
+2021-09-19,2021,gooikse-pijl,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,85.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,,1,,0.0,,,93.0
+2021-09-19,2021,gp-d-isbergues,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,,1,,0.0,,,40.0
+2021-01-31,2021,gp-d-ouverture,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,28.0
+2021-09-21,2021,gp-de-denain,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,68.0
+2021-09-12,2021,gp-de-fourmies,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,65.0
+2021-09-15,2021,gp-de-wallonie,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,8.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,33.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,13.0
+2021-03-07,2021,gp-industria-artigianato,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,5.0
+2021-08-15,2021,gp-jef-scherens,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,60.0
+2021-03-02,2021,gp-samyn,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,73.0
+2021-08-17,2021,gp-stad-zottegem,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,125.0
+2021-10-07,2021,gran-piemonte,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,148.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,50.0
+2021-08-20,2021,grote-prijs-marcel-kint,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,70.0
+2021-07-31,2021,heist-op-den-berg,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,40.0
+2021-10-09,2021,il-lombardia,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,40.0
+2021-04-05,2021,itzulia-basque-country,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,32.0,,,32.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,40.0
+2021-07-31,2021,kreiz-breizh-elites,gc,VC Villefranche Beaujolais,2.2,22.0,0.0,1,,0.0,,,0.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,3.0
+2021-02-28,2021,la-drome-classic,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,40.0
+2021-04-21,2021,la-fleche-wallonne,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,40.0
+2021-04-04,2021,la-roue-tourangelle,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,35.0
+2021-04-25,2021,liege-bastogne-liege,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,20.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,145.0
+2021-03-20,2021,milano-sanremo,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,23.0
+2021-10-06,2021,milano-torino,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,18.0
+2021-10-03,2021,munsterland-giro,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,39.0
+2021-06-20,2021,nc-belgium,gc,Intermarché - Wanty - Gobert Matériaux,NC,,0,0,,0.0,,,1.0
+2021-06-16,2021,nc-belgium-itt,gc,Intermarché - Wanty - Gobert Matériaux,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-estonia-itt,gc,Intermarché - Wanty - Gobert Matériaux,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-france,gc,Intermarché - Wanty - Gobert Matériaux,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Intermarché - Wanty - Gobert Matériaux,NC,,0,0,,0.0,,,135.0
+2021-06-20,2021,nc-italy,gc,Intermarché - Wanty - Gobert Matériaux,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-netherlands,gc,Intermarché - Wanty - Gobert Matériaux,NC,,0,0,,0.0,,,41.0
+2021-03-17,2021,nokere-koerse,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,10.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,14.0
+2021-09-23,2021,omloop-van-het-houtland-lichtervelde,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,210.0
+2021-10-07,2021,paris-bourges,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,35.0
+2021-06-15,2021,paris-camembert,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,13.0
+2021-09-26,2021,paris-chauny-classique,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,70.0
+2021-10-17,2021,paris-mantes-en-yvelines,gc,VC Villefranche Beaujolais,1.2,,,1,,0.0,,,43.0
+2021-03-07,2021,paris-nice,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,30.0,,,30.0
+2021-10-03,2021,paris-roubaix,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,40.0
+2021-10-10,2021,paris-tours,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,135.0
+2021-03-14,2021,paris-troyes,gc,VC Villefranche Beaujolais,1.2,,0,0,,0.0,,,0.0
+2021-08-30,2021,renewi-tour,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,38.0,,,104.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,VC Villefranche Beaujolais,2.2,,,1,,0.0,,,3.0
+2021-10-24,2021,ronde-van-drenthe,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,90.0
+2021-05-24,2021,ronde-van-limburg,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,30.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,40.0
+2021-10-01,2021,route-adelie-de-vitre,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,,1,,0.0,,,55.0
+2021-07-31,2021,san-sebastian,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,356.0
+2021-04-07,2021,scheldeprijs,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,111.0
+2021-03-06,2021,strade-bianche,gc,Intermarché - Wanty - Gobert Matériaux,1.UWT,,0,0,,0.0,,,5.0
+2021-03-10,2021,tirreno-adriatico,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,30.0,,,30.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,40.0,,,40.0
+2021-05-14,2021,tour-d-eure-et-loir,gc,VC Villefranche Beaujolais,2.2,3.0,25.0,1,,25.0,,,28.0
+2021-06-26,2021,tour-de-france,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,105.0,0.0,0.0,110.0
+2021-06-26,2021,tour-de-france,kom,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,105.0,0.0,0.0,110.0
+2021-06-26,2021,tour-de-france,points,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,105.0,0.0,0.0,110.0
+2021-07-29,2021,tour-de-l-ain,gc,Intermarché - Wanty - Gobert Matériaux,2.1,,0,0,,35.0,,,49.0
+2021-08-09,2021,tour-de-pologne,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,88.0,,,88.0
+2021-04-27,2021,tour-de-romandie,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,80.0,,,80.0
+2021-06-06,2021,tour-de-suisse,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,0.0,,,0.0
+2021-07-20,2021,tour-de-wallonie,gc,Intermarché - Wanty - Gobert Matériaux,2.Pro,,0,0,,75.0,,,75.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,VC Villefranche Beaujolais,2.2,,0,0,,0.0,,,1.0
+2021-09-05,2021,tour-du-doubs,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,,1,,0.0,,,85.0
+2021-05-22,2021,tour-du-finistere,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,55.0
+2021-09-04,2021,tour-du-jura-cycliste,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,,1,,0.0,,,35.0
+2021-06-09,2021,tour-of-belgium,gc,Intermarché - Wanty - Gobert Matériaux,2.Pro,,0,0,,38.0,,,43.0
+2021-10-05,2021,tre-valli-varesine,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,60.0
+2021-05-16,2021,tro-bro-leon,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,133.0
+2021-05-13,2021,trofeo-calvia,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,28.0
+2021-03-03,2021,trofeo-laigueglia,gc,Intermarché - Wanty - Gobert Matériaux,1.Pro,,0,0,,0.0,,,38.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,55.0
+2021-02-21,2021,uae-tour,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,32.0,,,32.0
+2021-10-17,2021,veneto-classic,gc,Intermarché - Wanty - Gobert Matériaux,1.1,,0,0,,0.0,,,43.0
+2021-03-22,2021,volta-a-catalunya,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,16.0,,,16.0
+2021-05-05,2021,volta-ao-algarve,gc,Intermarché - Wanty - Gobert Matériaux,2.Pro,,0,0,,10.0,,,30.0
+2021-08-14,2021,vuelta-a-espana,gc,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,180.0,0.0,0.0,284.0
+2021-08-14,2021,vuelta-a-espana,kom,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,180.0,0.0,0.0,284.0
+2021-08-14,2021,vuelta-a-espana,points,Intermarché - Wanty - Gobert Matériaux,2.UWT,,0,0,,180.0,0.0,0.0,284.0
+2022-05-03,2022,4-jours-de-dunkerque,gc,Go Sport - Roubaix Lille Métropole,2.Pro,,0,0,,11.0,,,16.0
+2022-05-22,2022,boucles-de-l-aulne,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,6.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Go Sport - Roubaix Lille Métropole,2.Pro,,0,0,,0.0,,,5.0
+2022-03-20,2022,cholet-pays-de-loire,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,55.0
+2022-06-14,2022,cic-mont-ventoux,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2022-04-15,2022,classic-grand-besancon-doubs,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2022-03-19,2022,classic-loire-atlantique,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,8.0
+2022-02-02,2022,etoile-de-besseges,gc,Go Sport - Roubaix Lille Métropole,2.1,39.0,0.0,1,,0.0,,,0.0
+2022-02-26,2022,faun-ardeche-classic,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,0.0
+2022-09-18,2022,gp-d-isbergues,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2022-01-30,2022,gp-d-ouverture,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2022-03-17,2022,gp-de-denain,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,0,0,,0.0,,,55.0
+2022-09-11,2022,gp-de-fourmies,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,18.0
+2022-03-06,2022,gp-de-la-ville-de-lillers,gc,Go Sport - Roubaix Lille Métropole,1.2,,0,0,,0.0,,,20.0
+2022-07-10,2022,gp-de-la-ville-de-nogent-sur-oise,gc,Go Sport - Roubaix Lille Métropole,1.2,,,1,,0.0,,,20.0
+2022-05-14,2022,gp-de-plumelec,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,0,0,,0.0,,,3.0
+2022-09-14,2022,gp-de-wallonie,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,0.0
+2022-03-01,2022,gp-samyn,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,Go Sport - Roubaix Lille Métropole,1.2,,,1,,0.0,,,20.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2022-07-30,2022,kreiz-breizh-elites,gc,Go Sport - Roubaix Lille Métropole,2.2,46.0,0.0,1,,0.0,,,0.0
+2022-02-27,2022,la-drome-classic,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,0.0
+2022-08-14,2022,la-poly-normande,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,6.0
+2022-03-27,2022,la-roue-tourangelle,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,63.0
+2022-06-16,2022,la-route-d-occitanie,gc,Go Sport - Roubaix Lille Métropole,2.1,,0,0,,0.0,,,0.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-belgium,gc,Go Sport - Roubaix Lille Métropole,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-estonia,gc,Go Sport - Roubaix Lille Métropole,NC,,0,0,,0.0,,,30.0
+2022-06-22,2022,nc-estonia-itt,gc,Go Sport - Roubaix Lille Métropole,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-france,gc,Go Sport - Roubaix Lille Métropole,NC,,,1,,0.0,,,5.0
+2022-06-23,2022,nc-france-itt,gc,Go Sport - Roubaix Lille Métropole,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-lithuania,gc,Go Sport - Roubaix Lille Métropole,NC,,0,0,,0.0,,,40.0
+2022-06-22,2022,nc-lithuania-itt,gc,Go Sport - Roubaix Lille Métropole,NC,,0,0,,0.0,,,30.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,5.0
+2022-10-06,2022,paris-bourges,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2022-04-12,2022,paris-camembert,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,6.0
+2022-09-25,2022,paris-chauny-classique,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2022-10-09,2022,paris-tours,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,30.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Go Sport - Roubaix Lille Métropole,2.1,,0,0,,63.0,,,63.0
+2022-06-02,2022,ronde-de-l-oise,gc,Go Sport - Roubaix Lille Métropole,2.2,,0,0,,18.0,,,22.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,3.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Go Sport - Roubaix Lille Métropole,2.Pro,,0,0,,3.0,,,3.0
+2022-06-10,2022,tour-d-eure-et-loir,gc,Go Sport - Roubaix Lille Métropole,2.2,,0,0,,70.0,,,88.0
+2022-08-09,2022,tour-de-l-ain,gc,Go Sport - Roubaix Lille Métropole,2.1,60.0,0.0,1,,0.0,,,0.0
+2022-10-02,2022,tour-de-vendee,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,18.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,Go Sport - Roubaix Lille Métropole,2.1,52.0,0.0,1,,0.0,,,0.0
+2022-09-04,2022,tour-du-doubs,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2022-05-21,2022,tour-du-finistere,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,Go Sport - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2022-08-16,2022,tour-du-limousin,gc,Go Sport - Roubaix Lille Métropole,2.1,,,1,,0.0,,,0.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,Go Sport - Roubaix Lille Métropole,2.1,59.0,0.0,1,,3.0,,,3.0
+2022-05-15,2022,tro-bro-leon,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,0,0,,0.0,,,10.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Van Rysel - Roubaix Lille Métropole,2.Pro,54.0,0.0,1,,0.0,,,0.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Van Rysel - Roubaix Lille Métropole,2.Pro,,0,0,,43.0,,,58.0
+2023-09-28,2023,circuit-franco-belge,gc,Van Rysel - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,5.0
+2023-02-01,2023,etoile-de-besseges,gc,Go Sport - Roubaix Lille Métropole,2.1,,0,0,,0.0,,,0.0
+2023-09-17,2023,gp-d-isbergues,gc,Van Rysel - Roubaix Lille Métropole,1.1,,,1,,0.0,,,9.0
+2023-01-29,2023,gp-d-ouverture,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2023-03-16,2023,gp-de-denain,gc,Go Sport - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,40.0
+2023-09-10,2023,gp-de-fourmies,gc,Van Rysel - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,3.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,Go Sport - Roubaix Lille Métropole,1.2,,,1,,0.0,,,30.0
+2023-01-22,2023,gp-de-valence,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2023-09-13,2023,gp-de-wallonie,gc,Van Rysel - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,3.0
+2023-02-28,2023,gp-samyn,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,3.0
+2023-07-23,2023,grand-prix-de-la-ville-de-perenchies,gc,Van Rysel - Roubaix Lille Métropole,1.2,,,1,,0.0,,,53.0
+2023-06-03,2023,heist-op-den-berg,gc,Van Rysel - Roubaix Lille Métropole,1.1,,,1,,0.0,,,3.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Van Rysel - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2023-08-13,2023,la-poly-normande,gc,Van Rysel - Roubaix Lille Métropole,1.1,,,1,,0.0,,,3.0
+2023-03-26,2023,la-roue-tourangelle,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,3.0
+2023-06-15,2023,la-route-d-occitanie,gc,Van Rysel - Roubaix Lille Métropole,2.1,31.0,0.0,1,,0.0,,,0.0
+2023-03-04,2023,le-tour-des-100-communes,gc,Go Sport - Roubaix Lille Métropole,1.2,,,1,,0.0,,,3.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Van Rysel - Roubaix Lille Métropole,1.1,,,1,,0.0,,,0.0
+2023-08-30,2023,muur-classic-geraardsbergen,gc,Van Rysel - Roubaix Lille Métropole,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-belgium,gc,Van Rysel - Roubaix Lille Métropole,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-estonia,gc,Van Rysel - Roubaix Lille Métropole,NC,,0,0,,0.0,,,16.0
+2023-06-20,2023,nc-estonia-itt,gc,Van Rysel - Roubaix Lille Métropole,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-france,gc,Van Rysel - Roubaix Lille Métropole,NC,,,1,,0.0,,,3.0
+2023-06-22,2023,nc-france-itt,gc,Van Rysel - Roubaix Lille Métropole,NC,,0,0,,0.0,,,0.0
+2023-09-20,2023,omloop-van-het-houtland-lichtervelde,gc,Van Rysel - Roubaix Lille Métropole,1.1,,,1,,0.0,,,6.0
+2023-10-05,2023,paris-bourges,gc,Van Rysel - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,0.0
+2023-04-11,2023,paris-camembert,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,3.0
+2023-09-24,2023,paris-chauny-classique,gc,Van Rysel - Roubaix Lille Métropole,1.1,,,1,,0.0,,,3.0
+2023-10-08,2023,paris-tours,gc,Van Rysel - Roubaix Lille Métropole,1.Pro,,,1,,0.0,,,5.0
+2023-04-04,2023,region-pays-de-la-loire,gc,Go Sport - Roubaix Lille Métropole,2.1,,0,0,,60.0,,,63.0
+2023-03-31,2023,route-adelie-de-vitre,gc,Go Sport - Roubaix Lille Métropole,1.1,,,1,,0.0,,,50.0
+2023-07-19,2023,sd-worx-bw-classic,gc,Van Rysel - Roubaix Lille Métropole,1.2,,,1,,0.0,,,40.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,Van Rysel - Roubaix Lille Métropole,2.2,,0,0,,40.0,,,53.0
+2023-07-31,2023,tour-de-l-ain,gc,Van Rysel - Roubaix Lille Métropole,2.1,24.0,3.0,1,,6.0,,,6.0
+2023-10-01,2023,tour-de-vendee,gc,Van Rysel - Roubaix Lille Métropole,1.1,,0,0,,0.0,,,40.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Go Sport - Roubaix Lille Métropole,2.1,54.0,0.0,1,,0.0,,,0.0
+2023-08-15,2023,tour-du-limousin,gc,Van Rysel - Roubaix Lille Métropole,2.1,17.0,3.0,1,,3.0,,,3.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,Van Rysel - Roubaix Lille Métropole,2.1,,0,0,,3.0,,,3.0
+2024-05-14,2024,4-jours-de-dunkerque,gc,Van Rysel - Roubaix,2.Pro,34.0,3.0,1,,11.0,,,11.0
+2024-05-12,2024,boucles-de-l-aulne,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,3.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,Van Rysel - Roubaix,2.Pro,,0,0,,5.0,,,5.0
+2024-03-17,2024,cholet-pays-de-loire,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,38.0
+2024-05-29,2024,circuit-franco-belge,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,0.0
+2024-04-12,2024,classic-grand-besancon-doubs,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,0.0
+2024-03-16,2024,classic-loire-atlantique,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,70.0
+2024-02-16,2024,classic-var,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,0.0
+2024-02-01,2024,etoile-de-besseges,gc,Van Rysel - Roubaix,2.1,40.0,0.0,1,,0.0,,,14.0
+2024-04-28,2024,famenne-ardenne-classic,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,11.0
+2024-02-24,2024,faun-ardeche-classic,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,0.0
+2024-09-15,2024,gp-d-isbergues,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,5.0
+2024-01-28,2024,gp-d-ouverture,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,0.0
+2024-03-14,2024,gp-de-denain,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,75.0
+2024-09-08,2024,gp-de-fourmies,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,5.0
+2024-03-03,2024,gp-de-la-ville-de-lillers,gc,Van Rysel - Roubaix,1.2,,,1,,0.0,,,40.0
+2024-05-04,2024,gp-de-plumelec,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,6.0
+2024-01-20,2024,gp-de-valence,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,0.0
+2024-09-18,2024,gp-de-wallonie,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,6.0
+2024-02-27,2024,gp-samyn,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,3.0
+2024-07-21,2024,grand-prix-de-la-ville-de-perenchies,gc,Van Rysel - Roubaix,1.2,,,1,,0.0,,,25.0
+2024-02-25,2024,la-drome-classic,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,0.0
+2024-08-11,2024,la-poly-normande,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,6.0
+2024-03-24,2024,la-roue-tourangelle,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,43.0
+2024-03-02,2024,le-tour-des-100-communes,gc,Van Rysel - Roubaix,1.2,,,1,,0.0,,,15.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-belgium,gc,Van Rysel - Roubaix,NC,,0,0,,0.0,,,0.0
+2024-06-22,2024,nc-estonia,gc,Van Rysel - Roubaix,NC,,0,0,,0.0,,,65.0
+2024-06-18,2024,nc-estonia-itt,gc,Van Rysel - Roubaix,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-france,gc,Van Rysel - Roubaix,NC,,,1,,0.0,,,3.0
+2024-06-20,2024,nc-france-itt,gc,Van Rysel - Roubaix,NC,,0,0,,0.0,,,3.0
+2024-05-01,2024,omloop-van-het-waasland,gc,Van Rysel - Roubaix,1.2,,,1,,0.0,,,65.0
+2024-03-27,2024,paris-camembert,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,3.0
+2024-09-22,2024,paris-chauny-classique,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,6.0
+2024-10-06,2024,paris-tours,gc,Van Rysel - Roubaix,1.Pro,,,1,,0.0,,,0.0
+2024-04-02,2024,region-pays-de-la-loire,gc,Van Rysel - Roubaix,2.1,,0,0,,3.0,,,-12.0
+2024-03-29,2024,route-adelie-de-vitre,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,0.0
+2024-07-25,2024,tour-alsace,gc,Van Rysel - Roubaix,2.2,,0,0,,10.0,,,13.0
+2024-02-09,2024,tour-cycliste-international-la-provence,gc,Van Rysel - Roubaix,2.1,,0,0,,6.0,,,6.0
+2024-09-27,2024,tour-d-eure-et-loir,gc,Van Rysel - Roubaix,2.2,18.0,0.0,1,,25.0,,,32.0
+2024-07-13,2024,tour-de-l-ain,gc,Van Rysel - Roubaix,2.1,48.0,0.0,1,,85.0,,,99.0
+2024-02-17,2024,tour-des-alpes-maritimes,gc,Van Rysel - Roubaix,2.1,52.0,0.0,1,,3.0,,,3.0
+2024-04-14,2024,tour-du-doubs,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,3.0
+2024-05-11,2024,tour-du-finistere,gc,Van Rysel - Roubaix,1.1,,0,0,,0.0,,,0.0
+2024-04-13,2024,tour-du-jura-cycliste,gc,Van Rysel - Roubaix,1.1,,,1,,0.0,,,3.0
+2024-08-13,2024,tour-du-limousin,gc,Van Rysel - Roubaix,2.1,27.0,0.0,1,,0.0,,,0.0
+2024-08-20,2024,tour-du-poitou-charentes-et-de-la-vienne,gc,Van Rysel - Roubaix,2.1,,0,0,,79.0,,,84.0
+2024-09-03,2024,tour-of-britain,gc,Van Rysel - Roubaix,2.Pro,,0,0,,10.0,,,10.0
+2024-10-09,2024,tour-of-taihu-lake,gc,Van Rysel - Roubaix,2.Pro,,0,0,,30.0,,,45.0
+2024-05-05,2024,tro-bro-leon,gc,Van Rysel - Roubaix,1.Pro,,0,0,,0.0,,,13.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Van Rysel Roubaix,2.Pro,,,1,,0.0,,,0.0
+2025-04-05,2025,boucle-de-l-artois,gc,Van Rysel Roubaix,1.2,,,1,,0.0,,,0.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,6.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Van Rysel Roubaix,2.Pro,,0,0,,3.0,,,3.0
+2025-03-23,2025,cholet-pays-de-loire,gc,Van Rysel Roubaix,1.1,,0,0,,0.0,,,3.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,0.0
+2025-08-15,2025,circuit-franco-belge,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,5.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,5.0
+2025-02-21,2025,classic-var,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,3.0
+2025-01-24,2025,classica-camp-de-morvedre,gc,Van Rysel Roubaix,1.2,,,1,,0.0,,,0.0
+2025-05-13,2025,classique-dunkerque,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,0.0
+2025-02-05,2025,etoile-de-besseges,gc,Van Rysel Roubaix,2.1,22.0,3.0,1,,6.0,,,6.0
+2025-05-04,2025,famenne-ardenne-classic,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,10.0
+2025-03-01,2025,faun-ardeche-classic,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,0.0
+2025-09-21,2025,gp-d-isbergues,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,3.0
+2025-02-02,2025,gp-d-ouverture,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,0.0
+2025-03-20,2025,gp-de-denain,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,5.0
+2025-09-14,2025,gp-de-fourmies,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,0.0
+2025-03-09,2025,gp-de-la-ville-de-lillers,gc,Van Rysel Roubaix,1.2,,,1,,0.0,,,30.0
+2025-05-10,2025,gp-de-plumelec,gc,Van Rysel Roubaix,1.Pro,,0,0,,0.0,,,5.0
+2025-01-26,2025,gp-de-valence,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,0.0
+2025-09-17,2025,gp-de-wallonie,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,0.0
+2025-03-04,2025,gp-samyn,gc,Van Rysel Roubaix,1.1,,0,0,,0.0,,,0.0
+2025-07-27,2025,grand-prix-de-la-ville-de-perenchies,gc,Van Rysel Roubaix,1.2,,,1,,0.0,,,28.0
+2025-03-02,2025,la-drome-classic,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,0.0
+2025-08-17,2025,la-poly-normande,gc,Van Rysel Roubaix,1.1,,0,0,,0.0,,,5.0
+2025-03-30,2025,la-roue-tourangelle,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,6.0
+2025-06-18,2025,la-route-d-occitanie,gc,Van Rysel Roubaix,2.1,51.0,0.0,1,,0.0,,,0.0
+2025-03-08,2025,le-tour-des-100-communes,gc,Van Rysel Roubaix,1.2,,,1,,0.0,,,0.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-belgium,gc,Van Rysel Roubaix,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-estonia,gc,Van Rysel Roubaix,NC,,0,0,,0.0,,,10.0
+2025-06-21,2025,nc-estonia-itt,gc,Van Rysel Roubaix,NC,,0,0,,0.0,,,30.0
+2025-06-29,2025,nc-france,gc,Van Rysel Roubaix,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-norway,gc,Van Rysel Roubaix,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-norway-itt,gc,Van Rysel Roubaix,NC,,0,0,,0.0,,,5.0
+2025-05-01,2025,omloop-van-het-waasland,gc,Van Rysel Roubaix,1.2,,,1,,0.0,,,10.0
+2025-04-02,2025,paris-camembert,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,3.0
+2025-09-28,2025,paris-chauny-classique,gc,Van Rysel Roubaix,1.1,,0,0,,0.0,,,0.0
+2025-10-12,2025,paris-tours,gc,Van Rysel Roubaix,1.Pro,,,1,,0.0,,,0.0
+2025-06-09,2025,paris-troyes,gc,Van Rysel Roubaix,1.2,,,1,,0.0,,,25.0
+2025-04-08,2025,region-pays-de-la-loire,gc,Van Rysel Roubaix,2.1,13.0,5.0,1,,5.0,,,5.0
+2025-04-04,2025,route-adelie-de-vitre,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,5.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Van Rysel Roubaix,1.1,,0,0,,0.0,,,0.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,Van Rysel Roubaix,2.1,,0,0,,0.0,,,0.0
+2025-08-06,2025,tour-de-l-ain,gc,Van Rysel Roubaix,2.1,22.0,3.0,1,,6.0,,,6.0
+2025-10-11,2025,tour-de-vendee,gc,Van Rysel Roubaix,1.1,,0,0,,0.0,,,9.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,Van Rysel Roubaix,2.1,40.0,0.0,1,,0.0,,,0.0
+2025-04-20,2025,tour-du-doubs,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,5.0
+2025-05-09,2025,tour-du-finistere,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,0.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,Van Rysel Roubaix,1.1,,,1,,0.0,,,0.0
+2025-08-19,2025,tour-du-limousin,gc,Van Rysel Roubaix,2.1,25.0,3.0,1,,6.0,,,6.0
+2025-08-26,2025,tour-du-poitou-charentes-et-de-la-vienne,gc,Van Rysel Roubaix,2.1,,0,0,,6.0,,,6.0
+2025-05-11,2025,tro-bro-leon,gc,Van Rysel Roubaix,1.Pro,,0,0,,0.0,,,5.0

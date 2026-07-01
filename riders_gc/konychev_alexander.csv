@@ -1,0 +1,488 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-06-21,2018,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,3.0
+2018-04-02,2018,circuito-belvedere,gc,Petroli Firenze Hoppla Maserati,1.2U,,0,0,,0.0,,,25.0
+2018-02-06,2018,colombia-21,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2018-09-15,2018,coppa-agostoni,gc,Italy,1.1,,0,0,,0.0,,,8.0
+2018-09-16,2018,coppa-bernocchi,gc,Italy,1.1,,,1,,0.0,,,5.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Petroli Firenze Hoppla Maserati,2.2U,,0,0,,6.0,,,6.0
+2018-04-22,2018,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2018-10-06,2018,giro-dell-emilia,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-09-06,2018,giro-della-regione-friuli-venezia-giulia,gc,Petroli Firenze Hoppla Maserati,2.2,,0,0,,0.0,,,4.0
+2018-09-19,2018,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Italy,1.1,,,1,,0.0,,,10.0
+2018-03-04,2018,gp-industria-artigianato,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-04-03,2018,gp-palio-del-recioto,gc,Petroli Firenze Hoppla Maserati,1.2U,,,1,,0.0,,,0.0
+2018-09-22,2018,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,53.0
+2018-06-27,2018,mersin-mediterranean-games,gc,Italy,JR,,0,0,,0.0,,,0.0
+2018-10-07,2018,piccolo-giro-di-lombardia,gc,Petroli Firenze Hoppla Maserati,1.2U,,0,0,,0.0,,,10.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Italy,2.2U,64.0,0.0,1,,86.0,,,94.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Italy,1.Ncup,,0,0,,0.0,,,5.0
+2018-04-16,2018,tour-of-the-alps,gc,Italy,2.HC,,0,0,,5.0,,,5.0
+2018-02-11,2018,trofeo-laigueglia,gc,Italy,1.HC,,0,0,,0.0,,,220.0
+2018-09-23,2018,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,90.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,0.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,380.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2018-09-30,2018,world-championship,gc,Italy,WC,,0,0,,0.0,,,330.0
+2018-09-26,2018,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,0.0
+2019-07-25,2019,adriatica-ionica-race,gc,Team Dimension Data,2.1,,0,0,,5.0,,,5.0
+2019-08-29,2019,african-games-road-race-me,gc,Team Dimension Data,JC,,0,0,,0.0,,,200.0
+2019-04-21,2019,amstel-gold-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,45.0
+2019-08-15,2019,arctic-race-of-norway,gc,Team Dimension Data,2.HC,,0,0,,75.0,,,75.0
+2019-04-17,2019,brabantse-pijl,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,70.0
+2019-09-01,2019,bretagne-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,236.0
+2019-10-20,2019,chrono-des-nations,gc,Team Dimension Data,1.1,,0,0,,0.0,,,43.0
+2019-05-05,2019,circuito-del-porto-trofeo-arvedi,gc,Dimension Data for Qhubeka,1.2,,0,0,,0.0,,,40.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,73.0
+2019-09-14,2019,coppa-agostoni,gc,Dimension Data for Qhubeka,1.1,,0,0,,0.0,,,0.0
+2019-09-15,2019,coppa-bernocchi,gc,Dimension Data for Qhubeka,1.1,,,1,,0.0,,,68.0
+2019-06-09,2019,coppa-della-pace-trofeo-flli-anelli,gc,Dimension Data for Qhubeka,1.2U,,0,0,,0.0,,,0.0
+2019-08-25,2019,cyclassics-hamburg,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,316.0
+2019-06-30,2019,danish-championships,gc,Team Dimension Data,NC,,0,0,,0.0,,,20.0
+2019-08-29,2019,deutschland-tour,gc,Team Dimension Data,2.HC,,0,0,,60.0,,,60.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,22.0
+2019-03-29,2019,e3-harelbeke,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,8.0
+2019-05-01,2019,eschborn-frankfurt,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,35.0
+2019-03-31,2019,gent-wevelgem,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,3.0
+2019-05-11,2019,giro-d-italia,gc,Team Dimension Data,2.UWT,,0,0,,36.0,0.0,0.0,48.0
+2019-05-11,2019,giro-d-italia,kom,Team Dimension Data,2.UWT,,0,0,,36.0,0.0,0.0,48.0
+2019-05-11,2019,giro-d-italia,points,Team Dimension Data,2.UWT,,0,0,,36.0,0.0,0.0,48.0
+2019-07-14,2019,giro-del-medio-brenta,gc,Dimension Data for Qhubeka,1.2,,0,0,,0.0,,,0.0
+2019-09-05,2019,giro-della-regione-friuli-venezia-giulia,gc,Dimension Data for Qhubeka,2.2,,0,0,,0.0,,,0.0
+2019-09-22,2019,gp-d-isbergues,gc,Team Dimension Data,1.1,,,1,,0.0,,,43.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,130.0
+2019-09-21,2019,gp-impanis-van-petegem,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,60.0
+2019-03-10,2019,gp-industria-artigianato,gc,Dimension Data for Qhubeka,1.HC,,,1,,0.0,,,6.0
+2019-09-15,2019,gp-montreal,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,255.0
+2019-09-13,2019,gp-quebec,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,215.0
+2019-10-10,2019,gran-piemonte,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,40.0
+2019-01-27,2019,great-ocean-road-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,192.0
+2019-10-12,2019,il-lombardia,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2019-04-08,2019,itzulia-basque-country,gc,Team Dimension Data,2.UWT,,0,0,,8.0,,,8.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Team Dimension Data,1.1,,,1,,0.0,,,33.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,0.0
+2019-04-24,2019,la-fleche-wallonne,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,76.0
+2019-04-25,2019,le-tour-de-bretagne,gc,Dimension Data for Qhubeka,2.2,103.0,0.0,1,,10.0,,,14.0
+2019-04-28,2019,liege-bastogne-liege,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,10.0
+2019-09-21,2019,memorial-marco-pantani,gc,Team Dimension Data,1.1,,0,0,,0.0,,,0.0
+2019-03-23,2019,milano-sanremo,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,78.0
+2019-10-09,2019,milano-torino,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,3.0
+2019-10-03,2019,munsterland-giro,gc,Team Dimension Data,1.HC,,,1,,0.0,,,8.0
+2019-01-06,2019,nc-australia,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-01-08,2019,nc-australia-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,10.0
+2019-06-30,2019,nc-belgium,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-belgium-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-eritrea,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,75.0
+2019-06-30,2019,nc-eritrea,gc,Team Dimension Data,NC,,0,0,,0.0,,,1.0
+2019-06-28,2019,nc-eritrea-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,50.0
+2019-06-27,2019,nc-great-britain-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,25.0
+2019-06-30,2019,nc-italy,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-28,2019,nc-morocco-itt,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-netherlands,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-norway,gc,Team Dimension Data,NC,,0,0,,0.0,,,51.0
+2019-06-27,2019,nc-norway-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,20.0
+2019-06-23,2019,nc-rwanda,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,50.0
+2019-06-22,2019,nc-rwanda-itt,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,20.0
+2019-06-30,2019,nc-slovenia,gc,Dimension Data for Qhubeka,NC,,0,0,,0.0,,,0.0
+2019-02-10,2019,nc-south-africa,gc,Team Dimension Data,NC,,0,0,,0.0,,,265.0
+2019-02-08,2019,nc-south-africa-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-switserland,gc,Team Dimension Data,NC,,0,0,,0.0,,,20.0
+2019-06-26,2019,nc-switzerland-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,ncgreat-britain,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,7.0
+2019-05-24,2019,paris-arras-tour,gc,Dimension Data for Qhubeka,2.2,48.0,0.0,1,,0.0,,,0.0
+2019-03-10,2019,paris-nice,gc,Team Dimension Data,2.UWT,,0,0,,5.0,,,5.0
+2019-04-14,2019,paris-roubaix,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,10.0
+2019-10-13,2019,paris-tours,gc,Team Dimension Data,1.HC,,,1,,0.0,,,101.0
+2019-08-12,2019,renewi-tour,gc,Team Dimension Data,2.UWT,,0,0,,92.0,,,92.0
+2019-08-04,2019,ride-london-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,136.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,20.0
+2019-08-03,2019,san-sebastian,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,26.0
+2019-04-10,2019,scheldeprijs,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,3.0
+2019-03-09,2019,strade-bianche,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2019-03-14,2019,tirreno-adriatico,gc,Team Dimension Data,2.UWT,,0,0,,30.0,,,30.0
+2019-08-01,2019,tour-alsace,gc,Dimension Data for Qhubeka,2.2,104.0,0.0,1,,0.0,,,0.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Team Dimension Data,2.UWT,,0,0,,10.0,,,70.0
+2019-07-06,2019,tour-de-france,gc,Team Dimension Data,2.UWT,,0,0,,70.0,0.0,0.0,90.0
+2019-07-06,2019,tour-de-france,kom,Team Dimension Data,2.UWT,,0,0,,70.0,0.0,0.0,90.0
+2019-07-06,2019,tour-de-france,points,Team Dimension Data,2.UWT,,0,0,,70.0,0.0,0.0,90.0
+2019-05-15,2019,tour-de-limpopo,gc,Dimension Data for Qhubeka,2.2,17.0,0.0,1,,65.0,,,83.0
+2019-08-03,2019,tour-de-pologne,gc,Team Dimension Data,2.UWT,,0,0,,8.0,,,8.0
+2019-04-30,2019,tour-de-romandie,gc,Team Dimension Data,2.UWT,,0,0,,20.0,,,20.0
+2019-06-15,2019,tour-de-suisse,gc,Team Dimension Data,2.UWT,,0,0,,40.0,,,40.0
+2019-05-02,2019,tour-de-yorkshire,gc,Team Dimension Data,2.HC,,0,0,,60.0,,,60.0
+2019-01-15,2019,tour-down-under,gc,Team Dimension Data,2.UWT,,0,0,,153.0,,,153.0
+2019-07-06,2019,tour-of-austria,gc,Team Dimension Data,2.1,,0,0,,140.0,,,148.0
+2019-09-07,2019,tour-of-britain,gc,Team Dimension Data,2.HC,,0,0,,8.0,,,8.0
+2019-05-12,2019,tour-of-california,gc,Team Dimension Data,2.UWT,,0,0,,5.0,,,20.0
+2019-10-17,2019,tour-of-guangxi,gc,Team Dimension Data,2.UWT,,0,0,,43.0,,,43.0
+2019-05-28,2019,tour-of-norway,gc,Team Dimension Data,2.HC,,0,0,,125.0,,,150.0
+2019-02-16,2019,tour-of-oman,gc,Team Dimension Data,2.HC,,0,0,,45.0,,,70.0
+2019-02-24,2019,tour-of-rwanda,gc,Dimension Data for Qhubeka,2.1,,0,0,,8.0,,,8.0
+2019-06-19,2019,tour-of-slovenia,gc,Team Dimension Data,2.HC,,0,0,,3.0,,,33.0
+2019-04-16,2019,tour-of-turkey,gc,Team Dimension Data,2.UWT,,0,0,,37.0,,,43.0
+2019-10-08,2019,tre-valli-varesine,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,0.0
+2019-06-02,2019,trofeo-alcide-degasperi,gc,Dimension Data for Qhubeka,1.2,,0,0,,0.0,,,25.0
+2019-07-02,2019,trofeo-citta-di-brescia,gc,Dimension Data for Qhubeka,1.2,,,1,,0.0,,,30.0
+2019-09-22,2019,trofeo-matteotti,gc,Team Dimension Data,1.1,,0,0,,0.0,,,0.0
+2019-02-25,2019,uae-tour,gc,Team Dimension Data,2.UWT,,0,0,,19.0,,,19.0
+2019-03-25,2019,volta-a-catalunya,gc,Team Dimension Data,2.UWT,,0,0,,0.0,,,8.0
+2019-02-20,2019,volta-ao-algarve,gc,Team Dimension Data,2.HC,,0,0,,20.0,,,20.0
+2019-08-13,2019,vuelta-a-burgos,gc,Team Dimension Data,2.HC,92.0,0.0,1,,75.0,,,110.0
+2019-08-25,2019,vuelta-a-espana,gc,Team Dimension Data,2.UWT,,0,0,,64.0,0.0,0.0,68.0
+2019-08-25,2019,vuelta-a-espana,kom,Team Dimension Data,2.UWT,,0,0,,64.0,0.0,0.0,68.0
+2019-08-25,2019,vuelta-a-espana,points,Team Dimension Data,2.UWT,,0,0,,64.0,0.0,0.0,68.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Team Dimension Data,2.1,,0,0,,28.0,,,42.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Team Dimension Data,2.1,,0,0,,18.0,,,18.0
+2020-10-07,2020,brabantse-pijl,gc,Mitchelton-Scott,1.Pro,,0,0,,0.0,,,5.0
+2020-08-25,2020,bretagne-classic,gc,Mitchelton-Scott,1.UWT,,0,0,,0.0,,,342.0
+2020-02-16,2020,clasica-de-almeria,gc,Mitchelton-Scott,1.Pro,,,1,,0.0,,,90.0
+2020-08-07,2020,czech-tour,gc,Mitchelton-Scott,2.1,,0,0,,213.0,,,227.0
+2020-10-11,2020,gent-wevelgem,gc,Mitchelton-Scott,1.UWT,,,1,,0.0,,,0.0
+2020-10-03,2020,giro-d-italia,gc,Mitchelton-Scott,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2020-10-03,2020,giro-d-italia,kom,Mitchelton-Scott,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2020-10-03,2020,giro-d-italia,points,Mitchelton-Scott,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2020-09-19,2020,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,73.0
+2020-09-19,2020,giro-dell-appennino,gc,Mitchelton-Scott,1.1,,0,0,,0.0,,,0.0
+2020-08-18,2020,giro-dell-emilia,gc,Italy,1.Pro,,0,0,,0.0,,,5.0
+2020-09-16,2020,giro-di-toscana,gc,Mitchelton-Scott,1.1,,,1,,0.0,,,20.0
+2020-09-16,2020,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,11.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Mitchelton-Scott,1.Pro,,,1,,0.0,,,200.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Italy,1.Pro,,0,0,,0.0,,,190.0
+2020-08-12,2020,gran-piemonte,gc,Italy,1.Pro,,0,0,,0.0,,,8.0
+2020-08-12,2020,gran-piemonte,gc,Mitchelton-Scott,1.Pro,,0,0,,0.0,,,3.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Mitchelton-Scott,1.Pro,,,1,,0.0,,,5.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Italy,1.Pro,,0,0,,0.0,,,13.0
+2020-02-02,2020,great-ocean-road-race,gc,Mitchelton-Scott,1.UWT,,0,0,,0.0,,,267.0
+2020-02-05,2020,herald-sun-tour,gc,Mitchelton-Scott,2.1,,0,0,,73.0,,,116.0
+2020-08-15,2020,il-lombardia,gc,Mitchelton-Scott,1.UWT,,0,0,,0.0,,,0.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Mitchelton-Scott,1.Pro,,,1,,0.0,,,0.0
+2020-09-30,2020,la-fleche-wallonne,gc,Mitchelton-Scott,1.UWT,,0,0,,0.0,,,32.0
+2020-10-04,2020,liege-bastogne-liege,gc,Mitchelton-Scott,1.UWT,,0,0,,0.0,,,20.0
+2020-08-08,2020,milano-sanremo,gc,Mitchelton-Scott,1.UWT,,,1,,0.0,,,175.0
+2020-08-05,2020,milano-torino,gc,Mitchelton-Scott,1.Pro,,,1,,0.0,,,45.0
+2020-08-05,2020,milano-torino,gc,Italy,1.Pro,,0,0,,0.0,,,11.0
+2020-01-12,2020,nc-australia,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,235.0
+2020-01-08,2020,nc-australia-itt,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,70.0
+2020-02-02,2020,nc-colombia,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,40.0
+2020-01-30,2020,nc-colombia-itt,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,10.0
+2020-08-23,2020,nc-hungary,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,40.0
+2020-08-21,2020,nc-hungary-itt,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,50.0
+2020-08-21,2020,nc-italy-itt,gc,Mitchelton-Scott,NC,,,1,,0.0,,,20.0
+2020-02-16,2020,nc-new-zealand,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,30.0
+2020-06-21,2020,nc-slovenia,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,0.0
+2020-02-09,2020,nc-south-africa,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,75.0
+2020-02-07,2020,nc-south-africa-itt,gc,Mitchelton-Scott,NC,,0,0,,0.0,,,50.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Mitchelton-Scott,1.UWT,,,1,,0.0,,,5.0
+2020-01-30,2020,race-torquay,gc,Mitchelton-Scott,1.1,,0,0,,0.0,,,60.0
+2020-09-29,2020,renewi-tour,gc,Mitchelton-Scott,2.UWT,90.0,0.0,1,,2.0,,,2.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Mitchelton-Scott,1.UWT,,,1,,0.0,,,30.0
+2020-02-19,2020,ruta-del-sol,gc,Mitchelton-Scott,2.Pro,105.0,0.0,1,,205.0,,,230.0
+2020-10-14,2020,scheldeprijs,gc,Mitchelton-Scott,1.Pro,,,1,,0.0,,,5.0
+2020-08-01,2020,strade-bianche,gc,Mitchelton-Scott,1.UWT,,,1,,0.0,,,107.0
+2020-09-07,2020,tirreno-adriatico,gc,Mitchelton-Scott,2.UWT,,0,0,,595.0,,,715.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Mitchelton-Scott,2.UWT,,0,0,,50.0,,,75.0
+2020-08-29,2020,tour-de-france,gc,Mitchelton-Scott,2.UWT,,0,0,,265.0,0.0,0.0,390.0
+2020-08-29,2020,tour-de-france,kom,Mitchelton-Scott,2.UWT,,0,0,,265.0,0.0,0.0,390.0
+2020-08-29,2020,tour-de-france,points,Mitchelton-Scott,2.UWT,,0,0,,265.0,0.0,0.0,390.0
+2020-08-29,2020,tour-de-hongrie,gc,Mitchelton-Scott,2.1,32.0,0.0,1,,85.0,,,98.0
+2020-08-05,2020,tour-de-pologne,gc,Mitchelton-Scott,2.UWT,,0,0,,398.0,,,414.0
+2020-01-21,2020,tour-down-under,gc,Mitchelton-Scott,2.UWT,,0,0,,435.0,,,470.0
+2020-02-16,2020,trofeo-laigueglia,gc,Italy,1.Pro,,0,0,,0.0,,,205.0
+2020-02-23,2020,uae-tour,gc,Mitchelton-Scott,2.UWT,,0,0,,301.0,,,347.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Italy,CC,,,1,,0.0,,,25.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,346.0
+2020-07-28,2020,vuelta-a-burgos,gc,Mitchelton-Scott,2.Pro,,0,0,,145.0,,,145.0
+2020-10-20,2020,vuelta-a-espana,gc,Mitchelton-Scott,2.UWT,,0,0,,152.0,0.0,0.0,188.0
+2020-10-20,2020,vuelta-a-espana,kom,Mitchelton-Scott,2.UWT,,0,0,,152.0,0.0,0.0,188.0
+2020-10-20,2020,vuelta-a-espana,points,Mitchelton-Scott,2.UWT,,0,0,,152.0,0.0,0.0,188.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Mitchelton-Scott,2.Pro,,0,0,,150.0,,,150.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.Pro,,0,0,,150.0,,,160.0
+2020-09-27,2020,world-championship,gc,Italy,WC,,0,0,,0.0,,,213.0
+2020-09-25,2020,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,370.0
+2021-04-18,2021,amstel-gold-race,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,285.0
+2021-04-14,2021,brabantse-pijl,gc,Team BikeExchange,1.Pro,,,1,,0.0,,,3.0
+2021-08-29,2021,bretagne-classic,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,16.0
+2021-02-14,2021,clasica-de-almeria,gc,Team BikeExchange,1.Pro,,0,0,,0.0,,,25.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Team BikeExchange,1.UWT,,,1,,0.0,,,19.0
+2021-10-04,2021,coppa-bernocchi,gc,Team BikeExchange,1.Pro,,0,0,,0.0,,,5.0
+2021-08-05,2021,czech-tour,gc,Team BikeExchange,2.1,,0,0,,60.0,,,74.0
+2021-06-20,2021,danish-championships,gc,Team BikeExchange,NC,,0,0,,0.0,,,0.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Team BikeExchange,1.UWT,,,1,,0.0,,,30.0
+2021-03-26,2021,e3-harelbeke,gc,Team BikeExchange,1.UWT,,,1,,0.0,,,0.0
+2021-09-19,2021,eschborn-frankfurt,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,62.0
+2021-03-28,2021,gent-wevelgem,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,270.0
+2021-05-08,2021,giro-d-italia,gc,Team BikeExchange,2.UWT,,0,0,,639.0,0.0,0.0,759.0
+2021-05-08,2021,giro-d-italia,kom,Team BikeExchange,2.UWT,,0,0,,639.0,0.0,0.0,759.0
+2021-05-08,2021,giro-d-italia,points,Team BikeExchange,2.UWT,,0,0,,639.0,0.0,0.0,759.0
+2021-10-02,2021,giro-dell-emilia,gc,Team BikeExchange,1.Pro,,0,0,,0.0,,,0.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Team BikeExchange,1.1,,,1,,0.0,,,110.0
+2021-03-07,2021,gp-industria-artigianato,gc,Team BikeExchange,1.Pro,,0,0,,0.0,,,10.0
+2021-06-27,2021,gp-lugano,gc,Team BikeExchange,1.1,,,1,,0.0,,,38.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Team BikeExchange,1.Pro,,0,0,,0.0,,,8.0
+2021-10-09,2021,il-lombardia,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,43.0
+2021-04-05,2021,itzulia-basque-country,gc,Team BikeExchange,2.UWT,,0,0,,88.0,,,88.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Team BikeExchange,1.Pro,,0,0,,0.0,,,13.0
+2021-04-21,2021,la-fleche-wallonne,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,116.0
+2021-04-25,2021,liege-bastogne-liege,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,70.0
+2021-03-20,2021,milano-sanremo,gc,Team BikeExchange,1.UWT,,,1,,0.0,,,185.0
+2021-02-07,2021,nc-australia,gc,Team BikeExchange,NC,,0,0,,0.0,,,120.0
+2021-02-03,2021,nc-australia-itt,gc,Team BikeExchange,NC,,0,0,,0.0,,,40.0
+2021-06-20,2021,nc-hungary,gc,Team BikeExchange,NC,,0,0,,0.0,,,40.0
+2021-06-17,2021,nc-hungary-itt,gc,Team BikeExchange,NC,,0,0,,0.0,,,5.0
+2021-06-20,2021,nc-italy,gc,Team BikeExchange,NC,,,1,,0.0,,,40.0
+2021-06-18,2021,nc-italy-itt,gc,Team BikeExchange,NC,,,1,,0.0,,,3.0
+2021-06-20,2021,nc-slovenia,gc,Team BikeExchange,NC,,0,0,,0.0,,,60.0
+2021-06-20,2021,nc-united-states,gc,Team BikeExchange,NC,,0,0,,0.0,,,75.0
+2021-09-15,2021,okolo-slovenska,gc,Team BikeExchange,2.1,25.0,3.0,1,,9.0,,,28.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,10.0
+2021-03-07,2021,paris-nice,gc,Team BikeExchange,2.UWT,,,1,,285.0,,,295.0
+2021-10-03,2021,paris-roubaix,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,5.0
+2021-08-30,2021,renewi-tour,gc,Team BikeExchange,2.UWT,,,1,,156.0,,,164.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,20.0
+2021-05-18,2021,ruta-del-sol,gc,Team BikeExchange,2.Pro,77.0,0.0,1,,13.0,,,13.0
+2021-07-31,2021,san-sebastian,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,44.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Team BikeExchange,2.1,,0,0,,23.0,,,28.0
+2021-03-06,2021,strade-bianche,gc,Team BikeExchange,1.UWT,,0,0,,0.0,,,6.0
+2021-03-10,2021,tirreno-adriatico,gc,Team BikeExchange,2.UWT,,0,0,,88.0,,,113.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Team BikeExchange,2.UWT,,0,0,,40.0,,,40.0
+2021-06-26,2021,tour-de-france,gc,Team BikeExchange,2.UWT,,0,0,,105.0,0.0,50.0,220.0
+2021-06-26,2021,tour-de-france,kom,Team BikeExchange,2.UWT,,0,0,,105.0,0.0,50.0,220.0
+2021-06-26,2021,tour-de-france,points,Team BikeExchange,2.UWT,,0,0,,105.0,0.0,50.0,220.0
+2021-05-12,2021,tour-de-hongrie,gc,Team BikeExchange,2.1,74.0,0.0,1,,150.0,,,164.0
+2021-09-14,2021,tour-de-luxembourg,gc,Team BikeExchange,2.Pro,,0,0,,13.0,,,13.0
+2021-08-09,2021,tour-de-pologne,gc,Team BikeExchange,2.UWT,89.0,0.0,1,,78.0,,,78.0
+2021-04-27,2021,tour-de-romandie,gc,Team BikeExchange,2.UWT,,0,0,,148.0,,,148.0
+2021-06-06,2021,tour-de-suisse,gc,Team BikeExchange,2.UWT,,0,0,,95.0,,,95.0
+2021-09-28,2021,tour-of-croatia,gc,Team BikeExchange,2.1,,0,0,,68.0,,,76.0
+2021-06-09,2021,tour-of-slovenia,gc,Team BikeExchange,2.Pro,78.0,0.0,1,,85.0,,,95.0
+2021-04-19,2021,tour-of-the-alps,gc,Team BikeExchange,2.Pro,,0,0,,235.0,,,260.0
+2021-10-05,2021,tre-valli-varesine,gc,Team BikeExchange,1.Pro,,0,0,,0.0,,,5.0
+2021-02-21,2021,uae-tour,gc,Team BikeExchange,2.UWT,,0,0,,30.0,,,30.0
+2021-03-22,2021,volta-a-catalunya,gc,Team BikeExchange,2.UWT,,0,0,,308.0,,,378.0
+2021-08-03,2021,vuelta-a-burgos,gc,Team BikeExchange,2.Pro,,0,0,,3.0,,,8.0
+2021-08-14,2021,vuelta-a-espana,gc,Team BikeExchange,2.UWT,,0,0,,64.0,0.0,0.0,132.0
+2021-08-14,2021,vuelta-a-espana,kom,Team BikeExchange,2.UWT,,0,0,,64.0,0.0,0.0,132.0
+2021-08-14,2021,vuelta-a-espana,points,Team BikeExchange,2.UWT,,0,0,,64.0,0.0,0.0,132.0
+2022-02-01,2022,alula-tour,gc,Team BikeExchange - Jayco,2.1,42.0,0.0,1,,9.0,,,42.0
+2022-04-10,2022,amstel-gold-race,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,160.0
+2022-08-11,2022,arctic-race-of-norway,gc,Team BikeExchange - Jayco,2.Pro,79.0,0.0,1,,20.0,,,40.0
+2022-04-13,2022,brabantse-pijl,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,60.0
+2022-08-28,2022,bretagne-classic,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,16.0
+2022-06-05,2022,brussels-cycling-classic,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,50.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,40.0
+2022-10-16,2022,chrono-des-nations,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,73.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,3.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,252.0
+2022-09-29,2022,coppa-agostoni,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,10.0
+2022-10-03,2022,coppa-bernocchi,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,3.0
+2022-08-21,2022,cyclassics-hamburg,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,56.0
+2022-08-04,2022,czech-tour,gc,Team BikeExchange - Jayco,2.1,,0,0,,73.0,,,73.0
+2022-01-28,2022,deia-trophy,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,3.0
+2022-08-24,2022,druivenkoers-overijse,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,8.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,3.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,100.0
+2022-03-25,2022,e3-harelbeke,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,16.0
+2022-03-27,2022,gent-wevelgem,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,50.0
+2022-05-06,2022,giro-d-italia,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,104.0,0.0,0.0,416.0
+2022-05-06,2022,giro-d-italia,kom,Team BikeExchange - Jayco,2.UWT,,0,0,,104.0,0.0,0.0,416.0
+2022-05-06,2022,giro-d-italia,points,Team BikeExchange - Jayco,2.UWT,,0,0,,104.0,0.0,0.0,416.0
+2022-10-12,2022,giro-del-veneto,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,35.0
+2022-10-01,2022,giro-dell-emilia,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,3.0
+2022-09-18,2022,gooikse-pijl,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,50.0
+2022-09-11,2022,gp-de-fourmies,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,153.0
+2022-09-14,2022,gp-de-wallonie,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,5.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,10.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,5.0
+2022-09-11,2022,gp-montreal,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,70.0
+2022-09-09,2022,gp-quebec,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,418.0
+2022-08-23,2022,gp-stad-zottegem,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,10.0
+2022-10-06,2022,gran-piemonte,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,0.0
+2022-10-08,2022,il-lombardia,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,15.0
+2022-04-04,2022,itzulia-basque-country,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,0.0,,,0.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,70.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,5.0
+2022-04-20,2022,la-fleche-wallonne,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,32.0
+2022-04-24,2022,liege-bastogne-liege,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,10.0
+2022-09-04,2022,maryland-cycling-classic,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,83.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,0.0
+2022-10-09,2022,memorial-rik-van-steenbergen,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,70.0
+2022-03-19,2022,milano-sanremo,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,290.0
+2022-03-16,2022,milano-torino,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,0.0
+2022-10-03,2022,munsterland-giro,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,66.0
+2022-01-16,2022,nc-australia,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,20.0
+2022-01-12,2022,nc-australia-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,30.0
+2022-06-22,2022,nc-estonia-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-italy,gc,Team BikeExchange - Jayco,NC,,,1,,0.0,,,0.0
+2022-06-22,2022,nc-italy-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,16.0
+2022-06-24,2022,nc-netherlands,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-slovenia,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,60.0
+2022-06-26,2022,nc-switserland,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-united-states,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,3.0
+2022-06-23,2022,nc-usa-itt,gc,Team BikeExchange - Jayco,NC,,0,0,,0.0,,,50.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,0.0
+2022-09-21,2022,omloop-van-het-houtland-lichtervelde,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,70.0
+2022-10-06,2022,paris-bourges,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,0.0
+2022-09-25,2022,paris-chauny-classique,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,85.0
+2022-03-06,2022,paris-nice,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,400.0,,,470.0
+2022-04-17,2022,paris-roubaix,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,10.0
+2022-10-09,2022,paris-tours,gc,Team BikeExchange - Jayco,1.Pro,,,1,,0.0,,,5.0
+2022-03-20,2022,per-sempre-alfredo,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,105.0
+2022-07-25,2022,prueba-villafranca,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,213.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,75.0
+2022-05-22,2022,rund-um-koln,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,63.0
+2022-02-16,2022,ruta-del-sol,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,88.0,,,88.0
+2022-07-30,2022,san-sebastian,gc,Team BikeExchange - Jayco,1.UWT,,0,0,,0.0,,,144.0
+2022-04-06,2022,scheldeprijs,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,5.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Team BikeExchange - Jayco,2.1,,0,0,,0.0,,,5.0
+2022-03-05,2022,strade-bianche,gc,Team BikeExchange - Jayco,1.UWT,,,1,,0.0,,,0.0
+2022-03-07,2022,tirreno-adriatico,gc,Team BikeExchange - Jayco,2.UWT,105.0,0.0,1,,20.0,,,40.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,20.0,,,20.0
+2022-07-01,2022,tour-de-france,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,40.0,0.0,0.0,480.0
+2022-07-01,2022,tour-de-france,kom,Team BikeExchange - Jayco,2.UWT,,0,0,,40.0,0.0,0.0,480.0
+2022-07-01,2022,tour-de-france,points,Team BikeExchange - Jayco,2.UWT,,0,0,,40.0,0.0,0.0,480.0
+2022-05-11,2022,tour-de-hongrie,gc,Team BikeExchange - Jayco,2.1,,0,0,,5.0,,,19.0
+2022-07-30,2022,tour-de-pologne,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,252.0,,,252.0
+2022-04-26,2022,tour-de-romandie,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,5.0,,,5.0
+2022-06-12,2022,tour-de-suisse,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,35.0,,,70.0
+2022-05-26,2022,tour-of-estonia,gc,Team BikeExchange - Jayco,2.1,35.0,0.0,1,,133.0,,,146.0
+2022-02-10,2022,tour-of-oman,gc,Team BikeExchange - Jayco,2.Pro,,,1,,68.0,,,93.0
+2022-06-15,2022,tour-of-slovenia,gc,Team BikeExchange - Jayco,2.Pro,68.0,0.0,1,,5.0,,,25.0
+2022-04-10,2022,tour-of-turkey,gc,Team BikeExchange - Jayco,2.Pro,140.0,0.0,1,,33.0,,,68.0
+2022-10-04,2022,tre-valli-varesine,gc,Team BikeExchange - Jayco,1.Pro,,0,0,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,15.0
+2022-01-30,2022,trofeo-palma,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,40.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Team BikeExchange - Jayco,1.1,,0,0,,0.0,,,60.0
+2022-02-20,2022,uae-tour,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,,,12.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,125.0
+2022-10-16,2022,veneto-classic,gc,Team BikeExchange - Jayco,1.1,,,1,,0.0,,,3.0
+2022-03-21,2022,volta-a-catalunya,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,,,120.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Team BikeExchange - Jayco,2.1,,0,0,,128.0,,,147.0
+2022-08-20,2022,vuelta-a-espana,gc,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,0.0,0.0,116.0
+2022-08-20,2022,vuelta-a-espana,kom,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,0.0,0.0,116.0
+2022-08-20,2022,vuelta-a-espana,points,Team BikeExchange - Jayco,2.UWT,,0,0,,12.0,0.0,0.0,116.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Team BikeExchange - Jayco,2.Pro,,0,0,,0.0,,,0.0
+2022-04-29,2022,vuelta-asturias,gc,Team BikeExchange - Jayco,2.1,,0,0,,3.0,,,31.0
+2023-01-30,2023,alula-tour,gc,Team Corratec,2.1,,0,0,,0.0,,,0.0
+2023-04-19,2023,banja-luka-belgrade-i,gc,Team Corratec,2.2,,0,0,,0.0,,,1.0
+2023-03-17,2023,bredene-koksijde-classic,gc,Team Corratec,1.Pro,,0,0,,0.0,,,0.0
+2023-06-04,2023,brussels-cycling-classic,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,3.0
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Team Corratec,1.2,,,1,,0.0,,,25.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,Team Corratec,1.1,,0,0,,0.0,,,0.0
+2023-09-28,2023,coppa-agostoni,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,0.0
+2023-07-23,2023,cupa-max-ausnit,gc,Team Corratec - Selle Italia,1.2,,,1,,0.0,,,125.0
+2023-07-27,2023,czech-tour,gc,Team Corratec - Selle Italia,2.1,67.0,0.0,1,,0.0,,,0.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,20.0
+2023-05-06,2023,giro-d-italia,gc,Team Corratec - Selle Italia,2.UWT,99.0,0.0,1,,0.0,0.0,0.0,185.0
+2023-05-06,2023,giro-d-italia,kom,Team Corratec - Selle Italia,2.UWT,,,1,,0.0,0.0,0.0,185.0
+2023-05-06,2023,giro-d-italia,points,Team Corratec - Selle Italia,2.UWT,45.0,0.0,1,,0.0,0.0,0.0,185.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,0.0
+2023-06-02,2023,giro-dell-appennino,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,3.0
+2023-09-30,2023,giro-dell-emilia,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,3.0
+2023-04-16,2023,giro-di-reggio-calabria,gc,Team Corratec,1.1,,,1,,0.0,,,110.0
+2023-04-11,2023,giro-di-sicilia,gc,Team Corratec,2.1,54.0,0.0,1,,3.0,,,3.0
+2023-09-13,2023,giro-di-toscana,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,10.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,5.0
+2023-03-16,2023,gp-de-denain,gc,Team Corratec,1.Pro,,0,0,,0.0,,,0.0
+2023-09-10,2023,gp-de-fourmies,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,8.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,0.0
+2023-03-26,2023,gp-industria-artigianato,gc,Team Corratec,1.Pro,,,1,,0.0,,,8.0
+2023-04-30,2023,gp-vorarlberg,gc,Team Corratec,1.2,,,1,,0.0,,,13.0
+2023-02-23,2023,gran-camino,gc,Team Corratec,2.1,89.0,0.0,1,,0.0,,,0.0
+2023-10-05,2023,gran-piemonte,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,0.0
+2023-09-03,2023,maryland-cycling-classic,gc,Team Corratec - Selle Italia,1.Pro,,,1,,0.0,,,8.0
+2023-09-16,2023,memorial-marco-pantani,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,0.0
+2023-03-15,2023,milano-torino,gc,Team Corratec,1.Pro,,,1,,0.0,,,0.0
+2023-10-03,2023,munsterland-giro,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,8.0
+2023-06-24,2023,nc-croatia,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,30.0
+2023-06-22,2023,nc-croatia-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-czech-republic2,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-great-britain-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Team Corratec - Selle Italia,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,Team Corratec - Selle Italia,NC,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-netherlands,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-serbia,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,60.0
+2023-06-23,2023,nc-serbia-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,nc-switserland,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,0.0
+2023-10-01,2023,nc-switzerland-itt,gc,Team Corratec - Selle Italia,NC,,0,0,,0.0,,,3.0
+2023-03-15,2023,nokere-koerse,gc,Team Corratec,1.Pro,,0,0,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,Team Corratec - Selle Italia,2.1,,0,0,,5.0,,,5.0
+2023-03-19,2023,per-sempre-alfredo,gc,Team Corratec,1.1,,0,0,,0.0,,,6.0
+2023-03-05,2023,porec-trophy,gc,Team Corratec,1.2,,0,0,,0.0,,,20.0
+2023-04-04,2023,region-pays-de-la-loire,gc,Team Corratec,2.1,,0,0,,0.0,,,0.0
+2023-05-21,2023,rund-um-koln,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,0.0
+2023-04-05,2023,scheldeprijs,gc,Team Corratec,1.Pro,,,1,,0.0,,,18.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Team Corratec,2.1,,0,0,,0.0,,,0.0
+2023-07-06,2023,sibiu-cycling-tour,gc,Team Corratec - Selle Italia,2.1,,0,0,,3.0,,,3.0
+2023-10-22,2023,sun-hung-kai-properties-hong-kong-challenge,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,33.0
+2023-03-06,2023,tirreno-adriatico,gc,Team Corratec,2.UWT,105.0,0.0,1,,0.0,,,0.0
+2023-09-23,2023,tour-de-langkawi,gc,Team Corratec - Selle Italia,2.Pro,47.0,0.0,1,,10.0,,,-52.0
+2023-04-16,2023,tour-du-doubs,gc,Team Corratec,1.1,,0,0,,0.0,,,0.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,Team Corratec,1.1,,0,0,,0.0,,,0.0
+2023-08-15,2023,tour-du-limousin,gc,Team Corratec - Selle Italia,2.1,,0,0,,3.0,,,3.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Corratec - Selle Italia,2.1,46.0,0.0,1,,3.0,,,3.0
+2023-06-14,2023,tour-of-belgium,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,0.0,,,0.0
+2023-10-05,2023,tour-of-hainan,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,153.0,,,208.0
+2023-05-02,2023,tour-of-hellas,gc,Team Corratec,2.1,,0,0,,0.0,,,0.0
+2023-07-09,2023,tour-of-magnificent-qinghai,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,228.0,,,298.0
+2023-06-14,2023,tour-of-slovenia,gc,Team Corratec - Selle Italia,2.Pro,,0,0,,3.0,,,3.0
+2023-09-14,2023,tour-of-taihu-lake,gc,Team Corratec - Selle Italia,2.Pro,28.0,5.0,1,,15.0,,,26.0
+2023-04-17,2023,tour-of-the-alps,gc,Team Corratec,2.Pro,,0,0,,0.0,,,0.0
+2023-10-08,2023,tour-of-turkey,gc,Team Corratec - Selle Italia,2.1,,,1,,3.0,,,-7.0
+2023-10-03,2023,tre-valli-varesine,gc,Team Corratec - Selle Italia,1.Pro,,0,0,,0.0,,,0.0
+2023-03-01,2023,trofej-umag,gc,Team Corratec,1.2,,0,0,,0.0,,,5.0
+2023-07-04,2023,trofeo-citta-di-brescia,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,0.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Team Corratec - Selle Italia,1.2,,0,0,,0.0,,,30.0
+2023-03-01,2023,trofeo-laigueglia,gc,Team Corratec,1.Pro,,0,0,,0.0,,,3.0
+2023-09-17,2023,trofeo-matteotti,gc,Team Corratec - Selle Italia,1.1,,0,0,,0.0,,,18.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Team Corratec,2.Pro,33.0,3.0,1,,33.0,,,39.0
+2023-06-07,2023,zlm-tour,gc,Team Corratec - Selle Italia,2.Pro,13.0,20.0,1,,20.0,,,35.0
+2024-05-08,2024,fleche-du-sud,gc,Team Vorarlberg,2.2,55.0,0.0,1,,43.0,,,46.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,Team Vorarlberg,2.2,29.0,0.0,1,,0.0,,,0.0
+2024-04-21,2024,giro-di-romagna,gc,Team Vorarlberg,1.1,,,1,,0.0,,,0.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Team Vorarlberg,1.1,,0,0,,0.0,,,3.0
+2024-05-01,2024,gp-vorarlberg,gc,Team Vorarlberg,1.2,,,1,,0.0,,,5.0
+2024-04-28,2024,kirschblutenrennen,gc,Team Vorarlberg,1.2,,,1,,0.0,,,15.0
+2024-06-21,2024,nc-austria-itt,gc,Team Vorarlberg,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-austria2,gc,Team Vorarlberg,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-germany,gc,Team Vorarlberg,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-germany-itt,gc,Team Vorarlberg,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,Team Vorarlberg,NC,,,1,,0.0,,,0.0
+2024-06-20,2024,nc-italy-itt,gc,Team Vorarlberg,NC,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-switserland,gc,Team Vorarlberg,NC,,0,0,,0.0,,,0.0
+2024-06-13,2024,oberosterreichrundfahrt,gc,Team Vorarlberg,2.2,37.0,0.0,1,,0.0,,,0.0
+2024-03-09,2024,rhodes-gp,gc,Team Vorarlberg,1.2,,0,0,,0.0,,,0.0
+2024-05-30,2024,ronde-de-l-oise,gc,Team Vorarlberg,2.2,,0,0,,0.0,,,0.0
+2024-08-25,2024,ronde-van-de-achterhoek,gc,Team Vorarlberg,1.2,,0,0,,0.0,,,0.0
+2024-05-26,2024,rund-um-koln,gc,Team Vorarlberg,1.1,,,1,,0.0,,,3.0
+2024-03-02,2024,south-aegean-tour,gc,Team Vorarlberg,2.2,,0,0,,35.0,,,38.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Team Vorarlberg,2.2,38.0,0.0,1,,0.0,,,0.0
+2024-02-08,2024,tour-of-antalya,gc,Team Vorarlberg,2.1,,0,0,,0.0,,,0.0
+2024-07-02,2024,tour-of-austria,gc,Team Vorarlberg,2.1,74.0,0.0,1,,8.0,,,8.0
+2024-09-12,2024,tour-of-istanbul,gc,Team Vorarlberg,2.1,9.0,25.0,1,,25.0,,,25.0
+2024-03-14,2024,tour-of-rhodes,gc,Team Vorarlberg,2.2,,0,0,,25.0,,,29.0
+2024-07-24,2024,volta-a-portugal,gc,Team Vorarlberg,2.1,75.0,0.0,1,,85.0,,,99.0
+2025-08-14,2025,czech-tour,gc,Team Vorarlberg,2.1,55.0,0.0,1,,63.0,,,77.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Team Vorarlberg,1.1,,0,0,,0.0,,,0.0
+2025-05-01,2025,gp-vorarlberg,gc,Team Vorarlberg,1.2,,,1,,0.0,,,33.0
+2025-03-13,2025,istrian-spring-tour,gc,Team Vorarlberg,2.2,40.0,0.0,1,,0.0,,,0.0
+2025-06-29,2025,nc-austria2,gc,Team Vorarlberg,NC,,0,0,,0.0,,,31.0
+2025-06-29,2025,nc-germany,gc,Team Vorarlberg,NC,,0,0,,0.0,,,1.0
+2025-06-29,2025,nc-ireland,gc,Team Vorarlberg,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-ireland-itt,gc,Team Vorarlberg,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-switserland,gc,Team Vorarlberg,NC,,0,0,,0.0,,,20.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Team Vorarlberg,2.2,,0,0,,40.0,,,47.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Team Vorarlberg,2.2,6.0,10.0,1,,10.0,,,10.0
+2025-03-09,2025,porec-trophy,gc,Team Vorarlberg,1.2,,,1,,0.0,,,0.0
+2025-05-11,2025,radsportfest-marwil,gc,Team Vorarlberg,1.2,,,1,,0.0,,,35.0
+2025-05-18,2025,rund-um-koln,gc,Team Vorarlberg,1.1,,,1,,0.0,,,0.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Team Vorarlberg,2.1,65.0,0.0,1,,0.0,,,0.0
+2025-07-31,2025,tour-alsace,gc,Team Vorarlberg,2.2,,0,0,,3.0,,,3.0
+2025-07-09,2025,tour-of-austria,gc,Team Vorarlberg,2.1,50.0,0.0,1,,25.0,,,25.0
+2025-04-02,2025,tour-of-hellas,gc,Team Vorarlberg,2.1,55.0,0.0,1,,70.0,,,70.0
+2025-04-21,2025,tour-of-the-alps,gc,Team Vorarlberg,2.Pro,64.0,0.0,1,,5.0,,,5.0
+2025-03-05,2025,trofej-umag,gc,Team Vorarlberg,1.2,,,1,,0.0,,,0.0
+2025-09-10,2025,turul-romaniei,gc,Team Vorarlberg,2.2,38.0,0.0,1,,30.0,,,31.0

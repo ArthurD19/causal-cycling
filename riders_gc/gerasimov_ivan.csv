@@ -1,0 +1,40 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-04-02,2018,circuito-belvedere,gc,Lokosphinx,1.2U,,0,0,,0.0,,,0.0
+2018-09-15,2018,coppa-agostoni,gc,Lokosphinx,1.1,,0,0,,0.0,,,0.0
+2018-09-16,2018,coppa-bernocchi,gc,Lokosphinx,1.1,,0,0,,0.0,,,0.0
+2018-05-02,2018,five-rings-of-moscow,gc,Lokosphinx,2.2,,0,0,,0.0,,,0.0
+2018-07-08,2018,giro-del-medio-brenta,gc,Lokosphinx,1.2,,0,0,,0.0,,,40.0
+2018-09-06,2018,giro-della-regione-friuli-venezia-giulia,gc,Lokosphinx,2.2,,0,0,,30.0,,,30.0
+2018-04-13,2018,gp-internacional-beiras-e-serra-da-estrela,gc,Lokosphinx,2.1,,0,0,,125.0,,,142.0
+2018-04-03,2018,gp-palio-del-recioto,gc,Lokosphinx,1.2U,,0,0,,0.0,,,0.0
+2018-12-13,2018,gran-premio-comite-olimpico-nacional,gc,Lokosphinx,1.2,,0,0,,0.0,,,0.0
+2018-12-12,2018,gran-premio-fecoci,gc,Lokosphinx,1.2,,0,0,,0.0,,,3.0
+2018-03-31,2018,gran-premio-miguel-indurain,gc,Lokosphinx,1.1,,0,0,,0.0,,,28.0
+2018-04-08,2018,klasika-primavera,gc,Lokosphinx,1.1,,0,0,,0.0,,,83.0
+2018-09-22,2018,memorial-marco-pantani,gc,Lokosphinx,1.1,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-russia,gc,Lokosphinx,NC,,0,0,,0.0,,,0.0
+2018-06-29,2018,nc-russia-itt,gc,Lokosphinx,NC,,0,0,,0.0,,,1.0
+2018-10-07,2018,piccolo-giro-di-lombardia,gc,Lokosphinx,1.2U,,,1,,0.0,,,0.0
+2018-05-11,2018,szlakiem-grodow-piastowskich,gc,Lokosphinx,2.2,,0,0,,0.0,,,0.0
+2018-09-23,2018,trofeo-matteotti,gc,Lokosphinx,1.1,,0,0,,0.0,,,0.0
+2018-03-11,2018,trofeu-da-arrabida,gc,Lokosphinx,1.2,,0,0,,0.0,,,43.0
+2018-03-14,2018,volta-ao-alentejo,gc,Lokosphinx,2.2,,0,0,,0.0,,,14.0
+2018-05-11,2018,vuelta-a-aragon,gc,Lokosphinx,2.1,,0,0,,15.0,,,15.0
+2018-04-20,2018,vuelta-a-castilla-y-leon,gc,Lokosphinx,2.1,,0,0,,40.0,,,40.0
+2018-04-27,2018,vuelta-asturias,gc,Lokosphinx,2.1,,0,0,,6.0,,,25.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Lokosphinx,2.1,,0,0,,40.0,,,40.0
+2019-07-24,2019,dookola-mazowsza,gc,Marathon-Tula Cycling Team,2.2,,,1,,0.0,,,0.0
+2020-02-16,2020,gp-antalya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,60.0
+2020-02-09,2020,gp-manavgat,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,3.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,3.0
+2020-09-03,2020,grand-prix-develi,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,10.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,3.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,10.0
+2020-09-26,2020,tour-of-mevlana,gc,Marathon-Tula Cycling Team,2.2,,0,0,,90.0,,,108.0
+2021-06-09,2021,five-rings-of-moscow,gc,MGFSO,2.2,58.0,0.0,1,,0.0,,,0.0

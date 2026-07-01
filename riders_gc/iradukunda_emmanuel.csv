@@ -1,0 +1,35 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-08-21,2022,grand-prix-cappadocia,gc,ProTouch,1.2,,0,0,,0.0,,,45.0
+2022-08-20,2022,grand-prix-develi,gc,ProTouch,1.2,,0,0,,0.0,,,15.0
+2022-08-19,2022,grand-prix-kapuzbasi,gc,ProTouch,1.2,,0,0,,0.0,,,35.0
+2022-08-18,2022,grand-prix-tomarza,gc,ProTouch,1.2,,0,0,,0.0,,,0.0
+2022-09-29,2022,international-azerbaijan-tour,gc,ProTouch,2.1,28.0,0.0,1,,3.0,,,3.0
+2022-09-04,2022,maryland-cycling-classic,gc,ProTouch,1.Pro,,0,0,,0.0,,,6.0
+2022-06-26,2022,nc-eritrea,gc,ProTouch,NC,,0,0,,0.0,,,1.0
+2022-06-24,2022,nc-eritrea-itt,gc,ProTouch,NC,,0,0,,0.0,,,1.0
+2022-07-03,2022,nc-rwanda,gc,ProTouch,NC,,0,0,,0.0,,,30.0
+2022-07-02,2022,nc-rwanda-itt,gc,ProTouch,NC,,0,0,,0.0,,,40.0
+2022-02-13,2022,nc-south-africa,gc,ProTouch,NC,,0,0,,0.0,,,101.0
+2022-02-11,2022,nc-south-africa-itt,gc,ProTouch,NC,,0,0,,0.0,,,35.0
+2022-10-11,2022,tour-de-langkawi,gc,ProTouch,2.Pro,,0,0,,20.0,,,20.0
+2022-08-25,2022,tour-of-konya,gc,ProTouch,2.2,,0,0,,10.0,,,17.0
+2022-03-13,2022,trofeu-da-arrabida,gc,ProTouch,1.2,,0,0,,0.0,,,0.0
+2022-03-16,2022,volta-ao-alentejo,gc,ProTouch,2.2,,0,0,,0.0,,,0.0
+2023-06-28,2023,course-cycliste-de-solidarnosc,gc,Bialini Gomola CCN,2.2,,0,0,,0.0,,,0.0
+2023-07-23,2023,cupa-max-ausnit,gc,Bialini Gomola CCN,1.2,,0,0,,0.0,,,0.0
+2023-04-23,2023,east-midlands-international-cicle-classic,gc,Bialini Gomola CCN,1.2,,0,0,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Bialini Gomola CCN,2.2,,0,0,,0.0,,,0.0
+2023-07-15,2023,gp-cycliste-de-gemenc,gc,Bialini Gomola CCN,2.2,,0,0,,0.0,,,0.0
+2023-05-21,2023,gp-gorenjska,gc,Bialini Gomola CCN,1.2,,0,0,,0.0,,,0.0
+2023-08-12,2023,memorial-henryka-lasaka,gc,Bialini Gomola CCN,1.2,,0,0,,0.0,,,0.0
+2023-08-13,2023,memorial_jana_magiery_2022,gc,Bialini Gomola CCN,1.2,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-canada2,gc,Bialini Gomola CCN,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-ireland,gc,Bialini Gomola CCN,NC,,0,0,,0.0,,,0.0
+2023-06-18,2023,nc-rwanda,gc,Bialini Gomola CCN,NC,,,1,,0.0,,,1.0
+2023-03-19,2023,popolarissima,gc,Bialini Gomola CCN,1.2,,0,0,,0.0,,,0.0
+2023-06-01,2023,tour-of-malopolska,gc,Bialini Gomola CCN,2.2,,0,0,,0.0,,,0.0
+2023-07-22,2023,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Bialini Gomola CCN,1.2,,0,0,,0.0,,,0.0
+2024-06-15,2024,nc-eritrea,gc,Java - Inovotec Pro Team,NC,,0,0,,0.0,,,0.0
+2024-08-18,2024,nc-rwanda,gc,Java - Inovotec Pro Team,NC,,,1,,0.0,,,72.0
+2024-08-17,2024,nc-rwanda-itt,gc,Java - Inovotec Pro Team,NC,,,1,,0.0,,,68.0
+2024-02-19,2024,tour-of-rwanda,gc,Java - Inovotec Pro Team,2.1,,0,0,,3.0,,,-12.0

@@ -1,0 +1,38 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-02-07,2021,nc-australia,gc,Team UKYO,NC,,0,0,,0.0,,,1.0
+2021-10-24,2021,nc-japan,gc,Team UKYO,NC,,0,0,,0.0,,,30.0
+2021-10-22,2021,nc-japan-itt,gc,Team UKYO,NC,,0,0,,0.0,,,5.0
+2021-10-10,2021,oita-urban-classic,gc,Team UKYO,1.2,,,1,,0.0,,,25.0
+2021-05-28,2021,tour-of-japan,gc,Team UKYO,2.2,,0,0,,15.0,,,15.0
+2022-10-16,2022,japan-cup,gc,Team UKYO,1.Pro,,0,0,,0.0,,,128.0
+2022-01-16,2022,nc-australia,gc,Team UKYO,NC,,0,0,,0.0,,,3.0
+2022-01-12,2022,nc-australia-itt,gc,Team UKYO,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-japan,gc,Team UKYO,NC,,,1,,0.0,,,0.0
+2022-06-24,2022,nc-japan-itt,gc,Team UKYO,NC,,0,0,,0.0,,,30.0
+2022-10-02,2022,oita-urban-classic,gc,Team UKYO,1.2,,,1,,0.0,,,40.0
+2022-05-27,2022,tour-de-kumano,gc,Team UKYO,2.2,,,1,,43.0,,,49.0
+2022-10-11,2022,tour-de-langkawi,gc,Team UKYO,2.Pro,89.0,0.0,1,,8.0,,,8.0
+2022-11-13,2022,tour-de-okinawa,gc,Team UKYO,1.2,,0,0,,0.0,,,40.0
+2022-10-02,2022,tour-de-taiwan,gc,Team UKYO,2.1,,0,0,,178.0,,,199.0
+2022-05-19,2022,tour-of-japan,gc,Team UKYO,2.2,,0,0,,70.0,,,97.0
+2022-04-01,2022,tour-of-thailand,gc,Team UKYO,2.1,83.0,0.0,1,,155.0,,,187.0
+2024-06-23,2024,nc-japan,gc,Saitama Sado SunBrave,NC,,,1,,0.0,,,3.0
+2025-08-24,2025,grand-prix-ordu,gc,Kinan Racing Team,1.2,,,1,,0.0,,,85.0
+2025-10-19,2025,japan-cup,gc,Kinan Racing Team,1.Pro,,,1,,0.0,,,5.0
+2025-06-29,2025,nc-estonia,gc,Kinan Racing Team,NC,,0,0,,0.0,,,0.0
+2025-06-21,2025,nc-estonia-itt,gc,Kinan Racing Team,NC,,0,0,,0.0,,,50.0
+2025-06-22,2025,nc-japan,gc,Kinan Racing Team,NC,,,1,,0.0,,,75.0
+2025-06-29,2025,nc-japan-itt,gc,Kinan Racing Team,NC,,0,0,,0.0,,,1.0
+2025-10-05,2025,oita-urban-classic,gc,Kinan Racing Team,1.2,,,1,,0.0,,,35.0
+2025-04-06,2025,syedra-ancient-city,gc,Kinan Racing Team,1.2,,,1,,0.0,,,10.0
+2025-07-13,2025,the-road-race-tokyo-tama,gc,Kinan Racing Team,1.2,,0,0,,0.0,,,0.0
+2025-06-04,2025,tour-de-gyeongnam,gc,Kinan Racing Team,2.2,50.0,0.0,1,,0.0,,,0.0
+2025-05-08,2025,tour-de-kumano,gc,Kinan Racing Team,2.2,,,1,,0.0,,,0.0
+2025-10-11,2025,tour-de-kyushu,gc,Kinan Racing Team,2.1,58.0,0.0,1,,88.0,,,93.0
+2025-11-09,2025,tour-de-okinawa,gc,Kinan Racing Team,1.2,,,1,,0.0,,,6.0
+2025-03-16,2025,tour-de-taiwan,gc,Kinan Racing Team,2.1,,0,0,,11.0,,,11.0
+2025-09-04,2025,tour-of-istanbul,gc,Kinan Racing Team,2.1,80.0,0.0,1,,38.0,,,38.0
+2025-05-18,2025,tour-of-japan,gc,Kinan Racing Team,2.2,,0,0,,0.0,,,0.0
+2025-04-10,2025,tour-of-mersin,gc,Kinan Racing Team,2.2,,,1,,20.0,,,20.0
+2025-08-27,2025,tour-of-samsun,gc,Kinan Racing Team,2.2,5.0,15.0,1,,45.0,,,52.0
+2025-01-24,2025,tour-of-sharjah,gc,Kinan Racing Team,2.2,103.0,0.0,1,,25.0,,,28.0

@@ -1,0 +1,57 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-04-22,2021,banja-luka-belgrade-i,gc,Bulgaria,2.1,,0,0,,0.0,,,0.0
+2021-03-28,2021,gp-adria-mobil,gc,Bulgaria,1.2,,0,0,,0.0,,,0.0
+2021-03-21,2021,gp-izola-butan-plin,gc,Bulgaria,1.2,,0,0,,0.0,,,0.0
+2021-06-28,2021,in-the-footsteps-of-the-romans,gc,Nessebar Shockblaze RCT,2.2,,0,0,,0.0,,,0.0
+2021-04-04,2021,rhodes-gp,gc,Bulgaria,1.2,,0,0,,0.0,,,0.0
+2021-09-09,2021,tour-de-serbie,gc,Bulgaria,2.2,,0,0,,0.0,,,0.0
+2021-05-29,2021,tour-du-cameroun,gc,Bulgaria,2.2,,0,0,,28.0,,,53.0
+2021-06-30,2021,tour-of-bulgaria,gc,Nessebar Shockblaze RCT,2.2,24.0,0.0,1,,0.0,,,0.0
+2021-06-03,2021,tour-of-malopolska,gc,Bulgaria,2.2,,0,0,,0.0,,,0.0
+2021-04-08,2021,tour-of-rhodes,gc,Bulgaria,2.2,,0,0,,0.0,,,0.0
+2021-08-04,2021,tour-of-szeklerland,gc,Bulgaria,2.2,,0,0,,0.0,,,0.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Bulgaria,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Bulgaria,CC,,0,0,,0.0,,,0.0
+2021-07-10,2021,visegrad-4-bicycle-race-gp-hungary,gc,Bulgaria,1.2,,,1,,0.0,,,0.0
+2021-09-19,2021,world-championship-itt,gc,Bulgaria,WC,,0,0,,0.0,,,0.0
+2022-06-04,2022,adriatica-ionica-race,gc,Team Corratec,2.1,,0,0,,0.0,,,3.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Team Corratec,1.2,,0,0,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Team Corratec,1.1,,0,0,,0.0,,,0.0
+2022-10-03,2022,coppa-bernocchi,gc,Team Corratec,1.Pro,,0,0,,0.0,,,0.0
+2022-06-02,2022,giro-dell-appennino,gc,Team Corratec,1.1,,0,0,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,Team Corratec,2.1,,0,0,,0.0,,,0.0
+2022-09-14,2022,giro-di-toscana,gc,Team Corratec,1.1,,,1,,0.0,,,0.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Team Corratec,1.Pro,,0,0,,0.0,,,3.0
+2022-09-11,2022,gp-de-fourmies,gc,Team Corratec,1.Pro,,,1,,0.0,,,0.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Team Corratec,1.1,,0,0,,0.0,,,0.0
+2022-03-24,2022,gp-goriska-vipava-valley,gc,Team Corratec,1.2,,0,0,,0.0,,,15.0
+2022-03-27,2022,gp-industria-artigianato,gc,Team Corratec,1.Pro,,0,0,,0.0,,,3.0
+2022-03-20,2022,gp-izola-butan-plin,gc,Team Corratec,1.2,,0,0,,0.0,,,0.0
+2022-02-05,2022,grand-prix-alanya,gc,Team Corratec,1.2,,0,0,,0.0,,,3.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Team Corratec,1.2,,0,0,,0.0,,,3.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Team Corratec,1.2,,0,0,,0.0,,,0.0
+2022-09-04,2022,maryland-cycling-classic,gc,Team Corratec,1.Pro,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-italy,gc,Team Corratec,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-serbia,gc,Team Corratec,NC,,0,0,,0.0,,,65.0
+2022-06-24,2022,nc-serbia-itt,gc,Team Corratec,NC,,0,0,,0.0,,,35.0
+2022-06-26,2022,nc-switserland,gc,Team Corratec,NC,,0,0,,0.0,,,1.0
+2022-03-20,2022,per-sempre-alfredo,gc,Team Corratec,1.1,,,1,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,Team Corratec,1.2,,0,0,,0.0,,,40.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Team Corratec,2.1,,0,0,,0.0,,,0.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Team Corratec,2.1,,0,0,,0.0,,,0.0
+2022-08-05,2022,tour-cycliste-international-de-la-guadeloupe,gc,Team Corratec,2.2,,0,0,,0.0,,,7.0
+2022-09-04,2022,tour-du-doubs,gc,Team Corratec,1.1,,,1,,0.0,,,0.0
+2022-02-10,2022,tour-of-antalya,gc,Team Corratec,2.1,,0,0,,0.0,,,14.0
+2022-03-02,2022,trofej-umag,gc,Team Corratec,1.2,,0,0,,0.0,,,25.0
+2022-03-02,2022,trofeo-laigueglia,gc,Team Corratec,1.Pro,,0,0,,0.0,,,0.0
+2022-01-16,2022,vuelta-al-tachira,gc,Team Corratec,2.2,,0,0,,0.0,,,10.0
+2022-07-24,2022,vuelta-ciclista-a-venezuela,gc,Team Corratec,2.2,,0,0,,0.0,,,39.0
+2023-06-07,2023,aziz-shusha,gc,Bulgaria,2.2,,,1,,0.0,,,10.0
+2023-03-26,2023,gp-adria-mobil,gc,Bulgaria,1.2,,0,0,,0.0,,,0.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Bulgaria,1.2,,0,0,,0.0,,,0.0
+2023-06-10,2023,kirikkale-road-race,gc,Bulgaria,2.2,,0,0,,0.0,,,0.0
+2023-07-06,2023,sibiu-cycling-tour,gc,Bulgaria,2.1,93.0,0.0,1,,0.0,,,0.0
+2023-09-28,2023,tour-of-istanbul,gc,Bulgaria,2.2,,,1,,0.0,,,0.0
+2023-09-07,2023,tour-of-kosovo,gc,Bulgaria,2.2,,0,0,,10.0,,,10.0
+2023-06-01,2023,tour-of-malopolska,gc,Bulgaria,2.2,39.0,0.0,1,,0.0,,,0.0
+2023-08-09,2023,tour-of-szeklerland,gc,Bulgaria,2.2,4.0,20.0,1,,23.0,,,23.0

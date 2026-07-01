@@ -1,0 +1,100 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-04-02,2018,circuito-belvedere,gc,Iseo Serrature - Rime - Carnovali,1.2U,,0,0,,0.0,,,0.0
+2018-09-06,2018,giro-della-regione-friuli-venezia-giulia,gc,Iseo Serrature - Rime - Carnovali,2.2,,,1,,0.0,,,0.0
+2018-04-03,2018,gp-palio-del-recioto,gc,Iseo Serrature - Rime - Carnovali,1.2U,,0,0,,0.0,,,0.0
+2018-10-07,2018,piccolo-giro-di-lombardia,gc,Iseo Serrature - Rime - Carnovali,1.2U,,0,0,,0.0,,,5.0
+2020-09-19,2020,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,73.0
+2020-08-18,2020,giro-dell-emilia,gc,Italy,1.Pro,,0,0,,0.0,,,5.0
+2020-10-09,2020,giro-della-regione-friuli-venezia-giulia,gc,Casillo - Petroli Firenze - Hopplà,2.2,56.0,0.0,1,,0.0,,,0.0
+2020-09-16,2020,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,11.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Italy,1.Pro,,0,0,,0.0,,,190.0
+2020-08-12,2020,gran-piemonte,gc,Italy,1.Pro,,0,0,,0.0,,,8.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Italy,1.Pro,,0,0,,0.0,,,13.0
+2020-08-05,2020,milano-torino,gc,Italy,1.Pro,,0,0,,0.0,,,11.0
+2020-03-08,2020,porec-trophy,gc,Casillo - Petroli Firenze - Hopplà,1.2,,,1,,0.0,,,0.0
+2020-03-04,2020,trofej-umag,gc,Casillo - Petroli Firenze - Hopplà,1.2,,,1,,0.0,,,3.0
+2020-02-16,2020,trofeo-laigueglia,gc,Italy,1.Pro,,,1,,0.0,,,205.0
+2020-08-29,2020,trofeo-matteotti,gc,Casillo - Petroli Firenze - Hopplà,1.1,,,1,,0.0,,,0.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,25.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,346.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.Pro,,0,0,,150.0,,,160.0
+2020-09-27,2020,world-championship,gc,Italy,WC,,0,0,,0.0,,,213.0
+2020-09-25,2020,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,370.0
+2021-08-05,2021,arctic-race-of-norway,gc,Team Qhubeka NextHash,2.Pro,73.0,0.0,1,,10.0,,,10.0
+2021-08-29,2021,bretagne-classic,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,86.0
+2021-08-28,2021,brussels-cycling-classic,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,45.0
+2021-09-29,2021,circuit-franco-belge,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,53.0
+2021-08-01,2021,circuito-de-getxo,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,140.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Team Qhubeka,1.2,,,1,,0.0,,,15.0
+2021-10-04,2021,coppa-bernocchi,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,98.0
+2021-06-03,2021,giro-ciclistico-d-italia,gc,Team Qhubeka,2.2,138.0,0.0,1,,0.0,,,1.0
+2021-07-04,2021,giro-del-medio-brenta,gc,Team Qhubeka,1.2,,0,0,,0.0,,,30.0
+2021-10-13,2021,giro-del-veneto,gc,Team Qhubeka,1.1,,,1,,0.0,,,0.0
+2021-06-24,2021,giro-dell-appennino,gc,Team Qhubeka,1.1,,0,0,,0.0,,,40.0
+2021-10-02,2021,giro-dell-emilia,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,15.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,Team Qhubeka,2.2,,0,0,,25.0,,,27.0
+2021-09-19,2021,gp-d-isbergues,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,20.0
+2021-09-15,2021,gp-de-wallonie,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,43.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,140.0
+2021-06-27,2021,gp-lugano,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,8.0
+2021-10-07,2021,gran-piemonte,gc,Team Qhubeka NextHash,1.Pro,,,1,,0.0,,,155.0
+2021-04-25,2021,gran-premio-della-liberazione,gc,Team Qhubeka,1.2U,,,1,,0.0,,,15.0
+2021-10-09,2021,il-lombardia,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,20.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Team Qhubeka NextHash,1.1,,0,0,,0.0,,,3.0
+2021-07-31,2021,kreiz-breizh-elites,gc,Team Qhubeka,2.2,70.0,0.0,1,,0.0,,,0.0
+2021-09-20,2021,le-tour-de-bretagne,gc,Team Qhubeka,2.2,,0,0,,0.0,,,0.0
+2021-10-06,2021,milano-torino,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,5.0
+2021-02-14,2021,nc-new-zealand,gc,Team Qhubeka,NC,,0,0,,0.0,,,0.0
+2021-03-21,2021,nc-south-africa,gc,Team Qhubeka,NC,,0,0,,0.0,,,100.0
+2021-10-17,2021,ncgreat-britain,gc,Team Qhubeka NextHash,NC,,0,0,,0.0,,,50.0
+2021-09-15,2021,okolo-slovenska,gc,Team Qhubeka NextHash,2.1,56.0,0.0,1,,21.0,,,24.0
+2021-10-03,2021,paris-roubaix,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,65.0
+2021-03-21,2021,per-sempre-alfredo,gc,Team Qhubeka,1.1,,,1,,0.0,,,9.0
+2021-08-30,2021,renewi-tour,gc,Team Qhubeka NextHash,2.UWT,,0,0,,270.0,,,270.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Team Qhubeka,2.2,,0,0,,0.0,,,0.0
+2021-07-31,2021,san-sebastian,gc,Team Qhubeka NextHash,1.UWT,,0,0,,0.0,,,0.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Team Qhubeka NextHash,2.1,,0,0,,85.0,,,93.0
+2021-06-26,2021,tour-de-france,gc,Team Qhubeka NextHash,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,kom,Team Qhubeka NextHash,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-06-26,2021,tour-de-france,points,Team Qhubeka NextHash,2.UWT,,0,0,,40.0,0.0,0.0,40.0
+2021-08-09,2021,tour-de-pologne,gc,Team Qhubeka NextHash,2.UWT,,0,0,,8.0,,,8.0
+2021-07-20,2021,tour-de-wallonie,gc,Team Qhubeka NextHash,2.Pro,,0,0,,8.0,,,18.0
+2021-09-05,2021,tour-of-britain,gc,Team Qhubeka NextHash,2.Pro,,0,0,,11.0,,,21.0
+2021-08-10,2021,tour-of-denmark,gc,Team Qhubeka NextHash,2.Pro,,0,0,,10.0,,,25.0
+2021-10-05,2021,tre-valli-varesine,gc,Team Qhubeka NextHash,1.Pro,,0,0,,0.0,,,5.0
+2021-10-17,2021,veneto-classic,gc,Team Qhubeka,1.1,,,1,,0.0,,,0.0
+2021-08-03,2021,vuelta-a-burgos,gc,Team Qhubeka NextHash,2.Pro,,0,0,,150.0,,,160.0
+2021-08-14,2021,vuelta-a-espana,gc,Team Qhubeka NextHash,2.UWT,,0,0,,12.0,0.0,0.0,12.0
+2021-08-14,2021,vuelta-a-espana,kom,Team Qhubeka NextHash,2.UWT,,0,0,,12.0,0.0,0.0,12.0
+2021-08-14,2021,vuelta-a-espana,points,Team Qhubeka NextHash,2.UWT,,0,0,,12.0,0.0,0.0,12.0
+2022-06-04,2022,adriatica-ionica-race,gc,Team Qhubeka,2.1,84.0,0.0,1,,3.0,,,3.0
+2022-06-04,2022,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,42.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Team Qhubeka,1.2,,0,0,,0.0,,,8.0
+2022-09-29,2022,coppa-agostoni,gc,Team Qhubeka,1.1,,0,0,,0.0,,,0.0
+2022-07-03,2022,giro-del-medio-brenta,gc,Team Qhubeka,1.2,,0,0,,0.0,,,5.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Italy,2.2,,0,0,,25.0,,,25.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Team Qhubeka,2.2,,0,0,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,Team Qhubeka,2.1,,,1,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,Italy,2.1,,0,0,,171.0,,,213.0
+2022-03-27,2022,gp-industria-artigianato,gc,Italy,1.Pro,,0,0,,0.0,,,245.0
+2022-03-27,2022,gp-industria-artigianato,gc,Team Qhubeka,1.Pro,,0,0,,0.0,,,0.0
+2022-07-30,2022,kreiz-breizh-elites,gc,Team Qhubeka,2.2,74.0,0.0,1,,0.0,,,0.0
+2022-04-25,2022,le-tour-de-bretagne,gc,Team Qhubeka,2.2,98.0,0.0,1,,0.0,,,0.0
+2022-06-30,2022,mediterranean-games-itt,gc,Italy,JR,,,1,,0.0,,,0.0
+2022-07-02,2022,mersin-mediterranean-games,gc,Italy,JR,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-italy,gc,Team Qhubeka,NC,,,1,,0.0,,,0.0
+2022-07-03,2022,nc-rwanda,gc,Team Qhubeka,NC,,0,0,,0.0,,,3.0
+2022-02-13,2022,nc-south-africa,gc,Team Qhubeka,NC,,0,0,,0.0,,,5.0
+2022-03-20,2022,per-sempre-alfredo,gc,Italy,1.1,,0,0,,0.0,,,94.0
+2022-03-20,2022,per-sempre-alfredo,gc,Team Qhubeka,1.1,,0,0,,0.0,,,3.0
+2022-03-20,2022,popolarissima,gc,Team Qhubeka,1.2,,,1,,0.0,,,20.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Italy,2.1,,0,0,,30.0,,,30.0
+2022-09-04,2022,tour-of-britain,gc,Team Qhubeka,2.Pro,,,1,,45.0,,,30.0
+2022-06-02,2022,trofeo-alcide-degasperi,gc,Team Qhubeka,1.2,,,1,,0.0,,,0.0
+2022-07-05,2022,trofeo-citta-di-brescia,gc,Team Qhubeka,1.2,,,1,,0.0,,,0.0
+2022-03-02,2022,trofeo-laigueglia,gc,Italy,1.Pro,,0,0,,0.0,,,3.0
+2022-03-02,2022,trofeo-laigueglia,gc,Team Qhubeka,1.Pro,,0,0,,0.0,,,0.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,40.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,120.0
+2022-09-25,2022,world-championship,gc,Italy,WC,,0,0,,0.0,,,505.0
+2022-09-18,2022,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,125.0

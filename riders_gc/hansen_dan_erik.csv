@@ -1,0 +1,22 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-06-08,2021,cic-mont-ventoux,gc,Global 6 Cycling,1.1,,,1,,0.0,,,3.0
+2021-08-01,2021,circuito-de-getxo,gc,Global 6 Cycling,1.1,,0,0,,0.0,,,3.0
+2021-03-28,2021,gp-adria-mobil,gc,Global 6 Cycling,1.2,,,1,,0.0,,,0.0
+2021-08-15,2021,la-poly-normande,gc,Global 6 Cycling,1.1,,0,0,,0.0,,,0.0
+2021-02-14,2021,nc-new-zealand,gc,Global 6 Cycling,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-poland,gc,Global 6 Cycling,NC,,0,0,,0.0,,,3.0
+2021-06-20,2021,nc-russia,gc,Global 6 Cycling,NC,,0,0,,0.0,,,30.0
+2021-06-17,2021,nc-russia-itt,gc,Global 6 Cycling,NC,,0,0,,0.0,,,1.0
+2021-06-20,2021,nc-switserland,gc,Global 6 Cycling,NC,,0,0,,0.0,,,0.0
+2021-03-21,2021,per-sempre-alfredo,gc,Global 6 Cycling,1.1,,,1,,0.0,,,3.0
+2021-07-25,2021,prueba-villafranca,gc,Global 6 Cycling,1.1,,0,0,,0.0,,,33.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Global 6 Cycling,2.1,,,1,,5.0,,,5.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Global 6 Cycling,2.2,,0,0,,3.0,,,7.0
+2021-09-05,2021,tour-of-britain,gc,Global 6 Cycling,2.Pro,,,1,,8.0,,,8.0
+2021-06-03,2021,tour-of-malopolska,gc,Global 6 Cycling,2.2,122.0,0.0,1,,0.0,,,1.0
+2021-08-19,2021,tour-of-norway,gc,Global 6 Cycling,2.Pro,103.0,0.0,1,,0.0,,,0.0
+2021-05-23,2021,vuelta-ciclista-a-la-region-de-murcia,gc,Global 6 Cycling,1.1,,,1,,0.0,,,5.0
+2023-09-03,2023,gylne-gutuer,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0
+2023-05-06,2023,hadeland-gp,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0
+2023-09-02,2023,lillehammer-gp,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0
+2023-05-07,2023,ringerike-gp,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0

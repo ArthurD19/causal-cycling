@@ -1,0 +1,50 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-09-04,2020,grand-prix-cappadocia,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Team Type 1 Foundation,1.2,,,1,,0.0,,,0.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2020-09-03,2020,grand-prix-develi,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,3.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Team Type 1 Foundation,1.2,,,1,,0.0,,,0.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2020-03-08,2020,porec-trophy,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2020-09-26,2020,tour-of-mevlana,gc,Team Type 1 Foundation,2.2,53.0,0.0,1,,0.0,,,0.0
+2020-09-26,2020,tour-of-mevlana,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2020-03-04,2020,trofej-umag,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2021-06-09,2021,five-rings-of-moscow,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2021-07-04,2021,giro-del-medio-brenta,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2021-07-17,2021,gp-czech-republic,gc,Czech Republic,1.2,,,1,,0.0,,,0.0
+2021-08-29,2021,gp-de-la-somme,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2021-05-30,2021,gp-slovenia,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2021-06-28,2021,in-the-footsteps-of-the-romans,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2021-03-11,2021,istrian-spring-tour,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-czech-republic2,gc,Team Novo Nordisk Development,NC,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-france,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-poland,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-poland-itt,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2021-09-04,2021,nc-uzbekistan,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,10.0
+2021-09-02,2021,nc-uzbekistan-itt,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2021-10-17,2021,ncgreat-britain,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2021-09-10,2021,okolo-jiznich-cech,gc,Team Novo Nordisk Development,2.2,,,1,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Czech Republic,Olympics,,0,0,,0.0,,,10.0
+2021-07-28,2021,olympic-games-itt,gc,Czech Republic,Olympics,,0,0,,0.0,,,0.0
+2021-09-03,2021,paris-arras-tour,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2021-03-07,2021,porec-trophy,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2021-06-30,2021,tour-of-bulgaria,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2021-03-03,2021,trofej-umag,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,3.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Czech Republic,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Czech Republic,CC,,0,0,,0.0,,,5.0
+2021-07-10,2021,visegrad-4-bicycle-race-gp-hungary,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2021-07-11,2021,visegrad-4-bicycle-race-gp-slovakia,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2021-09-26,2021,world-championship,gc,Czech Republic,WC,,0,0,,0.0,,,185.0
+2021-09-19,2021,world-championship-itt,gc,Czech Republic,WC,,0,0,,0.0,,,0.0
+2022-07-16,2022,gp-cycliste-de-gemenc,gc,Team Dukla Praha,2.2,,0,0,,0.0,,,0.0
+2022-07-09,2022,gp-czech-republic,gc,Team Dukla Praha,1.2,,,1,,0.0,,,0.0
+2022-04-29,2022,grand-prix-nasielsk-serock,gc,Team Dukla Praha,1.2,,0,0,,0.0,,,0.0
+2022-04-30,2022,grand-prix-wyszkow,gc,Team Dukla Praha,1.2,,0,0,,0.0,,,0.0
+2022-06-03,2022,tour-of-malopolska,gc,Team Dukla Praha,2.2,,,1,,0.0,,,0.0
+2022-07-23,2022,visegrad-4-bicycle-race-gp-hungary,gc,Team Dukla Praha,1.2,,0,0,,0.0,,,0.0
+2022-07-10,2022,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team Dukla Praha,1.2,,,1,,0.0,,,0.0
+2022-07-24,2022,visegrad-4-bicycle-race-gp-slovakia,gc,Team Dukla Praha,1.2,,0,0,,0.0,,,0.0

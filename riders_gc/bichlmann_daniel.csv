@@ -1,0 +1,212 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-19,2017,african-championships,gc,BIKE AID,CC,,0,0,,0.0,,,0.0
+2017-04-23,2017,circuit-of-asmara,gc,BIKE AID,1.2,,0,0,,0.0,,,20.0
+2017-04-15,2017,fenkil-northen-red-sea-challenge,gc,BIKE AID,1.2,,0,0,,0.0,,,0.0
+2017-05-24,2017,fleche-du-sud,gc,BIKE AID,2.2,,0,0,,20.0,,,20.0
+2017-06-02,2017,gp-internacional-beiras-e-serra-da-estrela,gc,BIKE AID,2.1,,0,0,,3.0,,,3.0
+2017-02-27,2017,la-tropicale-amissa-bongo,gc,BIKE AID,2.1,,0,0,,111.0,,,114.0
+2017-04-16,2017,massawa-circuit,gc,BIKE AID,1.2,,0,0,,0.0,,,30.0
+2017-10-03,2017,munsterland-giro,gc,BIKE AID,1.HC,,,1,,0.0,,,0.0
+2017-06-25,2017,nc-eritrea,gc,BIKE AID,NC,,0,0,,0.0,,,15.0
+2017-06-23,2017,nc-eritrea-itt,gc,BIKE AID,NC,,0,0,,0.0,,,10.0
+2017-06-25,2017,nc-germany,gc,BIKE AID,NC,,,1,,0.0,,,0.0
+2017-06-25,2017,nc-netherlands,gc,BIKE AID,NC,,0,0,,0.0,,,0.0
+2017-06-07,2017,okolo-slovenska,gc,BIKE AID,2.1,90.0,0.0,1,,0.0,,,0.0
+2017-06-11,2017,rund-um-koln,gc,BIKE AID,1.1,,0,0,,0.0,,,3.0
+2017-07-05,2017,sibiu-cycling-tour,gc,BIKE AID,2.1,,0,0,,11.0,,,11.0
+2017-06-27,2017,tour-de-hongrie,gc,BIKE AID,2.2,,0,0,,0.0,,,3.0
+2017-03-11,2017,tour-du-cameroun,gc,BIKE AID,2.2,27.0,0.0,1,,53.0,,,82.0
+2017-04-18,2017,tour-eritrea,gc,BIKE AID,2.2,,0,0,,3.0,,,20.0
+2017-08-28,2017,tour-ethiopian-meles-zenawi,gc,BIKE AID,2.2,,0,0,,8.0,,,12.0
+2017-07-16,2017,tour-of-magnificent-qinghai,gc,BIKE AID,2.HC,45.0,0.0,1,,13.0,,,18.0
+2017-12-02,2017,tour-of-quanzhou-bay,gc,BIKE AID,2.2,50.0,0.0,1,,13.0,,,14.0
+2017-11-12,2017,tour-of-rwanda,gc,BIKE AID,2.2,,0,0,,25.0,,,25.0
+2017-10-10,2017,tour-of-taihu-lake,gc,BIKE AID,2.1,69.0,0.0,1,,0.0,,,0.0
+2017-04-17,2017,tour-of-the-alps,gc,BIKE AID,2.HC,105.0,0.0,1,,0.0,,,0.0
+2017-05-17,2017,tour-of-ukraine,gc,BIKE AID,2.2,45.0,0.0,1,,0.0,,,7.0
+2017-07-09,2017,velothon-wales,gc,BIKE AID,1.1,,,1,,0.0,,,0.0
+2017-08-04,2017,volta-a-portugal,gc,BIKE AID,2.1,,,1,,0.0,,,0.0
+2018-04-28,2018,banja-luka-belgrade-i,gc,BIKE AID,2.1,74.0,0.0,1,,35.0,,,35.0
+2018-09-09,2018,chrono-champenois-masculin,gc,BIKE AID,1.2,,0,0,,0.0,,,0.0
+2018-04-10,2018,commonwealth-games-itt2,gc,BIKE AID,JR,,0,0,,0.0,,,0.0
+2018-05-09,2018,fleche-du-sud,gc,BIKE AID,2.2,91.0,0.0,1,,0.0,,,0.0
+2018-09-30,2018,international-azerbaijan-tour,gc,BIKE AID,2.1,,0,0,,105.0,,,121.0
+2018-06-14,2018,la-route-d-occitanie,gc,BIKE AID,2.1,,0,0,,0.0,,,0.0
+2018-01-15,2018,la-tropicale-amissa-bongo,gc,BIKE AID,2.1,,0,0,,108.0,,,128.0
+2018-10-03,2018,munsterland-giro,gc,BIKE AID,1.HC,,,1,,0.0,,,35.0
+2018-07-01,2018,nc-germany,gc,BIKE AID,NC,,,1,,0.0,,,0.0
+2018-07-01,2018,nc-netherlands,gc,BIKE AID,NC,,0,0,,0.0,,,0.0
+2018-05-20,2018,ras-tailteann,gc,BIKE AID,2.2,25.0,0.0,1,,3.0,,,13.0
+2018-06-10,2018,rund-um-koln,gc,BIKE AID,1.1,,0,0,,0.0,,,3.0
+2018-07-05,2018,sibiu-cycling-tour,gc,BIKE AID,2.1,49.0,0.0,1,,3.0,,,3.0
+2018-08-14,2018,tour-de-hongrie,gc,BIKE AID,2.1,91.0,0.0,1,,53.0,,,81.0
+2018-05-30,2018,tour-de-luxembourg,gc,BIKE AID,2.HC,84.0,0.0,1,,5.0,,,5.0
+2018-06-21,2018,tour-des-pays-de-savoie,gc,BIKE AID,2.2,,0,0,,0.0,,,0.0
+2018-04-06,2018,tour-du-maroc,gc,BIKE AID,2.2,17.0,0.0,1,,25.0,,,40.0
+2018-09-29,2018,tour-of-almaty,gc,BIKE AID,2.1,85.0,0.0,1,,3.0,,,3.0
+2018-02-22,2018,tour-of-antalya,gc,BIKE AID,2.2,,0,0,,0.0,,,0.0
+2018-10-23,2018,tour-of-hainan,gc,BIKE AID,2.HC,,0,0,,25.0,,,45.0
+2018-07-22,2018,tour-of-magnificent-qinghai,gc,BIKE AID,2.HC,69.0,0.0,1,,13.0,,,28.0
+2018-01-24,2018,tour-of-sharjah,gc,BIKE AID,2.1,,0,0,,71.0,,,85.0
+2018-11-04,2018,tour-of-singkarak,gc,BIKE AID,2.2,73.0,0.0,1,,30.0,,,51.0
+2019-08-29,2019,african-games-road-race-me,gc,BIKE AID,JC,,0,0,,0.0,,,10.0
+2019-04-18,2019,banja-luka-belgrade-i,gc,BIKE AID,2.1,57.0,0.0,1,,90.0,,,98.0
+2019-09-08,2019,chrono-champenois-masculin,gc,BIKE AID,1.2,,0,0,,0.0,,,30.0
+2019-10-20,2019,chrono-des-nations,gc,BIKE AID,1.1,,0,0,,0.0,,,25.0
+2019-02-02,2019,deia-trophy,gc,BIKE AID,1.1,,,1,,0.0,,,0.0
+2019-08-29,2019,deutschland-tour,gc,BIKE AID,2.HC,105.0,0.0,1,,0.0,,,0.0
+2019-02-10,2019,grand-prix-alanya,gc,BIKE AID,1.2,,,1,,0.0,,,50.0
+2019-02-09,2019,grand-prix-gazipasa,gc,BIKE AID,1.2,,,1,,0.0,,,3.0
+2019-06-20,2019,la-route-d-occitanie,gc,BIKE AID,2.1,,0,0,,0.0,,,0.0
+2019-10-03,2019,munsterland-giro,gc,BIKE AID,1.HC,,,1,,0.0,,,0.0
+2019-06-30,2019,nc-eritrea,gc,BIKE AID,NC,,0,0,,0.0,,,3.0
+2019-06-28,2019,nc-eritrea-itt,gc,BIKE AID,NC,,0,0,,0.0,,,40.0
+2019-06-27,2019,nc-ethiopia-itt,gc,BIKE AID,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-germany,gc,BIKE AID,NC,,,1,,0.0,,,0.0
+2019-06-28,2019,nc-germany-itt,gc,BIKE AID,NC,,0,0,,0.0,,,10.0
+2019-06-30,2019,nc-netherlands,gc,BIKE AID,NC,,0,0,,0.0,,,0.0
+2019-06-02,2019,rund-um-koln,gc,BIKE AID,1.1,,0,0,,0.0,,,3.0
+2019-06-11,2019,tour-de-hongrie,gc,BIKE AID,2.1,103.0,0.0,1,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,BIKE AID,2.2,,,1,,0.0,,,0.0
+2019-07-15,2019,tour-of-magnificent-qinghai,gc,BIKE AID,2.HC,82.0,0.0,1,,8.0,,,8.0
+2019-04-25,2019,tour-of-mersin,gc,BIKE AID,2.2,21.0,0.0,1,,40.0,,,57.0
+2019-05-02,2019,tour-of-mesopotamia,gc,BIKE AID,2.2,22.0,0.0,1,,33.0,,,40.0
+2019-05-26,2019,tour-of-taiyuan,gc,BIKE AID,2.2,72.0,0.0,1,,0.0,,,7.0
+2019-02-03,2019,trofeo-palma,gc,BIKE AID,1.1,,,1,,0.0,,,3.0
+2019-02-01,2019,trofeo-pollenca-port-d-andratx,gc,BIKE AID,1.1,,,1,,0.0,,,0.0
+2019-01-31,2019,trofeo-ses-salines-felanitx,gc,BIKE AID,1.1,,,1,,0.0,,,0.0
+2019-04-06,2019,volta-nxt-classic,gc,BIKE AID,1.1,,0,0,,0.0,,,0.0
+2019-05-11,2019,zodc-zuidenveld-tour,gc,BIKE AID,1.2,,0,0,,0.0,,,5.0
+2020-02-04,2020,alula-tour,gc,BIKE AID,2.1,,0,0,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,BIKE AID,1.2,,,1,,0.0,,,30.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,BIKE AID,1.2,,,1,,0.0,,,3.0
+2020-03-08,2020,grote-prijs-jean-pierre-monsere,gc,BIKE AID,1.1,,,1,,0.0,,,15.0
+2020-08-01,2020,la-route-d-occitanie,gc,BIKE AID,2.1,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-germany,gc,BIKE AID,NC,,0,0,,0.0,,,30.0
+2020-10-04,2020,nc-sweden,gc,BIKE AID,NC,,0,0,,0.0,,,0.0
+2020-07-23,2020,sibiu-cycling-tour,gc,BIKE AID,2.1,,0,0,,50.0,,,64.0
+2020-08-12,2020,tour-bitwa-warszawska-1920,gc,BIKE AID,2.2,83.0,0.0,1,,0.0,,,0.0
+2020-02-20,2020,tour-of-antalya,gc,BIKE AID,2.1,,,1,,5.0,,,8.0
+2020-02-23,2020,tour-of-rwanda,gc,BIKE AID,2.1,,0,0,,6.0,,,6.0
+2020-10-06,2020,tour-of-thailand,gc,BIKE AID,2.1,35.0,0.0,1,,265.0,,,305.0
+2020-09-08,2020,turul-romaniei,gc,BIKE AID,2.2,33.0,0.0,1,,43.0,,,60.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,Maloja Pushbikers,2.1,122.0,0.0,1,,0.0,,,0.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Maloja Pushbikers,1.1,,0,0,,0.0,,,0.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Maloja Pushbikers,1.2,,,1,,0.0,,,0.0
+2021-08-05,2021,czech-tour,gc,Maloja Pushbikers,2.1,87.0,0.0,1,,0.0,,,0.0
+2021-05-14,2021,deia-trophy,gc,Maloja Pushbikers,1.1,,0,0,,0.0,,,0.0
+2021-03-07,2021,grand-prix-gundogmus-me,gc,Team KIBAG-OBOR-CKT,1.2,,0,0,,0.0,,,0.0
+2021-02-20,2021,grand-prix-manavgat-side,gc,Team KIBAG-OBOR-CKT,1.2,,0,0,,0.0,,,0.0
+2021-03-06,2021,grand-prix-mediterrennean,gc,Team KIBAG-OBOR-CKT,1.2,,0,0,,0.0,,,0.0
+2021-02-21,2021,grand-prix-velo-alanya,gc,Team KIBAG-OBOR-CKT,1.2,,0,0,,0.0,,,0.0
+2021-03-11,2021,istrian-spring-tour,gc,Maloja Pushbikers,2.2,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Maloja Pushbikers,NC,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-poland,gc,Maloja Pushbikers,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-poland-itt,gc,Maloja Pushbikers,NC,,0,0,,0.0,,,0.0
+2021-09-10,2021,okolo-jiznich-cech,gc,Maloja Pushbikers,2.2,77.0,0.0,1,,0.0,,,0.0
+2021-09-15,2021,okolo-slovenska,gc,Maloja Pushbikers,2.1,96.0,0.0,1,,0.0,,,0.0
+2021-03-07,2021,porec-trophy,gc,Maloja Pushbikers,1.2,,0,0,,0.0,,,3.0
+2021-04-04,2021,rhodes-gp,gc,Maloja Pushbikers,1.2,,,1,,0.0,,,15.0
+2021-04-04,2021,rhodes-gp,gc,Team KIBAG-OBOR-CKT,1.2,,0,0,,0.0,,,0.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Maloja Pushbikers,2.1,145.0,0.0,1,,0.0,,,0.0
+2021-10-29,2021,tour-du-faso,gc,Team KIBAG-OBOR-CKT,2.2,1.0,40.0,1,,50.0,,,60.0
+2021-04-08,2021,tour-of-rhodes,gc,Maloja Pushbikers,2.2,44.0,0.0,1,,0.0,,,1.0
+2021-04-08,2021,tour-of-rhodes,gc,Team KIBAG-OBOR-CKT,2.2,,0,0,,0.0,,,0.0
+2021-03-03,2021,trofej-umag,gc,Maloja Pushbikers,1.2,,,1,,0.0,,,0.0
+2021-05-13,2021,trofeo-calvia,gc,Maloja Pushbikers,1.1,,0,0,,0.0,,,0.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Maloja Pushbikers,1.1,,0,0,,0.0,,,0.0
+2021-08-31,2021,turul-romaniei,gc,Maloja Pushbikers,2.1,45.0,0.0,1,,3.0,,,3.0
+2022-04-14,2022,banja-luka-belgrade-i,gc,Maloja Pushbikers,2.1,104.0,0.0,1,,3.0,,,20.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Maloja Pushbikers,1.2,,,1,,0.0,,,15.0
+2022-08-04,2022,czech-tour,gc,Maloja Pushbikers,2.1,98.0,0.0,1,,0.0,,,0.0
+2022-05-25,2022,fleche-du-sud,gc,Maloja Pushbikers,2.2,,0,0,,0.0,,,3.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Maloja Pushbikers,2.2,,0,0,,0.0,,,1.0
+2022-03-20,2022,gp-izola-butan-plin,gc,Maloja Pushbikers,1.2,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Maloja Pushbikers,2.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-austria2,gc,Maloja Pushbikers,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-germany,gc,Maloja Pushbikers,NC,,0,0,,0.0,,,0.0
+2022-06-09,2022,oberosterreichrundfahrt,gc,Maloja Pushbikers,2.2,,0,0,,3.0,,,3.0
+2022-09-13,2022,okolo-slovenska,gc,Maloja Pushbikers,2.1,,0,0,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,Maloja Pushbikers,1.2,,0,0,,0.0,,,3.0
+2022-03-20,2022,rhodes-gp,gc,Maloja Pushbikers,1.2,,0,0,,0.0,,,0.0
+2022-05-22,2022,rund-um-koln,gc,Maloja Pushbikers,1.1,,0,0,,0.0,,,0.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Maloja Pushbikers,2.1,,0,0,,0.0,,,0.0
+2022-06-17,2022,tour-du-pays-de-montbeliard,gc,Maloja Pushbikers,2.2,,,1,,0.0,,,0.0
+2022-03-24,2022,tour-of-rhodes,gc,Maloja Pushbikers,2.2,,0,0,,0.0,,,0.0
+2022-03-02,2022,trofej-umag,gc,Maloja Pushbikers,1.2,,0,0,,0.0,,,3.0
+2023-04-15,2023,arno-wallaard-memorial,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-06-07,2023,aziz-shusha,gc,Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2023-06-28,2023,course-cycliste-de-solidarnosc,gc,Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2023-07-26,2023,dookola-mazowsza,gc,Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2023-09-30,2023,gp-cerami,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-08-20,2023,gp-stad-zottegem,gc,Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2023-01-21,2023,gravel-and-tar,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2023-07-28,2023,kreiz-breizh-elites,gc,Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2023-07-25,2023,memorial-andrzeja-trochanowskiego,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-08-12,2023,memorial-henryka-lasaka,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-08-13,2023,memorial_jana_magiery_2022,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-germany,gc,Storck - Metropol Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-germany-itt,gc,Storck - Metropol Cycling,NC,,0,0,,0.0,,,0.0
+2023-01-11,2023,new-zealand-cycle-classic,gc,Storck - Metropol Cycling,2.2,,,1,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-03-11,2023,rhodes-gp,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-05-06,2023,ronde-van-overijssel,gc,Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2023-05-21,2023,rund-um-koln,gc,Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2023-03-04,2023,south-aegean-tour,gc,Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2023-06-14,2023,tour-de-beauce,gc,Storck - Metropol Cycling,2.2,,0,0,,0.0,,,-5.0
+2023-03-17,2023,tour-of-rhodes,gc,Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2023-09-10,2023,tour-of-salalah,gc,Storck - Metropol Cycling,2.2,,0,0,,8.0,,,12.0
+2024-02-25,2024,alanya-cup,gc,Team Storck - Metropol Cycling,1.2,,,1,,0.0,,,0.0
+2024-04-13,2024,arno-wallaard-memorial,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-06-26,2024,course-cycliste-de-solidarnosc,gc,Team Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2024-06-16,2024,courts-mammouth-classique-de-l-ile-maurice,gc,Team Storck - Metropol Cycling,1.2,,,1,,0.0,,,3.0
+2024-01-26,2024,deia-trophy,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-07-24,2024,dookola-mazowsza,gc,Team Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2024-03-17,2024,dorpenomloop-rucphen,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-05-08,2024,fleche-du-sud,gc,Team Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2024-02-27,2024,gp-samyn,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Team Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2024-07-23,2024,memorial-andrzeja-trochanowskiego,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-08-28,2024,muur-classic-geraardsbergen,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-germany,gc,Team Storck - Metropol Cycling,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-germany-itt,gc,Team Storck - Metropol Cycling,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-luxembourg,gc,Team Storck - Metropol Cycling,NC,,0,0,,0.0,,,10.0
+2024-05-26,2024,omloop-der-kempen,gc,Team Storck - Metropol Cycling,1.2,,,1,,0.0,,,0.0
+2024-05-01,2024,omloop-van-het-waasland,gc,Team Storck - Metropol Cycling,1.2,,,1,,0.0,,,0.0
+2024-09-22,2024,paris-chauny-classique,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-05-20,2024,paris-troyes,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-07-28,2024,puchar-ministra-obrony-narodowej,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-08-25,2024,ronde-van-de-achterhoek,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-05-04,2024,ronde-van-overijssel,gc,Team Storck - Metropol Cycling,1.2,,,1,,0.0,,,0.0
+2024-05-26,2024,rund-um-koln,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-05-11,2024,silesian-classic,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-06-11,2024,skoda-tour-de-maurice,gc,Team Storck - Metropol Cycling,2.2,9.0,3.0,1,,9.0,,,10.0
+2024-03-02,2024,ster-van-zwolle,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,syedra-ancient-city,gc,Team Storck - Metropol Cycling,1.2,,,1,,0.0,,,0.0
+2024-08-21,2024,tour-bitwa-warszawska-1920,gc,Team Storck - Metropol Cycling,2.2,42.0,0.0,1,,0.0,,,0.0
+2024-09-27,2024,tour-d-eure-et-loir,gc,Team Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2024-06-12,2024,tour-de-kurpie,gc,Team Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2024-09-12,2024,tour-of-istanbul,gc,Team Storck - Metropol Cycling,2.1,106.0,0.0,1,,0.0,,,0.0
+2024-04-04,2024,tour-of-mersin,gc,Team Storck - Metropol Cycling,2.2,20.0,0.0,1,,0.0,,,7.0
+2024-01-24,2024,trofeo-calvia,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-01-28,2024,trofeo-palma,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-03-17,2024,trofeu-da-arrabida,gc,Team Storck - Metropol Cycling,1.2,,0,0,,0.0,,,0.0
+2024-08-14,2024,turul-romaniei,gc,Team Storck - Metropol Cycling,2.2,50.0,0.0,1,,0.0,,,0.0
+2024-03-20,2024,volta-ao-alentejo,gc,Team Storck - Metropol Cycling,2.2,,0,0,,0.0,,,0.0
+2024-03-30,2024,volta-nxt-classic,gc,Team Storck - Metropol Cycling,1.1,,0,0,,0.0,,,0.0
+2024-06-05,2024,zlm-tour,gc,Team Storck - Metropol Cycling,2.1,,0,0,,0.0,,,0.0
+2025-08-31,2025,gp-kranj,gc,Cycling Team Schwingshandl,1.2,,0,0,,0.0,,,0.0
+2025-05-01,2025,gp-vorarlberg,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-07-06,2025,midden-brabant-poort-omloop,gc,Cycling Team Schwingshandl,1.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-austria2,gc,Cycling Team Schwingshandl,NC,,0,0,,0.0,,,-12.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Cycling Team Schwingshandl,2.2,116.0,0.0,1,,0.0,,,-12.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Cycling Team Schwingshandl,2.2,,0,0,,0.0,,,0.0
+2025-05-11,2025,radsportfest-marwil,gc,Cycling Team Schwingshandl,1.2,,0,0,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,Cycling Team Schwingshandl,1.2,,0,0,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,Cycling Team Schwingshandl,2.2,,0,0,,0.0,,,0.0
+2025-07-01,2025,trofeo-citta-di-brescia,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Cycling Team Schwingshandl,1.2,,0,0,,0.0,,,0.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0

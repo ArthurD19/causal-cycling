@@ -1,0 +1,109 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-04-06,2022,circuit-des-ardennes,gc,Team Felbermayr - Simplon Wels,2.2,,,1,,0.0,,,0.0
+2022-08-04,2022,czech-tour,gc,Team Felbermayr - Simplon Wels,2.1,100.0,0.0,1,,0.0,,,0.0
+2022-05-25,2022,fleche-du-sud,gc,Team Felbermayr - Simplon Wels,2.2,,0,0,,0.0,,,2.0
+2022-03-24,2022,gp-goriska-vipava-valley,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,0.0
+2022-03-20,2022,gp-izola-butan-plin,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,0.0
+2022-07-24,2022,gp-kranj,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Team Felbermayr - Simplon Wels,2.2,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-austria-itt,gc,Team Felbermayr - Simplon Wels,NC,,,1,,0.0,,,3.0
+2022-06-26,2022,nc-austria2,gc,Team Felbermayr - Simplon Wels,NC,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-czech-republic2,gc,Team Felbermayr - Simplon Wels,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-germany,gc,Team Felbermayr - Simplon Wels,NC,,0,0,,0.0,,,0.0
+2022-06-09,2022,oberosterreichrundfahrt,gc,Team Felbermayr - Simplon Wels,2.2,,0,0,,10.0,,,10.0
+2022-03-06,2022,porec-trophy,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,0.0
+2022-05-22,2022,rund-um-koln,gc,Team Felbermayr - Simplon Wels,1.1,,0,0,,0.0,,,0.0
+2022-02-10,2022,tour-of-antalya,gc,Team Felbermayr - Simplon Wels,2.1,,0,0,,3.0,,,3.0
+2022-06-15,2022,tour-of-slovenia,gc,Team Felbermayr - Simplon Wels,2.Pro,,0,0,,8.0,,,8.0
+2022-03-02,2022,trofej-umag,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,0.0
+2023-04-06,2023,circuit-des-ardennes,gc,Team Felbermayr - Simplon Wels,2.2,,0,0,,0.0,,,0.0
+2023-07-27,2023,czech-tour,gc,Team Felbermayr - Simplon Wels,2.1,96.0,0.0,1,,3.0,,,3.0
+2023-05-17,2023,fleche-du-sud,gc,Team Felbermayr - Simplon Wels,2.2,89.0,0.0,1,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Team Felbermayr - Simplon Wels,2.2,109.0,0.0,1,,15.0,,,22.0
+2023-07-23,2023,gp-czech-republic,gc,Team Felbermayr - Simplon Wels,1.2,,0,0,,0.0,,,5.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,Team Felbermayr - Simplon Wels,1.2,,0,0,,0.0,,,0.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Team Felbermayr - Simplon Wels,1.1,,0,0,,0.0,,,0.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,0.0
+2023-04-30,2023,gp-vorarlberg,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,5.0
+2023-03-04,2023,le-tour-des-100-communes,gc,Team Felbermayr - Simplon Wels,1.2,,0,0,,0.0,,,0.0
+2023-08-12,2023,memorial-henryka-lasaka,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,46.0
+2023-08-13,2023,memorial_jana_magiery_2022,gc,Team Felbermayr - Simplon Wels,1.2,,,1,,0.0,,,55.0
+2023-06-24,2023,nc-austria-itt,gc,Team Felbermayr - Simplon Wels,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-austria2,gc,Team Felbermayr - Simplon Wels,NC,,,1,,0.0,,,50.0
+2023-06-22,2023,nc-czech-republic-itt,gc,Team Felbermayr - Simplon Wels,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-czech-republic2,gc,Team Felbermayr - Simplon Wels,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-germany,gc,Team Felbermayr - Simplon Wels,NC,,0,0,,0.0,,,0.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Team Felbermayr - Simplon Wels,2.2,,0,0,,15.0,,,15.0
+2023-09-07,2023,okolo-jiznich-cech,gc,Team Felbermayr - Simplon Wels,2.2,38.0,0.0,1,,28.0,,,28.0
+2023-03-11,2023,rhodes-gp,gc,Team Felbermayr - Simplon Wels,1.2,,0,0,,0.0,,,25.0
+2023-07-02,2023,tour-of-austria,gc,Team Felbermayr - Simplon Wels,2.1,108.0,0.0,1,,3.0,,,-12.0
+2023-09-28,2023,tour-of-istanbul,gc,Team Felbermayr - Simplon Wels,2.2,37.0,0.0,1,,0.0,,,0.0
+2023-03-17,2023,tour-of-rhodes,gc,Team Felbermayr - Simplon Wels,2.2,,0,0,,10.0,,,10.0
+2023-07-22,2023,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team Felbermayr - Simplon Wels,1.2,,0,0,,0.0,,,3.0
+2024-04-13,2024,arno-wallaard-memorial,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,0.0
+2024-10-13,2024,chrono-des-nations,gc,Team Felt Felbermayr,1.1,,0,0,,0.0,,,30.0
+2024-05-09,2024,circuit-de-wallonie,gc,Team Felt Felbermayr,1.1,,,1,,0.0,,,3.0
+2024-04-04,2024,circuit-des-ardennes,gc,Team Felt Felbermayr,2.2,66.0,0.0,1,,3.0,,,3.0
+2024-06-26,2024,course-cycliste-de-solidarnosc,gc,Team Felt Felbermayr,2.2,,0,0,,30.0,,,31.0
+2024-06-16,2024,courts-mammouth-classique-de-l-ile-maurice,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,40.0
+2024-08-04,2024,cupa-max-ausnit,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,25.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,0.0
+2024-04-28,2024,famenne-ardenne-classic,gc,Team Felt Felbermayr,1.1,,,1,,0.0,,,0.0
+2024-05-08,2024,fleche-du-sud,gc,Team Felt Felbermayr,2.2,,0,0,,3.0,,,6.0
+2024-09-22,2024,gooikse-pijl,gc,Team Felt Felbermayr,1.1,,,1,,0.0,,,3.0
+2024-03-24,2024,gp-adria-mobil,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,10.0
+2024-03-19,2024,gp-brda-collio,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,30.0
+2024-09-28,2024,gp-cerami,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,3.0
+2024-07-20,2024,gp-czech-republic,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,13.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Team Felt Felbermayr,1.1,,0,0,,0.0,,,3.0
+2024-05-19,2024,gp-gorenjska,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,45.0
+2024-03-21,2024,gp-goriska-vipava-valley,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,5.0
+2024-03-17,2024,gp-izola-butan-plin,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,25.0
+2024-09-01,2024,gp-kranj,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,10.0
+2024-05-01,2024,gp-vorarlberg,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,6.0
+2024-09-08,2024,grote-prijs-stad-halle,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,30.0
+2024-03-07,2024,istrian-spring-tour,gc,Team Felt Felbermayr,2.2,,0,0,,3.0,,,3.0
+2024-04-28,2024,kirschblutenrennen,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,30.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Team Felt Felbermayr,2.2,,0,0,,20.0,,,22.0
+2024-06-21,2024,nc-austria-itt,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-austria2,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,83.0
+2024-06-23,2024,nc-czech-republic2,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,75.0
+2024-06-23,2024,nc-germany,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-germany-itt,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-luxembourg,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,30.0
+2024-06-21,2024,nc-luxembourg-itt,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-poland,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,60.0
+2024-06-20,2024,nc-poland-itt,gc,Team Felt Felbermayr,NC,,0,0,,0.0,,,5.0
+2024-06-14,2024,oberosterreichrundfahrt,gc,Team Felt Felbermayr,2.2,,0,0,,30.0,,,33.0
+2024-09-05,2024,okolo-jiznich-cech,gc,Team Felt Felbermayr,2.2,,0,0,,3.0,,,7.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,Team Felt Felbermayr,1.1,,,1,,0.0,,,0.0
+2024-03-03,2024,porec-trophy,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,0.0
+2024-03-09,2024,rhodes-gp,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,3.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Team Felt Felbermayr,2.1,90.0,0.0,1,,0.0,,,0.0
+2024-06-11,2024,skoda-tour-de-maurice,gc,Team Felt Felbermayr,2.2,,0,0,,60.0,,,85.0
+2024-09-27,2024,tour-d-eure-et-loir,gc,Team Felt Felbermayr,2.2,,0,0,,0.0,,,0.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Team Felt Felbermayr,2.2,,0,0,,3.0,,,4.0
+2024-07-02,2024,tour-of-austria,gc,Team Felt Felbermayr,2.1,,0,0,,25.0,,,25.0
+2024-05-30,2024,tour-of-malopolska,gc,Team Felt Felbermayr,2.2,,0,0,,40.0,,,54.0
+2024-03-14,2024,tour-of-rhodes,gc,Team Felt Felbermayr,2.2,,0,0,,15.0,,,21.0
+2024-01-26,2024,tour-of-sharjah,gc,Team Felt Felbermayr,2.2,,0,0,,50.0,,,54.0
+2024-08-07,2024,tour-of-szeklerland,gc,Team Felt Felbermayr,2.2,40.0,0.0,1,,35.0,,,39.0
+2024-02-28,2024,trofej-umag,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,0.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,Team Felt Felbermayr,1.2,,0,0,,0.0,,,0.0
+2024-08-14,2024,turul-romaniei,gc,Team Felt Felbermayr,2.2,,0,0,,15.0,,,16.0
+2024-07-21,2024,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team Felt Felbermayr,1.2,,,1,,0.0,,,20.0
+2025-10-19,2025,chrono-des-nations,gc,Austria,1.1,,0,0,,0.0,,,3.0
+2025-08-31,2025,gp-kranj,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-05-01,2025,gp-vorarlberg,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-07-06,2025,midden-brabant-poort-omloop,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-austria2,gc,Cycling Team Schwingshandl,NC,,,1,,0.0,,,-12.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Cycling Team Schwingshandl,2.2,97.0,0.0,1,,0.0,,,-12.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Cycling Team Schwingshandl,2.2,46.0,0.0,1,,0.0,,,0.0
+2025-05-11,2025,radsportfest-marwil,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,Cycling Team Schwingshandl,2.2,55.0,0.0,1,,0.0,,,0.0
+2025-04-21,2025,tour-of-the-alps,gc,Austria,2.Pro,,,1,,6.0,,,6.0
+2025-07-01,2025,trofeo-citta-di-brescia,gc,Cycling Team Schwingshandl,1.2,,0,0,,0.0,,,0.0
+2025-10-05,2025,uec-road-european-championships-me,gc,Austria,CC,,0,0,,0.0,,,20.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,Cycling Team Schwingshandl,1.2,,,1,,0.0,,,0.0

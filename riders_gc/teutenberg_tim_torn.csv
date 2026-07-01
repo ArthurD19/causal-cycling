@@ -1,0 +1,410 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,3.0
+2021-10-17,2021,chrono-des-nations,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,20.0
+2021-10-07,2021,circuit-des-ardennes,gc,Leopard Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2021-08-05,2021,czech-tour,gc,Leopard Pro Cycling,2.1,88.0,0.0,1,,20.0,,,20.0
+2021-05-14,2021,deia-trophy,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2021-08-29,2021,gp-de-la-somme,gc,Leopard Pro Cycling,1.2,,,1,,0.0,,,0.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,5.0
+2021-03-02,2021,gp-samyn,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,0.0
+2021-08-17,2021,gp-stad-zottegem,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,6.0
+2021-07-25,2021,grand-prix-de-la-ville-de-perenchies,gc,Leopard Pro Cycling,1.2,,,1,,0.0,,,0.0
+2021-08-20,2021,grote-prijs-marcel-kint,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,3.0
+2021-03-11,2021,istrian-spring-tour,gc,Leopard Pro Cycling,2.2,,0,0,,23.0,,,23.0
+2021-09-20,2021,le-tour-de-bretagne,gc,Leopard Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2021-10-03,2021,munsterland-giro,gc,Leopard Pro Cycling,1.Pro,,,1,,0.0,,,8.0
+2021-06-20,2021,nc-france,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-france-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Leopard Pro Cycling,NC,,,1,,0.0,,,0.0
+2021-06-19,2021,nc-germany-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,30.0
+2021-06-20,2021,nc-luxembourg,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,74.0
+2021-06-18,2021,nc-luxembourg-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-netherlands,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,10.0
+2021-06-16,2021,nc-netherlands-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-poland,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-poland-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,30.0
+2021-06-20,2021,nc-sweden,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2021-09-03,2021,paris-arras-tour,gc,Leopard Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2021-03-14,2021,paris-troyes,gc,Leopard Pro Cycling,1.2,,,1,,0.0,,,0.0
+2021-03-07,2021,porec-trophy,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2021-10-24,2021,ronde-van-drenthe,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,3.0
+2021-07-22,2021,tour-alsace,gc,Leopard Pro Cycling,2.2,,0,0,,0.0,,,0.0
+2021-05-14,2021,tour-d-eure-et-loir,gc,Leopard Pro Cycling,2.2,55.0,0.0,1,,0.0,,,0.0
+2021-05-27,2021,tour-de-la-mirabelle,gc,Leopard Pro Cycling,2.2,67.0,0.0,1,,25.0,,,25.0
+2021-09-14,2021,tour-de-luxembourg,gc,Leopard Pro Cycling,2.Pro,,,1,,5.0,,,5.0
+2021-03-03,2021,trofej-umag,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2021-05-13,2021,trofeo-calvia,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,3.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,15.0
+2022-08-18,2022,baltic-chain-tour,gc,Germany,2.2,,0,0,,0.0,,,0.0
+2022-04-06,2022,circuit-des-ardennes,gc,Leopard Pro Cycling,2.2,,0,0,,10.0,,,10.0
+2022-08-24,2022,deutschland-tour,gc,Germany,2.Pro,72.0,0.0,1,,10.0,,,10.0
+2022-07-27,2022,dookola-mazowsza,gc,Germany,2.2,,0,0,,0.0,,,0.0
+2022-03-13,2022,dorpenomloop-rucphen,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,elfsteden-race,gc,Leopard Pro Cycling,1.2,,,1,,0.0,,,3.0
+2022-10-02,2022,famenne-ardenne-classic,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2022-05-08,2022,fleche-ardennaise,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,10.0
+2022-05-25,2022,fleche-du-sud,gc,Leopard Pro Cycling,2.2,46.0,0.0,1,,0.0,,,7.0
+2022-09-11,2022,gp-de-la-somme,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,3.0
+2022-08-07,2022,gp-jef-scherens,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,3.0
+2022-03-01,2022,gp-samyn,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,0.0
+2022-08-23,2022,gp-stad-zottegem,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,5.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Germany,1.2,,0,0,,0.0,,,0.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Germany,1.2,,0,0,,0.0,,,30.0
+2022-04-25,2022,le-tour-de-bretagne,gc,Leopard Pro Cycling,2.2,,0,0,,0.0,,,3.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,Leopard Pro Cycling,1.2,,,1,,0.0,,,20.0
+2022-10-03,2022,munsterland-giro,gc,Germany,1.Pro,,,1,,0.0,,,50.0
+2022-06-26,2022,nc-belgium,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-germany,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-germany-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-luxembourg,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,141.0
+2022-06-24,2022,nc-netherlands,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-netherlands-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-09,2022,oberosterreichrundfahrt,gc,Leopard Pro Cycling,2.2,42.0,0.0,1,,0.0,,,1.0
+2022-09-25,2022,paris-chauny-classique,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,3.0
+2022-06-06,2022,paris-troyes,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,10.0
+2022-07-31,2022,puchar-ministra-obrony-narodowej,gc,Germany,1.2,,0,0,,0.0,,,3.0
+2022-05-07,2022,ronde-van-overijssel,gc,Leopard Pro Cycling,1.2,,,1,,0.0,,,3.0
+2022-05-22,2022,rund-um-koln,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,Germany,2.2,,0,0,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,Leopard Pro Cycling,2.2,,0,0,,15.0,,,22.0
+2022-08-09,2022,tour-de-l-ain,gc,Germany,2.1,,0,0,,3.0,,,3.0
+2022-09-13,2022,tour-de-luxembourg,gc,Leopard Pro Cycling,2.Pro,,,1,,0.0,,,0.0
+2022-03-21,2022,tour-de-normadie,gc,Germany,2.2,,0,0,,0.0,,,0.0
+2022-09-04,2022,tour-du-doubs,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,0.0
+2022-04-13,2022,tour-du-loir-et-cher,gc,Germany,2.2,,0,0,,3.0,,,3.0
+2022-06-17,2022,tour-du-pays-de-montbeliard,gc,Germany,2.2,,0,0,,0.0,,,0.0
+2022-02-10,2022,tour-of-antalya,gc,Leopard Pro Cycling,2.1,80.0,0.0,1,,11.0,,,11.0
+2022-02-10,2022,tour-of-antalya,gc,Germany,2.1,,0,0,,0.0,,,0.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Germany,CC,,0,0,,0.0,,,0.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Germany,CC,,0,0,,0.0,,,5.0
+2022-09-25,2022,world-championship,gc,Germany,WC,,0,0,,0.0,,,5.0
+2022-09-18,2022,world-championship-itt,gc,Germany,WC,,0,0,,0.0,,,15.0
+2023-05-14,2023,albani-classic-fyen-rundt,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2023-08-17,2023,arctic-race-of-norway,gc,Lidl - Trek,2.Pro,,0,0,,23.0,,,28.0
+2023-09-03,2023,bretagne-classic,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,24.0
+2023-10-15,2023,chrono-des-nations,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,5.0
+2023-04-06,2023,circuit-des-ardennes,gc,Leopard TOGT Pro Cycling,2.2,,0,0,,40.0,,,47.0
+2023-09-28,2023,circuit-franco-belge,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,51.0
+2023-07-30,2023,circuito-de-getxo,gc,Lidl - Trek,1.1,,0,0,,0.0,,,135.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2023-10-02,2023,coppa-bernocchi,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,18.0
+2023-08-20,2023,cyclassics-hamburg,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,418.0
+2023-06-25,2023,danish-championships,gc,Leopard TOGT Pro Cycling,NC,,0,0,,0.0,,,40.0
+2023-08-23,2023,deutschland-tour,gc,Lidl - Trek,2.Pro,,0,0,,30.0,,,45.0
+2023-03-12,2023,dorpenomloop-rucphen,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2023-10-01,2023,famenne-ardenne-classic,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,3.0
+2023-05-07,2023,fleche-ardennaise,gc,Leopard TOGT Pro Cycling,1.2,,,1,,0.0,,,0.0
+2023-05-17,2023,fleche-du-sud,gc,Leopard TOGT Pro Cycling,2.2,,0,0,,5.0,,,13.0
+2023-10-11,2023,giro-del-veneto,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,35.0
+2023-09-30,2023,giro-dell-emilia,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,50.0
+2023-09-17,2023,gp-d-isbergues,gc,Lidl - Trek,1.1,,0,0,,0.0,,,85.0
+2023-09-10,2023,gp-de-la-somme,gc,Leopard TOGT Pro Cycling,1.2,,,1,,0.0,,,20.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,40.0
+2023-05-13,2023,gp-herning,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2023-09-16,2023,gp-impanis-van-petegem,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,8.0
+2023-09-10,2023,gp-montreal,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,120.0
+2023-09-08,2023,gp-quebec,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,105.0
+2023-02-28,2023,gp-samyn,gc,Leopard TOGT Pro Cycling,1.1,,,1,,0.0,,,20.0
+2023-10-05,2023,gran-piemonte,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,-2.0
+2023-07-23,2023,grand-prix-de-la-ville-de-perenchies,gc,Leopard TOGT Pro Cycling,1.2,,,1,,0.0,,,3.0
+2023-09-17,2023,grote-prijs-rik-van-looy,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,15.0
+2023-09-03,2023,gylne-gutuer,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,40.0
+2023-05-06,2023,hadeland-gp,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,30.0
+2023-10-07,2023,il-lombardia,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,15.0
+2023-10-15,2023,japan-cup,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,55.0
+2023-09-15,2023,kampioenschap-van-vlaanderen1,gc,Lidl - Trek,1.1,,,1,,0.0,,,35.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Leopard TOGT Pro Cycling,2.2,,0,0,,0.0,,,10.0
+2023-03-04,2023,le-tour-des-100-communes,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2023-09-02,2023,lillehammer-gp,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,10.0
+2023-09-03,2023,maryland-cycling-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,325.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,5.0
+2023-10-03,2023,memorial-frank-vandenbroucke,gc,Lidl - Trek,1.1,,0,0,,0.0,,,90.0
+2023-06-04,2023,memorial-philippe-van-coningsloo,gc,Leopard TOGT Pro Cycling,1.2,,,1,,0.0,,,25.0
+2023-10-03,2023,munsterland-giro,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,150.0
+2023-06-22,2023,nc-denmark-itt,gc,Leopard TOGT Pro Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-germany,gc,Leopard TOGT Pro Cycling,NC,,,1,,0.0,,,0.0
+2023-06-23,2023,nc-germany-itt,gc,Leopard TOGT Pro Cycling,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-luxembourg,gc,Leopard TOGT Pro Cycling,NC,,0,0,,0.0,,,64.0
+2023-06-21,2023,nc-luxembourg-itt,gc,Leopard TOGT Pro Cycling,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-netherlands,gc,Leopard TOGT Pro Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-netherlands-itt,gc,Leopard TOGT Pro Cycling,NC,,0,0,,0.0,,,0.0
+2023-03-22,2023,olympias-tour,gc,Leopard TOGT Pro Cycling,2.2,22.0,0.0,1,,55.0,,,55.0
+2023-10-05,2023,paris-bourges,gc,Lidl - Trek,1.1,,0,0,,0.0,,,28.0
+2023-09-24,2023,paris-chauny-classique,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,13.0
+2023-10-08,2023,paris-tours,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,43.0
+2023-08-23,2023,renewi-tour,gc,Lidl - Trek,2.UWT,,0,0,,240.0,,,278.0
+2023-05-07,2023,ringerike-gp,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2023-08-27,2023,ronde-van-de-achterhoek,gc,Leopard TOGT Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2023-03-12,2023,ronde-van-drenthe,gc,Leopard TOGT Pro Cycling,1.1,,,1,,0.0,,,3.0
+2023-05-06,2023,ronde-van-overijssel,gc,Leopard TOGT Pro Cycling,1.2,,,1,,0.0,,,30.0
+2023-05-21,2023,rund-um-koln,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2023-07-29,2023,san-sebastian,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,164.0
+2023-03-04,2023,ster-van-zwolle,gc,Leopard TOGT Pro Cycling,1.2,,,1,,0.0,,,3.0
+2023-07-27,2023,tour-alsace,gc,Leopard TOGT Pro Cycling,2.2,60.0,0.0,1,,3.0,,,3.0
+2023-07-01,2023,tour-de-france,gc,Lidl - Trek,2.UWT,,0,0,,75.0,210.0,150.0,1150.0
+2023-07-01,2023,tour-de-france,kom,Lidl - Trek,2.UWT,,0,0,,75.0,210.0,150.0,1150.0
+2023-07-01,2023,tour-de-france,points,Lidl - Trek,2.UWT,,0,0,,75.0,210.0,150.0,1150.0
+2023-07-31,2023,tour-de-l-ain,gc,Leopard TOGT Pro Cycling,2.1,,0,0,,3.0,,,3.0
+2023-07-31,2023,tour-de-l-ain,gc,Lidl - Trek,2.1,,0,0,,110.0,,,118.0
+2023-09-20,2023,tour-de-luxembourg,gc,Leopard TOGT Pro Cycling,2.Pro,,0,0,,3.0,,,3.0
+2023-09-20,2023,tour-de-luxembourg,gc,Lidl - Trek,2.Pro,,0,0,,5.0,,,5.0
+2023-07-29,2023,tour-de-pologne,gc,Lidl - Trek,2.UWT,,0,0,,24.0,,,30.0
+2023-07-22,2023,tour-de-wallonie,gc,Lidl - Trek,2.Pro,,0,0,,95.0,,,113.0
+2023-02-17,2023,tour-des-alpes-maritimes,gc,Leopard TOGT Pro Cycling,2.1,,0,0,,15.0,,,15.0
+2023-04-16,2023,tour-du-doubs,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,6.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,30.0
+2023-07-02,2023,tour-of-austria,gc,Leopard TOGT Pro Cycling,2.1,,0,0,,5.0,,,-10.0
+2023-09-26,2023,tour-of-croatia,gc,Lidl - Trek,2.1,59.0,0.0,1,,5.0,,,5.0
+2023-08-15,2023,tour-of-denmark,gc,Leopard TOGT Pro Cycling,2.Pro,,0,0,,78.0,,,78.0
+2023-08-15,2023,tour-of-denmark,gc,Lidl - Trek,2.Pro,,0,0,,390.0,,,481.0
+2023-10-12,2023,tour-of-guangxi,gc,Lidl - Trek,2.UWT,,0,0,,32.0,,,41.0
+2023-05-26,2023,tour-of-norway,gc,Leopard TOGT Pro Cycling,2.Pro,,0,0,,5.0,,,-5.0
+2023-10-03,2023,tre-valli-varesine,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,0.0
+2023-10-15,2023,veneto-classic,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,15.0
+2023-04-01,2023,volta-nxt-classic,gc,Leopard TOGT Pro Cycling,1.1,,0,0,,0.0,,,23.0
+2023-08-27,2023,vuelta-a-espana,gc,Lidl - Trek,2.UWT,,0,0,,90.0,0.0,0.0,537.0
+2023-08-27,2023,vuelta-a-espana,kom,Lidl - Trek,2.UWT,,0,0,,90.0,0.0,0.0,537.0
+2023-08-27,2023,vuelta-a-espana,points,Lidl - Trek,2.UWT,,0,0,,90.0,0.0,0.0,537.0
+2023-06-07,2023,zlm-tour,gc,Leopard TOGT Pro Cycling,2.Pro,,0,0,,3.0,,,3.0
+2024-05-26,2024,albani-classic-fyen-rundt,gc,Lidl - Trek Future Racing,1.2,,0,0,,0.0,,,0.0
+2024-04-14,2024,amstel-gold-race,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,200.0
+2024-03-15,2024,bredene-koksijde-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,108.0
+2024-08-25,2024,bretagne-classic,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,196.0
+2024-10-13,2024,chrono-des-nations,gc,Germany,1.1,,0,0,,0.0,,,3.0
+2024-04-04,2024,circuit-des-ardennes,gc,Lidl - Trek Future Racing,2.2,,0,0,,0.0,,,0.0
+2024-08-11,2024,circuito-de-getxo,gc,Lidl - Trek,1.1,,0,0,,0.0,,,38.0
+2024-02-12,2024,clasica-jaen-paraiso-interior,gc,Lidl - Trek Future Racing,1.1,,0,0,,0.0,,,0.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,145.0
+2024-02-16,2024,classic-var,gc,Lidl - Trek Future Racing,1.1,,0,0,,0.0,,,0.0
+2024-10-07,2024,coppa-bernocchi,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,8.0
+2024-09-08,2024,cyclassics-hamburg,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,330.0
+2024-07-25,2024,czech-tour,gc,Lidl - Trek Future Racing,2.1,,0,0,,3.0,,,3.0
+2024-06-23,2024,danish-championships,gc,Lidl - Trek,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,danish-championships,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,0.0
+2024-01-26,2024,deia-trophy,gc,Lidl - Trek Future Racing,1.1,,0,0,,0.0,,,0.0
+2024-08-22,2024,deutschland-tour,gc,Germany,2.Pro,,0,0,,5.0,,,5.0
+2024-08-22,2024,deutschland-tour,gc,Lidl - Trek,2.Pro,,0,0,,220.0,,,285.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,107.0
+2024-03-22,2024,e3-harelbeke,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,544.0
+2024-05-01,2024,eschborn-frankfurt,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,41.0
+2024-02-01,2024,etoile-de-besseges,gc,Lidl - Trek,2.1,,0,0,,140.0,,,164.0
+2024-02-24,2024,faun-ardeche-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,133.0
+2024-02-10,2024,figueira-champions-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,13.0
+2024-05-08,2024,fleche-du-sud,gc,Lidl - Trek Future Racing,2.2,45.0,0.0,1,,28.0,,,54.0
+2024-03-24,2024,gent-wevelgem,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,755.0
+2024-05-04,2024,giro-d-italia,gc,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1110.0
+2024-05-04,2024,giro-d-italia,kom,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1110.0
+2024-05-04,2024,giro-d-italia,points,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1110.0
+2024-10-05,2024,giro-dell-emilia,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,0.0
+2024-09-22,2024,gooikse-pijl,gc,Lidl - Trek,1.1,,,1,,0.0,,,3.0
+2024-01-20,2024,gp-de-valence,gc,Lidl - Trek Future Racing,1.1,,,1,,0.0,,,70.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Lidl - Trek,1.1,,0,0,,0.0,,,3.0
+2024-05-25,2024,gp-herning,gc,Lidl - Trek Future Racing,1.2,,0,0,,0.0,,,0.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,35.0
+2024-09-15,2024,gp-montreal,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,265.0
+2024-09-13,2024,gp-quebec,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,235.0
+2024-10-10,2024,gran-piemonte,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,65.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,11.0
+2024-01-28,2024,great-ocean-road-race,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,320.0
+2024-09-07,2024,grote-prijs-rik-van-looy,gc,Lidl - Trek Future Racing,1.2,,,1,,0.0,,,45.0
+2024-10-12,2024,il-lombardia,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,630.0
+2024-04-01,2024,itzulia-basque-country,gc,Lidl - Trek,2.UWT,,0,0,,284.0,,,339.0
+2024-10-20,2024,japan-cup,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,120.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Lidl - Trek,1.1,,,1,,0.0,,,8.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,50.0
+2024-02-25,2024,la-drome-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,93.0
+2024-04-17,2024,la-fleche-wallonne,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,56.0
+2024-04-25,2024,le-tour-de-bretagne,gc,Lidl - Trek Future Racing,2.2,28.0,0.0,1,,40.0,,,54.0
+2024-04-21,2024,liege-bastogne-liege,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,130.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,Lidl - Trek,1.1,,,1,,0.0,,,25.0
+2024-03-16,2024,milano-sanremo,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,655.0
+2024-10-03,2024,munsterland-giro,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,5.0
+2024-08-28,2024,muur-classic-geraardsbergen,gc,Lidl - Trek Future Racing,1.1,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-austria2,gc,Lidl - Trek,NC,,0,0,,0.0,,,40.0
+2024-06-23,2024,nc-belgium,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-20,2024,nc-czech-republic-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-czech-republic2,gc,Lidl - Trek,NC,,0,0,,0.0,,,40.0
+2024-06-21,2024,nc-denmark-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-21,2024,nc-denmark-itt,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,0.0
+2024-06-15,2024,nc-eritrea,gc,Lidl - Trek,NC,,0,0,,0.0,,,110.0
+2024-06-13,2024,nc-eritrea-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-france,gc,Lidl - Trek,NC,,0,0,,0.0,,,75.0
+2024-06-23,2024,nc-germany,gc,Lidl - Trek Future Racing,NC,,,1,,0.0,,,41.0
+2024-06-23,2024,nc-ireland,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,Lidl - Trek,NC,,0,0,,0.0,,,20.0
+2024-06-20,2024,nc-italy-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,15.0
+2024-06-23,2024,nc-luxembourg,gc,Lidl - Trek,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-luxembourg,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,75.0
+2024-06-23,2024,nc-netherlands,gc,Lidl - Trek,NC,,0,0,,0.0,,,2.0
+2024-06-19,2024,nc-netherlands-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,53.0
+2024-02-04,2024,nc-south-africa,gc,Lidl - Trek,NC,,0,0,,0.0,,,100.0
+2024-02-02,2024,nc-south-africa-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-sweden,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,0.0
+2024-06-18,2024,nc-sweden-itt,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-switserland,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,0.0
+2024-05-19,2024,nc-united-states,gc,Lidl - Trek Future Racing,NC,,0,0,,0.0,,,0.0
+2024-03-13,2024,nokere-koerse,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,93.0
+2024-03-20,2024,olympias-tour,gc,Lidl - Trek Future Racing,2.2,1.0,40.0,1,,40.0,,,46.0
+2024-08-03,2024,olympic-games,gc,Germany,Olympics,,0,0,,0.0,,,30.0
+2024-07-27,2024,olympic-games-itt,gc,Germany,Olympics,,0,0,,0.0,,,80.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,133.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,Lidl - Trek,1.1,,0,0,,0.0,,,5.0
+2024-03-03,2024,paris-nice,gc,Lidl - Trek,2.UWT,,0,0,,285.0,,,513.0
+2024-04-07,2024,paris-roubaix,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,575.0
+2024-10-06,2024,paris-tours,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,155.0
+2024-01-25,2024,race-torquay,gc,Lidl - Trek,1.1,,0,0,,0.0,,,5.0
+2024-08-28,2024,renewi-tour,gc,Lidl - Trek,2.UWT,,0,0,,40.0,,,146.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,165.0
+2024-05-26,2024,rund-um-koln,gc,Germany,1.1,,,1,,0.0,,,55.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Lidl - Trek Future Racing,1.1,,0,0,,0.0,,,3.0
+2024-08-10,2024,san-sebastian,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,160.0
+2024-04-03,2024,scheldeprijs,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,8.0
+2024-03-02,2024,ster-van-zwolle,gc,Lidl - Trek Future Racing,1.2,,,1,,0.0,,,5.0
+2024-03-02,2024,strade-bianche,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,322.0
+2024-03-04,2024,tirreno-adriatico,gc,Lidl - Trek,2.UWT,,0,0,,40.0,,,235.0
+2024-07-25,2024,tour-alsace,gc,Germany,2.2,50.0,0.0,1,,0.0,,,1.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Lidl - Trek,2.UWT,,0,0,,135.0,,,327.0
+2024-02-09,2024,tour-cycliste-international-la-provence,gc,Lidl - Trek,2.1,,0,0,,205.0,,,233.0
+2024-06-29,2024,tour-de-france,gc,Lidl - Trek,2.UWT,,0,0,,315.0,0.0,0.0,1015.0
+2024-06-29,2024,tour-de-france,kom,Lidl - Trek,2.UWT,,0,0,,315.0,0.0,0.0,1015.0
+2024-06-29,2024,tour-de-france,points,Lidl - Trek,2.UWT,,0,0,,315.0,0.0,0.0,1015.0
+2024-05-08,2024,tour-de-hongrie,gc,Lidl - Trek,2.Pro,,0,0,,211.0,,,261.0
+2024-07-13,2024,tour-de-l-ain,gc,Germany,2.1,,0,0,,0.0,,,3.0
+2024-09-18,2024,tour-de-luxembourg,gc,Lidl - Trek,2.Pro,,0,0,,20.0,,,68.0
+2024-08-12,2024,tour-de-pologne,gc,Lidl - Trek,2.UWT,,0,0,,16.0,,,202.0
+2024-04-23,2024,tour-de-romandie,gc,Lidl - Trek,2.UWT,,0,0,,150.0,,,273.0
+2024-06-09,2024,tour-de-suisse,gc,Lidl - Trek,2.UWT,,0,0,,350.0,,,528.0
+2024-07-22,2024,tour-de-wallonie,gc,Lidl - Trek,2.Pro,,0,0,,180.0,,,193.0
+2024-02-17,2024,tour-des-alpes-maritimes,gc,Lidl - Trek Future Racing,2.1,,0,0,,0.0,,,0.0
+2024-01-16,2024,tour-down-under,gc,Lidl - Trek,2.UWT,,0,0,,75.0,,,82.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Germany,2.2,,0,0,,0.0,,,0.0
+2024-07-02,2024,tour-of-austria,gc,Lidl - Trek Future Racing,2.1,,0,0,,3.0,,,20.0
+2024-06-12,2024,tour-of-belgium,gc,Lidl - Trek,2.Pro,,0,0,,253.0,,,273.0
+2024-09-03,2024,tour-of-britain,gc,Lidl - Trek Future Racing,2.Pro,,0,0,,8.0,,,8.0
+2024-08-15,2024,tour-of-denmark,gc,Lidl - Trek Future Racing,2.Pro,25.0,5.0,1,,5.0,,,5.0
+2024-10-15,2024,tour-of-guangxi,gc,Lidl - Trek,2.UWT,,0,0,,82.0,,,89.0
+2024-05-23,2024,tour-of-norway,gc,Lidl - Trek,2.Pro,,0,0,,105.0,,,133.0
+2024-04-15,2024,tour-of-the-alps,gc,Lidl - Trek,2.Pro,,0,0,,208.0,,,231.0
+2024-10-08,2024,tre-valli-varesine,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,Lidl - Trek Future Racing,1.1,,0,0,,0.0,,,0.0
+2024-01-28,2024,trofeo-palma,gc,Lidl - Trek Future Racing,1.1,,,1,,0.0,,,60.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Lidl - Trek Future Racing,1.1,,0,0,,0.0,,,0.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Lidl - Trek Future Racing,1.1,,,1,,0.0,,,38.0
+2024-02-19,2024,uae-tour,gc,Lidl - Trek,2.UWT,,0,0,,117.0,,,144.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Germany,CC,,0,0,,0.0,,,18.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Germany,CC,,0,0,,0.0,,,40.0
+2024-03-18,2024,volta-a-catalunya,gc,Lidl - Trek,2.UWT,,0,0,,48.0,,,74.0
+2024-02-14,2024,volta-ao-algarve,gc,Lidl - Trek,2.Pro,,0,0,,33.0,,,33.0
+2024-08-05,2024,vuelta-a-burgos,gc,Lidl - Trek,2.Pro,,0,0,,45.0,,,48.0
+2024-08-17,2024,vuelta-a-espana,gc,Lidl - Trek,2.UWT,,0,0,,545.0,0.0,0.0,1455.0
+2024-08-17,2024,vuelta-a-espana,kom,Lidl - Trek,2.UWT,,0,0,,545.0,0.0,0.0,1455.0
+2024-08-17,2024,vuelta-a-espana,points,Lidl - Trek,2.UWT,,0,0,,545.0,0.0,0.0,1455.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Lidl - Trek,2.Pro,,0,0,,28.0,,,79.0
+2024-09-29,2024,world-championship,gc,Germany,WC,,0,0,,0.0,,,120.0
+2024-09-22,2024,world-championship-itt,gc,Germany,WC,,0,0,,0.0,,,8.0
+2025-04-20,2025,amstel-gold-race,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,590.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Lidl - Trek,1.1,,0,0,,0.0,,,143.0
+2025-03-21,2025,bredene-koksijde-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,208.0
+2025-08-31,2025,bretagne-classic,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,84.0
+2025-08-03,2025,circuito-de-getxo,gc,Lidl - Trek,1.1,,0,0,,0.0,,,30.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,270.0
+2025-06-22,2025,copenhagen-sprint,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,6.0
+2025-10-06,2025,coppa-bernocchi,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,10.0
+2025-08-17,2025,cyclassics-hamburg,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,16.0
+2025-06-29,2025,danish-championships,gc,Lidl - Trek,NC,,0,0,,0.0,,,225.0
+2025-08-20,2025,deutschland-tour,gc,Lidl - Trek,2.Pro,,0,0,,3.0,,,31.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,140.0
+2025-03-28,2025,e3-harelbeke,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,560.0
+2025-05-01,2025,eschborn-frankfurt,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,123.0
+2025-02-05,2025,etoile-de-besseges,gc,Lidl - Trek,2.1,,0,0,,0.0,,,0.0
+2025-03-01,2025,faun-ardeche-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,75.0
+2025-02-16,2025,figueira-champions-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,138.0
+2025-03-30,2025,gent-wevelgem,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,855.0
+2025-05-09,2025,giro-d-italia,gc,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1650.0
+2025-05-09,2025,giro-d-italia,kom,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1650.0
+2025-05-09,2025,giro-d-italia,points,Lidl - Trek,2.UWT,,0,0,,25.0,0.0,180.0,1650.0
+2025-10-04,2025,giro-dell-emilia,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,38.0
+2025-09-21,2025,gooikse-pijl,gc,Lidl - Trek,1.1,,,1,,0.0,,,25.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Lidl - Trek,1.1,,0,0,,0.0,,,111.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,25.0
+2025-09-14,2025,gp-montreal,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,365.0
+2025-09-12,2025,gp-quebec,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,300.0
+2025-03-04,2025,gp-samyn,gc,Lidl - Trek,1.1,,,1,,0.0,,,3.0
+2025-10-09,2025,gran-piemonte,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,160.0
+2025-04-05,2025,gran-premio-miguel-indurain,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,330.0
+2025-02-02,2025,great-ocean-road-race,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,176.0
+2025-10-11,2025,il-lombardia,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,495.0
+2025-04-07,2025,itzulia-basque-country,gc,Lidl - Trek,2.UWT,,0,0,,204.0,,,220.0
+2025-10-19,2025,japan-cup,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,48.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Lidl - Trek,1.1,,,1,,0.0,,,125.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,73.0
+2025-03-02,2025,la-drome-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,288.0
+2025-04-23,2025,la-fleche-wallonne,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,100.0
+2025-04-27,2025,liege-bastogne-liege,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,1295.0
+2025-09-06,2025,maryland-cycling-classic,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,0.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,Lidl - Trek,1.1,,,1,,0.0,,,25.0
+2025-03-22,2025,milano-sanremo,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,300.0
+2025-10-03,2025,munsterland-giro,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,23.0
+2025-06-29,2025,nc-austria2,gc,Lidl - Trek,NC,,0,0,,0.0,,,40.0
+2025-06-29,2025,nc-belgium,gc,Lidl - Trek,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-czech-republic-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-czech-republic2,gc,Lidl - Trek,NC,,0,0,,0.0,,,100.0
+2025-06-27,2025,nc-denmark-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,65.0
+2025-06-29,2025,nc-eritrea,gc,Lidl - Trek,NC,,0,0,,0.0,,,30.0
+2025-06-27,2025,nc-eritrea-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-france,gc,Lidl - Trek,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-germany,gc,Lidl - Trek,NC,,,1,,0.0,,,51.0
+2025-06-27,2025,nc-germany-itt,gc,Lidl - Trek,NC,,,1,,0.0,,,23.0
+2025-06-29,2025,nc-italy,gc,Lidl - Trek,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-latvia,gc,Lidl - Trek,NC,,0,0,,0.0,,,100.0
+2025-06-25,2025,nc-latvia-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-luxembourg,gc,Lidl - Trek,NC,,0,0,,0.0,,,3.0
+2025-06-26,2025,nc-luxembourg-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,30.0
+2025-06-28,2025,nc-netherlands,gc,Lidl - Trek,NC,,0,0,,0.0,,,0.0
+2025-06-24,2025,nc-netherlands-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2025-06-29,2025,nc-spain,gc,Lidl - Trek,NC,,0,0,,0.0,,,50.0
+2025-06-27,2025,nc-spain-itt,gc,Lidl - Trek,NC,,0,0,,0.0,,,0.0
+2025-05-26,2025,nc-united-states,gc,Lidl - Trek,NC,,0,0,,0.0,,,100.0
+2025-03-19,2025,nokere-koerse,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,0.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Lidl - Trek,1.UWT,,,1,,0.0,,,30.0
+2025-03-09,2025,paris-nice,gc,Lidl - Trek,2.UWT,,0,0,,23.0,,,155.0
+2025-04-13,2025,paris-roubaix,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,570.0
+2025-10-12,2025,paris-tours,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,230.0
+2025-01-30,2025,race-torquay,gc,Lidl - Trek,1.1,,,1,,0.0,,,73.0
+2025-08-20,2025,renewi-tour,gc,Lidl - Trek,2.UWT,,0,0,,116.0,,,116.0
+2025-04-16,2025,ronde-van-limburg,gc,Lidl - Trek,1.1,,,1,,0.0,,,28.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,1015.0
+2025-08-02,2025,san-sebastian,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,424.0
+2025-04-09,2025,scheldeprijs,gc,Lidl - Trek,1.Pro,,,1,,0.0,,,21.0
+2025-03-08,2025,strade-bianche,gc,Lidl - Trek,1.UWT,,0,0,,0.0,,,72.0
+2025-03-10,2025,tirreno-adriatico,gc,Lidl - Trek,2.UWT,,0,0,,60.0,,,235.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Lidl - Trek,2.UWT,,0,0,,10.0,,,98.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,Lidl - Trek,2.1,,0,0,,135.0,,,149.0
+2025-07-05,2025,tour-de-france,gc,Lidl - Trek,2.UWT,,0,0,,15.0,0.0,210.0,1070.0
+2025-07-05,2025,tour-de-france,kom,Lidl - Trek,2.UWT,,0,0,,15.0,0.0,210.0,1070.0
+2025-07-05,2025,tour-de-france,points,Lidl - Trek,2.UWT,,0,0,,15.0,0.0,210.0,1070.0
+2025-05-14,2025,tour-de-hongrie,gc,Lidl - Trek,2.Pro,52.0,0.0,1,,125.0,,,180.0
+2025-09-17,2025,tour-de-luxembourg,gc,Lidl - Trek,2.Pro,,0,0,,218.0,,,238.0
+2025-08-04,2025,tour-de-pologne,gc,Lidl - Trek,2.UWT,64.0,0.0,1,,48.0,,,128.0
+2025-04-29,2025,tour-de-romandie,gc,Lidl - Trek,2.UWT,,0,0,,190.0,,,210.0
+2025-06-15,2025,tour-de-suisse,gc,Lidl - Trek,2.UWT,,0,0,,233.0,,,338.0
+2025-07-26,2025,tour-de-wallonie,gc,Lidl - Trek,2.Pro,,0,0,,150.0,,,170.0
+2025-01-21,2025,tour-down-under,gc,Lidl - Trek,2.UWT,80.0,0.0,1,,203.0,,,223.0
+2025-07-09,2025,tour-of-austria,gc,Lidl - Trek,2.1,,0,0,,43.0,,,46.0
+2025-06-18,2025,tour-of-belgium,gc,Lidl - Trek,2.Pro,28.0,5.0,1,,35.0,,,45.0
+2025-09-02,2025,tour-of-britain,gc,Lidl - Trek,2.Pro,43.0,0.0,1,,55.0,,,60.0
+2025-08-12,2025,tour-of-denmark,gc,Lidl - Trek,2.Pro,,0,0,,470.0,,,573.0
+2025-10-14,2025,tour-of-guangxi,gc,Lidl - Trek,2.UWT,,0,0,,50.0,,,52.0
+2025-10-14,2025,tour-of-holland,gc,Lidl - Trek,2.1,22.0,3.0,1,,101.0,,,114.0
+2025-06-04,2025,tour-of-slovenia,gc,Lidl - Trek,2.Pro,47.0,0.0,1,,158.0,,,173.0
+2025-04-21,2025,tour-of-the-alps,gc,Lidl - Trek,2.Pro,,0,0,,118.0,,,129.0
+2025-10-07,2025,tre-valli-varesine,gc,Lidl - Trek,1.Pro,,0,0,,0.0,,,225.0
+2025-02-17,2025,uae-tour,gc,Lidl - Trek,2.UWT,,0,0,,305.0,,,462.0
+2025-03-24,2025,volta-a-catalunya,gc,Lidl - Trek,2.UWT,,0,0,,46.0,,,99.0
+2025-02-19,2025,volta-ao-algarve,gc,Lidl - Trek,2.Pro,,0,0,,73.0,,,73.0
+2025-08-05,2025,vuelta-a-burgos,gc,Lidl - Trek,2.Pro,,0,0,,90.0,,,125.0
+2025-08-23,2025,vuelta-a-espana,gc,Lidl - Trek,2.UWT,,0,0,,120.0,0.0,180.0,1130.0
+2025-08-23,2025,vuelta-a-espana,kom,Lidl - Trek,2.UWT,,0,0,,120.0,0.0,180.0,1130.0
+2025-08-23,2025,vuelta-a-espana,points,Lidl - Trek,2.UWT,,0,0,,120.0,0.0,180.0,1130.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Lidl - Trek,2.Pro,,0,0,,3.0,,,48.0

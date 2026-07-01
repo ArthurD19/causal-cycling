@@ -1,0 +1,127 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-07-25,2019,adriatica-ionica-race,gc,Italy,2.1,,0,0,,3.0,,,3.0
+2019-02-13,2019,colombia-21,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2019-09-14,2019,coppa-agostoni,gc,Italy,1.1,,0,0,,0.0,,,48.0
+2019-09-15,2019,coppa-bernocchi,gc,Italy,1.1,,0,0,,0.0,,,40.0
+2019-06-23,2019,european-games,gc,Italy,JC,,0,0,,0.0,,,288.0
+2019-04-28,2019,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,8.0
+2019-09-18,2019,giro-di-toscana,gc,Italy,1.1,,,1,,0.0,,,63.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Italy,1.1,,0,0,,0.0,,,3.0
+2019-03-10,2019,gp-industria-artigianato,gc,Italy,1.HC,,0,0,,0.0,,,90.0
+2019-09-21,2019,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,25.0
+2019-07-21,2019,tokyo-2020-test-event,gc,Italy,1.2,,0,0,,0.0,,,73.0
+2019-04-22,2019,tour-of-the-alps,gc,Italy,2.HC,,0,0,,0.0,,,0.0
+2019-02-17,2019,trofeo-laigueglia,gc,Italy,1.HC,,0,0,,0.0,,,198.0
+2019-09-22,2019,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,208.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,60.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,360.0
+2019-09-29,2019,world-championship,gc,Italy,WC,,0,0,,0.0,,,905.0
+2019-09-25,2019,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,210.0
+2020-09-19,2020,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,73.0
+2020-08-18,2020,giro-dell-emilia,gc,Italy,1.Pro,,,1,,0.0,,,5.0
+2020-09-16,2020,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,11.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Italy,1.Pro,,0,0,,0.0,,,190.0
+2020-08-12,2020,gran-piemonte,gc,Italy,1.Pro,,0,0,,0.0,,,8.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Italy,1.Pro,,,1,,0.0,,,13.0
+2020-08-05,2020,milano-torino,gc,Italy,1.Pro,,0,0,,0.0,,,11.0
+2020-02-16,2020,trofeo-laigueglia,gc,Italy,1.Pro,,0,0,,0.0,,,205.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,25.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,346.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.Pro,,0,0,,150.0,,,160.0
+2020-09-27,2020,world-championship,gc,Italy,WC,,0,0,,0.0,,,213.0
+2020-09-25,2020,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,370.0
+2021-06-15,2021,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,28.0
+2021-06-15,2021,adriatica-ionica-race,gc,Zalf Euromobil Fior,2.1,,0,0,,0.0,,,0.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Zalf Euromobil Fior,1.2,,0,0,,0.0,,,0.0
+2021-10-11,2021,coppa-agostoni,gc,Italy,1.1,,0,0,,0.0,,,3.0
+2021-06-03,2021,giro-ciclistico-d-italia,gc,Zalf Euromobil Fior,2.2,43.0,0.0,1,,0.0,,,0.0
+2021-07-04,2021,giro-del-medio-brenta,gc,Zalf Euromobil Fior,1.2,,,1,,0.0,,,28.0
+2021-07-04,2021,giro-del-medio-brenta,gc,Italy,1.2,,0,0,,0.0,,,0.0
+2021-10-13,2021,giro-del-veneto,gc,Italy,1.1,,0,0,,0.0,,,70.0
+2021-10-13,2021,giro-del-veneto,gc,Zalf Euromobil Fior,1.1,,0,0,,0.0,,,3.0
+2021-06-24,2021,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,Zalf Euromobil Fior,2.2,68.0,0.0,1,,0.0,,,7.0
+2021-09-28,2021,giro-di-sicilia,gc,Zalf Euromobil Fior,2.1,,0,0,,0.0,,,0.0
+2021-09-15,2021,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,85.0
+2021-03-28,2021,gp-adria-mobil,gc,Zalf Euromobil Fior,1.2,,,1,,0.0,,,6.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Italy,1.Pro,,0,0,,0.0,,,108.0
+2021-03-07,2021,gp-industria-artigianato,gc,Italy,1.Pro,,,1,,0.0,,,0.0
+2021-07-25,2021,gp-kranj,gc,Zalf Euromobil Fior,1.2,,0,0,,0.0,,,40.0
+2021-04-25,2021,gran-premio-della-liberazione,gc,Zalf Euromobil Fior,1.2U,,,1,,0.0,,,20.0
+2021-09-18,2021,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,43.0
+2021-09-18,2021,memorial-marco-pantani,gc,Zalf Euromobil Fior,1.1,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,Zalf Euromobil Fior,NC,,0,0,,0.0,,,0.0
+2021-07-24,2021,olympic-games,gc,Italy,Olympics,,0,0,,0.0,,,108.0
+2021-07-28,2021,olympic-games-itt,gc,Italy,Olympics,,0,0,,0.0,,,165.0
+2021-03-21,2021,per-sempre-alfredo,gc,Zalf Euromobil Fior,1.1,,,1,,0.0,,,45.0
+2021-03-21,2021,per-sempre-alfredo,gc,Italy,1.1,,0,0,,0.0,,,150.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Italy,2.1,,0,0,,0.0,,,5.0
+2021-06-02,2021,trofeo-alcide-degasperi,gc,Zalf Euromobil Fior,1.2,,0,0,,0.0,,,35.0
+2021-09-19,2021,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,45.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,75.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,400.0
+2021-10-17,2021,veneto-classic,gc,Italy,1.1,,0,0,,0.0,,,35.0
+2021-10-17,2021,veneto-classic,gc,Zalf Euromobil Fior,1.1,,0,0,,0.0,,,3.0
+2021-09-26,2021,world-championship,gc,Italy,WC,,0,0,,0.0,,,163.0
+2021-09-19,2021,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,410.0
+2022-06-04,2022,adriatica-ionica-race,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,146.0,,,165.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,0.0,,,0.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Drone Hopper - Androni Giocattoli,1.1,,,1,,0.0,,,0.0
+2022-07-31,2022,circuito-de-getxo,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,85.0
+2022-02-13,2022,clasica-de-almeria,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,5.0
+2022-10-03,2022,coppa-bernocchi,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,10.0
+2022-08-04,2022,czech-tour,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,6.0,,,6.0
+2022-01-28,2022,deia-trophy,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-05-06,2022,giro-d-italia,gc,Drone Hopper - Androni Giocattoli,2.UWT,,0,0,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,kom,Drone Hopper - Androni Giocattoli,2.UWT,,0,0,,0.0,0.0,0.0,0.0
+2022-05-06,2022,giro-d-italia,points,Drone Hopper - Androni Giocattoli,2.UWT,,0,0,,0.0,0.0,0.0,0.0
+2022-10-12,2022,giro-del-veneto,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,23.0
+2022-06-02,2022,giro-dell-appennino,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,91.0
+2022-10-01,2022,giro-dell-emilia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,0.0
+2022-04-12,2022,giro-di-sicilia,gc,Drone Hopper - Androni Giocattoli,2.1,71.0,0.0,1,,91.0,,,94.0
+2022-09-14,2022,giro-di-toscana,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,30.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-03-27,2022,gp-industria-artigianato,gc,Drone Hopper - Androni Giocattoli,1.Pro,,,1,,0.0,,,108.0
+2022-02-24,2022,gran-camino,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,6.0,,,6.0
+2022-10-06,2022,gran-piemonte,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,3.0
+2022-10-08,2022,il-lombardia,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,0.0,,,0.0
+2022-03-27,2022,la-roue-tourangelle,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-19,2022,milano-sanremo,gc,Drone Hopper - Androni Giocattoli,1.UWT,,0,0,,0.0,,,3.0
+2022-03-16,2022,milano-torino,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,15.0
+2022-02-20,2022,nc-ecuador,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-eritrea,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,75.0
+2022-06-26,2022,nc-italy,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,50.0
+2022-06-22,2022,nc-italy-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-norway,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-norway-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-romania,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,10.0
+2022-06-24,2022,nc-romania-itt,gc,Drone Hopper - Androni Giocattoli,NC,,0,0,,0.0,,,15.0
+2022-03-20,2022,per-sempre-alfredo,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,8.0
+2022-07-25,2022,prueba-villafranca,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,40.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Drone Hopper - Androni Giocattoli,2.1,,,1,,20.0,,,20.0
+2022-04-01,2022,route-adelie-de-vitre,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,31.0,,,31.0
+2022-07-02,2022,sibiu-cycling-tour,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,43.0,,,46.0
+2022-03-05,2022,strade-bianche,gc,Drone Hopper - Androni Giocattoli,1.UWT,,,1,,0.0,,,0.0
+2022-03-07,2022,tirreno-adriatico,gc,Drone Hopper - Androni Giocattoli,2.UWT,,0,0,,50.0,,,50.0
+2022-05-11,2022,tour-de-hongrie,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,0.0,,,0.0
+2022-10-11,2022,tour-de-langkawi,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,65.0,,,5.0
+2022-08-16,2022,tour-du-limousin,gc,Drone Hopper - Androni Giocattoli,2.1,,,1,,0.0,,,5.0
+2022-02-10,2022,tour-of-antalya,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,45.0,,,48.0
+2022-04-27,2022,tour-of-hellas,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,35.0,,,43.0
+2022-06-15,2022,tour-of-slovenia,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,13.0,,,13.0
+2022-04-18,2022,tour-of-the-alps,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,8.0,,,8.0
+2022-04-10,2022,tour-of-turkey,gc,Drone Hopper - Androni Giocattoli,2.Pro,,0,0,,130.0,,,150.0
+2022-10-04,2022,tre-valli-varesine,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,0.0
+2022-01-26,2022,trofeo-calvia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-03-02,2022,trofeo-laigueglia,gc,Drone Hopper - Androni Giocattoli,1.Pro,,0,0,,0.0,,,8.0
+2022-01-30,2022,trofeo-palma,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0
+2022-09-06,2022,turul-romaniei,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,35.0,,,55.0
+2022-10-16,2022,veneto-classic,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,3.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Drone Hopper - Androni Giocattoli,2.1,,0,0,,3.0,,,3.0
+2022-01-16,2022,vuelta-al-tachira,gc,Drone Hopper - Androni Giocattoli,2.2,,0,0,,28.0,,,37.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Drone Hopper - Androni Giocattoli,1.1,,0,0,,0.0,,,0.0

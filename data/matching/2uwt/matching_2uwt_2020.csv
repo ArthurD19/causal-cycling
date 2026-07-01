@@ -1,0 +1,101 @@
+jour,mois,annee,stage,nom_pcs,categorie,fichier_gpx,fichier_pcs,score,statut
+21,1,2020,stage_1,tour-down-under,2.UWT,2020 Santos Tour Down Under Stage 1.gpx,21_January_2020__stage_1__tour-down-under_2020__2.UWT.csv,100,match
+22,1,2020,stage_2,tour-down-under,2.UWT,2020 Santos Tour Down Under Stage 2.gpx,22_January_2020__stage_2__tour-down-under_2020__2.UWT.csv,100,match
+23,1,2020,stage_3,tour-down-under,2.UWT,2020 Santos Tour Down Under Stage 3.gpx,23_January_2020__stage_3__tour-down-under_2020__2.UWT.csv,100,match
+24,1,2020,stage_4,tour-down-under,2.UWT,2020 Santos Tour Down Under Stage 4.gpx,24_January_2020__stage_4__tour-down-under_2020__2.UWT.csv,100,match
+25,1,2020,stage_5,tour-down-under,2.UWT,2020 Santos Tour Down Under Stage 5.gpx,25_January_2020__stage_5__tour-down-under_2020__2.UWT.csv,100,match
+26,1,2020,stage_6,tour-down-under,2.UWT,2020 Santos Tour Down Under Stage 6.gpx,26_January_2020__stage_6__tour-down-under_2020__2.UWT.csv,100,match
+23,2,2020,stage_1,uae-tour,2.UWT,2020 UAE Tour Stage 1.gpx,23_February_2020__stage_1__uae-tour_2020__2.UWT.csv,100,match
+24,2,2020,stage_2,uae-tour,2.UWT,2020 UAE Tour Stage 2.gpx,24_February_2020__stage_2__uae-tour_2020__2.UWT.csv,100,match
+25,2,2020,stage_3,uae-tour,2.UWT,2020 UAE Tour Stage 3.gpx,25_February_2020__stage_3__uae-tour_2020__2.UWT.csv,100,match
+26,2,2020,stage_4,uae-tour,2.UWT,2020 UAE Tour Stage 4.gpx,26_February_2020__stage_4__uae-tour_2020__2.UWT.csv,100,match
+27,2,2020,stage_5,uae-tour,2.UWT,2020 UAE Tour Stage 5.gpx,27_February_2020__stage_5__uae-tour_2020__2.UWT.csv,100,match
+8,3,2020,stage_1,paris-nice,2.UWT,2020 Paris - Nice Stage 1.gpx,08_March_2020__stage_1__paris-nice_2020__2.UWT.csv,100,match
+9,3,2020,stage_2,paris-nice,2.UWT,2020 Paris - Nice Stage 2.gpx,09_March_2020__stage_2__paris-nice_2020__2.UWT.csv,100,match
+10,3,2020,stage_3,paris-nice,2.UWT,2020 Paris - Nice Stage 3.gpx,10_March_2020__stage_3__paris-nice_2020__2.UWT.csv,100,match
+11,3,2020,stage_4,paris-nice,2.UWT,2020 Paris - Nice Stage 4.gpx,11_March_2020__stage_4__paris-nice_2020__2.UWT.csv,100,match
+12,3,2020,stage_5,paris-nice,2.UWT,2020 Paris - Nice Stage 5.gpx,12_March_2020__stage_5__paris-nice_2020__2.UWT.csv,100,match
+13,3,2020,stage_6,paris-nice,2.UWT,2020 Paris - Nice Stage 6.gpx,13_March_2020__stage_6__paris-nice_2020__2.UWT.csv,100,match
+14,3,2020,stage_7,paris-nice,2.UWT,2020 Paris - Nice Stage 7.gpx,14_March_2020__stage_7__paris-nice_2020__2.UWT.csv,100,match
+5,8,2020,stage_1,tour-de-pologne,2.UWT,2020 Tour de Pologne Stage 1.gpx,05_August_2020__stage_1__tour-de-pologne_2020__2.UWT.csv,100,match
+6,8,2020,stage_2,tour-de-pologne,2.UWT,2020 Tour de Pologne Stage 2.gpx,06_August_2020__stage_2__tour-de-pologne_2020__2.UWT.csv,100,match
+7,8,2020,stage_3,tour-de-pologne,2.UWT,2020 Tour de Pologne Stage 3.gpx,07_August_2020__stage_3__tour-de-pologne_2020__2.UWT.csv,100,match
+8,8,2020,stage_4,tour-de-pologne,2.UWT,2020 Tour de Pologne Stage 4.gpx,08_August_2020__stage_4__tour-de-pologne_2020__2.UWT.csv,100,match
+9,8,2020,stage_5,tour-de-pologne,2.UWT,2020 Tour de Pologne Stage 5.gpx,09_August_2020__stage_5__tour-de-pologne_2020__2.UWT.csv,100,match
+12,8,2020,stage_1,tour-auvergne-rhone-alpes,2.UWT,2020 Criterium du Dauphine Stage 1.gpx,12_August_2020__stage_1__tour-auvergne-rhone-alpes_2020__2.UWT.csv,100,match
+13,8,2020,stage_2,tour-auvergne-rhone-alpes,2.UWT,2020 Criterium du Dauphine Stage 2.gpx,13_August_2020__stage_2__tour-auvergne-rhone-alpes_2020__2.UWT.csv,100,match
+14,8,2020,stage_3,tour-auvergne-rhone-alpes,2.UWT,2020 Criterium du Dauphine Stage 3.gpx,14_August_2020__stage_3__tour-auvergne-rhone-alpes_2020__2.UWT.csv,100,match
+15,8,2020,stage_4,tour-auvergne-rhone-alpes,2.UWT,2020 Criterium du Dauphine Stage 4.gpx,15_August_2020__stage_4__tour-auvergne-rhone-alpes_2020__2.UWT.csv,100,match
+16,8,2020,stage_5,tour-auvergne-rhone-alpes,2.UWT,2020 Criterium du Dauphine Stage 5.gpx,16_August_2020__stage_5__tour-auvergne-rhone-alpes_2020__2.UWT.csv,100,match
+29,8,2020,stage_1,tour-de-france,2.UWT,2020 Tour de France Stage 1.gpx,29_August_2020__stage_1__tour-de-france_2020__2.UWT.csv,100,match
+30,8,2020,stage_2,tour-de-france,2.UWT,2020 Tour de France Stage 2.gpx,30_August_2020__stage_2__tour-de-france_2020__2.UWT.csv,100,match
+31,8,2020,stage_3,tour-de-france,2.UWT,2020 Tour de France Stage 3.gpx,31_August_2020__stage_3__tour-de-france_2020__2.UWT.csv,100,match
+1,9,2020,stage_4,tour-de-france,2.UWT,2020 Tour de France Stage 4.gpx,01_September_2020__stage_4__tour-de-france_2020__2.UWT.csv,100,match
+2,9,2020,stage_5,tour-de-france,2.UWT,2020 Tour de France Stage 5.gpx,02_September_2020__stage_5__tour-de-france_2020__2.UWT.csv,100,match
+3,9,2020,stage_6,tour-de-france,2.UWT,2020 Tour de France Stage 6.gpx,03_September_2020__stage_6__tour-de-france_2020__2.UWT.csv,100,match
+4,9,2020,stage_7,tour-de-france,2.UWT,2020 Tour de France Stage 7.gpx,04_September_2020__stage_7__tour-de-france_2020__2.UWT.csv,100,match
+5,9,2020,stage_8,tour-de-france,2.UWT,2020 Tour de France Stage 8.gpx,05_September_2020__stage_8__tour-de-france_2020__2.UWT.csv,100,match
+6,9,2020,stage_9,tour-de-france,2.UWT,2020 Tour de France Stage 9.gpx,06_September_2020__stage_9__tour-de-france_2020__2.UWT.csv,100,match
+7,9,2020,stage_1,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 1.gpx,07_September_2020__stage_1__tirreno-adriatico_2020__2.UWT.csv,100,match
+8,9,2020,stage_10,tour-de-france,2.UWT,2020 Tour de France Stage 10.gpx,08_September_2020__stage_10__tour-de-france_2020__2.UWT.csv,100,match
+8,9,2020,stage_2,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 2.gpx,08_September_2020__stage_2__tirreno-adriatico_2020__2.UWT.csv,100,match
+9,9,2020,stage_11,tour-de-france,2.UWT,2020 Tour de France Stage 11.gpx,09_September_2020__stage_11__tour-de-france_2020__2.UWT.csv,100,match
+9,9,2020,stage_3,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 3.gpx,09_September_2020__stage_3__tirreno-adriatico_2020__2.UWT.csv,100,match
+10,9,2020,stage_12,tour-de-france,2.UWT,2020 Tour de France Stage 12.gpx,10_September_2020__stage_12__tour-de-france_2020__2.UWT.csv,100,match
+10,9,2020,stage_4,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 4.gpx,10_September_2020__stage_4__tirreno-adriatico_2020__2.UWT.csv,100,match
+11,9,2020,stage_5,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 5.gpx,11_September_2020__stage_5__tirreno-adriatico_2020__2.UWT.csv,100,match
+11,9,2020,stage_13,tour-de-france,2.UWT,2020 Tour de France Stage 13.gpx,11_September_2020__stage_13__tour-de-france_2020__2.UWT.csv,100,match
+12,9,2020,stage_6,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 6.gpx,12_September_2020__stage_6__tirreno-adriatico_2020__2.UWT.csv,100,match
+12,9,2020,stage_14,tour-de-france,2.UWT,2020 Tour de France Stage 14.gpx,12_September_2020__stage_14__tour-de-france_2020__2.UWT.csv,100,match
+13,9,2020,stage_7,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 7.gpx,13_September_2020__stage_7__tirreno-adriatico_2020__2.UWT.csv,100,match
+13,9,2020,stage_15,tour-de-france,2.UWT,2020 Tour de France Stage 15.gpx,13_September_2020__stage_15__tour-de-france_2020__2.UWT.csv,100,match
+14,9,2020,stage_8,tirreno-adriatico,2.UWT,2020 Tirreno Adriatico Stage 8.gpx,14_September_2020__stage_8__tirreno-adriatico_2020__2.UWT.csv,100,match
+15,9,2020,stage_16,tour-de-france,2.UWT,2020 Tour de France Stage 16.gpx,15_September_2020__stage_16__tour-de-france_2020__2.UWT.csv,100,match
+16,9,2020,stage_17,tour-de-france,2.UWT,2020 Tour de France Stage 17.gpx,16_September_2020__stage_17__tour-de-france_2020__2.UWT.csv,100,match
+17,9,2020,stage_18,tour-de-france,2.UWT,2020 Tour de France Stage 18.gpx,17_September_2020__stage_18__tour-de-france_2020__2.UWT.csv,100,match
+18,9,2020,stage_19,tour-de-france,2.UWT,2020 Tour de France Stage 19.gpx,18_September_2020__stage_19__tour-de-france_2020__2.UWT.csv,100,match
+19,9,2020,stage_20,tour-de-france,2.UWT,2020 Tour de France Stage 20.gpx,19_September_2020__stage_20__tour-de-france_2020__2.UWT.csv,100,match
+20,9,2020,stage_21,tour-de-france,2.UWT,2020 Tour de France Stage 21.gpx,20_September_2020__stage_21__tour-de-france_2020__2.UWT.csv,100,match
+29,9,2020,stage_1,renewi-tour,2.UWT,2020 BinckBank Tour Stage 1.gpx,29_September_2020__stage_1__renewi-tour_2020__2.UWT.csv,100,match
+1,10,2020,stage_3,renewi-tour,2.UWT,2020 BinckBank Tour Stage 2.gpx,01_October_2020__stage_3__renewi-tour_2020__2.UWT.csv,100,match
+2,10,2020,stage_4,renewi-tour,2.UWT,2020 BinckBank Tour Stage 3.gpx,02_October_2020__stage_4__renewi-tour_2020__2.UWT.csv,100,match
+3,10,2020,stage_5,renewi-tour,2.UWT,2020 BinckBank Tour Stage 4.gpx,03_October_2020__stage_5__renewi-tour_2020__2.UWT.csv,100,match
+3,10,2020,stage_1,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 1.gpx,03_October_2020__stage_1__giro-d-italia_2020__2.UWT.csv,100,match
+4,10,2020,stage_2,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 2.gpx,04_October_2020__stage_2__giro-d-italia_2020__2.UWT.csv,100,match
+5,10,2020,stage_3,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 3.gpx,05_October_2020__stage_3__giro-d-italia_2020__2.UWT.csv,100,match
+6,10,2020,stage_4,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 4.gpx,06_October_2020__stage_4__giro-d-italia_2020__2.UWT.csv,100,match
+7,10,2020,stage_5,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 5.gpx,07_October_2020__stage_5__giro-d-italia_2020__2.UWT.csv,100,match
+8,10,2020,stage_6,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 6.gpx,08_October_2020__stage_6__giro-d-italia_2020__2.UWT.csv,100,match
+9,10,2020,stage_7,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 7.gpx,09_October_2020__stage_7__giro-d-italia_2020__2.UWT.csv,100,match
+10,10,2020,stage_8,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 8.gpx,10_October_2020__stage_8__giro-d-italia_2020__2.UWT.csv,100,match
+11,10,2020,stage_9,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 9.gpx,11_October_2020__stage_9__giro-d-italia_2020__2.UWT.csv,100,match
+13,10,2020,stage_10,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 10.gpx,13_October_2020__stage_10__giro-d-italia_2020__2.UWT.csv,100,match
+14,10,2020,stage_11,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 11.gpx,14_October_2020__stage_11__giro-d-italia_2020__2.UWT.csv,100,match
+15,10,2020,stage_12,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 12.gpx,15_October_2020__stage_12__giro-d-italia_2020__2.UWT.csv,100,match
+16,10,2020,stage_13,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 13.gpx,16_October_2020__stage_13__giro-d-italia_2020__2.UWT.csv,100,match
+17,10,2020,stage_14,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 14.gpx,17_October_2020__stage_14__giro-d-italia_2020__2.UWT.csv,100,match
+18,10,2020,stage_15,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 15.gpx,18_October_2020__stage_15__giro-d-italia_2020__2.UWT.csv,100,match
+20,10,2020,stage_16,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 16.gpx,20_October_2020__stage_16__giro-d-italia_2020__2.UWT.csv,100,match
+20,10,2020,stage_1,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 1.gpx,20_October_2020__stage_1__vuelta-a-espana_2020__2.UWT.csv,85,match
+21,10,2020,stage_17,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 17.gpx,21_October_2020__stage_17__giro-d-italia_2020__2.UWT.csv,100,match
+21,10,2020,stage_2,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 2.gpx,21_October_2020__stage_2__vuelta-a-espana_2020__2.UWT.csv,85,match
+22,10,2020,stage_18,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 18.gpx,22_October_2020__stage_18__giro-d-italia_2020__2.UWT.csv,100,match
+22,10,2020,stage_3,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 3.gpx,22_October_2020__stage_3__vuelta-a-espana_2020__2.UWT.csv,85,match
+23,10,2020,stage_19,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 19.gpx,23_October_2020__stage_19__giro-d-italia_2020__2.UWT.csv,100,match
+23,10,2020,stage_4,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 4.gpx,23_October_2020__stage_4__vuelta-a-espana_2020__2.UWT.csv,85,match
+24,10,2020,stage_20,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 20.gpx,24_October_2020__stage_20__giro-d-italia_2020__2.UWT.csv,100,match
+24,10,2020,stage_5,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 5.gpx,24_October_2020__stage_5__vuelta-a-espana_2020__2.UWT.csv,85,match
+25,10,2020,stage_21,giro-d-italia,2.UWT,2020 Giro d'Italia Stage 21.gpx,25_October_2020__stage_21__giro-d-italia_2020__2.UWT.csv,100,match
+25,10,2020,stage_6,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 6.gpx,25_October_2020__stage_6__vuelta-a-espana_2020__2.UWT.csv,85,match
+27,10,2020,stage_7,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 7.gpx,27_October_2020__stage_7__vuelta-a-espana_2020__2.UWT.csv,85,match
+28,10,2020,stage_8,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 8.gpx,28_October_2020__stage_8__vuelta-a-espana_2020__2.UWT.csv,85,match
+29,10,2020,stage_9,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 9.gpx,29_October_2020__stage_9__vuelta-a-espana_2020__2.UWT.csv,85,match
+30,10,2020,stage_10,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 10.gpx,30_October_2020__stage_10__vuelta-a-espana_2020__2.UWT.csv,85,match
+31,10,2020,stage_11,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 11.gpx,31_October_2020__stage_11__vuelta-a-espana_2020__2.UWT.csv,85,match
+1,11,2020,stage_12,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 12.gpx,01_November_2020__stage_12__vuelta-a-espana_2020__2.UWT.csv,85,match
+3,11,2020,stage_13,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 13.gpx,03_November_2020__stage_13__vuelta-a-espana_2020__2.UWT.csv,85,match
+4,11,2020,stage_14,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 14.gpx,04_November_2020__stage_14__vuelta-a-espana_2020__2.UWT.csv,85,match
+5,11,2020,stage_15,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 15.gpx,05_November_2020__stage_15__vuelta-a-espana_2020__2.UWT.csv,85,match
+6,11,2020,stage_16,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 16.gpx,06_November_2020__stage_16__vuelta-a-espana_2020__2.UWT.csv,85,match
+7,11,2020,stage_17,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 17.gpx,07_November_2020__stage_17__vuelta-a-espana_2020__2.UWT.csv,85,match
+8,11,2020,stage_18,vuelta-a-espana,2.UWT,2020 Vuelta a Espana Stage 18.gpx,08_November_2020__stage_18__vuelta-a-espana_2020__2.UWT.csv,85,match

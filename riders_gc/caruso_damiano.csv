@@ -1,0 +1,742 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-05,2017,3daagse-van-west-vlaanderen,gc,BMC Racing Team,1.1,,0,0,,0.0,,,88.0
+2017-02-23,2017,abu-dhabi-tour,gc,BMC Racing Team,2.UWT,,0,0,,21.0,,,21.0
+2017-04-16,2017,amstel-gold-race,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,70.0
+2017-08-10,2017,arctic-race-of-norway,gc,BMC Racing Team,2.HC,,0,0,,206.0,,,256.0
+2017-05-20,2017,berner-rundfahrt-tour-de-berne,gc,BMC Racing Team,1.2,,0,0,,0.0,,,0.0
+2017-04-12,2017,brabantse-pijl,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,56.0
+2017-08-27,2017,bretagne-classic,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,88.0
+2017-10-01,2017,circuit-franco-belge,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,96.0
+2017-08-10,2017,colorado-classic,gc,BMC Racing Team,2.HC,,0,0,,268.0,,,278.0
+2017-08-20,2017,cyclassics-hamburg,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,68.0
+2017-01-31,2017,dubai-tour,gc,BMC Racing Team,2.HC,,0,0,,138.0,,,138.0
+2017-03-22,2017,dwars-door-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,57.0
+2017-03-24,2017,e3-harelbeke,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,444.0
+2017-05-01,2017,eschborn-frankfurt,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,258.0
+2017-08-05,2017,european-championships-mu,gc,BMC Racing Team,CC,,0,0,,0.0,,,5.0
+2017-03-26,2017,gent-wevelgem,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,540.0
+2017-05-05,2017,giro-d-italia,gc,BMC Racing Team,2.UWT,,0,0,,40.0,0.0,0.0,264.0
+2017-05-05,2017,giro-d-italia,kom,BMC Racing Team,2.UWT,,0,0,,40.0,0.0,0.0,264.0
+2017-05-05,2017,giro-d-italia,points,BMC Racing Team,2.UWT,,0,0,,40.0,0.0,0.0,264.0
+2017-09-30,2017,giro-dell-emilia,gc,BMC Racing Team,1.HC,,,1,,0.0,,,135.0
+2017-07-19,2017,gp-cerami,gc,BMC Racing Team,1.1,,0,0,,0.0,,,141.0
+2017-09-13,2017,gp-de-wallonie,gc,BMC Racing Team,1.1,,0,0,,0.0,,,69.0
+2017-06-08,2017,gp-du-canton-d-argovie,gc,BMC Racing Team,1.HC,,,1,,0.0,,,5.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,170.0
+2017-09-10,2017,gp-montreal,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,180.0
+2017-09-08,2017,gp-quebec,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,400.0
+2017-01-29,2017,great-ocean-road-race,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,22.0
+2017-10-07,2017,il-lombardia,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,110.0
+2017-04-03,2017,itzulia-basque-country,gc,BMC Racing Team,2.UWT,73.0,0.0,1,,8.0,,,8.0
+2017-10-22,2017,japan-cup,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,46.0
+2017-09-15,2017,kampioenschap-van-vlaanderen1,gc,BMC Racing Team,1.1,,0,0,,0.0,,,0.0
+2017-02-26,2017,kuurne-brussel-kuurne,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,83.0
+2017-04-19,2017,la-fleche-wallonne,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,276.0
+2017-06-15,2017,la-route-d-occitanie,gc,BMC Racing Team,2.1,,0,0,,128.0,,,133.0
+2017-04-23,2017,liege-bastogne-liege,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,105.0
+2017-03-18,2017,milano-sanremo,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,30.0
+2017-01-08,2017,nc-australia,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2017-01-05,2017,nc-australia-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,40.0
+2017-06-25,2017,nc-belgium,gc,BMC Racing Team,NC,,0,0,,0.0,,,25.0
+2017-06-22,2017,nc-belgium-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,20.0
+2017-06-25,2017,nc-ireland,gc,BMC Racing Team,NC,,0,0,,0.0,,,30.0
+2017-06-22,2017,nc-ireland-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,nc-italy,gc,BMC Racing Team,NC,,,1,,0.0,,,30.0
+2017-06-23,2017,nc-italy-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,21.0
+2017-06-21,2017,nc-luxembourg-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,30.0
+2017-06-21,2017,nc-netherlands-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-spain,gc,BMC Racing Team,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-switserland,gc,BMC Racing Team,NC,,0,0,,0.0,,,165.0
+2017-06-22,2017,nc-switzerland-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2017-06-25,2017,nc-united-states,gc,BMC Racing Team,NC,,0,0,,0.0,,,23.0
+2017-06-24,2017,nc-usa-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,55.0
+2017-03-15,2017,nokere-koerse,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,16.0
+2017-02-25,2017,omloop-het-nieuwsblad,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,322.0
+2017-03-05,2017,paris-nice,gc,BMC Racing Team,2.UWT,,0,0,,113.0,,,183.0
+2017-04-09,2017,paris-roubaix,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,523.0
+2017-05-28,2017,paris-roubaix-u23,gc,BMC Racing Team,1.2U,,0,0,,0.0,,,10.0
+2017-10-08,2017,paris-tours,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,53.0
+2017-10-01,2017,piccolo-giro-di-lombardia,gc,BMC Racing Team,1.2U,,0,0,,0.0,,,0.0
+2017-08-07,2017,renewi-tour,gc,BMC Racing Team,2.UWT,,0,0,,252.0,,,310.0
+2017-07-30,2017,ride-london-classic,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,149.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,420.0
+2017-07-29,2017,san-sebastian,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,170.0
+2017-03-04,2017,strade-bianche,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,287.0
+2017-10-14,2017,tacx-pro-classic,gc,BMC Racing Team,1.1,,0,0,,0.0,,,25.0
+2017-03-09,2017,tirreno-adriatico,gc,BMC Racing Team,2.UWT,12.0,60.0,1,,490.0,,,550.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,BMC Racing Team,2.UWT,,0,0,,420.0,,,505.0
+2017-02-21,2017,tour-cycliste-international-la-provence,gc,BMC Racing Team,2.1,9.0,25.0,1,,153.0,,,163.0
+2017-07-01,2017,tour-de-france,gc,BMC Racing Team,2.UWT,11.0,150.0,1,,210.0,0.0,0.0,370.0
+2017-07-01,2017,tour-de-france,kom,BMC Racing Team,2.UWT,30.0,0.0,1,,210.0,0.0,0.0,370.0
+2017-07-01,2017,tour-de-france,points,BMC Racing Team,2.UWT,98.0,0.0,1,,210.0,0.0,0.0,370.0
+2017-05-31,2017,tour-de-luxembourg,gc,BMC Racing Team,2.HC,,0,0,,208.0,,,303.0
+2017-07-29,2017,tour-de-pologne,gc,BMC Racing Team,2.UWT,,0,0,,444.0,,,494.0
+2017-04-25,2017,tour-de-romandie,gc,BMC Racing Team,2.UWT,,0,0,,675.0,,,795.0
+2017-06-10,2017,tour-de-suisse,gc,BMC Racing Team,2.UWT,2.0,400.0,1,,445.0,,,650.0
+2017-07-22,2017,tour-de-wallonie,gc,BMC Racing Team,2.HC,,0,0,,240.0,,,305.0
+2017-04-28,2017,tour-de-yorkshire,gc,BMC Racing Team,2.1,,0,0,,85.0,,,85.0
+2017-02-18,2017,tour-des-alpes-maritimes,gc,BMC Racing Team,2.1,4.0,60.0,1,,113.0,,,113.0
+2017-01-17,2017,tour-down-under,gc,BMC Racing Team,2.UWT,41.0,10.0,1,,685.0,,,805.0
+2017-09-09,2017,tour-du-jura,gc,BMC Racing Team,1.2,,0,0,,0.0,,,15.0
+2017-08-22,2017,tour-du-poitou-charentes-et-de-la-vienne,gc,BMC Racing Team,2.1,,0,0,,76.0,,,82.0
+2017-09-03,2017,tour-of-britain,gc,BMC Racing Team,2.HC,,0,0,,175.0,,,175.0
+2017-05-14,2017,tour-of-california,gc,BMC Racing Team,2.UWT,,0,0,,216.0,,,231.0
+2017-10-19,2017,tour-of-guangxi,gc,BMC Racing Team,2.UWT,,0,0,,416.0,,,422.0
+2017-02-14,2017,tour-of-oman,gc,BMC Racing Team,2.HC,,0,0,,211.0,,,261.0
+2017-04-17,2017,tour-of-the-alps,gc,BMC Racing Team,2.HC,,,1,,43.0,,,78.0
+2017-07-31,2017,tour-of-utah,gc,BMC Racing Team,2.HC,,0,0,,108.0,,,138.0
+2017-03-20,2017,volta-a-catalunya,gc,BMC Racing Team,2.UWT,,0,0,,188.0,,,188.0
+2017-04-01,2017,volta-nxt-classic,gc,BMC Racing Team,1.1,,0,0,,0.0,,,28.0
+2017-08-20,2017,vuelta-a-espana,gc,BMC Racing Team,2.UWT,109.0,0.0,1,,208.0,0.0,0.0,212.0
+2017-08-20,2017,vuelta-a-espana,kom,BMC Racing Team,2.UWT,,,1,,208.0,0.0,0.0,212.0
+2017-08-20,2017,vuelta-a-espana,points,BMC Racing Team,2.UWT,,,1,,208.0,0.0,0.0,212.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,BMC Racing Team,2.1,,0,0,,158.0,,,158.0
+2018-02-21,2018,abu-dhabi-tour,gc,BMC Racing Team,2.UWT,42.0,5.0,1,,89.0,,,135.0
+2018-06-21,2018,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,3.0
+2018-04-15,2018,amstel-gold-race,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,70.0
+2018-08-16,2018,arctic-race-of-norway,gc,BMC Racing Team,2.HC,35.0,3.0,1,,221.0,,,221.0
+2018-04-11,2018,brabantse-pijl,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,60.0
+2018-03-16,2018,bredene-koksijde-classic,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,13.0
+2018-08-26,2018,bretagne-classic,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,20.0
+2018-09-22,2018,circuit-franco-belge,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,155.0
+2018-02-06,2018,colombia-21,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2018-09-15,2018,coppa-agostoni,gc,Italy,1.1,,,1,,0.0,,,8.0
+2018-09-16,2018,coppa-bernocchi,gc,Italy,1.1,,,1,,0.0,,,5.0
+2018-08-19,2018,cyclassics-hamburg,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,76.0
+2018-08-23,2018,deutschland-tour,gc,BMC Racing Team,2.1,5.0,50.0,1,,53.0,,,56.0
+2018-02-06,2018,dubai-tour,gc,BMC Racing Team,2.HC,,0,0,,280.0,,,280.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,120.0
+2018-03-23,2018,e3-harelbeke,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,416.0
+2018-03-25,2018,gent-wevelgem,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,40.0
+2018-05-04,2018,giro-d-italia,gc,BMC Racing Team,2.UWT,,0,0,,72.0,0.0,0.0,236.0
+2018-05-04,2018,giro-d-italia,kom,BMC Racing Team,2.UWT,,0,0,,72.0,0.0,0.0,236.0
+2018-05-04,2018,giro-d-italia,points,BMC Racing Team,2.UWT,,0,0,,72.0,0.0,0.0,236.0
+2018-04-22,2018,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2018-10-06,2018,giro-dell-emilia,gc,BMC Racing Team,1.HC,,,1,,0.0,,,330.0
+2018-10-06,2018,giro-dell-emilia,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-09-19,2018,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-07-26,2018,gp-cerami,gc,BMC Racing Team,1.1,,0,0,,0.0,,,55.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Italy,1.1,,0,0,,0.0,,,10.0
+2018-09-23,2018,gp-d-isbergues,gc,BMC Racing Team,1.1,,0,0,,0.0,,,15.0
+2018-09-15,2018,gp-impanis-van-petegem,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,21.0
+2018-03-04,2018,gp-industria-artigianato,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2018-09-09,2018,gp-montreal,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,360.0
+2018-09-07,2018,gp-quebec,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,410.0
+2018-10-11,2018,gran-piemonte,gc,BMC Racing Team,1.HC,,,1,,0.0,,,6.0
+2018-01-28,2018,great-ocean-road-race,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,124.0
+2018-08-24,2018,great-war-remembrance-race,gc,BMC Racing Team,1.1,,0,0,,0.0,,,28.0
+2018-10-13,2018,il-lombardia,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,335.0
+2018-04-02,2018,itzulia-basque-country,gc,BMC Racing Team,2.UWT,67.0,0.0,1,,60.0,,,80.0
+2018-10-21,2018,japan-cup,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,120.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,78.0
+2018-04-18,2018,la-fleche-wallonne,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,24.0
+2018-04-22,2018,liege-bastogne-liege,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,50.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,BMC Racing Team,1.1,,0,0,,0.0,,,40.0
+2018-09-22,2018,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,53.0
+2018-06-27,2018,mersin-mediterranean-games,gc,Italy,JR,,0,0,,0.0,,,0.0
+2018-03-17,2018,milano-sanremo,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,278.0
+2018-10-10,2018,milano-torino,gc,BMC Racing Team,1.HC,,,1,,0.0,,,3.0
+2018-01-07,2018,nc-australia,gc,BMC Racing Team,NC,,0,0,,0.0,,,1.0
+2018-01-05,2018,nc-australia-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,85.0
+2018-06-24,2018,nc-belgium,gc,BMC Racing Team,NC,,0,0,,0.0,,,21.0
+2018-06-21,2018,nc-belgium-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-ireland,gc,BMC Racing Team,NC,,0,0,,0.0,,,30.0
+2018-06-30,2018,nc-italy,gc,BMC Racing Team,NC,,,1,,0.0,,,20.0
+2018-10-04,2018,nc-italy-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,15.0
+2018-07-01,2018,nc-switserland,gc,BMC Racing Team,NC,,0,0,,0.0,,,62.0
+2018-06-27,2018,nc-switzerland-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2018-06-24,2018,nc-united-states,gc,BMC Racing Team,NC,,0,0,,0.0,,,23.0
+2018-06-21,2018,nc-usa-itt,gc,BMC Racing Team,NC,,0,0,,0.0,,,70.0
+2018-03-14,2018,nokere-koerse,gc,BMC Racing Team,1.HC,,0,0,,0.0,,,25.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,29.0
+2018-03-04,2018,paris-nice,gc,BMC Racing Team,2.UWT,,0,0,,195.0,,,220.0
+2018-04-08,2018,paris-roubaix,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,300.0
+2018-08-13,2018,renewi-tour,gc,BMC Racing Team,2.UWT,,0,0,,158.0,,,228.0
+2018-07-29,2018,ride-london-classic,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,129.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,260.0
+2018-08-04,2018,san-sebastian,gc,BMC Racing Team,1.UWT,,0,0,,0.0,,,222.0
+2018-03-03,2018,strade-bianche,gc,BMC Racing Team,1.UWT,,,1,,0.0,,,30.0
+2018-03-08,2018,tirreno-adriatico,gc,BMC Racing Team,2.UWT,2.0,400.0,1,,433.0,,,493.0
+2018-04-28,2018,toscana-terra-di-ciclismo,gc,Italy,2.2U,,0,0,,86.0,,,94.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,BMC Racing Team,2.UWT,5.0,225.0,1,,250.0,,,250.0
+2018-07-07,2018,tour-de-france,gc,BMC Racing Team,2.UWT,20.0,50.0,1,,120.0,0.0,0.0,210.0
+2018-07-07,2018,tour-de-france,kom,BMC Racing Team,2.UWT,21.0,0.0,1,,120.0,0.0,0.0,210.0
+2018-07-07,2018,tour-de-france,points,BMC Racing Team,2.UWT,25.0,0.0,1,,120.0,0.0,0.0,210.0
+2018-08-04,2018,tour-de-pologne,gc,BMC Racing Team,2.UWT,,0,0,,202.0,,,242.0
+2018-04-24,2018,tour-de-romandie,gc,BMC Racing Team,2.UWT,,0,0,,491.0,,,526.0
+2018-06-10,2018,tour-de-suisse,gc,BMC Racing Team,2.UWT,,0,0,,540.0,,,620.0
+2018-05-03,2018,tour-de-yorkshire,gc,BMC Racing Team,2.1,,0,0,,160.0,,,170.0
+2018-04-07,2018,tour-des-flandres-espoirs,gc,Italy,1.Ncup,,0,0,,0.0,,,5.0
+2018-06-21,2018,tour-des-pays-de-savoie,gc,BMC Racing Team,2.2,,0,0,,5.0,,,8.0
+2018-01-16,2018,tour-down-under,gc,BMC Racing Team,2.UWT,,0,0,,433.0,,,493.0
+2018-04-14,2018,tour-du-finistere,gc,BMC Racing Team,1.1,,0,0,,0.0,,,36.0
+2018-09-02,2018,tour-of-britain,gc,BMC Racing Team,2.HC,,0,0,,108.0,,,128.0
+2018-05-13,2018,tour-of-california,gc,BMC Racing Team,2.UWT,,0,0,,296.0,,,351.0
+2018-10-16,2018,tour-of-guangxi,gc,BMC Racing Team,2.UWT,,0,0,,30.0,,,30.0
+2018-02-13,2018,tour-of-oman,gc,BMC Racing Team,2.HC,,0,0,,10.0,,,45.0
+2018-04-16,2018,tour-of-the-alps,gc,Italy,2.HC,,0,0,,5.0,,,5.0
+2018-10-09,2018,tour-of-turkey,gc,BMC Racing Team,2.UWT,,0,0,,132.0,,,144.0
+2018-08-06,2018,tour-of-utah,gc,BMC Racing Team,2.HC,,0,0,,118.0,,,163.0
+2018-02-11,2018,trofeo-laigueglia,gc,Italy,1.HC,,0,0,,0.0,,,220.0
+2018-09-23,2018,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,90.0
+2018-08-08,2018,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,0.0
+2018-08-12,2018,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,380.0
+2018-03-19,2018,volta-a-catalunya,gc,BMC Racing Team,2.UWT,,0,0,,32.0,,,32.0
+2018-02-14,2018,volta-ao-algarve,gc,BMC Racing Team,2.HC,,0,0,,130.0,,,135.0
+2018-08-25,2018,vuelta-a-espana,gc,BMC Racing Team,2.UWT,,0,0,,40.0,0.0,0.0,496.0
+2018-08-25,2018,vuelta-a-espana,kom,BMC Racing Team,2.UWT,,0,0,,40.0,0.0,0.0,496.0
+2018-08-25,2018,vuelta-a-espana,points,BMC Racing Team,2.UWT,,0,0,,40.0,0.0,0.0,496.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,BMC Racing Team,2.1,,0,0,,31.0,,,48.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.1,,0,0,,0.0,,,0.0
+2018-09-30,2018,world-championship,gc,Italy,WC,,,1,,0.0,,,330.0
+2018-09-26,2018,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,0.0
+2019-07-25,2019,adriatica-ionica-race,gc,Bahrain Merida,2.1,,0,0,,125.0,,,139.0
+2019-04-21,2019,amstel-gold-race,gc,Bahrain Merida,1.UWT,,,1,,0.0,,,20.0
+2019-04-17,2019,brabantse-pijl,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,0.0
+2019-09-01,2019,bretagne-classic,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,56.0
+2019-10-20,2019,chrono-des-nations,gc,Bahrain Merida,1.1,,0,0,,0.0,,,30.0
+2019-09-14,2019,coppa-agostoni,gc,Bahrain Merida,1.1,,0,0,,0.0,,,20.0
+2019-09-15,2019,coppa-bernocchi,gc,Bahrain Merida,1.1,,0,0,,0.0,,,125.0
+2019-08-25,2019,cyclassics-hamburg,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,80.0
+2019-08-29,2019,deutschland-tour,gc,Bahrain Merida,2.HC,47.0,0.0,1,,155.0,,,190.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,95.0
+2019-03-29,2019,e3-harelbeke,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,74.0
+2019-05-01,2019,eschborn-frankfurt,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,95.0
+2019-03-31,2019,gent-wevelgem,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,100.0
+2019-05-11,2019,giro-d-italia,gc,Bahrain Merida,2.UWT,23.0,32.0,1,,756.0,20.0,0.0,876.0
+2019-05-11,2019,giro-d-italia,kom,Bahrain Merida,2.UWT,3.0,20.0,1,,756.0,20.0,0.0,876.0
+2019-05-11,2019,giro-d-italia,points,Bahrain Merida,2.UWT,19.0,0.0,1,,756.0,20.0,0.0,876.0
+2019-10-05,2019,giro-dell-emilia,gc,Bahrain Merida,1.HC,,,1,,0.0,,,5.0
+2019-09-18,2019,giro-di-toscana,gc,Bahrain Merida,1.1,,0,0,,0.0,,,3.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,260.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Bahrain Merida,1.1,,0,0,,0.0,,,85.0
+2019-06-09,2019,gp-lugano,gc,Bahrain Merida,1.1,,0,0,,0.0,,,123.0
+2019-09-15,2019,gp-montreal,gc,Bahrain Merida,1.UWT,,,1,,0.0,,,355.0
+2019-09-13,2019,gp-quebec,gc,Bahrain Merida,1.UWT,,,1,,0.0,,,20.0
+2019-10-10,2019,gran-piemonte,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,8.0
+2019-10-12,2019,il-lombardia,gc,Bahrain Merida,1.UWT,,,1,,0.0,,,18.0
+2019-04-08,2019,itzulia-basque-country,gc,Bahrain Merida,2.UWT,,0,0,,18.0,,,18.0
+2019-10-20,2019,japan-cup,gc,Bahrain Merida,1.HC,,,1,,0.0,,,30.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,20.0
+2019-04-24,2019,la-fleche-wallonne,gc,Bahrain Merida,1.UWT,,,1,,0.0,,,44.0
+2019-04-28,2019,liege-bastogne-liege,gc,Bahrain Merida,1.UWT,,,1,,0.0,,,238.0
+2019-09-21,2019,memorial-marco-pantani,gc,Bahrain Merida,1.1,,0,0,,0.0,,,50.0
+2019-03-23,2019,milano-sanremo,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,360.0
+2019-10-09,2019,milano-torino,gc,Bahrain Merida,1.HC,,0,0,,0.0,,,5.0
+2019-01-06,2019,nc-australia,gc,Bahrain Merida,NC,,0,0,,0.0,,,0.0
+2019-01-08,2019,nc-australia-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,nc-austria2,gc,Bahrain Merida,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,nc-belgium,gc,Bahrain Merida,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-italy,gc,Bahrain Merida,NC,,,1,,0.0,,,76.0
+2019-06-30,2019,nc-japan,gc,Bahrain Merida,NC,,0,0,,0.0,,,75.0
+2019-06-27,2019,nc-japan-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,nc-slovenia,gc,Bahrain Merida,NC,,0,0,,0.0,,,176.0
+2019-06-07,2019,nc-slovenia-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,50.0
+2019-06-23,2019,nc-taiwan,gc,Bahrain Merida,NC,,0,0,,0.0,,,0.0
+2019-06-22,2019,nc-taiwan-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,25.0
+2019-06-30,2019,nc-ukraine,gc,Bahrain Merida,NC,,0,0,,0.0,,,10.0
+2019-06-27,2019,nc-ukraine-itt,gc,Bahrain Merida,NC,,0,0,,0.0,,,50.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,130.0
+2019-03-10,2019,paris-nice,gc,Bahrain Merida,2.UWT,,0,0,,73.0,,,98.0
+2019-04-14,2019,paris-roubaix,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,70.0
+2019-08-12,2019,renewi-tour,gc,Bahrain Merida,2.UWT,,0,0,,120.0,,,120.0
+2019-08-04,2019,ride-london-classic,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,39.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,70.0
+2019-02-20,2019,ruta-del-sol,gc,Bahrain Merida,2.HC,,0,0,,40.0,,,45.0
+2019-08-03,2019,san-sebastian,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,24.0
+2019-03-09,2019,strade-bianche,gc,Bahrain Merida,1.UWT,,0,0,,0.0,,,20.0
+2019-03-14,2019,tirreno-adriatico,gc,Bahrain Merida,2.UWT,,,1,,65.0,,,65.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Bahrain Merida,2.UWT,,0,0,,205.0,,,265.0
+2019-07-06,2019,tour-de-france,gc,Bahrain Merida,2.UWT,58.0,10.0,1,,55.0,0.0,0.0,365.0
+2019-07-06,2019,tour-de-france,kom,Bahrain Merida,2.UWT,4.0,0.0,1,,55.0,0.0,0.0,365.0
+2019-07-06,2019,tour-de-france,points,Bahrain Merida,2.UWT,49.0,0.0,1,,55.0,0.0,0.0,365.0
+2019-08-03,2019,tour-de-pologne,gc,Bahrain Merida,2.UWT,,0,0,,72.0,,,122.0
+2019-04-30,2019,tour-de-romandie,gc,Bahrain Merida,2.UWT,,0,0,,15.0,,,85.0
+2019-06-15,2019,tour-de-suisse,gc,Bahrain Merida,2.UWT,,0,0,,550.0,,,670.0
+2019-01-15,2019,tour-down-under,gc,Bahrain Merida,2.UWT,,0,0,,305.0,,,305.0
+2019-05-12,2019,tour-of-california,gc,Bahrain Merida,2.UWT,,0,0,,60.0,,,100.0
+2019-10-01,2019,tour-of-croatia,gc,Bahrain Merida,2.1,,0,0,,50.0,,,63.0
+2019-10-17,2019,tour-of-guangxi,gc,Bahrain Merida,2.UWT,,0,0,,24.0,,,24.0
+2019-02-16,2019,tour-of-oman,gc,Bahrain Merida,2.HC,,0,0,,156.0,,,191.0
+2019-06-19,2019,tour-of-slovenia,gc,Bahrain Merida,2.HC,,0,0,,25.0,,,35.0
+2019-04-22,2019,tour-of-the-alps,gc,Bahrain Merida,2.HC,,0,0,,141.0,,,151.0
+2019-10-08,2019,tre-valli-varesine,gc,Bahrain Merida,1.HC,,,1,,0.0,,,40.0
+2019-02-25,2019,uae-tour,gc,Bahrain Merida,2.UWT,37.0,5.0,1,,10.0,,,10.0
+2019-03-25,2019,volta-a-catalunya,gc,Bahrain Merida,2.UWT,19.0,24.0,1,,56.0,,,84.0
+2019-08-25,2019,vuelta-a-espana,gc,Bahrain Merida,2.UWT,,0,0,,160.0,0.0,0.0,232.0
+2019-08-25,2019,vuelta-a-espana,kom,Bahrain Merida,2.UWT,,0,0,,160.0,0.0,0.0,232.0
+2019-08-25,2019,vuelta-a-espana,points,Bahrain Merida,2.UWT,,0,0,,160.0,0.0,0.0,232.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Bahrain Merida,2.1,,0,0,,50.0,,,50.0
+2020-02-04,2020,alula-tour,gc,Bahrain - McLaren,2.1,,0,0,,175.0,,,213.0
+2020-10-07,2020,brabantse-pijl,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,125.0
+2020-08-25,2020,bretagne-classic,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,84.0
+2020-08-02,2020,circuito-de-getxo,gc,Bahrain - McLaren,1.1,,,1,,0.0,,,165.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,0.0
+2020-08-07,2020,czech-tour,gc,Bahrain - McLaren,2.1,,0,0,,20.0,,,20.0
+2020-10-11,2020,gent-wevelgem,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,100.0
+2020-10-03,2020,giro-d-italia,gc,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-10-03,2020,giro-d-italia,kom,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-10-03,2020,giro-d-italia,points,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-09-19,2020,giro-dell-appennino,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,40.0
+2020-09-19,2020,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,73.0
+2020-08-18,2020,giro-dell-emilia,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,5.0
+2020-08-18,2020,giro-dell-emilia,gc,Italy,1.Pro,,0,0,,0.0,,,5.0
+2020-09-16,2020,giro-di-toscana,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,3.0
+2020-09-16,2020,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,11.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,63.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Italy,1.Pro,,0,0,,0.0,,,190.0
+2020-08-12,2020,gran-piemonte,gc,Italy,1.Pro,,0,0,,0.0,,,8.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Italy,1.Pro,,0,0,,0.0,,,13.0
+2020-02-02,2020,great-ocean-road-race,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,132.0
+2020-08-15,2020,il-lombardia,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,20.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,63.0
+2020-09-30,2020,la-fleche-wallonne,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,48.0
+2020-08-01,2020,la-route-d-occitanie,gc,Bahrain - McLaren,2.1,,0,0,,28.0,,,45.0
+2020-10-04,2020,liege-bastogne-liege,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,295.0
+2020-08-30,2020,memorial-marco-pantani,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,0.0
+2020-08-08,2020,milano-sanremo,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,105.0
+2020-08-05,2020,milano-torino,gc,Italy,1.Pro,,0,0,,0.0,,,11.0
+2020-09-22,2020,nc-belgium,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-italy,gc,Bahrain - McLaren,NC,,,1,,0.0,,,60.0
+2020-06-21,2020,nc-slovenia,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,113.0
+2020-06-28,2020,nc-slovenia-itt,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,11.0
+2020-08-23,2020,nc-spain,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,50.0
+2020-08-21,2020,nc-spain-itt,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,50.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,37.0
+2020-03-08,2020,paris-nice,gc,Bahrain - McLaren,2.UWT,,,1,,0.0,,,110.0
+2020-01-30,2020,race-torquay,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,10.0
+2020-09-29,2020,renewi-tour,gc,Bahrain - McLaren,2.UWT,,0,0,,156.0,,,164.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,85.0
+2020-02-19,2020,ruta-del-sol,gc,Bahrain - McLaren,2.Pro,29.0,5.0,1,,285.0,,,340.0
+2020-10-14,2020,scheldeprijs,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,0.0
+2020-08-01,2020,strade-bianche,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,20.0
+2020-09-07,2020,tirreno-adriatico,gc,Bahrain - McLaren,2.UWT,,0,0,,40.0,,,40.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Bahrain - McLaren,2.UWT,29.0,20.0,1,,70.0,,,70.0
+2020-08-29,2020,tour-de-france,gc,Bahrain - McLaren,2.UWT,10.0,175.0,1,,820.0,0.0,0.0,825.0
+2020-08-29,2020,tour-de-france,kom,Bahrain - McLaren,2.UWT,43.0,0.0,1,,820.0,0.0,0.0,825.0
+2020-08-29,2020,tour-de-france,points,Bahrain - McLaren,2.UWT,53.0,0.0,1,,820.0,0.0,0.0,825.0
+2020-09-15,2020,tour-de-luxembourg,gc,Bahrain - McLaren,2.Pro,,0,0,,15.0,,,15.0
+2020-08-05,2020,tour-de-pologne,gc,Bahrain - McLaren,2.UWT,,0,0,,8.0,,,8.0
+2020-08-16,2020,tour-de-wallonie,gc,Bahrain - McLaren,2.Pro,,0,0,,13.0,,,13.0
+2020-01-21,2020,tour-down-under,gc,Bahrain - McLaren,2.UWT,,0,0,,145.0,,,145.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Bahrain - McLaren,2.1,,0,0,,0.0,,,5.0
+2020-02-16,2020,trofeo-laigueglia,gc,Italy,1.Pro,,0,0,,0.0,,,205.0
+2020-08-29,2020,trofeo-matteotti,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,0.0
+2020-02-23,2020,uae-tour,gc,Bahrain - McLaren,2.UWT,,0,0,,27.0,,,27.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,25.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,346.0
+2020-07-28,2020,vuelta-a-burgos,gc,Bahrain - McLaren,2.Pro,31.0,3.0,1,,153.0,,,168.0
+2020-10-20,2020,vuelta-a-espana,gc,Bahrain - McLaren,2.UWT,,0,0,,332.0,0.0,0.0,356.0
+2020-10-20,2020,vuelta-a-espana,kom,Bahrain - McLaren,2.UWT,,0,0,,332.0,0.0,0.0,356.0
+2020-10-20,2020,vuelta-a-espana,points,Bahrain - McLaren,2.UWT,,0,0,,332.0,0.0,0.0,356.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Bahrain - McLaren,2.Pro,,0,0,,165.0,,,185.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.Pro,,0,0,,150.0,,,160.0
+2020-09-27,2020,world-championship,gc,Italy,WC,,,1,,0.0,,,213.0
+2020-09-25,2020,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,370.0
+2021-06-15,2021,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,28.0
+2021-04-18,2021,amstel-gold-race,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,123.0
+2021-04-14,2021,brabantse-pijl,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,73.0
+2021-08-29,2021,bretagne-classic,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,16.0
+2021-08-01,2021,circuito-de-getxo,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,73.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,20.0
+2021-10-11,2021,coppa-agostoni,gc,Italy,1.1,,0,0,,0.0,,,3.0
+2021-08-26,2021,deutschland-tour,gc,Bahrain - Victorious,2.Pro,,0,0,,175.0,,,210.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,25.0
+2021-03-26,2021,e3-harelbeke,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,78.0
+2021-09-19,2021,eschborn-frankfurt,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,60.0
+2021-03-28,2021,gent-wevelgem,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,295.0
+2021-05-08,2021,giro-d-italia,gc,Bahrain - Victorious,2.UWT,2.0,680.0,1,,764.0,20.0,0.0,1044.0
+2021-05-08,2021,giro-d-italia,kom,Bahrain - Victorious,2.UWT,3.0,20.0,1,,764.0,20.0,0.0,1044.0
+2021-05-08,2021,giro-d-italia,points,Bahrain - Victorious,2.UWT,14.0,0.0,1,,764.0,20.0,0.0,1044.0
+2021-07-04,2021,giro-del-medio-brenta,gc,Italy,1.2,,0,0,,0.0,,,0.0
+2021-10-13,2021,giro-del-veneto,gc,Italy,1.1,,0,0,,0.0,,,70.0
+2021-06-24,2021,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,15.0
+2021-09-15,2021,giro-di-toscana,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,10.0
+2021-09-15,2021,giro-di-toscana,gc,Italy,1.1,,0,0,,0.0,,,85.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,163.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Italy,1.Pro,,0,0,,0.0,,,108.0
+2021-03-07,2021,gp-industria-artigianato,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,150.0
+2021-03-07,2021,gp-industria-artigianato,gc,Italy,1.Pro,,0,0,,0.0,,,0.0
+2021-10-07,2021,gran-piemonte,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,5.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,125.0
+2021-10-09,2021,il-lombardia,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,10.0
+2021-04-05,2021,itzulia-basque-country,gc,Bahrain - Victorious,2.UWT,,0,0,,256.0,,,276.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,81.0
+2021-04-21,2021,la-fleche-wallonne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,54.0
+2021-04-25,2021,liege-bastogne-liege,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,125.0
+2021-09-18,2021,memorial-marco-pantani,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,131.0
+2021-09-18,2021,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,43.0
+2021-03-20,2021,milano-sanremo,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,200.0
+2021-06-20,2021,nc-austria2,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,75.0
+2021-06-20,2021,nc-belgium,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-colombia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-colombia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,3.0
+2021-10-14,2021,nc-great-britain-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-italy,gc,Bahrain - Victorious,NC,,,1,,0.0,,,100.0
+2021-06-20,2021,nc-netherlands,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-slovenia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,153.0
+2021-06-17,2021,nc-slovenia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-spain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,30.0
+2021-06-18,2021,nc-spain-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,10.0
+2021-06-16,2021,nc-switzerland-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,10.0
+2021-10-17,2021,ncgreat-britain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,75.0
+2021-07-24,2021,olympic-games,gc,Italy,Olympics,,,1,,0.0,,,108.0
+2021-07-28,2021,olympic-games-itt,gc,Italy,Olympics,,0,0,,0.0,,,165.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,192.0
+2021-03-07,2021,paris-nice,gc,Bahrain - Victorious,2.UWT,,0,0,,265.0,,,265.0
+2021-10-03,2021,paris-roubaix,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,620.0
+2021-03-21,2021,per-sempre-alfredo,gc,Italy,1.1,,0,0,,0.0,,,150.0
+2021-08-30,2021,renewi-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,744.0,,,924.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,55.0
+2021-07-31,2021,san-sebastian,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,372.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Bahrain - Victorious,2.1,,,1,,20.0,,,25.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Italy,2.1,,0,0,,0.0,,,5.0
+2021-03-06,2021,strade-bianche,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,57.0
+2021-03-10,2021,tirreno-adriatico,gc,Bahrain - Victorious,2.UWT,37.0,10.0,1,,335.0,,,335.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Bahrain - Victorious,2.UWT,,0,0,,260.0,,,515.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Bahrain - Victorious,2.Pro,,0,0,,170.0,,,190.0
+2021-06-26,2021,tour-de-france,gc,Bahrain - Victorious,2.UWT,,0,0,,400.0,50.0,25.0,885.0
+2021-06-26,2021,tour-de-france,kom,Bahrain - Victorious,2.UWT,,0,0,,400.0,50.0,25.0,885.0
+2021-06-26,2021,tour-de-france,points,Bahrain - Victorious,2.UWT,,0,0,,400.0,50.0,25.0,885.0
+2021-05-12,2021,tour-de-hongrie,gc,Bahrain - Victorious,2.1,,0,0,,20.0,,,54.0
+2021-08-09,2021,tour-de-pologne,gc,Bahrain - Victorious,2.UWT,,0,0,,420.0,,,526.0
+2021-04-27,2021,tour-de-romandie,gc,Bahrain - Victorious,2.UWT,9.0,100.0,1,,130.0,,,215.0
+2021-06-06,2021,tour-de-suisse,gc,Bahrain - Victorious,2.UWT,,0,0,,73.0,,,163.0
+2021-09-28,2021,tour-of-croatia,gc,Bahrain - Victorious,2.1,,0,0,,130.0,,,163.0
+2021-06-09,2021,tour-of-slovenia,gc,Bahrain - Victorious,2.Pro,,0,0,,65.0,,,130.0
+2021-04-19,2021,tour-of-the-alps,gc,Bahrain - Victorious,2.Pro,,0,0,,155.0,,,175.0
+2021-03-03,2021,trofeo-laigueglia,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,93.0
+2021-09-19,2021,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,45.0
+2021-02-21,2021,uae-tour,gc,Bahrain - Victorious,2.UWT,7.0,95.0,1,,132.0,,,138.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,75.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,400.0
+2021-10-17,2021,veneto-classic,gc,Italy,1.1,,0,0,,0.0,,,35.0
+2021-03-22,2021,volta-a-catalunya,gc,Bahrain - Victorious,2.UWT,,0,0,,40.0,,,60.0
+2021-08-03,2021,vuelta-a-burgos,gc,Bahrain - Victorious,2.Pro,13.0,20.0,1,,395.0,,,400.0
+2021-08-14,2021,vuelta-a-espana,gc,Bahrain - Victorious,2.UWT,17.0,52.0,1,,1047.0,0.0,0.0,1207.0
+2021-08-14,2021,vuelta-a-espana,kom,Bahrain - Victorious,2.UWT,4.0,0.0,1,,1047.0,0.0,0.0,1207.0
+2021-08-14,2021,vuelta-a-espana,points,Bahrain - Victorious,2.UWT,31.0,0.0,1,,1047.0,0.0,0.0,1207.0
+2021-09-26,2021,world-championship,gc,Italy,WC,,0,0,,0.0,,,163.0
+2021-09-19,2021,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,410.0
+2022-06-04,2022,adriatica-ionica-race,gc,Italy,2.1,,0,0,,0.0,,,42.0
+2022-02-01,2022,alula-tour,gc,Bahrain - Victorious,2.1,,0,0,,93.0,,,107.0
+2022-04-10,2022,amstel-gold-race,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,205.0
+2022-04-13,2022,brabantse-pijl,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,53.0
+2022-08-28,2022,bretagne-classic,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,34.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,55.0
+2022-08-21,2022,cyclassics-hamburg,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,138.0
+2022-06-26,2022,danish-championships,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-08-24,2022,deutschland-tour,gc,Bahrain - Victorious,2.Pro,,0,0,,170.0,,,210.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,79.0
+2022-03-25,2022,e3-harelbeke,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,240.0
+2022-05-01,2022,eschborn-frankfurt,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,191.0
+2022-03-27,2022,gent-wevelgem,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,130.0
+2022-05-06,2022,giro-d-italia,gc,Bahrain - Victorious,2.UWT,,0,0,,1095.0,0.0,0.0,1351.0
+2022-05-06,2022,giro-d-italia,kom,Bahrain - Victorious,2.UWT,,0,0,,1095.0,0.0,0.0,1351.0
+2022-05-06,2022,giro-d-italia,points,Bahrain - Victorious,2.UWT,,0,0,,1095.0,0.0,0.0,1351.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Italy,2.2,,0,0,,25.0,,,25.0
+2022-04-12,2022,giro-di-sicilia,gc,Italy,2.1,1.0,125.0,1,,171.0,,,213.0
+2022-06-10,2022,gp-du-canton-d-argovie,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,11.0
+2022-03-27,2022,gp-industria-artigianato,gc,Italy,1.Pro,,0,0,,0.0,,,245.0
+2022-09-11,2022,gp-montreal,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,140.0
+2022-09-09,2022,gp-quebec,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,95.0
+2022-10-06,2022,gran-piemonte,gc,Bahrain - Victorious,1.Pro,,,1,,0.0,,,265.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,55.0
+2022-10-08,2022,il-lombardia,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,345.0
+2022-04-04,2022,itzulia-basque-country,gc,Bahrain - Victorious,2.UWT,,0,0,,204.0,,,254.0
+2022-10-16,2022,japan-cup,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,138.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,20.0
+2022-04-20,2022,la-fleche-wallonne,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,432.0
+2022-04-24,2022,liege-bastogne-liege,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,285.0
+2022-06-30,2022,mediterranean-games-itt,gc,Italy,JR,,0,0,,0.0,,,0.0
+2022-07-02,2022,mersin-mediterranean-games,gc,Italy,JR,,0,0,,0.0,,,0.0
+2022-03-19,2022,milano-sanremo,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,635.0
+2022-03-26,2022,national-championships-bahrain-road-race,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,50.0
+2022-06-26,2022,nc-austria2,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-belgium,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-denmark-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-germany-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-japan,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,100.0
+2022-06-24,2022,nc-japan-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-poland,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-poland-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,45.0
+2022-06-26,2022,nc-slovenia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,115.0
+2022-06-23,2022,nc-slovenia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,95.0
+2022-06-26,2022,nc-switserland,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,ncgreat-britain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,302.0
+2022-03-06,2022,paris-nice,gc,Bahrain - Victorious,2.UWT,,0,0,,230.0,,,230.0
+2022-04-17,2022,paris-roubaix,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,225.0
+2022-03-20,2022,per-sempre-alfredo,gc,Italy,1.1,,0,0,,0.0,,,94.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,425.0
+2022-02-16,2022,ruta-del-sol,gc,Bahrain - Victorious,2.Pro,13.0,20.0,1,,296.0,,,316.0
+2022-07-30,2022,san-sebastian,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,18.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Italy,2.1,,0,0,,30.0,,,30.0
+2022-03-05,2022,strade-bianche,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,135.0
+2022-03-07,2022,tirreno-adriatico,gc,Bahrain - Victorious,2.UWT,7.0,150.0,1,,575.0,,,645.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Bahrain - Victorious,2.UWT,4.0,275.0,1,,520.0,,,520.0
+2022-07-01,2022,tour-de-france,gc,Bahrain - Victorious,2.UWT,,,1,,180.0,0.0,0.0,260.0
+2022-07-01,2022,tour-de-france,kom,Bahrain - Victorious,2.UWT,,,1,,180.0,0.0,0.0,260.0
+2022-07-01,2022,tour-de-france,points,Bahrain - Victorious,2.UWT,,,1,,180.0,0.0,0.0,260.0
+2022-05-11,2022,tour-de-hongrie,gc,Bahrain - Victorious,2.1,,0,0,,63.0,,,63.0
+2022-07-30,2022,tour-de-pologne,gc,Bahrain - Victorious,2.UWT,,0,0,,280.0,,,394.0
+2022-04-26,2022,tour-de-romandie,gc,Bahrain - Victorious,2.UWT,6.0,175.0,1,,615.0,,,685.0
+2022-06-12,2022,tour-de-suisse,gc,Bahrain - Victorious,2.UWT,,0,0,,0.0,,,60.0
+2022-09-27,2022,tour-of-croatia,gc,Bahrain - Victorious,2.1,21.0,3.0,1,,136.0,,,183.0
+2022-06-15,2022,tour-of-slovenia,gc,Bahrain - Victorious,2.Pro,,0,0,,145.0,,,165.0
+2022-04-18,2022,tour-of-the-alps,gc,Bahrain - Victorious,2.Pro,,0,0,,205.0,,,235.0
+2022-03-02,2022,trofeo-laigueglia,gc,Italy,1.Pro,,0,0,,0.0,,,3.0
+2022-02-20,2022,uae-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,245.0,,,251.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,40.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,120.0
+2022-03-21,2022,volta-a-catalunya,gc,Bahrain - Victorious,2.UWT,,0,0,,80.0,,,140.0
+2022-08-02,2022,vuelta-a-burgos,gc,Bahrain - Victorious,2.Pro,,0,0,,70.0,,,110.0
+2022-08-20,2022,vuelta-a-espana,gc,Bahrain - Victorious,2.UWT,,0,0,,192.0,0.0,40.0,316.0
+2022-08-20,2022,vuelta-a-espana,kom,Bahrain - Victorious,2.UWT,,0,0,,192.0,0.0,40.0,316.0
+2022-08-20,2022,vuelta-a-espana,points,Bahrain - Victorious,2.UWT,,0,0,,192.0,0.0,40.0,316.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Bahrain - Victorious,2.Pro,,0,0,,120.0,,,120.0
+2022-09-25,2022,world-championship,gc,Italy,WC,,0,0,,0.0,,,505.0
+2022-09-18,2022,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,125.0
+2023-01-30,2023,alula-tour,gc,Bahrain - Victorious,2.1,,0,0,,120.0,,,147.0
+2023-04-16,2023,amstel-gold-race,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,33.0
+2023-04-12,2023,brabantse-pijl,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,15.0
+2023-09-03,2023,bretagne-classic,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,16.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,2.0
+2023-08-20,2023,cyclassics-hamburg,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,48.0
+2023-06-25,2023,danish-championships,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2023-08-23,2023,deutschland-tour,gc,Bahrain - Victorious,2.Pro,,0,0,,36.0,,,59.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,97.0
+2023-03-24,2023,e3-harelbeke,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,144.0
+2023-05-01,2023,eschborn-frankfurt,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,17.0
+2023-03-26,2023,gent-wevelgem,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,70.0
+2023-05-06,2023,giro-d-italia,gc,Bahrain - Victorious,2.UWT,4.0,600.0,1,,790.0,0.0,180.0,1972.0
+2023-05-06,2023,giro-d-italia,kom,Bahrain - Victorious,2.UWT,36.0,0.0,1,,790.0,0.0,180.0,1972.0
+2023-05-06,2023,giro-d-italia,points,Bahrain - Victorious,2.UWT,41.0,0.0,1,,790.0,0.0,180.0,1972.0
+2023-04-11,2023,giro-di-sicilia,gc,Bahrain - Victorious,2.1,10.0,20.0,1,,25.0,,,25.0
+2023-06-09,2023,gp-du-canton-d-argovie,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,76.0
+2023-09-10,2023,gp-montreal,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,50.0
+2023-09-08,2023,gp-quebec,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,235.0
+2023-10-05,2023,gran-piemonte,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,45.0
+2023-10-07,2023,il-lombardia,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,45.0
+2023-04-03,2023,itzulia-basque-country,gc,Bahrain - Victorious,2.UWT,,0,0,,336.0,,,396.0
+2023-10-15,2023,japan-cup,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,5.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,156.0
+2023-04-19,2023,la-fleche-wallonne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,292.0
+2023-04-23,2023,liege-bastogne-liege,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,565.0
+2023-03-18,2023,milano-sanremo,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,280.0
+2023-06-25,2023,nc-austria2,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,3.0
+2023-06-22,2023,nc-croatia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,25.0
+2023-06-22,2023,nc-denmark-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-germany,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2023-06-23,2023,nc-germany-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-great-britain-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,30.0
+2023-06-24,2023,nc-italy,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,10.0
+2023-06-25,2023,nc-japan,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,10.0
+2023-06-23,2023,nc-japan-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,nc-poland,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,78.0
+2023-06-22,2023,nc-poland-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,35.0
+2023-06-25,2023,nc-serbia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,100.0
+2023-06-23,2023,nc-serbia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-slovenia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,110.0
+2023-11-27,2023,nc-taiwan,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,30.0
+2023-11-26,2023,nc-taiwan-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,25.0
+2023-06-25,2023,ncgreat-britain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,100.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,93.0
+2023-03-05,2023,paris-nice,gc,Bahrain - Victorious,2.UWT,,0,0,,330.0,,,382.0
+2023-04-09,2023,paris-roubaix,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,45.0
+2023-08-23,2023,renewi-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,132.0,,,199.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,165.0
+2023-02-15,2023,ruta-del-sol,gc,Bahrain - Victorious,2.Pro,7.0,60.0,1,,371.0,,,424.0
+2023-07-29,2023,san-sebastian,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,344.0
+2023-03-04,2023,strade-bianche,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,284.0
+2023-03-06,2023,tirreno-adriatico,gc,Bahrain - Victorious,2.UWT,14.0,40.0,1,,200.0,,,315.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Bahrain - Victorious,2.UWT,,0,0,,275.0,,,371.0
+2023-07-01,2023,tour-de-france,gc,Bahrain - Victorious,2.UWT,,0,0,,670.0,0.0,0.0,2340.0
+2023-07-01,2023,tour-de-france,kom,Bahrain - Victorious,2.UWT,,0,0,,670.0,0.0,0.0,2340.0
+2023-07-01,2023,tour-de-france,points,Bahrain - Victorious,2.UWT,,0,0,,670.0,0.0,0.0,2340.0
+2023-05-10,2023,tour-de-hongrie,gc,Bahrain - Victorious,2.Pro,,0,0,,3.0,,,23.0
+2023-07-29,2023,tour-de-pologne,gc,Bahrain - Victorious,2.UWT,18.0,24.0,1,,432.0,,,543.0
+2023-04-25,2023,tour-de-romandie,gc,Bahrain - Victorious,2.UWT,3.0,325.0,1,,400.0,,,490.0
+2023-06-11,2023,tour-de-suisse,gc,Bahrain - Victorious,2.UWT,,0,0,,0.0,,,85.0
+2023-01-17,2023,tour-down-under,gc,Bahrain - Victorious,2.UWT,,0,0,,345.0,,,475.0
+2023-09-26,2023,tour-of-croatia,gc,Bahrain - Victorious,2.1,,0,0,,6.0,,,23.0
+2023-10-12,2023,tour-of-guangxi,gc,Bahrain - Victorious,2.UWT,,0,0,,17.0,,,109.0
+2023-06-14,2023,tour-of-slovenia,gc,Bahrain - Victorious,2.Pro,,0,0,,190.0,,,235.0
+2023-04-17,2023,tour-of-the-alps,gc,Bahrain - Victorious,2.Pro,,0,0,,185.0,,,213.0
+2023-02-20,2023,uae-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,292.0,,,330.0
+2023-03-20,2023,volta-a-catalunya,gc,Bahrain - Victorious,2.UWT,,0,0,,212.0,,,258.0
+2023-08-15,2023,vuelta-a-burgos,gc,Bahrain - Victorious,2.Pro,41.0,0.0,1,,15.0,,,30.0
+2023-08-27,2023,vuelta-a-espana,gc,Bahrain - Victorious,2.UWT,19.0,55.0,1,,870.0,0.0,0.0,1971.0
+2023-08-27,2023,vuelta-a-espana,kom,Bahrain - Victorious,2.UWT,7.0,0.0,1,,870.0,0.0,0.0,1971.0
+2023-08-27,2023,vuelta-a-espana,points,Bahrain - Victorious,2.UWT,29.0,0.0,1,,870.0,0.0,0.0,1971.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Bahrain - Victorious,2.Pro,33.0,3.0,1,,163.0,,,186.0
+2024-01-30,2024,alula-tour,gc,Bahrain - Victorious,2.1,,0,0,,5.0,,,5.0
+2024-04-14,2024,amstel-gold-race,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,113.0
+2024-04-10,2024,brabantse-pijl,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,5.0
+2024-08-25,2024,bretagne-classic,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,48.0
+2024-10-13,2024,chrono-des-nations,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,70.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,93.0
+2024-09-08,2024,cyclassics-hamburg,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,32.0
+2024-07-25,2024,czech-tour,gc,Bahrain - Victorious,2.1,,0,0,,0.0,,,0.0
+2024-06-23,2024,danish-championships,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2024-08-22,2024,deutschland-tour,gc,Bahrain - Victorious,2.Pro,,0,0,,11.0,,,21.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,17.0
+2024-03-22,2024,e3-harelbeke,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,56.0
+2024-05-01,2024,eschborn-frankfurt,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,10.0
+2024-03-24,2024,gent-wevelgem,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,70.0
+2024-05-04,2024,giro-d-italia,gc,Bahrain - Victorious,2.UWT,17.0,70.0,1,,605.0,0.0,0.0,1420.0
+2024-05-04,2024,giro-d-italia,kom,Bahrain - Victorious,2.UWT,23.0,0.0,1,,605.0,0.0,0.0,1420.0
+2024-05-04,2024,giro-d-italia,points,Bahrain - Victorious,2.UWT,77.0,0.0,1,,605.0,0.0,0.0,1420.0
+2024-10-05,2024,giro-dell-emilia,gc,Bahrain - Victorious,1.Pro,,,1,,0.0,,,3.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,0.0
+2024-09-15,2024,gp-montreal,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,510.0
+2024-09-13,2024,gp-quebec,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,205.0
+2024-10-10,2024,gran-piemonte,gc,Bahrain - Victorious,1.Pro,,,1,,0.0,,,75.0
+2024-10-12,2024,il-lombardia,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,30.0
+2024-04-01,2024,itzulia-basque-country,gc,Bahrain - Victorious,2.UWT,,0,0,,212.0,,,281.0
+2024-10-20,2024,japan-cup,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,170.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,5.0
+2024-04-17,2024,la-fleche-wallonne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,180.0
+2024-04-21,2024,liege-bastogne-liege,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,235.0
+2024-03-16,2024,milano-sanremo,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,325.0
+2024-03-08,2024,national-championships-bahrain-me-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,15.0
+2024-03-09,2024,national-championships-bahrain-road-race,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,30.0
+2024-06-21,2024,nc-denmark-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2024-06-19,2024,nc-great-britain-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-italy,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,60.0
+2024-06-23,2024,nc-japan,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,20.0
+2024-06-21,2024,nc-japan-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,20.0
+2024-06-23,2024,nc-poland,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-poland-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-serbia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,3.0
+2024-06-21,2024,nc-serbia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,25.0
+2024-06-23,2024,nc-slovenia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,63.0
+2024-06-20,2024,nc-slovenia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,80.0
+2024-12-09,2024,nc-taiwan,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,12.0
+2024-03-03,2024,paris-nice,gc,Bahrain - Victorious,2.UWT,,0,0,,36.0,,,113.0
+2024-04-07,2024,paris-roubaix,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,125.0
+2024-08-28,2024,renewi-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,152.0,,,172.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,15.0
+2024-02-16,2024,ruta-del-sol,gc,Bahrain - Victorious,2.Pro,,,1,,0.0,,,10.0
+2024-08-10,2024,san-sebastian,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,24.0
+2024-03-02,2024,strade-bianche,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,188.0
+2024-03-04,2024,tirreno-adriatico,gc,Bahrain - Victorious,2.UWT,41.0,10.0,1,,100.0,,,186.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Bahrain - Victorious,2.UWT,,0,0,,100.0,,,158.0
+2024-06-29,2024,tour-de-france,gc,Bahrain - Victorious,2.UWT,,0,0,,290.0,0.0,0.0,1075.0
+2024-06-29,2024,tour-de-france,kom,Bahrain - Victorious,2.UWT,,0,0,,290.0,0.0,0.0,1075.0
+2024-06-29,2024,tour-de-france,points,Bahrain - Victorious,2.UWT,,0,0,,290.0,0.0,0.0,1075.0
+2024-05-08,2024,tour-de-hongrie,gc,Bahrain - Victorious,2.Pro,,0,0,,125.0,,,148.0
+2024-09-18,2024,tour-de-luxembourg,gc,Bahrain - Victorious,2.Pro,32.0,3.0,1,,206.0,,,229.0
+2024-08-12,2024,tour-de-pologne,gc,Bahrain - Victorious,2.UWT,,0,0,,284.0,,,328.0
+2024-04-23,2024,tour-de-romandie,gc,Bahrain - Victorious,2.UWT,,,1,,10.0,,,88.0
+2024-06-09,2024,tour-de-suisse,gc,Bahrain - Victorious,2.UWT,71.0,0.0,1,,60.0,,,120.0
+2024-01-16,2024,tour-down-under,gc,Bahrain - Victorious,2.UWT,,0,0,,85.0,,,130.0
+2024-02-08,2024,tour-of-antalya,gc,Bahrain - Victorious,2.1,,0,0,,70.0,,,90.0
+2024-09-03,2024,tour-of-britain,gc,Bahrain - Victorious,2.Pro,,0,0,,71.0,,,109.0
+2024-10-01,2024,tour-of-croatia,gc,Bahrain - Victorious,2.1,,0,0,,136.0,,,144.0
+2024-10-15,2024,tour-of-guangxi,gc,Bahrain - Victorious,2.UWT,,0,0,,37.0,,,150.0
+2024-06-12,2024,tour-of-slovenia,gc,Bahrain - Victorious,2.Pro,,0,0,,183.0,,,236.0
+2024-04-15,2024,tour-of-the-alps,gc,Bahrain - Victorious,2.Pro,,0,0,,210.0,,,233.0
+2024-10-08,2024,tre-valli-varesine,gc,Bahrain - Victorious,1.Pro,,,1,,0.0,,,0.0
+2024-02-19,2024,uae-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,232.0,,,312.0
+2024-03-18,2024,volta-a-catalunya,gc,Bahrain - Victorious,2.UWT,19.0,24.0,1,,190.0,,,255.0
+2024-08-05,2024,vuelta-a-burgos,gc,Bahrain - Victorious,2.Pro,,,1,,8.0,,,21.0
+2024-08-17,2024,vuelta-a-espana,gc,Bahrain - Victorious,2.UWT,,,1,,60.0,0.0,0.0,215.0
+2024-08-17,2024,vuelta-a-espana,kom,Bahrain - Victorious,2.UWT,,,1,,60.0,0.0,0.0,215.0
+2024-08-17,2024,vuelta-a-espana,points,Bahrain - Victorious,2.UWT,,,1,,60.0,0.0,0.0,215.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Bahrain - Victorious,2.Pro,,0,0,,275.0,,,318.0
+2025-01-28,2025,alula-tour,gc,Bahrain - Victorious,2.1,,0,0,,58.0,,,66.0
+2025-04-20,2025,amstel-gold-race,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,50.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,3.0
+2025-04-18,2025,brabantse-pijl,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,10.0
+2025-08-31,2025,bretagne-classic,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,50.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,187.0
+2025-02-21,2025,classic-var,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,83.0
+2025-06-22,2025,copenhagen-sprint,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,84.0
+2025-10-06,2025,coppa-bernocchi,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,60.0
+2025-08-17,2025,cyclassics-hamburg,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,144.0
+2025-08-20,2025,deutschland-tour,gc,Bahrain - Victorious,2.Pro,,0,0,,33.0,,,36.0
+2025-04-02,2025,dwars-door-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,32.0
+2025-03-28,2025,e3-harelbeke,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,16.0
+2025-05-01,2025,eschborn-frankfurt,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,47.0
+2025-03-30,2025,gent-wevelgem,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,3.0
+2025-05-09,2025,giro-d-italia,gc,Bahrain - Victorious,2.UWT,5.0,495.0,1,,625.0,0.0,0.0,1414.0
+2025-05-09,2025,giro-d-italia,kom,Bahrain - Victorious,2.UWT,52.0,0.0,1,,625.0,0.0,0.0,1414.0
+2025-05-09,2025,giro-d-italia,points,Bahrain - Victorious,2.UWT,23.0,0.0,1,,625.0,0.0,0.0,1414.0
+2025-10-04,2025,giro-dell-emilia,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,130.0
+2025-09-21,2025,gooikse-pijl,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,3.0
+2025-03-20,2025,gp-de-denain,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,5.0
+2025-09-14,2025,gp-de-fourmies,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,10.0
+2025-05-10,2025,gp-de-plumelec,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,13.0
+2025-01-26,2025,gp-de-valence,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,85.0
+2025-09-17,2025,gp-de-wallonie,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,8.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,10.0
+2025-09-20,2025,gp-impanis-van-petegem,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,50.0
+2025-09-14,2025,gp-montreal,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,30.0
+2025-09-12,2025,gp-quebec,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,320.0
+2025-03-04,2025,gp-samyn,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,8.0
+2025-10-09,2025,gran-piemonte,gc,Bahrain - Victorious,1.Pro,,,1,,0.0,,,75.0
+2025-03-08,2025,grand-prix-criquielion,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,3.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,8.0
+2025-10-11,2025,il-lombardia,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,120.0
+2025-04-07,2025,itzulia-basque-country,gc,Bahrain - Victorious,2.UWT,,0,0,,52.0,,,52.0
+2025-10-19,2025,japan-cup,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,209.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,30.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,5.0
+2025-04-23,2025,la-fleche-wallonne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,370.0
+2025-04-27,2025,liege-bastogne-liege,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,55.0
+2025-03-22,2025,milano-sanremo,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,200.0
+2025-01-12,2025,nc-australia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2025-06-27,2025,nc-austria-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-austria2,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-belgium,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-croatia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,30.0
+2025-06-29,2025,nc-italy,gc,Bahrain - Victorious,NC,,,1,,0.0,,,10.0
+2025-06-29,2025,nc-norway,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-slovenia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,63.0
+2025-11-23,2025,nc-taiwan,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,50.0
+2025-11-22,2025,nc-taiwan-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,25.0
+2025-06-29,2025,ncgreat-britain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2025-03-19,2025,nokere-koerse,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,3.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,5.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,3.0
+2025-03-09,2025,paris-nice,gc,Bahrain - Victorious,2.UWT,,0,0,,50.0,,,153.0
+2025-04-13,2025,paris-roubaix,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,205.0
+2025-08-20,2025,renewi-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,228.0,,,253.0
+2025-04-06,2025,ronde-van-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,70.0
+2025-01-25,2025,ruta-de-la-ceramica-gran-premio-castellon,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,40.0
+2025-08-02,2025,san-sebastian,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,8.0
+2025-03-08,2025,strade-bianche,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,188.0
+2025-03-10,2025,tirreno-adriatico,gc,Bahrain - Victorious,2.UWT,66.0,0.0,1,,425.0,,,475.0
+2025-06-08,2025,tour-auvergne-rhone-alpes,gc,Bahrain - Victorious,2.UWT,,0,0,,60.0,,,168.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,Bahrain - Victorious,2.1,,0,0,,145.0,,,153.0
+2025-07-05,2025,tour-de-france,gc,Bahrain - Victorious,2.UWT,,0,0,,35.0,110.0,0.0,600.0
+2025-07-05,2025,tour-de-france,kom,Bahrain - Victorious,2.UWT,,0,0,,35.0,110.0,0.0,600.0
+2025-07-05,2025,tour-de-france,points,Bahrain - Victorious,2.UWT,,0,0,,35.0,110.0,0.0,600.0
+2025-05-14,2025,tour-de-hongrie,gc,Bahrain - Victorious,2.Pro,,0,0,,5.0,,,5.0
+2025-08-04,2025,tour-de-pologne,gc,Bahrain - Victorious,2.UWT,,0,0,,416.0,,,536.0
+2025-04-29,2025,tour-de-romandie,gc,Bahrain - Victorious,2.UWT,,0,0,,443.0,,,518.0
+2025-06-15,2025,tour-de-suisse,gc,Bahrain - Victorious,2.UWT,,0,0,,63.0,,,119.0
+2025-07-26,2025,tour-de-wallonie,gc,Bahrain - Victorious,2.Pro,,0,0,,63.0,,,63.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,Bahrain - Victorious,2.1,,0,0,,161.0,,,169.0
+2025-01-21,2025,tour-down-under,gc,Bahrain - Victorious,2.UWT,,0,0,,38.0,,,113.0
+2025-05-09,2025,tour-du-finistere,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,35.0
+2025-09-02,2025,tour-of-britain,gc,Bahrain - Victorious,2.Pro,,0,0,,118.0,,,153.0
+2025-09-30,2025,tour-of-croatia,gc,Bahrain - Victorious,2.1,28.0,0.0,1,,123.0,,,133.0
+2025-10-14,2025,tour-of-guangxi,gc,Bahrain - Victorious,2.UWT,,0,0,,77.0,,,92.0
+2025-06-04,2025,tour-of-slovenia,gc,Bahrain - Victorious,2.Pro,,0,0,,106.0,,,124.0
+2025-04-21,2025,tour-of-the-alps,gc,Bahrain - Victorious,2.Pro,6.0,70.0,1,,70.0,,,70.0
+2025-10-07,2025,tre-valli-varesine,gc,Bahrain - Victorious,1.Pro,,,1,,0.0,,,0.0
+2025-05-11,2025,tro-bro-leon,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,80.0
+2025-02-17,2025,uae-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,251.0,,,288.0
+2025-03-24,2025,volta-a-catalunya,gc,Bahrain - Victorious,2.UWT,,0,0,,180.0,,,220.0
+2025-02-19,2025,volta-ao-algarve,gc,Bahrain - Victorious,2.Pro,36.0,3.0,1,,8.0,,,18.0
+2025-08-05,2025,vuelta-a-burgos,gc,Bahrain - Victorious,2.Pro,45.0,0.0,1,,70.0,,,108.0
+2025-08-23,2025,vuelta-a-espana,gc,Bahrain - Victorious,2.UWT,,0,0,,365.0,0.0,0.0,837.0
+2025-08-23,2025,vuelta-a-espana,kom,Bahrain - Victorious,2.UWT,,0,0,,365.0,0.0,0.0,837.0
+2025-08-23,2025,vuelta-a-espana,points,Bahrain - Victorious,2.UWT,,0,0,,365.0,0.0,0.0,837.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Bahrain - Victorious,2.Pro,,0,0,,363.0,,,438.0

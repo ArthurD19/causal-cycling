@@ -1,0 +1,77 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-03-11,2017,tour-du-cameroun,gc,Naturablue Cycling Team,2.2,,0,0,,3.0,,,17.0
+2017-04-07,2017,tour-du-maroc,gc,Naturablue Cycling Team,2.2,36.0,0.0,1,,0.0,,,0.0
+2017-02-27,2017,vuelta-independencia-nacional,gc,Southern Crescent Cycling,2.2,21.0,0.0,1,,0.0,,,14.0
+2019-06-13,2019,coupe-des-nations-ville-saguenay,gc,Brunei Continental Cycling Team,2.2,,,1,,0.0,,,0.0
+2019-09-20,2019,grand-prix-erciyes-mimar-sinan-me,gc,Brunei Continental Cycling Team,1.2,,0,0,,0.0,,,3.0
+2019-09-06,2019,grand-prix-velo-erciyes-me,gc,Brunei Continental Cycling Team,1.2,,0,0,,0.0,,,3.0
+2019-08-17,2019,memorial-henryka-lasaka,gc,Brunei Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-belgium,gc,Brunei Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-greece,gc,Brunei Continental Cycling Team,NC,,0,0,,0.0,,,50.0
+2019-06-28,2019,nc-greece-itt,gc,Brunei Continental Cycling Team,NC,,0,0,,0.0,,,10.0
+2019-07-13,2019,nc-indonesia,gc,Brunei Continental Cycling Team,NC,,0,0,,0.0,,,10.0
+2019-06-29,2019,nc-malaysia,gc,Brunei Continental Cycling Team,NC,,0,0,,0.0,,,1.0
+2019-06-30,2019,nc-malaysia-itt,gc,Brunei Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2019-02-10,2019,nc-south-africa,gc,Brunei Continental Cycling Team,NC,,0,0,,0.0,,,0.0
+2019-05-24,2019,pruride-ph,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-08-15,2019,puchar-ministra-obrony-narodowej,gc,Brunei Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-08-18,2019,puchar-uzdrowisk-karpackich,gc,Brunei Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-06-19,2019,tour-de-beauce,gc,Brunei Continental Cycling Team,2.2,,,1,,0.0,,,0.0
+2019-04-17,2019,tour-de-iskandar-johor,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-04-06,2019,tour-de-langkawi,gc,Brunei Continental Cycling Team,2.HC,,0,0,,0.0,,,10.0
+2019-05-15,2019,tour-de-limpopo,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-03-17,2019,tour-de-taiwan,gc,Brunei Continental Cycling Team,2.1,,0,0,,0.0,,,0.0
+2019-06-07,2019,tour-of-bihor-bellotto,gc,Brunei Continental Cycling Team,2.1,,0,0,,0.0,,,0.0
+2019-05-17,2019,tour-of-black-sea,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-09-07,2019,tour-of-central-anatolia,gc,Brunei Continental Cycling Team,2.2,,0,0,,3.0,,,3.0
+2019-09-07,2019,tour-of-china,gc,Brunei Continental Cycling Team,2.1,51.0,0.0,1,,0.0,,,0.0
+2019-09-16,2019,tour-of-china-ii,gc,Brunei Continental Cycling Team,2.1,78.0,0.0,1,,0.0,,,0.0
+2019-03-04,2019,tour-of-good-hope,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-09-21,2019,tour-of-kayseri,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-04-26,2019,tour-of-mersin,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-05-02,2019,tour-of-mesopotamia,gc,Brunei Continental Cycling Team,2.2,,0,0,,15.0,,,15.0
+2019-10-15,2019,tour-of-peninsula,gc,Brunei Continental Cycling Team,2.1,,0,0,,20.0,,,20.0
+2019-11-02,2019,tour-of-singkarak,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-08-07,2019,tour-of-szeklerland,gc,Brunei Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2021-10-17,2021,chrono-des-nations,gc,Kuwait Pro Cycling Team,1.1,,0,0,,0.0,,,6.0
+2021-07-14,2021,dookola-mazowsza,gc,Kuwait Pro Cycling Team,2.2,,0,0,,0.0,,,0.0
+2021-07-18,2021,grand-prix-develi,gc,Kuwait Pro Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-07-11,2021,grand-prix-kayseri-me,gc,Kuwait Pro Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-07-17,2021,grand-prix-velo-erciyes-me,gc,Kuwait Pro Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-belgium,gc,Kuwait Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-greece,gc,Kuwait Pro Cycling Team,NC,,0,0,,0.0,,,55.0
+2021-06-18,2021,nc-greece-itt,gc,Kuwait Pro Cycling Team,NC,,0,0,,0.0,,,65.0
+2021-03-06,2021,nc-united-arab-emirates,gc,Kuwait Pro Cycling Team,NC,,0,0,,0.0,,,1.0
+2021-10-17,2021,ncgreat-britain,gc,Kuwait Pro Cycling Team,NC,,0,0,,0.0,,,0.0
+2021-09-10,2021,okolo-jiznich-cech,gc,Kuwait Pro Cycling Team,2.2,,,1,,0.0,,,0.0
+2021-07-18,2021,puchar-ministra-obrony-narodowej,gc,Kuwait Pro Cycling Team,1.2,,0,0,,0.0,,,0.0
+2021-10-22,2021,tour-cycliste-international-de-la-guadeloupe,gc,Kuwait Pro Cycling Team,2.2,,0,0,,0.0,,,17.0
+2021-05-28,2021,tour-of-estonia,gc,Kuwait Pro Cycling Team,2.1,,0,0,,73.0,,,76.0
+2021-06-03,2021,tour-of-malopolska,gc,Kuwait Pro Cycling Team,2.2,,0,0,,0.0,,,0.0
+2021-12-01,2021,tour-of-thailand,gc,Kuwait Pro Cycling Team,2.1,,0,0,,5.0,,,5.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-05-22,2022,gp-gorenjska,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-02-05,2022,grand-prix-alanya,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-08-21,2022,grand-prix-cappadocia,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-08-20,2022,grand-prix-develi,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,3.0
+2022-07-23,2022,grand-prix-erciyes-mimar-sinan-me,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,13.0
+2022-03-05,2022,grand-prix-gazipasa,gc,Queen sport club,1.2,,,1,,0.0,,,0.0
+2022-03-20,2022,grand-prix-gundogmus-me,gc,Queen sport club,1.2,,0,0,,0.0,,,0.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Queen sport club,1.2,,0,0,,0.0,,,0.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-08-19,2022,grand-prix-kapuzbasi,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,10.0
+2022-07-24,2022,grand-prix-kayseri-me,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,30.0
+2022-03-19,2022,grand-prix-manavgat-side,gc,Queen sport club,1.2,,,1,,0.0,,,0.0
+2022-03-06,2022,grand-prix-mediterrennean,gc,Queen sport club,1.2,,,1,,0.0,,,0.0
+2022-01-30,2022,grand-prix-megasaray,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-08-18,2022,grand-prix-tomarza,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,0.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Queen sport club,1.2,,0,0,,0.0,,,0.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Tashkent City Professional Cycling Team,1.2,,0,0,,0.0,,,0.0
+2022-07-31,2022,grand-prix-yahyali,gc,Tashkent City Professional Cycling Team,1.2,,,1,,0.0,,,3.0
+2022-06-29,2022,nc-uzbekistan,gc,Tashkent City Professional Cycling Team,NC,,0,0,,0.0,,,137.0
+2022-06-28,2022,nc-uzbekistan-itt,gc,Tashkent City Professional Cycling Team,NC,,0,0,,0.0,,,58.0
+2022-08-27,2022,tour-of-bulgaria,gc,Tashkent City Professional Cycling Team,2.2,,0,0,,0.0,,,-5.0
+2022-05-26,2022,tour-of-estonia,gc,Tashkent City Professional Cycling Team,2.1,,0,0,,0.0,,,0.0
+2022-08-25,2022,tour-of-konya,gc,Tashkent City Professional Cycling Team,2.2,,,1,,0.0,,,0.0
+2022-06-03,2022,tour-of-malopolska,gc,Tashkent City Professional Cycling Team,2.2,,0,0,,0.0,,,0.0
+2022-01-28,2022,tour-of-sharjah,gc,Tashkent City Professional Cycling Team,2.2,,0,0,,3.0,,,3.0

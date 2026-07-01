@@ -1,0 +1,62 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-08-29,2021,gp-de-la-somme,gc,Dunkerque Grand Littoral-Cofidis,1.2,,0,0,,0.0,,,0.0
+2021-07-18,2021,gp-de-la-ville-de-nogent-sur-oise,gc,Dunkerque Grand Littoral-Cofidis,1.2,,,1,,0.0,,,10.0
+2021-07-25,2021,grand-prix-de-la-ville-de-perenchies,gc,Dunkerque Grand Littoral-Cofidis,1.2,,0,0,,0.0,,,0.0
+2021-10-17,2021,paris-mantes-en-yvelines,gc,Dunkerque Grand Littoral-Cofidis,1.2,,,1,,0.0,,,0.0
+2022-04-06,2022,circuit-des-ardennes,gc,Premier Tech U23 Cycling Project,2.2,,0,0,,0.0,,,0.0
+2022-05-08,2022,fleche-ardennaise,gc,Premier Tech U23 Cycling Project,1.2,,0,0,,0.0,,,5.0
+2022-09-11,2022,gp-de-la-somme,gc,CC Nogent-sur-Oise,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,gp-de-la-ville-de-lillers,gc,CC Nogent-sur-Oise,1.2,,,1,,0.0,,,0.0
+2022-03-06,2022,gp-de-la-ville-de-lillers,gc,Premier Tech U23 Cycling Project,1.2,,0,0,,0.0,,,0.0
+2022-07-10,2022,gp-de-la-ville-de-nogent-sur-oise,gc,CC Nogent-sur-Oise,1.2,,,1,,0.0,,,3.0
+2022-07-10,2022,gp-de-la-ville-de-nogent-sur-oise,gc,Premier Tech U23 Cycling Project,1.2,,0,0,,0.0,,,0.0
+2022-05-14,2022,gp-de-plumelec,gc,Premier Tech U23 Cycling Project,1.Pro,,0,0,,0.0,,,0.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,CC Nogent-sur-Oise,1.2,,0,0,,0.0,,,0.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,Premier Tech U23 Cycling Project,1.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-canada2,gc,Premier Tech U23 Cycling Project,NC,,0,0,,0.0,,,70.0
+2022-06-26,2022,nc-united-states,gc,Premier Tech U23 Cycling Project,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-usa-itt,gc,Premier Tech U23 Cycling Project,NC,,0,0,,0.0,,,0.0
+2022-06-06,2022,paris-troyes,gc,CC Nogent-sur-Oise,1.2,,,1,,0.0,,,25.0
+2022-06-06,2022,paris-troyes,gc,Premier Tech U23 Cycling Project,1.2,,0,0,,0.0,,,0.0
+2022-06-02,2022,ronde-de-l-oise,gc,CC Nogent-sur-Oise,2.2,,0,0,,0.0,,,1.0
+2022-06-02,2022,ronde-de-l-oise,gc,Premier Tech U23 Cycling Project,2.2,,0,0,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,Premier Tech U23 Cycling Project,2.2,,0,0,,0.0,,,0.0
+2022-08-05,2022,tour-cycliste-international-de-la-guadeloupe,gc,Premier Tech U23 Cycling Project,2.2,14.0,0.0,1,,20.0,,,42.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Premier Tech U23 Cycling Project,2.2,,0,0,,3.0,,,3.0
+2022-03-21,2022,tour-de-normadie,gc,CC Nogent-sur-Oise,2.2,,0,0,,0.0,,,0.0
+2022-03-21,2022,tour-de-normadie,gc,Premier Tech U23 Cycling Project,2.2,,0,0,,3.0,,,3.0
+2022-05-21,2022,tour-du-finistere,gc,Premier Tech U23 Cycling Project,1.1,,0,0,,0.0,,,0.0
+2022-04-13,2022,tour-du-loir-et-cher,gc,CC Nogent-sur-Oise,2.2,,0,0,,0.0,,,0.0
+2022-04-13,2022,tour-du-loir-et-cher,gc,Premier Tech U23 Cycling Project,2.2,,0,0,,0.0,,,0.0
+2022-08-25,2022,tour-of-konya,gc,Premier Tech U23 Cycling Project,2.2,9.0,3.0,1,,8.0,,,15.0
+2022-05-15,2022,tro-bro-leon,gc,Premier Tech U23 Cycling Project,1.Pro,,0,0,,0.0,,,5.0
+2022-09-06,2022,turul-romaniei,gc,Premier Tech U23 Cycling Project,2.1,67.0,0.0,1,,0.0,,,0.0
+2023-04-06,2023,circuit-des-ardennes,gc,Philippe Wagner Cycling,2.2,67.0,0.0,1,,3.0,,,3.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,Philippe Wagner Cycling,1.2,,,1,,0.0,,,3.0
+2023-03-04,2023,le-tour-des-100-communes,gc,Philippe Wagner Cycling,1.2,,,1,,0.0,,,33.0
+2023-06-22,2023,nc-france-itt,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,0.0
+2023-02-12,2023,nc-new-zealand,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-poland,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-poland-itt,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-switserland,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,75.0
+2023-05-29,2023,paris-troyes,gc,Philippe Wagner Cycling,1.2,,0,0,,0.0,,,70.0
+2023-07-27,2023,tour-alsace,gc,Philippe Wagner Cycling,2.2,84.0,0.0,1,,0.0,,,-5.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Philippe Wagner Cycling,2.2,71.0,0.0,1,,30.0,,,30.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,Philippe Wagner Cycling,2.2,,0,0,,3.0,,,-1.0
+2024-04-04,2024,circuit-des-ardennes,gc,VC Rouen 76,2.2,,,1,,0.0,,,0.0
+2024-04-28,2024,gp-de-la-somme,gc,VC Rouen 76,1.2,,,1,,0.0,,,30.0
+2024-03-03,2024,gp-de-la-ville-de-lillers,gc,VC Rouen 76,1.2,,,1,,0.0,,,0.0
+2024-09-15,2024,gp-de-la-ville-de-nogent-sur-oise,gc,VC Rouen 76,1.2,,,1,,0.0,,,10.0
+2024-08-25,2024,grand-prix-de-plouay,gc,VC Rouen 76,1.2,,0,0,,0.0,,,20.0
+2024-07-27,2024,kreiz-breizh-elites,gc,VC Rouen 76,2.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,le-tour-des-100-communes,gc,VC Rouen 76,1.2,,,1,,0.0,,,0.0
+2024-06-20,2024,nc-france-itt,gc,VC Rouen 76,NC,,0,0,,0.0,,,0.0
+2024-05-30,2024,ronde-de-l-oise,gc,VC Rouen 76,2.2,57.0,0.0,1,,15.0,,,15.0
+2024-09-27,2024,tour-d-eure-et-loir,gc,VC Rouen 76,2.2,,0,0,,3.0,,,6.0
+2025-04-05,2025,boucle-de-l-artois,gc,Team Lockimmo.com,1.2,,,1,,0.0,,,3.0
+2025-08-31,2025,gp-de-la-somme,gc,Team Lockimmo.com,1.2,,,1,,0.0,,,20.0
+2025-03-09,2025,gp-de-la-ville-de-lillers,gc,Team Lockimmo.com,1.2,,,1,,0.0,,,0.0
+2025-07-27,2025,grand-prix-de-la-ville-de-perenchies,gc,Team Lockimmo.com,1.2,,0,0,,0.0,,,0.0
+2025-03-08,2025,le-tour-des-100-communes,gc,Team Lockimmo.com,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-estonia,gc,Team Lockimmo.com,NC,,0,0,,0.0,,,3.0
+2025-06-21,2025,nc-estonia-itt,gc,Team Lockimmo.com,NC,,0,0,,0.0,,,0.0

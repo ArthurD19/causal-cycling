@@ -1,0 +1,451 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-07-12,2017,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Lotto - Soudal U23,2.2U,12.0,0.0,1,,25.0,,,33.0
+2017-08-31,2017,okolo-jiznich-cech,gc,Lotto - Soudal U23,2.2,,,1,,18.0,,,18.0
+2017-09-24,2017,paris-chauny-classique,gc,Lotto - Soudal U23,1.2,,0,0,,0.0,,,3.0
+2017-08-27,2017,ronde-van-midden-nederland,gc,Lotto - Soudal U23,2.2,,0,0,,0.0,,,7.0
+2017-07-26,2017,tour-alsace,gc,Lotto - Soudal U23,2.2,,0,0,,3.0,,,4.0
+2017-04-12,2017,tour-du-loir-et-cher,gc,Lotto - Soudal U23,2.2,,0,0,,0.0,,,0.0
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,10.0
+2018-05-08,2018,4-jours-de-dunkerque,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,128.0,,,143.0
+2018-06-21,2018,adriatica-ionica-race,gc,Roompot - Nederlandse Loterij,2.1,,0,0,,46.0,,,46.0
+2018-04-15,2018,amstel-gold-race,gc,Roompot - Nederlandse Loterij,1.UWT,,0,0,,0.0,,,30.0
+2018-09-02,2018,antwerp-port-epic,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,180.0
+2018-04-11,2018,brabantse-pijl,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,8.0
+2018-03-16,2018,bredene-koksijde-classic,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,5.0
+2018-09-01,2018,brussels-cycling-classic,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,5.0
+2018-03-25,2018,cholet-pays-de-loire,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,6.0
+2018-06-17,2018,circuit-des-xi-villes,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,85.0
+2018-09-22,2018,circuit-franco-belge,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,65.0
+2018-07-31,2018,circuito-de-getxo,gc,Polartec-Kometa,1.1,,0,0,,0.0,,,3.0
+2018-02-11,2018,clasica-de-almeria,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,23.0
+2018-03-21,2018,classic-brugge-de-panne,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,28.0
+2018-03-24,2018,classic-loire-atlantique,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,30.0
+2018-09-15,2018,coppa-agostoni,gc,Polartec-Kometa,1.1,,0,0,,0.0,,,0.0
+2018-09-16,2018,coppa-bernocchi,gc,Polartec-Kometa,1.1,,0,0,,0.0,,,0.0
+2018-01-26,2018,deia-trophy,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,35.0
+2018-08-23,2018,deutschland-tour,gc,Roompot - Nederlandse Loterij,2.1,,0,0,,20.0,,,20.0
+2018-03-11,2018,dorpenomloop-rucphen,gc,Roompot - Nederlandse Loterij,1.2,,0,0,,0.0,,,20.0
+2018-08-29,2018,druivenkoers-overijse,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,260.0
+2018-06-15,2018,dwars-door-het-hageland,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,5.0
+2018-03-23,2018,e3-harelbeke,gc,Roompot - Nederlandse Loterij,1.UWT,,0,0,,0.0,,,18.0
+2018-05-01,2018,eschborn-frankfurt,gc,Roompot - Nederlandse Loterij,1.UWT,,0,0,,0.0,,,5.0
+2018-09-27,2018,famenne-ardenne-classic,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,28.0
+2018-02-24,2018,faun-ardeche-classic,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,0.0
+2018-03-25,2018,gent-wevelgem,gc,Roompot - Nederlandse Loterij,1.UWT,,0,0,,0.0,,,95.0
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Polartec-Kometa,2.2U,2.0,25.0,1,,28.0,,,33.0
+2018-07-26,2018,gp-cerami,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,15.0
+2018-03-18,2018,gp-de-denain,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,70.0
+2018-09-02,2018,gp-de-fourmies,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,8.0
+2018-09-12,2018,gp-de-wallonie,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,8.0
+2018-09-15,2018,gp-impanis-van-petegem,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,260.0
+2018-09-16,2018,gp-jef-scherens,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,11.0
+2018-06-03,2018,gp-lugano,gc,Polartec-Kometa,1.1,,0,0,,0.0,,,0.0
+2018-02-27,2018,gp-samyn,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,0.0
+2018-08-21,2018,gp-stad-zottegem,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,88.0
+2018-03-31,2018,gran-premio-miguel-indurain,gc,Polartec-Kometa,1.1,,0,0,,0.0,,,0.0
+2018-01-28,2018,great-ocean-road-race,gc,Roompot - Nederlandse Loterij,1.UWT,,0,0,,0.0,,,5.0
+2018-08-24,2018,great-war-remembrance-race,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,78.0
+2018-05-20,2018,grote-prijs-marcel-kint,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,43.0
+2018-06-19,2018,halle-ingooigem,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,3.0
+2018-06-02,2018,heist-op-den-berg,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,88.0
+2018-01-31,2018,herald-sun-tour,gc,Roompot - Nederlandse Loterij,2.1,,0,0,,5.0,,,5.0
+2018-09-14,2018,kampioenschap-van-vlaanderen1,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,5.0
+2018-04-08,2018,klasika-primavera,gc,Polartec-Kometa,1.1,,,1,,0.0,,,3.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,100.0
+2018-02-25,2018,la-drome-classic,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,0.0
+2018-04-25,2018,le-tour-de-bretagne,gc,Polartec-Kometa,2.2,,0,0,,0.0,,,0.0
+2018-10-02,2018,memorial-frank-vandenbroucke,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,63.0
+2018-10-03,2018,munsterland-giro,gc,Roompot - Nederlandse Loterij,1.HC,,,1,,0.0,,,50.0
+2018-06-29,2018,nc-austria-itt,gc,Polartec-Kometa,NC,,0,0,,0.0,,,5.0
+2018-07-01,2018,nc-austria2,gc,Polartec-Kometa,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-eritrea,gc,Polartec-Kometa,NC,,0,0,,0.0,,,10.0
+2018-06-22,2018,nc-eritrea-itt,gc,Polartec-Kometa,NC,,0,0,,0.0,,,0.0
+2018-07-01,2018,nc-netherlands,gc,Roompot - Nederlandse Loterij,NC,,0,0,,0.0,,,22.0
+2018-06-27,2018,nc-netherlands-itt,gc,Roompot - Nederlandse Loterij,NC,,0,0,,0.0,,,1.0
+2018-06-24,2018,nc-spain,gc,Polartec-Kometa,NC,,0,0,,0.0,,,0.0
+2018-06-22,2018,nc-spain-itt,gc,Polartec-Kometa,NC,,0,0,,0.0,,,0.0
+2018-03-14,2018,nokere-koerse,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,5.0
+2018-09-12,2018,okolo-slovenska,gc,Roompot - Nederlandse Loterij,2.1,21.0,3.0,1,,58.0,,,58.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Roompot - Nederlandse Loterij,1.UWT,,0,0,,0.0,,,0.0
+2018-08-25,2018,omloop-mandel-leie-schelde-meulebeke,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,133.0
+2018-09-19,2018,omloop-van-het-houtland-lichtervelde,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,5.0
+2018-06-24,2018,paris-chauny-classique,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,6.0
+2018-10-07,2018,paris-tours,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,45.0
+2018-07-25,2018,prueba-villafranca,gc,Polartec-Kometa,1.1,,,1,,0.0,,,6.0
+2018-04-03,2018,region-pays-de-la-loire,gc,Roompot - Nederlandse Loterij,2.1,,0,0,,35.0,,,35.0
+2018-08-13,2018,renewi-tour,gc,Roompot - Nederlandse Loterij,2.UWT,,0,0,,80.0,,,130.0
+2018-03-04,2018,rhodes-gp,gc,Polartec-Kometa,1.2,,0,0,,0.0,,,40.0
+2018-03-11,2018,ronde-van-drenthe,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,115.0
+2018-06-10,2018,ronde-van-limburg,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,28.0
+2018-05-12,2018,ronde-van-overijssel,gc,Roompot - Nederlandse Loterij,1.2,,0,0,,0.0,,,10.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Roompot - Nederlandse Loterij,1.UWT,,0,0,,0.0,,,0.0
+2018-06-10,2018,rund-um-koln,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,0.0
+2018-02-14,2018,ruta-del-sol,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,10.0,,,10.0
+2018-04-04,2018,scheldeprijs,gc,Roompot - Nederlandse Loterij,1.HC,,0,0,,0.0,,,38.0
+2018-08-11,2018,slag-om-norg,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,163.0
+2018-10-13,2018,tacx-pro-classic,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,20.0
+2018-02-08,2018,tour-cycliste-international-la-provence,gc,Polartec-Kometa,2.1,,0,0,,3.0,,,3.0
+2018-08-14,2018,tour-de-hongrie,gc,Polartec-Kometa,2.1,,0,0,,3.0,,,27.0
+2018-05-18,2018,tour-de-l-ain,gc,Polartec-Kometa,2.1,44.0,0.0,1,,15.0,,,15.0
+2018-05-30,2018,tour-de-luxembourg,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,30.0,,,35.0
+2018-03-19,2018,tour-de-normadie,gc,Polartec-Kometa,2.2,,0,0,,0.0,,,14.0
+2018-07-28,2018,tour-de-wallonie,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,20.0,,,20.0
+2018-05-03,2018,tour-de-yorkshire,gc,Roompot - Nederlandse Loterij,2.1,,0,0,,6.0,,,6.0
+2018-02-17,2018,tour-des-alpes-maritimes,gc,Polartec-Kometa,2.1,,0,0,,3.0,,,3.0
+2018-05-22,2018,tour-des-fjords,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,188.0,,,198.0
+2018-08-15,2018,tour-du-limousin,gc,Roompot - Nederlandse Loterij,2.1,,0,0,,11.0,,,14.0
+2018-02-22,2018,tour-of-antalya,gc,Polartec-Kometa,2.2,29.0,0.0,1,,25.0,,,42.0
+2018-07-07,2018,tour-of-austria,gc,Roompot - Nederlandse Loterij,2.1,,0,0,,3.0,,,20.0
+2018-05-23,2018,tour-of-belgium,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,40.0,,,55.0
+2018-04-17,2018,tour-of-croatia,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,155.0,,,165.0
+2018-08-01,2018,tour-of-denmark,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,10.0,,,10.0
+2018-05-16,2018,tour-of-norway,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,83.0,,,83.0
+2018-02-13,2018,tour-of-oman,gc,Roompot - Nederlandse Loterij,2.HC,,0,0,,10.0,,,10.0
+2018-03-09,2018,tour-of-rhodes,gc,Polartec-Kometa,2.2,,0,0,,20.0,,,27.0
+2018-01-28,2018,trofeo-palma,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,73.0
+2018-01-27,2018,trofeo-pollenca-port-d-andratx,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,120.0
+2018-01-25,2018,trofeo-ses-salines-felanitx,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,3.0
+2018-08-22,2018,veenendaal-veenendaal,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,88.0
+2018-03-31,2018,volta-nxt-classic,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,33.0
+2018-05-11,2018,vuelta-a-aragon,gc,Polartec-Kometa,2.1,37.0,0.0,1,,0.0,,,0.0
+2018-08-07,2018,vuelta-a-burgos,gc,Polartec-Kometa,2.HC,,0,0,,0.0,,,20.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Polartec-Kometa,2.1,132.0,0.0,1,,0.0,,,0.0
+2018-02-10,2018,vuelta-ciclista-a-la-region-de-murcia,gc,Roompot - Nederlandse Loterij,1.1,,0,0,,0.0,,,3.0
+2019-09-08,2019,chrono-champenois-masculin,gc,Equipe continentale Groupama-FDJ,1.2,,0,0,,0.0,,,10.0
+2019-09-01,2019,gp-de-la-ville-de-nogent-sur-oise,gc,Equipe continentale Groupama-FDJ,1.2,,0,0,,0.0,,,25.0
+2019-09-18,2019,gp-de-wallonie,gc,Equipe continentale Groupama-FDJ,1.1,,0,0,,0.0,,,0.0
+2019-05-19,2019,grand-prix-criquielion,gc,Equipe continentale Groupama-FDJ,1.2,,0,0,,0.0,,,25.0
+2019-04-25,2019,le-tour-de-bretagne,gc,Equipe continentale Groupama-FDJ,2.2,,0,0,,15.0,,,15.0
+2019-06-30,2019,nc-estonia,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,40.0
+2019-06-27,2019,nc-estonia-itt,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,30.0
+2019-06-30,2019,nc-france,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-france-itt,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-slovenia,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,ncgreat-britain,gc,Equipe continentale Groupama-FDJ,NC,,0,0,,0.0,,,3.0
+2019-05-24,2019,paris-arras-tour,gc,Equipe continentale Groupama-FDJ,2.2,,0,0,,0.0,,,0.0
+2019-03-17,2019,paris-troyes,gc,Equipe continentale Groupama-FDJ,1.2,,0,0,,0.0,,,0.0
+2019-05-09,2019,rhone-alpes-isere-tour,gc,Equipe continentale Groupama-FDJ,2.2,20.0,0.0,1,,0.0,,,7.0
+2019-08-01,2019,tour-alsace,gc,Equipe continentale Groupama-FDJ,2.2,4.0,20.0,1,,20.0,,,21.0
+2019-03-25,2019,tour-de-normadie,gc,Equipe continentale Groupama-FDJ,2.2,71.0,0.0,1,,0.0,,,0.0
+2019-04-27,2019,tour-du-jura-cycliste,gc,Equipe continentale Groupama-FDJ,2.2,12.0,0.0,1,,30.0,,,31.0
+2020-02-04,2020,alula-tour,gc,Bahrain - McLaren,2.1,,0,0,,175.0,,,213.0
+2020-10-07,2020,brabantse-pijl,gc,Bahrain - McLaren,1.Pro,,,1,,0.0,,,125.0
+2020-08-25,2020,bretagne-classic,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,84.0
+2020-08-02,2020,circuito-de-getxo,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,165.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,0.0
+2020-08-07,2020,czech-tour,gc,Bahrain - McLaren,2.1,,0,0,,20.0,,,20.0
+2020-10-11,2020,gent-wevelgem,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,100.0
+2020-10-03,2020,giro-d-italia,gc,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-10-03,2020,giro-d-italia,kom,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-10-03,2020,giro-d-italia,points,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-09-19,2020,giro-dell-appennino,gc,Bahrain - McLaren,1.1,,,1,,0.0,,,40.0
+2020-08-18,2020,giro-dell-emilia,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,5.0
+2020-09-16,2020,giro-di-toscana,gc,Bahrain - McLaren,1.1,,,1,,0.0,,,3.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Bahrain - McLaren,1.Pro,,,1,,0.0,,,63.0
+2020-02-02,2020,great-ocean-road-race,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,132.0
+2020-08-15,2020,il-lombardia,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,20.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,63.0
+2020-09-30,2020,la-fleche-wallonne,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,48.0
+2020-08-01,2020,la-route-d-occitanie,gc,Bahrain - McLaren,2.1,36.0,0.0,1,,28.0,,,45.0
+2020-10-04,2020,liege-bastogne-liege,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,295.0
+2020-08-30,2020,memorial-marco-pantani,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,0.0
+2020-08-08,2020,milano-sanremo,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,105.0
+2020-09-22,2020,nc-belgium,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-italy,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,60.0
+2020-06-21,2020,nc-slovenia,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,113.0
+2020-06-28,2020,nc-slovenia-itt,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,11.0
+2020-08-23,2020,nc-spain,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,50.0
+2020-08-21,2020,nc-spain-itt,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,50.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,37.0
+2020-03-08,2020,paris-nice,gc,Bahrain - McLaren,2.UWT,,0,0,,0.0,,,110.0
+2020-01-30,2020,race-torquay,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,10.0
+2020-09-29,2020,renewi-tour,gc,Bahrain - McLaren,2.UWT,,0,0,,156.0,,,164.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,85.0
+2020-02-19,2020,ruta-del-sol,gc,Bahrain - McLaren,2.Pro,,0,0,,285.0,,,340.0
+2020-10-14,2020,scheldeprijs,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,0.0
+2020-08-01,2020,strade-bianche,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,20.0
+2020-09-07,2020,tirreno-adriatico,gc,Bahrain - McLaren,2.UWT,,0,0,,40.0,,,40.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Bahrain - McLaren,2.UWT,,0,0,,70.0,,,70.0
+2020-08-29,2020,tour-de-france,gc,Bahrain - McLaren,2.UWT,,0,0,,820.0,0.0,0.0,825.0
+2020-08-29,2020,tour-de-france,kom,Bahrain - McLaren,2.UWT,,0,0,,820.0,0.0,0.0,825.0
+2020-08-29,2020,tour-de-france,points,Bahrain - McLaren,2.UWT,,0,0,,820.0,0.0,0.0,825.0
+2020-09-15,2020,tour-de-luxembourg,gc,Bahrain - McLaren,2.Pro,,0,0,,15.0,,,15.0
+2020-08-05,2020,tour-de-pologne,gc,Bahrain - McLaren,2.UWT,,0,0,,8.0,,,8.0
+2020-08-16,2020,tour-de-wallonie,gc,Bahrain - McLaren,2.Pro,21.0,5.0,1,,13.0,,,13.0
+2020-01-21,2020,tour-down-under,gc,Bahrain - McLaren,2.UWT,,0,0,,145.0,,,145.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Bahrain - McLaren,2.1,,0,0,,0.0,,,5.0
+2020-08-29,2020,trofeo-matteotti,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,0.0
+2020-02-23,2020,uae-tour,gc,Bahrain - McLaren,2.UWT,,0,0,,27.0,,,27.0
+2020-07-28,2020,vuelta-a-burgos,gc,Bahrain - McLaren,2.Pro,,0,0,,153.0,,,168.0
+2020-10-20,2020,vuelta-a-espana,gc,Bahrain - McLaren,2.UWT,137.0,0.0,1,,332.0,0.0,0.0,356.0
+2020-10-20,2020,vuelta-a-espana,kom,Bahrain - McLaren,2.UWT,,,1,,332.0,0.0,0.0,356.0
+2020-10-20,2020,vuelta-a-espana,points,Bahrain - McLaren,2.UWT,,,1,,332.0,0.0,0.0,356.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Bahrain - McLaren,2.Pro,122.0,0.0,1,,165.0,,,185.0
+2021-04-18,2021,amstel-gold-race,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,123.0
+2021-04-14,2021,brabantse-pijl,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,73.0
+2021-08-29,2021,bretagne-classic,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,16.0
+2021-08-01,2021,circuito-de-getxo,gc,Bahrain - Victorious,1.1,,,1,,0.0,,,73.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,20.0
+2021-08-26,2021,deutschland-tour,gc,Bahrain - Victorious,2.Pro,,0,0,,175.0,,,210.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,25.0
+2021-03-26,2021,e3-harelbeke,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,78.0
+2021-09-19,2021,eschborn-frankfurt,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,60.0
+2021-03-28,2021,gent-wevelgem,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,295.0
+2021-05-08,2021,giro-d-italia,gc,Bahrain - Victorious,2.UWT,,0,0,,764.0,20.0,0.0,1044.0
+2021-05-08,2021,giro-d-italia,kom,Bahrain - Victorious,2.UWT,,0,0,,764.0,20.0,0.0,1044.0
+2021-05-08,2021,giro-d-italia,points,Bahrain - Victorious,2.UWT,,0,0,,764.0,20.0,0.0,1044.0
+2021-09-15,2021,giro-di-toscana,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,10.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,163.0
+2021-03-07,2021,gp-industria-artigianato,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,150.0
+2021-10-07,2021,gran-piemonte,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,5.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,125.0
+2021-10-09,2021,il-lombardia,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,10.0
+2021-04-05,2021,itzulia-basque-country,gc,Bahrain - Victorious,2.UWT,,0,0,,256.0,,,276.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,81.0
+2021-04-21,2021,la-fleche-wallonne,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,54.0
+2021-04-25,2021,liege-bastogne-liege,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,125.0
+2021-09-18,2021,memorial-marco-pantani,gc,Bahrain - Victorious,1.1,,0,0,,0.0,,,131.0
+2021-03-20,2021,milano-sanremo,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,200.0
+2021-06-20,2021,nc-austria2,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,75.0
+2021-06-20,2021,nc-belgium,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-colombia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-colombia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,3.0
+2021-10-14,2021,nc-great-britain-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,15.0
+2021-06-20,2021,nc-italy,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,100.0
+2021-06-20,2021,nc-netherlands,gc,Bahrain - Victorious,NC,,,1,,0.0,,,0.0
+2021-06-20,2021,nc-slovenia,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,153.0
+2021-06-17,2021,nc-slovenia-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-spain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,30.0
+2021-06-18,2021,nc-spain-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,10.0
+2021-06-16,2021,nc-switzerland-itt,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,10.0
+2021-10-17,2021,ncgreat-britain,gc,Bahrain - Victorious,NC,,0,0,,0.0,,,75.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,192.0
+2021-03-07,2021,paris-nice,gc,Bahrain - Victorious,2.UWT,,0,0,,265.0,,,265.0
+2021-10-03,2021,paris-roubaix,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,620.0
+2021-08-30,2021,renewi-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,744.0,,,924.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,55.0
+2021-07-31,2021,san-sebastian,gc,Bahrain - Victorious,1.UWT,,,1,,0.0,,,372.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Bahrain - Victorious,2.1,,0,0,,20.0,,,25.0
+2021-03-06,2021,strade-bianche,gc,Bahrain - Victorious,1.UWT,,0,0,,0.0,,,57.0
+2021-03-10,2021,tirreno-adriatico,gc,Bahrain - Victorious,2.UWT,,0,0,,335.0,,,335.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Bahrain - Victorious,2.UWT,,0,0,,260.0,,,515.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Bahrain - Victorious,2.Pro,,0,0,,170.0,,,190.0
+2021-06-26,2021,tour-de-france,gc,Bahrain - Victorious,2.UWT,,0,0,,400.0,50.0,25.0,885.0
+2021-06-26,2021,tour-de-france,kom,Bahrain - Victorious,2.UWT,,0,0,,400.0,50.0,25.0,885.0
+2021-06-26,2021,tour-de-france,points,Bahrain - Victorious,2.UWT,,0,0,,400.0,50.0,25.0,885.0
+2021-05-12,2021,tour-de-hongrie,gc,Bahrain - Victorious,2.1,,0,0,,20.0,,,54.0
+2021-08-09,2021,tour-de-pologne,gc,Bahrain - Victorious,2.UWT,91.0,0.0,1,,420.0,,,526.0
+2021-04-27,2021,tour-de-romandie,gc,Bahrain - Victorious,2.UWT,,0,0,,130.0,,,215.0
+2021-06-06,2021,tour-de-suisse,gc,Bahrain - Victorious,2.UWT,,0,0,,73.0,,,163.0
+2021-09-28,2021,tour-of-croatia,gc,Bahrain - Victorious,2.1,,0,0,,130.0,,,163.0
+2021-06-09,2021,tour-of-slovenia,gc,Bahrain - Victorious,2.Pro,113.0,0.0,1,,65.0,,,130.0
+2021-04-19,2021,tour-of-the-alps,gc,Bahrain - Victorious,2.Pro,,0,0,,155.0,,,175.0
+2021-03-03,2021,trofeo-laigueglia,gc,Bahrain - Victorious,1.Pro,,0,0,,0.0,,,93.0
+2021-02-21,2021,uae-tour,gc,Bahrain - Victorious,2.UWT,,0,0,,132.0,,,138.0
+2021-03-22,2021,volta-a-catalunya,gc,Bahrain - Victorious,2.UWT,,0,0,,40.0,,,60.0
+2021-08-03,2021,vuelta-a-burgos,gc,Bahrain - Victorious,2.Pro,,0,0,,395.0,,,400.0
+2021-08-14,2021,vuelta-a-espana,gc,Bahrain - Victorious,2.UWT,,0,0,,1047.0,0.0,0.0,1207.0
+2021-08-14,2021,vuelta-a-espana,kom,Bahrain - Victorious,2.UWT,,0,0,,1047.0,0.0,0.0,1207.0
+2021-08-14,2021,vuelta-a-espana,points,Bahrain - Victorious,2.UWT,,0,0,,1047.0,0.0,0.0,1207.0
+2022-04-06,2022,circuit-des-ardennes,gc,Leopard Pro Cycling,2.2,,,1,,10.0,,,10.0
+2022-03-13,2022,dorpenomloop-rucphen,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,elfsteden-race,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,3.0
+2022-10-02,2022,famenne-ardenne-classic,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,0.0
+2022-05-08,2022,fleche-ardennaise,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,10.0
+2022-05-25,2022,fleche-du-sud,gc,Leopard Pro Cycling,2.2,,0,0,,0.0,,,7.0
+2022-09-11,2022,gp-de-la-somme,gc,Leopard Pro Cycling,1.2,,,1,,0.0,,,3.0
+2022-08-07,2022,gp-jef-scherens,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,3.0
+2022-03-01,2022,gp-samyn,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2022-08-23,2022,gp-stad-zottegem,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2022-07-24,2022,grand-prix-de-la-ville-de-perenchies,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,5.0
+2022-04-25,2022,le-tour-de-bretagne,gc,Leopard Pro Cycling,2.2,,0,0,,0.0,,,3.0
+2022-06-19,2022,midden-brabant-poort-omloop,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,20.0
+2022-06-26,2022,nc-belgium,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-germany,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-germany-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-luxembourg,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,141.0
+2022-06-24,2022,nc-netherlands,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-netherlands-itt,gc,Leopard Pro Cycling,NC,,0,0,,0.0,,,0.0
+2022-06-09,2022,oberosterreichrundfahrt,gc,Leopard Pro Cycling,2.2,,,1,,0.0,,,1.0
+2022-09-25,2022,paris-chauny-classique,gc,Leopard Pro Cycling,1.1,,,1,,0.0,,,3.0
+2022-06-06,2022,paris-troyes,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,10.0
+2022-05-07,2022,ronde-van-overijssel,gc,Leopard Pro Cycling,1.2,,0,0,,0.0,,,3.0
+2022-05-22,2022,rund-um-koln,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,Leopard Pro Cycling,2.2,,0,0,,15.0,,,22.0
+2022-09-13,2022,tour-de-luxembourg,gc,Leopard Pro Cycling,2.Pro,91.0,0.0,1,,0.0,,,0.0
+2022-09-04,2022,tour-du-doubs,gc,Leopard Pro Cycling,1.1,,0,0,,0.0,,,0.0
+2022-02-10,2022,tour-of-antalya,gc,Leopard Pro Cycling,2.1,,,1,,11.0,,,11.0
+2024-05-14,2024,4-jours-de-dunkerque,gc,TDT - Unibet Cycling Team,2.Pro,,0,0,,65.0,,,65.0
+2024-04-14,2024,amstel-gold-race,gc,TDT - Unibet Cycling Team,1.UWT,,0,0,,0.0,,,5.0
+2024-05-19,2024,antwerp-port-epic,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,33.0
+2024-08-04,2024,arctic-race-of-norway,gc,TDT - Unibet Cycling Team,2.Pro,59.0,0.0,1,,53.0,,,53.0
+2024-04-10,2024,brabantse-pijl,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,8.0
+2024-03-15,2024,bredene-koksijde-classic,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,5.0
+2024-06-02,2024,brussels-cycling-classic,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,0.0
+2024-05-05,2024,circuit-des-xi-villes,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,8.0
+2024-05-29,2024,circuit-franco-belge,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,18.0
+2024-07-25,2024,czech-tour,gc,TDT - Unibet Cycling Team,2.1,60.0,0.0,1,,0.0,,,0.0
+2024-06-23,2024,danish-championships,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,4.0
+2024-03-17,2024,dorpenomloop-rucphen,gc,TDT - Unibet Cycling Team,1.2,,0,0,,0.0,,,20.0
+2024-08-23,2024,druivenkoers-overijse,gc,TDT - Unibet Cycling Team,1.1,,,1,,0.0,,,6.0
+2024-06-08,2024,dwars-door-het-hageland,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,174.0
+2024-10-02,2024,elfsteden-race,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,18.0
+2024-04-28,2024,famenne-ardenne-classic,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,38.0
+2024-04-09,2024,giro-d-abruzzo,gc,TDT - Unibet Cycling Team,2.1,,0,0,,6.0,,,6.0
+2024-09-11,2024,giro-di-toscana,gc,TDT - Unibet Cycling Team,1.1,,,1,,0.0,,,3.0
+2024-09-22,2024,gooikse-pijl,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,0.0
+2024-09-28,2024,gp-cerami,gc,TDT - Unibet Cycling Team,1.2,,0,0,,0.0,,,25.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,93.0
+2024-03-14,2024,gp-de-denain,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,36.0
+2024-09-08,2024,gp-industria-artigianato,gc,TDT - Unibet Cycling Team,1.Pro,,,1,,0.0,,,5.0
+2024-08-15,2024,gp-jef-scherens,gc,TDT - Unibet Cycling Team,1.1,,,1,,0.0,,,13.0
+2024-02-27,2024,gp-samyn,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,15.0
+2024-03-02,2024,grand-prix-criquielion,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,3.0
+2024-03-03,2024,grote-prijs-jean-pierre-monsere,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,3.0
+2024-09-07,2024,grote-prijs-rik-van-looy,gc,TDT - Unibet Cycling Team,1.2,,0,0,,0.0,,,30.0
+2024-09-08,2024,grote-prijs-stad-halle,gc,TDT - Unibet Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-06-01,2024,heist-op-den-berg,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,5.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,3.0
+2024-07-27,2024,kreiz-breizh-elites,gc,TDT - Unibet Cycling Team,2.2,,0,0,,10.0,,,16.0
+2024-10-01,2024,memorial-frank-vandenbroucke,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,0.0
+2024-09-14,2024,memorial-marco-pantani,gc,TDT - Unibet Cycling Team,1.1,,,1,,0.0,,,6.0
+2024-10-03,2024,munsterland-giro,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,23.0
+2024-06-23,2024,nc-belgium,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-belgium-itt,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-czech-republic-itt,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-czech-republic2,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-france,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-06-19,2024,nc-great-britain-itt,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,nc-netherlands,gc,TDT - Unibet Cycling Team,NC,,,1,,0.0,,,5.0
+2024-06-23,2024,ncgreat-britain,gc,TDT - Unibet Cycling Team,NC,,0,0,,0.0,,,0.0
+2024-03-13,2024,nokere-koerse,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,10.0
+2024-06-13,2024,oberosterreichrundfahrt,gc,TDT - Unibet Cycling Team,2.2,47.0,0.0,1,,58.0,,,68.0
+2024-03-20,2024,olympias-tour,gc,TDT - Unibet Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-09-25,2024,omloop-van-het-houtland-lichtervelde,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,28.0
+2024-08-28,2024,renewi-tour,gc,TDT - Unibet Cycling Team,2.UWT,,0,0,,34.0,,,37.0
+2024-05-20,2024,ronde-van-limburg,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,0.0
+2024-05-04,2024,ronde-van-overijssel,gc,TDT - Unibet Cycling Team,1.2,,0,0,,0.0,,,15.0
+2024-05-26,2024,rund-um-koln,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,8.0
+2024-04-03,2024,scheldeprijs,gc,TDT - Unibet Cycling Team,1.Pro,,0,0,,0.0,,,10.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,TDT - Unibet Cycling Team,2.1,85.0,0.0,1,,35.0,,,38.0
+2024-07-06,2024,sibiu-cycling-tour,gc,TDT - Unibet Cycling Team,2.1,35.0,0.0,1,,35.0,,,35.0
+2024-03-02,2024,ster-van-zwolle,gc,TDT - Unibet Cycling Team,1.2,,0,0,,0.0,,,58.0
+2024-05-08,2024,tour-de-hongrie,gc,TDT - Unibet Cycling Team,2.Pro,,0,0,,23.0,,,33.0
+2024-09-18,2024,tour-de-luxembourg,gc,TDT - Unibet Cycling Team,2.Pro,,0,0,,10.0,,,10.0
+2024-08-20,2024,tour-du-poitou-charentes-et-de-la-vienne,gc,TDT - Unibet Cycling Team,2.1,,0,0,,0.0,,,3.0
+2024-02-08,2024,tour-of-antalya,gc,TDT - Unibet Cycling Team,2.1,,0,0,,36.0,,,50.0
+2024-07-02,2024,tour-of-austria,gc,TDT - Unibet Cycling Team,2.1,,0,0,,43.0,,,46.0
+2024-06-12,2024,tour-of-belgium,gc,TDT - Unibet Cycling Team,2.Pro,,0,0,,5.0,,,5.0
+2024-10-01,2024,tour-of-croatia,gc,TDT - Unibet Cycling Team,2.1,,0,0,,3.0,,,3.0
+2024-08-15,2024,tour-of-denmark,gc,TDT - Unibet Cycling Team,2.Pro,,0,0,,40.0,,,40.0
+2024-05-23,2024,tour-of-norway,gc,TDT - Unibet Cycling Team,2.Pro,,0,0,,20.0,,,20.0
+2024-04-15,2024,tour-of-the-alps,gc,TDT - Unibet Cycling Team,2.Pro,,,1,,0.0,,,0.0
+2024-04-21,2024,tour-of-turkey,gc,TDT - Unibet Cycling Team,2.Pro,,0,0,,70.0,,,80.0
+2024-05-18,2024,veenendaal-veenendaal,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,5.0
+2024-03-30,2024,volta-nxt-classic,gc,TDT - Unibet Cycling Team,1.1,,0,0,,0.0,,,46.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Unibet Tietema Rockets,2.Pro,,0,0,,13.0,,,16.0
+2025-04-20,2025,amstel-gold-race,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,10.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-06-09,2025,antwerp-port-epic,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,13.0
+2025-08-07,2025,arctic-race-of-norway,gc,Unibet Tietema Rockets,2.Pro,83.0,0.0,1,,5.0,,,5.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,41.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Unibet Tietema Rockets,2.Pro,,0,0,,8.0,,,-7.0
+2025-04-18,2025,brabantse-pijl,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,-7.0
+2025-06-08,2025,brussels-cycling-classic,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,16.0
+2025-03-23,2025,cholet-pays-de-loire,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,185.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,3.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,23.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,30.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,50.0
+2025-02-21,2025,classic-var,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-05-13,2025,classique-dunkerque,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,23.0
+2025-06-22,2025,copenhagen-sprint,gc,Unibet Tietema Rockets,1.UWT,,,1,,0.0,,,29.0
+2025-06-29,2025,danish-championships,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-01-31,2025,deia-trophy,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,0.0
+2025-06-14,2025,dwars-door-het-hageland,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,10.0
+2025-02-05,2025,etoile-de-besseges,gc,Unibet Tietema Rockets,2.1,,0,0,,0.0,,,0.0
+2025-05-04,2025,famenne-ardenne-classic,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,25.0
+2025-03-01,2025,faun-ardeche-classic,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,5.0
+2025-09-10,2025,giro-di-toscana,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,0.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,5.0
+2025-09-21,2025,gp-d-isbergues,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,20.0
+2025-02-02,2025,gp-d-ouverture,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,6.0
+2025-03-20,2025,gp-de-denain,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,70.0
+2025-09-14,2025,gp-de-fourmies,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,13.0
+2025-05-10,2025,gp-de-plumelec,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,10.0
+2025-09-07,2025,gp-industria-artigianato,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,15.0
+2025-03-04,2025,gp-samyn,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,23.0
+2025-10-09,2025,gran-piemonte,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,5.0
+2025-03-08,2025,grand-prix-criquielion,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,25.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-06-07,2025,heist-op-den-berg,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,6.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,3.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,43.0
+2025-03-02,2025,la-drome-classic,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,5.0
+2025-08-17,2025,la-poly-normande,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,0.0
+2025-03-30,2025,la-roue-tourangelle,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,6.0
+2025-06-18,2025,la-route-d-occitanie,gc,Unibet Tietema Rockets,2.1,,0,0,,30.0,,,30.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,33.0
+2025-09-13,2025,memorial-marco-pantani,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-05-26,2025,mercan-tour-classic-alpes-maritimes,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,63.0
+2025-03-19,2025,milano-torino,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,3.0
+2025-10-03,2025,munsterland-giro,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,91.0
+2025-08-27,2025,muur-classic-geraardsbergen,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,63.0
+2025-06-29,2025,nc-belgium,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-czech-republic-itt,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-czech-republic2,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-france,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-28,2025,nc-netherlands,gc,Unibet Tietema Rockets,NC,,,1,,0.0,,,30.0
+2025-06-24,2025,nc-netherlands-itt,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-slovakia,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,100.0
+2025-06-26,2025,nc-slovakia-itt,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,30.0
+2025-03-19,2025,nokere-koerse,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,51.0
+2025-09-17,2025,okolo-slovenska,gc,Unibet Tietema Rockets,2.1,,0,0,,50.0,,,70.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,120.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,33.0
+2025-04-02,2025,paris-camembert,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,128.0
+2025-09-28,2025,paris-chauny-classique,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,70.0
+2025-04-13,2025,paris-roubaix,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,70.0
+2025-10-12,2025,paris-tours,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,18.0
+2025-07-25,2025,prueba-villafranca,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-04-08,2025,region-pays-de-la-loire,gc,Unibet Tietema Rockets,2.1,,0,0,,40.0,,,40.0
+2025-08-20,2025,renewi-tour,gc,Unibet Tietema Rockets,2.UWT,,0,0,,32.0,,,32.0
+2025-04-16,2025,ronde-van-limburg,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,0.0
+2025-04-04,2025,route-adelie-de-vitre,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,20.0
+2025-02-19,2025,ruta-del-sol,gc,Unibet Tietema Rockets,2.Pro,,0,0,,10.0,,,15.0
+2025-04-09,2025,scheldeprijs,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,0.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Unibet Tietema Rockets,2.1,,0,0,,35.0,,,35.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Unibet Tietema Rockets,2.1,,0,0,,70.0,,,81.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,Unibet Tietema Rockets,2.1,,0,0,,53.0,,,58.0
+2025-05-14,2025,tour-de-hongrie,gc,Unibet Tietema Rockets,2.Pro,,0,0,,60.0,,,60.0
+2025-08-06,2025,tour-de-l-ain,gc,Unibet Tietema Rockets,2.1,,0,0,,15.0,,,15.0
+2025-09-28,2025,tour-de-langkawi,gc,Unibet Tietema Rockets,2.Pro,,0,0,,98.0,,,121.0
+2025-03-16,2025,tour-de-taiwan,gc,Unibet Tietema Rockets,2.1,,0,0,,5.0,,,10.0
+2025-10-11,2025,tour-de-vendee,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,45.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,Unibet Tietema Rockets,2.1,,0,0,,6.0,,,6.0
+2025-04-20,2025,tour-du-doubs,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,85.0
+2025-05-09,2025,tour-du-finistere,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,35.0
+2025-08-19,2025,tour-du-limousin,gc,Unibet Tietema Rockets,2.1,,0,0,,8.0,,,8.0
+2025-08-26,2025,tour-du-poitou-charentes-et-de-la-vienne,gc,Unibet Tietema Rockets,2.1,,0,0,,8.0,,,11.0
+2025-07-09,2025,tour-of-austria,gc,Unibet Tietema Rockets,2.1,,,1,,5.0,,,5.0
+2025-06-18,2025,tour-of-belgium,gc,Unibet Tietema Rockets,2.Pro,,0,0,,15.0,,,15.0
+2025-09-02,2025,tour-of-britain,gc,Unibet Tietema Rockets,2.Pro,,0,0,,11.0,,,11.0
+2025-08-12,2025,tour-of-denmark,gc,Unibet Tietema Rockets,2.Pro,,0,0,,110.0,,,110.0
+2025-04-02,2025,tour-of-hellas,gc,Unibet Tietema Rockets,2.1,,0,0,,86.0,,,85.0
+2025-10-14,2025,tour-of-holland,gc,Unibet Tietema Rockets,2.1,,0,0,,118.0,,,121.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Unibet Tietema Rockets,2.Pro,,0,0,,18.0,,,21.0
+2025-05-29,2025,tour-of-norway,gc,Unibet Tietema Rockets,2.Pro,,0,0,,19.0,,,4.0
+2025-06-04,2025,tour-of-slovenia,gc,Unibet Tietema Rockets,2.Pro,,0,0,,20.0,,,20.0
+2025-04-27,2025,tour-of-turkey,gc,Unibet Tietema Rockets,2.Pro,,0,0,,93.0,,,121.0
+2025-05-11,2025,tro-bro-leon,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,13.0
+2025-10-12,2025,trofeo-baracchi,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,3.0
+2025-01-29,2025,trofeo-calvia,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,8.0
+2025-03-05,2025,trofeo-laigueglia,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,94.0
+2025-09-14,2025,trofeo-matteotti,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-02-02,2025,trofeo-palma,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,10.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,38.0
+2025-04-05,2025,volta-nxt-classic,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,61.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,66.0

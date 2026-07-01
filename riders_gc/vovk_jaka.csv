@@ -1,0 +1,47 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-07-04,2021,giro-del-medio-brenta,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,KK Kranj,2.2,,0,0,,0.0,,,0.0
+2021-03-28,2021,gp-adria-mobil,gc,KK Kranj,1.2,,0,0,,0.0,,,0.0
+2021-03-21,2021,gp-izola-butan-plin,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-07-25,2021,gp-kranj,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-05-30,2021,gp-slovenia,gc,KK Kranj,1.2,,0,0,,0.0,,,0.0
+2021-03-11,2021,istrian-spring-tour,gc,KK Kranj,2.2,,0,0,,3.0,,,3.0
+2021-03-07,2021,porec-trophy,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2021-09-09,2021,tour-de-serbie,gc,KK Kranj,2.2,59.0,0.0,1,,3.0,,,3.0
+2021-03-03,2021,trofej-umag,gc,KK Kranj,1.2,,,1,,0.0,,,0.0
+2022-04-14,2022,banja-luka-belgrade-i,gc,Cycling Team Kranj,2.1,78.0,0.0,1,,0.0,,,0.0
+2022-07-03,2022,giro-del-medio-brenta,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Cycling Team Kranj,2.2,45.0,0.0,1,,0.0,,,0.0
+2022-03-27,2022,gp-adria-mobil,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2022-07-16,2022,gp-cycliste-de-gemenc,gc,Cycling Team Kranj,2.2,,0,0,,3.0,,,3.0
+2022-05-22,2022,gp-gorenjska,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2022-03-24,2022,gp-goriska-vipava-valley,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2022-03-20,2022,gp-izola-butan-plin,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2022-07-24,2022,gp-kranj,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Cycling Team Kranj,2.2,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-serbia,gc,Cycling Team Kranj,NC,,0,0,,0.0,,,30.0
+2022-06-24,2022,nc-serbia-itt,gc,Cycling Team Kranj,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-slovenia,gc,Cycling Team Kranj,NC,,,1,,0.0,,,6.0
+2022-06-23,2022,nc-slovenia-itt,gc,Cycling Team Kranj,NC,,0,0,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2022-09-14,2022,tour-de-serbie,gc,Cycling Team Kranj,2.2,5.0,15.0,1,,15.0,,,15.0
+2022-06-15,2022,tour-of-slovenia,gc,Cycling Team Kranj,2.Pro,104.0,0.0,1,,0.0,,,0.0
+2022-03-02,2022,trofej-umag,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2023-04-19,2023,banja-luka-belgrade-i,gc,Cycling Team Kranj,2.2,97.0,0.0,1,,0.0,,,0.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Cycling Team Kranj,2.2,88.0,0.0,1,,0.0,,,0.0
+2023-03-26,2023,gp-adria-mobil,gc,Cycling Team Kranj,1.2,,0,0,,0.0,,,0.0
+2023-05-21,2023,gp-gorenjska,gc,Cycling Team Kranj,1.2,,0,0,,0.0,,,0.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Cycling Team Kranj,1.2,,0,0,,0.0,,,0.0
+2023-07-23,2023,gp-kranj,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,Cycling Team Kranj,2.2,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-serbia,gc,Cycling Team Kranj,NC,,0,0,,0.0,,,50.0
+2023-06-23,2023,nc-serbia-itt,gc,Cycling Team Kranj,NC,,0,0,,0.0,,,15.0
+2023-06-25,2023,nc-slovenia,gc,Cycling Team Kranj,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-slovenia-itt,gc,Cycling Team Kranj,NC,,,1,,0.0,,,4.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Cycling Team Kranj,2.2,39.0,0.0,1,,0.0,,,0.0
+2023-03-05,2023,porec-trophy,gc,Cycling Team Kranj,1.2,,,1,,0.0,,,0.0
+2023-06-14,2023,tour-of-slovenia,gc,Cycling Team Kranj,2.Pro,100.0,0.0,1,,0.0,,,0.0
+2023-03-01,2023,trofej-umag,gc,Cycling Team Kranj,1.2,,0,0,,0.0,,,0.0

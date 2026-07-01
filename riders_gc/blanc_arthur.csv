@@ -1,0 +1,43 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-03-28,2021,cholet-pays-de-loire,gc,Swiss Racing Academy,1.1,,0,0,,0.0,,,40.0
+2021-10-07,2021,circuit-des-ardennes,gc,Swiss Racing Academy,2.2,55.0,0.0,1,,0.0,,,3.0
+2021-09-03,2021,classic-grand-besancon-doubs,gc,Swiss Racing Academy,1.1,,,1,,0.0,,,0.0
+2021-02-27,2021,faun-ardeche-classic,gc,Swiss Racing Academy,1.Pro,,0,0,,0.0,,,0.0
+2021-06-03,2021,giro-ciclistico-d-italia,gc,Swiss Racing Academy,2.2,,0,0,,5.0,,,19.0
+2021-09-19,2021,gp-d-isbergues,gc,Swiss Racing Academy,1.1,,0,0,,0.0,,,0.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Swiss Racing Academy,1.1,,0,0,,0.0,,,5.0
+2021-06-27,2021,gp-lugano,gc,Swiss Racing Academy,1.1,,0,0,,0.0,,,0.0
+2021-04-25,2021,gran-premio-della-liberazione,gc,Swiss Racing Academy,1.2U,,0,0,,0.0,,,0.0
+2021-07-31,2021,kreiz-breizh-elites,gc,Swiss Racing Academy,2.2,,0,0,,0.0,,,0.0
+2021-02-28,2021,la-drome-classic,gc,Swiss Racing Academy,1.Pro,,0,0,,0.0,,,0.0
+2021-08-15,2021,la-poly-normande,gc,Swiss Racing Academy,1.1,,,1,,0.0,,,0.0
+2021-04-04,2021,la-roue-tourangelle,gc,Swiss Racing Academy,1.1,,0,0,,0.0,,,3.0
+2021-09-20,2021,le-tour-de-bretagne,gc,Swiss Racing Academy,2.2,99.0,0.0,1,,5.0,,,5.0
+2021-06-20,2021,nc-france,gc,Swiss Racing Academy,NC,,0,0,,0.0,,,0.0
+2021-02-14,2021,nc-new-zealand,gc,Swiss Racing Academy,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-switserland,gc,Swiss Racing Academy,NC,,0,0,,0.0,,,52.0
+2021-06-16,2021,nc-switzerland-itt,gc,Swiss Racing Academy,NC,,0,0,,0.0,,,23.0
+2021-03-14,2021,paris-troyes,gc,Swiss Racing Academy,1.2,,0,0,,0.0,,,0.0
+2021-05-19,2021,rhone-alpes-isere-tour,gc,Swiss Racing Academy,2.2,,0,0,,0.0,,,0.0
+2021-07-22,2021,tour-alsace,gc,Swiss Racing Academy,2.2,,0,0,,0.0,,,0.0
+2021-05-14,2021,tour-d-eure-et-loir,gc,Swiss Racing Academy,2.2,,0,0,,15.0,,,15.0
+2021-05-27,2021,tour-de-la-mirabelle,gc,Swiss Racing Academy,2.2,,0,0,,15.0,,,18.0
+2021-02-19,2021,tour-des-alpes-maritimes,gc,Swiss Racing Academy,2.1,,0,0,,0.0,,,0.0
+2021-08-04,2021,tour-des-pays-de-savoie,gc,Swiss Racing Academy,2.2,38.0,0.0,1,,0.0,,,6.0
+2021-09-05,2021,tour-du-doubs,gc,Swiss Racing Academy,1.1,,0,0,,0.0,,,3.0
+2021-09-04,2021,tour-du-jura-cycliste,gc,Swiss Racing Academy,1.1,,,1,,0.0,,,0.0
+2022-08-06,2022,la-maurienne,gc,Bourg-en-Bresse Ain Cyclisme,1.2,,,1,,0.0,,,15.0
+2022-06-06,2022,paris-troyes,gc,Bourg-en-Bresse Ain Cyclisme,1.2,,0,0,,0.0,,,0.0
+2022-05-25,2022,rhone-alpes-isere-tour,gc,Bourg-en-Bresse Ain Cyclisme,2.2,,0,0,,0.0,,,0.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Bourg-en-Bresse Ain Cyclisme,2.2,41.0,0.0,1,,0.0,,,1.0
+2022-06-17,2022,tour-du-pays-de-montbeliard,gc,Bourg-en-Bresse Ain Cyclisme,2.2,,0,0,,0.0,,,0.0
+2024-04-28,2024,gp-de-la-somme,gc,Hexagone - Corbas Lyon Métropole,1.2,,0,0,,0.0,,,25.0
+2024-06-20,2024,nc-france-itt,gc,Hexagone - Corbas Lyon Métropole,NC,,0,0,,0.0,,,3.0
+2024-05-20,2024,paris-troyes,gc,Hexagone - Corbas Lyon Métropole,1.2,,0,0,,0.0,,,0.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,Hexagone - Corbas Lyon Métropole,2.2,24.0,0.0,1,,0.0,,,0.0
+2025-08-31,2025,gp-de-la-somme,gc,Hexagone - Corbas Lyon Métropole,1.2,,0,0,,0.0,,,15.0
+2025-06-26,2025,nc-france-itt,gc,Hexagone - Corbas Lyon Métropole,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-norway,gc,Hexagone - Corbas Lyon Métropole,NC,,0,0,,0.0,,,0.0
+2025-06-09,2025,paris-troyes,gc,Hexagone - Corbas Lyon Métropole,1.2,,0,0,,0.0,,,0.0
+2025-05-28,2025,rhone-alpes-isere-tour,gc,Hexagone - Corbas Lyon Métropole,2.2,18.0,0.0,1,,0.0,,,0.0
+2025-09-26,2025,tour-de-la-mirabelle,gc,Hexagone - Corbas Lyon Métropole,1.2,,0,0,,0.0,,,10.0

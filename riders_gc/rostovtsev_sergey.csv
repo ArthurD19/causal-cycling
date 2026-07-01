@@ -1,0 +1,153 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-05-05,2017,five-rings-of-moscow,gc,Marathon-tula Cycling Team,2.2,5.0,15.0,1,,18.0,,,31.0
+2017-05-05,2017,five-rings-of-moscow,gc,Russia,2.2,,0,0,,70.0,,,84.0
+2017-05-24,2017,fleche-du-sud,gc,Russia,2.2,,0,0,,0.0,,,7.0
+2017-07-12,2017,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Russia,2.2U,,0,0,,4.0,,,4.0
+2017-04-09,2017,giro-dell-appennino,gc,Russia,1.1,,0,0,,0.0,,,10.0
+2017-06-07,2017,okolo-slovenska,gc,Russia,2.1,110.0,0.0,1,,0.0,,,0.0
+2017-03-26,2017,tour-de-taiwan,gc,Russia,2.1,,0,0,,3.0,,,3.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,Russia,CC,,0,0,,0.0,,,0.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Russia,CC,,0,0,,0.0,,,10.0
+2017-02-27,2017,vuelta-independencia-nacional,gc,Russia,2.2,,0,0,,0.0,,,1.0
+2017-12-18,2017,vuelta-internacional-a-costa-rica,gc,Russia,2.2,,0,0,,0.0,,,0.0
+2017-09-24,2017,world-championship,gc,Russia,WC,,0,0,,0.0,,,85.0
+2017-09-20,2017,world-championship-itt,gc,Russia,WC,,0,0,,0.0,,,15.0
+2019-06-23,2019,european-games,gc,Russia,JC,,0,0,,0.0,,,1.0
+2019-06-25,2019,european-games-itt,gc,Russia,JC,,0,0,,0.0,,,15.0
+2019-09-05,2019,giro-della-regione-friuli-venezia-giulia,gc,Russia,2.2,,0,0,,0.0,,,0.0
+2019-07-21,2019,tokyo-2020-test-event,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2019-02-21,2019,tour-of-antalya,gc,Russia,2.2,,0,0,,0.0,,,0.0
+2019-05-23,2019,tour-of-estonia,gc,Russia,2.1,,0,0,,3.0,,,3.0
+2019-11-17,2019,tour-of-fuzhou,gc,Russia,2.1,,0,0,,35.0,,,69.0
+2019-09-11,2019,turul-romaniei,gc,Russia,2.1,,,1,,6.0,,,6.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Russia,CC,,0,0,,0.0,,,0.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Russia,CC,,0,0,,0.0,,,0.0
+2019-12-16,2019,vuelta-internacional-a-costa-rica,gc,Russia,2.2,,0,0,,3.0,,,4.0
+2019-09-29,2019,world-championship,gc,Russia,WC,,0,0,,0.0,,,0.0
+2019-09-25,2019,world-championship-itt,gc,Russia,WC,,0,0,,0.0,,,0.0
+2020-02-12,2020,colombia-21,gc,Russia,2.1,,0,0,,0.0,,,0.0
+2020-02-16,2020,gp-antalya,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,60.0
+2020-02-16,2020,gp-antalya,gc,Minsk Cycling Club,1.2,,0,0,,0.0,,,25.0
+2020-02-16,2020,gp-antalya,gc,Russia,1.2,,0,0,,0.0,,,10.0
+2020-01-25,2020,gp-belek,gc,Minsk Cycling Club,1.2,,0,0,,0.0,,,40.0
+2020-02-09,2020,gp-manavgat,gc,Marathon-Tula Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-09,2020,gp-manavgat,gc,Minsk Cycling Club,1.2,,0,0,,0.0,,,63.0
+2020-02-09,2020,gp-manavgat,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,3.0
+2020-02-13,2020,grand-prix-alanya,gc,Minsk Cycling Club,1.2,,0,0,,0.0,,,0.0
+2020-02-13,2020,grand-prix-alanya,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,15.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-09-04,2020,grand-prix-cappadocia,gc,Russia,1.2,,0,0,,0.0,,,40.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Russia,1.2,,,1,,0.0,,,23.0
+2020-09-15,2020,grand-prix-central-anatolia,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,3.0
+2020-09-03,2020,grand-prix-develi,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,0.0
+2020-09-03,2020,grand-prix-develi,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-09-03,2020,grand-prix-develi,gc,Russia,1.2,,0,0,,0.0,,,3.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Minsk Cycling Club,1.2,,0,0,,0.0,,,35.0
+2020-02-14,2020,grand-prix-gazipasa,gc,Russia,1.2,,0,0,,0.0,,,40.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Minsk Cycling Club,1.2,,,1,,0.0,,,20.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,10.0
+2020-03-01,2020,grand-prix-manavgat-side,gc,Russia,1.2,,0,0,,0.0,,,5.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,15.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Russia,1.2,,0,0,,0.0,,,70.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Minsk Cycling Club,1.2,,,1,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Justiniano Hotels - Velo Alanya,1.2,,0,0,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,0.0
+2020-02-29,2020,grand-prix-velo-alanya,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Russia,1.2,,,1,,0.0,,,3.0
+2020-09-14,2020,grand-prix-velo-erciyes-me,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,3.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Justiniano Hotels - Velo Alanya,1.2,,,1,,0.0,,,30.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Marathon-Tula Cycling Team,1.2,,0,0,,0.0,,,10.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Russia,1.2,,0,0,,0.0,,,20.0
+2020-07-26,2020,nc-belarus,gc,Minsk Cycling Club,NC,,0,0,,0.0,,,281.0
+2020-07-24,2020,nc-belarus-itt,gc,Minsk Cycling Club,NC,,0,0,,0.0,,,112.0
+2020-08-16,2020,nc-russia,gc,Minsk Cycling Club,NC,,,1,,0.0,,,30.0
+2020-08-13,2020,nc-russia-itt,gc,Minsk Cycling Club,NC,,,1,,0.0,,,0.0
+2020-02-20,2020,tour-of-antalya,gc,Minsk Cycling Club,2.1,,0,0,,0.0,,,0.0
+2020-02-20,2020,tour-of-antalya,gc,Russia,2.1,,0,0,,0.0,,,0.0
+2020-09-26,2020,tour-of-mevlana,gc,Marathon-Tula Cycling Team,2.2,20.0,0.0,1,,90.0,,,108.0
+2020-08-24,2020,uec-road-european-championships-itt,gc,Russia,CC,,0,0,,0.0,,,0.0
+2020-08-26,2020,uec-road-european-championships-me,gc,Russia,CC,,0,0,,0.0,,,16.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Russia,2.Pro,147.0,0.0,1,,5.0,,,5.0
+2020-09-27,2020,world-championship,gc,Russia,WC,,0,0,,0.0,,,0.0
+2020-09-25,2020,world-championship-itt,gc,Russia,WC,,0,0,,0.0,,,0.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Russia,1.2,,0,0,,0.0,,,60.0
+2021-06-09,2021,five-rings-of-moscow,gc,Russia,2.2,30.0,0.0,1,,5.0,,,26.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,Russia,2.2,,0,0,,5.0,,,5.0
+2021-02-06,2021,grand-prix-alanya,gc,Russia,1.2,,,1,,0.0,,,0.0
+2021-02-07,2021,grand-prix-gazipasa,gc,Russia,1.2,,,1,,0.0,,,0.0
+2021-03-07,2021,grand-prix-gundogmus-me,gc,Russia,1.2,,,1,,0.0,,,0.0
+2021-02-20,2021,grand-prix-manavgat-side,gc,Russia,1.2,,,1,,0.0,,,0.0
+2021-03-06,2021,grand-prix-mediterrennean,gc,Russia,1.2,,,1,,0.0,,,3.0
+2021-02-21,2021,grand-prix-velo-alanya,gc,Russia,1.2,,,1,,0.0,,,0.0
+2021-04-01,2021,tour-of-mevlana,gc,Russia,2.2,67.0,0.0,1,,0.0,,,0.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Russia,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Russia,CC,,0,0,,0.0,,,70.0
+2021-09-26,2021,world-championship,gc,Russia,WC,,0,0,,0.0,,,10.0
+2021-09-19,2021,world-championship-itt,gc,Russia,WC,,0,0,,0.0,,,0.0
+2022-02-05,2022,grand-prix-alanya,gc,Vozrozhdenie,1.2,,,1,,0.0,,,0.0
+2022-07-23,2022,grand-prix-erciyes-mimar-sinan-me,gc,Cycling Sport Club Olymp,1.2,,,1,,0.0,,,0.0
+2022-03-05,2022,grand-prix-gazipasa,gc,Cycling Sport Club Olymp,1.2,,,1,,0.0,,,20.0
+2022-03-20,2022,grand-prix-gundogmus-me,gc,Cycling Sport Club Olymp,1.2,,,1,,0.0,,,0.0
+2022-02-20,2022,grand-prix-justiniano-hotels,gc,Vozrozhdenie,1.2,,,1,,0.0,,,25.0
+2022-07-24,2022,grand-prix-kayseri-me,gc,Cycling Sport Club Olymp,1.2,,,1,,0.0,,,0.0
+2022-03-19,2022,grand-prix-manavgat-side,gc,Cycling Sport Club Olymp,1.2,,,1,,0.0,,,40.0
+2022-03-06,2022,grand-prix-mediterrennean,gc,Cycling Sport Club Olymp,1.2,,,1,,0.0,,,20.0
+2022-01-30,2022,grand-prix-megasaray,gc,Vozrozhdenie,1.2,,,1,,0.0,,,20.0
+2022-02-19,2022,grand-prix-velo-alanya,gc,Vozrozhdenie,1.2,,0,0,,0.0,,,15.0
+2022-07-31,2022,grand-prix-yahyali,gc,Cycling Sport Club Olymp,1.2,,,1,,0.0,,,10.0
+2023-08-01,2023,100th-anniversary-tour-of-the-republic,gc,Beykoz Belediyesi Spor Kulübü,2.2,38.0,0.0,1,,65.0,,,77.0
+2023-03-04,2023,alanya-cup,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,15.0
+2023-06-11,2023,courts-mammouth-classique-de-l-ile-maurice,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,45.0
+2023-03-17,2023,gp-de-la-ville-d-alger,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,3.0
+2023-07-30,2023,grand-prix-altinkale,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,53.0
+2023-02-04,2023,grand-prix-apollon-temple-me,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,43.0
+2023-09-08,2023,grand-prix-boukraa,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,60.0
+2023-09-10,2023,grand-prix-el-marsa,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,40.0
+2023-07-08,2023,grand-prix-erciyes-mimar-sinan-me,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,51.0
+2023-09-09,2023,grand-prix-es-semara,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,5.0
+2023-08-19,2023,grand-prix-kaisareiame,gc,Beykoz Belediyesi Spor Kulübü,1.2,,0,0,,0.0,,,43.0
+2023-01-23,2023,la-tropicale-amissa-bongo,gc,Beykoz Belediyesi Spor Kulübü,2.1,29.0,0.0,1,,60.0,,,63.0
+2023-02-05,2023,nc-colombia,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-eritrea,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,30.0
+2023-06-23,2023,nc-turkey,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,10.0
+2023-06-24,2023,nc-turkey-itt,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,20.0
+2023-06-18,2023,nc-ukraine,gc,Beykoz Belediyesi Spor Kulübü,NC,,0,0,,0.0,,,20.0
+2023-06-06,2023,skoda-tour-de-maurice,gc,Beykoz Belediyesi Spor Kulübü,2.2,22.0,0.0,1,,0.0,,,12.0
+2023-03-26,2023,syedra-ancient-city,gc,Beykoz Belediyesi Spor Kulübü,1.2,,,1,,0.0,,,8.0
+2023-03-07,2023,tour-d-algerie-cycliste,gc,Beykoz Belediyesi Spor Kulübü,2.2,,,1,,3.0,,,8.0
+2023-09-28,2023,tour-of-istanbul,gc,Beykoz Belediyesi Spor Kulübü,2.2,,,1,,0.0,,,0.0
+2023-05-17,2023,tour-of-konya,gc,Beykoz Belediyesi Spor Kulübü,2.2,,0,0,,3.0,,,3.0
+2023-10-08,2023,tour-of-turkey,gc,Beykoz Belediyesi Spor Kulübü,2.1,119.0,0.0,1,,3.0,,,3.0
+2023-09-07,2023,tour-of-van,gc,Beykoz Belediyesi Spor Kulübü,2.2,,0,0,,20.0,,,18.0
+2023-08-25,2023,tour-of-yigido,gc,Beykoz Belediyesi Spor Kulübü,2.2,20.0,0.0,1,,48.0,,,63.0
+2024-02-25,2024,alanya-cup,gc,Sakarya BB Pro Team,1.2,,,1,,0.0,,,10.0
+2024-01-27,2024,gp-antalya,gc,Sakarya BB Pro Team,1.2,,,1,,0.0,,,3.0
+2024-07-13,2024,grand-prix-altinkale,gc,Sakarya BB Pro Team,1.2,,0,0,,0.0,,,15.0
+2024-02-03,2024,grand-prix-apollon-temple-me,gc,Sakarya BB Pro Team,1.2,,,1,,0.0,,,28.0
+2024-07-06,2024,grand-prix-erciyes-mimar-sinan-me,gc,Sakarya BB Pro Team,1.2,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-azerbaijan,gc,Sakarya BB Pro Team,NC,,0,0,,0.0,,,65.0
+2024-06-21,2024,nc-azerbaijan-itt,gc,Sakarya BB Pro Team,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-turkey,gc,Sakarya BB Pro Team,NC,,0,0,,0.0,,,20.0
+2024-06-21,2024,nc-turkey-itt,gc,Sakarya BB Pro Team,NC,,0,0,,0.0,,,5.0
+2024-03-02,2024,syedra-ancient-city,gc,Sakarya BB Pro Team,1.2,,,1,,0.0,,,8.0
+2024-02-08,2024,tour-of-antalya,gc,Sakarya BB Pro Team,2.1,,,1,,0.0,,,0.0
+2024-05-16,2024,tour-of-konya,gc,Sakarya BB Pro Team,2.2,,0,0,,3.0,,,12.0
+2024-04-04,2024,tour-of-mersin,gc,Sakarya BB Pro Team,2.2,129.0,0.0,1,,0.0,,,7.0
+2024-04-21,2024,tour-of-turkey,gc,Sakarya BB Pro Team,2.Pro,148.0,0.0,1,,5.0,,,-7.0
+2025-06-22,2025,nc-hong-kong,gc,Shenzhen Kung Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-08-30,2025,nc-israel,gc,Shenzhen Kung Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-kazakhstan,gc,Shenzhen Kung Cycling Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-mongolia,gc,Shenzhen Kung Cycling Team,NC,,0,0,,0.0,,,3.0
+2025-06-27,2025,nc-mongolia-itt,gc,Shenzhen Kung Cycling Team,NC,,0,0,,0.0,,,3.0
+2025-04-07,2025,tour-of-hainan,gc,Shenzhen Kung Cycling Team,2.Pro,,,1,,5.0,,,5.0
+2025-09-19,2025,tour-of-huangshan,gc,Shenzhen Kung Cycling Team,2.1,,0,0,,0.0,,,0.0
+2025-10-12,2025,tour-of-mentougou,gc,Shenzhen Kung Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-09-15,2025,tour-of-poyang-lake,gc,Shenzhen Kung Cycling Team,2.2,65.0,0.0,1,,0.0,,,5.0
+2025-09-05,2025,tour-of-shanghai,gc,Shenzhen Kung Cycling Team,2.2,30.0,0.0,1,,0.0,,,0.0
+2025-08-07,2025,trans-himalaya-cycling-race,gc,Shenzhen Kung Cycling Team,2.1,,0,0,,85.0,,,90.0
+2025-06-14,2025,yellow-river-estuary-road-cycling-race,gc,Shenzhen Kung Cycling Team,2.2,5.0,15.0,1,,15.0,,,13.0

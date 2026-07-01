@@ -1,0 +1,128 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Viris Vigevano,1.2,,0,0,,0.0,,,0.0
+2021-07-04,2021,giro-del-medio-brenta,gc,Viris Vigevano,1.2,,,1,,0.0,,,3.0
+2021-06-02,2021,trofeo-alcide-degasperi,gc,Viris Vigevano,1.2,,,1,,0.0,,,0.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Viris Vigevano,1.2,,,1,,0.0,,,10.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Biesse - Carrera,1.1,,,1,,0.0,,,0.0
+2022-06-26,2022,danish-championships,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2022-07-03,2022,giro-del-medio-brenta,gc,Biesse - Carrera,1.2,,,1,,0.0,,,31.0
+2022-10-12,2022,giro-del-veneto,gc,Biesse - Carrera,1.1,,,1,,0.0,,,0.0
+2022-06-02,2022,giro-dell-appennino,gc,Biesse - Carrera,1.1,,0,0,,0.0,,,3.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Biesse - Carrera,2.2,,0,0,,15.0,,,15.0
+2022-04-12,2022,giro-di-sicilia,gc,Biesse - Carrera,2.1,,0,0,,3.0,,,3.0
+2022-03-27,2022,gp-industria-artigianato,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-italy,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-slovakia,gc,Biesse - Carrera,NC,,0,0,,0.0,,,40.0
+2022-09-13,2022,okolo-slovenska,gc,Biesse - Carrera,2.1,46.0,0.0,1,,0.0,,,0.0
+2022-03-20,2022,per-sempre-alfredo,gc,Biesse - Carrera,1.1,,0,0,,0.0,,,30.0
+2022-03-20,2022,popolarissima,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,0.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Biesse - Carrera,2.1,,0,0,,0.0,,,0.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Biesse - Carrera,2.2,,0,0,,0.0,,,0.0
+2022-06-02,2022,trofeo-alcide-degasperi,gc,Viris Vigevano,1.2,,,1,,0.0,,,0.0
+2022-06-02,2022,trofeo-alcide-degasperi,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,28.0
+2022-07-05,2022,trofeo-citta-di-brescia,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,15.0
+2022-03-02,2022,trofeo-laigueglia,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,0.0
+2022-10-16,2022,veneto-classic,gc,Biesse - Carrera,1.1,,,1,,0.0,,,0.0
+2023-04-06,2023,circuit-des-ardennes,gc,Italy,2.2,,0,0,,0.0,,,1.0
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,5.0
+2023-09-28,2023,coppa-agostoni,gc,Biesse - Carrera,1.1,,,1,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,3.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Biesse - Carrera,1.2,,,1,,0.0,,,0.0
+2023-06-25,2023,danish-championships,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,3.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Biesse - Carrera,1.2,,,1,,0.0,,,25.0
+2023-10-11,2023,giro-del-veneto,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,13.0
+2023-06-02,2023,giro-dell-appennino,gc,Biesse - Carrera,1.1,,,1,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Biesse - Carrera,2.2,20.0,0.0,1,,40.0,,,40.0
+2023-04-16,2023,giro-di-reggio-calabria,gc,Italy,1.1,,0,0,,0.0,,,38.0
+2023-04-11,2023,giro-di-sicilia,gc,Biesse - Carrera,2.1,,0,0,,0.0,,,0.0
+2023-04-11,2023,giro-di-sicilia,gc,Italy,2.1,,0,0,,0.0,,,3.0
+2023-03-26,2023,gp-industria-artigianato,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,14.0
+2023-07-28,2023,kreiz-breizh-elites,gc,Italy,2.2,,0,0,,5.0,,,5.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Italy,2.2,,,1,,3.0,,,4.0
+2023-09-16,2023,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,Biesse - Carrera,NC,,0,0,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,Biesse - Carrera,1.2,,,1,,0.0,,,5.0
+2023-03-19,2023,per-sempre-alfredo,gc,Biesse - Carrera,1.1,,0,0,,0.0,,,70.0
+2023-05-04,2023,tour-de-catamarca-internacional,gc,Italy,2.2,,0,0,,0.0,,,14.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Biesse - Carrera,2.2,11.0,0.0,1,,0.0,,,0.0
+2023-06-02,2023,trofeo-alcide-degasperi,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,25.0
+2023-07-04,2023,trofeo-citta-di-brescia,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,20.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,25.0
+2023-03-01,2023,trofeo-laigueglia,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,5.0
+2023-09-17,2023,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,88.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,25.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,30.0
+2023-10-15,2023,veneto-classic,gc,Biesse - Carrera,1.Pro,,0,0,,0.0,,,0.0
+2023-05-11,2023,vuelta-a-formosa-internacional,gc,Italy,2.2,,0,0,,18.0,,,24.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.Pro,,0,0,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Italy,WC,,0,0,,0.0,,,240.0
+2023-08-11,2023,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,415.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,3.0
+2024-10-06,2024,coppa-agostoni,gc,Biesse - Carrera,1.1,,,1,,0.0,,,3.0
+2024-10-07,2024,coppa-bernocchi,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,0.0
+2024-10-01,2024,coppa-citta-di-san-daniele2,gc,Biesse - Carrera,1.2,,,1,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,Biesse - Carrera,2.1,54.0,0.0,1,,3.0,,,3.0
+2024-07-07,2024,giro-del-medio-brenta,gc,Biesse - Carrera,1.2,,,1,,0.0,,,3.0
+2024-10-16,2024,giro-del-veneto,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,3.0
+2024-07-14,2024,giro-dell-appennino,gc,Biesse - Carrera,1.1,,,1,,0.0,,,0.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,Biesse - Carrera,2.2,12.0,0.0,1,,0.0,,,0.0
+2024-04-21,2024,giro-di-romagna,gc,Biesse - Carrera,1.1,,,1,,0.0,,,3.0
+2024-03-24,2024,gp-adria-mobil,gc,Biesse - Carrera,1.2,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,Biesse - Carrera,NC,,,1,,0.0,,,0.0
+2024-06-27,2024,okolo-slovenska,gc,Biesse - Carrera,2.1,36.0,0.0,1,,0.0,,,0.0
+2024-05-20,2024,paris-troyes,gc,Biesse - Carrera,1.2,,,1,,0.0,,,3.0
+2024-03-17,2024,popolarissima,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,3.0
+2024-05-23,2024,tour-de-la-mirabelle,gc,Biesse - Carrera,2.2,15.0,0.0,1,,3.0,,,3.0
+2024-07-02,2024,trofeo-citta-di-brescia,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofeo-laigueglia,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,0.0
+2024-04-21,2024,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Biesse - Carrera,1.2,,0,0,,0.0,,,5.0
+2024-10-20,2024,veneto-classic,gc,Biesse - Carrera,1.Pro,,,1,,0.0,,,0.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Petrolike,1.1,,,1,,0.0,,,38.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-01-24,2025,classica-camp-de-morvedre,gc,Petrolike,1.2,,,1,,0.0,,,0.0
+2025-10-05,2025,coppa-agostoni,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-10-07,2025,coppa-citta-di-san-daniele2,gc,Petrolike,1.2,,,1,,0.0,,,6.0
+2025-01-31,2025,deia-trophy,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-04-15,2025,giro-d-abruzzo,gc,Petrolike,2.1,19.0,3.0,1,,3.0,,,17.0
+2025-10-15,2025,giro-del-veneto,gc,Petrolike,1.Pro,,,1,,0.0,,,18.0
+2025-06-24,2025,giro-dell-appennino,gc,Petrolike,1.1,,,1,,0.0,,,91.0
+2025-09-04,2025,giro-della-regione-friuli-venezia-giulia,gc,Petrolike,2.2,,0,0,,0.0,,,-5.0
+2025-09-21,2025,giro-di-romagna,gc,Petrolike,1.1,,,1,,0.0,,,8.0
+2025-09-10,2025,giro-di-toscana,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Petrolike,1.Pro,,0,0,,0.0,,,5.0
+2025-09-07,2025,gp-industria-artigianato,gc,Petrolike,1.Pro,,,1,,0.0,,,3.0
+2025-08-31,2025,gp-kranj,gc,Petrolike,1.2,,,1,,0.0,,,40.0
+2025-02-26,2025,gran-camino,gc,Petrolike,2.1,,0,0,,3.0,,,3.0
+2025-03-13,2025,istrian-spring-tour,gc,Petrolike,2.2,,0,0,,0.0,,,0.0
+2025-04-25,2025,le-tour-de-bretagne,gc,Petrolike,2.2,28.0,0.0,1,,0.0,,,0.0
+2025-09-13,2025,memorial-marco-pantani,gc,Petrolike,1.1,,,1,,0.0,,,20.0
+2025-09-20,2025,milano-rapallo,gc,Petrolike,1.2,,,1,,0.0,,,0.0
+2025-02-02,2025,nc-ecuador,gc,Petrolike,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-ireland,gc,Petrolike,NC,,0,0,,0.0,,,0.0
+2025-10-25,2025,nc-mexico,gc,Petrolike,NC,,0,0,,0.0,,,123.0
+2025-10-23,2025,nc-mexico-itt,gc,Petrolike,NC,,0,0,,0.0,,,30.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Petrolike,2.2,15.0,0.0,1,,45.0,,,63.0
+2025-03-09,2025,porec-trophy,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-07-25,2025,prueba-villafranca,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-02-19,2025,ruta-del-sol,gc,Petrolike,2.Pro,,,1,,3.0,,,3.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Petrolike,2.1,,,1,,0.0,,,0.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Petrolike,2.1,11.0,15.0,1,,20.0,,,20.0
+2025-07-31,2025,tour-alsace,gc,Petrolike,2.2,33.0,0.0,1,,0.0,,,-5.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Petrolike,2.Pro,,0,0,,160.0,,,198.0
+2025-06-02,2025,trofeo-alcide-degasperi,gc,Petrolike,1.2,,0,0,,0.0,,,5.0
+2025-10-12,2025,trofeo-baracchi,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-01-29,2025,trofeo-calvia,gc,Petrolike,1.1,,,1,,0.0,,,3.0
+2025-03-05,2025,trofeo-laigueglia,gc,Petrolike,1.Pro,,,1,,0.0,,,3.0
+2025-09-14,2025,trofeo-matteotti,gc,Petrolike,1.1,,0,0,,0.0,,,3.0
+2025-02-02,2025,trofeo-palma,gc,Petrolike,1.1,,0,0,,0.0,,,30.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Petrolike,1.1,,0,0,,0.0,,,18.0
+2025-04-27,2025,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Petrolike,1.2,,0,0,,0.0,,,0.0
+2025-10-19,2025,veneto-classic,gc,Petrolike,1.Pro,,,1,,0.0,,,3.0
+2025-08-07,2025,volta-a-portugal,gc,Petrolike,2.1,,0,0,,38.0,,,52.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Petrolike,1.1,,,1,,0.0,,,0.0
+2025-02-06,2025,vuelta-a-la-comunidad-valenciana,gc,Petrolike,2.Pro,65.0,0.0,1,,5.0,,,5.0
+2025-02-15,2025,vuelta-ciclista-a-la-region-de-murcia,gc,Petrolike,1.1,,0,0,,0.0,,,6.0

@@ -1,0 +1,78 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-07-19,2017,cascade-cycling-classic,gc,Rwanda,2.2,,,1,,0.0,,,0.0
+2017-08-10,2017,colorado-classic,gc,Rwanda,2.HC,,,1,,0.0,,,0.0
+2017-02-27,2017,la-tropicale-amissa-bongo,gc,Rwanda,2.1,,0,0,,40.0,,,40.0
+2017-03-11,2017,tour-du-cameroun,gc,Rwanda,2.2,,0,0,,3.0,,,10.0
+2017-11-12,2017,tour-of-rwanda,gc,Rwanda,2.2,8.0,3.0,1,,38.0,,,48.0
+2017-09-24,2017,world-championship,gc,Rwanda,WC,,0,0,,0.0,,,0.0
+2017-09-20,2017,world-championship-itt,gc,Rwanda,WC,,0,0,,0.0,,,0.0
+2018-11-25,2018,africa-cup,gc,Rwanda,1.1,,,1,,0.0,,,35.0
+2018-02-18,2018,african-championships,gc,Rwanda,CC,,,1,,0.0,,,150.0
+2018-02-15,2018,african-continental-championships-itt,gc,Rwanda,CC,,0,0,,0.0,,,95.0
+2018-08-16,2018,colorado-classic,gc,Rwanda,2.HC,,0,0,,0.0,,,0.0
+2018-04-14,2018,commonwealth-games,gc,Rwanda,JR,,,1,,0.0,,,0.0
+2018-09-26,2018,grand-prix-chantal-biya,gc,Rwanda,2.2,,0,0,,0.0,,,0.0
+2018-01-15,2018,la-tropicale-amissa-bongo,gc,Rwanda,2.1,,,1,,125.0,,,142.0
+2018-10-06,2018,tour-de-vendee,gc,Rwanda,1.1,,,1,,0.0,,,0.0
+2018-05-26,2018,tour-du-cameroun,gc,Rwanda,2.2,12.0,0.0,1,,70.0,,,84.0
+2018-08-05,2018,tour-of-rwanda,gc,Rwanda,2.2,8.0,3.0,1,,43.0,,,55.0
+2019-03-19,2019,african-championships,gc,Rwanda,CC,,0,0,,0.0,,,15.0
+2019-08-29,2019,african-games-road-race-me,gc,Benediction Excel Energy,JC,,,1,,0.0,,,0.0
+2019-10-17,2019,grand-prix-chantal-biya,gc,Rwanda,2.2,4.0,20.0,1,,20.0,,,23.0
+2019-01-21,2019,la-tropicale-amissa-bongo,gc,Rwanda,2.1,8.0,30.0,1,,38.0,,,41.0
+2019-06-23,2019,nc-rwanda,gc,Benediction Excel Energy,NC,,,1,,0.0,,,156.0
+2019-06-22,2019,nc-rwanda-itt,gc,Benediction Excel Energy,NC,,0,0,,0.0,,,33.0
+2019-05-15,2019,tour-de-limpopo,gc,Benediction Excel Energy,2.2,25.0,0.0,1,,0.0,,,1.0
+2019-10-06,2019,tour-de-vendee,gc,Rwanda,1.1,,,1,,0.0,,,0.0
+2019-06-01,2019,tour-du-cameroun,gc,Rwanda,2.2,,0,0,,25.0,,,46.0
+2019-10-26,2019,tour-du-faso,gc,Rwanda,2.2,62.0,0.0,1,,25.0,,,36.0
+2019-11-10,2019,tour-du-senegal,gc,Benediction Excel Energy,2.2,1.0,40.0,1,,43.0,,,47.0
+2019-02-24,2019,tour-of-rwanda,gc,Benediction Excel Energy,2.1,23.0,3.0,1,,6.0,,,6.0
+2019-02-24,2019,tour-of-rwanda,gc,Rwanda,2.1,,0,0,,5.0,,,5.0
+2020-11-18,2020,grand-prix-chantal-biya,gc,Rwanda,2.2,8.0,3.0,1,,53.0,,,69.0
+2020-01-20,2020,la-tropicale-amissa-bongo,gc,Rwanda,2.1,,,1,,3.0,,,8.0
+2020-02-23,2020,tour-of-rwanda,gc,Benediction Ignite,2.1,39.0,0.0,1,,15.0,,,15.0
+2020-02-23,2020,tour-of-rwanda,gc,Rwanda,2.1,,0,0,,15.0,,,15.0
+2020-09-27,2020,world-championship,gc,Rwanda,WC,,0,0,,0.0,,,0.0
+2021-05-02,2021,tour-of-rwanda,gc,Benediction Ignite,2.1,,,1,,3.0,,,6.0
+2022-03-27,2022,african-championships,gc,Rwanda,CC,,0,0,,0.0,,,29.0
+2022-03-24,2022,african-continental-championships-itt,gc,Rwanda,CC,,0,0,,0.0,,,65.0
+2022-08-07,2022,commonwealth-games,gc,Rwanda,JR,,0,0,,0.0,,,0.0
+2022-08-04,2022,commonwealth-games-itt2,gc,Rwanda,JR,,0,0,,0.0,,,0.0
+2022-08-21,2022,grand-prix-cappadocia,gc,ProTouch,1.2,,0,0,,0.0,,,45.0
+2022-08-20,2022,grand-prix-develi,gc,ProTouch,1.2,,0,0,,0.0,,,15.0
+2022-08-19,2022,grand-prix-kapuzbasi,gc,ProTouch,1.2,,0,0,,0.0,,,35.0
+2022-08-18,2022,grand-prix-tomarza,gc,ProTouch,1.2,,0,0,,0.0,,,0.0
+2022-09-29,2022,international-azerbaijan-tour,gc,ProTouch,2.1,33.0,0.0,1,,3.0,,,3.0
+2022-09-04,2022,maryland-cycling-classic,gc,ProTouch,1.Pro,,0,0,,0.0,,,6.0
+2022-06-26,2022,nc-eritrea,gc,ProTouch,NC,,0,0,,0.0,,,1.0
+2022-06-24,2022,nc-eritrea-itt,gc,ProTouch,NC,,0,0,,0.0,,,1.0
+2022-07-03,2022,nc-rwanda,gc,ProTouch,NC,,,1,,0.0,,,30.0
+2022-07-02,2022,nc-rwanda-itt,gc,ProTouch,NC,,,1,,0.0,,,40.0
+2022-02-13,2022,nc-south-africa,gc,ProTouch,NC,,0,0,,0.0,,,101.0
+2022-02-11,2022,nc-south-africa-itt,gc,ProTouch,NC,,0,0,,0.0,,,35.0
+2022-10-11,2022,tour-de-langkawi,gc,ProTouch,2.Pro,,,1,,20.0,,,20.0
+2022-06-04,2022,tour-du-cameroun,gc,Rwanda,2.2,7.0,5.0,1,,45.0,,,53.0
+2022-08-25,2022,tour-of-konya,gc,ProTouch,2.2,21.0,0.0,1,,10.0,,,17.0
+2022-03-13,2022,trofeu-da-arrabida,gc,ProTouch,1.2,,0,0,,0.0,,,0.0
+2022-03-16,2022,volta-ao-alentejo,gc,ProTouch,2.2,,0,0,,0.0,,,0.0
+2022-09-25,2022,world-championship,gc,Rwanda,WC,,0,0,,0.0,,,0.0
+2024-10-13,2024,african-championships,gc,Rwanda,CC,,,1,,0.0,,,114.0
+2024-10-09,2024,african-continental-championships-itt,gc,Rwanda,CC,,0,0,,0.0,,,25.0
+2024-03-15,2024,african-games-me-itt,gc,Rwanda,JC,,0,0,,0.0,,,3.0
+2024-03-10,2024,african-games-road-race-me,gc,Rwanda,JC,,0,0,,0.0,,,61.0
+2024-06-16,2024,courts-mammouth-classique-de-l-ile-maurice,gc,Rwanda,1.2,,0,0,,0.0,,,3.0
+2024-05-24,2024,gp-de-la-ville-d-alger,gc,Rwanda,1.2,,0,0,,0.0,,,0.0
+2024-05-11,2024,grand-prix-d-oran,gc,Rwanda,1.2,,0,0,,0.0,,,6.0
+2024-05-22,2024,grand-prix-de-la-ville-d-annaba,gc,Rwanda,1.2,,0,0,,0.0,,,0.0
+2024-08-03,2024,olympic-games,gc,Rwanda,Olympics,,0,0,,0.0,,,0.0
+2024-06-11,2024,skoda-tour-de-maurice,gc,Rwanda,2.2,,0,0,,5.0,,,5.0
+2024-05-12,2024,tour-d-algerie-cycliste,gc,Rwanda,2.2,,0,0,,3.0,,,6.0
+2024-02-19,2024,tour-of-rwanda,gc,Rwanda,2.1,45.0,0.0,1,,8.0,,,8.0
+2024-01-26,2024,tour-of-sharjah,gc,Rwanda,2.2,73.0,0.0,1,,0.0,,,1.0
+2025-11-23,2025,african-championships,gc,Rwanda,CC,,0,0,,0.0,,,247.0
+2025-11-20,2025,african-continental-championships-itt,gc,Rwanda,CC,,0,0,,0.0,,,45.0
+2025-02-23,2025,tour-of-rwanda,gc,Rwanda,2.1,50.0,0.0,1,,41.0,,,26.0
+2025-01-24,2025,tour-of-sharjah,gc,Rwanda,2.2,,,1,,0.0,,,0.0
+2025-09-28,2025,world-championship,gc,Rwanda,WC,,0,0,,0.0,,,-15.0
+2025-09-21,2025,world-championship-itt,gc,Rwanda,WC,,0,0,,0.0,,,3.0

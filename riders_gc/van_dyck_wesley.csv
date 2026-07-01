@@ -1,0 +1,46 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-03-04,2018,3daagse-van-west-vlaanderen,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,0.0
+2018-09-02,2018,antwerp-port-epic,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,120.0
+2018-04-21,2018,arno-wallaard-memorial,gc,BEAT Cycling Club,1.2,,,1,,0.0,,,3.0
+2018-09-09,2018,chrono-champenois-masculin,gc,BEAT Cycling Club,1.2,,0,0,,0.0,,,3.0
+2018-08-29,2018,druivenkoers-overijse,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,3.0
+2018-06-09,2018,dwars-door-de-vlaamse-ardennen,gc,BEAT Cycling Club,1.2,,,1,,0.0,,,0.0
+2018-06-15,2018,dwars-door-het-hageland,gc,BEAT Cycling Club,1.1,,0,0,,0.0,,,3.0
+2018-09-23,2018,gooikse-pijl,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,5.0
+2018-07-08,2018,gp-albert-fauville,gc,BEAT Cycling Club,1.2,,0,0,,0.0,,,45.0
+2018-09-16,2018,gp-jef-scherens,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,50.0
+2018-08-21,2018,gp-stad-zottegem,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,8.0
+2018-07-07,2018,grote-prijs-jean-pierre-monsere,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,38.0
+2018-05-20,2018,grote-prijs-marcel-kint,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,0.0
+2018-06-19,2018,halle-ingooigem,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,5.0
+2018-06-02,2018,heist-op-den-berg,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,70.0
+2018-09-14,2018,kampioenschap-van-vlaanderen1,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,9.0
+2018-08-05,2018,la-poly-normande,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,13.0
+2018-06-10,2018,midden-brabant-poort-omloop,gc,BEAT Cycling Club,1.2,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-belgium,gc,BEAT Cycling Club,NC,,,1,,0.0,,,0.0
+2018-07-01,2018,nc-estonia,gc,BEAT Cycling Club,NC,,0,0,,0.0,,,20.0
+2018-07-01,2018,nc-netherlands,gc,BEAT Cycling Club,NC,,0,0,,0.0,,,3.0
+2018-06-27,2018,nc-netherlands-itt,gc,BEAT Cycling Club,NC,,0,0,,0.0,,,1.0
+2018-08-25,2018,omloop-mandel-leie-schelde-meulebeke,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,53.0
+2018-09-19,2018,omloop-van-het-houtland-lichtervelde,gc,BEAT Cycling Club,1.1,,0,0,,0.0,,,43.0
+2018-03-11,2018,ronde-van-drenthe,gc,BEAT Cycling Club,1.HC,,,1,,0.0,,,10.0
+2018-08-26,2018,ronde-van-midden-nederland,gc,BEAT Cycling Club,1.2,,0,0,,0.0,,,20.0
+2018-05-13,2018,ronde-van-noord-holland,gc,BEAT Cycling Club,1.2,,0,0,,0.0,,,15.0
+2018-05-12,2018,ronde-van-overijssel,gc,BEAT Cycling Club,1.2,,,1,,0.0,,,40.0
+2018-08-11,2018,slag-om-norg,gc,BEAT Cycling Club,1.1,,0,0,,0.0,,,0.0
+2018-10-13,2018,tacx-pro-classic,gc,BEAT Cycling Club,1.1,,0,0,,0.0,,,5.0
+2018-05-25,2018,tour-of-estonia,gc,BEAT Cycling Club,2.1,,0,0,,63.0,,,63.0
+2018-08-22,2018,veenendaal-veenendaal,gc,BEAT Cycling Club,1.1,,0,0,,0.0,,,6.0
+2018-03-31,2018,volta-nxt-classic,gc,BEAT Cycling Club,1.1,,,1,,0.0,,,25.0
+2018-04-28,2018,zodc-zuidenveld-tour,gc,BEAT Cycling Club,1.2,,0,0,,0.0,,,25.0
+2024-10-01,2024,grand-prix-chantal-biya,gc,Cycling Vlaanderen,2.2,1.0,40.0,1,,68.0,,,90.0
+2024-10-06,2024,grand-prix-d-ongola,gc,Cycling Vlaanderen,1.2,,,1,,0.0,,,40.0
+2024-09-08,2024,tour-of-salalah,gc,Cycling Vlaanderen,2.2,,0,0,,35.0,,,48.0
+2024-08-30,2024,tour-of-samsun,gc,Cycling Vlaanderen,2.2,,0,0,,65.0,,,90.0
+2025-09-06,2025,dhofar-classic,gc,Team Flanders,1.2,,,1,,0.0,,,0.0
+2025-02-22,2025,gp-de-la-ville-d-alger,gc,Team Flanders,1.2,,0,0,,0.0,,,10.0
+2025-02-08,2025,grand-prix-sakiat-sidi-youcef,gc,Team Flanders,1.2,,0,0,,0.0,,,10.0
+2025-02-20,2025,grand-prix-sonatrach,gc,Team Flanders,1.2,,0,0,,0.0,,,3.0
+2025-02-09,2025,tour-d-algerie-cycliste,gc,Team Flanders,2.2,,0,0,,35.0,,,39.0
+2025-09-07,2025,tour-of-salalah,gc,Team Flanders,2.2,21.0,0.0,1,,0.0,,,3.0
+2025-12-12,2025,vuelta-internacional-a-costa-rica,gc,Team Flanders,2.2,,0,0,,0.0,,,0.0

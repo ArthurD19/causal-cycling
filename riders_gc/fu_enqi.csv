@@ -1,0 +1,41 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-06-13,2023,asian-championships-me,gc,China,CC,,0,0,,0.0,,,10.0
+2023-06-10,2023,asian-cycling-championships-itt,gc,China,CC,,0,0,,0.0,,,10.0
+2023-10-05,2023,summer-asian-games,gc,China,JC,,0,0,,0.0,,,19.0
+2023-10-03,2023,summer-asian-games-itt,gc,China,JC,,0,0,,0.0,,,55.0
+2023-09-23,2023,tour-of-binzhou,gc,China,2.2,60.0,0.0,1,,30.0,,,34.0
+2023-10-12,2023,tour-of-guangxi,gc,China,2.UWT,,0,0,,0.0,,,3.0
+2023-10-05,2023,tour-of-hainan,gc,China,2.Pro,,,1,,5.0,,,5.0
+2023-07-21,2023,tour-of-huangshan,gc,China,2.2,,0,0,,0.0,,,0.0
+2023-07-09,2023,tour-of-magnificent-qinghai,gc,China,2.Pro,,0,0,,0.0,,,0.0
+2023-09-08,2023,tour-of-poyang-lake,gc,China,2.2,,0,0,,0.0,,,0.0
+2023-09-14,2023,tour-of-taihu-lake,gc,China,2.Pro,,0,0,,5.0,,,5.0
+2023-10-14,2023,trans-himalaya-cycling-race,gc,China,2.2,,,1,,0.0,,,7.0
+2023-08-06,2023,world-championship,gc,China,WC,,0,0,,0.0,,,0.0
+2023-08-11,2023,world-championship-itt,gc,China,WC,,0,0,,0.0,,,0.0
+2024-02-25,2024,alanya-cup,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,45.0
+2024-03-30,2024,bueng-si-fai-international-road-race,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,26.0
+2024-03-24,2024,gp-adria-mobil,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-01-27,2024,gp-antalya,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,40.0
+2024-03-19,2024,gp-brda-collio,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,3.0
+2024-03-21,2024,gp-goriska-vipava-valley,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-03-17,2024,gp-izola-butan-plin,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-02-03,2024,grand-prix-apollon-temple-me,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,55.0
+2024-03-07,2024,istrian-spring-tour,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,0.0,,,-4.0
+2024-06-20,2024,nc-china,gc,China Glory - Mentech Continental Cycling Team,NC,,0,0,,0.0,,,70.0
+2024-06-18,2024,nc-china-itt,gc,China Glory - Mentech Continental Cycling Team,NC,,0,0,,0.0,,,15.0
+2024-02-04,2024,nc-south-africa,gc,China Glory - Mentech Continental Cycling Team,NC,,0,0,,0.0,,,20.0
+2024-03-03,2024,porec-trophy,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,syedra-ancient-city,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,73.0
+2024-02-08,2024,tour-of-antalya,gc,China Glory - Mentech Continental Cycling Team,2.1,,0,0,,0.0,,,0.0
+2024-08-27,2024,tour-of-hainan,gc,China Glory - Mentech Continental Cycling Team,2.Pro,,0,0,,5.0,,,15.0
+2024-09-26,2024,tour-of-huangshan,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,0.0,,,0.0
+2024-05-16,2024,tour-of-konya,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,43.0,,,59.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,China Glory - Mentech Continental Cycling Team,2.Pro,,0,0,,20.0,,,23.0
+2024-04-04,2024,tour-of-mersin,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,25.0,,,26.0
+2024-09-04,2024,tour-of-poyang-lake,gc,China Glory - Mentech Continental Cycling Team,2.2,,0,0,,13.0,,,16.0
+2024-10-09,2024,tour-of-taihu-lake,gc,China Glory - Mentech Continental Cycling Team,2.Pro,,0,0,,10.0,,,23.0
+2024-04-01,2024,tour-of-thailand,gc,China Glory - Mentech Continental Cycling Team,2.1,,0,0,,13.0,,,21.0
+2024-04-21,2024,tour-of-turkey,gc,China Glory - Mentech Continental Cycling Team,2.Pro,,0,0,,3.0,,,3.0
+2024-08-23,2024,trans-himalaya-cycling-race,gc,China Glory - Mentech Continental Cycling Team,2.2,98.0,0.0,1,,0.0,,,0.0
+2024-02-28,2024,trofej-umag,gc,China Glory - Mentech Continental Cycling Team,1.2,,0,0,,0.0,,,0.0

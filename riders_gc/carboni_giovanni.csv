@@ -1,0 +1,480 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-09-13,2017,coppa-agostoni,gc,Italy,1.1,,,1,,0.0,,,60.0
+2017-09-14,2017,coppa-bernocchi,gc,Italy,1.1,,,1,,0.0,,,50.0
+2017-05-24,2017,fleche-du-sud,gc,Team Colpack,2.2,,0,0,,40.0,,,42.0
+2017-07-12,2017,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Team Colpack,2.2U,5.0,10.0,1,,10.0,,,20.0
+2017-04-09,2017,giro-dell-appennino,gc,Italy,1.1,,0,0,,0.0,,,76.0
+2017-02-05,2017,gp-costa-degli-etruschi,gc,Italy,1.1,,0,0,,0.0,,,0.0
+2017-03-05,2017,gp-industria-artigianato,gc,Italy,1.HC,,,1,,0.0,,,19.0
+2017-02-19,2017,gp-laguna,gc,Team Colpack,1.2,,,1,,0.0,,,40.0
+2017-09-16,2017,memorial-marco-pantani,gc,Italy,1.1,,0,0,,0.0,,,125.0
+2017-07-02,2017,tour-of-austria,gc,Italy,2.1,,0,0,,43.0,,,74.0
+2017-04-17,2017,tour-of-the-alps,gc,Italy,2.HC,,0,0,,50.0,,,50.0
+2017-10-03,2017,tre-valli-varesine,gc,Italy,1.HC,,0,0,,0.0,,,0.0
+2017-02-12,2017,trofeo-laigueglia,gc,Italy,1.HC,,,1,,0.0,,,300.0
+2017-07-16,2017,trofeo-matteotti,gc,Italy,1.1,,0,0,,0.0,,,6.0
+2017-08-03,2017,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,5.0
+2017-08-06,2017,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,200.0
+2017-01-23,2017,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Italy,2.1,,0,0,,0.0,,,15.0
+2017-09-24,2017,world-championship,gc,Italy,WC,,0,0,,0.0,,,361.0
+2017-09-20,2017,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,100.0
+2018-02-21,2018,abu-dhabi-tour,gc,Bardiani - CSF,2.UWT,,0,0,,12.0,,,27.0
+2018-06-21,2018,adriatica-ionica-race,gc,Bardiani - CSF,2.1,7.0,35.0,1,,123.0,,,128.0
+2018-02-06,2018,colombia-21,gc,Bardiani - CSF,2.1,65.0,0.0,1,,0.0,,,0.0
+2018-09-15,2018,coppa-agostoni,gc,Bardiani - CSF,1.1,,,1,,0.0,,,63.0
+2018-09-16,2018,coppa-bernocchi,gc,Bardiani - CSF,1.1,,,1,,0.0,,,95.0
+2018-08-10,2018,czech-tour,gc,Bardiani - CSF,2.1,,0,0,,6.0,,,11.0
+2018-01-31,2018,etoile-de-besseges,gc,Bardiani - CSF,2.1,,0,0,,0.0,,,0.0
+2018-02-24,2018,faun-ardeche-classic,gc,Bardiani - CSF,1.1,,,1,,0.0,,,3.0
+2018-05-04,2018,giro-d-italia,gc,Bardiani - CSF,2.UWT,,0,0,,20.0,40.0,0.0,32.0
+2018-05-04,2018,giro-d-italia,kom,Bardiani - CSF,2.UWT,,0,0,,20.0,40.0,0.0,32.0
+2018-05-04,2018,giro-d-italia,points,Bardiani - CSF,2.UWT,,0,0,,20.0,40.0,0.0,32.0
+2018-04-22,2018,giro-dell-appennino,gc,Bardiani - CSF,1.1,,,1,,0.0,,,155.0
+2018-10-06,2018,giro-dell-emilia,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,5.0
+2018-09-19,2018,giro-di-toscana,gc,Bardiani - CSF,1.1,,,1,,0.0,,,13.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Bardiani - CSF,1.HC,,0,0,,0.0,,,33.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Bardiani - CSF,1.1,,0,0,,0.0,,,6.0
+2018-03-04,2018,gp-industria-artigianato,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,8.0
+2018-06-03,2018,gp-lugano,gc,Bardiani - CSF,1.1,,,1,,0.0,,,38.0
+2018-10-11,2018,gran-piemonte,gc,Bardiani - CSF,1.HC,,0,0,,0.0,,,60.0
+2018-10-13,2018,il-lombardia,gc,Bardiani - CSF,1.UWT,,,1,,0.0,,,28.0
+2018-02-25,2018,la-drome-classic,gc,Bardiani - CSF,1.1,,,1,,0.0,,,0.0
+2018-09-22,2018,memorial-marco-pantani,gc,Bardiani - CSF,1.1,,0,0,,0.0,,,0.0
+2018-03-17,2018,milano-sanremo,gc,Bardiani - CSF,1.UWT,,,1,,0.0,,,0.0
+2018-10-10,2018,milano-torino,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,8.0
+2018-06-30,2018,nc-italy,gc,Bardiani - CSF,NC,,,1,,0.0,,,1.0
+2018-10-04,2018,nc-italy-itt,gc,Bardiani - CSF,NC,,,1,,0.0,,,0.0
+2018-06-14,2018,oberosterreichrundfahrt,gc,Bardiani - CSF,2.2,,0,0,,3.0,,,3.0
+2018-09-12,2018,okolo-slovenska,gc,Bardiani - CSF,2.1,,0,0,,8.0,,,8.0
+2018-03-04,2018,rhodes-gp,gc,Bardiani - CSF,1.2,,0,0,,0.0,,,35.0
+2018-07-29,2018,ride-london-classic,gc,Bardiani - CSF,1.UWT,,0,0,,0.0,,,12.0
+2018-03-18,2018,tour-de-langkawi,gc,Bardiani - CSF,2.HC,,0,0,,10.0,,,65.0
+2018-08-15,2018,tour-du-limousin,gc,Bardiani - CSF,2.1,38.0,0.0,1,,68.0,,,82.0
+2018-08-21,2018,tour-du-poitou-charentes-et-de-la-vienne,gc,Bardiani - CSF,2.1,23.0,3.0,1,,3.0,,,3.0
+2018-07-07,2018,tour-of-austria,gc,Bardiani - CSF,2.1,8.0,30.0,1,,30.0,,,36.0
+2018-05-23,2018,tour-of-belgium,gc,Bardiani - CSF,2.HC,116.0,0.0,1,,0.0,,,0.0
+2018-09-02,2018,tour-of-britain,gc,Bardiani - CSF,2.HC,,,1,,5.0,,,20.0
+2018-04-17,2018,tour-of-croatia,gc,Bardiani - CSF,2.HC,,0,0,,18.0,,,93.0
+2018-08-01,2018,tour-of-denmark,gc,Bardiani - CSF,2.HC,,0,0,,3.0,,,8.0
+2018-10-23,2018,tour-of-hainan,gc,Bardiani - CSF,2.HC,,0,0,,25.0,,,60.0
+2018-05-16,2018,tour-of-norway,gc,Bardiani - CSF,2.HC,,0,0,,0.0,,,0.0
+2018-03-09,2018,tour-of-rhodes,gc,Bardiani - CSF,2.2,,0,0,,58.0,,,69.0
+2018-04-16,2018,tour-of-the-alps,gc,Bardiani - CSF,2.HC,39.0,3.0,1,,46.0,,,46.0
+2018-10-09,2018,tre-valli-varesine,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,26.0
+2018-02-11,2018,trofeo-laigueglia,gc,Bardiani - CSF,1.HC,,0,0,,0.0,,,18.0
+2018-09-23,2018,trofeo-matteotti,gc,Bardiani - CSF,1.1,,,1,,0.0,,,30.0
+2019-07-25,2019,adriatica-ionica-race,gc,Bardiani - CSF,2.1,,,1,,3.0,,,3.0
+2019-04-21,2019,amstel-gold-race,gc,Bardiani - CSF,1.UWT,,0,0,,0.0,,,0.0
+2019-02-13,2019,colombia-21,gc,Bardiani - CSF,2.1,,0,0,,0.0,,,0.0
+2019-09-14,2019,coppa-agostoni,gc,Bardiani - CSF,1.1,,,1,,0.0,,,66.0
+2019-09-15,2019,coppa-bernocchi,gc,Bardiani - CSF,1.1,,,1,,0.0,,,0.0
+2019-05-11,2019,giro-d-italia,gc,Bardiani - CSF,2.UWT,57.0,8.0,1,,16.0,0.0,0.0,32.0
+2019-05-11,2019,giro-d-italia,kom,Bardiani - CSF,2.UWT,31.0,0.0,1,,16.0,0.0,0.0,32.0
+2019-05-11,2019,giro-d-italia,points,Bardiani - CSF,2.UWT,38.0,0.0,1,,16.0,0.0,0.0,32.0
+2019-04-28,2019,giro-dell-appennino,gc,Bardiani - CSF,1.1,,,1,,0.0,,,3.0
+2019-10-05,2019,giro-dell-emilia,gc,Bardiani - CSF,1.HC,,0,0,,0.0,,,3.0
+2019-04-03,2019,giro-di-sicilia,gc,Bardiani - CSF,2.1,,0,0,,3.0,,,3.0
+2019-09-18,2019,giro-di-toscana,gc,Bardiani - CSF,1.1,,,1,,0.0,,,3.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Bardiani - CSF,1.HC,,0,0,,0.0,,,8.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Bardiani - CSF,1.1,,0,0,,0.0,,,0.0
+2019-03-10,2019,gp-industria-artigianato,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,5.0
+2019-06-09,2019,gp-lugano,gc,Bardiani - CSF,1.1,,,1,,0.0,,,45.0
+2019-10-10,2019,gran-piemonte,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,0.0
+2019-10-12,2019,il-lombardia,gc,Bardiani - CSF,1.UWT,,,1,,0.0,,,0.0
+2019-03-14,2019,istrian-spring-tour,gc,Bardiani - CSF,2.2,,,1,,3.0,,,11.0
+2019-06-20,2019,la-route-d-occitanie,gc,Bardiani - CSF,2.1,6.0,40.0,1,,43.0,,,43.0
+2019-09-21,2019,memorial-marco-pantani,gc,Bardiani - CSF,1.1,,,1,,0.0,,,18.0
+2019-03-23,2019,milano-sanremo,gc,Bardiani - CSF,1.UWT,,,1,,0.0,,,0.0
+2019-10-09,2019,milano-torino,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,0.0
+2019-06-30,2019,nc-italy,gc,Bardiani - CSF,NC,,,1,,0.0,,,0.0
+2019-06-28,2019,nc-italy-itt,gc,Bardiani - CSF,NC,,0,0,,0.0,,,0.0
+2019-03-09,2019,porec-trophy,gc,Bardiani - CSF,1.2,,0,0,,0.0,,,15.0
+2019-02-20,2019,ruta-del-sol,gc,Bardiani - CSF,2.HC,26.0,5.0,1,,5.0,,,5.0
+2019-03-14,2019,tirreno-adriatico,gc,Bardiani - CSF,2.UWT,,0,0,,0.0,,,0.0
+2019-04-06,2019,tour-de-langkawi,gc,Bardiani - CSF,2.HC,,0,0,,8.0,,,23.0
+2019-06-05,2019,tour-de-luxembourg,gc,Bardiani - CSF,2.HC,,0,0,,48.0,,,48.0
+2019-08-21,2019,tour-du-limousin,gc,Bardiani - CSF,2.1,60.0,0.0,1,,0.0,,,0.0
+2019-08-27,2019,tour-du-poitou-charentes-et-de-la-vienne,gc,Bardiani - CSF,2.1,53.0,0.0,1,,0.0,,,0.0
+2019-09-07,2019,tour-of-china,gc,Bardiani - CSF,2.1,,0,0,,53.0,,,75.0
+2019-09-16,2019,tour-of-china-ii,gc,Bardiani - CSF,2.1,,0,0,,3.0,,,8.0
+2019-10-01,2019,tour-of-croatia,gc,Bardiani - CSF,2.1,,,1,,5.0,,,10.0
+2019-08-21,2019,tour-of-denmark,gc,Bardiani - CSF,2.HC,,0,0,,0.0,,,0.0
+2019-07-15,2019,tour-of-magnificent-qinghai,gc,Bardiani - CSF,2.HC,,0,0,,3.0,,,23.0
+2019-06-19,2019,tour-of-slovenia,gc,Bardiani - CSF,2.HC,,0,0,,40.0,,,40.0
+2019-04-22,2019,tour-of-the-alps,gc,Bardiani - CSF,2.HC,22.0,5.0,1,,10.0,,,10.0
+2019-09-02,2019,tour-of-xingtai,gc,Bardiani - CSF,2.2,,0,0,,15.0,,,16.0
+2019-10-08,2019,tre-valli-varesine,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,15.0
+2019-03-06,2019,trofej-umag,gc,Bardiani - CSF,1.2,,0,0,,0.0,,,30.0
+2019-02-17,2019,trofeo-laigueglia,gc,Bardiani - CSF,1.HC,,,1,,0.0,,,3.0
+2019-09-22,2019,trofeo-matteotti,gc,Bardiani - CSF,1.1,,,1,,0.0,,,73.0
+2020-08-06,2020,cic-mont-ventoux,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,3.0
+2020-02-12,2020,colombia-21,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,0.0,,,0.0
+2020-01-31,2020,deia-trophy,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,3.0
+2020-10-03,2020,giro-d-italia,gc,Bardiani-CSF-Faizanè,2.UWT,82.0,0.0,1,,12.0,0.0,0.0,12.0
+2020-10-03,2020,giro-d-italia,kom,Bardiani-CSF-Faizanè,2.UWT,78.0,0.0,1,,12.0,0.0,0.0,12.0
+2020-10-03,2020,giro-d-italia,points,Bardiani-CSF-Faizanè,2.UWT,105.0,0.0,1,,12.0,0.0,0.0,12.0
+2020-09-19,2020,giro-dell-appennino,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,3.0
+2020-08-18,2020,giro-dell-emilia,gc,Bardiani-CSF-Faizanè,1.Pro,,,1,,0.0,,,3.0
+2020-09-16,2020,giro-di-toscana,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,3.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Bardiani-CSF-Faizanè,1.Pro,,,1,,0.0,,,3.0
+2020-07-26,2020,gp-kranj,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,0.0
+2020-08-12,2020,gran-piemonte,gc,Bardiani-CSF-Faizanè,1.Pro,,,1,,0.0,,,0.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,28.0
+2020-08-15,2020,il-lombardia,gc,Bardiani-CSF-Faizanè,1.UWT,,,1,,0.0,,,10.0
+2020-08-01,2020,la-route-d-occitanie,gc,Bardiani-CSF-Faizanè,2.1,20.0,3.0,1,,3.0,,,3.0
+2020-02-15,2020,malaysian-international-classic-race,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,0.0
+2020-08-30,2020,memorial-marco-pantani,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,20.0
+2020-08-08,2020,milano-sanremo,gc,Bardiani-CSF-Faizanè,1.UWT,,0,0,,0.0,,,0.0
+2020-08-05,2020,milano-torino,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,3.0
+2020-08-23,2020,nc-italy,gc,Bardiani-CSF-Faizanè,NC,,,1,,0.0,,,0.0
+2020-08-21,2020,nc-italy-itt,gc,Bardiani-CSF-Faizanè,NC,,0,0,,0.0,,,0.0
+2020-03-08,2020,porec-trophy,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,0.0
+2020-07-23,2020,sibiu-cycling-tour,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,23.0,,,23.0
+2020-08-01,2020,strade-bianche,gc,Bardiani-CSF-Faizanè,1.UWT,,0,0,,0.0,,,0.0
+2020-09-07,2020,tirreno-adriatico,gc,Bardiani-CSF-Faizanè,2.UWT,68.0,0.0,1,,0.0,,,0.0
+2020-02-07,2020,tour-de-langkawi,gc,Bardiani-CSF-Faizanè,2.Pro,,0,0,,5.0,,,20.0
+2020-09-15,2020,tour-de-luxembourg,gc,Bardiani-CSF-Faizanè,2.Pro,,0,0,,0.0,,,0.0
+2020-08-18,2020,tour-du-limousin,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,0.0,,,0.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,0.0,,,0.0
+2020-02-20,2020,tour-of-antalya,gc,Bardiani-CSF-Faizanè,2.1,44.0,0.0,1,,0.0,,,14.0
+2020-03-04,2020,trofej-umag,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,15.0
+2020-02-16,2020,trofeo-laigueglia,gc,Bardiani-CSF-Faizanè,1.Pro,,,1,,0.0,,,11.0
+2020-08-29,2020,trofeo-matteotti,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,120.0
+2020-02-02,2020,trofeo-palma,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,20.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,0.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,8.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Bardiani-CSF-Faizanè,2.Pro,105.0,0.0,1,,3.0,,,3.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Bardiani-CSF-Faizanè,2.Pro,,0,0,,0.0,,,5.0
+2021-06-15,2021,adriatica-ionica-race,gc,Bardiani-CSF-Faizanè,2.1,4.0,60.0,1,,210.0,,,210.0
+2021-04-22,2021,banja-luka-belgrade-i,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,55.0,,,58.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,3.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,50.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,25.0
+2021-02-14,2021,clasica-de-almeria,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,16.0
+2021-10-11,2021,coppa-agostoni,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,18.0
+2021-10-04,2021,coppa-bernocchi,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,58.0
+2021-08-05,2021,czech-tour,gc,Bardiani-CSF-Faizanè,2.1,49.0,0.0,1,,198.0,,,213.0
+2021-05-14,2021,deia-trophy,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,10.0
+2021-05-08,2021,giro-d-italia,gc,Bardiani-CSF-Faizanè,2.UWT,35.0,20.0,1,,20.0,0.0,0.0,48.0
+2021-05-08,2021,giro-d-italia,kom,Bardiani-CSF-Faizanè,2.UWT,39.0,0.0,1,,20.0,0.0,0.0,48.0
+2021-05-08,2021,giro-d-italia,points,Bardiani-CSF-Faizanè,2.UWT,54.0,0.0,1,,20.0,0.0,0.0,48.0
+2021-10-13,2021,giro-del-veneto,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,23.0
+2021-06-24,2021,giro-dell-appennino,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,81.0
+2021-10-02,2021,giro-dell-emilia,gc,Bardiani-CSF-Faizanè,1.Pro,,,1,,0.0,,,9.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,Bardiani-CSF-Faizanè,2.2,,0,0,,0.0,,,0.0
+2021-09-28,2021,giro-di-sicilia,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,3.0,,,3.0
+2021-09-15,2021,giro-di-toscana,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,3.0
+2021-03-28,2021,gp-adria-mobil,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,30.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,15.0
+2021-01-24,2021,gp-de-valence,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,3.0
+2021-06-04,2021,gp-du-canton-d-argovie,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,0.0
+2021-03-07,2021,gp-industria-artigianato,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,5.0
+2021-03-21,2021,gp-izola-butan-plin,gc,Bardiani-CSF-Faizanè,1.2,,,1,,0.0,,,43.0
+2021-06-27,2021,gp-lugano,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,3.0
+2021-05-30,2021,gp-slovenia,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,50.0
+2021-10-07,2021,gran-piemonte,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,18.0
+2021-02-06,2021,grand-prix-alanya,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,68.0
+2021-02-07,2021,grand-prix-gazipasa,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,0.0
+2021-02-20,2021,grand-prix-manavgat-side,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,0.0
+2021-02-21,2021,grand-prix-velo-alanya,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,18.0
+2021-10-09,2021,il-lombardia,gc,Bardiani-CSF-Faizanè,1.UWT,,,1,,0.0,,,10.0
+2021-06-28,2021,in-the-footsteps-of-the-romans,gc,Bardiani-CSF-Faizanè,2.2,,0,0,,5.0,,,6.0
+2021-03-11,2021,istrian-spring-tour,gc,Bardiani-CSF-Faizanè,2.2,,0,0,,40.0,,,48.0
+2021-09-18,2021,memorial-marco-pantani,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,8.0
+2021-03-20,2021,milano-sanremo,gc,Bardiani-CSF-Faizanè,1.UWT,,0,0,,0.0,,,20.0
+2021-10-06,2021,milano-torino,gc,Bardiani-CSF-Faizanè,1.Pro,,,1,,0.0,,,11.0
+2021-06-20,2021,nc-italy,gc,Bardiani-CSF-Faizanè,NC,,,1,,0.0,,,91.0
+2021-06-18,2021,nc-italy-itt,gc,Bardiani-CSF-Faizanè,NC,,0,0,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,3.0
+2021-09-15,2021,okolo-slovenska,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,0.0,,,0.0
+2021-03-21,2021,per-sempre-alfredo,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,40.0
+2021-03-07,2021,porec-trophy,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,40.0
+2021-04-04,2021,rhodes-gp,gc,Bardiani-CSF-Faizanè,1.2,,,1,,0.0,,,30.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,3.0,,,3.0
+2021-07-03,2021,sibiu-cycling-tour,gc,Bardiani-CSF-Faizanè,2.1,16.0,3.0,1,,18.0,,,18.0
+2021-03-06,2021,strade-bianche,gc,Bardiani-CSF-Faizanè,1.UWT,,0,0,,0.0,,,5.0
+2021-08-17,2021,tour-du-limousin,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,38.0,,,38.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,Bardiani-CSF-Faizanè,2.1,,0,0,,0.0,,,0.0
+2021-06-09,2021,tour-of-belgium,gc,Bardiani-CSF-Faizanè,2.Pro,,0,0,,8.0,,,8.0
+2021-06-30,2021,tour-of-bulgaria,gc,Bardiani-CSF-Faizanè,2.2,,0,0,,0.0,,,13.0
+2021-08-10,2021,tour-of-denmark,gc,Bardiani-CSF-Faizanè,2.Pro,,0,0,,0.0,,,0.0
+2021-04-08,2021,tour-of-rhodes,gc,Bardiani-CSF-Faizanè,2.2,22.0,0.0,1,,0.0,,,0.0
+2021-06-09,2021,tour-of-slovenia,gc,Bardiani-CSF-Faizanè,2.Pro,8.0,50.0,1,,64.0,,,64.0
+2021-04-19,2021,tour-of-the-alps,gc,Bardiani-CSF-Faizanè,2.Pro,21.0,5.0,1,,5.0,,,5.0
+2021-04-11,2021,tour-of-turkey,gc,Bardiani-CSF-Faizanè,2.Pro,,0,0,,15.0,,,15.0
+2021-10-05,2021,tre-valli-varesine,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,3.0
+2021-03-03,2021,trofej-umag,gc,Bardiani-CSF-Faizanè,1.2,,0,0,,0.0,,,0.0
+2021-05-13,2021,trofeo-calvia,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,3.0
+2021-03-03,2021,trofeo-laigueglia,gc,Bardiani-CSF-Faizanè,1.Pro,,0,0,,0.0,,,10.0
+2021-09-19,2021,trofeo-matteotti,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,45.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Bardiani-CSF-Faizanè,1.1,,0,0,,0.0,,,6.0
+2021-10-17,2021,veneto-classic,gc,Bardiani-CSF-Faizanè,1.1,,,1,,0.0,,,14.0
+2021-01-17,2021,vuelta-al-tachira,gc,Bardiani-CSF-Faizanè,2.2,,0,0,,0.0,,,2.0
+2022-06-04,2022,adriatica-ionica-race,gc,Italy,2.1,26.0,0.0,1,,0.0,,,42.0
+2022-06-04,2022,adriatica-ionica-race,gc,Equipo Kern Pharma,2.1,,0,0,,0.0,,,8.0
+2022-05-26,2022,boucles-de-la-mayenne,gc,Equipo Kern Pharma,2.Pro,,0,0,,25.0,,,25.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,8.0
+2022-03-20,2022,cholet-pays-de-loire,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-06-14,2022,cic-mont-ventoux,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,25.0
+2022-07-31,2022,circuito-de-getxo,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-02-13,2022,clasica-de-almeria,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,5.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,6.0
+2022-04-15,2022,classic-grand-besancon-doubs,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-03-19,2022,classic-loire-atlantique,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,0.0
+2022-10-03,2022,coppa-bernocchi,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,5.0
+2022-01-28,2022,deia-trophy,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-02-02,2022,etoile-de-besseges,gc,Equipo Kern Pharma,2.1,,0,0,,6.0,,,6.0
+2022-06-02,2022,giro-dell-appennino,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,30.0
+2022-10-01,2022,giro-dell-emilia,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,3.0
+2022-09-02,2022,giro-della-regione-friuli-venezia-giulia,gc,Italy,2.2,,0,0,,25.0,,,25.0
+2022-04-12,2022,giro-di-sicilia,gc,Italy,2.1,16.0,3.0,1,,171.0,,,213.0
+2022-01-30,2022,gp-d-ouverture,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,73.0
+2022-05-14,2022,gp-de-plumelec,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,23.0
+2022-01-23,2022,gp-de-valence,gc,Equipo Kern Pharma,1.2,,0,0,,0.0,,,23.0
+2022-03-27,2022,gp-industria-artigianato,gc,Italy,1.Pro,,,1,,0.0,,,245.0
+2022-03-27,2022,gp-industria-artigianato,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,13.0
+2022-02-24,2022,gran-camino,gc,Equipo Kern Pharma,2.1,,0,0,,68.0,,,68.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,13.0
+2022-04-04,2022,itzulia-basque-country,gc,Equipo Kern Pharma,2.UWT,,0,0,,12.0,,,12.0
+2022-06-16,2022,la-route-d-occitanie,gc,Equipo Kern Pharma,2.1,,0,0,,5.0,,,19.0
+2022-04-24,2022,liege-bastogne-liege,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,0.0
+2022-06-30,2022,mediterranean-games-itt,gc,Italy,JR,,0,0,,0.0,,,0.0
+2022-05-31,2022,mercan-tour-classic-alpes-maritimes,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,5.0
+2022-07-02,2022,mersin-mediterranean-games,gc,Italy,JR,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-czech-republic2,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,5.0
+2022-06-22,2022,nc-netherlands-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-spain,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,40.0
+2022-06-24,2022,nc-spain-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,50.0
+2022-09-13,2022,okolo-slovenska,gc,Equipo Kern Pharma,2.1,52.0,0.0,1,,9.0,,,9.0
+2022-03-20,2022,per-sempre-alfredo,gc,Italy,1.1,,,1,,0.0,,,94.0
+2022-07-25,2022,prueba-villafranca,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-05-25,2022,rhone-alpes-isere-tour,gc,Equipo Kern Pharma,2.2,,0,0,,0.0,,,0.0
+2022-02-16,2022,ruta-del-sol,gc,Equipo Kern Pharma,2.Pro,,0,0,,0.0,,,0.0
+2022-02-16,2022,ruta-del-sol,gc,Gazprom - RusVelo,2.Pro,,0,0,,0.0,,,0.0
+2022-07-30,2022,san-sebastian,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,72.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Italy,2.1,27.0,0.0,1,,30.0,,,30.0
+2022-07-28,2022,tour-alsace,gc,Equipo Kern Pharma,2.2,,0,0,,0.0,,,0.0
+2022-04-26,2022,tour-de-romandie,gc,Equipo Kern Pharma,2.UWT,,0,0,,20.0,,,20.0
+2022-02-18,2022,tour-des-alpes-maritimes,gc,Equipo Kern Pharma,2.1,,0,0,,3.0,,,3.0
+2022-04-16,2022,tour-du-jura-cycliste,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2022-08-16,2022,tour-du-limousin,gc,Equipo Kern Pharma,2.1,,0,0,,0.0,,,0.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,Equipo Kern Pharma,2.1,,0,0,,6.0,,,6.0
+2022-02-10,2022,tour-of-antalya,gc,Gazprom - RusVelo,2.1,,0,0,,85.0,,,107.0
+2022-09-27,2022,tour-of-croatia,gc,Equipo Kern Pharma,2.1,,0,0,,3.0,,,3.0
+2022-02-10,2022,tour-of-oman,gc,Gazprom - RusVelo,2.Pro,,0,0,,25.0,,,25.0
+2022-06-15,2022,tour-of-slovenia,gc,Equipo Kern Pharma,2.Pro,,0,0,,98.0,,,98.0
+2022-04-18,2022,tour-of-the-alps,gc,Equipo Kern Pharma,2.Pro,,0,0,,6.0,,,6.0
+2022-04-10,2022,tour-of-turkey,gc,Equipo Kern Pharma,2.Pro,,0,0,,13.0,,,13.0
+2022-10-04,2022,tre-valli-varesine,gc,Equipo Kern Pharma,1.Pro,,,1,,0.0,,,3.0
+2022-05-15,2022,tro-bro-leon,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,3.0
+2022-01-26,2022,trofeo-calvia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,5.0
+2022-03-02,2022,trofeo-laigueglia,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,3.0
+2022-03-02,2022,trofeo-laigueglia,gc,Italy,1.Pro,,0,0,,0.0,,,3.0
+2022-01-30,2022,trofeo-palma,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2022-02-20,2022,uae-tour,gc,Gazprom - RusVelo,2.UWT,,0,0,,11.0,,,57.0
+2022-08-17,2022,uec-road-european-championships-itt,gc,Italy,CC,,0,0,,0.0,,,40.0
+2022-08-14,2022,uec-road-european-championships-me,gc,Italy,CC,,0,0,,0.0,,,120.0
+2022-03-21,2022,volta-a-catalunya,gc,Equipo Kern Pharma,2.UWT,,0,0,,2.0,,,2.0
+2022-08-02,2022,vuelta-a-burgos,gc,Equipo Kern Pharma,2.Pro,,0,0,,8.0,,,8.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,Equipo Kern Pharma,2.1,,0,0,,23.0,,,23.0
+2022-08-20,2022,vuelta-a-espana,gc,Equipo Kern Pharma,2.UWT,,0,0,,48.0,0.0,0.0,48.0
+2022-08-20,2022,vuelta-a-espana,kom,Equipo Kern Pharma,2.UWT,,0,0,,48.0,0.0,0.0,48.0
+2022-08-20,2022,vuelta-a-espana,points,Equipo Kern Pharma,2.UWT,,0,0,,48.0,0.0,0.0,48.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Gazprom - RusVelo,2.Pro,26.0,5.0,1,,10.0,,,10.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Equipo Kern Pharma,2.Pro,,0,0,,5.0,,,5.0
+2022-04-29,2022,vuelta-asturias,gc,Equipo Kern Pharma,2.1,,0,0,,43.0,,,46.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2022-09-25,2022,world-championship,gc,Italy,WC,,0,0,,0.0,,,505.0
+2022-09-18,2022,world-championship-itt,gc,Italy,WC,,0,0,,0.0,,,125.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Equipo Kern Pharma,2.Pro,,0,0,,0.0,,,0.0
+2023-08-17,2023,arctic-race-of-norway,gc,Equipo Kern Pharma,2.Pro,,0,0,,60.0,,,60.0
+2023-05-14,2023,boucles-de-l-aulne,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,9.0
+2023-05-25,2023,boucles-de-la-mayenne,gc,Equipo Kern Pharma,2.Pro,,0,0,,9.0,,,9.0
+2023-06-13,2023,cic-mont-ventoux,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,14.0
+2023-07-30,2023,circuito-de-getxo,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,5.0
+2023-02-12,2023,clasica-de-almeria,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,5.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-04-14,2023,classic-grand-besancon-doubs,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,70.0
+2023-07-27,2023,czech-tour,gc,Equipo Kern Pharma,2.1,17.0,3.0,1,,53.0,,,53.0
+2023-01-28,2023,deia-trophy,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-02-01,2023,etoile-de-besseges,gc,Equipo Kern Pharma,2.1,,0,0,,8.0,,,8.0
+2023-06-02,2023,giro-dell-appennino,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,53.0
+2023-01-29,2023,gp-d-ouverture,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-05-06,2023,gp-de-plumelec,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,8.0
+2023-01-22,2023,gp-de-valence,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,15.0
+2023-07-13,2023,gp-int-torres-vedras,gc,Equipo Kern Pharma,2.2,10.0,3.0,1,,3.0,,,4.0
+2023-02-23,2023,gran-camino,gc,Equipo Kern Pharma,2.1,20.0,3.0,1,,9.0,,,9.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,90.0
+2023-04-03,2023,itzulia-basque-country,gc,Equipo Kern Pharma,2.UWT,74.0,0.0,1,,16.0,,,16.0
+2023-04-19,2023,la-fleche-wallonne,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,52.0
+2023-06-15,2023,la-route-d-occitanie,gc,Equipo Kern Pharma,2.1,,0,0,,6.0,,,6.0
+2023-04-23,2023,liege-bastogne-liege,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,15.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-02-10,2023,muscat-classic,gc,Equipo Kern Pharma,1.1,,,1,,0.0,,,41.0
+2023-06-25,2023,nc-netherlands,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,0.0
+2023-06-21,2023,nc-netherlands-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,50.0
+2023-06-23,2023,nc-spain-itt,gc,Equipo Kern Pharma,NC,,0,0,,0.0,,,7.0
+2023-09-13,2023,okolo-slovenska,gc,Equipo Kern Pharma,2.1,39.0,0.0,1,,40.0,,,40.0
+2023-10-05,2023,paris-bourges,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2023-10-08,2023,paris-tours,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,5.0
+2023-07-25,2023,prueba-villafranca,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,61.0
+2023-02-15,2023,ruta-del-sol,gc,Equipo Kern Pharma,2.Pro,,0,0,,10.0,,,10.0
+2023-07-29,2023,san-sebastian,gc,Equipo Kern Pharma,1.UWT,,0,0,,0.0,,,36.0
+2023-09-23,2023,tour-de-langkawi,gc,Equipo Kern Pharma,2.Pro,,0,0,,183.0,,,193.0
+2023-03-12,2023,tour-de-taiwan,gc,Equipo Kern Pharma,2.1,,0,0,,85.0,,,99.0
+2023-10-01,2023,tour-de-vendee,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,0.0
+2023-04-16,2023,tour-du-doubs,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,45.0
+2023-05-13,2023,tour-du-finistere,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,11.0
+2023-04-15,2023,tour-du-jura-cycliste,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,30.0
+2023-09-03,2023,tour-of-britain,gc,Equipo Kern Pharma,2.Pro,,0,0,,33.0,,,33.0
+2023-09-26,2023,tour-of-croatia,gc,Equipo Kern Pharma,2.1,,0,0,,38.0,,,23.0
+2023-02-11,2023,tour-of-oman,gc,Equipo Kern Pharma,2.Pro,24.0,5.0,1,,13.0,,,13.0
+2023-06-14,2023,tour-of-slovenia,gc,Equipo Kern Pharma,2.Pro,,0,0,,63.0,,,63.0
+2023-04-17,2023,tour-of-the-alps,gc,Equipo Kern Pharma,2.Pro,,,1,,0.0,,,0.0
+2023-05-07,2023,tro-bro-leon,gc,Equipo Kern Pharma,1.Pro,,0,0,,0.0,,,3.0
+2023-01-25,2023,trofeo-calvia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2023-01-29,2023,trofeo-palma,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,53.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,6.0
+2023-03-19,2023,trofeu-da-arrabida,gc,Equipo Kern Pharma,1.2,,,1,,0.0,,,30.0
+2023-03-20,2023,volta-a-catalunya,gc,Equipo Kern Pharma,2.UWT,,0,0,,8.0,,,8.0
+2023-08-09,2023,volta-a-portugal,gc,Equipo Kern Pharma,2.1,,0,0,,3.0,,,6.0
+2023-03-22,2023,volta-ao-alentejo,gc,Equipo Kern Pharma,2.2,5.0,15.0,1,,20.0,,,20.0
+2023-08-15,2023,vuelta-a-burgos,gc,Equipo Kern Pharma,2.Pro,,0,0,,75.0,,,85.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Equipo Kern Pharma,2.1,,0,0,,0.0,,,5.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Equipo Kern Pharma,2.Pro,57.0,0.0,1,,3.0,,,3.0
+2023-04-28,2023,vuelta-asturias,gc,Equipo Kern Pharma,2.1,,0,0,,49.0,,,52.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Equipo Kern Pharma,1.1,,0,0,,0.0,,,3.0
+2024-01-30,2024,alula-tour,gc,JCL Team UKYO,2.1,28.0,0.0,1,,3.0,,,3.0
+2024-04-09,2024,giro-d-abruzzo,gc,JCL Team UKYO,2.1,9.0,25.0,1,,28.0,,,36.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,JCL Team UKYO,2.2,,0,0,,3.0,,,10.0
+2024-04-21,2024,giro-di-romagna,gc,JCL Team UKYO,1.1,,,1,,0.0,,,80.0
+2024-09-08,2024,gp-industria-artigianato,gc,JCL Team UKYO,1.Pro,,,1,,0.0,,,41.0
+2024-10-20,2024,japan-cup,gc,JCL Team UKYO,1.Pro,,0,0,,0.0,,,18.0
+2024-09-14,2024,memorial-marco-pantani,gc,JCL Team UKYO,1.1,,0,0,,0.0,,,10.0
+2024-02-09,2024,muscat-classic,gc,JCL Team UKYO,1.1,,,1,,0.0,,,6.0
+2024-01-07,2024,nc-australia,gc,JCL Team UKYO,NC,,0,0,,0.0,,,5.0
+2024-06-23,2024,nc-italy,gc,JCL Team UKYO,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-japan,gc,JCL Team UKYO,NC,,0,0,,0.0,,,123.0
+2024-06-21,2024,nc-japan-itt,gc,JCL Team UKYO,NC,,0,0,,0.0,,,16.0
+2024-09-29,2024,oita-urban-classic,gc,JCL Team UKYO,1.2,,0,0,,0.0,,,33.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,JCL Team UKYO,2.1,9.0,25.0,1,,45.0,,,50.0
+2024-05-10,2024,tour-de-kumano,gc,JCL Team UKYO,2.2,,0,0,,85.0,,,92.0
+2024-10-12,2024,tour-de-kyushu,gc,JCL Team UKYO,2.1,,0,0,,53.0,,,53.0
+2024-09-29,2024,tour-de-langkawi,gc,JCL Team UKYO,2.Pro,,,1,,161.0,,,266.0
+2024-03-10,2024,tour-de-taiwan,gc,JCL Team UKYO,2.1,,0,0,,91.0,,,101.0
+2024-08-24,2024,tour-of-bulgaria,gc,JCL Team UKYO,2.2,2.0,30.0,1,,95.0,,,128.0
+2024-05-19,2024,tour-of-japan,gc,JCL Team UKYO,2.2,1.0,40.0,1,,40.0,,,69.0
+2024-02-10,2024,tour-of-oman,gc,JCL Team UKYO,2.Pro,32.0,3.0,1,,26.0,,,26.0
+2024-04-15,2024,tour-of-the-alps,gc,JCL Team UKYO,2.Pro,38.0,3.0,1,,6.0,,,6.0
+2024-02-28,2024,trofeo-laigueglia,gc,JCL Team UKYO,1.Pro,,,1,,0.0,,,5.0
+2024-09-15,2024,trofeo-matteotti,gc,JCL Team UKYO,1.1,,,1,,0.0,,,40.0
+2025-05-14,2025,4-jours-de-dunkerque,gc,Unibet Tietema Rockets,2.Pro,,0,0,,13.0,,,16.0
+2025-04-20,2025,amstel-gold-race,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,10.0
+2025-06-22,2025,andorra-morabanc-classica,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-06-09,2025,antwerp-port-epic,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,13.0
+2025-08-07,2025,arctic-race-of-norway,gc,Unibet Tietema Rockets,2.Pro,,0,0,,5.0,,,5.0
+2025-05-08,2025,boucles-de-l-aulne,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,41.0
+2025-05-29,2025,boucles-de-la-mayenne,gc,Unibet Tietema Rockets,2.Pro,,0,0,,8.0,,,-7.0
+2025-04-18,2025,brabantse-pijl,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,-7.0
+2025-06-08,2025,brussels-cycling-classic,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,16.0
+2025-03-23,2025,cholet-pays-de-loire,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,185.0
+2025-06-15,2025,circuit-des-xi-villes,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,23.0
+2025-03-26,2025,classic-brugge-de-panne,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,30.0
+2025-04-18,2025,classic-grand-besancon-doubs,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,50.0
+2025-02-21,2025,classic-var,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-05-13,2025,classique-dunkerque,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,23.0
+2025-06-22,2025,copenhagen-sprint,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,29.0
+2025-06-29,2025,danish-championships,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-01-31,2025,deia-trophy,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,0.0
+2025-06-14,2025,dwars-door-het-hageland,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,10.0
+2025-02-05,2025,etoile-de-besseges,gc,Unibet Tietema Rockets,2.1,,0,0,,0.0,,,0.0
+2025-05-04,2025,famenne-ardenne-classic,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,25.0
+2025-03-01,2025,faun-ardeche-classic,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,5.0
+2025-09-10,2025,giro-di-toscana,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,0.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,5.0
+2025-09-21,2025,gp-d-isbergues,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,20.0
+2025-02-02,2025,gp-d-ouverture,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,6.0
+2025-03-20,2025,gp-de-denain,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,70.0
+2025-09-14,2025,gp-de-fourmies,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,13.0
+2025-05-10,2025,gp-de-plumelec,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,10.0
+2025-09-07,2025,gp-industria-artigianato,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,15.0
+2025-03-04,2025,gp-samyn,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,23.0
+2025-10-09,2025,gran-piemonte,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,5.0
+2025-03-08,2025,grand-prix-criquielion,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,25.0
+2025-03-09,2025,grote-prijs-jean-pierre-monsere,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-06-07,2025,heist-op-den-berg,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,6.0
+2025-09-19,2025,kampioenschap-van-vlaanderen1,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-03-02,2025,kuurne-brussel-kuurne,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,43.0
+2025-03-02,2025,la-drome-classic,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,5.0
+2025-08-17,2025,la-poly-normande,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,0.0
+2025-03-30,2025,la-roue-tourangelle,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,6.0
+2025-06-18,2025,la-route-d-occitanie,gc,Unibet Tietema Rockets,2.1,,,1,,30.0,,,30.0
+2025-10-07,2025,memorial-frank-vandenbroucke,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,33.0
+2025-09-13,2025,memorial-marco-pantani,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-05-26,2025,mercan-tour-classic-alpes-maritimes,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,63.0
+2025-03-19,2025,milano-torino,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,3.0
+2025-10-03,2025,munsterland-giro,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,91.0
+2025-08-27,2025,muur-classic-geraardsbergen,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,63.0
+2025-06-29,2025,nc-belgium,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-26,2025,nc-czech-republic-itt,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-czech-republic2,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,20.0
+2025-06-29,2025,nc-france,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-28,2025,nc-netherlands,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,30.0
+2025-06-24,2025,nc-netherlands-itt,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-slovakia,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,100.0
+2025-06-26,2025,nc-slovakia-itt,gc,Unibet Tietema Rockets,NC,,0,0,,0.0,,,30.0
+2025-03-19,2025,nokere-koerse,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,51.0
+2025-09-17,2025,okolo-slovenska,gc,Unibet Tietema Rockets,2.1,,0,0,,50.0,,,70.0
+2025-03-01,2025,omloop-het-nieuwsblad,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,120.0
+2025-09-24,2025,omloop-van-het-houtland-lichtervelde,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,33.0
+2025-04-02,2025,paris-camembert,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,128.0
+2025-09-28,2025,paris-chauny-classique,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,70.0
+2025-04-13,2025,paris-roubaix,gc,Unibet Tietema Rockets,1.UWT,,0,0,,0.0,,,70.0
+2025-10-12,2025,paris-tours,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,18.0
+2025-07-25,2025,prueba-villafranca,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-04-08,2025,region-pays-de-la-loire,gc,Unibet Tietema Rockets,2.1,,0,0,,40.0,,,40.0
+2025-08-20,2025,renewi-tour,gc,Unibet Tietema Rockets,2.UWT,,0,0,,32.0,,,32.0
+2025-04-16,2025,ronde-van-limburg,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,0.0
+2025-04-04,2025,route-adelie-de-vitre,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,20.0
+2025-02-19,2025,ruta-del-sol,gc,Unibet Tietema Rockets,2.Pro,15.0,10.0,1,,10.0,,,15.0
+2025-04-09,2025,scheldeprijs,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,0.0
+2025-03-25,2025,settimana-internazionale-coppi-e-bartali,gc,Unibet Tietema Rockets,2.1,7.0,35.0,1,,35.0,,,35.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Unibet Tietema Rockets,2.1,,0,0,,70.0,,,81.0
+2025-02-14,2025,tour-cycliste-international-la-provence,gc,Unibet Tietema Rockets,2.1,,0,0,,53.0,,,58.0
+2025-05-14,2025,tour-de-hongrie,gc,Unibet Tietema Rockets,2.Pro,,0,0,,60.0,,,60.0
+2025-08-06,2025,tour-de-l-ain,gc,Unibet Tietema Rockets,2.1,,0,0,,15.0,,,15.0
+2025-09-28,2025,tour-de-langkawi,gc,Unibet Tietema Rockets,2.Pro,,0,0,,98.0,,,121.0
+2025-03-16,2025,tour-de-taiwan,gc,Unibet Tietema Rockets,2.1,,0,0,,5.0,,,10.0
+2025-10-11,2025,tour-de-vendee,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,45.0
+2025-02-22,2025,tour-des-alpes-maritimes,gc,Unibet Tietema Rockets,2.1,,0,0,,6.0,,,6.0
+2025-04-20,2025,tour-du-doubs,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,85.0
+2025-05-09,2025,tour-du-finistere,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-04-19,2025,tour-du-jura-cycliste,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,35.0
+2025-08-19,2025,tour-du-limousin,gc,Unibet Tietema Rockets,2.1,,0,0,,8.0,,,8.0
+2025-08-26,2025,tour-du-poitou-charentes-et-de-la-vienne,gc,Unibet Tietema Rockets,2.1,,0,0,,8.0,,,11.0
+2025-07-09,2025,tour-of-austria,gc,Unibet Tietema Rockets,2.1,,0,0,,5.0,,,5.0
+2025-06-18,2025,tour-of-belgium,gc,Unibet Tietema Rockets,2.Pro,,0,0,,15.0,,,15.0
+2025-09-02,2025,tour-of-britain,gc,Unibet Tietema Rockets,2.Pro,,0,0,,11.0,,,11.0
+2025-08-12,2025,tour-of-denmark,gc,Unibet Tietema Rockets,2.Pro,,0,0,,110.0,,,110.0
+2025-04-02,2025,tour-of-hellas,gc,Unibet Tietema Rockets,2.1,17.0,3.0,1,,86.0,,,85.0
+2025-10-14,2025,tour-of-holland,gc,Unibet Tietema Rockets,2.1,,0,0,,118.0,,,121.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,Unibet Tietema Rockets,2.Pro,18.0,5.0,1,,18.0,,,21.0
+2025-05-29,2025,tour-of-norway,gc,Unibet Tietema Rockets,2.Pro,,0,0,,19.0,,,4.0
+2025-06-04,2025,tour-of-slovenia,gc,Unibet Tietema Rockets,2.Pro,44.0,0.0,1,,20.0,,,20.0
+2025-04-27,2025,tour-of-turkey,gc,Unibet Tietema Rockets,2.Pro,8.0,50.0,1,,93.0,,,121.0
+2025-05-11,2025,tro-bro-leon,gc,Unibet Tietema Rockets,1.Pro,,0,0,,0.0,,,13.0
+2025-10-12,2025,trofeo-baracchi,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-01-29,2025,trofeo-calvia,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,8.0
+2025-03-05,2025,trofeo-laigueglia,gc,Unibet Tietema Rockets,1.Pro,,,1,,0.0,,,94.0
+2025-09-14,2025,trofeo-matteotti,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,3.0
+2025-02-02,2025,trofeo-palma,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,10.0
+2025-02-01,2025,trofeo-pollenca-port-d-andratx,gc,Unibet Tietema Rockets,1.1,,,1,,0.0,,,0.0
+2025-01-30,2025,trofeo-ses-salines-felanitx,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,38.0
+2025-04-05,2025,volta-nxt-classic,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,61.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Unibet Tietema Rockets,1.1,,0,0,,0.0,,,66.0

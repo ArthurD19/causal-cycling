@@ -1,0 +1,62 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-04-01,2017,tour-of-thailand,gc,Team Novo Nordisk Development,2.1,101.0,0.0,1,,0.0,,,0.0
+2017-05-17,2017,tour-of-ukraine,gc,Team Novo Nordisk Development,2.2,86.0,0.0,1,,0.0,,,0.0
+2017-02-27,2017,vuelta-independencia-nacional,gc,Team Novo Nordisk Development,2.2,58.0,0.0,1,,0.0,,,0.0
+2019-05-05,2019,circuito-del-porto-trofeo-arvedi,gc,Team Skyline,1.2,,,1,,0.0,,,0.0
+2019-06-13,2019,coupe-des-nations-ville-saguenay,gc,Team Skyline,2.2,,,1,,0.0,,,0.0
+2019-04-28,2019,giro-dell-appennino,gc,Team Skyline,1.1,,,1,,0.0,,,0.0
+2019-06-19,2019,tour-de-beauce,gc,Team Skyline,2.2,,,1,,0.0,,,0.0
+2019-05-27,2019,winston-salem-cycling-classic,gc,Team Skyline,1.2,,,1,,0.0,,,0.0
+2021-09-10,2021,nc-canada-itt,gc,Team Skyline,NC,,0,0,,0.0,,,0.0
+2021-09-11,2021,nc-canada2,gc,Team Skyline,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Team Skyline,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-united-states,gc,Team Skyline,NC,,,1,,0.0,,,0.0
+2021-06-17,2021,nc-usa-itt,gc,Team Skyline,NC,,0,0,,0.0,,,0.0
+2022-04-14,2022,banja-luka-belgrade-i,gc,Team Novo Nordisk Development,2.1,52.0,0.0,1,,0.0,,,0.0
+2022-05-01,2022,circuito-del-porto-trofeo-arvedi,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2022-03-24,2022,gp-goriska-vipava-valley,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2022-03-20,2022,gp-izola-butan-plin,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2022-08-21,2022,grand-prix-cappadocia,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2022-08-20,2022,grand-prix-develi,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2022-08-19,2022,grand-prix-kapuzbasi,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2022-08-18,2022,grand-prix-tomarza,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2022-03-10,2022,istrian-spring-tour,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2022-05-19,2022,joe-martin-stage-race-me,gc,Team Novo Nordisk Development,2.2,,,1,,0.0,,,0.0
+2022-06-26,2022,nc-united-states,gc,Team Novo Nordisk Development,NC,,,1,,0.0,,,0.0
+2022-09-08,2022,okolo-jiznich-cech,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2022-08-25,2022,tour-of-konya,gc,Team Novo Nordisk Development,2.2,50.0,0.0,1,,0.0,,,0.0
+2022-03-02,2022,trofej-umag,gc,Team Novo Nordisk Development,1.2,,,1,,0.0,,,0.0
+2023-06-28,2023,course-cycliste-de-solidarnosc,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2023-03-26,2023,gp-adria-mobil,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2023-07-15,2023,gp-cycliste-de-gemenc,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2023-07-23,2023,gp-czech-republic,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2023-09-02,2023,in-the-footsteps-of-the-romans,gc,Team Novo Nordisk Development,2.2,30.0,0.0,1,,0.0,,,0.0
+2023-05-18,2023,joe-martin-stage-race-me,gc,Team Novo Nordisk Development,2.2,,,1,,0.0,,,0.0
+2023-06-21,2023,nc-great-britain-itt,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-poland,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-poland-itt,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2023-09-07,2023,okolo-jiznich-cech,gc,Team Novo Nordisk Development,2.2,97.0,0.0,1,,0.0,,,0.0
+2023-03-11,2023,rhodes-gp,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2023-03-04,2023,south-aegean-tour,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2023-09-28,2023,tour-of-istanbul,gc,Team Novo Nordisk Development,2.2,64.0,0.0,1,,0.0,,,0.0
+2023-03-17,2023,tour-of-rhodes,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2023-04-26,2023,tour-of-the-gila,gc,Team Novo Nordisk Development,2.2,70.0,0.0,1,,0.0,,,0.0
+2023-07-22,2023,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,danish-championships,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2024-07-24,2024,dookola-mazowsza,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2024-07-20,2024,gp-czech-republic,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2024-05-19,2024,gran-premio-new-york-city,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2024-08-31,2024,in-the-footsteps-of-the-romans,gc,Team Novo Nordisk Development,2.2,,0,0,,20.0,,,21.0
+2024-07-23,2024,memorial-andrzeja-trochanowskiego,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-poland,gc,Team Novo Nordisk Development,NC,,0,0,,0.0,,,0.0
+2024-07-28,2024,puchar-ministra-obrony-narodowej,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2024-03-09,2024,rhodes-gp,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,south-aegean-tour,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,-2.0
+2024-06-12,2024,tour-de-beauce,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2024-08-24,2024,tour-of-bulgaria,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2024-03-14,2024,tour-of-rhodes,gc,Team Novo Nordisk Development,2.2,122.0,0.0,1,,0.0,,,-5.0
+2024-04-24,2024,tour-of-the-gila,gc,Team Novo Nordisk Development,2.2,,0,0,,0.0,,,0.0
+2024-07-21,2024,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team Novo Nordisk Development,1.2,,0,0,,0.0,,,0.0

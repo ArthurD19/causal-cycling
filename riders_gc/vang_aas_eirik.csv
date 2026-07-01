@@ -1,0 +1,56 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2021-10-03,2021,gylne-gutuer,gc,Gauldal SK,1.2,,,1,,0.0,,,0.0
+2021-10-02,2021,lillehammer-gp,gc,Gauldal SK,1.2,,,1,,0.0,,,0.0
+2022-09-04,2022,gylne-gutuer,gc,Gauldal SK,1.2,,,1,,0.0,,,0.0
+2022-05-07,2022,hadeland-gp,gc,Gauldal SK,1.2,,,1,,0.0,,,3.0
+2022-09-03,2022,lillehammer-gp,gc,Gauldal SK,1.2,,,1,,0.0,,,0.0
+2022-05-08,2022,ringerike-gp,gc,Gauldal SK,1.2,,,1,,0.0,,,0.0
+2022-08-06,2022,scandinavian-race-uppsala,gc,Gauldal SK,1.2,,,1,,0.0,,,0.0
+2023-08-17,2023,arctic-race-of-norway,gc,Norway,2.Pro,,0,0,,3.0,,,18.0
+2023-09-10,2023,gp-de-la-somme,gc,CC Étupes,1.2,,,1,,0.0,,,13.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,CC Étupes,1.2,,0,0,,0.0,,,0.0
+2023-09-03,2023,grand-prix-de-plouay,gc,CC Étupes,1.2,,,1,,0.0,,,10.0
+2023-03-04,2023,le-tour-des-100-communes,gc,CC Étupes,1.2,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-ireland,gc,CC Étupes,NC,,0,0,,0.0,,,10.0
+2023-06-25,2023,nc-norway,gc,CC Étupes,NC,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-sweden,gc,CC Étupes,NC,,0,0,,0.0,,,60.0
+2023-06-22,2023,nc-sweden-itt,gc,CC Étupes,NC,,0,0,,0.0,,,10.0
+2023-06-25,2023,ncgreat-britain,gc,CC Étupes,NC,,0,0,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,CC Étupes,1.2,,0,0,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,CC Étupes,2.2,,0,0,,0.0,,,0.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,CC Étupes,2.2,99.0,0.0,1,,15.0,,,15.0
+2023-05-26,2023,tour-of-norway,gc,Norway,2.Pro,104.0,0.0,1,,3.0,,,3.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Norway,CC,,0,0,,0.0,,,100.0
+2023-08-06,2023,world-championship,gc,Norway,WC,,0,0,,0.0,,,70.0
+2023-08-11,2023,world-championship-itt,gc,Norway,WC,,0,0,,0.0,,,85.0
+2024-05-26,2024,albani-classic-fyen-rundt,gc,IL Stjørdals Blink,1.2,,0,0,,0.0,,,0.0
+2024-05-25,2024,gp-herning,gc,IL Stjørdals Blink,1.2,,0,0,,0.0,,,0.0
+2024-05-04,2024,hadeland-gp,gc,IL Stjørdals Blink,1.2,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-norway,gc,IL Stjørdals Blink,NC,,,1,,0.0,,,40.0
+2024-08-03,2024,olympic-games,gc,Norway,Olympics,,0,0,,0.0,,,0.0
+2024-07-27,2024,olympic-games-itt,gc,Norway,Olympics,,0,0,,0.0,,,30.0
+2024-05-05,2024,ringerike-gp,gc,IL Stjørdals Blink,1.2,,,1,,0.0,,,0.0
+2024-06-05,2024,tour-of-lithuania,gc,IL Stjørdals Blink,2.2,13.0,0.0,1,,20.0,,,23.0
+2024-05-23,2024,tour-of-norway,gc,Norway,2.Pro,74.0,0.0,1,,8.0,,,8.0
+2024-08-07,2024,tour-of-szeklerland,gc,IL Stjørdals Blink,2.2,11.0,0.0,1,,0.0,,,0.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Norway,CC,,0,0,,0.0,,,5.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Norway,CC,,0,0,,0.0,,,115.0
+2024-09-29,2024,world-championship,gc,Norway,WC,,0,0,,0.0,,,95.0
+2024-09-22,2024,world-championship-itt,gc,Norway,WC,,0,0,,0.0,,,125.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Team Coop - Repsol,1.2,,,1,,0.0,,,20.0
+2025-08-07,2025,arctic-race-of-norway,gc,Team Coop - Repsol,2.Pro,85.0,0.0,1,,28.0,,,38.0
+2025-04-09,2025,circuit-des-ardennes,gc,Team Coop - Repsol,2.2,,,1,,0.0,,,7.0
+2025-09-21,2025,gooikse-pijl,gc,Team Coop - Repsol,1.1,,,1,,0.0,,,20.0
+2025-05-03,2025,gp-herning,gc,Team Coop - Repsol,1.2,,,1,,0.0,,,23.0
+2025-05-10,2025,hadeland-gp,gc,Team Coop - Repsol,1.2,,,1,,0.0,,,20.0
+2025-06-29,2025,nc-norway,gc,Team Coop - Repsol,NC,,,1,,0.0,,,0.0
+2025-06-26,2025,nc-norway-itt,gc,Team Coop - Repsol,NC,,,1,,0.0,,,0.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Team Coop - Repsol,2.2,,0,0,,0.0,,,0.0
+2025-03-26,2025,olympias-tour,gc,Team Coop - Repsol,2.2,13.0,0.0,1,,3.0,,,6.0
+2025-03-08,2025,rhodes-gp,gc,Team Coop - Repsol,1.2,,,1,,0.0,,,-1.0
+2025-05-11,2025,ringerike-gp,gc,Team Coop - Repsol,1.2,,,1,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,Team Coop - Repsol,2.2,,0,0,,3.0,,,3.0
+2025-04-16,2025,tour-du-loir-et-cher,gc,Team Coop - Repsol,2.2,,0,0,,5.0,,,5.0
+2025-07-09,2025,tour-of-austria,gc,Team Coop - Repsol,2.1,71.0,0.0,1,,3.0,,,3.0
+2025-05-29,2025,tour-of-norway,gc,Team Coop - Repsol,2.Pro,75.0,0.0,1,,5.0,,,25.0
+2025-03-13,2025,tour-of-rhodes,gc,Team Coop - Repsol,2.2,29.0,0.0,1,,6.0,,,6.0

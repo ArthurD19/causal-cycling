@@ -1,0 +1,158 @@
+jour,mois,annee,stage,nom_pcs,categorie,fichier_gpx,fichier_pcs,score,statut
+17,1,2017,stage_1,tour-down-under,2.UWT,2017 Santos Tour Down Under Stage 1.gpx,17_January_2017__stage_1__tour-down-under_2017__2.UWT.csv,100.0,match
+18,1,2017,stage_2,tour-down-under,2.UWT,2017 Santos Tour Down Under Stage 2.gpx,18_January_2017__stage_2__tour-down-under_2017__2.UWT.csv,100.0,match
+19,1,2017,stage_3,tour-down-under,2.UWT,2017 Santos Tour Down Under Stage 3.gpx,19_January_2017__stage_3__tour-down-under_2017__2.UWT.csv,100.0,match
+20,1,2017,stage_4,tour-down-under,2.UWT,2017 Santos Tour Down Under Stage 4.gpx,20_January_2017__stage_4__tour-down-under_2017__2.UWT.csv,100.0,match
+21,1,2017,stage_5,tour-down-under,2.UWT,2017 Santos Tour Down Under Stage 5.gpx,21_January_2017__stage_5__tour-down-under_2017__2.UWT.csv,100.0,match
+22,1,2017,stage_6,tour-down-under,2.UWT,2017 Santos Tour Down Under Stage 6.gpx,22_January_2017__stage_6__tour-down-under_2017__2.UWT.csv,100.0,match
+23,2,2017,stage_1,abu-dhabi-tour,2.UWT,2017 Abu Dhabi Tour Stage 1.gpx,23_February_2017__stage_1__abu-dhabi-tour_2017__2.UWT.csv,100.0,match
+24,2,2017,stage_2,abu-dhabi-tour,2.UWT,2017 Abu Dhabi Tour Stage 2.gpx,24_February_2017__stage_2__abu-dhabi-tour_2017__2.UWT.csv,100.0,match
+25,2,2017,stage_3,abu-dhabi-tour,2.UWT,2017 Abu Dhabi Tour Stage 3.gpx,25_February_2017__stage_3__abu-dhabi-tour_2017__2.UWT.csv,100.0,match
+26,2,2017,stage_4,abu-dhabi-tour,2.UWT,2017 Abu Dhabi Tour Stage 4.gpx,26_February_2017__stage_4__abu-dhabi-tour_2017__2.UWT.csv,100.0,match
+5,3,2017,stage_1,paris-nice,2.UWT,2017 Paris-Nice Stage 1.gpx,05_March_2017__stage_1__paris-nice_2017__2.UWT.csv,100.0,match
+6,3,2017,stage_2,paris-nice,2.UWT,2017 Paris-Nice Stage 2.gpx,06_March_2017__stage_2__paris-nice_2017__2.UWT.csv,100.0,match
+7,3,2017,stage_3,paris-nice,2.UWT,2017 Paris-Nice Stage 3.gpx,07_March_2017__stage_3__paris-nice_2017__2.UWT.csv,100.0,match
+8,3,2017,stage_4,paris-nice,2.UWT,2017 Paris-Nice Stage 4.gpx,08_March_2017__stage_4__paris-nice_2017__2.UWT.csv,100.0,match
+8,3,2017,stage_1,tirreno-adriatico,2.UWT,2017 Tirreno-Adriatico Stage 1.gpx,08_March_2017__stage_1__tirreno-adriatico_2017__2.UWT.csv,100.0,match
+9,3,2017,stage_2,tirreno-adriatico,2.UWT,2017 Tirreno-Adriatico Stage 2.gpx,09_March_2017__stage_2__tirreno-adriatico_2017__2.UWT.csv,100.0,match
+9,3,2017,stage_5,paris-nice,2.UWT,2017 Paris-Nice Stage 5.gpx,09_March_2017__stage_5__paris-nice_2017__2.UWT.csv,100.0,match
+10,3,2017,stage_3,tirreno-adriatico,2.UWT,2017 Tirreno-Adriatico Stage 3.gpx,10_March_2017__stage_3__tirreno-adriatico_2017__2.UWT.csv,100.0,match
+10,3,2017,stage_6,paris-nice,2.UWT,2017 Paris-Nice Stage 6.gpx,10_March_2017__stage_6__paris-nice_2017__2.UWT.csv,100.0,match
+11,3,2017,stage_4,tirreno-adriatico,2.UWT,2017 Tirreno-Adriatico Stage 4.gpx,11_March_2017__stage_4__tirreno-adriatico_2017__2.UWT.csv,100.0,match
+11,3,2017,stage_7,paris-nice,2.UWT,2017 Paris-Nice Stage 7.gpx,11_March_2017__stage_7__paris-nice_2017__2.UWT.csv,100.0,match
+12,3,2017,stage_8,paris-nice,2.UWT,2017 Paris-Nice Stage 8.gpx,12_March_2017__stage_8__paris-nice_2017__2.UWT.csv,100.0,match
+12,3,2017,stage_5,tirreno-adriatico,2.UWT,2017 Tirreno-Adriatico Stage 5.gpx,12_March_2017__stage_5__tirreno-adriatico_2017__2.UWT.csv,100.0,match
+13,3,2017,stage_6,tirreno-adriatico,2.UWT,2017 Tirreno-Adriatico Stage 6.gpx,13_March_2017__stage_6__tirreno-adriatico_2017__2.UWT.csv,100.0,match
+14,3,2017,stage_7,tirreno-adriatico,2.UWT,2017 Tirreno-Adriatico Stage 7.gpx,14_March_2017__stage_7__tirreno-adriatico_2017__2.UWT.csv,100.0,match
+20,3,2017,stage_1,volta-a-catalunya,2.UWT,2017 Volta Ciclista a Catalunya Stage 1.gpx,20_March_2017__stage_1__volta-a-catalunya_2017__2.UWT.csv,100.0,match
+21,3,2017,stage_2,volta-a-catalunya,2.UWT,2017 Volta Ciclista a Catalunya Stage 2.gpx,21_March_2017__stage_2__volta-a-catalunya_2017__2.UWT.csv,100.0,match
+22,3,2017,stage_3,volta-a-catalunya,2.UWT,2017 Volta Ciclista a Catalunya Stage 3.gpx,22_March_2017__stage_3__volta-a-catalunya_2017__2.UWT.csv,100.0,match
+23,3,2017,stage_4,volta-a-catalunya,2.UWT,2017 Volta Ciclista a Catalunya Stage 4.gpx,23_March_2017__stage_4__volta-a-catalunya_2017__2.UWT.csv,100.0,match
+24,3,2017,stage_5,volta-a-catalunya,2.UWT,2017 Volta Ciclista a Catalunya Stage 5.gpx,24_March_2017__stage_5__volta-a-catalunya_2017__2.UWT.csv,100.0,match
+25,3,2017,stage_6,volta-a-catalunya,2.UWT,2017 Volta Ciclista a Catalunya Stage 6.gpx,25_March_2017__stage_6__volta-a-catalunya_2017__2.UWT.csv,100.0,match
+26,3,2017,stage_7,volta-a-catalunya,2.UWT,2017 Volta Ciclista a Catalunya Stage 7.gpx,26_March_2017__stage_7__volta-a-catalunya_2017__2.UWT.csv,100.0,match
+3,4,2017,stage_1,itzulia-basque-country,2.UWT,2017 Vuelta al Pais Vasco Stage 1.gpx,03_April_2017__stage_1__itzulia-basque-country_2017__2.UWT.csv,100.0,match
+4,4,2017,stage_2,itzulia-basque-country,2.UWT,2017 Vuelta al Pais Vasco Stage 2.gpx,04_April_2017__stage_2__itzulia-basque-country_2017__2.UWT.csv,100.0,match
+5,4,2017,stage_3,itzulia-basque-country,2.UWT,2017 Vuelta al Pais Vasco Stage 3.gpx,05_April_2017__stage_3__itzulia-basque-country_2017__2.UWT.csv,100.0,match
+6,4,2017,stage_4,itzulia-basque-country,2.UWT,2017 Vuelta al Pais Vasco Stage 4.gpx,06_April_2017__stage_4__itzulia-basque-country_2017__2.UWT.csv,100.0,match
+7,4,2017,stage_5,itzulia-basque-country,2.UWT,2017 Vuelta al Pais Vasco Stage 5.gpx,07_April_2017__stage_5__itzulia-basque-country_2017__2.UWT.csv,100.0,match
+8,4,2017,stage_6,itzulia-basque-country,2.UWT,2017 Vuelta al Pais Vasco Stage 6.gpx,08_April_2017__stage_6__itzulia-basque-country_2017__2.UWT.csv,100.0,match
+25,4,2017,prologue,tour-de-romandie,2.UWT,2017 Tour de Romandie Prologue.gpx,25_April_2017__Prologue__tour-de-romandie_2017__2.UWT.csv,100.0,match
+26,4,2017,stage_1,tour-de-romandie,2.UWT,2017 Tour de Romandie Stage 1.gpx,26_April_2017__stage_1__tour-de-romandie_2017__2.UWT.csv,100.0,match
+27,4,2017,stage_2,tour-de-romandie,2.UWT,2017 Tour de Romandie Stage 2.gpx,27_April_2017__stage_2__tour-de-romandie_2017__2.UWT.csv,100.0,match
+28,4,2017,stage_3,tour-de-romandie,2.UWT,2017 Tour de Romandie Stage 3.gpx,28_April_2017__stage_3__tour-de-romandie_2017__2.UWT.csv,100.0,match
+29,4,2017,stage_4,tour-de-romandie,2.UWT,2017 Tour de Romandie Stage 4.gpx,29_April_2017__stage_4__tour-de-romandie_2017__2.UWT.csv,100.0,match
+30,4,2017,stage_5,tour-de-romandie,2.UWT,2017 Tour de Romandie Stage 5.gpx,30_April_2017__stage_5__tour-de-romandie_2017__2.UWT.csv,100.0,match
+5,5,2017,stage_1,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 1.gpx,05_May_2017__stage_1__giro-d-italia_2017__2.UWT.csv,100.0,match
+6,5,2017,stage_2,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 2.gpx,06_May_2017__stage_2__giro-d-italia_2017__2.UWT.csv,100.0,match
+7,5,2017,stage_3,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 3.gpx,07_May_2017__stage_3__giro-d-italia_2017__2.UWT.csv,100.0,match
+9,5,2017,stage_4,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 4.gpx,09_May_2017__stage_4__giro-d-italia_2017__2.UWT.csv,100.0,match
+10,5,2017,stage_5,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 5.gpx,10_May_2017__stage_5__giro-d-italia_2017__2.UWT.csv,100.0,match
+11,5,2017,stage_6,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 6.gpx,11_May_2017__stage_6__giro-d-italia_2017__2.UWT.csv,100.0,match
+12,5,2017,stage_7,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 7.gpx,12_May_2017__stage_7__giro-d-italia_2017__2.UWT.csv,100.0,match
+13,5,2017,stage_8,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 8.gpx,13_May_2017__stage_8__giro-d-italia_2017__2.UWT.csv,100.0,match
+14,5,2017,stage_9,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 9.gpx,14_May_2017__stage_9__giro-d-italia_2017__2.UWT.csv,100.0,match
+14,5,2017,stage_1,tour-of-california,2.UWT,2017 Amgen Tour of California Stage 1.gpx,14_May_2017__stage_1__tour-of-california_2017__2.UWT.csv,100.0,match
+15,5,2017,stage_2,tour-of-california,2.UWT,2017 Amgen Tour of California Stage 2.gpx,15_May_2017__stage_2__tour-of-california_2017__2.UWT.csv,100.0,match
+16,5,2017,stage_10,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 10.gpx,16_May_2017__stage_10__giro-d-italia_2017__2.UWT.csv,100.0,match
+16,5,2017,stage_3,tour-of-california,2.UWT,2017 Amgen Tour of California Stage 3.gpx,16_May_2017__stage_3__tour-of-california_2017__2.UWT.csv,100.0,match
+17,5,2017,stage_11,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 11.gpx,17_May_2017__stage_11__giro-d-italia_2017__2.UWT.csv,100.0,match
+17,5,2017,stage_4,tour-of-california,2.UWT,2017 Amgen Tour of California Stage 4.gpx,17_May_2017__stage_4__tour-of-california_2017__2.UWT.csv,100.0,match
+18,5,2017,stage_5,tour-of-california,2.UWT,2017 Amgen Tour of California Stage 5.gpx,18_May_2017__stage_5__tour-of-california_2017__2.UWT.csv,100.0,match
+18,5,2017,stage_12,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 12.gpx,18_May_2017__stage_12__giro-d-italia_2017__2.UWT.csv,100.0,match
+19,5,2017,stage_13,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 13.gpx,19_May_2017__stage_13__giro-d-italia_2017__2.UWT.csv,100.0,match
+19,5,2017,stage_6,tour-of-california,2.UWT,2017 Amgen Tour of California Stage 6.gpx,19_May_2017__stage_6__tour-of-california_2017__2.UWT.csv,100.0,match
+20,5,2017,stage_7,tour-of-california,2.UWT,2017 Amgen Tour of California Stage 7.gpx,20_May_2017__stage_7__tour-of-california_2017__2.UWT.csv,100.0,match
+20,5,2017,stage_14,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 14.gpx,20_May_2017__stage_14__giro-d-italia_2017__2.UWT.csv,100.0,match
+21,5,2017,stage_15,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 15.gpx,21_May_2017__stage_15__giro-d-italia_2017__2.UWT.csv,100.0,match
+23,5,2017,stage_16,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 16.gpx,23_May_2017__stage_16__giro-d-italia_2017__2.UWT.csv,100.0,match
+24,5,2017,stage_17,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 17.gpx,24_May_2017__stage_17__giro-d-italia_2017__2.UWT.csv,100.0,match
+25,5,2017,stage_18,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 18.gpx,25_May_2017__stage_18__giro-d-italia_2017__2.UWT.csv,100.0,match
+26,5,2017,stage_19,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 19.gpx,26_May_2017__stage_19__giro-d-italia_2017__2.UWT.csv,100.0,match
+27,5,2017,stage_20,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 20.gpx,27_May_2017__stage_20__giro-d-italia_2017__2.UWT.csv,100.0,match
+28,5,2017,stage_21,giro-d-italia,2.UWT,2017 Giro d'Italia Stage 21.gpx,28_May_2017__stage_21__giro-d-italia_2017__2.UWT.csv,100.0,match
+4,6,2017,stage_1,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 1.gpx,04_June_2017__stage_1__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+5,6,2017,stage_2,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 2.gpx,05_June_2017__stage_2__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+6,6,2017,stage_3,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 3.gpx,06_June_2017__stage_3__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+7,6,2017,stage_4,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 4.gpx,07_June_2017__stage_4__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+8,6,2017,stage_5,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 5.gpx,08_June_2017__stage_5__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+9,6,2017,stage_6,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 6.gpx,09_June_2017__stage_6__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+10,6,2017,stage_1,tour-de-suisse,2.UWT,2017 Tour de Suisse Prologue.gpx,10_June_2017__stage_1__tour-de-suisse_2017__2.UWT.csv,100.0,match
+10,6,2017,stage_7,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 7.gpx,10_June_2017__stage_7__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+11,6,2017,stage_8,tour-auvergne-rhone-alpes,2.UWT,2017 Criterium du Dauphine Stage 8.gpx,11_June_2017__stage_8__tour-auvergne-rhone-alpes_2017__2.UWT.csv,100.0,match
+11,6,2017,stage_2,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 1.gpx,11_June_2017__stage_2__tour-de-suisse_2017__2.UWT.csv,100.0,match
+12,6,2017,stage_3,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 2.gpx,12_June_2017__stage_3__tour-de-suisse_2017__2.UWT.csv,100.0,match
+13,6,2017,stage_4,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 3.gpx,13_June_2017__stage_4__tour-de-suisse_2017__2.UWT.csv,100.0,match
+14,6,2017,stage_5,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 4.gpx,14_June_2017__stage_5__tour-de-suisse_2017__2.UWT.csv,100.0,match
+15,6,2017,stage_6,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 5.gpx,15_June_2017__stage_6__tour-de-suisse_2017__2.UWT.csv,100.0,match
+16,6,2017,stage_7,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 6.gpx,16_June_2017__stage_7__tour-de-suisse_2017__2.UWT.csv,100.0,match
+17,6,2017,stage_8,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 7.gpx,17_June_2017__stage_8__tour-de-suisse_2017__2.UWT.csv,100.0,match
+18,6,2017,stage_9,tour-de-suisse,2.UWT,2017 Tour de Suisse Stage 8.gpx,18_June_2017__stage_9__tour-de-suisse_2017__2.UWT.csv,100.0,match
+1,7,2017,stage_1,tour-de-france,2.UWT,2017 Tour de France Stage 1.gpx,01_July_2017__stage_1__tour-de-france_2017__2.UWT.csv,100.0,match
+2,7,2017,stage_2,tour-de-france,2.UWT,2017 Tour de France Stage 2.gpx,02_July_2017__stage_2__tour-de-france_2017__2.UWT.csv,100.0,match
+3,7,2017,stage_3,tour-de-france,2.UWT,2017 Tour de France Stage 3.gpx,03_July_2017__stage_3__tour-de-france_2017__2.UWT.csv,100.0,match
+4,7,2017,stage_4,tour-de-france,2.UWT,2017 Tour de France Stage 4.gpx,04_July_2017__stage_4__tour-de-france_2017__2.UWT.csv,100.0,match
+5,7,2017,stage_5,tour-de-france,2.UWT,2017 Tour de France Stage 5.gpx,05_July_2017__stage_5__tour-de-france_2017__2.UWT.csv,100.0,match
+6,7,2017,stage_6,tour-de-france,2.UWT,2017 Tour de France Stage 6.gpx,06_July_2017__stage_6__tour-de-france_2017__2.UWT.csv,100.0,match
+7,7,2017,stage_7,tour-de-france,2.UWT,2017 Tour de France Stage 7.gpx,07_July_2017__stage_7__tour-de-france_2017__2.UWT.csv,100.0,match
+8,7,2017,stage_8,tour-de-france,2.UWT,2017 Tour de France Stage 8.gpx,08_July_2017__stage_8__tour-de-france_2017__2.UWT.csv,100.0,match
+9,7,2017,stage_9,tour-de-france,2.UWT,2017 Tour de France Stage 9.gpx,09_July_2017__stage_9__tour-de-france_2017__2.UWT.csv,100.0,match
+11,7,2017,stage_10,tour-de-france,2.UWT,2017 Tour de France Stage 10.gpx,11_July_2017__stage_10__tour-de-france_2017__2.UWT.csv,100.0,match
+12,7,2017,stage_11,tour-de-france,2.UWT,2017 Tour de France Stage 11.gpx,12_July_2017__stage_11__tour-de-france_2017__2.UWT.csv,100.0,match
+13,7,2017,stage_12,tour-de-france,2.UWT,2017 Tour de France Stage 12.gpx,13_July_2017__stage_12__tour-de-france_2017__2.UWT.csv,100.0,match
+14,7,2017,stage_13,tour-de-france,2.UWT,2017 Tour de France Stage 13.gpx,14_July_2017__stage_13__tour-de-france_2017__2.UWT.csv,100.0,match
+15,7,2017,stage_14,tour-de-france,2.UWT,2017 Tour de France Stage 14.gpx,15_July_2017__stage_14__tour-de-france_2017__2.UWT.csv,100.0,match
+16,7,2017,stage_15,tour-de-france,2.UWT,2017 Tour de France Stage 15.gpx,16_July_2017__stage_15__tour-de-france_2017__2.UWT.csv,100.0,match
+18,7,2017,stage_16,tour-de-france,2.UWT,2017 Tour de France Stage 16.gpx,18_July_2017__stage_16__tour-de-france_2017__2.UWT.csv,100.0,match
+19,7,2017,stage_17,tour-de-france,2.UWT,2017 Tour de France Stage 17.gpx,19_July_2017__stage_17__tour-de-france_2017__2.UWT.csv,100.0,match
+20,7,2017,stage_18,tour-de-france,2.UWT,2017 Tour de France Stage 18.gpx,20_July_2017__stage_18__tour-de-france_2017__2.UWT.csv,100.0,match
+21,7,2017,stage_19,tour-de-france,2.UWT,2017 Tour de France Stage 19.gpx,21_July_2017__stage_19__tour-de-france_2017__2.UWT.csv,100.0,match
+22,7,2017,stage_20,tour-de-france,2.UWT,2017 Tour de France Stage 20.gpx,22_July_2017__stage_20__tour-de-france_2017__2.UWT.csv,100.0,match
+23,7,2017,stage_21,tour-de-france,2.UWT,2017 Tour de France Stage 21.gpx,23_July_2017__stage_21__tour-de-france_2017__2.UWT.csv,100.0,match
+29,7,2017,stage_1,tour-de-pologne,2.UWT,2017 Tour de Pologne Stage 1.gpx,29_July_2017__stage_1__tour-de-pologne_2017__2.UWT.csv,100.0,match
+30,7,2017,stage_2,tour-de-pologne,2.UWT,2017 Tour de Pologne Stage 2.gpx,30_July_2017__stage_2__tour-de-pologne_2017__2.UWT.csv,100.0,match
+31,7,2017,stage_3,tour-de-pologne,2.UWT,2017 Tour de Pologne Stage 3.gpx,31_July_2017__stage_3__tour-de-pologne_2017__2.UWT.csv,100.0,match
+1,8,2017,stage_4,tour-de-pologne,2.UWT,2017 Tour de Pologne Stage 4.gpx,01_August_2017__stage_4__tour-de-pologne_2017__2.UWT.csv,100.0,match
+2,8,2017,stage_5,tour-de-pologne,2.UWT,2017 Tour de Pologne Stage 5.gpx,02_August_2017__stage_5__tour-de-pologne_2017__2.UWT.csv,100.0,match
+3,8,2017,stage_6,tour-de-pologne,2.UWT,2017 Tour de Pologne Stage 6.gpx,03_August_2017__stage_6__tour-de-pologne_2017__2.UWT.csv,100.0,match
+4,8,2017,stage_7,tour-de-pologne,2.UWT,2017 Tour de Pologne Stage 7.gpx,04_August_2017__stage_7__tour-de-pologne_2017__2.UWT.csv,100.0,match
+7,8,2017,stage_1,renewi-tour,2.UWT,2017 BinckBank Tour Stage 1.gpx,07_August_2017__stage_1__renewi-tour_2017__2.UWT.csv,100.0,match
+8,8,2017,stage_2,renewi-tour,2.UWT,2017 BinckBank Tour Stage 2.gpx,08_August_2017__stage_2__renewi-tour_2017__2.UWT.csv,100.0,match
+9,8,2017,stage_3,renewi-tour,2.UWT,2017 BinckBank Tour Stage 3.gpx,09_August_2017__stage_3__renewi-tour_2017__2.UWT.csv,100.0,match
+10,8,2017,stage_4,renewi-tour,2.UWT,2017 BinckBank Tour Stage 4.gpx,10_August_2017__stage_4__renewi-tour_2017__2.UWT.csv,100.0,match
+11,8,2017,stage_5,renewi-tour,2.UWT,2017 BinckBank Tour Stage 5.gpx,11_August_2017__stage_5__renewi-tour_2017__2.UWT.csv,100.0,match
+12,8,2017,stage_6,renewi-tour,2.UWT,2017 BinckBank Tour Stage 6.gpx,12_August_2017__stage_6__renewi-tour_2017__2.UWT.csv,100.0,match
+13,8,2017,stage_7,renewi-tour,2.UWT,2017 BinckBank Tour Stage 7.gpx,13_August_2017__stage_7__renewi-tour_2017__2.UWT.csv,100.0,match
+19,8,2017,stage_1,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 1.gpx,19_August_2017__stage_1__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+20,8,2017,stage_2,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 2.gpx,20_August_2017__stage_2__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+21,8,2017,stage_3,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 3.gpx,21_August_2017__stage_3__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+22,8,2017,stage_4,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 4.gpx,22_August_2017__stage_4__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+23,8,2017,stage_5,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 5.gpx,23_August_2017__stage_5__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+24,8,2017,stage_6,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 6.gpx,24_August_2017__stage_6__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+25,8,2017,stage_7,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 7.gpx,25_August_2017__stage_7__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+26,8,2017,stage_8,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 8.gpx,26_August_2017__stage_8__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+27,8,2017,stage_9,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 9.gpx,27_August_2017__stage_9__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+29,8,2017,stage_10,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 10.gpx,29_August_2017__stage_10__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+30,8,2017,stage_11,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 11.gpx,30_August_2017__stage_11__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+31,8,2017,stage_12,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 12.gpx,31_August_2017__stage_12__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+1,9,2017,stage_13,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 13.gpx,01_September_2017__stage_13__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+2,9,2017,stage_14,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 14.gpx,02_September_2017__stage_14__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+3,9,2017,stage_15,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 15.gpx,03_September_2017__stage_15__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+5,9,2017,stage_16,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 16.gpx,05_September_2017__stage_16__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+6,9,2017,stage_17,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 17.gpx,06_September_2017__stage_17__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+7,9,2017,stage_18,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 18.gpx,07_September_2017__stage_18__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+8,9,2017,stage_19,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 19.gpx,08_September_2017__stage_19__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+9,9,2017,stage_20,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 20.gpx,09_September_2017__stage_20__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+10,9,2017,stage_21,vuelta-a-espana,2.UWT,2017 Vuelta a Espana Stage 21.gpx,10_September_2017__stage_21__vuelta-a-espana_2017__2.UWT.csv,85.0,match
+10,10,2017,stage_1,tour-of-turkey,2.UWT,2017 Presidential Cycling Tour of Turkey Stage 1.gpx,10_October_2017__stage_1__tour-of-turkey_2017__2.UWT.csv,97.0,match
+11,10,2017,stage_2,tour-of-turkey,2.UWT,2017 Presidential Cycling Tour of Turkey Stage 2.gpx,11_October_2017__stage_2__tour-of-turkey_2017__2.UWT.csv,97.0,match
+12,10,2017,stage_3,tour-of-turkey,2.UWT,2017 Presidential Cycling Tour of Turkey Stage 3.gpx,12_October_2017__stage_3__tour-of-turkey_2017__2.UWT.csv,97.0,match
+13,10,2017,stage_4,tour-of-turkey,2.UWT,2017 Presidential Cycling Tour of Turkey Stage 4.gpx,13_October_2017__stage_4__tour-of-turkey_2017__2.UWT.csv,97.0,match
+14,10,2017,stage_5,tour-of-turkey,2.UWT,2017 Presidential Cycling Tour of Turkey Stage 5.gpx,14_October_2017__stage_5__tour-of-turkey_2017__2.UWT.csv,97.0,match
+15,10,2017,stage_6,tour-of-turkey,2.UWT,2017 Presidential Cycling Tour of Turkey Stage 6.gpx,15_October_2017__stage_6__tour-of-turkey_2017__2.UWT.csv,97.0,match
+19,10,2017,stage_1,tour-of-guangxi,2.UWT,2017 Tour of Guangxi Stage 1.gpx,19_October_2017__stage_1__tour-of-guangxi_2017__2.UWT.csv,100.0,match
+20,10,2017,stage_2,tour-of-guangxi,2.UWT,2017 Tour of Guangxi Stage 2.gpx,20_October_2017__stage_2__tour-of-guangxi_2017__2.UWT.csv,100.0,match
+21,10,2017,stage_3,tour-of-guangxi,2.UWT,2017 Tour of Guangxi Stage 3.gpx,21_October_2017__stage_3__tour-of-guangxi_2017__2.UWT.csv,100.0,match
+22,10,2017,stage_4,tour-of-guangxi,2.UWT,2017 Tour of Guangxi Stage 4.gpx,22_October_2017__stage_4__tour-of-guangxi_2017__2.UWT.csv,100.0,match
+23,10,2017,stage_5,tour-of-guangxi,2.UWT,2017 Tour of Guangxi Stage 5.gpx,23_October_2017__stage_5__tour-of-guangxi_2017__2.UWT.csv,100.0,match
+24,10,2017,stage_6,tour-of-guangxi,2.UWT,2017 Tour of Guangxi Stage 6.gpx,24_October_2017__stage_6__tour-of-guangxi_2017__2.UWT.csv,100.0,match

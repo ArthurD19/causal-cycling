@@ -1,0 +1,94 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-09-06,2018,giro-della-regione-friuli-venezia-giulia,gc,Gallina Colosio Eurofeed,2.2,,0,0,,0.0,,,0.0
+2018-04-03,2018,gp-palio-del-recioto,gc,Gallina Colosio Eurofeed,1.2U,,,1,,0.0,,,0.0
+2019-05-22,2019,baltyk-karkonosze-tour,gc,Hurom BDC Development,2.2,,0,0,,10.0,,,10.0
+2019-07-02,2019,course-cycliste-de-solidarnosc,gc,Hurom BDC Development,2.2,81.0,0.0,1,,5.0,,,5.0
+2019-07-24,2019,dookola-mazowsza,gc,Hurom BDC Development,2.2,,0,0,,3.0,,,7.0
+2019-06-23,2019,korona-kocich-gor,gc,Hurom BDC Development,1.2,,0,0,,0.0,,,20.0
+2019-05-01,2019,memorial-andrzeja-trochanowskiego,gc,Hurom BDC Development,1.2,,0,0,,0.0,,,0.0
+2019-08-17,2019,memorial-henryka-lasaka,gc,Hurom BDC Development,1.2,,,1,,0.0,,,30.0
+2019-06-22,2019,memorial-im-j.-grundmanna-j-wizowskiego,gc,Hurom BDC Development,1.2,,0,0,,0.0,,,25.0
+2019-05-02,2019,memorial-romana-sieminskiego,gc,Hurom BDC Development,1.2,,0,0,,0.0,,,6.0
+2019-06-30,2019,nc-poland,gc,Hurom BDC Development,NC,,,1,,0.0,,,0.0
+2019-06-28,2019,nc-poland-itt,gc,Hurom BDC Development,NC,,,1,,0.0,,,1.0
+2019-08-15,2019,puchar-ministra-obrony-narodowej,gc,Hurom BDC Development,1.2,,0,0,,0.0,,,43.0
+2019-08-18,2019,puchar-uzdrowisk-karpackich,gc,Hurom BDC Development,1.2,,,1,,0.0,,,5.0
+2019-03-03,2019,rhodes-gp,gc,Team Hurom,1.2,,,1,,0.0,,,0.0
+2019-05-31,2019,szlakiem-walk-majora-hubala,gc,Hurom BDC Development,2.1,,0,0,,88.0,,,88.0
+2019-07-30,2019,tour-de-serbie,gc,Hurom BDC Development,2.2,29.0,0.0,1,,5.0,,,5.0
+2019-08-21,2019,tour-of-denmark,gc,Hurom BDC Development,2.HC,,0,0,,0.0,,,0.0
+2019-05-23,2019,tour-of-estonia,gc,Hurom BDC Development,2.1,69.0,0.0,1,,25.0,,,25.0
+2019-06-14,2019,tour-of-malopolska,gc,Hurom BDC Development,2.2,34.0,0.0,1,,15.0,,,16.0
+2019-10-15,2019,tour-of-peninsula,gc,Hurom BDC Development,2.1,99.0,0.0,1,,3.0,,,3.0
+2019-03-08,2019,tour-of-rhodes,gc,Team Hurom,2.2,,0,0,,0.0,,,0.0
+2019-08-07,2019,tour-of-szeklerland,gc,Hurom BDC Development,2.2,,,1,,0.0,,,0.0
+2019-05-11,2019,visegrad-4-bicycle-race-gp-hungary,gc,Hurom BDC Development,1.2,,,1,,0.0,,,0.0
+2019-04-28,2019,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Hurom BDC Development,1.2,,0,0,,0.0,,,3.0
+2019-05-12,2019,visegrad-4-bicycle-race-gp-slovakia,gc,Hurom BDC Development,1.2,,,1,,0.0,,,0.0
+2020-09-09,2020,course-cycliste-de-solidarnosc,gc,TC Chrobry SCOTT Głogów,2.2,,0,0,,0.0,,,0.0
+2020-07-16,2020,dookola-mazowsza,gc,TC Chrobry SCOTT Głogów,2.2,29.0,0.0,1,,0.0,,,0.0
+2020-07-19,2020,puchar-ministra-obrony-narodowej,gc,TC Chrobry SCOTT Głogów,1.2,,,1,,0.0,,,0.0
+2020-09-17,2020,tour-of-malopolska,gc,TC Chrobry SCOTT Głogów,2.2,34.0,0.0,1,,0.0,,,0.0
+2020-10-10,2020,visegrad-4-bicycle-race-gp-slovakia,gc,TC Chrobry SCOTT Głogów,1.2,,0,0,,0.0,,,3.0
+2021-06-23,2021,course-cycliste-de-solidarnosc,gc,Klub Kolarski Tarnovia,2.2,,,1,,0.0,,,0.0
+2021-07-14,2021,dookola-mazowsza,gc,Tarnovia Tarnowo Podgorne,2.2,,0,0,,0.0,,,0.0
+2021-08-15,2021,memorial-henryka-lasaka,gc,Tarnovia Tarnowo Podgorne,1.2,,,1,,0.0,,,0.0
+2021-08-20,2021,szlakiem-grodow-piastowskich,gc,Klub Kolarski Tarnovia,2.2,27.0,0.0,1,,0.0,,,0.0
+2021-06-03,2021,tour-of-malopolska,gc,Tarnovia Tarnowo Podgorne,2.2,,0,0,,0.0,,,0.0
+2022-04-06,2022,circuit-des-ardennes,gc,Philippe Wagner Cycling,2.2,,,1,,0.0,,,0.0
+2022-07-10,2022,gp-de-la-ville-de-nogent-sur-oise,gc,Philippe Wagner Cycling,1.2,,0,0,,0.0,,,0.0
+2022-08-06,2022,la-maurienne,gc,Philippe Wagner Cycling,1.2,,,1,,0.0,,,3.0
+2022-06-06,2022,paris-troyes,gc,Philippe Wagner Cycling,1.2,,,1,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,Philippe Wagner Cycling,2.2,95.0,0.0,1,,0.0,,,0.0
+2022-05-26,2022,tour-de-la-mirabelle,gc,Philippe Wagner Cycling,2.2,,0,0,,0.0,,,0.0
+2022-03-21,2022,tour-de-normadie,gc,Philippe Wagner Cycling,2.2,,0,0,,5.0,,,8.0
+2022-06-17,2022,tour-du-pays-de-montbeliard,gc,Philippe Wagner Cycling,2.2,62.0,0.0,1,,0.0,,,1.0
+2023-04-06,2023,circuit-des-ardennes,gc,Philippe Wagner Cycling,2.2,,0,0,,3.0,,,3.0
+2023-03-05,2023,gp-de-la-ville-de-lillers,gc,Philippe Wagner Cycling,1.2,,0,0,,0.0,,,3.0
+2023-03-04,2023,le-tour-des-100-communes,gc,Philippe Wagner Cycling,1.2,,0,0,,0.0,,,33.0
+2023-06-22,2023,nc-france-itt,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,0.0
+2023-02-12,2023,nc-new-zealand,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-poland,gc,Philippe Wagner Cycling,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-poland-itt,gc,Philippe Wagner Cycling,NC,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-switserland,gc,Philippe Wagner Cycling,NC,,0,0,,0.0,,,75.0
+2023-05-29,2023,paris-troyes,gc,Philippe Wagner Cycling,1.2,,0,0,,0.0,,,70.0
+2023-07-27,2023,tour-alsace,gc,Philippe Wagner Cycling,2.2,,0,0,,0.0,,,-5.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Philippe Wagner Cycling,2.2,77.0,0.0,1,,30.0,,,30.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,Philippe Wagner Cycling,2.2,,0,0,,3.0,,,-1.0
+2024-06-26,2024,course-cycliste-de-solidarnosc,gc,Lubelskie Perła Polski,2.2,12.0,0.0,1,,0.0,,,0.0
+2024-07-24,2024,dookola-mazowsza,gc,Lubelskie Perła Polski,2.2,107.0,0.0,1,,0.0,,,0.0
+2024-07-20,2024,gp-czech-republic,gc,Lubelskie Perła Polski,1.2,,0,0,,0.0,,,25.0
+2024-05-01,2024,gp-vorarlberg,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,0.0
+2024-04-28,2024,kirschblutenrennen,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,0.0
+2024-07-23,2024,memorial-andrzeja-trochanowskiego,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,3.0
+2024-06-23,2024,nc-poland,gc,Lubelskie Perła Polski,NC,,,1,,0.0,,,0.0
+2024-07-28,2024,puchar-ministra-obrony-narodowej,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,10.0
+2024-05-11,2024,silesian-classic,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,6.0
+2024-05-24,2024,tour-of-estonia,gc,Lubelskie Perła Polski,2.1,,0,0,,3.0,,,3.0
+2024-05-30,2024,tour-of-malopolska,gc,Lubelskie Perła Polski,2.2,62.0,0.0,1,,0.0,,,0.0
+2024-09-04,2024,tour-of-poyang-lake,gc,Lubelskie Perła Polski,2.2,,,1,,0.0,,,1.0
+2024-08-07,2024,tour-of-szeklerland,gc,Lubelskie Perła Polski,2.2,23.0,0.0,1,,0.0,,,0.0
+2024-03-17,2024,trofeu-da-arrabida,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,3.0
+2024-08-14,2024,turul-romaniei,gc,Lubelskie Perła Polski,2.2,45.0,0.0,1,,0.0,,,0.0
+2024-07-06,2024,visegrad-4-bicycle-race-gp-hungary,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,3.0
+2024-07-21,2024,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,3.0
+2024-07-07,2024,visegrad-4-bicycle-race-gp-slovakia,gc,Lubelskie Perła Polski,1.2,,,1,,0.0,,,3.0
+2024-03-20,2024,volta-ao-alentejo,gc,Lubelskie Perła Polski,2.2,,,1,,0.0,,,0.0
+2025-04-23,2025,banja-luka-belgrade-i,gc,Monogo Lubelskie Perła Polski,2.2,112.0,0.0,1,,0.0,,,0.0
+2025-07-23,2025,dookola-mazowsza,gc,Monogo Lubelskie Perła Polski,2.2,,0,0,,3.0,,,3.0
+2025-03-23,2025,grand-prix-apollon-temple-me,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,43.0
+2025-07-22,2025,memorial-andrzeja-trochanowskiego,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-poland,gc,Monogo Lubelskie Perła Polski,NC,,,1,,0.0,,,0.0
+2025-06-26,2025,nc-poland-itt,gc,Monogo Lubelskie Perła Polski,NC,,0,0,,0.0,,,5.0
+2025-07-27,2025,puchar-ministra-obrony-narodowej,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,0.0
+2025-05-10,2025,silesian-classic,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,0.0
+2025-04-13,2025,slezanski-mnich1,gc,Monogo Lubelskie Perła Polski,1.2,,,1,,0.0,,,5.0
+2025-04-06,2025,syedra-ancient-city,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,tour-of-bulgaria,gc,Monogo Lubelskie Perła Polski,2.2,,0,0,,13.0,,,20.0
+2025-05-30,2025,tour-of-estonia,gc,Monogo Lubelskie Perła Polski,2.1,,,1,,3.0,,,3.0
+2025-04-10,2025,tour-of-mersin,gc,Monogo Lubelskie Perła Polski,2.2,,0,0,,0.0,,,0.0
+2025-09-15,2025,tour-of-poyang-lake,gc,Monogo Lubelskie Perła Polski,2.2,,0,0,,0.0,,,0.0
+2025-08-07,2025,tour-of-szeklerland,gc,Monogo Lubelskie Perła Polski,2.2,,0,0,,20.0,,,21.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,0.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,3.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,Monogo Lubelskie Perła Polski,1.2,,0,0,,0.0,,,5.0

@@ -1,0 +1,64 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2018-07-11,2018,giro-ciclistico-della-valle-d-aosta-mont-blanc,gc,Lizarte,2.2U,14.0,0.0,1,,0.0,,,0.0
+2019-02-13,2019,colombia-21,gc,Manzana Postobon,2.1,,0,0,,0.0,,,3.0
+2019-05-12,2019,gp-de-la-somme,gc,Manzana Postobon,1.2,,,1,,0.0,,,3.0
+2019-04-06,2019,gran-premio-miguel-indurain,gc,Manzana Postobon,1.1,,,1,,0.0,,,6.0
+2019-04-08,2019,itzulia-basque-country,gc,Manzana Postobon,2.UWT,,,1,,24.0,,,24.0
+2019-04-14,2019,klasika-primavera,gc,Manzana Postobon,1.1,,0,0,,0.0,,,120.0
+2019-04-07,2019,la-roue-tourangelle,gc,Manzana Postobon,1.1,,0,0,,0.0,,,3.0
+2019-02-03,2019,nc-colombia,gc,Manzana Postobon,NC,,0,0,,0.0,,,78.0
+2019-02-01,2019,nc-colombia-itt,gc,Manzana Postobon,NC,,0,0,,0.0,,,0.0
+2019-04-09,2019,region-pays-de-la-loire,gc,Manzana Postobon,2.1,,0,0,,50.0,,,50.0
+2019-04-05,2019,route-adelie-de-vitre,gc,Manzana Postobon,1.1,,0,0,,0.0,,,3.0
+2019-05-17,2019,tour-d-eure-et-loir,gc,Manzana Postobon,2.2,49.0,0.0,1,,0.0,,,0.0
+2019-03-17,2019,tour-de-taiwan,gc,Manzana Postobon,2.1,,0,0,,55.0,,,69.0
+2019-04-22,2019,tour-of-the-alps,gc,Manzana Postobon,2.HC,,0,0,,10.0,,,20.0
+2019-04-16,2019,tour-of-turkey,gc,Manzana Postobon,2.UWT,,0,0,,136.0,,,142.0
+2019-05-17,2019,vuelta-a-aragon,gc,Manzana Postobon,2.1,,0,0,,3.0,,,3.0
+2019-04-25,2019,vuelta-a-castilla-y-leon,gc,Manzana Postobon,2.1,50.0,0.0,1,,10.0,,,13.0
+2019-05-03,2019,vuelta-asturias,gc,Manzana Postobon,2.1,43.0,0.0,1,,20.0,,,39.0
+2019-05-10,2019,vuelta-international-a-la-cominudad-de-madrid,gc,Manzana Postobon,2.1,,0,0,,35.0,,,35.0
+2020-08-02,2020,circuito-de-getxo,gc,Efapel,1.1,,,1,,0.0,,,0.0
+2020-02-12,2020,colombia-21,gc,Efapel,2.1,38.0,0.0,1,,0.0,,,0.0
+2020-09-19,2020,gp-int-torres-vedras,gc,Efapel,2.2,,0,0,,28.0,,,36.0
+2020-08-14,2020,nc-portugal,gc,Efapel,NC,,0,0,,0.0,,,30.0
+2020-08-16,2020,nc-portugal2,gc,Efapel,NC,,0,0,,0.0,,,43.0
+2020-08-23,2020,nc-spain,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-spain-itt,gc,Efapel,NC,,0,0,,0.0,,,0.0
+2020-10-12,2020,prueba-villafranca,gc,Efapel,1.1,,,1,,0.0,,,20.0
+2020-09-27,2020,volta-a-portugal,gc,Efapel,2.1,,0,0,,103.0,,,136.0
+2020-02-19,2020,volta-ao-algarve,gc,Efapel,2.Pro,57.0,0.0,1,,0.0,,,0.0
+2021-04-16,2021,vuelta-pilsen-a-colombia,gc,Fundación Esteban Chaves - Fun,2.2,14.0,0.0,1,,0.0,,,0.0
+2022-06-30,2022,gp-int-torres-vedras,gc,Tavfer-Mortágua-Ovos Matinados,2.2,66.0,0.0,1,,0.0,,,3.0
+2022-06-24,2022,nc-portugal,gc,Tavfer-Mortágua-Ovos Matinados,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-portugal2,gc,Tavfer-Mortágua-Ovos Matinados,NC,,0,0,,0.0,,,40.0
+2022-06-11,2022,nc-venezuela,gc,Tavfer-Mortágua-Ovos Matinados,NC,,0,0,,0.0,,,0.0
+2022-03-13,2022,trofeu-da-arrabida,gc,Tavfer-Mortágua-Ovos Matinados,1.2,,,1,,0.0,,,0.0
+2022-08-04,2022,volta-a-portugal,gc,Tavfer-Mortágua-Ovos Matinados,2.1,,0,0,,11.0,,,44.0
+2022-03-16,2022,volta-ao-alentejo,gc,Tavfer-Mortágua-Ovos Matinados,2.2,,0,0,,0.0,,,9.0
+2022-02-16,2022,volta-ao-algarve,gc,Tavfer-Mortágua-Ovos Matinados,2.Pro,106.0,0.0,1,,3.0,,,3.0
+2023-02-12,2023,figueira-champions-classic,gc,Tavfer-Ovos Matinados-Mortágua,1.1,,,1,,0.0,,,0.0
+2023-07-13,2023,gp-int-torres-vedras,gc,Tavfer-Ovos Matinados-Mortágua,2.2,66.0,0.0,1,,0.0,,,3.0
+2023-05-26,2023,gp-internacional-beiras-e-serra-da-estrela,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,,1,,3.0,,,3.0
+2023-02-23,2023,gran-camino,gc,Tavfer-Ovos Matinados-Mortágua,2.1,111.0,0.0,1,,0.0,,,0.0
+2023-06-23,2023,nc-portugal,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,1.0
+2023-06-25,2023,nc-portugal2,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,33.0
+2023-03-19,2023,trofeu-da-arrabida,gc,Tavfer-Ovos Matinados-Mortágua,1.2,,,1,,0.0,,,0.0
+2023-08-09,2023,volta-a-portugal,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,3.0,,,48.0
+2023-03-22,2023,volta-ao-alentejo,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,0,0,,0.0,,,14.0
+2023-02-15,2023,volta-ao-algarve,gc,Tavfer-Ovos Matinados-Mortágua,2.Pro,,,1,,0.0,,,0.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Tavfer-Ovos Matinados-Mortágua,2.1,88.0,0.0,1,,0.0,,,0.0
+2024-08-11,2024,circuito-de-getxo,gc,Tavfer-Ovos Matinados-Mortágua,1.1,,,1,,0.0,,,0.0
+2024-02-10,2024,figueira-champions-classic,gc,Tavfer-Ovos Matinados-Mortágua,1.Pro,,,1,,0.0,,,0.0
+2024-07-11,2024,gp-int-torres-vedras,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,0,0,,0.0,,,3.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,,1,,0.0,,,0.0
+2024-02-22,2024,gran-camino,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,,1,,0.0,,,0.0
+2024-06-21,2024,nc-portugal,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,nc-portugal2,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-spain,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,0.0
+2024-06-24,2024,nc-venezuela,gc,Tavfer-Ovos Matinados-Mortágua,NC,,0,0,,0.0,,,0.0
+2024-05-22,2024,rhone-alpes-isere-tour,gc,Tavfer-Ovos Matinados-Mortágua,2.2,62.0,0.0,1,,0.0,,,0.0
+2024-03-17,2024,trofeu-da-arrabida,gc,Tavfer-Ovos Matinados-Mortágua,1.2,,0,0,,0.0,,,0.0
+2024-07-24,2024,volta-a-portugal,gc,Tavfer-Ovos Matinados-Mortágua,2.1,,0,0,,0.0,,,0.0
+2024-03-20,2024,volta-ao-alentejo,gc,Tavfer-Ovos Matinados-Mortágua,2.2,,0,0,,0.0,,,7.0
+2024-02-14,2024,volta-ao-algarve,gc,Tavfer-Ovos Matinados-Mortágua,2.Pro,,0,0,,0.0,,,0.0

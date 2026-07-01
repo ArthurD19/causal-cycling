@@ -1,0 +1,30 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-09-04,2022,gylne-gutuer,gc,NCF Region Øst,1.2,,,1,,0.0,,,0.0
+2022-05-07,2022,hadeland-gp,gc,NCF Region Øst,1.2,,,1,,0.0,,,0.0
+2022-09-03,2022,lillehammer-gp,gc,NCF Region Øst,1.2,,,1,,0.0,,,0.0
+2022-05-08,2022,ringerike-gp,gc,NCF Region Øst,1.2,,,1,,0.0,,,0.0
+2023-08-18,2023,baltic-chain-tour,gc,NCF Region Øst,2.2,41.0,0.0,1,,0.0,,,0.0
+2023-09-03,2023,gylne-gutuer,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0
+2023-09-03,2023,gylne-gutuer,gc,NCF Region Øst,1.2,,0,0,,0.0,,,0.0
+2023-05-06,2023,hadeland-gp,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0
+2023-09-02,2023,lillehammer-gp,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0
+2023-09-02,2023,lillehammer-gp,gc,NCF Region Øst,1.2,,0,0,,0.0,,,0.0
+2023-05-07,2023,ringerike-gp,gc,Tønsberg CK,1.2,,,1,,0.0,,,0.0
+2024-05-04,2024,hadeland-gp,gc,Sandvika Cykle Club,1.2,,,1,,0.0,,,0.0
+2024-05-04,2024,hadeland-gp,gc,NCF Region Øst,1.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-norway,gc,Sandvika Cykle Club,NC,,,1,,0.0,,,0.0
+2024-06-20,2024,nc-norway-itt,gc,Sandvika Cykle Club,NC,,0,0,,0.0,,,10.0
+2024-03-09,2024,rhodes-gp,gc,NCF Region Øst,1.2,,,1,,0.0,,,3.0
+2024-05-05,2024,ringerike-gp,gc,Sandvika Cykle Club,1.2,,,1,,0.0,,,30.0
+2024-05-05,2024,ringerike-gp,gc,NCF Region Øst,1.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,south-aegean-tour,gc,NCF Region Øst,2.2,12.0,0.0,1,,3.0,,,3.0
+2024-03-14,2024,tour-of-rhodes,gc,NCF Region Øst,2.2,29.0,0.0,1,,0.0,,,0.0
+2025-05-10,2025,hadeland-gp,gc,NCF Region Øst,1.2,,0,0,,0.0,,,0.0
+2025-05-10,2025,hadeland-gp,gc,Sandvika Cykle Club,1.2,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-norway,gc,Sandvika Cykle Club,NC,,,1,,0.0,,,0.0
+2025-06-26,2025,nc-norway-itt,gc,Sandvika Cykle Club,NC,,0,0,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,NCF Region Øst,1.2,,,1,,0.0,,,-2.0
+2025-05-11,2025,ringerike-gp,gc,Sandvika Cykle Club,1.2,,,1,,0.0,,,0.0
+2025-05-11,2025,ringerike-gp,gc,NCF Region Øst,1.2,,0,0,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,NCF Region Øst,2.2,57.0,0.0,1,,0.0,,,0.0
+2025-03-13,2025,tour-of-rhodes,gc,NCF Region Øst,2.2,,,1,,0.0,,,0.0

@@ -1,0 +1,80 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-04-19,2023,banja-luka-belgrade-i,gc,Adria Mobil,2.2,,0,0,,3.0,,,10.0
+2023-03-26,2023,gp-adria-mobil,gc,Adria Mobil,1.2,,,1,,0.0,,,40.0
+2023-07-15,2023,gp-cycliste-de-gemenc,gc,Adria Mobil,2.2,,0,0,,3.0,,,3.0
+2023-05-21,2023,gp-gorenjska,gc,Adria Mobil,1.2,,0,0,,0.0,,,20.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Adria Mobil,1.2,,0,0,,0.0,,,25.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Adria Mobil,1.2,,0,0,,0.0,,,15.0
+2023-07-23,2023,gp-kranj,gc,Adria Mobil,1.2,,0,0,,0.0,,,0.0
+2023-04-30,2023,gp-vorarlberg,gc,Adria Mobil,1.2,,0,0,,0.0,,,0.0
+2023-09-02,2023,in-the-footsteps-of-the-romans,gc,Adria Mobil,2.2,,0,0,,15.0,,,16.0
+2023-03-09,2023,istrian-spring-tour,gc,Adria Mobil,2.2,,0,0,,0.0,,,7.0
+2023-06-25,2023,nc-serbia,gc,Adria Mobil,NC,,0,0,,0.0,,,75.0
+2023-06-23,2023,nc-serbia-itt,gc,Adria Mobil,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-slovakia,gc,Adria Mobil,NC,,,1,,0.0,,,0.0
+2023-06-22,2023,nc-slovakia-itt,gc,Adria Mobil,NC,,,1,,0.0,,,30.0
+2023-06-25,2023,nc-slovenia,gc,Adria Mobil,NC,,0,0,,0.0,,,46.0
+2023-06-22,2023,nc-slovenia-itt,gc,Adria Mobil,NC,,0,0,,0.0,,,13.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Adria Mobil,2.2,,,1,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,Adria Mobil,2.1,,,1,,0.0,,,0.0
+2023-03-05,2023,porec-trophy,gc,Adria Mobil,1.2,,0,0,,0.0,,,15.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Adria Mobil,2.2,,0,0,,0.0,,,0.0
+2023-07-02,2023,tour-of-austria,gc,Adria Mobil,2.1,,0,0,,0.0,,,0.0
+2023-09-26,2023,tour-of-croatia,gc,Adria Mobil,2.1,,0,0,,50.0,,,53.0
+2023-06-14,2023,tour-of-slovenia,gc,Adria Mobil,2.Pro,,0,0,,0.0,,,0.0
+2023-03-01,2023,trofej-umag,gc,Adria Mobil,1.2,,,1,,0.0,,,0.0
+2024-04-04,2024,circuit-des-ardennes,gc,Adria Mobil,2.2,,0,0,,0.0,,,0.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,Adria Mobil,2.2,,0,0,,0.0,,,0.0
+2024-03-24,2024,gp-adria-mobil,gc,Adria Mobil,1.2,,0,0,,0.0,,,0.0
+2024-03-19,2024,gp-brda-collio,gc,Adria Mobil,1.2,,0,0,,0.0,,,20.0
+2024-07-20,2024,gp-czech-republic,gc,Adria Mobil,1.2,,,1,,0.0,,,30.0
+2024-05-19,2024,gp-gorenjska,gc,Adria Mobil,1.2,,0,0,,0.0,,,0.0
+2024-03-21,2024,gp-goriska-vipava-valley,gc,Adria Mobil,1.2,,0,0,,0.0,,,10.0
+2024-03-17,2024,gp-izola-butan-plin,gc,Adria Mobil,1.2,,0,0,,0.0,,,23.0
+2024-09-01,2024,gp-kranj,gc,Adria Mobil,1.2,,,1,,0.0,,,0.0
+2024-03-07,2024,istrian-spring-tour,gc,Adria Mobil,2.2,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-croatia,gc,Adria Mobil,NC,,0,0,,0.0,,,30.0
+2024-06-22,2024,nc-croatia-itt,gc,Adria Mobil,NC,,0,0,,0.0,,,25.0
+2024-06-23,2024,nc-hungary,gc,Adria Mobil,NC,,0,0,,0.0,,,50.0
+2024-06-19,2024,nc-hungary-itt,gc,Adria Mobil,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-serbia,gc,Adria Mobil,NC,,0,0,,0.0,,,15.0
+2024-06-21,2024,nc-serbia-itt,gc,Adria Mobil,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-slovakia-itt,gc,Adria Mobil,NC,,,1,,0.0,,,1.0
+2024-06-23,2024,nc-slovenia,gc,Adria Mobil,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-turkey,gc,Adria Mobil,NC,,0,0,,0.0,,,0.0
+2024-06-21,2024,nc-turkey-itt,gc,Adria Mobil,NC,,0,0,,0.0,,,10.0
+2024-06-27,2024,okolo-slovenska,gc,Adria Mobil,2.1,,,1,,0.0,,,-50.0
+2024-03-03,2024,porec-trophy,gc,Adria Mobil,1.2,,,1,,0.0,,,0.0
+2024-02-08,2024,tour-of-antalya,gc,Adria Mobil,2.1,,0,0,,0.0,,,0.0
+2024-10-01,2024,tour-of-croatia,gc,Adria Mobil,2.1,,0,0,,0.0,,,0.0
+2024-09-12,2024,tour-of-istanbul,gc,Adria Mobil,2.1,80.0,0.0,1,,0.0,,,3.0
+2024-06-12,2024,tour-of-slovenia,gc,Adria Mobil,2.Pro,,0,0,,0.0,,,0.0
+2024-04-21,2024,tour-of-turkey,gc,Adria Mobil,2.Pro,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofej-umag,gc,Adria Mobil,1.2,,,1,,0.0,,,8.0
+2024-07-06,2024,visegrad-4-bicycle-race-gp-hungary,gc,Adria Mobil,1.2,,0,0,,0.0,,,43.0
+2024-07-07,2024,visegrad-4-bicycle-race-gp-slovakia,gc,Adria Mobil,1.2,,0,0,,0.0,,,25.0
+2025-08-14,2025,czech-tour,gc,Pierre Baguette Cycling,2.1,95.0,0.0,1,,3.0,,,3.0
+2025-03-30,2025,gp-adria-mobil,gc,Pierre Baguette Cycling,1.2,,,1,,0.0,,,0.0
+2025-03-27,2025,gp-brda-collio,gc,Pierre Baguette Cycling,1.2,,,1,,0.0,,,0.0
+2025-03-23,2025,gp-izola-butan-plin,gc,Pierre Baguette Cycling,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,gp-kranj,gc,Pierre Baguette Cycling,1.2,,0,0,,0.0,,,0.0
+2025-05-01,2025,gp-vorarlberg,gc,Pierre Baguette Cycling,1.2,,,1,,0.0,,,0.0
+2025-03-13,2025,istrian-spring-tour,gc,Pierre Baguette Cycling,2.2,95.0,0.0,1,,0.0,,,0.0
+2025-06-29,2025,nc-czech-republic2,gc,Pierre Baguette Cycling,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-hungary,gc,Pierre Baguette Cycling,NC,,0,0,,0.0,,,5.0
+2025-06-29,2025,nc-slovakia,gc,Pierre Baguette Cycling,NC,,,1,,0.0,,,91.0
+2025-06-26,2025,nc-slovakia-itt,gc,Pierre Baguette Cycling,NC,,,1,,0.0,,,5.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Pierre Baguette Cycling,2.2,,0,0,,0.0,,,0.0
+2025-09-17,2025,okolo-slovenska,gc,Pierre Baguette Cycling,2.1,87.0,0.0,1,,0.0,,,0.0
+2025-03-09,2025,porec-trophy,gc,Pierre Baguette Cycling,1.2,,,1,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,Pierre Baguette Cycling,1.2,,0,0,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,Pierre Baguette Cycling,2.2,,0,0,,0.0,,,0.0
+2025-04-06,2025,syedra-ancient-city,gc,Pierre Baguette Cycling,1.2,,,1,,0.0,,,0.0
+2025-05-14,2025,tour-de-hongrie,gc,Pierre Baguette Cycling,2.Pro,101.0,0.0,1,,0.0,,,0.0
+2025-04-10,2025,tour-of-mersin,gc,Pierre Baguette Cycling,2.2,46.0,0.0,1,,0.0,,,0.0
+2025-03-13,2025,tour-of-rhodes,gc,Pierre Baguette Cycling,2.2,,0,0,,0.0,,,0.0
+2025-06-04,2025,tour-of-slovenia,gc,Pierre Baguette Cycling,2.Pro,107.0,0.0,1,,0.0,,,0.0
+2025-03-05,2025,trofej-umag,gc,Pierre Baguette Cycling,1.2,,,1,,0.0,,,0.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,Pierre Baguette Cycling,1.2,,0,0,,0.0,,,0.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Pierre Baguette Cycling,1.2,,0,0,,0.0,,,0.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,Pierre Baguette Cycling,1.2,,0,0,,0.0,,,20.0

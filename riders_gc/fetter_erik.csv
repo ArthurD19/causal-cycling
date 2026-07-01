@@ -1,0 +1,330 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2019-09-01,2019,1st-ljubljana-zagreb,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-05-22,2019,baltyk-karkonosze-tour,gc,Pannon Cycling Team,2.2,,0,0,,0.0,,,0.0
+2019-04-18,2019,banja-luka-belgrade-i,gc,Hungary,2.1,31.0,0.0,1,,3.0,,,3.0
+2019-08-16,2019,czech-tour,gc,Pannon Cycling Team,2.1,,0,0,,0.0,,,0.0
+2019-06-23,2019,european-games,gc,Hungary,JC,,0,0,,0.0,,,1.0
+2019-06-25,2019,european-games-itt,gc,Hungary,JC,,0,0,,0.0,,,0.0
+2019-07-26,2019,gemenc-grand-prix-i,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,15.0
+2019-07-27,2019,gemenc-grand-prix-ii,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,60.0
+2019-04-07,2019,gp-adria-mobil,gc,Pannon Cycling Team,1.2,,,1,,0.0,,,3.0
+2019-02-24,2019,gp-izola-butan-plin,gc,Pannon Cycling Team,1.2,,,1,,0.0,,,0.0
+2019-02-10,2019,grand-prix-alanya,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-02-09,2019,grand-prix-gazipasa,gc,Pannon Cycling Team,1.2,,,1,,0.0,,,25.0
+2019-06-30,2019,nc-hungary,gc,Pannon Cycling Team,NC,,,1,,0.0,,,3.0
+2019-06-27,2019,nc-hungary-itt,gc,Pannon Cycling Team,NC,,,1,,0.0,,,15.0
+2019-06-02,2019,odessa-gp,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-03-03,2019,rhodes-gp,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-07-03,2019,sibiu-cycling-tour,gc,Pannon Cycling Team,2.1,17.0,3.0,1,,3.0,,,3.0
+2019-06-11,2019,tour-de-hongrie,gc,Pannon Cycling Team,2.1,17.0,3.0,1,,3.0,,,3.0
+2019-06-11,2019,tour-de-hongrie,gc,Hungary,2.1,,0,0,,0.0,,,0.0
+2019-06-01,2019,tour-de-ribas,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-07-30,2019,tour-de-serbie,gc,Pannon Cycling Team,2.2,,0,0,,20.0,,,27.0
+2019-03-08,2019,tour-of-rhodes,gc,Pannon Cycling Team,2.2,,0,0,,3.0,,,3.0
+2019-08-07,2019,tour-of-szeklerland,gc,Pannon Cycling Team,2.2,,0,0,,10.0,,,10.0
+2019-09-11,2019,turul-romaniei,gc,Pannon Cycling Team,2.1,,0,0,,0.0,,,0.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Hungary,CC,,0,0,,0.0,,,0.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Hungary,CC,,0,0,,0.0,,,0.0
+2019-07-21,2019,v4-special-series-debrecen---ibrany,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,40.0
+2019-07-20,2019,v4-special-series-vasarosnameny-nyiregyhaza,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,33.0
+2019-05-11,2019,visegrad-4-bicycle-race-gp-hungary,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-04-28,2019,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Pannon Cycling Team,1.2,,0,0,,0.0,,,0.0
+2019-05-12,2019,visegrad-4-bicycle-race-gp-slovakia,gc,Pannon Cycling Team,1.2,,,1,,0.0,,,0.0
+2019-09-29,2019,world-championship,gc,Hungary,WC,,0,0,,0.0,,,0.0
+2020-08-02,2020,circuito-de-getxo,gc,Kometa Xstra Cycling Team,1.1,,0,0,,0.0,,,15.0
+2020-02-16,2020,clasica-de-almeria,gc,Kometa Xstra Cycling Team,1.Pro,,,1,,0.0,,,8.0
+2020-08-23,2020,danish-championships,gc,Kometa Xstra Cycling Team,NC,,0,0,,0.0,,,0.0
+2020-01-31,2020,deia-trophy,gc,Kometa Xstra Cycling Team,1.1,,,1,,0.0,,,25.0
+2020-08-23,2020,nc-hungary,gc,Kometa Xstra Cycling Team,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-hungary-itt,gc,Kometa Xstra Cycling Team,NC,,0,0,,0.0,,,3.0
+2020-08-23,2020,nc-italy,gc,Kometa Xstra Cycling Team,NC,,0,0,,0.0,,,5.0
+2020-08-23,2020,nc-spain,gc,Kometa Xstra Cycling Team,NC,,0,0,,0.0,,,0.0
+2020-03-08,2020,porec-trophy,gc,Kometa Xstra Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-10-12,2020,prueba-villafranca,gc,Kometa Xstra Cycling Team,1.1,,0,0,,0.0,,,3.0
+2020-08-29,2020,tour-de-hongrie,gc,Kometa Xstra Cycling Team,2.1,,0,0,,3.0,,,3.0
+2020-08-07,2020,tour-de-l-ain,gc,Kometa Xstra Cycling Team,2.1,51.0,0.0,1,,3.0,,,3.0
+2020-02-20,2020,tour-of-antalya,gc,Kometa Xstra Cycling Team,2.1,,0,0,,73.0,,,73.0
+2020-03-04,2020,trofej-umag,gc,Kometa Xstra Cycling Team,1.2,,,1,,0.0,,,0.0
+2020-02-02,2020,trofeo-palma,gc,Kometa Xstra Cycling Team,1.1,,,1,,0.0,,,0.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,Kometa Xstra Cycling Team,1.1,,0,0,,0.0,,,0.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,Kometa Xstra Cycling Team,1.1,,0,0,,0.0,,,21.0
+2020-07-28,2020,vuelta-a-burgos,gc,Kometa Xstra Cycling Team,2.Pro,,0,0,,0.0,,,0.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Kometa Xstra Cycling Team,2.Pro,,0,0,,5.0,,,5.0
+2020-02-14,2020,vuelta-ciclista-a-la-region-de-murcia,gc,Kometa Xstra Cycling Team,2.1,,,1,,30.0,,,30.0
+2021-06-15,2021,adriatica-ionica-race,gc,EOLO-Kometa,2.1,,0,0,,128.0,,,145.0
+2021-08-01,2021,circuito-de-getxo,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,5.0
+2021-02-14,2021,clasica-de-almeria,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,5.0
+2021-10-11,2021,coppa-agostoni,gc,EOLO-Kometa,1.1,,,1,,0.0,,,56.0
+2021-10-04,2021,coppa-bernocchi,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,25.0
+2021-05-08,2021,giro-d-italia,gc,EOLO-Kometa,2.UWT,,0,0,,96.0,0.0,0.0,236.0
+2021-05-08,2021,giro-d-italia,kom,EOLO-Kometa,2.UWT,,0,0,,96.0,0.0,0.0,236.0
+2021-05-08,2021,giro-d-italia,points,EOLO-Kometa,2.UWT,,0,0,,96.0,0.0,0.0,236.0
+2021-07-04,2021,giro-del-medio-brenta,gc,EOLO-Kometa,1.2,,0,0,,0.0,,,0.0
+2021-10-13,2021,giro-del-veneto,gc,EOLO-Kometa,1.1,,,1,,0.0,,,40.0
+2021-06-24,2021,giro-dell-appennino,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,25.0
+2021-10-02,2021,giro-dell-emilia,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,0.0
+2021-09-28,2021,giro-di-sicilia,gc,EOLO-Kometa,2.1,,0,0,,30.0,,,35.0
+2021-09-15,2021,giro-di-toscana,gc,EOLO-Kometa,1.1,,,1,,0.0,,,6.0
+2021-09-16,2021,gp-citta-di-peccioli,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,15.0
+2021-01-24,2021,gp-de-valence,gc,EOLO-Kometa,1.2,,0,0,,0.0,,,10.0
+2021-03-07,2021,gp-industria-artigianato,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,8.0
+2021-06-27,2021,gp-lugano,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,13.0
+2021-10-07,2021,gran-piemonte,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,0.0
+2021-04-03,2021,gran-premio-miguel-indurain,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,0.0
+2021-10-09,2021,il-lombardia,gc,EOLO-Kometa,1.UWT,,,1,,0.0,,,35.0
+2021-09-18,2021,memorial-marco-pantani,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,91.0
+2021-10-06,2021,milano-torino,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,3.0
+2021-10-14,2021,nc-great-britain-itt,gc,EOLO-Kometa,NC,,0,0,,0.0,,,10.0
+2021-06-20,2021,nc-hungary,gc,EOLO-Kometa,NC,,,1,,0.0,,,0.0
+2021-06-17,2021,nc-hungary-itt,gc,EOLO-Kometa,NC,,,1,,0.0,,,53.0
+2021-06-20,2021,nc-italy,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-italy-itt,gc,EOLO-Kometa,NC,,0,0,,0.0,,,6.0
+2021-06-20,2021,nc-spain,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2021-10-17,2021,ncgreat-britain,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2021-03-21,2021,per-sempre-alfredo,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,0.0
+2021-07-25,2021,prueba-villafranca,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,10.0
+2021-07-14,2021,settimana-ciclistica-italiana,gc,EOLO-Kometa,2.1,,0,0,,0.0,,,0.0
+2021-03-06,2021,strade-bianche,gc,EOLO-Kometa,1.UWT,,,1,,0.0,,,0.0
+2021-03-10,2021,tirreno-adriatico,gc,EOLO-Kometa,2.UWT,,0,0,,0.0,,,0.0
+2021-05-12,2021,tour-de-hongrie,gc,EOLO-Kometa,2.1,41.0,0.0,1,,3.0,,,3.0
+2021-07-29,2021,tour-de-l-ain,gc,EOLO-Kometa,2.1,57.0,0.0,1,,0.0,,,0.0
+2021-08-17,2021,tour-du-limousin,gc,EOLO-Kometa,2.1,58.0,0.0,1,,20.0,,,42.0
+2021-08-24,2021,tour-du-poitou-charentes-et-de-la-vienne,gc,EOLO-Kometa,2.1,14.0,5.0,1,,5.0,,,10.0
+2021-04-19,2021,tour-of-the-alps,gc,EOLO-Kometa,2.Pro,25.0,5.0,1,,5.0,,,5.0
+2021-04-11,2021,tour-of-turkey,gc,EOLO-Kometa,2.Pro,,0,0,,8.0,,,8.0
+2021-10-05,2021,tre-valli-varesine,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,10.0
+2021-03-03,2021,trofeo-laigueglia,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,0.0
+2021-09-19,2021,trofeo-matteotti,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,30.0
+2021-10-17,2021,veneto-classic,gc,EOLO-Kometa,1.1,,,1,,0.0,,,18.0
+2021-08-03,2021,vuelta-a-burgos,gc,EOLO-Kometa,2.Pro,,0,0,,3.0,,,13.0
+2021-07-29,2021,vuelta-a-castilla-y-leon,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,3.0
+2021-04-30,2021,vuelta-asturias,gc,EOLO-Kometa,2.1,,0,0,,5.0,,,5.0
+2022-06-04,2022,adriatica-ionica-race,gc,EOLO-Kometa,2.1,,0,0,,43.0,,,43.0
+2022-01-27,2022,challenge-mallorca-trofeo-pollenca-alcudia,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,3.0
+2022-07-31,2022,circuito-de-getxo,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,0.0
+2022-02-13,2022,clasica-de-almeria,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,40.0
+2022-02-14,2022,clasica-jaen-paraiso-interior,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,0.0
+2022-09-29,2022,coppa-agostoni,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,3.0
+2022-10-03,2022,coppa-bernocchi,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,53.0
+2022-01-28,2022,deia-trophy,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,5.0
+2022-05-06,2022,giro-d-italia,gc,EOLO-Kometa,2.UWT,83.0,0.0,1,,60.0,0.0,0.0,80.0
+2022-05-06,2022,giro-d-italia,kom,EOLO-Kometa,2.UWT,,,1,,60.0,0.0,0.0,80.0
+2022-05-06,2022,giro-d-italia,points,EOLO-Kometa,2.UWT,102.0,0.0,1,,60.0,0.0,0.0,80.0
+2022-10-12,2022,giro-del-veneto,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,38.0
+2022-06-02,2022,giro-dell-appennino,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,6.0
+2022-10-01,2022,giro-dell-emilia,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,70.0
+2022-04-12,2022,giro-di-sicilia,gc,EOLO-Kometa,2.1,,0,0,,50.0,,,50.0
+2022-09-14,2022,giro-di-toscana,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,6.0
+2022-09-15,2022,gp-citta-di-peccioli,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,73.0
+2022-01-23,2022,gp-de-valence,gc,EOLO-Kometa,1.2,,0,0,,0.0,,,43.0
+2022-03-27,2022,gp-industria-artigianato,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,40.0
+2022-02-24,2022,gran-camino,gc,EOLO-Kometa,2.1,57.0,0.0,1,,0.0,,,5.0
+2022-10-06,2022,gran-piemonte,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,0.0
+2022-04-02,2022,gran-premio-miguel-indurain,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,0.0
+2022-10-08,2022,il-lombardia,gc,EOLO-Kometa,1.UWT,,,1,,0.0,,,5.0
+2022-03-19,2022,milano-sanremo,gc,EOLO-Kometa,1.UWT,,0,0,,0.0,,,90.0
+2022-03-16,2022,milano-torino,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-hungary,gc,EOLO-Kometa,NC,,,1,,0.0,,,95.0
+2022-06-22,2022,nc-hungary-itt,gc,EOLO-Kometa,NC,,,1,,0.0,,,60.0
+2022-06-26,2022,nc-italy,gc,EOLO-Kometa,NC,,0,0,,0.0,,,10.0
+2022-06-22,2022,nc-italy-itt,gc,EOLO-Kometa,NC,,0,0,,0.0,,,1.0
+2022-06-24,2022,nc-portugal,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-portugal2,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-spain,gc,EOLO-Kometa,NC,,0,0,,0.0,,,20.0
+2022-09-08,2022,okolo-jiznich-cech,gc,EOLO-Kometa,2.2,2.0,30.0,1,,30.0,,,36.0
+2022-09-13,2022,okolo-slovenska,gc,EOLO-Kometa,2.1,,0,0,,8.0,,,14.0
+2022-03-20,2022,per-sempre-alfredo,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,3.0
+2022-07-25,2022,prueba-villafranca,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,15.0
+2022-02-16,2022,ruta-del-sol,gc,EOLO-Kometa,2.Pro,,0,0,,8.0,,,18.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,EOLO-Kometa,2.1,40.0,0.0,1,,0.0,,,0.0
+2022-03-05,2022,strade-bianche,gc,EOLO-Kometa,1.UWT,,,1,,0.0,,,17.0
+2022-03-07,2022,tirreno-adriatico,gc,EOLO-Kometa,2.UWT,,0,0,,50.0,,,50.0
+2022-05-11,2022,tour-de-hongrie,gc,EOLO-Kometa,2.1,,0,0,,3.0,,,3.0
+2022-08-09,2022,tour-de-l-ain,gc,EOLO-Kometa,2.1,,0,0,,10.0,,,10.0
+2022-08-16,2022,tour-du-limousin,gc,EOLO-Kometa,2.1,,0,0,,10.0,,,24.0
+2022-08-23,2022,tour-du-poitou-charentes-et-de-la-vienne,gc,EOLO-Kometa,2.1,55.0,0.0,1,,3.0,,,3.0
+2022-02-10,2022,tour-of-antalya,gc,EOLO-Kometa,2.1,,0,0,,6.0,,,6.0
+2022-09-27,2022,tour-of-croatia,gc,EOLO-Kometa,2.1,,0,0,,63.0,,,69.0
+2022-06-15,2022,tour-of-slovenia,gc,EOLO-Kometa,2.Pro,,0,0,,131.0,,,131.0
+2022-04-18,2022,tour-of-the-alps,gc,EOLO-Kometa,2.Pro,,,1,,0.0,,,0.0
+2022-04-10,2022,tour-of-turkey,gc,EOLO-Kometa,2.Pro,,0,0,,40.0,,,40.0
+2022-10-04,2022,tre-valli-varesine,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,3.0
+2022-01-26,2022,trofeo-calvia,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,70.0
+2022-03-02,2022,trofeo-laigueglia,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,11.0
+2022-01-30,2022,trofeo-palma,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,0.0
+2022-01-29,2022,trofeo-pollenca-port-d-andratx,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,0.0
+2022-10-16,2022,veneto-classic,gc,EOLO-Kometa,1.1,,,1,,0.0,,,3.0
+2022-08-02,2022,vuelta-a-burgos,gc,EOLO-Kometa,2.Pro,,0,0,,6.0,,,6.0
+2022-07-27,2022,vuelta-a-castilla-y-leon,gc,EOLO-Kometa,2.1,,0,0,,0.0,,,0.0
+2022-04-29,2022,vuelta-asturias,gc,EOLO-Kometa,2.1,,0,0,,88.0,,,103.0
+2022-02-12,2022,vuelta-ciclista-a-la-region-de-murcia,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,8.0
+2023-07-30,2023,circuito-de-getxo,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,10.0
+2023-02-12,2023,clasica-de-almeria,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,5.0
+2023-09-28,2023,coppa-agostoni,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,30.0
+2023-10-02,2023,coppa-bernocchi,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,150.0
+2023-07-27,2023,czech-tour,gc,EOLO-Kometa,2.1,,0,0,,3.0,,,3.0
+2023-01-28,2023,deia-trophy,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,0.0
+2023-05-06,2023,giro-d-italia,gc,EOLO-Kometa,2.UWT,,,1,,70.0,0.0,0.0,695.0
+2023-05-06,2023,giro-d-italia,kom,EOLO-Kometa,2.UWT,,,1,,70.0,0.0,0.0,695.0
+2023-05-06,2023,giro-d-italia,points,EOLO-Kometa,2.UWT,,,1,,70.0,0.0,0.0,695.0
+2023-10-11,2023,giro-del-veneto,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,13.0
+2023-06-02,2023,giro-dell-appennino,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,12.0
+2023-09-30,2023,giro-dell-emilia,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,15.0
+2023-04-16,2023,giro-di-reggio-calabria,gc,EOLO-Kometa,1.1,,,1,,0.0,,,81.0
+2023-04-11,2023,giro-di-sicilia,gc,EOLO-Kometa,2.1,52.0,0.0,1,,70.0,,,83.0
+2023-09-13,2023,giro-di-toscana,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,33.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,18.0
+2023-09-10,2023,gp-de-fourmies,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,8.0
+2023-01-22,2023,gp-de-valence,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,6.0
+2023-03-26,2023,gp-industria-artigianato,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,8.0
+2023-02-23,2023,gran-camino,gc,EOLO-Kometa,2.1,,0,0,,5.0,,,5.0
+2023-10-05,2023,gran-piemonte,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,8.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,0.0
+2023-10-07,2023,il-lombardia,gc,EOLO-Kometa,1.UWT,,,1,,0.0,,,95.0
+2023-03-09,2023,istrian-spring-tour,gc,EOLO-Kometa,2.2,,0,0,,13.0,,,13.0
+2023-08-13,2023,la-poly-normande,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,3.0
+2023-09-16,2023,memorial-marco-pantani,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,25.0
+2023-03-18,2023,milano-sanremo,gc,EOLO-Kometa,1.UWT,,0,0,,0.0,,,5.0
+2023-03-15,2023,milano-torino,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,51.0
+2023-06-25,2023,nc-hungary,gc,EOLO-Kometa,NC,,,1,,0.0,,,60.0
+2023-06-22,2023,nc-hungary-itt,gc,EOLO-Kometa,NC,,,1,,0.0,,,20.0
+2023-06-24,2023,nc-italy,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-italy-itt,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,EOLO-Kometa,NC,,0,0,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,EOLO-Kometa,2.1,73.0,0.0,1,,15.0,,,15.0
+2023-03-19,2023,per-sempre-alfredo,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,31.0
+2023-07-25,2023,prueba-villafranca,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,6.0
+2023-02-15,2023,ruta-del-sol,gc,EOLO-Kometa,2.Pro,50.0,0.0,1,,3.0,,,3.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,EOLO-Kometa,2.1,,0,0,,6.0,,,6.0
+2023-03-04,2023,strade-bianche,gc,EOLO-Kometa,1.UWT,,,1,,0.0,,,0.0
+2023-03-06,2023,tirreno-adriatico,gc,EOLO-Kometa,2.UWT,101.0,0.0,1,,20.0,,,-5.0
+2023-05-10,2023,tour-de-hongrie,gc,EOLO-Kometa,2.Pro,,0,0,,70.0,,,70.0
+2023-05-10,2023,tour-de-hongrie,gc,Hungary,2.Pro,,0,0,,0.0,,,0.0
+2023-08-15,2023,tour-du-limousin,gc,EOLO-Kometa,2.1,,0,0,,3.0,,,3.0
+2023-08-22,2023,tour-du-poitou-charentes-et-de-la-vienne,gc,EOLO-Kometa,2.1,,0,0,,76.0,,,81.0
+2023-07-02,2023,tour-of-austria,gc,EOLO-Kometa,2.1,,0,0,,3.0,,,6.0
+2023-06-14,2023,tour-of-belgium,gc,EOLO-Kometa,2.Pro,17.0,5.0,1,,10.0,,,13.0
+2023-09-26,2023,tour-of-croatia,gc,EOLO-Kometa,2.1,9.0,25.0,1,,31.0,,,31.0
+2023-06-14,2023,tour-of-slovenia,gc,EOLO-Kometa,2.Pro,,0,0,,76.0,,,81.0
+2023-04-17,2023,tour-of-the-alps,gc,EOLO-Kometa,2.Pro,,0,0,,85.0,,,88.0
+2023-10-08,2023,tour-of-turkey,gc,EOLO-Kometa,2.1,,0,0,,13.0,,,19.0
+2023-10-03,2023,tre-valli-varesine,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,5.0
+2023-01-25,2023,trofeo-calvia,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,3.0
+2023-03-01,2023,trofeo-laigueglia,gc,EOLO-Kometa,1.Pro,,0,0,,0.0,,,10.0
+2023-09-17,2023,trofeo-matteotti,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,41.0
+2023-01-29,2023,trofeo-palma,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,6.0
+2023-01-27,2023,trofeo-pollenca-port-d-andratx,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,0.0
+2023-01-26,2023,trofeo-ses-salines-felanitx,gc,EOLO-Kometa,1.1,,0,0,,0.0,,,3.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Hungary,CC,,,1,,0.0,,,0.0
+2023-10-15,2023,veneto-classic,gc,EOLO-Kometa,1.Pro,,,1,,0.0,,,45.0
+2023-07-08,2023,visegrad-4-bicycle-race-gp-hungary,gc,Hungary,1.2,,0,0,,0.0,,,0.0
+2023-08-15,2023,vuelta-a-burgos,gc,EOLO-Kometa,2.Pro,,0,0,,10.0,,,10.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,EOLO-Kometa,2.1,,0,0,,0.0,,,0.0
+2023-04-28,2023,vuelta-asturias,gc,EOLO-Kometa,2.1,,0,0,,145.0,,,169.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,EOLO-Kometa,2.Pro,31.0,3.0,1,,3.0,,,3.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,EOLO-Kometa,1.1,,,1,,0.0,,,0.0
+2023-08-06,2023,world-championship,gc,Hungary,WC,,0,0,,0.0,,,0.0
+2023-06-07,2023,zlm-tour,gc,EOLO-Kometa,2.Pro,,0,0,,13.0,,,13.0
+2024-05-23,2024,boucles-de-la-mayenne,gc,Team Polti Kometa,2.Pro,76.0,0.0,1,,8.0,,,8.0
+2024-08-11,2024,circuito-de-getxo,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,45.0
+2024-02-11,2024,clasica-de-almeria,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,16.0
+2024-10-06,2024,coppa-agostoni,gc,Team Polti Kometa,1.1,,,1,,0.0,,,0.0
+2024-10-07,2024,coppa-bernocchi,gc,Team Polti Kometa,1.Pro,,,1,,0.0,,,33.0
+2024-07-25,2024,czech-tour,gc,Team Polti Kometa,2.1,,,1,,11.0,,,11.0
+2024-01-26,2024,deia-trophy,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,3.0
+2024-04-09,2024,giro-d-abruzzo,gc,Team Polti Kometa,2.1,,0,0,,35.0,,,38.0
+2024-05-04,2024,giro-d-italia,gc,Team Polti Kometa,2.UWT,,0,0,,120.0,0.0,0.0,445.0
+2024-05-04,2024,giro-d-italia,kom,Team Polti Kometa,2.UWT,,0,0,,120.0,0.0,0.0,445.0
+2024-05-04,2024,giro-d-italia,points,Team Polti Kometa,2.UWT,,0,0,,120.0,0.0,0.0,445.0
+2024-10-16,2024,giro-del-veneto,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,73.0
+2024-07-14,2024,giro-dell-appennino,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,41.0
+2024-10-05,2024,giro-dell-emilia,gc,Team Polti Kometa,1.Pro,,,1,,0.0,,,125.0
+2024-04-21,2024,giro-di-romagna,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,106.0
+2024-09-11,2024,giro-di-toscana,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,6.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,8.0
+2024-09-08,2024,gp-de-fourmies,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,48.0
+2024-01-20,2024,gp-de-valence,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,10.0
+2024-09-08,2024,gp-industria-artigianato,gc,Team Polti Kometa,1.Pro,,,1,,0.0,,,21.0
+2024-02-22,2024,gran-camino,gc,Team Polti Kometa,2.1,,0,0,,20.0,,,20.0
+2024-10-10,2024,gran-piemonte,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,5.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,5.0
+2024-10-12,2024,il-lombardia,gc,Team Polti Kometa,1.UWT,,0,0,,0.0,,,45.0
+2024-09-14,2024,memorial-marco-pantani,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,60.0
+2024-03-16,2024,milano-sanremo,gc,Team Polti Kometa,1.UWT,,0,0,,0.0,,,25.0
+2024-03-13,2024,milano-torino,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,8.0
+2024-01-28,2024,nc-colombia,gc,Team Polti Kometa,NC,,0,0,,0.0,,,0.0
+2024-01-25,2024,nc-colombia-itt,gc,Team Polti Kometa,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,nc-hungary,gc,Team Polti Kometa,NC,,,1,,0.0,,,75.0
+2024-06-19,2024,nc-hungary-itt,gc,Team Polti Kometa,NC,,,1,,0.0,,,15.0
+2024-06-23,2024,nc-italy,gc,Team Polti Kometa,NC,,0,0,,0.0,,,0.0
+2024-06-20,2024,nc-italy-itt,gc,Team Polti Kometa,NC,,0,0,,0.0,,,3.0
+2024-06-23,2024,nc-spain,gc,Team Polti Kometa,NC,,0,0,,0.0,,,1.0
+2024-06-27,2024,okolo-slovenska,gc,Team Polti Kometa,2.1,63.0,0.0,1,,31.0,,,31.0
+2024-08-03,2024,olympic-games,gc,Hungary,Olympics,,0,0,,0.0,,,490.0
+2024-07-27,2024,olympic-games-itt,gc,Hungary,Olympics,,0,0,,0.0,,,3.0
+2024-07-25,2024,prueba-villafranca,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,0.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,3.0
+2024-02-16,2024,ruta-del-sol,gc,Team Polti Kometa,2.Pro,,0,0,,0.0,,,0.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,Team Polti Kometa,2.1,80.0,0.0,1,,5.0,,,5.0
+2024-03-02,2024,strade-bianche,gc,Team Polti Kometa,1.UWT,,,1,,0.0,,,0.0
+2024-03-04,2024,tirreno-adriatico,gc,Team Polti Kometa,2.UWT,,0,0,,30.0,,,48.0
+2024-05-08,2024,tour-de-hongrie,gc,Team Polti Kometa,2.Pro,50.0,0.0,1,,3.0,,,6.0
+2024-05-08,2024,tour-de-hongrie,gc,Hungary,2.Pro,,0,0,,20.0,,,20.0
+2024-09-29,2024,tour-de-langkawi,gc,Team Polti Kometa,2.Pro,,0,0,,115.0,,,154.0
+2024-09-18,2024,tour-de-luxembourg,gc,Team Polti Kometa,2.Pro,,0,0,,48.0,,,48.0
+2024-03-10,2024,tour-de-taiwan,gc,Team Polti Kometa,2.1,,0,0,,48.0,,,59.0
+2024-08-13,2024,tour-du-limousin,gc,Team Polti Kometa,2.1,,0,0,,3.0,,,3.0
+2024-08-20,2024,tour-du-poitou-charentes-et-de-la-vienne,gc,Team Polti Kometa,2.1,,0,0,,40.0,,,45.0
+2024-02-08,2024,tour-of-antalya,gc,Team Polti Kometa,2.1,97.0,0.0,1,,133.0,,,152.0
+2024-06-12,2024,tour-of-belgium,gc,Team Polti Kometa,2.Pro,28.0,5.0,1,,10.0,,,10.0
+2024-10-01,2024,tour-of-croatia,gc,Team Polti Kometa,2.1,,0,0,,20.0,,,33.0
+2024-02-19,2024,tour-of-rwanda,gc,Team Polti Kometa,2.1,,0,0,,113.0,,,137.0
+2024-06-12,2024,tour-of-slovenia,gc,Team Polti Kometa,2.Pro,,0,0,,75.0,,,95.0
+2024-04-15,2024,tour-of-the-alps,gc,Team Polti Kometa,2.Pro,,0,0,,60.0,,,60.0
+2024-04-21,2024,tour-of-turkey,gc,Team Polti Kometa,2.Pro,72.0,0.0,1,,125.0,,,173.0
+2024-10-08,2024,tre-valli-varesine,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,0.0
+2024-01-24,2024,trofeo-calvia,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,6.0
+2024-02-28,2024,trofeo-laigueglia,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,3.0
+2024-09-15,2024,trofeo-matteotti,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,0.0
+2024-01-28,2024,trofeo-palma,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,25.0
+2024-01-27,2024,trofeo-pollenca-port-d-andratx,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,0.0
+2024-01-25,2024,trofeo-ses-salines-felanitx,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,28.0
+2024-09-11,2024,uec-road-european-championships-itt,gc,Hungary,CC,,0,0,,0.0,,,0.0
+2024-09-15,2024,uec-road-european-championships-me,gc,Hungary,CC,,,1,,0.0,,,0.0
+2024-10-20,2024,veneto-classic,gc,Team Polti Kometa,1.Pro,,0,0,,0.0,,,5.0
+2024-08-05,2024,vuelta-a-burgos,gc,Team Polti Kometa,2.Pro,,0,0,,38.0,,,38.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Team Polti Kometa,1.1,,0,0,,0.0,,,20.0
+2024-01-31,2024,vuelta-a-la-comunidad-valenciana,gc,Team Polti Kometa,2.Pro,,0,0,,45.0,,,70.0
+2024-04-26,2024,vuelta-asturias,gc,Team Polti Kometa,2.1,,0,0,,0.0,,,0.0
+2024-09-29,2024,world-championship,gc,Hungary,WC,,,1,,0.0,,,30.0
+2024-09-22,2024,world-championship-itt,gc,Hungary,WC,,0,0,,0.0,,,0.0
+2024-06-05,2024,zlm-tour,gc,Team Polti Kometa,2.1,53.0,0.0,1,,18.0,,,21.0
+2025-04-23,2025,banja-luka-belgrade-i,gc,Team United Shipping,2.2,27.0,0.0,1,,3.0,,,4.0
+2025-08-14,2025,czech-tour,gc,Team United Shipping,2.1,44.0,0.0,1,,0.0,,,0.0
+2025-03-30,2025,gp-adria-mobil,gc,Team United Shipping,1.2,,,1,,0.0,,,3.0
+2025-03-27,2025,gp-brda-collio,gc,Team United Shipping,1.2,,,1,,0.0,,,3.0
+2025-03-23,2025,gp-izola-butan-plin,gc,Team United Shipping,1.2,,,1,,0.0,,,3.0
+2025-08-31,2025,gp-kranj,gc,Team United Shipping,1.2,,0,0,,0.0,,,10.0
+2025-05-01,2025,gp-vorarlberg,gc,Team United Shipping,1.2,,,1,,0.0,,,20.0
+2025-03-13,2025,istrian-spring-tour,gc,Team United Shipping,2.2,13.0,0.0,1,,0.0,,,7.0
+2025-06-29,2025,nc-czech-republic2,gc,Team United Shipping,NC,,0,0,,0.0,,,1.0
+2025-06-29,2025,nc-hungary,gc,Team United Shipping,NC,,,1,,0.0,,,25.0
+2025-06-25,2025,nc-hungary-itt,gc,Team United Shipping,NC,,0,0,,0.0,,,50.0
+2025-06-22,2025,nc-romania,gc,Team United Shipping,NC,,0,0,,0.0,,,60.0
+2025-06-22,2025,nc-serbia,gc,Team United Shipping,NC,,0,0,,0.0,,,80.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Team United Shipping,2.2,,0,0,,3.0,,,7.0
+2025-09-04,2025,okolo-jiznich-cech,gc,Team United Shipping,2.2,63.0,0.0,1,,5.0,,,5.0
+2025-03-09,2025,porec-trophy,gc,Team United Shipping,1.2,,,1,,0.0,,,0.0
+2025-07-03,2025,sibiu-cycling-tour,gc,Team United Shipping,2.1,,0,0,,0.0,,,0.0
+2025-04-06,2025,syedra-ancient-city,gc,Team United Shipping,1.2,,0,0,,0.0,,,30.0
+2025-05-14,2025,tour-de-hongrie,gc,Team United Shipping,2.Pro,54.0,0.0,1,,60.0,,,60.0
+2025-07-09,2025,tour-of-austria,gc,Team United Shipping,2.1,,,1,,0.0,,,0.0
+2025-08-31,2025,tour-of-bulgaria,gc,Team United Shipping,2.2,,0,0,,40.0,,,60.0
+2025-09-30,2025,tour-of-croatia,gc,Team United Shipping,2.1,102.0,0.0,1,,0.0,,,0.0
+2025-04-10,2025,tour-of-mersin,gc,Team United Shipping,2.2,,0,0,,10.0,,,24.0
+2025-08-07,2025,tour-of-szeklerland,gc,Team United Shipping,2.2,11.0,0.0,1,,35.0,,,42.0
+2025-03-05,2025,trofej-umag,gc,Team United Shipping,1.2,,,1,,0.0,,,3.0
+2025-09-10,2025,turul-romaniei,gc,Team United Shipping,2.2,,,1,,3.0,,,3.0
+2025-07-12,2025,visegrad-4-bicycle-race-gp-hungary,gc,Team United Shipping,1.2,,0,0,,0.0,,,30.0
+2025-07-20,2025,visegrad-4-bicycle-race-gp-polski-via-odra,gc,Team United Shipping,1.2,,,1,,0.0,,,5.0
+2025-07-13,2025,visegrad-4-bicycle-race-gp-slovakia,gc,Team United Shipping,1.2,,0,0,,0.0,,,3.0

@@ -1,0 +1,44 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Cycling Team Friuli ASD,1.2,,0,0,,0.0,,,15.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,0.0
+2023-05-07,2023,fleche-ardennaise,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,0.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,0.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Cycling Team Friuli ASD,2.2,,0,0,,20.0,,,23.0
+2023-03-26,2023,gp-adria-mobil,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,0.0
+2023-07-23,2023,gp-czech-republic,gc,Cycling Team Friuli ASD,1.2,,0,0,,0.0,,,0.0
+2023-05-21,2023,gp-gorenjska,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,55.0
+2023-03-23,2023,gp-goriska-vipava-valley,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,3.0
+2023-03-19,2023,gp-izola-butan-plin,gc,Cycling Team Friuli ASD,1.2,,0,0,,0.0,,,40.0
+2023-07-23,2023,gp-kranj,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,15.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Cycling Team Friuli ASD,2.2,,0,0,,5.0,,,8.0
+2023-09-13,2023,okolo-slovenska,gc,Cycling Team Friuli ASD,2.1,,0,0,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,Cycling Team Friuli ASD,2.2,,0,0,,0.0,,,7.0
+2023-08-09,2023,tour-of-szeklerland,gc,Cycling Team Friuli ASD,2.2,38.0,0.0,1,,13.0,,,26.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Cycling Team Friuli ASD,1.2,,,1,,0.0,,,0.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,CTF Victorious,1.2,,,1,,0.0,,,20.0
+2024-10-01,2024,coppa-citta-di-san-daniele2,gc,CTF Victorious,1.2,,,1,,0.0,,,25.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,CTF Victorious,1.2,,0,0,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,CTF Victorious,2.1,,,1,,3.0,,,3.0
+2024-07-07,2024,giro-del-medio-brenta,gc,CTF Victorious,1.2,,0,0,,0.0,,,25.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,CTF Victorious,2.2,,0,0,,0.0,,,1.0
+2024-03-24,2024,gp-adria-mobil,gc,CTF Victorious,1.2,,0,0,,0.0,,,40.0
+2024-03-19,2024,gp-brda-collio,gc,CTF Victorious,1.2,,0,0,,0.0,,,25.0
+2024-03-21,2024,gp-goriska-vipava-valley,gc,CTF Victorious,1.2,,,1,,0.0,,,0.0
+2024-03-17,2024,gp-izola-butan-plin,gc,CTF Victorious,1.2,,0,0,,0.0,,,45.0
+2024-09-01,2024,gp-kranj,gc,CTF Victorious,1.2,,,1,,0.0,,,58.0
+2024-03-08,2024,national-championships-bahrain-me-itt,gc,CTF Victorious,NC,,0,0,,0.0,,,25.0
+2024-03-09,2024,national-championships-bahrain-road-race,gc,CTF Victorious,NC,,0,0,,0.0,,,50.0
+2024-06-23,2024,nc-slovenia,gc,CTF Victorious,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,CTF Victorious,NC,,0,0,,0.0,,,0.0
+2024-03-17,2024,popolarissima,gc,CTF Victorious,1.2,,,1,,0.0,,,55.0
+2024-05-30,2024,ronde-de-l-oise,gc,CTF Victorious,2.2,,,1,,30.0,,,35.0
+2024-07-25,2024,tour-alsace,gc,CTF Victorious,2.2,,0,0,,0.0,,,0.0
+2024-09-27,2024,tour-d-eure-et-loir,gc,CTF Victorious,2.2,,0,0,,0.0,,,0.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,CTF Victorious,1.2,,0,0,,0.0,,,0.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Area Zero Caffè Mokambo,1.2,,0,0,,0.0,,,0.0
+2025-05-24,2025,due-giorni-marchigiana-gp-santa-rita,gc,Area Zero Caffè Mokambo,1.2,,,1,,0.0,,,0.0
+2025-07-06,2025,giro-del-medio-brenta,gc,Area Zero Caffè Mokambo,1.2,,,1,,0.0,,,0.0
+2025-07-01,2025,trofeo-citta-di-brescia,gc,Area Zero Caffè Mokambo,1.2,,,1,,0.0,,,0.0
+2025-05-25,2025,trofeo-citta-di-castelfidardo,gc,Area Zero Caffè Mokambo,1.2,,,1,,0.0,,,0.0
+2025-04-27,2025,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Area Zero Caffè Mokambo,1.2,,,1,,0.0,,,0.0
+2025-09-10,2025,turul-romaniei,gc,Area Zero Caffè Mokambo,2.2,27.0,0.0,1,,0.0,,,-2.0

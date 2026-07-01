@@ -1,0 +1,49 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-09-04,2020,grand-prix-cappadocia,gc,Saint-Petersburg,1.2,,,1,,0.0,,,0.0
+2020-09-03,2020,grand-prix-develi,gc,Saint-Petersburg,1.2,,,1,,0.0,,,0.0
+2020-09-05,2020,grand-prix-mount-erciyes-2200-mt,gc,Saint-Petersburg,1.2,,,1,,0.0,,,3.0
+2020-09-06,2020,grand-prix-world-s-best-high-altitude,gc,Saint-Petersburg,1.2,,,1,,0.0,,,0.0
+2021-05-02,2021,circuito-del-porto-trofeo-arvedi,gc,Russia,1.2,,0,0,,0.0,,,60.0
+2021-06-09,2021,five-rings-of-moscow,gc,Lokomotiv,2.2,40.0,0.0,1,,0.0,,,0.0
+2021-06-09,2021,five-rings-of-moscow,gc,Russia,2.2,,0,0,,5.0,,,26.0
+2021-09-03,2021,giro-della-regione-friuli-venezia-giulia,gc,Russia,2.2,7.0,5.0,1,,5.0,,,5.0
+2021-02-06,2021,grand-prix-alanya,gc,Sankt Petersburg,1.2,,,1,,0.0,,,0.0
+2021-02-06,2021,grand-prix-alanya,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2021-02-07,2021,grand-prix-gazipasa,gc,Sankt Petersburg,1.2,,,1,,0.0,,,0.0
+2021-02-07,2021,grand-prix-gazipasa,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2021-03-07,2021,grand-prix-gundogmus-me,gc,Sankt Petersburg,1.2,,,1,,0.0,,,0.0
+2021-03-07,2021,grand-prix-gundogmus-me,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2021-02-20,2021,grand-prix-manavgat-side,gc,Sankt Petersburg,1.2,,,1,,0.0,,,0.0
+2021-02-20,2021,grand-prix-manavgat-side,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2021-03-06,2021,grand-prix-mediterrennean,gc,Sankt Petersburg,1.2,,,1,,0.0,,,15.0
+2021-03-06,2021,grand-prix-mediterrennean,gc,Russia,1.2,,0,0,,0.0,,,3.0
+2021-02-21,2021,grand-prix-velo-alanya,gc,Sankt Petersburg,1.2,,,1,,0.0,,,0.0
+2021-02-21,2021,grand-prix-velo-alanya,gc,Russia,1.2,,0,0,,0.0,,,0.0
+2021-04-01,2021,tour-of-mevlana,gc,Sankt Petersburg,2.2,19.0,0.0,1,,3.0,,,3.0
+2021-04-01,2021,tour-of-mevlana,gc,Russia,2.2,,0,0,,0.0,,,0.0
+2021-09-09,2021,uec-road-european-championships-itt,gc,Russia,CC,,0,0,,0.0,,,0.0
+2021-09-12,2021,uec-road-european-championships-me,gc,Russia,CC,,0,0,,0.0,,,70.0
+2021-09-26,2021,world-championship,gc,Russia,WC,,0,0,,0.0,,,10.0
+2021-09-19,2021,world-championship-itt,gc,Russia,WC,,0,0,,0.0,,,0.0
+2024-08-11,2024,circuito-de-getxo,gc,Efapel Cycling,1.1,,,1,,0.0,,,0.0
+2024-02-10,2024,figueira-champions-classic,gc,Efapel Cycling,1.Pro,,,1,,0.0,,,0.0
+2024-07-11,2024,gp-int-torres-vedras,gc,Efapel Cycling,2.2,,0,0,,25.0,,,28.0
+2024-05-03,2024,gp-internacional-beiras-e-serra-da-estrela,gc,Efapel Cycling,2.2,18.0,0.0,1,,3.0,,,3.0
+2024-02-22,2024,gran-camino,gc,Efapel Cycling,2.1,,,1,,0.0,,,0.0
+2024-06-21,2024,nc-portugal,gc,Efapel Cycling,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-portugal2,gc,Efapel Cycling,NC,,0,0,,0.0,,,11.0
+2024-03-17,2024,trofeu-da-arrabida,gc,Efapel Cycling,1.2,,,1,,0.0,,,20.0
+2024-07-24,2024,volta-a-portugal,gc,Efapel Cycling,2.1,,0,0,,70.0,,,70.0
+2024-03-20,2024,volta-ao-alentejo,gc,Efapel Cycling,2.2,21.0,0.0,1,,25.0,,,26.0
+2024-02-14,2024,volta-ao-algarve,gc,Efapel Cycling,2.Pro,,0,0,,3.0,,,3.0
+2025-07-21,2025,clasica-terres-de-l-ebre,gc,Pingtan International Tourism Island Cycling Team,1.1,,,1,,0.0,,,0.0
+2025-03-30,2025,gp-adria-mobil,gc,Pingtan International Tourism Island Cycling Team,1.2,,,1,,0.0,,,0.0
+2025-06-26,2025,nc-china,gc,Pingtan International Tourism Island Cycling Team,NC,,0,0,,0.0,,,1.0
+2025-07-25,2025,prueba-villafranca,gc,Pingtan International Tourism Island Cycling Team,1.1,,,1,,0.0,,,25.0
+2025-09-19,2025,tour-of-huangshan,gc,Pingtan International Tourism Island Cycling Team,2.1,,0,0,,3.0,,,3.0
+2025-10-12,2025,tour-of-mentougou,gc,Pingtan International Tourism Island Cycling Team,2.2,,0,0,,0.0,,,0.0
+2025-09-05,2025,tour-of-shanghai,gc,Pingtan International Tourism Island Cycling Team,2.2,,0,0,,3.0,,,3.0
+2025-10-09,2025,tour-of-taihu-lake,gc,Pingtan International Tourism Island Cycling Team,2.Pro,,0,0,,0.0,,,0.0
+2025-08-07,2025,trans-himalaya-cycling-race,gc,Pingtan International Tourism Island Cycling Team,2.1,,0,0,,20.0,,,20.0
+2025-07-27,2025,vuelta-a-castilla-y-leon,gc,Pingtan International Tourism Island Cycling Team,1.1,,,1,,0.0,,,3.0
+2025-06-14,2025,yellow-river-estuary-road-cycling-race,gc,Pingtan International Tourism Island Cycling Team,2.2,,0,0,,0.0,,,0.0

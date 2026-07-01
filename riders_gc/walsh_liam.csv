@@ -1,0 +1,62 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2020-01-15,2020,new-zealand-cycle-classic,gc,Futuro Pro Cycling,2.2,,,1,,0.0,,,0.0
+2023-05-21,2023,antwerp-port-epic,gc,Team BridgeLane,1.1,,,1,,0.0,,,0.0
+2023-05-18,2023,circuit-de-wallonie,gc,Team BridgeLane,1.1,,,1,,0.0,,,0.0
+2023-01-29,2023,great-ocean-road-race,gc,UniSA-Australia,1.UWT,,,1,,0.0,,,125.0
+2023-05-27,2023,grote-prijs-marcel-kint,gc,Team BridgeLane,1.1,,,1,,0.0,,,3.0
+2023-07-02,2023,midden-brabant-poort-omloop,gc,Team BridgeLane,1.2,,0,0,,0.0,,,0.0
+2023-01-08,2023,nc-australia,gc,Team BridgeLane,NC,,0,0,,0.0,,,8.0
+2023-01-10,2023,nc-australia-itt,gc,Team BridgeLane,NC,,0,0,,0.0,,,1.0
+2023-06-01,2023,oberosterreichrundfahrt,gc,Team BridgeLane,2.2,,0,0,,0.0,,,0.0
+2023-04-01,2023,oceania-championships,gc,Team BridgeLane,CC,,,1,,0.0,,,298.0
+2023-03-30,2023,oceania-continental-championships-itt,gc,Team BridgeLane,CC,,0,0,,0.0,,,0.0
+2023-05-29,2023,paris-troyes,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2023-06-01,2023,ronde-de-l-oise,gc,Team BridgeLane,2.2,62.0,0.0,1,,0.0,,,-5.0
+2023-05-06,2023,ronde-van-overijssel,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,Team BridgeLane,2.2,102.0,0.0,1,,0.0,,,0.0
+2023-06-09,2023,tour-d-eure-et-loir,gc,Team BridgeLane,2.2,,,1,,0.0,,,0.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,Team BridgeLane,2.2,,0,0,,10.0,,,10.0
+2023-01-17,2023,tour-down-under,gc,UniSA-Australia,2.UWT,113.0,0.0,1,,0.0,,,57.0
+2023-06-16,2023,tour-du-pays-de-montbeliard,gc,Team BridgeLane,2.2,,0,0,,0.0,,,-5.0
+2024-05-09,2024,circuit-de-wallonie,gc,Team BridgeLane,1.1,,,1,,0.0,,,0.0
+2024-05-05,2024,circuit-des-xi-villes,gc,Team BridgeLane,1.1,,,1,,0.0,,,3.0
+2024-05-12,2024,fleche-ardennaise,gc,Team BridgeLane,1.2,,,1,,0.0,,,0.0
+2024-07-14,2024,giro-dell-appennino,gc,Team BridgeLane,1.1,,0,0,,0.0,,,0.0
+2024-01-28,2024,great-ocean-road-race,gc,Team BridgeLane,1.UWT,,0,0,,0.0,,,27.0
+2024-01-07,2024,nc-australia,gc,Team BridgeLane,NC,,,1,,0.0,,,84.0
+2024-01-10,2024,new-zealand-cycle-classic,gc,Team BridgeLane,2.2,,0,0,,30.0,,,34.0
+2024-06-13,2024,oberosterreichrundfahrt,gc,Team BridgeLane,2.2,61.0,0.0,1,,5.0,,,8.0
+2024-04-12,2024,oceania-championships,gc,Australia,CC,,0,0,,0.0,,,1.0
+2024-04-12,2024,oceania-championships,gc,Team BridgeLane,CC,,0,0,,0.0,,,626.0
+2024-04-13,2024,oceania-continental-championships-itt,gc,Australia,CC,,0,0,,0.0,,,0.0
+2024-08-03,2024,olympic-games,gc,Australia,Olympics,,0,0,,0.0,,,85.0
+2024-07-27,2024,olympic-games-itt,gc,Australia,Olympics,,0,0,,0.0,,,0.0
+2024-05-20,2024,paris-troyes,gc,Team BridgeLane,1.2,,,1,,0.0,,,40.0
+2024-01-25,2024,race-torquay,gc,Team BridgeLane,1.1,,,1,,0.0,,,18.0
+2024-05-04,2024,ronde-van-overijssel,gc,Team BridgeLane,1.2,,,1,,0.0,,,3.0
+2024-07-25,2024,tour-alsace,gc,Team BridgeLane,2.2,86.0,0.0,1,,0.0,,,3.0
+2024-05-23,2024,tour-de-la-mirabelle,gc,Team BridgeLane,2.2,87.0,0.0,1,,3.0,,,3.0
+2024-01-16,2024,tour-down-under,gc,Australia,2.UWT,114.0,0.0,1,,130.0,,,145.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Team BridgeLane,2.2,,0,0,,0.0,,,-5.0
+2024-05-19,2024,tour-of-japan,gc,Team BridgeLane,2.2,,0,0,,10.0,,,10.0
+2024-09-29,2024,world-championship,gc,Australia,WC,,0,0,,0.0,,,775.0
+2024-09-22,2024,world-championship-itt,gc,Australia,WC,,0,0,,0.0,,,165.0
+2025-08-14,2025,czech-tour,gc,CCACHE x BODYWRAP,2.1,111.0,0.0,1,,0.0,,,14.0
+2025-02-02,2025,great-ocean-road-race,gc,Australia,1.UWT,,,1,,0.0,,,27.0
+2025-01-12,2025,nc-australia,gc,CCACHE x BODYWRAP,NC,,,1,,0.0,,,61.0
+2025-01-09,2025,nc-australia-itt,gc,CCACHE x BODYWRAP,NC,,0,0,,0.0,,,5.0
+2025-10-05,2025,oita-urban-classic,gc,CCACHE x BODYWRAP,1.2,,0,0,,0.0,,,0.0
+2025-01-30,2025,race-torquay,gc,Australia,1.1,,,1,,0.0,,,13.0
+2025-06-04,2025,tour-de-gyeongnam,gc,CCACHE x BODYWRAP,2.2,18.0,0.0,1,,15.0,,,38.0
+2025-10-11,2025,tour-de-kyushu,gc,CCACHE x BODYWRAP,2.1,,0,0,,0.0,,,0.0
+2025-03-16,2025,tour-de-taiwan,gc,CCACHE x BODYWRAP,2.1,,0,0,,20.0,,,20.0
+2025-01-21,2025,tour-down-under,gc,Australia,2.UWT,125.0,0.0,1,,80.0,,,105.0
+2025-09-09,2025,tour-of-binzhou,gc,CCACHE x BODYWRAP,1.1,,0,0,,0.0,,,53.0
+2025-04-07,2025,tour-of-hainan,gc,CCACHE x BODYWRAP,2.Pro,53.0,0.0,1,,0.0,,,5.0
+2025-05-18,2025,tour-of-japan,gc,CCACHE x BODYWRAP,2.2,50.0,0.0,1,,0.0,,,15.0
+2025-07-06,2025,tour-of-magnificent-qinghai,gc,CCACHE x BODYWRAP,2.Pro,,0,0,,0.0,,,10.0
+2025-09-15,2025,tour-of-poyang-lake,gc,CCACHE x BODYWRAP,2.2,,0,0,,0.0,,,19.0
+2025-09-05,2025,tour-of-shanghai,gc,CCACHE x BODYWRAP,2.2,,0,0,,0.0,,,0.0
+2025-10-09,2025,tour-of-taihu-lake,gc,CCACHE x BODYWRAP,2.Pro,,0,0,,0.0,,,0.0
+2025-09-28,2025,world-championship,gc,Australia,WC,,0,0,,0.0,,,95.0
+2025-09-21,2025,world-championship-itt,gc,Australia,WC,,0,0,,0.0,,,435.0

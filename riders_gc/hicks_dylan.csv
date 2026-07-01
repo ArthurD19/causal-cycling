@@ -1,0 +1,62 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-04-06,2023,circuit-des-ardennes,gc,Development Team DSM,2.2,,0,0,,0.0,,,0.0
+2023-03-12,2023,dorpenomloop-rucphen,gc,Development Team DSM,1.2,,,1,,0.0,,,0.0
+2023-05-17,2023,fleche-du-sud,gc,Development Team DSM,2.2,80.0,0.0,1,,0.0,,,-4.0
+2023-09-17,2023,grote-prijs-rik-van-looy,gc,Development Team dsm-firmenich,1.2,,,1,,0.0,,,0.0
+2023-04-25,2023,le-tour-de-bretagne,gc,Development Team DSM,2.2,,0,0,,5.0,,,5.0
+2023-06-25,2023,nc-czech-republic2,gc,Development Team DSM,NC,,0,0,,0.0,,,1.0
+2023-06-18,2023,nc-finland,gc,Development Team DSM,NC,,0,0,,0.0,,,20.0
+2023-06-25,2023,nc-germany,gc,Development Team DSM,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,Development Team DSM,NC,,,1,,0.0,,,0.0
+2023-03-22,2023,olympias-tour,gc,Development Team DSM,2.2,,0,0,,0.0,,,10.0
+2023-05-24,2023,rhone-alpes-isere-tour,gc,Development Team DSM,2.2,,0,0,,30.0,,,36.0
+2023-08-27,2023,ronde-van-de-achterhoek,gc,Development Team dsm-firmenich,1.2,,0,0,,0.0,,,0.0
+2023-03-04,2023,ster-van-zwolle,gc,Development Team DSM,1.2,,,1,,0.0,,,0.0
+2023-07-27,2023,tour-alsace,gc,Development Team dsm-firmenich,2.2,,0,0,,25.0,,,35.0
+2023-09-03,2023,tour-of-britain,gc,Great Britain,2.Pro,,0,0,,20.0,,,83.0
+2023-02-19,2023,tour-of-rwanda,gc,Great Britain,2.1,,,1,,40.0,,,45.0
+2023-09-20,2023,uec-road-european-championships-itt,gc,Great Britain,CC,,0,0,,0.0,,,70.0
+2023-09-24,2023,uec-road-european-championships-me,gc,Great Britain,CC,,0,0,,0.0,,,36.0
+2023-08-06,2023,world-championship,gc,Great Britain,WC,,0,0,,0.0,,,75.0
+2023-08-11,2023,world-championship-itt,gc,Great Britain,WC,,0,0,,0.0,,,325.0
+2024-04-28,2024,gp-de-la-somme,gc,Saint Piran,1.2,,0,0,,0.0,,,0.0
+2024-03-02,2024,grand-prix-criquielion,gc,Saint Piran,1.1,,,1,,0.0,,,0.0
+2024-07-21,2024,grand-prix-de-la-ville-de-perenchies,gc,Saint Piran,1.2,,0,0,,0.0,,,0.0
+2024-07-27,2024,kreiz-breizh-elites,gc,Saint Piran,2.2,,,1,,0.0,,,0.0
+2024-06-19,2024,nc-great-britain-itt,gc,Saint Piran,NC,,0,0,,0.0,,,1.0
+2024-06-23,2024,ncgreat-britain,gc,Saint Piran,NC,,,1,,0.0,,,0.0
+2024-05-30,2024,ronde-de-l-oise,gc,Saint Piran,2.2,,,1,,0.0,,,-25.0
+2024-07-06,2024,sibiu-cycling-tour,gc,Saint Piran,2.1,86.0,0.0,1,,0.0,,,0.0
+2024-04-10,2024,tour-du-loir-et-cher,gc,Saint Piran,2.2,,0,0,,0.0,,,0.0
+2024-09-03,2024,tour-of-britain,gc,Saint Piran,2.Pro,,0,0,,6.0,,,6.0
+2024-05-19,2024,tour-of-japan,gc,Saint Piran,2.2,,0,0,,0.0,,,10.0
+2024-09-04,2024,tour-of-poyang-lake,gc,Saint Piran,2.2,,0,0,,0.0,,,7.0
+2025-05-04,2025,albani-classic-fyen-rundt,gc,Raptor Factory Racing,1.2,,,1,,0.0,,,0.0
+2025-04-27,2025,east-midlands-international-cicle-classic,gc,Raptor Factory Racing,1.2,,,1,,0.0,,,25.0
+2025-04-27,2025,east-midlands-international-cicle-classic,gc,Muc-Off-SRCT-Storck,1.2,,0,0,,0.0,,,20.0
+2025-04-27,2025,east-midlands-international-cicle-classic,gc,MyPad Racing powered by Discovery Properties,1.2,,0,0,,0.0,,,0.0
+2025-04-27,2025,east-midlands-international-cicle-classic,gc,Velo Performance U23 Development Team,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,gp-de-la-somme,gc,MyPad Racing powered by Discovery Properties,1.2,,0,0,,0.0,,,25.0
+2025-05-03,2025,gp-herning,gc,Raptor Factory Racing,1.2,,,1,,0.0,,,0.0
+2025-08-31,2025,gp-kranj,gc,Velo Performance U23 Development Team,1.2,,0,0,,0.0,,,0.0
+2025-05-10,2025,hadeland-gp,gc,MyPad Racing powered by Discovery Properties,1.2,,0,0,,0.0,,,0.0
+2025-08-02,2025,kreiz-breizh-elites,gc,Muc-Off-SRCT-Storck,2.2,53.0,0.0,1,,0.0,,,0.0
+2025-08-02,2025,kreiz-breizh-elites,gc,Velo Performance U23 Development Team,2.2,,0,0,,0.0,,,0.0
+2025-07-06,2025,midden-brabant-poort-omloop,gc,Velo Performance U23 Development Team,1.2,,,1,,0.0,,,0.0
+2025-09-20,2025,milano-rapallo,gc,Velo Performance U23 Development Team,1.2,,0,0,,0.0,,,0.0
+2025-06-22,2025,nc-bermuda,gc,Muc-Off-SRCT-Storck,NC,,0,0,,0.0,,,100.0
+2025-06-19,2025,nc-bermuda-itt,gc,Muc-Off-SRCT-Storck,NC,,0,0,,0.0,,,30.0
+2025-06-26,2025,nc-great-britain-itt,gc,Raptor Factory Racing,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-ireland,gc,Velo Performance U23 Development Team,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,Raptor Factory Racing,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,Muc-Off-SRCT-Storck,NC,,0,0,,0.0,,,10.0
+2025-06-29,2025,ncgreat-britain,gc,Velo Performance U23 Development Team,NC,,0,0,,0.0,,,0.0
+2025-05-01,2025,omloop-van-het-waasland,gc,Raptor Factory Racing,1.2,,,1,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,MyPad Racing powered by Discovery Properties,1.2,,0,0,,0.0,,,0.0
+2025-03-08,2025,rhodes-gp,gc,Velo Performance U23 Development Team,1.2,,0,0,,0.0,,,0.0
+2025-05-11,2025,ringerike-gp,gc,MyPad Racing powered by Discovery Properties,1.2,,0,0,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,MyPad Racing powered by Discovery Properties,2.2,,0,0,,0.0,,,0.0
+2025-03-01,2025,south-aegean-tour,gc,Velo Performance U23 Development Team,2.2,,0,0,,0.0,,,0.0
+2025-09-04,2025,tour-of-kosovo,gc,MyPad Racing powered by Discovery Properties,2.2,7.0,5.0,1,,90.0,,,105.0
+2025-03-13,2025,tour-of-rhodes,gc,MyPad Racing powered by Discovery Properties,2.2,,0,0,,0.0,,,0.0
+2025-03-13,2025,tour-of-rhodes,gc,Velo Performance U23 Development Team,2.2,,0,0,,0.0,,,0.0

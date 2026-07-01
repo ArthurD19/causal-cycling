@@ -1,0 +1,715 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-02-23,2017,abu-dhabi-tour,gc,Team Dimension Data,2.UWT,85.0,0.0,1,,5.0,,,66.0
+2017-04-16,2017,amstel-gold-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,318.0
+2017-08-10,2017,arctic-race-of-norway,gc,Team Dimension Data,2.HC,,0,0,,48.0,,,48.0
+2017-04-12,2017,brabantse-pijl,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,5.0
+2017-08-27,2017,bretagne-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,152.0
+2017-08-20,2017,cyclassics-hamburg,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,56.0
+2017-01-31,2017,dubai-tour,gc,Team Dimension Data,2.HC,8.0,50.0,1,,90.0,,,105.0
+2017-03-24,2017,e3-harelbeke,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,16.0
+2017-03-26,2017,gent-wevelgem,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2017-05-05,2017,giro-d-italia,gc,Team Dimension Data,2.UWT,,0,0,,28.0,20.0,0.0,148.0
+2017-05-05,2017,giro-d-italia,kom,Team Dimension Data,2.UWT,,0,0,,28.0,20.0,0.0,148.0
+2017-05-05,2017,giro-d-italia,points,Team Dimension Data,2.UWT,,0,0,,28.0,20.0,0.0,148.0
+2017-09-30,2017,giro-dell-emilia,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,0.0
+2017-09-26,2017,giro-di-toscana,gc,Team Dimension Data,2.1,,,1,,0.0,,,14.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,8.0
+2017-09-28,2017,gp-citta-di-peccioli,gc,Team Dimension Data,1.1,,,1,,0.0,,,0.0
+2017-09-17,2017,gp-d-isbergues,gc,Team Dimension Data,1.1,,,1,,0.0,,,40.0
+2017-06-08,2017,gp-du-canton-d-argovie,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,93.0
+2017-09-16,2017,gp-impanis-van-petegem,gc,Team Dimension Data,1.HC,,,1,,0.0,,,10.0
+2017-09-10,2017,gp-montreal,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2017-09-08,2017,gp-quebec,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,55.0
+2017-01-29,2017,great-ocean-road-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,95.0
+2017-10-07,2017,il-lombardia,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,0.0
+2017-04-03,2017,itzulia-basque-country,gc,Team Dimension Data,2.UWT,,0,0,,24.0,,,24.0
+2017-09-15,2017,kampioenschap-van-vlaanderen1,gc,Team Dimension Data,1.1,,,1,,0.0,,,10.0
+2017-04-19,2017,la-fleche-wallonne,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,28.0
+2017-04-23,2017,liege-bastogne-liege,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,50.0
+2017-03-18,2017,milano-sanremo,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,50.0
+2017-10-03,2017,munsterland-giro,gc,Team Dimension Data,1.HC,,,1,,0.0,,,11.0
+2017-07-26,2017,nc-algeria,gc,Team Dimension Data,NC,,0,0,,0.0,,,30.0
+2017-07-24,2017,nc-algeria-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,25.0
+2017-01-08,2017,nc-australia,gc,Team Dimension Data,NC,,0,0,,0.0,,,40.0
+2017-01-05,2017,nc-australia-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-belgium,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-eritrea,gc,Team Dimension Data,NC,,0,0,,0.0,,,40.0
+2017-06-23,2017,nc-eritrea-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,90.0
+2017-06-22,2017,nc-great-britain-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-italy,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-25,2017,nc-norway,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-22,2017,nc-norway-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,30.0
+2017-06-25,2017,nc-rwanda,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2017-06-24,2017,nc-rwanda-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,15.0
+2017-02-12,2017,nc-south-africa,gc,Team Dimension Data,NC,,0,0,,0.0,,,125.0
+2017-02-09,2017,nc-south-africa-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,28.0
+2017-06-25,2017,ncgreat-britain,gc,Team Dimension Data,NC,,,1,,0.0,,,85.0
+2017-03-05,2017,paris-nice,gc,Team Dimension Data,2.UWT,,0,0,,3.0,,,3.0
+2017-04-09,2017,paris-roubaix,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,15.0
+2017-10-08,2017,paris-tours,gc,Team Dimension Data,1.HC,,,1,,0.0,,,0.0
+2017-08-07,2017,renewi-tour,gc,Team Dimension Data,2.UWT,,0,0,,24.0,,,24.0
+2017-07-30,2017,ride-london-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,26.0
+2017-04-02,2017,ronde-van-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,53.0
+2017-07-29,2017,san-sebastian,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,24.0
+2017-04-05,2017,scheldeprijs,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,68.0
+2017-03-04,2017,strade-bianche,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,75.0
+2017-03-09,2017,tirreno-adriatico,gc,Team Dimension Data,2.UWT,,,1,,23.0,,,23.0
+2017-06-04,2017,tour-auvergne-rhone-alpes,gc,Team Dimension Data,2.UWT,,0,0,,25.0,,,25.0
+2017-07-01,2017,tour-de-france,gc,Team Dimension Data,2.UWT,,,1,,55.0,0.0,25.0,365.0
+2017-07-01,2017,tour-de-france,kom,Team Dimension Data,2.UWT,,,1,,55.0,0.0,25.0,365.0
+2017-07-01,2017,tour-de-france,points,Team Dimension Data,2.UWT,,,1,,55.0,0.0,25.0,365.0
+2017-02-22,2017,tour-de-langkawi,gc,Team Dimension Data,2.HC,,0,0,,346.0,,,406.0
+2017-07-29,2017,tour-de-pologne,gc,Team Dimension Data,2.UWT,,0,0,,24.0,,,24.0
+2017-04-25,2017,tour-de-romandie,gc,Team Dimension Data,2.UWT,,0,0,,30.0,,,30.0
+2017-06-10,2017,tour-de-suisse,gc,Team Dimension Data,2.UWT,,0,0,,55.0,,,55.0
+2017-04-28,2017,tour-de-yorkshire,gc,Team Dimension Data,2.1,,0,0,,218.0,,,237.0
+2017-05-24,2017,tour-des-fjords,gc,Team Dimension Data,2.1,,0,0,,131.0,,,178.0
+2017-01-17,2017,tour-down-under,gc,Team Dimension Data,2.UWT,,0,0,,285.0,,,310.0
+2017-07-02,2017,tour-of-austria,gc,Team Dimension Data,2.1,,0,0,,88.0,,,110.0
+2017-09-03,2017,tour-of-britain,gc,Team Dimension Data,2.HC,,,1,,150.0,,,190.0
+2017-05-14,2017,tour-of-california,gc,Team Dimension Data,2.UWT,,0,0,,119.0,,,119.0
+2017-10-19,2017,tour-of-guangxi,gc,Team Dimension Data,2.UWT,,0,0,,85.0,,,85.0
+2017-05-17,2017,tour-of-norway,gc,Team Dimension Data,2.HC,,0,0,,200.0,,,255.0
+2017-02-14,2017,tour-of-oman,gc,Team Dimension Data,2.HC,,0,0,,190.0,,,200.0
+2017-06-15,2017,tour-of-slovenia,gc,Team Dimension Data,2.1,65.0,0.0,1,,0.0,,,8.0
+2017-10-03,2017,tre-valli-varesine,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,3.0
+2017-03-20,2017,volta-a-catalunya,gc,Team Dimension Data,2.UWT,,0,0,,12.0,,,20.0
+2017-02-15,2017,volta-ao-algarve,gc,Team Dimension Data,2.HC,,,1,,0.0,,,0.0
+2017-08-01,2017,vuelta-a-burgos,gc,Team Dimension Data,2.HC,,0,0,,115.0,,,115.0
+2017-08-20,2017,vuelta-a-espana,gc,Team Dimension Data,2.UWT,,0,0,,20.0,0.0,0.0,124.0
+2017-08-20,2017,vuelta-a-espana,kom,Team Dimension Data,2.UWT,,0,0,,20.0,0.0,0.0,124.0
+2017-08-20,2017,vuelta-a-espana,points,Team Dimension Data,2.UWT,,0,0,,20.0,0.0,0.0,124.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Team Dimension Data,2.1,,0,0,,28.0,,,33.0
+2018-02-21,2018,abu-dhabi-tour,gc,Team Dimension Data,2.UWT,,,1,,5.0,,,5.0
+2018-06-21,2018,adriatica-ionica-race,gc,Team Dimension Data,2.1,68.0,0.0,1,,0.0,,,5.0
+2018-04-15,2018,amstel-gold-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,20.0
+2018-08-16,2018,arctic-race-of-norway,gc,Team Dimension Data,2.HC,,0,0,,6.0,,,6.0
+2018-04-11,2018,brabantse-pijl,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,35.0
+2018-08-26,2018,bretagne-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,8.0
+2018-09-22,2018,circuit-franco-belge,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,71.0
+2018-04-10,2018,commonwealth-games-itt2,gc,Team Dimension Data,JR,,0,0,,0.0,,,0.0
+2018-08-19,2018,cyclassics-hamburg,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,24.0
+2018-08-23,2018,deutschland-tour,gc,Team Dimension Data,2.1,,0,0,,35.0,,,35.0
+2018-02-06,2018,dubai-tour,gc,Team Dimension Data,2.HC,12.0,25.0,1,,35.0,,,55.0
+2018-03-28,2018,dwars-door-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,181.0
+2018-03-23,2018,e3-harelbeke,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,16.0
+2018-05-01,2018,eschborn-frankfurt,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,88.0
+2018-03-25,2018,gent-wevelgem,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,40.0
+2018-05-04,2018,giro-d-italia,gc,Team Dimension Data,2.UWT,,0,0,,16.0,0.0,0.0,20.0
+2018-05-04,2018,giro-d-italia,kom,Team Dimension Data,2.UWT,,0,0,,16.0,0.0,0.0,20.0
+2018-05-04,2018,giro-d-italia,points,Team Dimension Data,2.UWT,,0,0,,16.0,0.0,0.0,20.0
+2018-10-06,2018,giro-dell-emilia,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,8.0
+2018-09-19,2018,giro-di-toscana,gc,Team Dimension Data,1.1,,0,0,,0.0,,,0.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,5.0
+2018-07-26,2018,gp-cerami,gc,Team Dimension Data,1.1,,0,0,,0.0,,,3.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Team Dimension Data,1.1,,0,0,,0.0,,,3.0
+2018-09-23,2018,gp-d-isbergues,gc,Team Dimension Data,1.1,,0,0,,0.0,,,30.0
+2018-08-12,2018,gp-di-poggiana,gc,Team Dimension Data,1.2U,,0,0,,0.0,,,0.0
+2018-06-07,2018,gp-du-canton-d-argovie,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,11.0
+2018-09-09,2018,gp-montreal,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,105.0
+2018-09-07,2018,gp-quebec,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,20.0
+2018-10-11,2018,gran-piemonte,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,13.0
+2018-01-28,2018,great-ocean-road-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,16.0
+2018-10-13,2018,il-lombardia,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,0.0
+2018-04-02,2018,itzulia-basque-country,gc,Team Dimension Data,2.UWT,,0,0,,20.0,,,20.0
+2018-02-25,2018,kuurne-brussel-kuurne,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,40.0
+2018-04-18,2018,la-fleche-wallonne,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,76.0
+2018-04-22,2018,liege-bastogne-liege,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2018-09-22,2018,memorial-marco-pantani,gc,Team Dimension Data,1.1,,0,0,,0.0,,,5.0
+2018-03-17,2018,milano-sanremo,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,50.0
+2018-10-03,2018,munsterland-giro,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,8.0
+2018-01-07,2018,nc-australia,gc,Team Dimension Data,NC,,0,0,,0.0,,,3.0
+2018-01-05,2018,nc-australia-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,1.0
+2018-06-24,2018,nc-belgium,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-eritrea,gc,Team Dimension Data,NC,,0,0,,0.0,,,80.0
+2018-06-22,2018,nc-eritrea-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,8.0
+2018-06-28,2018,nc-great-britain-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2018-06-21,2018,nc-norway-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,50.0
+2018-02-10,2018,nc-south-africa,gc,Team Dimension Data,NC,,0,0,,0.0,,,79.0
+2018-02-07,2018,nc-south-africa-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,30.0
+2018-06-24,2018,nc-united-states,gc,Team Dimension Data,NC,,0,0,,0.0,,,40.0
+2018-07-01,2018,ncgreat-britain,gc,Team Dimension Data,NC,,,1,,0.0,,,0.0
+2018-02-24,2018,omloop-het-nieuwsblad,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,35.0
+2018-03-04,2018,paris-nice,gc,Team Dimension Data,2.UWT,,0,0,,30.0,,,30.0
+2018-04-08,2018,paris-roubaix,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,15.0
+2018-10-07,2018,paris-tours,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,3.0
+2018-08-13,2018,renewi-tour,gc,Team Dimension Data,2.UWT,,0,0,,20.0,,,20.0
+2018-07-29,2018,ride-london-classic,gc,Team Dimension Data,1.UWT,,,1,,0.0,,,35.0
+2018-04-01,2018,ronde-van-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,40.0
+2018-08-04,2018,san-sebastian,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,42.0
+2018-04-04,2018,scheldeprijs,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,10.0
+2018-03-03,2018,strade-bianche,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,12.0
+2018-03-08,2018,tirreno-adriatico,gc,Team Dimension Data,2.UWT,,0,0,,48.0,,,48.0
+2018-06-03,2018,tour-auvergne-rhone-alpes,gc,Team Dimension Data,2.UWT,,0,0,,30.0,,,55.0
+2018-07-07,2018,tour-de-france,gc,Team Dimension Data,2.UWT,,,1,,10.0,0.0,0.0,45.0
+2018-07-07,2018,tour-de-france,kom,Team Dimension Data,2.UWT,,,1,,10.0,0.0,0.0,45.0
+2018-07-07,2018,tour-de-france,points,Team Dimension Data,2.UWT,,,1,,10.0,0.0,0.0,45.0
+2018-03-18,2018,tour-de-langkawi,gc,Team Dimension Data,2.HC,,0,0,,113.0,,,123.0
+2018-08-04,2018,tour-de-pologne,gc,Team Dimension Data,2.UWT,,0,0,,20.0,,,20.0
+2018-04-24,2018,tour-de-romandie,gc,Team Dimension Data,2.UWT,,0,0,,30.0,,,30.0
+2018-06-10,2018,tour-de-suisse,gc,Team Dimension Data,2.UWT,,0,0,,40.0,,,50.0
+2018-07-28,2018,tour-de-wallonie,gc,Team Dimension Data,2.HC,,0,0,,28.0,,,33.0
+2018-05-03,2018,tour-de-yorkshire,gc,Team Dimension Data,2.1,,,1,,70.0,,,70.0
+2018-05-22,2018,tour-des-fjords,gc,Team Dimension Data,2.HC,,0,0,,103.0,,,108.0
+2018-01-16,2018,tour-down-under,gc,Team Dimension Data,2.UWT,,0,0,,385.0,,,395.0
+2018-07-07,2018,tour-of-austria,gc,Team Dimension Data,2.1,,0,0,,5.0,,,5.0
+2018-09-02,2018,tour-of-britain,gc,Team Dimension Data,2.HC,,0,0,,30.0,,,30.0
+2018-05-13,2018,tour-of-california,gc,Team Dimension Data,2.UWT,98.0,0.0,1,,10.0,,,10.0
+2018-10-16,2018,tour-of-guangxi,gc,Team Dimension Data,2.UWT,,0,0,,57.0,,,57.0
+2018-05-16,2018,tour-of-norway,gc,Team Dimension Data,2.HC,,0,0,,125.0,,,155.0
+2018-02-13,2018,tour-of-oman,gc,Team Dimension Data,2.HC,109.0,0.0,1,,45.0,,,55.0
+2018-06-13,2018,tour-of-slovenia,gc,Team Dimension Data,2.1,122.0,0.0,1,,3.0,,,3.0
+2018-04-16,2018,tour-of-the-alps,gc,Team Dimension Data,2.HC,,0,0,,70.0,,,90.0
+2018-10-09,2018,tre-valli-varesine,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,8.0
+2018-09-23,2018,trofeo-matteotti,gc,Team Dimension Data,1.1,,0,0,,0.0,,,20.0
+2018-03-19,2018,volta-a-catalunya,gc,Team Dimension Data,2.UWT,,0,0,,60.0,,,60.0
+2018-02-14,2018,volta-ao-algarve,gc,Team Dimension Data,2.HC,,0,0,,55.0,,,60.0
+2018-08-07,2018,vuelta-a-burgos,gc,Team Dimension Data,2.HC,,0,0,,205.0,,,205.0
+2018-08-25,2018,vuelta-a-espana,gc,Team Dimension Data,2.UWT,,0,0,,96.0,0.0,0.0,296.0
+2018-08-25,2018,vuelta-a-espana,kom,Team Dimension Data,2.UWT,,0,0,,96.0,0.0,0.0,296.0
+2018-08-25,2018,vuelta-a-espana,points,Team Dimension Data,2.UWT,,0,0,,96.0,0.0,0.0,296.0
+2018-01-31,2018,vuelta-a-la-comunidad-valenciana,gc,Team Dimension Data,2.1,,0,0,,5.0,,,5.0
+2019-07-25,2019,adriatica-ionica-race,gc,Team Dimension Data,2.1,,,1,,5.0,,,5.0
+2019-08-29,2019,african-games-road-race-me,gc,Team Dimension Data,JC,,0,0,,0.0,,,200.0
+2019-04-21,2019,amstel-gold-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,45.0
+2019-08-15,2019,arctic-race-of-norway,gc,Team Dimension Data,2.HC,,0,0,,75.0,,,75.0
+2019-04-17,2019,brabantse-pijl,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,70.0
+2019-09-01,2019,bretagne-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,236.0
+2019-10-20,2019,chrono-des-nations,gc,Team Dimension Data,1.1,,0,0,,0.0,,,43.0
+2019-03-27,2019,classic-brugge-de-panne,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,73.0
+2019-08-25,2019,cyclassics-hamburg,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,316.0
+2019-06-30,2019,danish-championships,gc,Team Dimension Data,NC,,0,0,,0.0,,,20.0
+2019-08-29,2019,deutschland-tour,gc,Team Dimension Data,2.HC,,,1,,60.0,,,60.0
+2019-04-03,2019,dwars-door-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,22.0
+2019-03-29,2019,e3-harelbeke,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,8.0
+2019-05-01,2019,eschborn-frankfurt,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,35.0
+2019-06-23,2019,european-games,gc,Great Britain,JC,,0,0,,0.0,,,90.0
+2019-03-31,2019,gent-wevelgem,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,3.0
+2019-05-11,2019,giro-d-italia,gc,Team Dimension Data,2.UWT,,0,0,,36.0,0.0,0.0,48.0
+2019-05-11,2019,giro-d-italia,kom,Team Dimension Data,2.UWT,,0,0,,36.0,0.0,0.0,48.0
+2019-05-11,2019,giro-d-italia,points,Team Dimension Data,2.UWT,,0,0,,36.0,0.0,0.0,48.0
+2019-09-22,2019,gp-d-isbergues,gc,Team Dimension Data,1.1,,,1,,0.0,,,43.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,130.0
+2019-09-21,2019,gp-impanis-van-petegem,gc,Team Dimension Data,1.HC,,,1,,0.0,,,60.0
+2019-09-15,2019,gp-montreal,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,255.0
+2019-09-13,2019,gp-quebec,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,215.0
+2019-10-10,2019,gran-piemonte,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,40.0
+2019-01-27,2019,great-ocean-road-race,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,192.0
+2019-10-12,2019,il-lombardia,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2019-04-08,2019,itzulia-basque-country,gc,Team Dimension Data,2.UWT,,0,0,,8.0,,,8.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Team Dimension Data,1.1,,,1,,0.0,,,33.0
+2019-09-20,2019,kampioenschap-van-vlaanderen1,gc,Great Britain,1.1,,0,0,,0.0,,,0.0
+2019-08-03,2019,kreiz-breizh-elites,gc,Great Britain,2.2,,0,0,,0.0,,,0.0
+2019-03-03,2019,kuurne-brussel-kuurne,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,0.0
+2019-04-24,2019,la-fleche-wallonne,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,76.0
+2019-04-28,2019,liege-bastogne-liege,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,10.0
+2019-09-21,2019,memorial-marco-pantani,gc,Team Dimension Data,1.1,,0,0,,0.0,,,0.0
+2019-03-23,2019,milano-sanremo,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,78.0
+2019-10-09,2019,milano-torino,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,3.0
+2019-10-03,2019,munsterland-giro,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,8.0
+2019-01-06,2019,nc-australia,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-01-08,2019,nc-australia-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,10.0
+2019-06-30,2019,nc-belgium,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-27,2019,nc-belgium-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-eritrea,gc,Team Dimension Data,NC,,0,0,,0.0,,,1.0
+2019-06-28,2019,nc-eritrea-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,50.0
+2019-06-27,2019,nc-great-britain-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,25.0
+2019-06-30,2019,nc-italy,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-netherlands,gc,Team Dimension Data,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-norway,gc,Team Dimension Data,NC,,0,0,,0.0,,,51.0
+2019-06-27,2019,nc-norway-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,20.0
+2019-02-10,2019,nc-south-africa,gc,Team Dimension Data,NC,,0,0,,0.0,,,265.0
+2019-02-08,2019,nc-south-africa-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-switserland,gc,Team Dimension Data,NC,,0,0,,0.0,,,20.0
+2019-06-26,2019,nc-switzerland-itt,gc,Team Dimension Data,NC,,0,0,,0.0,,,3.0
+2019-06-30,2019,ncgreat-britain,gc,Team Dimension Data,NC,,,1,,0.0,,,0.0
+2019-03-02,2019,omloop-het-nieuwsblad,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,7.0
+2019-03-10,2019,paris-nice,gc,Team Dimension Data,2.UWT,,,1,,5.0,,,5.0
+2019-04-14,2019,paris-roubaix,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,10.0
+2019-10-13,2019,paris-tours,gc,Team Dimension Data,1.HC,,,1,,0.0,,,101.0
+2019-08-12,2019,renewi-tour,gc,Team Dimension Data,2.UWT,,0,0,,92.0,,,92.0
+2019-08-04,2019,ride-london-classic,gc,Great Britain,1.UWT,,0,0,,0.0,,,83.0
+2019-08-04,2019,ride-london-classic,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,136.0
+2019-04-07,2019,ronde-van-vlaanderen,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,20.0
+2019-08-03,2019,san-sebastian,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,26.0
+2019-04-10,2019,scheldeprijs,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,3.0
+2019-03-09,2019,strade-bianche,gc,Team Dimension Data,1.UWT,,0,0,,0.0,,,30.0
+2019-03-14,2019,tirreno-adriatico,gc,Team Dimension Data,2.UWT,,0,0,,30.0,,,30.0
+2019-07-21,2019,tokyo-2020-test-event,gc,Great Britain,1.2,,0,0,,0.0,,,23.0
+2019-06-09,2019,tour-auvergne-rhone-alpes,gc,Team Dimension Data,2.UWT,,0,0,,10.0,,,70.0
+2019-07-06,2019,tour-de-france,gc,Team Dimension Data,2.UWT,,0,0,,70.0,0.0,0.0,90.0
+2019-07-06,2019,tour-de-france,kom,Team Dimension Data,2.UWT,,0,0,,70.0,0.0,0.0,90.0
+2019-07-06,2019,tour-de-france,points,Team Dimension Data,2.UWT,,0,0,,70.0,0.0,0.0,90.0
+2019-08-03,2019,tour-de-pologne,gc,Team Dimension Data,2.UWT,,,1,,8.0,,,8.0
+2019-04-30,2019,tour-de-romandie,gc,Team Dimension Data,2.UWT,,0,0,,20.0,,,20.0
+2019-06-15,2019,tour-de-suisse,gc,Team Dimension Data,2.UWT,,0,0,,40.0,,,40.0
+2019-05-02,2019,tour-de-yorkshire,gc,Team Dimension Data,2.HC,68.0,0.0,1,,60.0,,,60.0
+2019-05-02,2019,tour-de-yorkshire,gc,Great Britain,2.HC,,0,0,,3.0,,,3.0
+2019-01-15,2019,tour-down-under,gc,Team Dimension Data,2.UWT,,0,0,,153.0,,,153.0
+2019-07-06,2019,tour-of-austria,gc,Team Dimension Data,2.1,,0,0,,140.0,,,148.0
+2019-09-07,2019,tour-of-britain,gc,Team Dimension Data,2.HC,87.0,0.0,1,,8.0,,,8.0
+2019-09-07,2019,tour-of-britain,gc,Great Britain,2.HC,,0,0,,5.0,,,15.0
+2019-05-12,2019,tour-of-california,gc,Team Dimension Data,2.UWT,,,1,,5.0,,,20.0
+2019-10-17,2019,tour-of-guangxi,gc,Team Dimension Data,2.UWT,,0,0,,43.0,,,43.0
+2019-05-28,2019,tour-of-norway,gc,Team Dimension Data,2.HC,,0,0,,125.0,,,150.0
+2019-02-16,2019,tour-of-oman,gc,Team Dimension Data,2.HC,,0,0,,45.0,,,70.0
+2019-06-19,2019,tour-of-slovenia,gc,Team Dimension Data,2.HC,88.0,0.0,1,,3.0,,,33.0
+2019-04-16,2019,tour-of-turkey,gc,Team Dimension Data,2.UWT,87.0,0.0,1,,37.0,,,43.0
+2019-10-08,2019,tre-valli-varesine,gc,Team Dimension Data,1.HC,,0,0,,0.0,,,0.0
+2019-09-22,2019,trofeo-matteotti,gc,Team Dimension Data,1.1,,0,0,,0.0,,,0.0
+2019-02-25,2019,uae-tour,gc,Team Dimension Data,2.UWT,109.0,0.0,1,,19.0,,,19.0
+2019-08-08,2019,uec-road-european-championships-itt,gc,Great Britain,CC,,0,0,,0.0,,,25.0
+2019-08-11,2019,uec-road-european-championships-me,gc,Great Britain,CC,,,1,,0.0,,,36.0
+2019-03-25,2019,volta-a-catalunya,gc,Team Dimension Data,2.UWT,,0,0,,0.0,,,8.0
+2019-02-20,2019,volta-ao-algarve,gc,Team Dimension Data,2.HC,,0,0,,20.0,,,20.0
+2019-08-13,2019,vuelta-a-burgos,gc,Team Dimension Data,2.HC,,0,0,,75.0,,,110.0
+2019-08-25,2019,vuelta-a-espana,gc,Team Dimension Data,2.UWT,,0,0,,64.0,0.0,0.0,68.0
+2019-08-25,2019,vuelta-a-espana,kom,Team Dimension Data,2.UWT,,0,0,,64.0,0.0,0.0,68.0
+2019-08-25,2019,vuelta-a-espana,points,Team Dimension Data,2.UWT,,0,0,,64.0,0.0,0.0,68.0
+2019-02-06,2019,vuelta-a-la-comunidad-valenciana,gc,Team Dimension Data,2.1,,0,0,,28.0,,,42.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Team Dimension Data,2.1,130.0,0.0,1,,18.0,,,18.0
+2019-09-29,2019,world-championship,gc,Great Britain,WC,,0,0,,0.0,,,40.0
+2019-09-25,2019,world-championship-itt,gc,Great Britain,WC,,0,0,,0.0,,,145.0
+2020-02-04,2020,alula-tour,gc,Bahrain - McLaren,2.1,65.0,0.0,1,,175.0,,,213.0
+2020-10-07,2020,brabantse-pijl,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,125.0
+2020-08-25,2020,bretagne-classic,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,84.0
+2020-08-02,2020,circuito-de-getxo,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,165.0
+2020-10-21,2020,classic-brugge-de-panne,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,0.0
+2020-08-07,2020,czech-tour,gc,Bahrain - McLaren,2.1,,0,0,,20.0,,,20.0
+2020-10-11,2020,gent-wevelgem,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,100.0
+2020-10-03,2020,giro-d-italia,gc,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-10-03,2020,giro-d-italia,kom,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-10-03,2020,giro-d-italia,points,Bahrain - McLaren,2.UWT,,0,0,,544.0,0.0,0.0,764.0
+2020-09-19,2020,giro-dell-appennino,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,40.0
+2020-08-18,2020,giro-dell-emilia,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,5.0
+2020-09-16,2020,giro-di-toscana,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,3.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,63.0
+2020-02-02,2020,great-ocean-road-race,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,132.0
+2020-08-15,2020,il-lombardia,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,20.0
+2020-03-01,2020,kuurne-brussel-kuurne,gc,Bahrain - McLaren,1.Pro,,0,0,,0.0,,,63.0
+2020-09-30,2020,la-fleche-wallonne,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,48.0
+2020-08-01,2020,la-route-d-occitanie,gc,Bahrain - McLaren,2.1,,0,0,,28.0,,,45.0
+2020-10-04,2020,liege-bastogne-liege,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,295.0
+2020-08-30,2020,memorial-marco-pantani,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,0.0
+2020-08-08,2020,milano-sanremo,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,105.0
+2020-09-22,2020,nc-belgium,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-italy,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,60.0
+2020-06-21,2020,nc-slovenia,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,113.0
+2020-06-28,2020,nc-slovenia-itt,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,11.0
+2020-08-23,2020,nc-spain,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,50.0
+2020-08-21,2020,nc-spain-itt,gc,Bahrain - McLaren,NC,,0,0,,0.0,,,50.0
+2020-02-29,2020,omloop-het-nieuwsblad,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,37.0
+2020-03-08,2020,paris-nice,gc,Bahrain - McLaren,2.UWT,,0,0,,0.0,,,110.0
+2020-01-30,2020,race-torquay,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,10.0
+2020-09-29,2020,renewi-tour,gc,Bahrain - McLaren,2.UWT,,,1,,156.0,,,164.0
+2020-10-18,2020,ronde-van-vlaanderen,gc,Bahrain - McLaren,1.UWT,,,1,,0.0,,,85.0
+2020-02-19,2020,ruta-del-sol,gc,Bahrain - McLaren,2.Pro,,0,0,,285.0,,,340.0
+2020-10-14,2020,scheldeprijs,gc,Bahrain - McLaren,1.Pro,,,1,,0.0,,,0.0
+2020-08-01,2020,strade-bianche,gc,Bahrain - McLaren,1.UWT,,0,0,,0.0,,,20.0
+2020-09-07,2020,tirreno-adriatico,gc,Bahrain - McLaren,2.UWT,,0,0,,40.0,,,40.0
+2020-08-12,2020,tour-auvergne-rhone-alpes,gc,Bahrain - McLaren,2.UWT,,0,0,,70.0,,,70.0
+2020-08-29,2020,tour-de-france,gc,Bahrain - McLaren,2.UWT,,0,0,,820.0,0.0,0.0,825.0
+2020-08-29,2020,tour-de-france,kom,Bahrain - McLaren,2.UWT,,0,0,,820.0,0.0,0.0,825.0
+2020-08-29,2020,tour-de-france,points,Bahrain - McLaren,2.UWT,,0,0,,820.0,0.0,0.0,825.0
+2020-09-15,2020,tour-de-luxembourg,gc,Bahrain - McLaren,2.Pro,102.0,0.0,1,,15.0,,,15.0
+2020-08-05,2020,tour-de-pologne,gc,Bahrain - McLaren,2.UWT,137.0,0.0,1,,8.0,,,8.0
+2020-08-16,2020,tour-de-wallonie,gc,Bahrain - McLaren,2.Pro,114.0,0.0,1,,13.0,,,13.0
+2020-01-21,2020,tour-down-under,gc,Bahrain - McLaren,2.UWT,,0,0,,145.0,,,145.0
+2020-08-27,2020,tour-du-poitou-charentes-et-de-la-vienne,gc,Bahrain - McLaren,2.1,,0,0,,0.0,,,5.0
+2020-08-29,2020,trofeo-matteotti,gc,Bahrain - McLaren,1.1,,0,0,,0.0,,,0.0
+2020-02-23,2020,uae-tour,gc,Bahrain - McLaren,2.UWT,116.0,0.0,1,,27.0,,,27.0
+2020-07-28,2020,vuelta-a-burgos,gc,Bahrain - McLaren,2.Pro,126.0,0.0,1,,153.0,,,168.0
+2020-10-20,2020,vuelta-a-espana,gc,Bahrain - McLaren,2.UWT,,0,0,,332.0,0.0,0.0,356.0
+2020-10-20,2020,vuelta-a-espana,kom,Bahrain - McLaren,2.UWT,,0,0,,332.0,0.0,0.0,356.0
+2020-10-20,2020,vuelta-a-espana,points,Bahrain - McLaren,2.UWT,,0,0,,332.0,0.0,0.0,356.0
+2020-02-05,2020,vuelta-a-la-comunidad-valenciana,gc,Bahrain - McLaren,2.Pro,,0,0,,165.0,,,185.0
+2021-04-18,2021,amstel-gold-race,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,175.0
+2021-04-14,2021,brabantse-pijl,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,43.0
+2021-03-19,2021,bredene-koksijde-classic,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,138.0
+2021-08-29,2021,bretagne-classic,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,646.0
+2021-08-28,2021,brussels-cycling-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,203.0
+2021-05-16,2021,challenge-mallorca-trofeo-pollenca-alcudia,gc,Great Britain,1.1,,0,0,,0.0,,,20.0
+2021-10-17,2021,chrono-des-nations,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,53.0
+2021-06-06,2021,circuit-des-xi-villes,gc,Deceuninck - Quick Step,1.1,,,1,,0.0,,,138.0
+2021-09-29,2021,circuit-franco-belge,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,210.0
+2021-02-14,2021,clasica-de-almeria,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,160.0
+2021-03-24,2021,classic-brugge-de-panne,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,387.0
+2021-10-04,2021,coppa-bernocchi,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,328.0
+2021-06-20,2021,danish-championships,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,40.0
+2021-05-14,2021,deia-trophy,gc,Great Britain,1.1,,0,0,,0.0,,,0.0
+2021-08-26,2021,deutschland-tour,gc,Deceuninck - Quick Step,2.Pro,42.0,0.0,1,,35.0,,,35.0
+2021-08-26,2021,druivenkoers-overijse,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,280.0
+2021-06-05,2021,dwars-door-het-hageland,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,125.0
+2021-03-31,2021,dwars-door-vlaanderen,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,259.0
+2021-03-26,2021,e3-harelbeke,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,956.0
+2021-02-27,2021,faun-ardeche-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,105.0
+2021-03-28,2021,gent-wevelgem,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,110.0
+2021-05-08,2021,giro-d-italia,gc,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,0.0,0.0,508.0
+2021-05-08,2021,giro-d-italia,kom,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,0.0,0.0,508.0
+2021-05-08,2021,giro-d-italia,points,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,0.0,0.0,508.0
+2021-10-02,2021,giro-dell-emilia,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,243.0
+2021-09-19,2021,gooikse-pijl,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,125.0
+2021-09-12,2021,gp-de-fourmies,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,60.0
+2021-09-18,2021,gp-impanis-van-petegem,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,470.0
+2021-03-07,2021,gp-industria-artigianato,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,208.0
+2021-03-02,2021,gp-samyn,gc,Deceuninck - Quick Step,1.1,,,1,,0.0,,,0.0
+2021-04-25,2021,gran-premio-della-liberazione,gc,Great Britain,1.2U,,0,0,,0.0,,,3.0
+2021-03-07,2021,grote-prijs-jean-pierre-monsere,gc,Deceuninck - Quick Step,1.1,,,1,,0.0,,,85.0
+2021-08-20,2021,grote-prijs-marcel-kint,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,150.0
+2021-07-31,2021,heist-op-den-berg,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,148.0
+2021-10-09,2021,il-lombardia,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,615.0
+2021-04-05,2021,itzulia-basque-country,gc,Deceuninck - Quick Step,2.UWT,,0,0,,92.0,,,162.0
+2021-09-17,2021,kampioenschap-van-vlaanderen1,gc,Deceuninck - Quick Step,1.1,,0,0,,0.0,,,0.0
+2021-07-31,2021,kreiz-breizh-elites,gc,Great Britain,2.2,,0,0,,0.0,,,8.0
+2021-02-28,2021,kuurne-brussel-kuurne,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,43.0
+2021-02-28,2021,la-drome-classic,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,336.0
+2021-04-21,2021,la-fleche-wallonne,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,424.0
+2021-04-25,2021,liege-bastogne-liege,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,420.0
+2021-10-05,2021,memorial-frank-vandenbroucke,gc,Deceuninck - Quick Step,1.1,,,1,,0.0,,,8.0
+2021-03-20,2021,milano-sanremo,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,65.0
+2021-10-06,2021,milano-torino,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,185.0
+2021-10-03,2021,munsterland-giro,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,380.0
+2021-06-20,2021,nc-belgium,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,61.0
+2021-06-16,2021,nc-belgium-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,80.0
+2021-06-17,2021,nc-czech-republic-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,55.0
+2021-06-20,2021,nc-czech-republic2,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-denmark-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-france,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,100.0
+2021-06-17,2021,nc-france-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-germany,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,20.0
+2021-10-03,2021,nc-ireland,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-italy,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,78.0
+2021-06-18,2021,nc-italy-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,20.0
+2021-06-20,2021,nc-netherlands,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-18,2021,nc-portugal,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,50.0
+2021-06-20,2021,nc-portugal2,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-20,2021,nc-united-states,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-06-17,2021,nc-usa-itt,gc,Deceuninck - Quick Step,NC,,0,0,,0.0,,,0.0
+2021-10-17,2021,ncgreat-britain,gc,Deceuninck - Quick Step,NC,,,1,,0.0,,,0.0
+2021-03-17,2021,nokere-koerse,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,5.0
+2021-09-15,2021,okolo-slovenska,gc,Deceuninck - Quick Step,2.1,,0,0,,85.0,,,121.0
+2021-07-24,2021,olympic-games,gc,Great Britain,Olympics,,0,0,,0.0,,,155.0
+2021-07-28,2021,olympic-games-itt,gc,Great Britain,Olympics,,0,0,,0.0,,,30.0
+2021-02-27,2021,omloop-het-nieuwsblad,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,402.0
+2021-03-07,2021,paris-nice,gc,Deceuninck - Quick Step,2.UWT,,0,0,,25.0,,,110.0
+2021-10-03,2021,paris-roubaix,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,248.0
+2021-08-30,2021,renewi-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,56.0,,,64.0
+2021-04-04,2021,ronde-van-vlaanderen,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,640.0
+2021-05-18,2021,ruta-del-sol,gc,Deceuninck - Quick Step,2.Pro,,,1,,0.0,,,10.0
+2021-07-31,2021,san-sebastian,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,424.0
+2021-04-07,2021,scheldeprijs,gc,Deceuninck - Quick Step,1.Pro,,,1,,0.0,,,285.0
+2021-03-06,2021,strade-bianche,gc,Deceuninck - Quick Step,1.UWT,,0,0,,0.0,,,267.0
+2021-03-10,2021,tirreno-adriatico,gc,Deceuninck - Quick Step,2.UWT,,0,0,,198.0,,,268.0
+2021-07-22,2021,tour-alsace,gc,Great Britain,2.2,,0,0,,0.0,,,1.0
+2021-05-30,2021,tour-auvergne-rhone-alpes,gc,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,,,10.0
+2021-02-11,2021,tour-cycliste-international-la-provence,gc,Deceuninck - Quick Step,2.Pro,,0,0,,200.0,,,255.0
+2021-06-26,2021,tour-de-france,gc,Deceuninck - Quick Step,2.UWT,139.0,0.0,1,,155.0,0.0,120.0,970.0
+2021-06-26,2021,tour-de-france,kom,Deceuninck - Quick Step,2.UWT,,,1,,155.0,0.0,120.0,970.0
+2021-06-26,2021,tour-de-france,points,Deceuninck - Quick Step,2.UWT,1.0,120.0,1,,155.0,0.0,120.0,970.0
+2021-07-29,2021,tour-de-l-ain,gc,Deceuninck - Quick Step,2.1,,0,0,,60.0,,,79.0
+2021-09-14,2021,tour-de-luxembourg,gc,Deceuninck - Quick Step,2.Pro,,0,0,,348.0,,,418.0
+2021-08-09,2021,tour-de-pologne,gc,Deceuninck - Quick Step,2.UWT,,0,0,,596.0,,,786.0
+2021-04-27,2021,tour-de-romandie,gc,Deceuninck - Quick Step,2.UWT,,0,0,,388.0,,,448.0
+2021-06-06,2021,tour-de-suisse,gc,Deceuninck - Quick Step,2.UWT,,0,0,,110.0,,,165.0
+2021-07-20,2021,tour-de-wallonie,gc,Deceuninck - Quick Step,2.Pro,,0,0,,10.0,,,50.0
+2021-06-09,2021,tour-of-belgium,gc,Deceuninck - Quick Step,2.Pro,90.0,0.0,1,,353.0,,,428.0
+2021-09-05,2021,tour-of-britain,gc,Deceuninck - Quick Step,2.Pro,68.0,0.0,1,,230.0,,,270.0
+2021-09-05,2021,tour-of-britain,gc,Great Britain,2.Pro,,0,0,,6.0,,,6.0
+2021-08-10,2021,tour-of-denmark,gc,Deceuninck - Quick Step,2.Pro,21.0,5.0,1,,220.0,,,270.0
+2021-04-11,2021,tour-of-turkey,gc,Deceuninck - Quick Step,2.Pro,55.0,0.0,1,,0.0,,,85.0
+2021-03-03,2021,trofeo-laigueglia,gc,Deceuninck - Quick Step,1.Pro,,0,0,,0.0,,,195.0
+2021-05-15,2021,trofeo-pollenca-port-d-andratx,gc,Great Britain,1.1,,0,0,,0.0,,,0.0
+2021-02-21,2021,uae-tour,gc,Deceuninck - Quick Step,2.UWT,,0,0,,340.0,,,441.0
+2021-03-22,2021,volta-a-catalunya,gc,Deceuninck - Quick Step,2.UWT,,0,0,,156.0,,,184.0
+2021-05-05,2021,volta-ao-algarve,gc,Deceuninck - Quick Step,2.Pro,,0,0,,125.0,,,190.0
+2021-08-14,2021,vuelta-a-espana,gc,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,0.0,100.0,608.0
+2021-08-14,2021,vuelta-a-espana,kom,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,0.0,100.0,608.0
+2021-08-14,2021,vuelta-a-espana,points,Deceuninck - Quick Step,2.UWT,,0,0,,0.0,0.0,100.0,608.0
+2021-09-26,2021,world-championship,gc,Great Britain,WC,,,1,,0.0,,,235.0
+2021-09-19,2021,world-championship-itt,gc,Great Britain,WC,,0,0,,0.0,,,80.0
+2022-02-01,2022,alula-tour,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,63.0,,,74.0
+2022-04-10,2022,amstel-gold-race,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,230.0
+2022-04-13,2022,brabantse-pijl,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,85.0
+2022-03-18,2022,bredene-koksijde-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,40.0
+2022-08-28,2022,bretagne-classic,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,40.0
+2022-06-05,2022,brussels-cycling-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,8.0
+2022-06-12,2022,circuit-des-xi-villes,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,125.0
+2022-08-10,2022,circuit-franco-belge,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,8.0
+2022-03-23,2022,classic-brugge-de-panne,gc,Quick-Step Alpha Vinyl Team,1.UWT,,,1,,0.0,,,66.0
+2022-08-07,2022,commonwealth-games,gc,Isle of Man,JR,,,1,,0.0,,,0.0
+2022-08-04,2022,commonwealth-games-itt2,gc,Isle of Man,JR,,0,0,,0.0,,,0.0
+2022-10-03,2022,coppa-bernocchi,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,200.0
+2022-08-21,2022,cyclassics-hamburg,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,40.0
+2022-06-26,2022,danish-championships,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,60.0
+2022-08-24,2022,deutschland-tour,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,155.0,,,170.0
+2022-08-24,2022,druivenkoers-overijse,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,5.0
+2022-06-11,2022,dwars-door-het-hageland,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,233.0
+2022-03-30,2022,dwars-door-vlaanderen,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,37.0
+2022-03-25,2022,e3-harelbeke,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,80.0
+2022-02-26,2022,faun-ardeche-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,160.0
+2022-03-27,2022,gent-wevelgem,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,20.0
+2022-05-06,2022,giro-d-italia,gc,Quick-Step Alpha Vinyl Team,2.UWT,145.0,0.0,1,,24.0,0.0,20.0,220.0
+2022-05-06,2022,giro-d-italia,kom,Quick-Step Alpha Vinyl Team,2.UWT,,,1,,24.0,0.0,20.0,220.0
+2022-05-06,2022,giro-d-italia,points,Quick-Step Alpha Vinyl Team,2.UWT,3.0,20.0,1,,24.0,0.0,20.0,220.0
+2022-10-01,2022,giro-dell-emilia,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,13.0
+2022-09-18,2022,gooikse-pijl,gc,Quick-Step Alpha Vinyl Team,1.1,,,1,,0.0,,,5.0
+2022-09-11,2022,gp-de-fourmies,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,75.0
+2022-09-17,2022,gp-impanis-van-petegem,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,0.0
+2022-08-07,2022,gp-jef-scherens,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,110.0
+2022-09-11,2022,gp-montreal,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,585.0
+2022-09-09,2022,gp-quebec,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,240.0
+2022-03-01,2022,gp-samyn,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,33.0
+2022-10-06,2022,gran-piemonte,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,60.0
+2022-03-06,2022,grote-prijs-jean-pierre-monsere,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,53.0
+2022-06-04,2022,heist-op-den-berg,gc,Quick-Step Alpha Vinyl Team,1.1,,,1,,0.0,,,70.0
+2022-10-08,2022,il-lombardia,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,115.0
+2022-04-04,2022,itzulia-basque-country,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,244.0,,,370.0
+2022-09-16,2022,kampioenschap-van-vlaanderen1,gc,Quick-Step Alpha Vinyl Team,1.1,,,1,,0.0,,,125.0
+2022-02-27,2022,kuurne-brussel-kuurne,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,200.0
+2022-02-27,2022,la-drome-classic,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,90.0
+2022-04-20,2022,la-fleche-wallonne,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,228.0
+2022-04-24,2022,liege-bastogne-liege,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,520.0
+2022-10-04,2022,memorial-frank-vandenbroucke,gc,Quick-Step Alpha Vinyl Team,1.1,,0,0,,0.0,,,0.0
+2022-10-09,2022,memorial-rik-van-steenbergen,gc,Quick-Step Alpha Vinyl Team,1.1,,,1,,0.0,,,85.0
+2022-03-19,2022,milano-sanremo,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,53.0
+2022-03-16,2022,milano-torino,gc,Quick-Step Alpha Vinyl Team,1.Pro,,,1,,0.0,,,260.0
+2022-10-03,2022,munsterland-giro,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,81.0
+2022-06-26,2022,nc-belgium,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-23,2022,nc-belgium-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,83.0
+2022-06-23,2022,nc-czech-republic-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,3.0
+2022-06-23,2022,nc-denmark-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-france,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,101.0
+2022-06-23,2022,nc-france-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-germany,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,5.0
+2022-06-24,2022,nc-germany-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,nc-italy,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-22,2022,nc-italy-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-24,2022,nc-netherlands,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,nc-switserland,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,50.0
+2022-06-23,2022,nc-switzerland-itt,gc,Quick-Step Alpha Vinyl Team,NC,,0,0,,0.0,,,30.0
+2022-06-26,2022,ncgreat-britain,gc,Quick-Step Alpha Vinyl Team,NC,,,1,,0.0,,,100.0
+2022-03-16,2022,nokere-koerse,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,170.0
+2022-09-13,2022,okolo-slovenska,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,210.0,,,254.0
+2022-02-26,2022,omloop-het-nieuwsblad,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,60.0
+2022-03-06,2022,paris-nice,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,30.0,,,90.0
+2022-04-17,2022,paris-roubaix,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,168.0
+2022-04-05,2022,region-pays-de-la-loire,gc,Quick-Step Alpha Vinyl Team,2.1,51.0,0.0,1,,0.0,,,3.0
+2022-06-06,2022,ronde-van-limburg,gc,Quick-Step Alpha Vinyl Team,1.1,,,1,,0.0,,,6.0
+2022-04-03,2022,ronde-van-vlaanderen,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,65.0
+2022-02-16,2022,ruta-del-sol,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,55.0,,,60.0
+2022-07-30,2022,san-sebastian,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,408.0
+2022-04-06,2022,scheldeprijs,gc,Quick-Step Alpha Vinyl Team,1.Pro,,0,0,,0.0,,,25.0
+2022-03-22,2022,settimana-internazionale-coppi-e-bartali,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,0.0,,,33.0
+2022-03-05,2022,strade-bianche,gc,Quick-Step Alpha Vinyl Team,1.UWT,,0,0,,0.0,,,221.0
+2022-03-07,2022,tirreno-adriatico,gc,Quick-Step Alpha Vinyl Team,2.UWT,128.0,0.0,1,,80.0,,,105.0
+2022-06-05,2022,tour-auvergne-rhone-alpes,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,50.0,,,50.0
+2022-02-10,2022,tour-cycliste-international-la-provence,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,258.0,,,273.0
+2022-07-01,2022,tour-de-france,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,0.0,0.0,0.0,260.0
+2022-07-01,2022,tour-de-france,kom,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,0.0,0.0,0.0,260.0
+2022-07-01,2022,tour-de-france,points,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,0.0,0.0,0.0,260.0
+2022-05-11,2022,tour-de-hongrie,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,0.0,,,33.0
+2022-08-09,2022,tour-de-l-ain,gc,Quick-Step Alpha Vinyl Team,2.1,,0,0,,33.0,,,36.0
+2022-09-13,2022,tour-de-luxembourg,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,8.0,,,28.0
+2022-07-30,2022,tour-de-pologne,gc,Quick-Step Alpha Vinyl Team,2.UWT,,,1,,158.0,,,158.0
+2022-04-26,2022,tour-de-romandie,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,30.0,,,30.0
+2022-06-12,2022,tour-de-suisse,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,103.0,,,163.0
+2022-07-23,2022,tour-de-wallonie,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,0.0,,,40.0
+2022-06-15,2022,tour-of-belgium,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,205.0,,,255.0
+2022-08-16,2022,tour-of-denmark,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,101.0,,,106.0
+2022-05-24,2022,tour-of-norway,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,210.0,,,290.0
+2022-02-10,2022,tour-of-oman,gc,Quick-Step Alpha Vinyl Team,2.Pro,68.0,0.0,1,,188.0,,,248.0
+2022-02-20,2022,uae-tour,gc,Quick-Step Alpha Vinyl Team,2.UWT,87.0,0.0,1,,12.0,,,52.0
+2022-03-21,2022,volta-a-catalunya,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,2.0,,,102.0
+2022-02-16,2022,volta-ao-algarve,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,203.0,,,263.0
+2022-08-02,2022,vuelta-a-burgos,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,106.0,,,106.0
+2022-08-20,2022,vuelta-a-espana,gc,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,886.0,0.0,0.0,1162.0
+2022-08-20,2022,vuelta-a-espana,kom,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,886.0,0.0,0.0,1162.0
+2022-08-20,2022,vuelta-a-espana,points,Quick-Step Alpha Vinyl Team,2.UWT,,0,0,,886.0,0.0,0.0,1162.0
+2022-02-02,2022,vuelta-a-la-comunidad-valenciana,gc,Quick-Step Alpha Vinyl Team,2.Pro,,0,0,,150.0,,,210.0
+2023-05-16,2023,4-jours-de-dunkerque,gc,Astana Qazaqstan Team,2.Pro,,0,0,,128.0,,,141.0
+2023-01-30,2023,alula-tour,gc,Astana Qazaqstan Team,2.1,,0,0,,43.0,,,49.0
+2023-04-16,2023,amstel-gold-race,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,270.0
+2023-08-17,2023,arctic-race-of-norway,gc,Astana Qazaqstan Team,2.Pro,,0,0,,153.0,,,208.0
+2023-09-03,2023,bretagne-classic,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,24.0
+2023-07-30,2023,circuito-de-getxo,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,198.0
+2023-02-12,2023,clasica-de-almeria,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2023-02-13,2023,clasica-jaen-paraiso-interior,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,6.0
+2023-03-22,2023,classic-brugge-de-panne,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,2.0
+2023-09-28,2023,coppa-agostoni,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-10-02,2023,coppa-bernocchi,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,65.0
+2023-08-20,2023,cyclassics-hamburg,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,24.0
+2023-03-29,2023,dwars-door-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-03-24,2023,e3-harelbeke,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,0.0
+2023-02-25,2023,faun-ardeche-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-03-26,2023,gent-wevelgem,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,13.0
+2023-05-06,2023,giro-d-italia,gc,Astana Qazaqstan Team,2.UWT,119.0,0.0,1,,120.0,0.0,0.0,680.0
+2023-05-06,2023,giro-d-italia,kom,Astana Qazaqstan Team,2.UWT,,,1,,120.0,0.0,0.0,680.0
+2023-05-06,2023,giro-d-italia,points,Astana Qazaqstan Team,2.UWT,4.0,0.0,1,,120.0,0.0,0.0,680.0
+2023-10-11,2023,giro-del-veneto,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,68.0
+2023-09-30,2023,giro-dell-emilia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,10.0
+2023-04-11,2023,giro-di-sicilia,gc,Astana Qazaqstan Team,2.1,102.0,0.0,1,,128.0,,,142.0
+2023-09-13,2023,giro-di-toscana,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-09-14,2023,gp-citta-di-peccioli,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,118.0
+2023-03-26,2023,gp-industria-artigianato,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,43.0
+2023-09-10,2023,gp-montreal,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,235.0
+2023-09-08,2023,gp-quebec,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,20.0
+2023-02-23,2023,gran-camino,gc,Astana Qazaqstan Team,2.1,,0,0,,30.0,,,30.0
+2023-10-05,2023,gran-piemonte,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,55.0
+2023-04-01,2023,gran-premio-miguel-indurain,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,40.0
+2023-10-07,2023,il-lombardia,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-04-03,2023,itzulia-basque-country,gc,Astana Qazaqstan Team,2.UWT,,0,0,,28.0,,,35.0
+2023-02-26,2023,kuurne-brussel-kuurne,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-02-26,2023,la-drome-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2023-04-19,2023,la-fleche-wallonne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,8.0
+2023-04-23,2023,liege-bastogne-liege,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,50.0
+2023-09-03,2023,maryland-cycling-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2023-09-16,2023,memorial-marco-pantani,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,145.0
+2023-05-30,2023,mercan-tour-classic-alpes-maritimes,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,25.0
+2023-03-18,2023,milano-sanremo,gc,Astana Qazaqstan Team,1.UWT,,,1,,0.0,,,20.0
+2023-03-15,2023,milano-torino,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,16.0
+2023-02-10,2023,muscat-classic,gc,Astana Qazaqstan Team,1.1,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-estonia,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-06-24,2023,nc-italy,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,108.0
+2023-06-22,2023,nc-italy-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,16.0
+2023-06-25,2023,nc-kazakhstan,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,233.0
+2023-06-21,2023,nc-kazakhstan-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,103.0
+2023-06-25,2023,nc-netherlands,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2023-09-13,2023,okolo-slovenska,gc,Astana Qazaqstan Team,2.1,,0,0,,3.0,,,18.0
+2023-02-25,2023,omloop-het-nieuwsblad,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-03-05,2023,paris-nice,gc,Astana Qazaqstan Team,2.UWT,,0,0,,83.0,,,68.0
+2023-04-09,2023,paris-roubaix,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,45.0
+2023-07-25,2023,prueba-villafranca,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2023-08-23,2023,renewi-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,2.0,,,2.0
+2023-04-02,2023,ronde-van-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2023-02-15,2023,ruta-del-sol,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,15.0
+2023-07-29,2023,san-sebastian,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,26.0
+2023-04-05,2023,scheldeprijs,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,125.0
+2023-03-21,2023,settimana-internazionale-coppi-e-bartali,gc,Astana Qazaqstan Team,2.1,,0,0,,0.0,,,0.0
+2023-03-04,2023,strade-bianche,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,56.0
+2023-03-06,2023,tirreno-adriatico,gc,Astana Qazaqstan Team,2.UWT,121.0,0.0,1,,0.0,,,0.0
+2023-06-04,2023,tour-auvergne-rhone-alpes,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,10.0
+2023-07-01,2023,tour-de-france,gc,Astana Qazaqstan Team,2.UWT,,,1,,70.0,0.0,0.0,615.0
+2023-07-01,2023,tour-de-france,kom,Astana Qazaqstan Team,2.UWT,,,1,,70.0,0.0,0.0,615.0
+2023-07-01,2023,tour-de-france,points,Astana Qazaqstan Team,2.UWT,,,1,,70.0,0.0,0.0,615.0
+2023-10-07,2023,tour-de-kyushu,gc,Astana Qazaqstan Team,2.1,,0,0,,210.0,,,229.0
+2023-09-23,2023,tour-de-langkawi,gc,Astana Qazaqstan Team,2.Pro,,0,0,,120.0,,,193.0
+2023-07-29,2023,tour-de-pologne,gc,Astana Qazaqstan Team,2.UWT,,0,0,,122.0,,,143.0
+2023-04-25,2023,tour-de-romandie,gc,Astana Qazaqstan Team,2.UWT,,,1,,23.0,,,43.0
+2023-06-11,2023,tour-de-suisse,gc,Astana Qazaqstan Team,2.UWT,,0,0,,85.0,,,65.0
+2023-01-17,2023,tour-down-under,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,10.0
+2023-06-14,2023,tour-of-belgium,gc,Astana Qazaqstan Team,2.Pro,,0,0,,0.0,,,5.0
+2023-02-11,2023,tour-of-oman,gc,Astana Qazaqstan Team,2.Pro,105.0,0.0,1,,10.0,,,10.0
+2023-04-17,2023,tour-of-the-alps,gc,Astana Qazaqstan Team,2.Pro,,0,0,,10.0,,,10.0
+2023-10-08,2023,tour-of-turkey,gc,Astana Qazaqstan Team,2.1,130.0,0.0,1,,195.0,,,238.0
+2023-10-03,2023,tre-valli-varesine,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2023-02-20,2023,uae-tour,gc,Astana Qazaqstan Team,2.UWT,89.0,0.0,1,,17.0,,,56.0
+2023-10-15,2023,veneto-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,75.0
+2023-03-20,2023,volta-a-catalunya,gc,Astana Qazaqstan Team,2.UWT,,0,0,,0.0,,,7.0
+2023-08-15,2023,vuelta-a-burgos,gc,Astana Qazaqstan Team,2.Pro,,0,0,,100.0,,,103.0
+2023-07-26,2023,vuelta-a-castilla-y-leon,gc,Astana Qazaqstan Team,2.1,,0,0,,0.0,,,0.0
+2023-08-27,2023,vuelta-a-espana,gc,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-08-27,2023,vuelta-a-espana,kom,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-08-27,2023,vuelta-a-espana,points,Astana Qazaqstan Team,2.UWT,,0,0,,30.0,0.0,0.0,75.0
+2023-02-01,2023,vuelta-a-la-comunidad-valenciana,gc,Astana Qazaqstan Team,2.Pro,,0,0,,8.0,,,38.0
+2023-01-22,2023,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Astana Qazaqstan Team,2.Pro,,0,0,,18.0,,,26.0
+2023-02-11,2023,vuelta-ciclista-a-la-region-de-murcia,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2023-06-07,2023,zlm-tour,gc,Astana Qazaqstan Team,2.Pro,9.0,40.0,1,,125.0,,,125.0
+2024-01-30,2024,alula-tour,gc,Astana Qazaqstan Team,2.1,,0,0,,0.0,,,5.0
+2024-04-14,2024,amstel-gold-race,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,55.0
+2024-08-04,2024,arctic-race-of-norway,gc,Astana Qazaqstan Team,2.Pro,,0,0,,28.0,,,31.0
+2024-08-25,2024,bretagne-classic,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,56.0
+2024-08-11,2024,circuito-de-getxo,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,0.0
+2024-03-20,2024,classic-brugge-de-panne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,47.0
+2024-02-06,2024,colombia-21,gc,Astana Qazaqstan Team,2.1,121.0,0.0,1,,43.0,,,74.0
+2024-10-06,2024,coppa-agostoni,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,8.0
+2024-10-07,2024,coppa-bernocchi,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,5.0
+2024-09-08,2024,cyclassics-hamburg,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,18.0
+2024-06-23,2024,danish-championships,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2024-08-22,2024,deutschland-tour,gc,Astana Qazaqstan Team,2.Pro,,0,0,,3.0,,,28.0
+2024-03-27,2024,dwars-door-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,5.0
+2024-03-22,2024,e3-harelbeke,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,4.0
+2024-02-10,2024,figueira-champions-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,180.0
+2024-03-24,2024,gent-wevelgem,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,Astana Qazaqstan Team,2.1,,0,0,,125.0,,,147.0
+2024-05-04,2024,giro-d-italia,gc,Astana Qazaqstan Team,2.UWT,,0,0,,175.0,0.0,0.0,680.0
+2024-05-04,2024,giro-d-italia,kom,Astana Qazaqstan Team,2.UWT,,0,0,,175.0,0.0,0.0,680.0
+2024-05-04,2024,giro-d-italia,points,Astana Qazaqstan Team,2.UWT,,0,0,,175.0,0.0,0.0,680.0
+2024-10-16,2024,giro-del-veneto,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,58.0
+2024-07-14,2024,giro-dell-appennino,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,85.0
+2024-10-05,2024,giro-dell-emilia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,90.0
+2024-09-11,2024,giro-di-toscana,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,0.0
+2024-09-22,2024,gooikse-pijl,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,65.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-01-20,2024,gp-de-valence,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,50.0
+2024-09-18,2024,gp-de-wallonie,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-09-21,2024,gp-impanis-van-petegem,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2024-09-15,2024,gp-montreal,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,5.0
+2024-09-13,2024,gp-quebec,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,30.0
+2024-10-10,2024,gran-piemonte,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-03-30,2024,gran-premio-miguel-indurain,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,75.0
+2024-01-28,2024,great-ocean-road-race,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,92.0
+2024-10-12,2024,il-lombardia,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,65.0
+2024-04-01,2024,itzulia-basque-country,gc,Astana Qazaqstan Team,2.UWT,,0,0,,8.0,,,41.0
+2024-10-20,2024,japan-cup,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2024-09-20,2024,kampioenschap-van-vlaanderen1,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,10.0
+2024-02-25,2024,kuurne-brussel-kuurne,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,8.0
+2024-04-17,2024,la-fleche-wallonne,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,8.0
+2024-04-21,2024,liege-bastogne-liege,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,225.0
+2024-09-14,2024,memorial-marco-pantani,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,3.0
+2024-05-29,2024,mercan-tour-classic-alpes-maritimes,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2024-03-16,2024,milano-sanremo,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,75.0
+2024-03-13,2024,milano-torino,gc,Astana Qazaqstan Team,1.Pro,,,1,,0.0,,,8.0
+2024-02-09,2024,muscat-classic,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2024-01-28,2024,nc-colombia,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,1.0
+2024-06-15,2024,nc-eritrea,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,20.0
+2024-06-13,2024,nc-eritrea-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,30.0
+2024-06-23,2024,nc-germany,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-kazakhstan,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,305.0
+2024-06-19,2024,nc-kazakhstan-itt,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,128.0
+2024-06-23,2024,nc-netherlands,gc,Astana Qazaqstan Team,NC,,0,0,,0.0,,,40.0
+2024-02-24,2024,omloop-het-nieuwsblad,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,10.0
+2024-03-03,2024,paris-nice,gc,Astana Qazaqstan Team,2.UWT,,0,0,,50.0,,,90.0
+2024-04-07,2024,paris-roubaix,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,65.0
+2024-10-06,2024,paris-tours,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,73.0
+2024-07-25,2024,prueba-villafranca,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,75.0
+2024-01-25,2024,race-torquay,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,43.0
+2024-08-28,2024,renewi-tour,gc,Astana Qazaqstan Team,2.UWT,,0,0,,68.0,,,84.0
+2024-03-31,2024,ronde-van-vlaanderen,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,0.0
+2024-01-21,2024,ruta-de-la-ceramica-gran-premio-castellon,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,5.0
+2024-02-16,2024,ruta-del-sol,gc,Astana Qazaqstan Team,2.Pro,,0,0,,0.0,,,0.0
+2024-08-10,2024,san-sebastian,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,16.0
+2024-04-03,2024,scheldeprijs,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,100.0
+2024-03-02,2024,strade-bianche,gc,Astana Qazaqstan Team,1.UWT,,0,0,,0.0,,,10.0
+2024-03-04,2024,tirreno-adriatico,gc,Astana Qazaqstan Team,2.UWT,,,1,,75.0,,,90.0
+2024-06-02,2024,tour-auvergne-rhone-alpes,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,45.0
+2024-06-29,2024,tour-de-france,gc,Astana Qazaqstan Team,2.UWT,141.0,0.0,1,,0.0,0.0,0.0,395.0
+2024-06-29,2024,tour-de-france,kom,Astana Qazaqstan Team,2.UWT,,,1,,0.0,0.0,0.0,395.0
+2024-06-29,2024,tour-de-france,points,Astana Qazaqstan Team,2.UWT,56.0,0.0,1,,0.0,0.0,0.0,395.0
+2024-05-08,2024,tour-de-hongrie,gc,Astana Qazaqstan Team,2.Pro,93.0,0.0,1,,0.0,,,20.0
+2024-10-12,2024,tour-de-kyushu,gc,Astana Qazaqstan Team,2.1,,0,0,,130.0,,,152.0
+2024-09-29,2024,tour-de-langkawi,gc,Astana Qazaqstan Team,2.Pro,,0,0,,125.0,,,186.0
+2024-08-12,2024,tour-de-pologne,gc,Astana Qazaqstan Team,2.UWT,,0,0,,10.0,,,10.0
+2024-04-23,2024,tour-de-romandie,gc,Astana Qazaqstan Team,2.UWT,,0,0,,20.0,,,-5.0
+2024-06-09,2024,tour-de-suisse,gc,Astana Qazaqstan Team,2.UWT,137.0,0.0,1,,30.0,,,30.0
+2024-01-16,2024,tour-down-under,gc,Astana Qazaqstan Team,2.UWT,,0,0,,20.0,,,78.0
+2024-10-15,2024,tour-of-guangxi,gc,Astana Qazaqstan Team,2.UWT,,0,0,,85.0,,,154.0
+2024-08-27,2024,tour-of-hainan,gc,Astana Qazaqstan Team,2.Pro,,0,0,,150.0,,,180.0
+2024-09-12,2024,tour-of-istanbul,gc,Astana Qazaqstan Team,2.1,,0,0,,88.0,,,98.0
+2024-07-07,2024,tour-of-magnificent-qinghai,gc,Astana Qazaqstan Team,2.Pro,,0,0,,165.0,,,186.0
+2024-02-10,2024,tour-of-oman,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,30.0
+2024-04-21,2024,tour-of-turkey,gc,Astana Qazaqstan Team,2.Pro,117.0,0.0,1,,120.0,,,158.0
+2024-10-08,2024,tre-valli-varesine,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofeo-laigueglia,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,155.0
+2024-09-15,2024,trofeo-matteotti,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,70.0
+2024-02-19,2024,uae-tour,gc,Astana Qazaqstan Team,2.UWT,,,1,,37.0,,,47.0
+2024-10-20,2024,veneto-classic,gc,Astana Qazaqstan Team,1.Pro,,0,0,,0.0,,,3.0
+2024-03-18,2024,volta-a-catalunya,gc,Astana Qazaqstan Team,2.UWT,,0,0,,68.0,,,72.0
+2024-02-14,2024,volta-ao-algarve,gc,Astana Qazaqstan Team,2.Pro,,0,0,,35.0,,,40.0
+2024-08-05,2024,vuelta-a-burgos,gc,Astana Qazaqstan Team,2.Pro,,0,0,,5.0,,,20.0
+2024-07-23,2024,vuelta-a-castilla-y-leon,gc,Astana Qazaqstan Team,1.1,,0,0,,0.0,,,60.0
+2024-08-17,2024,vuelta-a-espana,gc,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,337.0
+2024-08-17,2024,vuelta-a-espana,kom,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,337.0
+2024-08-17,2024,vuelta-a-espana,points,Astana Qazaqstan Team,2.UWT,,0,0,,120.0,0.0,0.0,337.0
+2024-06-05,2024,zlm-tour,gc,Astana Qazaqstan Team,2.1,,0,0,,125.0,,,138.0

@@ -1,0 +1,311 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-05-09,2017,4-jours-de-dunkerque,gc,Androni - Sidermec - Bottecchia,2.HC,,,1,,0.0,,,0.0
+2017-06-01,2017,boucles-de-la-mayenne,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,60.0,,,65.0
+2017-03-18,2017,classic-loire-atlantique,gc,Androni - Sidermec - Bottecchia,1.1,,,1,,0.0,,,35.0
+2017-09-13,2017,coppa-agostoni,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,70.0
+2017-09-14,2017,coppa-bernocchi,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,26.0
+2017-02-25,2017,faun-ardeche-classic,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,155.0
+2017-04-09,2017,giro-dell-appennino,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,210.0
+2017-09-30,2017,giro-dell-emilia,gc,Androni - Sidermec - Bottecchia,1.HC,,0,0,,0.0,,,15.0
+2017-09-26,2017,giro-di-toscana,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,126.0,,,134.0
+2017-10-01,2017,gp-bruno-beghelli,gc,Androni - Sidermec - Bottecchia,1.HC,,0,0,,0.0,,,41.0
+2017-09-28,2017,gp-citta-di-peccioli,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,93.0
+2017-02-05,2017,gp-costa-degli-etruschi,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,83.0
+2017-06-08,2017,gp-du-canton-d-argovie,gc,Androni - Sidermec - Bottecchia,1.HC,,0,0,,0.0,,,25.0
+2017-03-05,2017,gp-industria-artigianato,gc,Androni - Sidermec - Bottecchia,1.HC,,0,0,,0.0,,,250.0
+2017-05-07,2017,gp-lugano,gc,Androni - Sidermec - Bottecchia,1.HC,,,1,,0.0,,,248.0
+2017-10-07,2017,il-lombardia,gc,Androni - Sidermec - Bottecchia,1.UWT,,0,0,,0.0,,,63.0
+2017-02-26,2017,la-drome-classic,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,40.0
+2017-04-02,2017,la-roue-tourangelle,gc,Androni - Sidermec - Bottecchia,1.1,,,1,,0.0,,,25.0
+2017-04-25,2017,le-tour-de-bretagne,gc,Androni - Sidermec - Bottecchia,2.2,,0,0,,10.0,,,21.0
+2017-09-16,2017,memorial-marco-pantani,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,190.0
+2017-03-18,2017,milano-sanremo,gc,Androni - Sidermec - Bottecchia,1.UWT,,0,0,,0.0,,,45.0
+2017-10-05,2017,milano-torino,gc,Androni - Sidermec - Bottecchia,1.HC,,,1,,0.0,,,11.0
+2017-02-26,2017,nc-colombia,gc,Androni - Sidermec - Bottecchia,NC,,0,0,,0.0,,,10.0
+2017-06-25,2017,nc-italy,gc,Androni - Sidermec - Bottecchia,NC,,,1,,0.0,,,0.0
+2017-06-23,2017,nc-italy-itt,gc,Androni - Sidermec - Bottecchia,NC,,0,0,,0.0,,,10.0
+2017-06-07,2017,okolo-slovenska,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,88.0,,,108.0
+2017-04-11,2017,paris-camembert,gc,Androni - Sidermec - Bottecchia,1.1,,,1,,0.0,,,20.0
+2017-08-25,2017,pro-otztaler-5500,gc,Androni - Sidermec - Bottecchia,1.1,,,1,,0.0,,,3.0
+2017-04-04,2017,region-pays-de-la-loire,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,3.0,,,11.0
+2017-07-30,2017,ride-london-classic,gc,Androni - Sidermec - Bottecchia,1.UWT,,0,0,,0.0,,,20.0
+2017-03-31,2017,route-adelie-de-vitre,gc,Androni - Sidermec - Bottecchia,1.1,,,1,,0.0,,,18.0
+2017-07-05,2017,sibiu-cycling-tour,gc,Androni - Sidermec - Bottecchia,2.1,58.0,0.0,1,,125.0,,,175.0
+2017-03-04,2017,strade-bianche,gc,Androni - Sidermec - Bottecchia,1.UWT,,0,0,,0.0,,,0.0
+2017-03-09,2017,tirreno-adriatico,gc,Androni - Sidermec - Bottecchia,2.UWT,,0,0,,60.0,,,60.0
+2017-07-26,2017,tour-alsace,gc,Androni - Sidermec - Bottecchia,2.2,82.0,0.0,1,,0.0,,,0.0
+2017-02-21,2017,tour-cycliste-international-la-provence,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,85.0,,,99.0
+2017-08-08,2017,tour-de-l-ain,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,63.0,,,66.0
+2017-02-22,2017,tour-de-langkawi,gc,Androni - Sidermec - Bottecchia,2.HC,,0,0,,75.0,,,80.0
+2017-02-18,2017,tour-des-alpes-maritimes,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,6.0,,,6.0
+2017-06-15,2017,tour-des-pays-de-savoie,gc,Androni - Sidermec - Bottecchia,2.2,,,1,,40.0,,,55.0
+2017-05-27,2017,tour-du-jura-cycliste,gc,Androni - Sidermec - Bottecchia,2.2,32.0,0.0,1,,30.0,,,38.0
+2017-08-15,2017,tour-du-limousin,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,70.0,,,75.0
+2017-06-02,2017,tour-of-bihor-bellotto,gc,Androni - Sidermec - Bottecchia,2.2,18.0,0.0,1,,65.0,,,72.0
+2017-09-10,2017,tour-of-china,gc,Androni - Sidermec - Bottecchia,2.1,31.0,0.0,1,,63.0,,,94.0
+2017-09-19,2017,tour-of-china-ii,gc,Androni - Sidermec - Bottecchia,2.1,7.0,35.0,1,,180.0,,,230.0
+2017-06-15,2017,tour-of-slovenia,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,35.0,,,35.0
+2017-04-17,2017,tour-of-the-alps,gc,Androni - Sidermec - Bottecchia,2.HC,,0,0,,85.0,,,90.0
+2017-10-10,2017,tour-of-turkey,gc,Androni - Sidermec - Bottecchia,2.UWT,70.0,0.0,1,,316.0,,,337.0
+2017-10-03,2017,tre-valli-varesine,gc,Androni - Sidermec - Bottecchia,1.HC,,0,0,,0.0,,,28.0
+2017-02-12,2017,trofeo-laigueglia,gc,Androni - Sidermec - Bottecchia,1.HC,,0,0,,0.0,,,150.0
+2017-07-16,2017,trofeo-matteotti,gc,Androni - Sidermec - Bottecchia,1.1,,0,0,,0.0,,,75.0
+2017-05-19,2017,vuelta-a-castilla-y-leon,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,40.0,,,40.0
+2017-01-13,2017,vuelta-al-tachira,gc,Androni - Sidermec - Bottecchia,2.2,,0,0,,5.0,,,13.0
+2017-01-23,2017,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Androni - Sidermec - Bottecchia,2.1,,0,0,,98.0,,,109.0
+2018-06-21,2018,adriatica-ionica-race,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,128.0,,,142.0
+2018-02-06,2018,colombia-21,gc,Androni Giocattoli - Sidermec,2.1,121.0,0.0,1,,40.0,,,48.0
+2018-09-15,2018,coppa-agostoni,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,23.0
+2018-09-16,2018,coppa-bernocchi,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,125.0
+2018-02-24,2018,faun-ardeche-classic,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,6.0
+2018-05-04,2018,giro-d-italia,gc,Androni Giocattoli - Sidermec,2.UWT,,0,0,,64.0,0.0,20.0,92.0
+2018-05-04,2018,giro-d-italia,kom,Androni Giocattoli - Sidermec,2.UWT,,0,0,,64.0,0.0,20.0,92.0
+2018-05-04,2018,giro-d-italia,points,Androni Giocattoli - Sidermec,2.UWT,,0,0,,64.0,0.0,20.0,92.0
+2018-04-22,2018,giro-dell-appennino,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,185.0
+2018-10-06,2018,giro-dell-emilia,gc,Androni Giocattoli - Sidermec,1.HC,,,1,,0.0,,,8.0
+2018-09-19,2018,giro-di-toscana,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,40.0
+2018-10-07,2018,gp-bruno-beghelli,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,133.0
+2018-09-20,2018,gp-citta-di-peccioli,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,40.0
+2018-06-07,2018,gp-du-canton-d-argovie,gc,Androni Giocattoli - Sidermec,1.HC,,,1,,0.0,,,156.0
+2018-03-04,2018,gp-industria-artigianato,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,195.0
+2018-06-03,2018,gp-lugano,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,43.0
+2018-10-11,2018,gran-piemonte,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,198.0
+2018-10-13,2018,il-lombardia,gc,Androni Giocattoli - Sidermec,1.UWT,,,1,,0.0,,,30.0
+2018-02-25,2018,la-drome-classic,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,8.0
+2018-04-01,2018,la-roue-tourangelle,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,65.0
+2018-04-25,2018,le-tour-de-bretagne,gc,Androni Giocattoli - Sidermec,2.2,,,1,,0.0,,,8.0
+2018-09-22,2018,memorial-marco-pantani,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,201.0
+2018-10-10,2018,milano-torino,gc,Androni Giocattoli - Sidermec,1.HC,,,1,,0.0,,,103.0
+2018-02-04,2018,nc-colombia,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2018-06-30,2018,nc-italy,gc,Androni Giocattoli - Sidermec,NC,,,1,,0.0,,,1.0
+2018-10-04,2018,nc-italy-itt,gc,Androni Giocattoli - Sidermec,NC,,,1,,0.0,,,13.0
+2018-04-10,2018,paris-camembert,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,130.0
+2018-04-03,2018,region-pays-de-la-loire,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,40.0,,,46.0
+2018-03-30,2018,route-adelie-de-vitre,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,0.0
+2018-07-05,2018,sibiu-cycling-tour,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,150.0,,,178.0
+2018-03-03,2018,strade-bianche,gc,Androni Giocattoli - Sidermec,1.UWT,,,1,,0.0,,,0.0
+2018-08-14,2018,tour-de-hongrie,gc,Androni Giocattoli - Sidermec,2.1,10.0,20.0,1,,170.0,,,200.0
+2018-03-18,2018,tour-de-langkawi,gc,Androni Giocattoli - Sidermec,2.HC,,0,0,,33.0,,,73.0
+2018-06-21,2018,tour-des-pays-de-savoie,gc,Androni Giocattoli - Sidermec,2.2,19.0,0.0,1,,0.0,,,0.0
+2018-04-21,2018,tour-du-jura-cycliste,gc,Androni Giocattoli - Sidermec,2.2,15.0,0.0,1,,0.0,,,0.0
+2018-08-15,2018,tour-du-limousin,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,50.0,,,60.0
+2018-08-21,2018,tour-du-poitou-charentes-et-de-la-vienne,gc,Androni Giocattoli - Sidermec,2.1,81.0,0.0,1,,0.0,,,16.0
+2018-06-01,2018,tour-of-bihor-bellotto,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,65.0,,,72.0
+2018-09-08,2018,tour-of-china,gc,Androni Giocattoli - Sidermec,2.1,27.0,0.0,1,,15.0,,,68.0
+2018-09-17,2018,tour-of-china-ii,gc,Androni Giocattoli - Sidermec,2.1,7.0,35.0,1,,88.0,,,108.0
+2018-10-23,2018,tour-of-hainan,gc,Androni Giocattoli - Sidermec,2.HC,,0,0,,203.0,,,298.0
+2018-06-13,2018,tour-of-slovenia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,8.0,,,8.0
+2018-04-16,2018,tour-of-the-alps,gc,Androni Giocattoli - Sidermec,2.HC,,0,0,,11.0,,,21.0
+2018-10-09,2018,tre-valli-varesine,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,35.0
+2018-02-11,2018,trofeo-laigueglia,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,125.0
+2018-09-23,2018,trofeo-matteotti,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,131.0
+2018-05-11,2018,vuelta-a-aragon,gc,Androni Giocattoli - Sidermec,2.1,54.0,0.0,1,,0.0,,,14.0
+2018-08-07,2018,vuelta-a-burgos,gc,Androni Giocattoli - Sidermec,2.HC,,0,0,,203.0,,,258.0
+2018-01-12,2018,vuelta-al-tachira,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,3.0,,,43.0
+2018-01-21,2018,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,93.0,,,98.0
+2018-07-05,2018,vuelta-ciclista-a-venezuela,gc,Androni Giocattoli - Sidermec,2.2,1.0,40.0,1,,40.0,,,64.0
+2019-07-25,2019,adriatica-ionica-race,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,35.0,,,35.0
+2019-06-06,2019,boucles-de-la-mayenne,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,0.0,,,0.0
+2019-03-22,2019,bredene-koksijde-classic,gc,Androni Giocattoli - Sidermec,1.HC,,,1,,0.0,,,13.0
+2019-03-31,2019,cholet-pays-de-loire,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,13.0
+2019-06-23,2019,circuit-des-xi-villes,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,3.0
+2019-03-30,2019,classic-loire-atlantique,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,5.0
+2019-02-13,2019,colombia-21,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,3.0
+2019-09-14,2019,coppa-agostoni,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,38.0
+2019-09-15,2019,coppa-bernocchi,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,6.0
+2019-06-21,2019,dwars-door-het-hageland,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,0.0
+2019-03-02,2019,faun-ardeche-classic,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,3.0
+2019-05-11,2019,giro-d-italia,gc,Androni Giocattoli - Sidermec,2.UWT,,0,0,,96.0,40.0,0.0,316.0
+2019-05-11,2019,giro-d-italia,kom,Androni Giocattoli - Sidermec,2.UWT,,0,0,,96.0,40.0,0.0,316.0
+2019-05-11,2019,giro-d-italia,points,Androni Giocattoli - Sidermec,2.UWT,,0,0,,96.0,40.0,0.0,316.0
+2019-04-28,2019,giro-dell-appennino,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,268.0
+2019-10-05,2019,giro-dell-emilia,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,6.0
+2019-04-03,2019,giro-di-sicilia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,70.0,,,94.0
+2019-09-18,2019,giro-di-toscana,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,38.0
+2019-10-06,2019,gp-bruno-beghelli,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,40.0
+2019-09-19,2019,gp-citta-di-peccioli,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,28.0
+2019-03-24,2019,gp-de-denain,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,25.0
+2019-06-13,2019,gp-du-canton-d-argovie,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,85.0
+2019-03-10,2019,gp-industria-artigianato,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,333.0
+2019-03-05,2019,gp-samyn,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,0.0
+2019-10-10,2019,gran-piemonte,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,21.0
+2019-05-26,2019,grote-prijs-marcel-kint,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,30.0
+2019-06-22,2019,heist-op-den-berg,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,3.0
+2019-10-12,2019,il-lombardia,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,0.0
+2019-03-03,2019,la-drome-classic,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,25.0
+2019-04-07,2019,la-roue-tourangelle,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,15.0
+2019-01-21,2019,la-tropicale-amissa-bongo,gc,Androni Giocattoli - Sidermec,2.1,,,1,,40.0,,,43.0
+2019-04-25,2019,le-tour-de-bretagne,gc,Androni Giocattoli - Sidermec,2.2,52.0,0.0,1,,0.0,,,7.0
+2019-09-21,2019,memorial-marco-pantani,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,40.0
+2019-03-23,2019,milano-sanremo,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,10.0
+2019-10-09,2019,milano-torino,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,48.0
+2019-06-30,2019,nc-croatia,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,100.0
+2019-06-29,2019,nc-croatia-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,50.0
+2019-06-30,2019,nc-italy,gc,Androni Giocattoli - Sidermec,NC,,,1,,0.0,,,40.0
+2019-06-28,2019,nc-italy-itt,gc,Androni Giocattoli - Sidermec,NC,,,1,,0.0,,,3.0
+2019-03-20,2019,nokere-koerse,gc,Androni Giocattoli - Sidermec,1.HC,,,1,,0.0,,,5.0
+2019-04-16,2019,paris-camembert,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,23.0
+2019-04-09,2019,region-pays-de-la-loire,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,25.0,,,39.0
+2019-03-17,2019,ronde-van-drenthe,gc,Androni Giocattoli - Sidermec,1.HC,,,1,,0.0,,,0.0
+2019-04-05,2019,route-adelie-de-vitre,gc,Androni Giocattoli - Sidermec,1.1,,,1,,0.0,,,5.0
+2019-02-20,2019,ruta-del-sol,gc,Androni Giocattoli - Sidermec,2.HC,,0,0,,16.0,,,16.0
+2019-07-03,2019,sibiu-cycling-tour,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,215.0,,,237.0
+2019-02-14,2019,tour-cycliste-international-la-provence,gc,Androni Giocattoli - Sidermec,2.1,60.0,0.0,1,,3.0,,,3.0
+2019-06-11,2019,tour-de-hongrie,gc,Androni Giocattoli - Sidermec,2.1,75.0,0.0,1,,35.0,,,52.0
+2019-04-06,2019,tour-de-langkawi,gc,Androni Giocattoli - Sidermec,2.HC,,0,0,,53.0,,,128.0
+2019-02-22,2019,tour-des-alpes-maritimes,gc,Androni Giocattoli - Sidermec,2.1,47.0,0.0,1,,3.0,,,3.0
+2019-04-20,2019,tour-du-finistere,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,85.0
+2019-08-21,2019,tour-du-limousin,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,6.0,,,25.0
+2019-08-27,2019,tour-du-poitou-charentes-et-de-la-vienne,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,17.0
+2019-06-07,2019,tour-of-bihor-bellotto,gc,Androni Giocattoli - Sidermec,2.1,36.0,0.0,1,,148.0,,,153.0
+2019-09-07,2019,tour-of-china,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,36.0
+2019-09-16,2019,tour-of-china-ii,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,113.0,,,155.0
+2019-10-01,2019,tour-of-croatia,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,0.0,,,0.0
+2019-06-19,2019,tour-of-slovenia,gc,Androni Giocattoli - Sidermec,2.HC,68.0,0.0,1,,153.0,,,158.0
+2019-10-09,2019,tour-of-taihu-lake,gc,Androni Giocattoli - Sidermec,2.1,30.0,0.0,1,,0.0,,,66.0
+2019-04-22,2019,tour-of-the-alps,gc,Androni Giocattoli - Sidermec,2.HC,,0,0,,190.0,,,235.0
+2019-10-08,2019,tre-valli-varesine,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,115.0
+2019-04-22,2019,tro-bro-leon,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,125.0
+2019-02-17,2019,trofeo-laigueglia,gc,Androni Giocattoli - Sidermec,1.HC,,0,0,,0.0,,,105.0
+2019-09-22,2019,trofeo-matteotti,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,35.0
+2019-05-17,2019,vuelta-a-aragon,gc,Androni Giocattoli - Sidermec,2.1,65.0,0.0,1,,0.0,,,19.0
+2019-08-13,2019,vuelta-a-burgos,gc,Androni Giocattoli - Sidermec,2.HC,,,1,,15.0,,,15.0
+2019-01-11,2019,vuelta-al-tachira,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,15.0,,,29.0
+2019-01-27,2019,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,6.0,,,6.0
+2020-08-30,2020,brussels-cycling-classic,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,0.0
+2020-08-02,2020,circuito-de-getxo,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,28.0
+2020-02-12,2020,colombia-21,gc,Androni Giocattoli - Sidermec,2.1,86.0,0.0,1,,50.0,,,53.0
+2020-02-12,2020,colombia-21,gc,Vini Zabù - KTM,2.1,,0,0,,0.0,,,0.0
+2020-01-31,2020,deia-trophy,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,0.0
+2020-08-29,2020,druivenkoers-overijse,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,0.0
+2020-02-29,2020,faun-ardeche-classic,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,75.0
+2020-10-03,2020,giro-d-italia,gc,Vini Zabù - KTM,2.UWT,,,1,,0.0,0.0,0.0,44.0
+2020-10-03,2020,giro-d-italia,gc,Androni Giocattoli - Sidermec,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2020-10-03,2020,giro-d-italia,kom,Vini Zabù - KTM,2.UWT,,,1,,0.0,0.0,0.0,44.0
+2020-10-03,2020,giro-d-italia,kom,Androni Giocattoli - Sidermec,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2020-10-03,2020,giro-d-italia,points,Vini Zabù - KTM,2.UWT,,,1,,0.0,0.0,0.0,44.0
+2020-10-03,2020,giro-d-italia,points,Androni Giocattoli - Sidermec,2.UWT,,0,0,,0.0,0.0,0.0,4.0
+2020-09-19,2020,giro-dell-appennino,gc,Vini Zabù - KTM,1.1,,,1,,0.0,,,33.0
+2020-09-19,2020,giro-dell-appennino,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,3.0
+2020-08-18,2020,giro-dell-emilia,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,14.0
+2020-08-18,2020,giro-dell-emilia,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,70.0
+2020-09-16,2020,giro-di-toscana,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,56.0
+2020-09-16,2020,giro-di-toscana,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,0.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,36.0
+2020-09-17,2020,gp-citta-di-peccioli,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,10.0
+2020-09-20,2020,gp-d-isbergues,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,0.0
+2020-08-12,2020,gran-piemonte,gc,Vini Zabù - KTM,1.Pro,,,1,,0.0,,,28.0
+2020-08-12,2020,gran-piemonte,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,16.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,88.0
+2020-08-03,2020,gran-trittico-lombardo,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,13.0
+2020-08-15,2020,il-lombardia,gc,Vini Zabù - KTM,1.UWT,,,1,,0.0,,,50.0
+2020-08-15,2020,il-lombardia,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,10.0
+2020-03-01,2020,la-drome-classic,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,13.0
+2020-02-15,2020,malaysian-international-classic-race,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,3.0
+2020-02-15,2020,malaysian-international-classic-race,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,5.0
+2020-08-30,2020,memorial-marco-pantani,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,11.0
+2020-08-30,2020,memorial-marco-pantani,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,3.0
+2020-08-08,2020,milano-sanremo,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,0.0
+2020-08-08,2020,milano-sanremo,gc,Vini Zabù - KTM,1.UWT,,0,0,,0.0,,,30.0
+2020-08-05,2020,milano-torino,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,50.0
+2020-08-05,2020,milano-torino,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,5.0
+2020-07-19,2020,nc-croatia,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,100.0
+2020-07-18,2020,nc-croatia-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,50.0
+2020-08-23,2020,nc-hungary,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,50.0
+2020-08-21,2020,nc-hungary-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,5.0
+2020-08-23,2020,nc-italy,gc,Vini Zabù - KTM,NC,,,1,,0.0,,,0.0
+2020-08-23,2020,nc-italy,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,0.0
+2020-08-21,2020,nc-italy-itt,gc,Vini Zabù - KTM,NC,,,1,,0.0,,,4.0
+2020-08-21,2020,nc-italy-itt,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,3.0
+2020-08-23,2020,nc-luxembourg,gc,Vini Zabù - KTM,NC,,0,0,,0.0,,,0.0
+2020-08-23,2020,nc-netherlands,gc,Vini Zabù - KTM,NC,,0,0,,0.0,,,0.0
+2020-10-18,2020,nc-panama,gc,Vini Zabù - KTM,NC,,0,0,,0.0,,,15.0
+2020-10-16,2020,nc-panama-itt,gc,Vini Zabù - KTM,NC,,0,0,,0.0,,,3.0
+2020-08-21,2020,nc-serbia-itt,gc,Vini Zabù - KTM,NC,,0,0,,0.0,,,25.0
+2020-10-31,2020,nc-switserland,gc,Androni Giocattoli - Sidermec,NC,,0,0,,0.0,,,60.0
+2020-09-22,2020,paris-camembert,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,3.0
+2020-07-23,2020,sibiu-cycling-tour,gc,Vini Zabù - KTM,2.1,,0,0,,46.0,,,49.0
+2020-08-01,2020,strade-bianche,gc,Androni Giocattoli - Sidermec,1.UWT,,0,0,,0.0,,,22.0
+2020-09-07,2020,tirreno-adriatico,gc,Androni Giocattoli - Sidermec,2.UWT,,0,0,,5.0,,,5.0
+2020-09-07,2020,tirreno-adriatico,gc,Vini Zabù - KTM,2.UWT,,0,0,,0.0,,,0.0
+2020-08-29,2020,tour-de-hongrie,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,3.0,,,6.0
+2020-08-29,2020,tour-de-hongrie,gc,Vini Zabù - KTM,2.1,,0,0,,3.0,,,3.0
+2020-02-07,2020,tour-de-langkawi,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,3.0,,,33.0
+2020-02-07,2020,tour-de-langkawi,gc,Vini Zabù - KTM,2.Pro,,0,0,,85.0,,,85.0
+2020-09-15,2020,tour-de-luxembourg,gc,Vini Zabù - KTM,2.Pro,,0,0,,5.0,,,5.0
+2020-08-05,2020,tour-des-pays-de-savoie,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,6.0,,,9.0
+2020-09-06,2020,tour-du-doubs,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,0.0
+2020-08-18,2020,tour-du-limousin,gc,Vini Zabù - KTM,2.1,,0,0,,125.0,,,139.0
+2020-02-20,2020,tour-of-antalya,gc,Vini Zabù - KTM,2.1,,0,0,,35.0,,,35.0
+2020-02-23,2020,tour-of-rwanda,gc,Androni Giocattoli - Sidermec,2.1,,0,0,,91.0,,,152.0
+2020-02-16,2020,trofeo-laigueglia,gc,Androni Giocattoli - Sidermec,1.Pro,,0,0,,0.0,,,103.0
+2020-02-16,2020,trofeo-laigueglia,gc,Vini Zabù - KTM,1.Pro,,0,0,,0.0,,,135.0
+2020-08-29,2020,trofeo-matteotti,gc,Androni Giocattoli - Sidermec,1.1,,0,0,,0.0,,,15.0
+2020-08-29,2020,trofeo-matteotti,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,8.0
+2020-02-02,2020,trofeo-palma,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,0.0
+2020-02-01,2020,trofeo-pollenca-port-d-andratx,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,3.0
+2020-01-30,2020,trofeo-ses-salines-felanitx,gc,Vini Zabù - KTM,1.1,,0,0,,0.0,,,0.0
+2020-02-23,2020,uae-tour,gc,Vini Zabù - KTM,2.UWT,,0,0,,15.0,,,15.0
+2020-01-12,2020,vuelta-al-tachira,gc,Androni Giocattoli - Sidermec,2.2,,0,0,,25.0,,,71.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Androni Giocattoli - Sidermec,2.Pro,,0,0,,98.0,,,128.0
+2020-01-26,2020,vuelta-ciclista-a-la-provincia-de-san-juan,gc,Vini Zabù - KTM,2.Pro,,0,0,,3.0,,,3.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,Mg.K Vis - Colors for Peace,1.2,,,1,,0.0,,,0.0
+2024-10-06,2024,coppa-agostoni,gc,Mg.K Vis - Colors for Peace,1.1,,,1,,0.0,,,0.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,Mg.K Vis - Colors for Peace,1.2,,,1,,0.0,,,0.0
+2024-04-09,2024,giro-d-abruzzo,gc,Mg.K Vis - Colors for Peace,2.1,,,1,,0.0,,,0.0
+2024-07-07,2024,giro-del-medio-brenta,gc,Mg.K Vis - Colors for Peace,1.2,,,1,,0.0,,,0.0
+2024-10-16,2024,giro-del-veneto,gc,Mg.K Vis - Colors for Peace,1.Pro,,,1,,0.0,,,0.0
+2024-07-14,2024,giro-dell-appennino,gc,Mg.K Vis - Colors for Peace,1.1,,0,0,,0.0,,,0.0
+2024-04-21,2024,giro-di-romagna,gc,Mg.K Vis - Colors for Peace,1.1,,,1,,0.0,,,3.0
+2024-09-11,2024,giro-di-toscana,gc,Mg.K Vis - Colors for Peace,1.1,,,1,,0.0,,,0.0
+2024-09-12,2024,gp-citta-di-peccioli,gc,Mg.K Vis - Colors for Peace,1.Pro,,,1,,0.0,,,0.0
+2024-06-07,2024,gp-du-canton-d-argovie,gc,Mg.K Vis - Colors for Peace,1.1,,,1,,0.0,,,0.0
+2024-05-19,2024,gp-gorenjska,gc,Mg.K Vis - Colors for Peace,1.2,,,1,,0.0,,,3.0
+2024-09-08,2024,gp-industria-artigianato,gc,Mg.K Vis - Colors for Peace,1.Pro,,,1,,0.0,,,0.0
+2024-09-14,2024,memorial-marco-pantani,gc,Mg.K Vis - Colors for Peace,1.1,,,1,,0.0,,,0.0
+2024-06-23,2024,nc-italy,gc,Mg.K Vis - Colors for Peace,NC,,,1,,0.0,,,0.0
+2024-06-23,2024,ncgreat-britain,gc,Mg.K Vis - Colors for Peace,NC,,0,0,,0.0,,,1.0
+2024-03-17,2024,popolarissima,gc,Mg.K Vis - Colors for Peace,1.2,,,1,,0.0,,,0.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,Mg.K Vis - Colors for Peace,2.1,,,1,,0.0,,,-15.0
+2024-07-02,2024,trofeo-citta-di-brescia,gc,Mg.K Vis - Colors for Peace,1.2,,0,0,,0.0,,,3.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,Mg.K Vis - Colors for Peace,1.2,,,1,,0.0,,,0.0
+2024-02-28,2024,trofeo-laigueglia,gc,Mg.K Vis - Colors for Peace,1.Pro,,0,0,,0.0,,,0.0
+2024-09-15,2024,trofeo-matteotti,gc,Mg.K Vis - Colors for Peace,1.1,,,1,,0.0,,,0.0
+2024-10-20,2024,veneto-classic,gc,Mg.K Vis - Colors for Peace,1.Pro,,,1,,0.0,,,0.0
+2025-09-27,2025,arno-wallaard-memorial,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,0,0,,0.0,,,0.0
+2025-10-05,2025,coppa-agostoni,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,0.0
+2025-05-24,2025,due-giorni-marchigiana-gp-santa-rita,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,40.0
+2025-04-27,2025,east-midlands-international-cicle-classic,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,0,0,,0.0,,,55.0
+2025-05-28,2025,fleche-du-sud,gc,Mg.K Vis Costruzioni e Ambiente,2.2,58.0,0.0,1,,30.0,,,37.0
+2025-04-15,2025,giro-d-abruzzo,gc,Mg.K Vis Costruzioni e Ambiente,2.1,66.0,0.0,1,,5.0,,,5.0
+2025-07-06,2025,giro-del-medio-brenta,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-10-15,2025,giro-del-veneto,gc,Mg.K Vis Costruzioni e Ambiente,1.Pro,,,1,,0.0,,,0.0
+2025-06-24,2025,giro-dell-appennino,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,0.0
+2025-04-12,2025,giro-di-reggio-calabria,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,65.0
+2025-09-21,2025,giro-di-romagna,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,3.0
+2025-09-10,2025,giro-di-toscana,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,0.0
+2025-03-30,2025,gp-adria-mobil,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-03-27,2025,gp-brda-collio,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-09-11,2025,gp-citta-di-peccioli,gc,Mg.K Vis Costruzioni e Ambiente,1.Pro,,,1,,0.0,,,130.0
+2025-06-13,2025,gp-du-canton-d-argovie,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,0.0
+2025-09-07,2025,gp-industria-artigianato,gc,Mg.K Vis Costruzioni e Ambiente,1.Pro,,,1,,0.0,,,5.0
+2025-03-23,2025,gp-izola-butan-plin,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,20.0
+2025-09-14,2025,grote-prijs-rik-van-looy,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,0,0,,0.0,,,0.0
+2025-09-20,2025,milano-rapallo,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-06-29,2025,nc-ireland,gc,Mg.K Vis Costruzioni e Ambiente,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-italy,gc,Mg.K Vis Costruzioni e Ambiente,NC,,,1,,0.0,,,0.0
+2025-06-29,2025,ncgreat-britain,gc,Mg.K Vis Costruzioni e Ambiente,NC,,0,0,,0.0,,,0.0
+2025-03-26,2025,olympias-tour,gc,Mg.K Vis Costruzioni e Ambiente,2.2,,0,0,,0.0,,,1.0
+2025-05-01,2025,omloop-van-het-waasland,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-03-16,2025,popolarissima,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,0,0,,0.0,,,0.0
+2025-08-31,2025,ronde-van-de-achterhoek,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,20.0
+2025-08-30,2025,slag-om-norg,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-06-02,2025,trofeo-alcide-degasperi,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-10-12,2025,trofeo-baracchi,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,0.0
+2025-07-01,2025,trofeo-citta-di-brescia,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,0,0,,0.0,,,3.0
+2025-05-25,2025,trofeo-citta-di-castelfidardo,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-03-05,2025,trofeo-laigueglia,gc,Mg.K Vis Costruzioni e Ambiente,1.Pro,,,1,,0.0,,,0.0
+2025-09-14,2025,trofeo-matteotti,gc,Mg.K Vis Costruzioni e Ambiente,1.1,,,1,,0.0,,,3.0
+2025-04-27,2025,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Mg.K Vis Costruzioni e Ambiente,1.2,,,1,,0.0,,,0.0
+2025-10-19,2025,veneto-classic,gc,Mg.K Vis Costruzioni e Ambiente,1.Pro,,,1,,0.0,,,0.0

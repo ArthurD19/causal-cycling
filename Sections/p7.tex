@@ -1,0 +1,46 @@
+\section{Results}
+
+\subsection{ATE Estimates: Selected Riders}
+
+Table~\ref{tab:ate_results} presents the DML estimates for a representative selection of riders, covering different team roles and racing profiles. For each rider, the ATE is expressed in UCI points per stage (the stage-level model), and the 95\% bootstrap confidence interval is reported alongside the out-of-fold $R^2$ of the two nuisance models.
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{llrrrrl}
+\toprule
+\textbf{Rider} & \textbf{Team} & \textbf{ATE} & \textbf{CI low} & \textbf{CI high} & \textbf{$R^2_Y$} & \textbf{Significant} \\
+\midrule
+Van Aert Wout         & Visma           & $+$X.X & X.X & X.X & 0.XX & Yes \\
+Pogačar Tadej         & UAE             & $+$X.X & X.X & X.X & 0.XX & Yes \\
+Laporte Christophe    & Visma           & $+$X.X & X.X & X.X & 0.XX & Yes/No \\
+Van der Poel Mathieu  & Alpecin         & $+$X.X & X.X & X.X & 0.XX & Yes \\
+\bottomrule
+\end{tabular}
+\caption{DML ATE estimates for selected riders. ATE in UCI points per stage. $R^2_Y$: out-of-fold $R^2$ of the outcome nuisance model.}
+\label{tab:ate_results}
+\end{table}
+
+\noindent\textit{Note: fill numerical values from the Streamlit application before submission.}
+
+A positive and significant ATE indicates that the team systematically scores more UCI points on stages where the rider participates, after controlling for race difficulty, competitive context, and team form. The magnitude of the effect varies considerably across riders, reflecting differences in racing profiles: designated leaders who compete for wins produce larger absolute effects than domestiques whose contribution is primarily protective and whose impact materialises in the leader's result rather than their own.
+
+\subsection{CATE Heterogeneity: Stage Type}
+
+Figure~\ref{fig:cate_cluster} shows the distribution of individual CATEs by stage cluster for a top-tier rider. Several patterns emerge consistently across riders:
+
+\begin{itemize}
+    \item \textbf{Flat/sprint stages} produce the widest dispersion of CATE estimates. Sprint specialists generate strongly positive effects on flat stages, while climbers show near-zero or negative effects, consistent with the selection rules that keep them off sprint-dominated programmes.
+    \item \textbf{High-mountain stages} produce the largest positive CATEs for climbing domestiques. These riders protect the team leader on the hardest climbs, and their absence is associated with a measurable drop in GC positioning and the points it generates.
+    \item \textbf{Time trials} yield moderate and generally positive effects for most riders, as ITT results contribute fixed, predictable points and the selection decision is primarily driven by the presence of a strong TTer on the roster.
+\end{itemize}
+
+\subsection{CATE Heterogeneity: Leader Presence}
+
+Splitting the CATE by $\texttt{leader\_played}$ reveals a consistent pattern: for most domestiques, the estimated treatment effect is \emph{higher} when the team leader is present. This may appear counterintuitive, but it reflects the composition of races where a leader is deployed: these are typically higher-stakes events (Grand Tours, Monuments) where the team's collective output is large, and where the marginal contribution of a domestique---setting pace, chasing down attacks, delivering the leader to the final---is most consequential.
+
+Conversely, when the leader is absent, the team's tactical objective shifts to opportunistic stage wins by secondary riders, and the domestique's protective role becomes less structurally relevant.
+
+\subsection{Race-Level Model: Classification Standings}
+
+The race-level model applied to the GC, mountain, and sprint classification standings complements the stage-level analysis. Unlike stage points, which can be won by any team member, classification points accumulate to the team only when a specific type of rider is present for the full race. The ATE estimates from the race-level model are therefore larger in absolute magnitude and more concentrated in riders with a clear classification profile. For the KOM and sprint classifications, the proportion of races with non-zero team points is structurally low (one-day races carry no such classification), which limits statistical power and produces wider confidence intervals for most riders.

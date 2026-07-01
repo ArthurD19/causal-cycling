@@ -1,0 +1,52 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2023-05-01,2023,circuito-del-porto-trofeo-arvedi,gc,Team Colpack Ballan CSB,1.2,,0,0,,0.0,,,50.0
+2023-10-03,2023,coppa-citta-di-san-daniele2,gc,Team Colpack Ballan CSB,1.2,,0,0,,0.0,,,3.0
+2023-05-27,2023,due-giorni-marchigiana-gp-santa-rita,gc,Team Colpack Ballan CSB,1.2,,,1,,0.0,,,0.0
+2023-07-02,2023,giro-del-medio-brenta,gc,Team Colpack Ballan CSB,1.2,,,1,,0.0,,,30.0
+2023-08-31,2023,giro-della-regione-friuli-venezia-giulia,gc,Team Colpack Ballan CSB,2.2,,0,0,,0.0,,,-5.0
+2023-04-11,2023,giro-di-sicilia,gc,Team Colpack Ballan CSB,2.1,,0,0,,0.0,,,0.0
+2023-03-26,2023,gp-industria-artigianato,gc,Team Colpack Ballan CSB,1.Pro,,0,0,,0.0,,,5.0
+2023-03-09,2023,istrian-spring-tour,gc,Team Colpack Ballan CSB,2.2,,0,0,,0.0,,,3.0
+2023-06-25,2023,nc-czech-republic2,gc,Team Colpack Ballan CSB,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-spain,gc,Team Colpack Ballan CSB,NC,,0,0,,0.0,,,0.0
+2023-03-19,2023,per-sempre-alfredo,gc,Team Colpack Ballan CSB,1.1,,0,0,,0.0,,,50.0
+2023-03-19,2023,popolarissima,gc,Team Colpack Ballan CSB,1.2,,,1,,0.0,,,70.0
+2023-03-05,2023,porec-trophy,gc,Team Colpack Ballan CSB,1.2,,0,0,,0.0,,,0.0
+2023-09-28,2023,tour-of-istanbul,gc,Team Colpack Ballan CSB,2.2,20.0,0.0,1,,10.0,,,23.0
+2023-03-01,2023,trofej-umag,gc,Team Colpack Ballan CSB,1.2,,0,0,,0.0,,,20.0
+2023-06-02,2023,trofeo-alcide-degasperi,gc,Team Colpack Ballan CSB,1.2,,,1,,0.0,,,30.0
+2023-05-28,2023,trofeo-citta-di-castelfidardo,gc,Team Colpack Ballan CSB,1.2,,,1,,0.0,,,0.0
+2023-03-01,2023,trofeo-laigueglia,gc,Team Colpack Ballan CSB,1.Pro,,0,0,,0.0,,,0.0
+2023-09-17,2023,trofeo-matteotti,gc,Team Colpack Ballan CSB,1.1,,0,0,,0.0,,,3.0
+2024-05-05,2024,circuito-del-porto-trofeo-arvedi,gc,Team MBH Bank Colpack Ballan,1.2,,0,0,,0.0,,,0.0
+2024-10-06,2024,coppa-agostoni,gc,Team MBH Bank Colpack Ballan,1.1,,,1,,0.0,,,0.0
+2024-10-01,2024,coppa-citta-di-san-daniele2,gc,Team MBH Bank Colpack Ballan,1.2,,,1,,0.0,,,20.0
+2024-05-25,2024,due-giorni-marchigiana-gp-santa-rita,gc,Team MBH Bank Colpack Ballan,1.2,,,1,,0.0,,,15.0
+2024-04-09,2024,giro-d-abruzzo,gc,Team MBH Bank Colpack Ballan,2.1,,0,0,,5.0,,,5.0
+2024-07-07,2024,giro-del-medio-brenta,gc,Team MBH Bank Colpack Ballan,1.2,,,1,,0.0,,,40.0
+2024-07-14,2024,giro-dell-appennino,gc,Team MBH Bank Colpack Ballan,1.1,,,1,,0.0,,,3.0
+2024-09-04,2024,giro-della-regione-friuli-venezia-giulia,gc,Team MBH Bank Colpack Ballan,2.2,,0,0,,0.0,,,0.0
+2024-04-21,2024,giro-di-romagna,gc,Team MBH Bank Colpack Ballan,1.1,,0,0,,0.0,,,0.0
+2024-03-07,2024,istrian-spring-tour,gc,Team MBH Bank Colpack Ballan,2.2,50.0,0.0,1,,0.0,,,0.0
+2024-06-23,2024,nc-hungary,gc,Team MBH Bank Colpack Ballan,NC,,0,0,,0.0,,,10.0
+2024-06-23,2024,nc-italy,gc,Team MBH Bank Colpack Ballan,NC,,0,0,,0.0,,,0.0
+2024-03-17,2024,popolarissima,gc,Team MBH Bank Colpack Ballan,1.2,,,1,,0.0,,,3.0
+2024-03-03,2024,porec-trophy,gc,Team MBH Bank Colpack Ballan,1.2,,,1,,0.0,,,3.0
+2024-03-19,2024,settimana-internazionale-coppi-e-bartali,gc,Team MBH Bank Colpack Ballan,2.1,,0,0,,3.0,,,3.0
+2024-05-08,2024,tour-de-hongrie,gc,Team MBH Bank Colpack Ballan,2.Pro,,0,0,,8.0,,,23.0
+2024-02-28,2024,trofej-umag,gc,Team MBH Bank Colpack Ballan,1.2,,0,0,,0.0,,,0.0
+2024-05-26,2024,trofeo-citta-di-castelfidardo,gc,Team MBH Bank Colpack Ballan,1.2,,0,0,,0.0,,,0.0
+2024-02-28,2024,trofeo-laigueglia,gc,Team MBH Bank Colpack Ballan,1.Pro,,,1,,0.0,,,0.0
+2024-09-15,2024,trofeo-matteotti,gc,Team MBH Bank Colpack Ballan,1.1,,,1,,0.0,,,3.0
+2024-04-21,2024,trofeo-torino-biella-giro-della-provincia-di-biell,gc,Team MBH Bank Colpack Ballan,1.2,,,1,,0.0,,,43.0
+2024-07-06,2024,visegrad-4-bicycle-race-gp-hungary,gc,Team MBH Bank Colpack Ballan,1.2,,0,0,,0.0,,,25.0
+2025-05-18,2025,circuito-del-porto-trofeo-arvedi,gc,Campana Imballagi-Geo & Tex-Trentino,1.2,,0,0,,0.0,,,0.0
+2025-10-07,2025,coppa-citta-di-san-daniele2,gc,Campana Imballagi-Geo & Tex-Trentino,1.2,,,1,,0.0,,,0.0
+2025-05-24,2025,due-giorni-marchigiana-gp-santa-rita,gc,Campana Imballagi-Geo & Tex-Trentino,1.2,,,1,,0.0,,,0.0
+2025-07-06,2025,giro-del-medio-brenta,gc,Campana Imballagi-Geo & Tex-Trentino,1.2,,,1,,0.0,,,0.0
+2025-09-04,2025,giro-della-regione-friuli-venezia-giulia,gc,Campana Imballagi-Geo & Tex-Trentino,2.2,39.0,0.0,1,,0.0,,,0.0
+2025-06-29,2025,nc-ireland,gc,Campana Imballagi-Geo & Tex-Trentino,NC,,0,0,,0.0,,,0.0
+2025-05-29,2025,oberosterreichrundfahrt,gc,Campana Imballagi-Geo & Tex-Trentino,2.2,26.0,0.0,1,,0.0,,,0.0
+2025-03-16,2025,popolarissima,gc,Campana Imballagi-Geo & Tex-Trentino,1.2,,,1,,0.0,,,0.0
+2025-06-02,2025,trofeo-alcide-degasperi,gc,Campana Imballagi-Geo & Tex-Trentino,1.2,,,1,,0.0,,,0.0
+2025-05-25,2025,trofeo-citta-di-castelfidardo,gc,Campana Imballagi-Geo & Tex-Trentino,1.2,,,1,,0.0,,,3.0

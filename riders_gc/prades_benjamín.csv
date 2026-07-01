@@ -1,0 +1,124 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2017-07-31,2017,circuito-de-getxo,gc,Team UKYO,1.1,,,1,,0.0,,,80.0
+2017-10-22,2017,japan-cup,gc,Team UKYO,1.HC,,,1,,0.0,,,215.0
+2017-04-09,2017,klasika-primavera,gc,Team UKYO,1.1,,0,0,,0.0,,,110.0
+2017-02-18,2017,le-tour-de-filipinas,gc,Team UKYO,2.2,,0,0,,8.0,,,8.0
+2017-01-08,2017,nc-australia,gc,Team UKYO,NC,,0,0,,0.0,,,25.0
+2017-06-25,2017,nc-japan,gc,Team UKYO,NC,,0,0,,0.0,,,80.0
+2017-06-25,2017,nc-spain,gc,Team UKYO,NC,,,1,,0.0,,,0.0
+2017-06-23,2017,nc-spain-itt,gc,Team UKYO,NC,,0,0,,0.0,,,0.0
+2017-07-25,2017,prueba-villafranca,gc,Team UKYO,1.1,,,1,,0.0,,,88.0
+2017-10-08,2017,sun-hung-kai-properties-hong-kong-challenge,gc,Team UKYO,1.1,,0,0,,0.0,,,6.0
+2017-09-08,2017,tour-de-hokkaido,gc,Team UKYO,2.2,,0,0,,15.0,,,15.0
+2017-06-14,2017,tour-de-korea,gc,Team UKYO,2.1,,0,0,,30.0,,,58.0
+2017-06-01,2017,tour-de-kumano,gc,Team UKYO,2.2,,0,0,,30.0,,,34.0
+2017-04-13,2017,tour-de-lombok,gc,Team UKYO,2.2,2.0,30.0,1,,70.0,,,95.0
+2017-11-12,2017,tour-de-okinawa,gc,Team UKYO,1.2,,,1,,0.0,,,28.0
+2017-03-26,2017,tour-de-taiwan,gc,Team UKYO,2.1,1.0,125.0,1,,188.0,,,193.0
+2017-03-31,2017,tour-de-tochigi,gc,Team UKYO,2.2,,0,0,,20.0,,,37.0
+2017-09-10,2017,tour-of-china,gc,Team UKYO,2.1,10.0,20.0,1,,23.0,,,23.0
+2017-09-19,2017,tour-of-china-ii,gc,Team UKYO,2.1,,0,0,,50.0,,,55.0
+2017-10-28,2017,tour-of-hainan,gc,Team UKYO,2.HC,2.0,150.0,1,,190.0,,,230.0
+2017-07-16,2017,tour-of-magnificent-qinghai,gc,Team UKYO,2.HC,,0,0,,3.0,,,53.0
+2017-10-10,2017,tour-of-taihu-lake,gc,Team UKYO,2.1,13.0,5.0,1,,5.0,,,19.0
+2017-04-01,2017,tour-of-thailand,gc,Team UKYO,2.1,,0,0,,8.0,,,35.0
+2017-02-02,2017,vuelta-a-la-comunidad-valenciana,gc,Team UKYO,2.1,,,1,,0.0,,,0.0
+2017-04-29,2017,vuelta-asturias,gc,Team UKYO,2.1,27.0,0.0,1,,3.0,,,3.0
+2017-02-11,2017,vuelta-ciclista-a-la-region-de-murcia,gc,Team UKYO,1.1,,,1,,0.0,,,0.0
+2018-07-31,2018,circuito-de-getxo,gc,Team UKYO,1.1,,,1,,0.0,,,0.0
+2018-10-21,2018,japan-cup,gc,Team UKYO,1.HC,,,1,,0.0,,,65.0
+2018-01-07,2018,nc-australia,gc,Team UKYO,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-japan,gc,Team UKYO,NC,,0,0,,0.0,,,70.0
+2018-06-17,2018,nc-japan-itt,gc,Team UKYO,NC,,0,0,,0.0,,,20.0
+2018-07-01,2018,nc-netherlands,gc,Team UKYO,NC,,0,0,,0.0,,,0.0
+2018-06-24,2018,nc-spain,gc,Team UKYO,NC,,,1,,0.0,,,1.0
+2018-10-14,2018,oita-urban-classic,gc,Team UKYO,1.2,,,1,,0.0,,,15.0
+2018-07-25,2018,prueba-villafranca,gc,Team UKYO,1.1,,,1,,0.0,,,0.0
+2018-05-04,2018,sri-lanka-t-cup,gc,Team UKYO,2.2,,0,0,,40.0,,,41.0
+2018-05-30,2018,tour-de-korea,gc,Team UKYO,2.1,,0,0,,56.0,,,75.0
+2018-05-31,2018,tour-de-kumano,gc,Team UKYO,2.2,3.0,25.0,1,,65.0,,,68.0
+2018-04-13,2018,tour-de-lombok,gc,Team UKYO,2.2,,0,0,,15.0,,,15.0
+2018-11-11,2018,tour-de-okinawa,gc,Team UKYO,1.2,,0,0,,0.0,,,10.0
+2018-03-11,2018,tour-de-taiwan,gc,Team UKYO,2.1,79.0,0.0,1,,5.0,,,25.0
+2018-10-23,2018,tour-of-hainan,gc,Team UKYO,2.HC,6.0,70.0,1,,115.0,,,135.0
+2018-04-01,2018,tour-of-thailand,gc,Team UKYO,2.1,,0,0,,35.0,,,60.0
+2018-05-11,2018,vuelta-a-aragon,gc,Team UKYO,2.1,18.0,3.0,1,,3.0,,,3.0
+2018-04-20,2018,vuelta-a-castilla-y-leon,gc,Team UKYO,2.1,77.0,0.0,1,,0.0,,,0.0
+2018-04-27,2018,vuelta-asturias,gc,Team UKYO,2.1,30.0,0.0,1,,0.0,,,3.0
+2018-05-04,2018,vuelta-international-a-la-cominudad-de-madrid,gc,Team UKYO,2.1,25.0,3.0,1,,3.0,,,3.0
+2019-09-25,2019,banyuwangi-tour-de-ijen,gc,Team UKYO,2.2,5.0,15.0,1,,55.0,,,59.0
+2019-10-20,2019,japan-cup,gc,Team UKYO,1.HC,,,1,,0.0,,,5.0
+2019-06-14,2019,le-tour-de-filipinas,gc,Team UKYO,2.2,,0,0,,8.0,,,11.0
+2019-01-06,2019,nc-australia,gc,Team UKYO,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-japan,gc,Team UKYO,NC,,0,0,,0.0,,,62.0
+2019-06-27,2019,nc-japan-itt,gc,Team UKYO,NC,,0,0,,0.0,,,15.0
+2019-06-30,2019,nc-netherlands,gc,Team UKYO,NC,,0,0,,0.0,,,0.0
+2019-06-30,2019,nc-spain,gc,Team UKYO,NC,,,1,,0.0,,,40.0
+2019-08-11,2019,oita-urban-classic,gc,Team UKYO,1.2,,0,0,,0.0,,,3.0
+2019-07-21,2019,tokyo-2020-test-event,gc,Team UKYO,1.2,,0,0,,0.0,,,0.0
+2019-09-06,2019,tour-de-hokkaido,gc,Team UKYO,2.2,17.0,0.0,1,,30.0,,,40.0
+2019-04-17,2019,tour-de-iskandar-johor,gc,Team UKYO,2.2,,0,0,,30.0,,,30.0
+2019-06-12,2019,tour-de-korea,gc,Team UKYO,2.1,8.0,30.0,1,,106.0,,,128.0
+2019-05-30,2019,tour-de-kumano,gc,Team UKYO,2.2,7.0,5.0,1,,20.0,,,20.0
+2019-04-06,2019,tour-de-langkawi,gc,Team UKYO,2.HC,25.0,5.0,1,,75.0,,,75.0
+2019-11-10,2019,tour-de-okinawa,gc,Team UKYO,1.2,,,1,,0.0,,,58.0
+2019-04-01,2019,tour-of-thailand,gc,Team UKYO,2.1,,0,0,,40.0,,,40.0
+2020-01-12,2020,nc-australia,gc,Team UKYO,NC,,0,0,,0.0,,,3.0
+2020-08-23,2020,nc-spain,gc,Team UKYO,NC,,,1,,0.0,,,0.0
+2020-03-01,2020,tour-de-taiwan,gc,Team UKYO,2.1,21.0,3.0,1,,13.0,,,13.0
+2021-10-22,2021,tour-cycliste-international-de-la-guadeloupe,gc,Inteja Imca DCT,2.2,9.0,3.0,1,,3.0,,,11.0
+2022-10-16,2022,japan-cup,gc,Team UKYO,1.Pro,,0,0,,0.0,,,128.0
+2022-01-16,2022,nc-australia,gc,Team UKYO,NC,,0,0,,0.0,,,3.0
+2022-01-12,2022,nc-australia-itt,gc,Team UKYO,NC,,0,0,,0.0,,,3.0
+2022-06-26,2022,nc-japan,gc,Team UKYO,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-japan-itt,gc,Team UKYO,NC,,0,0,,0.0,,,30.0
+2022-10-02,2022,oita-urban-classic,gc,Team UKYO,1.2,,0,0,,0.0,,,40.0
+2022-05-27,2022,tour-de-kumano,gc,Team UKYO,2.2,,0,0,,43.0,,,49.0
+2022-10-11,2022,tour-de-langkawi,gc,Team UKYO,2.Pro,,0,0,,8.0,,,8.0
+2022-11-13,2022,tour-de-okinawa,gc,Team UKYO,1.2,,,1,,0.0,,,40.0
+2022-10-02,2022,tour-de-taiwan,gc,Team UKYO,2.1,,0,0,,178.0,,,199.0
+2022-05-19,2022,tour-of-japan,gc,Team UKYO,2.2,,0,0,,70.0,,,97.0
+2022-04-01,2022,tour-of-thailand,gc,Team UKYO,2.1,,0,0,,155.0,,,187.0
+2023-01-30,2023,alula-tour,gc,JCL Team UKYO,2.1,84.0,0.0,1,,0.0,,,0.0
+2023-07-30,2023,circuito-de-getxo,gc,JCL Team UKYO,1.1,,,1,,0.0,,,0.0
+2023-10-15,2023,japan-cup,gc,JCL Team UKYO,1.Pro,,,1,,0.0,,,3.0
+2023-11-05,2023,mine-akiyoshi-dai-karst-international-road-race,gc,JCL Team UKYO,1.2,,,1,,0.0,,,60.0
+2023-02-10,2023,muscat-classic,gc,JCL Team UKYO,1.1,,,1,,0.0,,,0.0
+2023-06-25,2023,nc-japan,gc,JCL Team UKYO,NC,,0,0,,0.0,,,176.0
+2023-06-23,2023,nc-japan-itt,gc,JCL Team UKYO,NC,,0,0,,0.0,,,95.0
+2023-06-25,2023,nc-spain,gc,JCL Team UKYO,NC,,,1,,0.0,,,0.0
+2023-10-01,2023,oita-urban-classic,gc,JCL Team UKYO,1.2,,,1,,0.0,,,0.0
+2023-07-25,2023,prueba-villafranca,gc,JCL Team UKYO,1.1,,,1,,0.0,,,0.0
+2023-06-03,2023,tour-de-kumano,gc,JCL Team UKYO,2.2,6.0,10.0,1,,80.0,,,90.0
+2023-10-07,2023,tour-de-kyushu,gc,JCL Team UKYO,2.1,4.0,60.0,1,,68.0,,,68.0
+2023-09-23,2023,tour-de-langkawi,gc,JCL Team UKYO,2.Pro,,0,0,,0.0,,,0.0
+2023-11-12,2023,tour-de-okinawa,gc,JCL Team UKYO,1.2,,,1,,0.0,,,40.0
+2023-03-12,2023,tour-de-taiwan,gc,JCL Team UKYO,2.1,3.0,70.0,1,,73.0,,,89.0
+2023-05-21,2023,tour-of-japan,gc,JCL Team UKYO,2.1,4.0,60.0,1,,263.0,,,310.0
+2023-02-11,2023,tour-of-oman,gc,JCL Team UKYO,2.Pro,52.0,0.0,1,,6.0,,,6.0
+2023-04-01,2023,tour-of-thailand,gc,JCL Team UKYO,2.1,22.0,3.0,1,,76.0,,,77.0
+2024-02-25,2024,alanya-cup,gc,VC Fukuoka,1.2,,,1,,0.0,,,33.0
+2024-07-22,2024,banyuwangi-tour-de-ijen,gc,VC Fukuoka,2.2,3.0,25.0,1,,25.0,,,26.0
+2024-06-23,2024,nc-japan,gc,VC Fukuoka,NC,,0,0,,0.0,,,0.0
+2024-06-23,2024,nc-spain,gc,VC Fukuoka,NC,,,1,,0.0,,,0.0
+2024-09-29,2024,oita-urban-classic,gc,VC Fukuoka,1.2,,,1,,0.0,,,3.0
+2024-03-02,2024,syedra-ancient-city,gc,VC Fukuoka,1.2,,,1,,0.0,,,25.0
+2024-05-10,2024,tour-de-kumano,gc,VC Fukuoka,2.2,,,1,,0.0,,,7.0
+2024-10-12,2024,tour-de-kyushu,gc,VC Fukuoka,2.1,18.0,3.0,1,,3.0,,,3.0
+2024-05-27,2024,tour-of-bostonliq,gc,VC Fukuoka,2.2,9.0,3.0,1,,3.0,,,10.0
+2024-04-04,2024,tour-of-mersin,gc,VC Fukuoka,2.2,4.0,20.0,1,,20.0,,,27.0
+2025-07-28,2025,banyuwangi-tour-de-ijen,gc,VC Fukuoka,2.2,1.0,40.0,1,,40.0,,,50.0
+2025-02-01,2025,gp-antalya,gc,VC Fukuoka,1.2,,,1,,0.0,,,20.0
+2025-02-08,2025,grand-prix-aspendos,gc,VC Fukuoka,1.2,,,1,,0.0,,,68.0
+2025-10-19,2025,japan-cup,gc,VC Fukuoka,1.Pro,,,1,,0.0,,,25.0
+2025-06-22,2025,nc-japan,gc,VC Fukuoka,NC,,0,0,,0.0,,,0.0
+2025-06-29,2025,nc-spain,gc,VC Fukuoka,NC,,,1,,0.0,,,0.0
+2025-06-27,2025,nc-spain-itt,gc,VC Fukuoka,NC,,0,0,,0.0,,,0.0
+2025-10-05,2025,oita-urban-classic,gc,VC Fukuoka,1.2,,,1,,0.0,,,3.0
+2025-04-06,2025,syedra-ancient-city,gc,VC Fukuoka,1.2,,,1,,0.0,,,25.0
+2025-07-13,2025,the-road-race-tokyo-tama,gc,VC Fukuoka,1.2,,,1,,0.0,,,30.0
+2025-05-08,2025,tour-de-kumano,gc,VC Fukuoka,2.2,4.0,20.0,1,,20.0,,,21.0
+2025-10-11,2025,tour-de-kyushu,gc,VC Fukuoka,2.1,14.0,5.0,1,,10.0,,,10.0
+2025-11-09,2025,tour-de-okinawa,gc,VC Fukuoka,1.2,,,1,,0.0,,,5.0
+2025-05-18,2025,tour-of-japan,gc,VC Fukuoka,2.2,15.0,0.0,1,,0.0,,,7.0
+2025-04-10,2025,tour-of-mersin,gc,VC Fukuoka,2.2,28.0,0.0,1,,3.0,,,6.0

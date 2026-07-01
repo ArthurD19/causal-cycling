@@ -1,0 +1,59 @@
+﻿date,year,course,type,equipe,classification,rang,pts_uci,selected,pts_uci_equipe_stage,pts_uci_equipe_gc,pts_uci_equipe_kom,pts_uci_equipe_points,pts_uci_equipe_total
+2022-04-06,2022,circuit-des-ardennes,gc,Hagens Berman Axeon,2.2,,0,0,,0.0,,,0.0
+2022-06-26,2022,danish-championships,gc,Hagens Berman Axeon,NC,,0,0,,0.0,,,0.0
+2022-08-24,2022,druivenkoers-overijse,gc,Hagens Berman Axeon,1.1,,,1,,0.0,,,0.0
+2022-05-08,2022,fleche-ardennaise,gc,Hagens Berman Axeon,1.2,,0,0,,0.0,,,0.0
+2022-07-03,2022,giro-del-medio-brenta,gc,Hagens Berman Axeon,1.2,,0,0,,0.0,,,0.0
+2022-09-14,2022,gp-de-wallonie,gc,Hagens Berman Axeon,1.Pro,,,1,,0.0,,,20.0
+2022-03-10,2022,istrian-spring-tour,gc,Hagens Berman Axeon,2.2,21.0,0.0,1,,40.0,,,43.0
+2022-04-25,2022,le-tour-de-bretagne,gc,Hagens Berman Axeon,2.2,,,1,,0.0,,,0.0
+2022-09-04,2022,maryland-cycling-classic,gc,Hagens Berman Axeon,1.Pro,,0,0,,0.0,,,5.0
+2022-06-26,2022,nc-ireland,gc,Hagens Berman Axeon,NC,,0,0,,0.0,,,40.0
+2022-06-26,2022,nc-spain,gc,Hagens Berman Axeon,NC,,0,0,,0.0,,,0.0
+2022-06-24,2022,nc-spain-itt,gc,Hagens Berman Axeon,NC,,0,0,,0.0,,,1.0
+2022-06-26,2022,nc-united-states,gc,Hagens Berman Axeon,NC,,0,0,,0.0,,,1.0
+2022-06-23,2022,nc-usa-itt,gc,Hagens Berman Axeon,NC,,0,0,,0.0,,,0.0
+2022-06-26,2022,ncgreat-britain,gc,Hagens Berman Axeon,NC,,,1,,0.0,,,0.0
+2022-03-06,2022,porec-trophy,gc,Hagens Berman Axeon,1.2,,,1,,0.0,,,0.0
+2022-03-20,2022,rhodes-gp,gc,Hagens Berman Axeon,1.2,,,1,,0.0,,,0.0
+2022-07-28,2022,tour-alsace,gc,Hagens Berman Axeon,2.2,126.0,0.0,1,,0.0,,,0.0
+2022-03-24,2022,tour-of-rhodes,gc,Hagens Berman Axeon,2.2,,,1,,8.0,,,14.0
+2022-03-02,2022,trofej-umag,gc,Hagens Berman Axeon,1.2,,,1,,0.0,,,3.0
+2022-07-05,2022,trofeo-citta-di-brescia,gc,Hagens Berman Axeon,1.2,,0,0,,0.0,,,0.0
+2022-05-21,2022,veenendaal-veenendaal,gc,Hagens Berman Axeon,1.1,,,1,,0.0,,,3.0
+2023-07-27,2023,czech-tour,gc,EF Education-NIPPO Development Team,2.1,48.0,0.0,1,,0.0,,,0.0
+2023-06-25,2023,danish-championships,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2023-05-07,2023,fleche-ardennaise,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
+2023-05-17,2023,fleche-du-sud,gc,EF Education-NIPPO Development Team,2.2,54.0,0.0,1,,0.0,,,0.0
+2023-07-23,2023,gp-czech-republic,gc,EF Education-NIPPO Development Team,1.2,,,1,,0.0,,,0.0
+2023-02-04,2023,grand-prix-apollon-temple-me,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
+2023-01-28,2023,grand-prix-aspendos,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,31.0
+2023-09-02,2023,in-the-footsteps-of-the-romans,gc,EF Education-NIPPO Development Team,2.2,38.0,0.0,1,,0.0,,,0.0
+2023-03-09,2023,istrian-spring-tour,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,0.0
+2023-01-23,2023,la-tropicale-amissa-bongo,gc,EF Education-NIPPO Development Team,2.1,34.0,0.0,1,,6.0,,,6.0
+2023-04-25,2023,le-tour-de-bretagne,gc,EF Education-NIPPO Development Team,2.2,62.0,0.0,1,,0.0,,,0.0
+2023-06-25,2023,nc-czech-republic2,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,3.0
+2023-06-22,2023,nc-denmark-itt,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-ethiopia,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-22,2023,nc-ethiopia-itt,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,nc-japan,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,42.0
+2023-06-23,2023,nc-japan-itt,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,10.0
+2023-06-25,2023,nc-norway,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2023-02-12,2023,nc-south-africa,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,45.0
+2023-02-10,2023,nc-south-africa-itt,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,30.0
+2023-06-25,2023,nc-switserland,gc,EF Education-NIPPO Development Team,NC,,0,0,,0.0,,,0.0
+2023-06-25,2023,ncgreat-britain,gc,EF Education-NIPPO Development Team,NC,,,1,,0.0,,,0.0
+2023-10-01,2023,oita-urban-classic,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,3.0
+2023-03-05,2023,porec-trophy,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
+2023-03-11,2023,rhodes-gp,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,18.0
+2023-05-06,2023,ronde-van-overijssel,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
+2023-07-06,2023,sibiu-cycling-tour,gc,EF Education-NIPPO Development Team,2.1,33.0,0.0,1,,0.0,,,0.0
+2023-03-04,2023,south-aegean-tour,gc,EF Education-NIPPO Development Team,2.2,,0,0,,25.0,,,28.0
+2023-09-08,2023,tour-de-hokkaido,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,0.0
+2023-06-03,2023,tour-de-kumano,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,0.0
+2023-10-07,2023,tour-de-kyushu,gc,EF Education-NIPPO Development Team,2.1,,0,0,,8.0,,,11.0
+2023-05-26,2023,tour-de-la-mirabelle,gc,EF Education-NIPPO Development Team,2.2,50.0,0.0,1,,0.0,,,0.0
+2023-05-21,2023,tour-of-japan,gc,EF Education-NIPPO Development Team,2.1,,0,0,,13.0,,,13.0
+2023-03-17,2023,tour-of-rhodes,gc,EF Education-NIPPO Development Team,2.2,,0,0,,0.0,,,0.0
+2023-02-19,2023,tour-of-rwanda,gc,EF Education-NIPPO Development Team,2.1,,,1,,3.0,,,3.0
+2023-03-01,2023,trofej-umag,gc,EF Education-NIPPO Development Team,1.2,,0,0,,0.0,,,0.0
