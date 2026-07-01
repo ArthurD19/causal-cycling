@@ -48,8 +48,9 @@ def get_rider_teams(rider_name):
     return cm.rider_teams(rider_name)
 
 @st.cache_data(show_spinner=False)
-def get_team_riders(equipe_tuple, min_sel):
-    return cm.find_team_riders(list(equipe_tuple), min_selections=min_sel)
+def get_team_riders(equipe_tuple, min_sel, years_tuple=None):
+    years = list(years_tuple) if years_tuple else None
+    return cm.find_team_riders(list(equipe_tuple), min_selections=min_sel, years=years)
 
 @st.cache_data(show_spinner=False)
 def get_leaders():
@@ -100,13 +101,15 @@ with st.sidebar:
     st.header("Configuration")
     mode = st.radio("Mode", ["Single analysis", "Comparison"], horizontal=True)
 
+    years = st.slider("Years", 2018, 2025, (2018, 2025))
+
     def rider_selector(key_prefix: str, subtitle: str):
         st.subheader(subtitle)
 
         # Rider first — if a team is already chosen we filter, otherwise show all
         teams = st.session_state.get(f"{key_prefix}_teams", [])
         rider_list = (
-            get_team_riders(tuple(sorted(teams)), 1) if teams else all_riders
+            get_team_riders(tuple(sorted(teams)), 1, tuple(years)) if teams else all_riders
         )
         rider = st.selectbox(
             "Rider (optional)",
@@ -139,7 +142,7 @@ with st.sidebar:
                 teams = [t for t in cm.expand_team(canon_choice) if t in all_teams]
                 st.caption(
                     f"{', '.join(teams)}"
-                    f" · {len(get_team_riders(tuple(sorted(teams)), 1))} riders"
+                    f" · {len(get_team_riders(tuple(sorted(teams)), 1, tuple(years)))} riders"
                 )
             else:
                 teams = st.multiselect(
@@ -150,7 +153,7 @@ with st.sidebar:
                 )
                 if teams:
                     st.caption(
-                        f"{len(get_team_riders(tuple(sorted(teams)), 1))} riders in the team"
+                        f"{len(get_team_riders(tuple(sorted(teams)), 1, tuple(years)))} riders in the team"
                     )
 
         return rider, teams
@@ -164,7 +167,7 @@ with st.sidebar:
         rider2, teams2 = None, None
 
     st.divider()
-    years   = st.slider("Years", 2018, 2025, (2018, 2025))
+
     niveau  = st.radio("Analysis level", ["By stage", "By race (GC/KOM/Sprint)"], index=0)
     _race_level = (niveau == "By race (GC/KOM/Sprint)")
     _outcomes = cm.AVAILABLE_OUTCOMES_RACE if _race_level else cm.AVAILABLE_OUTCOMES
@@ -1282,20 +1285,27 @@ def _render_stats():
         wins = int((df_sel['rang'] == 1).sum()) if 'rang' in df_sel.columns else None
         top5 = int((df_sel['rang'] <= 5).sum()) if 'rang' in df_sel.columns else None
         total_pts_rider = df_sel['pts_uci'].sum() if 'pts_uci' in df_sel.columns else None
+        total_pts_team_sel = (
+            df_sel['pts_uci_equipe_stage'].sum()
+            if 'pts_uci_equipe_stage' in df_sel.columns else None
+        )
         best_year = (
             df_sel.groupby('year')['pts_uci'].sum().idxmax()
             if 'pts_uci' in df_sel.columns and len(df_sel) > 0 else None
         )
         pct_mean = df_sel['pts_uci_pct_max'].mean() if 'pts_uci_pct_max' in df_sel.columns else None
 
-        cols = st.columns(5)
+        cols = st.columns(6)
         cols[0].metric("Races (selected)", total_races)
         cols[1].metric("Wins", wins if wins is not None else "—")
         cols[2].metric("Top 5", top5 if top5 is not None else "—")
         if total_pts_rider is not None:
-            cols[3].metric("Total UCI pts", f"{total_pts_rider:.0f}")
+            cols[3].metric("Rider UCI pts", f"{total_pts_rider:.0f}")
+        if total_pts_team_sel is not None:
+            cols[4].metric("Team UCI pts (when selected)", f"{total_pts_team_sel:.0f}",
+                           help="Total team UCI points in races where this rider was selected")
         if pct_mean is not None:
-            cols[4].metric("Avg % max pts", f"{pct_mean:.1f}%",
+            cols[5].metric("Avg % max pts", f"{pct_mean:.1f}%",
                            help="Average of pts_uci_equipe_stage / max possible for that race")
 
         # ── Year-by-year evolution ────────────────────────────────────────────

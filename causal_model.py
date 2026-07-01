@@ -196,10 +196,12 @@ def list_all_riders() -> list[str]:
     return sorted(_get_index()['rider'].unique())
 
 
-def find_team_riders(equipe, min_selections: int = 10) -> list[str]:
+def find_team_riders(equipe, min_selections: int = 10, years=None) -> list[str]:
     idx = _get_index()
     equipe_list = equipe if isinstance(equipe, list) else [equipe]
     sub = idx[idx['equipe'].isin(equipe_list)]
+    if years is not None:
+        sub = sub[sub['year'].between(years[0], years[1])]
     totals = sub.groupby('rider')['n_sel'].sum()
     return sorted(totals[totals >= min_selections].index.tolist())
 
