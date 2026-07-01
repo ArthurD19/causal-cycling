@@ -738,6 +738,9 @@ def load_rider_race_level(
         return None
     gc = pd.read_csv(gc_path, low_memory=False)
     gc = gc[gc['type'] == 'gc'].copy()   # une ligne par course (les 3 outcomes sont déjà là)
+    # Keep only multi-stage races (classification 2.X) — one-day races have no meaningful GC
+    if 'classification' in gc.columns:
+        gc = gc[gc['classification'].str.startswith('2', na=False)]
 
     if equipe is not None:
         equipe_list = equipe if isinstance(equipe, list) else [equipe]
