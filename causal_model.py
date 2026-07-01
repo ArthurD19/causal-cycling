@@ -220,7 +220,7 @@ def run_team_analysis(
     n_boot: int = N_BOOT,
 ) -> pd.DataFrame | None:
     """Run DML for all riders in a team. Returns a DataFrame with one row per rider."""
-    riders = find_team_riders(equipe, min_selections=min_selections)
+    riders = find_team_riders(equipe, min_selections=min_selections, years=years)
     rows = []
     for rider_name in riders:
         # Load ALL seasons for training
@@ -823,7 +823,7 @@ def run_team_analysis_race_level(
     n_boot: int = N_BOOT,
 ) -> pd.DataFrame | None:
     """DML race-level pour tous les coureurs d'une équipe."""
-    riders = find_team_riders(equipe, min_selections=min_selections)
+    riders = find_team_riders(equipe, min_selections=min_selections, years=years)
     rows = []
     for rider_name in riders:
         df = load_rider_race_level(rider_name, equipe=equipe, years=years, outcome=outcome)
