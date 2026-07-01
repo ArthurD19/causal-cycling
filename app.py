@@ -541,11 +541,12 @@ def _render_cf():
                       f"{row.get('startlist_quality', '?'):.0f}"
                       if pd.notna(row.get('startlist_quality')) else "—")
 
-            gpx_df = load_gpx_profile(
-                row.get('course', ''), row.get('date'), row.get('stage_num'),
-            )
             cob_km = float(row.get('cobblestones_km') or 0)
             grav_km = float(row.get('compacted_gravel_km') or 0)
+
+            gpx_df = None if _race_level else load_gpx_profile(
+                row.get('course', ''), row.get('date'), row.get('stage_num'),
+            )
 
             if gpx_df is not None and len(gpx_df) > 10:
                 fig_p = go.Figure()
@@ -622,7 +623,7 @@ def _render_cf():
                     title=dict(text=' | '.join(surf_parts), font=dict(size=12), x=0) if surf_parts else None,
                 )
                 st.plotly_chart(fig_p, use_container_width=True)
-            else:
+            elif not _race_level:
                 st.caption("GPX profile not available for this race.")
 
             # Counts are cumulative (≥ threshold), display exclusive counts
@@ -676,7 +677,15 @@ def _render_cf():
                     colors = ['#2d7a3a' if v > 0 else '#c0392b' for v in zscores.values]
 
                     with st.expander("🔍 Why this CATE?", expanded=False):
-                        st.caption("Deviation from the dataset mean (in standard deviations). Shows what makes this race atypical.")
+                        st.markdown(
+                            "**CATE** = estimated UCI pts the team gains *because* this rider was selected "
+                            "(marginal effect, not his absolute contribution).\n\n"
+                            "**Bars below** show how this race differs from the average race in the dataset "
+                            "(in standard deviations). "
+                            "🟢 **Green** = feature is above average (e.g. harder race, better startlist). "
+                            "🔴 **Red** = below average. "
+                            "This does not directly *cause* the CATE — it just highlights what's atypical about the race."
+                        )
                         fig_z = go.Figure(go.Bar(
                             x=zscores.values, y=names,
                             orientation='h',
