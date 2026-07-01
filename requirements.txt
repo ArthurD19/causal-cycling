@@ -3,6 +3,6 @@ plotly
 pandas
 numpy
 scikit-learn
-econml
+econml>=0.16.0
 pyarrow
 statsmodels
