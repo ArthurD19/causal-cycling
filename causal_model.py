@@ -826,7 +826,7 @@ def run_team_analysis_race_level(
     riders = find_team_riders(equipe, min_selections=min_selections, years=years)
     rows = []
     for rider_name in riders:
-        df = load_rider_race_level(rider_name, equipe=equipe, years=years, outcome=outcome)
+        df = load_rider_race_level(rider_name, equipe=equipe, years=None, outcome=outcome)
         if df is None:
             continue
         prep = prepare_features(df, features=FEATURES_RACE_LEVEL, outcome=outcome, essential_features=[])
