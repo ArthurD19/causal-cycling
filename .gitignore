@@ -15,8 +15,6 @@ data/pcs2025/
 data/pcsall/
 rider_data_excluded/
 
-# Index GPX (se régénère automatiquement)
-gpx_index.parquet
 
 # Python
 __pycache__/
