@@ -106,8 +106,14 @@ with st.sidebar:
     def rider_selector(key_prefix: str, subtitle: str):
         st.subheader(subtitle)
 
-        # Rider first — if a team is already chosen we filter, otherwise show all
+        # Derive team list from session state BEFORE rendering rider dropdown.
+        # Must check both the manual multiselect (_teams) and the canonical
+        # selectbox (_canon), because the canonical path doesn't write to _teams.
         teams = st.session_state.get(f"{key_prefix}_teams", [])
+        if not teams:
+            canon_prev = st.session_state.get(f"{key_prefix}_canon")
+            if canon_prev:
+                teams = [t for t in cm.expand_team(canon_prev) if t in all_teams]
         rider_list = (
             get_team_riders(tuple(sorted(teams)), 1, tuple(years)) if teams else all_riders
         )
