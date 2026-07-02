@@ -725,6 +725,7 @@ def run_analysis(
     if run_cf:
         result['cf_model'] = cf_model
         result['cate']     = cate
+        result['X']        = X
     return result
 
 
@@ -815,6 +816,7 @@ def run_analysis_race_level(
     if run_cf:
         result['cf_model'] = cf_model
         result['cate']     = cate
+        result['X']        = X
     return result
 
 

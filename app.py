@@ -17,6 +17,16 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+st.markdown("""
+<style>
+[data-testid="stToolbar"]       {visibility: hidden;}
+[data-testid="stDecoration"]    {display: none;}
+[data-testid="stStatusWidget"]  {visibility: hidden;}
+#MainMenu                       {visibility: hidden;}
+footer                          {visibility: hidden;}
+</style>
+""", unsafe_allow_html=True)
+
 st.title("🚴 Causal Cycling — Rider Evaluation")
 
 CLASSIFICATION_RANK = {
@@ -503,7 +513,7 @@ def _render_cf():
         )
         return df
 
-    def _show_course_card(row, df_ref=None, features=None, compare_df=None, compare_label=None):
+    def _show_course_card(row, df_ref=None, features=None, compare_df=None, compare_label=None, cf_model=None, X_train=None):
         with st.container(border=True):
             st.markdown(f"### {row.get('course_label', row.get('course', '?'))}")
             # CATE row — primary + comparison if Comparison mode
@@ -644,63 +654,75 @@ def _render_cf():
             if surf:
                 st.caption("Surface: " + " | ".join(surf))
 
-            # ── CATE explanation ───────────────────────────────────────────
-            if df_ref is not None and features:
-                feat_cols = [f for f in features if f in df_ref.columns and f in row.index]
-                if feat_cols:
-                    means = df_ref[feat_cols].mean()
-                    stds  = df_ref[feat_cols].std().replace(0, 1)
-                    zscores = pd.Series(
-                        {f: (row[f] - means[f]) / stds[f] for f in feat_cols
-                         if pd.notna(row.get(f))}
-                    ).sort_values(key=abs, ascending=False)
+            # ── CATE explanation (SHAP) ────────────────────────────────────
+            if cf_model is not None and X_train is not None and features:
+                labels = {
+                    'denivele_pos': 'D+ (m)', 'denivele_neg': 'D− (m)',
+                    'distance_gpx_km': 'Distance (km)', 'startlist_quality': 'Startlist quality',
+                    'n_cols_hc': 'HC climbs', 'n_cols_cat1': 'Cat1 climbs',
+                    'n_cols_cat2': 'Cat2 climbs', 'n_cols_cat3': 'Cat3 climbs',
+                    'n_cols_cat4': 'Cat4 climbs', 'cobblestones_km': 'Cobblestones (km)',
+                    'compacted_gravel_km': 'Gravel (km)', 'forme_equipe': 'Team form',
+                    'n_races_30d': 'Races/30d', 'km_30d': 'Km/30d',
+                    'is_team_leader': 'Team leader', 'leader_played': 'Leader present',
+                    'gradient_last_5km': 'Final gradient (5km)',
+                    'altitude_max': 'Max altitude (m)', 'altitude_min': 'Min altitude (m)',
+                    'loc_last_col_hc': 'Last HC climb position',
+                    'loc_last_col_cat1': 'Last Cat1 climb position',
+                    'deniv_last_5km': 'D+ last 5km',
+                    'top_score_in_team': 'Top scorer in team',
+                    'forme_coureur': 'Rider form',
+                    'year': 'Year',
+                }
+                with st.expander("🔍 Why this CATE?", expanded=False):
+                    st.markdown(
+                        "**SHAP values** — contribution of each feature to the estimated CATE for this race.\n\n"
+                        "🟢 **Green** = pushes the CATE higher. "
+                        "🔴 **Red** = pushes the CATE lower."
+                    )
+                    with st.spinner("Computing SHAP values…"):
+                        try:
+                            import shap as _shap
+                            x_vals = np.array(
+                                [float(row.get(f, 0.0) or 0.0) for f in features]
+                            ).reshape(1, -1)
 
-                    labels = {
-                        'denivele_pos': 'D+ (m)', 'denivele_neg': 'D− (m)',
-                        'distance_gpx_km': 'Distance (km)', 'startlist_quality': 'Startlist quality',
-                        'n_cols_hc': 'HC climbs', 'n_cols_cat1': 'Cat1 climbs',
-                        'n_cols_cat2': 'Cat2 climbs', 'n_cols_cat3': 'Cat3 climbs',
-                        'n_cols_cat4': 'Cat4 climbs', 'cobblestones_km': 'Cobblestones (km)',
-                        'compacted_gravel_km': 'Gravel (km)', 'forme_equipe': 'Team form',
-                        'n_races_30d': 'Races/30d', 'km_30d': 'Km/30d',
-                        'is_team_leader': 'Team leader', 'leader_played': 'Leader present',
-                        'gradient_last_5km': 'Final gradient (5km)',
-                        'altitude_max': 'Max altitude (m)', 'altitude_min': 'Min altitude (m)',
-                        'loc_last_col_hc': 'Last HC climb position',
-                        'loc_last_col_cat1': 'Last Cat1 climb position',
-                        'deniv_last_5km': 'D+ last 5km',
-                        'top_score_in_team': 'Top scorer in team',
-                        'forme_coureur': 'Rider form',
-                        'year': 'Year',
-                    }
-                    names = [labels.get(f, f) for f in zscores.index]
-                    colors = ['#2d7a3a' if v > 0 else '#c0392b' for v in zscores.values]
+                            def _cf_predict(X_in):
+                                return cf_model.effect(X_in, T0=0, T1=1).flatten()
 
-                    with st.expander("🔍 Why this CATE?", expanded=False):
-                        st.markdown(
-                            "**CATE** = estimated UCI pts the team gains *because* this rider was selected "
-                            "(marginal effect, not his absolute contribution).\n\n"
-                            "**Bars below** show how this race differs from the average race in the dataset "
-                            "(in standard deviations). "
-                            "🟢 **Green** = feature is above average (e.g. harder race, better startlist). "
-                            "🔴 **Red** = below average. "
-                            "This does not directly *cause* the CATE — it just highlights what's atypical about the race."
-                        )
-                        fig_z = go.Figure(go.Bar(
-                            x=zscores.values, y=names,
-                            orientation='h',
-                            marker_color=colors,
-                            hovertemplate='%{y}: %{x:+.2f} σ<extra></extra>',
-                        ))
-                        fig_z.add_vline(x=0, line_color='#888', line_width=1)
-                        fig_z.update_layout(
-                            template='plotly_white',
-                            height=max(320, 28 * len(zscores)),
-                            xaxis_title='Deviation from mean (σ)',
-                            margin=dict(t=10, b=40, l=10, r=20),
-                            yaxis=dict(autorange='reversed'),
-                        )
-                        st.plotly_chart(fig_z, use_container_width=True)
+                            rng = np.random.RandomState(42)
+                            n_bg = min(30, len(X_train))
+                            bg = X_train[rng.choice(len(X_train), n_bg, replace=False)]
+
+                            explainer = _shap.KernelExplainer(_cf_predict, bg)
+                            sv = explainer.shap_values(x_vals, nsamples=200, silent=True)
+                            shap_arr = np.array(sv[0] if isinstance(sv, list) else sv[0])
+
+                            shap_s = (
+                                pd.Series(dict(zip(features, shap_arr)))
+                                .sort_values(key=abs, ascending=False)
+                                .head(15)
+                            )
+                            names  = [labels.get(f, f) for f in shap_s.index]
+                            colors = ['#2d7a3a' if v > 0 else '#c0392b' for v in shap_s.values]
+
+                            fig_shap = go.Figure(go.Bar(
+                                x=shap_s.values, y=names,
+                                orientation='h',
+                                marker_color=colors,
+                                hovertemplate='%{y}: %{x:+.4f} pts<extra></extra>',
+                            ))
+                            fig_shap.add_vline(x=0, line_color='#888', line_width=1)
+                            fig_shap.update_layout(
+                                template='plotly_white',
+                                height=max(320, 28 * len(shap_s)),
+                                xaxis_title='SHAP value (impact on CATE, UCI pts)',
+                                margin=dict(t=10, b=40, l=10, r=20),
+                                yaxis=dict(autorange='reversed'),
+                            )
+                            st.plotly_chart(fig_shap, use_container_width=True)
+                        except Exception as _e:
+                            st.caption(f"SHAP unavailable: {_e}")
 
     def build_cf_df(res, selected_only, year_filter, course_max_pts=None):
         df = enrich_cf_cols(res['df_clean'].copy())
@@ -844,7 +866,8 @@ def _render_cf():
         _compare_df    = df_cf2 if (p.get('mode') == "Comparison" and 'df_cf2' in dir()) else None
         _compare_label = _label2 if _compare_df is not None else None
         _show_course_card(match.iloc[0], df_ref=df_cf_all, features=res1.get('features'),
-                          compare_df=_compare_df, compare_label=_compare_label)
+                          compare_df=_compare_df, compare_label=_compare_label,
+                          cf_model=res1.get('cf_model'), X_train=res1.get('X'))
 
     # ── CATE by year / month ─────────────────────────────────────────────────
     gran_cf = st.radio(
@@ -990,7 +1013,8 @@ very different contexts → incorrect results. **Set the slider to the year he j
         )
         rows_missed = sel_missed.get('selection', {}).get('rows', [])
         if rows_missed:
-            _show_course_card(df_missed.iloc[rows_missed[0]], df_ref=df_cf_all, features=res1.get('features'))
+            _show_course_card(df_missed.iloc[rows_missed[0]], df_ref=df_cf_all, features=res1.get('features'),
+                              cf_model=res1.get('cf_model'), X_train=res1.get('X'))
 
     with col_waste:
         st.markdown("**Wasted selections** *(selected, low CATE)*")
@@ -1001,7 +1025,8 @@ very different contexts → incorrect results. **Set the slider to the year he j
         )
         rows_wasted = sel_wasted.get('selection', {}).get('rows', [])
         if rows_wasted:
-            _show_course_card(df_wasted.iloc[rows_wasted[0]], df_ref=df_cf_all, features=res1.get('features'))
+            _show_course_card(df_wasted.iloc[rows_wasted[0]], df_ref=df_cf_all, features=res1.get('features'),
+                              cf_model=res1.get('cf_model'), X_train=res1.get('X'))
 
     # ── Variable importance (Causal Forest) ──────────────────────────────
     if 'cf_model' in res1:
@@ -1322,6 +1347,46 @@ def _render_stats():
         if pct_mean is not None:
             cols[5].metric("Avg % max pts", f"{pct_mean:.1f}%",
                            help="Average of pts_uci_equipe_stage / max possible for that race")
+
+        # ── UCI pts breakdown by category ─────────────────────────────────────
+        _rider_gc_col  = 'pts_uci_gc_final'
+        _rider_kom_col = 'pts_uci_kom_final'
+        _rider_spr_col = 'pts_uci_points_final'
+        _team_gc_col   = 'pts_uci_gc'
+        _team_kom_col  = 'pts_uci_kom'
+        _team_spr_col  = 'pts_uci_points'
+        _has_breakdown = any(
+            c in df_sel.columns
+            for c in [_rider_gc_col, _rider_kom_col, _team_gc_col]
+        )
+        if _has_breakdown and len(df_sel) > 0:
+            def _race_dedup_sum(df, col):
+                """Sum a race-level column that is duplicated across stages."""
+                if col not in df.columns:
+                    return 0.0
+                grp = ['course', 'year'] if 'year' in df.columns else ['course']
+                return df.groupby(grp)[col].last().fillna(0).sum()
+
+            r_stage = float(df_sel['pts_uci'].sum()) if 'pts_uci' in df_sel.columns else 0.0
+            r_gc    = float(df_sel[_rider_gc_col].fillna(0).sum()) if _rider_gc_col in df_sel.columns else 0.0
+            r_kom   = float(df_sel[_rider_kom_col].fillna(0).sum()) if _rider_kom_col in df_sel.columns else 0.0
+            r_spr   = float(df_sel[_rider_spr_col].fillna(0).sum()) if _rider_spr_col in df_sel.columns else 0.0
+            t_stage = float(df_sel['pts_uci_equipe_stage'].sum()) if 'pts_uci_equipe_stage' in df_sel.columns else 0.0
+            t_gc    = _race_dedup_sum(df_sel, _team_gc_col)
+            t_kom   = _race_dedup_sum(df_sel, _team_kom_col)
+            t_spr   = _race_dedup_sum(df_sel, _team_spr_col)
+
+            bd = pd.DataFrame(
+                {
+                    'Stage': [f'{r_stage:.0f}', f'{t_stage:.0f}'],
+                    'GC':    [f'{r_gc:.0f}',    f'{t_gc:.0f}'],
+                    'KOM':   [f'{r_kom:.0f}',   f'{t_kom:.0f}'],
+                    'Sprint':[f'{r_spr:.0f}',   f'{t_spr:.0f}'],
+                },
+                index=['Rider UCI pts', 'Team UCI pts (when sel.)'],
+            )
+            st.markdown("**UCI points breakdown (when selected)**")
+            st.dataframe(bd, use_container_width=True)
 
         # ── Year-by-year evolution ────────────────────────────────────────────
         st.subheader("Year-by-year evolution")

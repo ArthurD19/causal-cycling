@@ -24,6 +24,7 @@ __pycache__/
 
 # Claude Code settings (local, ne pas partager)
 .claude/
+CLAUDE.md
 
 # macOS
 .DS_Store
