@@ -1120,8 +1120,16 @@ very different contexts → incorrect results. **Set the slider to the year he j
                     )
                     _q_stats['sem95'] = 1.96 * _q_stats['std'] / _q_stats['n'].pow(0.5)
                     _feat_lbl = _feat_labels.get(sel_feat, sel_feat)
+                    def _fmt_bound(v):
+                        av = abs(v)
+                        if av >= 1e9:  return f'{v/1e9:.1f}B'
+                        if av >= 1e6:  return f'{v/1e6:.1f}M'
+                        if av >= 1e3:  return f'{v/1e3:.1f}k'
+                        if av >= 100:  return f'{v:.0f}'
+                        if av >= 1:    return f'{v:.1f}'
+                        return f'{v:.2f}'
                     _q_labels = [
-                        f"Q{i+1}: [{iv.left:.2g} – {iv.right:.2g}]"
+                        f"Q{i+1}: [{_fmt_bound(iv.left)} – {_fmt_bound(iv.right)}]"
                         for i, iv in enumerate(_q_stats['_q'])
                     ]
                     fig_q = go.Figure(go.Bar(
