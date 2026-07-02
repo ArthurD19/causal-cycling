@@ -691,11 +691,6 @@ def _render_cf():
                     'year': 'Year',
                 }
                 with st.expander("🔍 Why this CATE?", expanded=False):
-                    st.markdown(
-                        "**SHAP values** — contribution of each feature to the estimated CATE for this race.\n\n"
-                        "🟢 **Green** = pushes the CATE higher. "
-                        "🔴 **Red** = pushes the CATE lower."
-                    )
                     with st.spinner("Computing SHAP values…"):
                         try:
                             import shap as _shap
@@ -713,6 +708,17 @@ def _render_cf():
                             explainer = _shap.KernelExplainer(_cf_predict, bg)
                             sv = explainer.shap_values(x_vals, nsamples=200, silent=True)
                             shap_arr = np.array(sv[0] if isinstance(sv, list) else sv[0])
+
+                            _base = float(explainer.expected_value)
+                            _cate = float(row.get('cate', _base + shap_arr.sum()))
+                            st.markdown(
+                                f"**Average CATE** (reference): **{_base:+.3f} pts** | "
+                                f"**This race**: **{_cate:+.3f} pts**\n\n"
+                                "Each bar shows how much a feature pushes this race's CATE "
+                                "**above or below the average**. "
+                                "🟢 **Green** = above average. "
+                                "🔴 **Red** = below average."
+                            )
 
                             shap_s = (
                                 pd.Series(dict(zip(features, shap_arr)))
