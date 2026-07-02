@@ -7,6 +7,7 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
+import numpy as np
 
 import causal_model as cm
 
@@ -1348,47 +1349,7 @@ def _render_stats():
             cols[5].metric("Avg % max pts", f"{pct_mean:.1f}%",
                            help="Average of pts_uci_equipe_stage / max possible for that race")
 
-        # ── UCI pts breakdown by category ─────────────────────────────────────
-        _rider_gc_col  = 'pts_uci_gc_final'
-        _rider_kom_col = 'pts_uci_kom_final'
-        _rider_spr_col = 'pts_uci_points_final'
-        _team_gc_col   = 'pts_uci_gc'
-        _team_kom_col  = 'pts_uci_kom'
-        _team_spr_col  = 'pts_uci_points'
-        _has_breakdown = any(
-            c in df_sel.columns
-            for c in [_rider_gc_col, _rider_kom_col, _team_gc_col]
-        )
-        if _has_breakdown and len(df_sel) > 0:
-            def _race_dedup_sum(df, col):
-                """Sum a race-level column that is duplicated across stages."""
-                if col not in df.columns:
-                    return 0.0
-                grp = ['course', 'year'] if 'year' in df.columns else ['course']
-                return df.groupby(grp)[col].last().fillna(0).sum()
-
-            r_stage = float(df_sel['pts_uci'].sum()) if 'pts_uci' in df_sel.columns else 0.0
-            r_gc    = float(df_sel[_rider_gc_col].fillna(0).sum()) if _rider_gc_col in df_sel.columns else 0.0
-            r_kom   = float(df_sel[_rider_kom_col].fillna(0).sum()) if _rider_kom_col in df_sel.columns else 0.0
-            r_spr   = float(df_sel[_rider_spr_col].fillna(0).sum()) if _rider_spr_col in df_sel.columns else 0.0
-            t_stage = float(df_sel['pts_uci_equipe_stage'].sum()) if 'pts_uci_equipe_stage' in df_sel.columns else 0.0
-            t_gc    = _race_dedup_sum(df_sel, _team_gc_col)
-            t_kom   = _race_dedup_sum(df_sel, _team_kom_col)
-            t_spr   = _race_dedup_sum(df_sel, _team_spr_col)
-
-            bd = pd.DataFrame(
-                {
-                    'Stage': [f'{r_stage:.0f}', f'{t_stage:.0f}'],
-                    'GC':    [f'{r_gc:.0f}',    f'{t_gc:.0f}'],
-                    'KOM':   [f'{r_kom:.0f}',   f'{t_kom:.0f}'],
-                    'Sprint':[f'{r_spr:.0f}',   f'{t_spr:.0f}'],
-                },
-                index=['Rider UCI pts', 'Team UCI pts (when sel.)'],
-            )
-            st.markdown("**UCI points breakdown (when selected)**")
-            st.dataframe(bd, use_container_width=True)
-
-        # ── Year-by-year evolution ────────────────────────────────────────────
+        # ── Granularity selector (shared by breakdown table + charts) ───────────
         st.subheader("Year-by-year evolution")
         gran_rider = st.radio(
             "Granularity", ["Year", "Year-Month"],
@@ -1407,6 +1368,41 @@ def _render_stats():
         df_sel_g = _group_key_rider(df_sel)
         df_raw_g = _group_key_rider(df_raw)
         x_label = "Month" if gran_rider == "Year-Month" else "Year"
+
+        # ── UCI pts breakdown by category, per period ─────────────────────────
+        _BD_COLS = {
+            'Stage (rider)':  ('pts_uci',              False),
+            'Stage (team)':   ('pts_uci_equipe_stage', False),
+            'GC (rider)':     ('pts_uci_gc_final',     False),
+            'GC (team)':      ('pts_uci_gc',           True),
+            'KOM (rider)':    ('pts_uci_kom_final',     False),
+            'KOM (team)':     ('pts_uci_kom',           True),
+            'Sprint (rider)': ('pts_uci_points_final',  False),
+            'Sprint (team)':  ('pts_uci_points',        True),
+        }
+        _present = [lbl for lbl, (col, _) in _BD_COLS.items() if col in df_sel_g.columns]
+        if _present and len(df_sel_g) > 0:
+            bd_rows = {}
+            for lbl, (col, dedup) in _BD_COLS.items():
+                if col not in df_sel_g.columns:
+                    continue
+                if dedup:
+                    # race-level total duplicated per stage → deduplicate first
+                    grp = ['_gk', 'course', 'year'] if 'year' in df_sel_g.columns else ['_gk', 'course']
+                    s = (df_sel_g.groupby(grp)[col].last()
+                                 .fillna(0).groupby(level='_gk').sum())
+                else:
+                    s = df_sel_g.groupby('_gk')[col].sum().fillna(0)
+                bd_rows[lbl] = s
+
+            bd = (pd.DataFrame(bd_rows)
+                    .T
+                    .rename_axis(x_label, axis=1)
+                    .sort_index(axis=1)
+                    .astype(float))
+            bd_fmt = bd.map(lambda v: f'{v:.0f}' if v else '—')
+            st.markdown("**UCI points breakdown (when selected)**")
+            st.dataframe(bd_fmt, use_container_width=True)
 
         yr_agg = {}
         if 'pts_uci' in df_sel_g.columns:
