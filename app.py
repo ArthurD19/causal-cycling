@@ -1082,6 +1082,73 @@ very different contexts → incorrect results. **Set the slider to the year he j
             "effect of including the rider the most."
         )
 
+        # ── CATE by feature quartile ──────────────────────────────────────────
+        _feat_labels = {
+            'denivele_pos': 'D+ (m)', 'denivele_neg': 'D− (m)',
+            'distance_gpx_km': 'Distance (km)', 'startlist_quality': 'Startlist quality',
+            'n_cols_hc': 'HC climbs', 'n_cols_cat1': 'Cat1 climbs',
+            'n_cols_cat2': 'Cat2 climbs', 'n_cols_cat3': 'Cat3 climbs',
+            'n_cols_cat4': 'Cat4 climbs', 'cobblestones_km': 'Cobblestones (km)',
+            'compacted_gravel_km': 'Gravel (km)', 'forme_equipe': 'Team form',
+            'n_races_30d': 'Races/30d', 'km_30d': 'Km/30d',
+            'is_team_leader': 'Team leader', 'leader_played': 'Leader present',
+            'gradient_last_5km': 'Final gradient (5km)',
+            'altitude_max': 'Max altitude (m)', 'altitude_min': 'Min altitude (m)',
+            'loc_last_col_hc': 'Last HC climb position',
+            'loc_last_col_cat1': 'Last Cat1 climb position',
+            'deniv_last_5km': 'D+ last 5km',
+            'top_score_in_team': 'Top scorer in team',
+            'forme_coureur': 'Rider form', 'year': 'Year',
+        }
+        top_feats_ordered = df_imp.sort_values('importance', ascending=False)['feature'].tolist()
+        sel_feat = st.selectbox(
+            "Explore CATE heterogeneity for a feature:",
+            options=top_feats_ordered,
+            format_func=lambda f: _feat_labels.get(f, f),
+            key='hetero_feat_sel',
+        )
+        if sel_feat and sel_feat in df_cf_all.columns:
+            _df_q = df_cf_all[['cate', sel_feat]].dropna()
+            if len(_df_q) >= 8:
+                try:
+                    _df_q = _df_q.copy()
+                    _df_q['_q'] = pd.qcut(_df_q[sel_feat], q=4, duplicates='drop')
+                    _q_stats = (
+                        _df_q.groupby('_q', observed=True)['cate']
+                        .agg(mean='mean', std='std', n='count')
+                        .reset_index()
+                    )
+                    _q_stats['sem95'] = 1.96 * _q_stats['std'] / _q_stats['n'].pow(0.5)
+                    _feat_lbl = _feat_labels.get(sel_feat, sel_feat)
+                    _q_labels = [
+                        f"Q{i+1}: [{iv.left:.2g} – {iv.right:.2g}]"
+                        for i, iv in enumerate(_q_stats['_q'])
+                    ]
+                    fig_q = go.Figure(go.Bar(
+                        x=_q_labels,
+                        y=_q_stats['mean'].round(3),
+                        error_y=dict(type='data', array=_q_stats['sem95'].round(3), visible=True),
+                        marker_color=[
+                            '#2d7a3a' if v > 0 else '#c0392b'
+                            for v in _q_stats['mean']
+                        ],
+                        text=_q_stats['n'].astype(int).astype(str) + ' obs',
+                        textposition='outside',
+                        hovertemplate='%{x}<br>Avg CATE: %{y:+.3f} pts<extra></extra>',
+                    ))
+                    fig_q.add_hline(y=0, line_color='#888', line_width=1)
+                    fig_q.update_layout(
+                        title=f'Average CATE by {_feat_lbl} quartile',
+                        yaxis_title='Average CATE (UCI pts)',
+                        xaxis_title=_feat_lbl,
+                        template='plotly_white',
+                        height=350,
+                        showlegend=False,
+                    )
+                    st.plotly_chart(fig_q, use_container_width=True)
+                except Exception:
+                    st.caption("Not enough distinct values to split into quartiles.")
+
 with tab_cf:
     _render_cf()
 
