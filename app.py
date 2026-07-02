@@ -94,6 +94,21 @@ def cached_load_raw(rider, equipe_tuple, years):
     return cm.load_rider(rider, equipe=list(equipe_tuple) if equipe_tuple else None, years=years)
 
 @st.cache_data(show_spinner=False)
+def cached_gc_pts(rider, equipe_tuple, years):
+    """Load riders_gc pts (GC/KOM/Sprint team pts, one row per race)."""
+    df = cm.load_rider_race_level(
+        rider,
+        equipe=list(equipe_tuple) if equipe_tuple else None,
+        years=list(years) if years else None,
+        outcome='pts_uci_equipe_gc',
+    )
+    if df is None:
+        return None
+    keep = ['course', 'year', 'pts_uci', 'pts_uci_equipe_stage',
+            'pts_uci_equipe_gc', 'pts_uci_equipe_kom', 'pts_uci_equipe_points']
+    return df[[c for c in keep if c in df.columns]]
+
+@st.cache_data(show_spinner=False)
 def cached_roster(equipe_tuple):
     return cm.get_team_roster_by_year(list(equipe_tuple))
 
@@ -1369,38 +1384,33 @@ def _render_stats():
         df_raw_g = _group_key_rider(df_raw)
         x_label = "Month" if gran_rider == "Year-Month" else "Year"
 
-        # ── UCI pts breakdown by category, per period ─────────────────────────
-        _BD_COLS = {
-            'Stage (rider)':  ('pts_uci',              False),
-            'Stage (team)':   ('pts_uci_equipe_stage', False),
-            'GC (rider)':     ('pts_uci_gc_final',     False),
-            'GC (team)':      ('pts_uci_gc',           True),
-            'KOM (rider)':    ('pts_uci_kom_final',     False),
-            'KOM (team)':     ('pts_uci_kom',           True),
-            'Sprint (rider)': ('pts_uci_points_final',  False),
-            'Sprint (team)':  ('pts_uci_points',        True),
-        }
-        _present = [lbl for lbl, (col, _) in _BD_COLS.items() if col in df_sel_g.columns]
-        if _present and len(df_sel_g) > 0:
-            bd_rows = {}
-            for lbl, (col, dedup) in _BD_COLS.items():
-                if col not in df_sel_g.columns:
-                    continue
-                if dedup:
-                    # race-level total duplicated per stage → deduplicate first
-                    grp = ['_gk', 'course', 'year'] if 'year' in df_sel_g.columns else ['_gk', 'course']
-                    s = (df_sel_g.groupby(grp)[col].last()
-                                 .fillna(0).groupby(level='_gk').sum())
-                else:
-                    s = df_sel_g.groupby('_gk')[col].sum().fillna(0)
-                bd_rows[lbl] = s
+        # ── UCI pts breakdown by category, per year ───────────────────────────
+        # Stage pts from rider_data (df_sel); GC/KOM/Sprint from riders_gc
+        if 'pts_uci' in df_sel.columns and len(df_sel) > 0:
+            _yr = df_sel['year'].astype(int)
+            bd_rows = {
+                'Stage (rider)': df_sel.groupby(_yr)['pts_uci'].sum().fillna(0),
+            }
+            if 'pts_uci_equipe_stage' in df_sel.columns:
+                bd_rows['Stage (team)'] = df_sel.groupby(_yr)['pts_uci_equipe_stage'].sum().fillna(0)
 
-            bd = (pd.DataFrame(bd_rows)
-                    .T
-                    .rename_axis(x_label, axis=1)
-                    .sort_index(axis=1)
-                    .astype(float))
-            bd_fmt = bd.map(lambda v: f'{v:.0f}' if v else '—')
+            _gc_df = cached_gc_pts(
+                rider1,
+                tuple(sorted(teams1)) if teams1 else (),
+                tuple(int(y) for y in years) if years else (),
+            )
+            if _gc_df is not None and len(_gc_df) > 0:
+                _gc_yr = _gc_df['year'].astype(int)
+                for lbl, col in [
+                    ('GC (team)',     'pts_uci_equipe_gc'),
+                    ('KOM (team)',    'pts_uci_equipe_kom'),
+                    ('Sprint (team)', 'pts_uci_equipe_points'),
+                ]:
+                    if col in _gc_df.columns:
+                        bd_rows[lbl] = _gc_df.groupby(_gc_yr)[col].sum().fillna(0)
+
+            bd = pd.DataFrame(bd_rows).T.sort_index(axis=1).astype(float)
+            bd_fmt = bd.rename_axis('Year', axis=1).map(lambda v: f'{v:.0f}' if v != 0 else '—')
             st.markdown("**UCI points breakdown (when selected)**")
             st.dataframe(bd_fmt, use_container_width=True)
 
