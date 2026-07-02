@@ -712,12 +712,14 @@ def _render_cf():
                             _base = float(explainer.expected_value)
                             _cate = float(row.get('cate', _base + shap_arr.sum()))
                             st.markdown(
-                                f"**Average CATE** (reference): **{_base:+.3f} pts** | "
+                                f"**Average CATE across dataset**: **{_base:+.3f} pts** → "
                                 f"**This race**: **{_cate:+.3f} pts**\n\n"
-                                "Each bar shows how much a feature pushes this race's CATE "
-                                "**above or below the average**. "
-                                "🟢 **Green** = above average. "
-                                "🔴 **Red** = below average."
+                                f"Each bar shows how much a feature pushes this race's CATE "
+                                f"above or below the dataset average ({_base:+.3f} pts). "
+                                "🟢 **Green** = favourable vs average (e.g. harder race, better startlist). "
+                                "🔴 **Red** = unfavourable. "
+                                "All-red bars with a positive CATE simply means the effect exists "
+                                "but is weaker than the rider's usual — every feature is below average."
                             )
 
                             shap_s = (
