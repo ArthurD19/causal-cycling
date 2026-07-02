@@ -36,6 +36,22 @@ def _get_pts1_lookup() -> pd.Series | None:
         _PTS1_LOOKUP = df.set_index('course')['pts_uci_rank1']
     return _PTS1_LOOKUP
 OUTCOME      = 'pts_uci_equipe_stage'
+
+# UCI national team names — riders race for their country at Worlds/Europeans/Nationals
+# but UCI points are credited to their professional team.
+_NATIONAL_TEAMS: set[str] = {
+    'Italy', 'Belgium', 'France', 'Spain', 'Netherlands', 'Germany',
+    'Denmark', 'Switzerland', 'Norway', 'Australia', 'Colombia',
+    'Great Britain', 'United Kingdom', 'United States', 'USA',
+    'Portugal', 'Poland', 'Austria', 'Slovenia', 'Kazakhstan',
+    'South Africa', 'New Zealand', 'Canada', 'Luxembourg', 'Ireland',
+    'Sweden', 'Czech Republic', 'Slovakia', 'Hungary', 'Japan',
+    'Eritrea', 'Venezuela', 'Ecuador', 'Argentina', 'Bolivia',
+    'Estonia', 'Latvia', 'Lithuania', 'Croatia', 'Serbia',
+    'Bulgaria', 'Romania', 'Ukraine', 'Russia', 'Belarus',
+    'Azerbaijan', 'Israel', 'Morocco', 'Algeria', 'Rwanda',
+    'Cameroon', 'Iran', 'Costa Rica',
+}
 TREATMENT    = 'selected'
 N_FOLDS      = 5
 N_BOOT       = 200
@@ -519,6 +535,45 @@ def get_team_year_leaders() -> dict:
 
 
 # ── Data loading ──────────────────────────────────────────────────────────────
+def _remap_national_teams(df: pd.DataFrame) -> pd.DataFrame:
+    """Remap national team rows to the rider's pro team for that year.
+
+    When a rider competes for their country (Worlds, Europeans, Nationals),
+    UCI points go to their pro team. We remap equipe and neutralise leader
+    features so the model treats these as normal pro-team races.
+    """
+    if 'equipe' not in df.columns:
+        return df
+    is_nat = df['equipe'].isin(_NATIONAL_TEAMS)
+    if not is_nat.any():
+        return df
+
+    df = df.copy()
+    # Build year → pro team mapping from non-national rows
+    pro_rows = df[~is_nat]
+    year_to_team: dict[int, str] = {}
+    if 'year' in pro_rows.columns and len(pro_rows) > 0:
+        for yr, grp in pro_rows.groupby(pro_rows['year'].astype(int)):
+            mode = grp['equipe'].mode()
+            if len(mode) > 0:
+                year_to_team[yr] = mode.iloc[0]
+
+    nat_idx = df.index[is_nat]
+    for idx in nat_idx:
+        yr = int(df.at[idx, 'year']) if 'year' in df.columns else None
+        # Try exact year, then adjacent years
+        pro_team = (year_to_team.get(yr)
+                    or year_to_team.get(yr - 1) if yr else None
+                    or year_to_team.get(yr + 1) if yr else None)
+        if pro_team:
+            df.at[idx, 'equipe'] = pro_team
+        # Neutralise leader features — national selection has no team leader logic
+        for col in ('is_team_leader', 'leader_played'):
+            if col in df.columns:
+                df.at[idx, col] = 0
+    return df
+
+
 def load_rider(rider_name: str, equipe=None, years=None) -> pd.DataFrame | None:
     path = RIDER_DIR / f'{rider_name}.csv'
     if not path.exists():
@@ -527,6 +582,7 @@ def load_rider(rider_name: str, equipe=None, years=None) -> pd.DataFrame | None:
     df['date']      = pd.to_datetime(df['date'], errors='coerce')
     df['stage_num'] = pd.to_numeric(df['stage_num'], errors='coerce')
     df['rider']     = rider_name
+    df = _remap_national_teams(df)
     if equipe is not None:
         equipe_list = equipe if isinstance(equipe, list) else [equipe]
         df = df[df['equipe'].isin(equipe_list)]
