@@ -1069,14 +1069,14 @@ very different contexts → incorrect results. **Set the slider to the year he j
         _mean_cate = float(df_cf_all['cate'].mean()) if 'cate' in df_cf_all.columns else float('nan')
         _n_obs = res1.get('n_obs', '?')
         _n_sel = res1.get('n_selected', '?')
-        _sig_str = "✓ Yes" if _dml.get('significant') else "✗ No"
-        st.markdown(
-            f"**{label1}** &nbsp;|&nbsp; "
-            f"ATE = **{_ate:+.2f} UCI pts** &nbsp;|&nbsp; "
-            f"95% CI [{_ci_lo:+.2f}, {_ci_hi:+.2f}] &nbsp;|&nbsp; "
-            f"Significant: {_sig_str} &nbsp;|&nbsp; "
-            f"Mean CATE = **{_mean_cate:+.2f} pts** &nbsp;|&nbsp; "
-            f"N = {_n_obs} stages ({_n_sel} selected)"
+        _imp_title = (
+            f"<b>{label1}</b><br>"
+            f"ATE = <b>{_ate:+.2f} UCI pts</b>  |  "
+            f"95% CI [{_ci_lo:+.2f}, {_ci_hi:+.2f}]  |  "
+            f"Significant: {'✓' if _dml.get('significant') else '✗'}  |  "
+            f"Mean CATE = <b>{_mean_cate:+.2f} pts</b>  |  "
+            f"N = {_n_obs} stages ({_n_sel} selected)<br>"
+            f"<i>Which variables best explain CATE heterogeneity?</i>"
         )
         fig_imp = go.Figure(go.Bar(
             x=df_imp['importance'],
@@ -1086,11 +1086,11 @@ very different contexts → incorrect results. **Set the slider to the year he j
             hovertemplate='<b>%{y}</b><br>Importance: %{x:.4f}<extra></extra>',
         ))
         fig_imp.update_layout(
-            title=dict(text="Which variables best explain CATE heterogeneity?", x=0, xanchor='left'),
+            title=dict(text=_imp_title, x=0, xanchor='left', font=dict(size=14)),
             xaxis_title="Importance (Causal Forest)",
             template='plotly_white',
             height=max(350, len(feats) * 26),
-            margin=dict(l=160, t=40, b=50, r=20),
+            margin=dict(l=160, t=120, b=50, r=20),
         )
         st.plotly_chart(fig_imp, use_container_width=True)
         st.caption(
