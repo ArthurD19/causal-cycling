@@ -263,7 +263,7 @@ label1 = make_label(rider1, teams1)
 team_mode2 = (rider2 is None) if mode == "Comparison" else False
 label2 = make_label(rider2, teams2) if mode == "Comparison" and teams2 else None
 
-tab_stats, tab_dml, tab_cf = st.tabs(["📈 Descriptive stats", "📊 DML — ATE", "🌲 Causal Forest — CATE"])
+tab_stats, tab_dml, tab_cf, tab_rank = st.tabs(["📈 Descriptive stats", "📊 DML — ATE", "🌲 Causal Forest — CATE", "🏆 WorldTour Rankings"])
 
 # ── Persist the button state via session_state ───────────────────────────────
 # run_btn is True only on the frame where button is clicked.
@@ -1176,6 +1176,118 @@ very different contexts → incorrect results. **Set the slider to the year he j
 
 with tab_cf:
     _render_cf()
+
+# ════════════════════════════════════════════════════════════════════════════════
+# TAB — WORLDTOUR RANKINGS
+# ════════════════════════════════════════════════════════════════════════════════
+@st.cache_data(show_spinner=False)
+def _load_ate_results():
+    path = Path(cm.BASE_DIR) / 'riders_ate_results.csv'
+    if not path.exists():
+        return None
+    df = pd.read_csv(path)
+    df['ate_orig'] = pd.to_numeric(df['ate_orig'], errors='coerce')
+    df['ci_low']   = pd.to_numeric(df['ci_low'],   errors='coerce')
+    df['ci_high']  = pd.to_numeric(df['ci_high'],  errors='coerce')
+    df['significant'] = df['significant'].astype(int)
+    return df.dropna(subset=['ate_orig', 'ci_low', 'ci_high'])
+
+
+with tab_rank:
+    df_rank = _load_ate_results()
+    if df_rank is None:
+        st.info("No ranking data yet. Run `python precompute_rankings.py` to generate it.")
+    else:
+        st.subheader("WorldTour Rankings — ATE (Average Treatment Effect)")
+        st.caption(
+            "ATE = average causal contribution to team UCI points per stage when the rider is selected. "
+            "Estimated via Double Machine Learning (DML) on the rider's full career data."
+        )
+
+        # ── Filters ──────────────────────────────────────────────────────────
+        fc1, fc2, fc3, fc4 = st.columns([3, 1, 1, 1])
+        with fc1:
+            all_teams = sorted(df_rank['equipe'].dropna().unique())
+            sel_teams = st.multiselect("Filter by team", options=all_teams, default=[], key='rank_teams')
+        with fc2:
+            sig_only = st.toggle("Significant only", value=False, key='rank_sig')
+        with fc3:
+            min_obs = st.number_input("Min stages", min_value=50, max_value=1000, value=100, step=50, key='rank_minobs')
+        with fc4:
+            top_n = st.slider("Top N", min_value=10, max_value=100, value=30, step=5, key='rank_topn')
+
+        # ── Filter data ───────────────────────────────────────────────────────
+        df_f = df_rank.copy()
+        if sel_teams:
+            df_f = df_f[df_f['equipe'].isin(sel_teams)]
+        if sig_only:
+            df_f = df_f[df_f['significant'] == 1]
+        df_f = df_f[df_f['n_obs'] >= min_obs]
+        df_f = df_f.sort_values('ate_orig', ascending=False).head(top_n).reset_index(drop=True)
+
+        if len(df_f) == 0:
+            st.warning("No riders match the current filters.")
+        else:
+            # ── Bar chart with CI ─────────────────────────────────────────────
+            df_plot = df_f.sort_values('ate_orig', ascending=True)
+            colors  = ['#2271B3' if s else '#aac4e0' for s in df_plot['significant']]
+            rider_labels = df_plot['rider'].str.replace('_', ' ').str.title()
+
+            fig_rank = go.Figure()
+            fig_rank.add_trace(go.Bar(
+                x=df_plot['ate_orig'],
+                y=rider_labels,
+                orientation='h',
+                marker_color=colors,
+                error_x=dict(
+                    type='data',
+                    arrayminus=df_plot['ate_orig'] - df_plot['ci_low'],
+                    array=df_plot['ci_high'] - df_plot['ate_orig'],
+                    visible=True,
+                    color='#555',
+                    thickness=1.2,
+                    width=3,
+                ),
+                hovertemplate=(
+                    '<b>%{y}</b><br>'
+                    'ATE = %{x:+.3f} UCI pts<br>'
+                    'CI: [%{customdata[0]:+.2f}, %{customdata[1]:+.2f}]<br>'
+                    'N = %{customdata[2]} stages<extra></extra>'
+                ),
+                customdata=df_plot[['ci_low', 'ci_high', 'n_obs']].values,
+            ))
+            fig_rank.add_vline(x=0, line_color='#333', line_width=1)
+            fig_rank.update_layout(
+                title=dict(
+                    text=(
+                        f"Top {len(df_plot)} riders by ATE"
+                        + (f" — {', '.join(sel_teams)}" if sel_teams else " — All WorldTour teams")
+                        + ("<br><sup>Dark blue = significant (95% CI excludes 0). Light blue = non-significant.</sup>" )
+                    ),
+                    x=0, xanchor='left', font=dict(size=14),
+                ),
+                xaxis_title="ATE (UCI pts / stage)",
+                template='plotly_white',
+                height=max(400, len(df_plot) * 22),
+                margin=dict(l=200, t=80, b=50, r=20),
+            )
+            st.plotly_chart(fig_rank, use_container_width=True)
+
+            # ── Table ─────────────────────────────────────────────────────────
+            with st.expander("Full table", expanded=False):
+                df_table = df_f[['rider', 'equipe', 'ate_orig', 'ci_low', 'ci_high', 'significant', 'r2_t', 'r2_y', 'n_obs', 'n_selected']].copy()
+                df_table['rider'] = df_table['rider'].str.replace('_', ' ').str.title()
+                df_table['sig'] = df_table['significant'].map({1: '✓', 0: '✗'})
+                df_table = df_table.rename(columns={
+                    'rider': 'Rider', 'equipe': 'Team',
+                    'ate_orig': 'ATE', 'ci_low': 'CI low', 'ci_high': 'CI high',
+                    'sig': 'Sig', 'r2_t': 'R² T', 'r2_y': 'R² Y',
+                    'n_obs': 'N stages', 'n_selected': 'N selected',
+                }).drop(columns=['significant'])
+                st.dataframe(
+                    df_table.style.format({'ATE': '{:+.3f}', 'CI low': '{:+.2f}', 'CI high': '{:+.2f}', 'R² T': '{:.3f}', 'R² Y': '{:.3f}'}),
+                    use_container_width=True, hide_index=True,
+                )
 
 # ════════════════════════════════════════════════════════════════════════════════
 # TAB 0 — DESCRIPTIVE STATS (model-independent)
