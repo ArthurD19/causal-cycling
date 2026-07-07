@@ -1223,6 +1223,10 @@ with tab_rank:
         if sig_only:
             df_f = df_f[df_f['significant'] == 1]
         df_f = df_f[df_f['n_obs'] >= min_obs]
+        # Remove outliers with exploding CIs (keep riders where CI width < 99th percentile)
+        ci_width = df_f['ci_high'] - df_f['ci_low']
+        ci_cap = ci_width.quantile(0.99)
+        df_f = df_f[ci_width <= ci_cap]
         df_f = df_f.sort_values('ate_orig', ascending=False).head(top_n).reset_index(drop=True)
 
         if len(df_f) == 0:
@@ -1231,7 +1235,10 @@ with tab_rank:
             # ── Bar chart with CI ─────────────────────────────────────────────
             df_plot = df_f.sort_values('ate_orig', ascending=True)
             colors  = ['#2271B3' if s else '#aac4e0' for s in df_plot['significant']]
-            rider_labels = df_plot['rider'].str.replace('_', ' ').str.title()
+            # capitalize() handles accented chars correctly (title() does not)
+            rider_labels = df_plot['rider'].apply(
+                lambda s: ' '.join(w.capitalize() for w in s.split('_'))
+            )
 
             fig_rank = go.Figure()
             fig_rank.add_trace(go.Bar(
@@ -1276,7 +1283,9 @@ with tab_rank:
             # ── Table ─────────────────────────────────────────────────────────
             with st.expander("Full table", expanded=False):
                 df_table = df_f[['rider', 'equipe', 'ate_orig', 'ci_low', 'ci_high', 'significant', 'r2_t', 'r2_y', 'n_obs', 'n_selected']].copy()
-                df_table['rider'] = df_table['rider'].str.replace('_', ' ').str.title()
+                df_table['rider'] = df_table['rider'].apply(
+                    lambda s: ' '.join(w.capitalize() for w in s.split('_'))
+                )
                 df_table['sig'] = df_table['significant'].map({1: '✓', 0: '✗'})
                 df_table = df_table.rename(columns={
                     'rider': 'Rider', 'equipe': 'Team',
