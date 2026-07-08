@@ -900,7 +900,7 @@ def _render_cf():
     )
     if gran_cf == "Year-Month" and 'date' in df_cf1.columns:
         df_cf1_g = df_cf1.copy()
-        df_cf1_g['_gk'] = df_cf1_g['date'].dt.to_period('M').astype(str)
+        df_cf1_g['_gk'] = pd.to_datetime(df_cf1_g['date'], errors='coerce').dt.to_period('M').astype(str)
         gk_label = 'Month'
     else:
         df_cf1_g = df_cf1.copy()
@@ -1595,7 +1595,7 @@ def _render_stats():
         def _group_key_rider(df):
             if gran_rider == "Year-Month" and 'date' in df.columns:
                 df = df.copy()
-                df['_gk'] = df['date'].dt.to_period('M').astype(str)
+                df['_gk'] = pd.to_datetime(df['date'], errors='coerce').dt.to_period('M').astype(str)
             else:
                 df = df.copy()
                 df['_gk'] = df['year'].astype(int).astype(str)
