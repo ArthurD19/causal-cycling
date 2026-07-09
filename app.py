@@ -432,6 +432,110 @@ with tab_dml:
             )
             st.plotly_chart(fig_res, use_container_width=True)
 
+        with st.expander("Predicted vs Actual — outcome model"):
+            _outcome_col = res1.get('outcome', 'pts_uci_equipe_stage')
+            _df_diag = res1['df_clean'].copy()
+            _Y_resid = np.array(res1['dml']['Y_resid'])
+            _n = len(_Y_resid)
+
+            if _outcome_col in _df_diag.columns:
+                _Y_log_actual = np.log1p(_df_diag[_outcome_col].values[:_n])
+                _Y_log_pred   = _Y_log_actual - _Y_resid
+                _abs_resid    = np.abs(_Y_resid)
+
+                _df_diag = _df_diag.iloc[:_n].copy()
+                _df_diag['_Y_actual'] = _Y_log_actual
+                _df_diag['_Y_pred']   = _Y_log_pred
+                _df_diag['_resid']    = _Y_resid
+                _df_diag['_abs_resid']= _abs_resid
+
+                # ── Scatter predicted vs actual ─────────────────────────
+                _clusters = (
+                    _df_diag['stage_cluster_label'].fillna('Unknown')
+                    if 'stage_cluster_label' in _df_diag.columns
+                    else pd.Series(['All'] * _n)
+                )
+                _CLUSTER_COLORS = {
+                    '⏱️  TT':               '#9b59b6',
+                    '🟢  Flat/Sprint':       '#27ae60',
+                    '⛰️  Medium mountain':  '#e67e22',
+                    '🏔️  High mountain':    '#e74c3c',
+                }
+                fig_pred = go.Figure()
+                for _cl in _clusters.unique():
+                    _mask = (_clusters == _cl).values
+                    _color = _CLUSTER_COLORS.get(_cl, '#2271B3')
+                    _hover = (
+                        _df_diag.loc[_mask, 'course'].str.replace('-', ' ').apply(
+                            lambda s: unicodedata.normalize('NFC', s).title()
+                        ) + ' ' + _df_diag.loc[_mask, 'year'].astype(int).astype(str)
+                        if 'course' in _df_diag.columns else pd.Series([''] * _mask.sum())
+                    )
+                    fig_pred.add_trace(go.Scatter(
+                        x=_Y_log_pred[_mask],
+                        y=_Y_log_actual[_mask],
+                        mode='markers',
+                        name=str(_cl),
+                        text=_hover,
+                        hovertemplate='<b>%{text}</b><br>Predicted: %{x:.3f}<br>Actual: %{y:.3f}<extra></extra>',
+                        marker=dict(size=5, opacity=0.6, color=_color),
+                    ))
+
+                _lim = max(_Y_log_actual.max(), _Y_log_pred.max()) * 1.05
+                fig_pred.add_trace(go.Scatter(
+                    x=[0, _lim], y=[0, _lim],
+                    mode='lines', name='Perfect prediction',
+                    line=dict(color='red', dash='dash', width=1.5),
+                    showlegend=True,
+                ))
+                fig_pred.add_annotation(
+                    x=0.02, y=0.98, xref='paper', yref='paper',
+                    text=f"R² = {res1['dml']['r2_y']:.3f}",
+                    showarrow=False, font=dict(size=13),
+                    bgcolor='rgba(255,255,255,0.85)',
+                    bordercolor='#ccc', borderwidth=1,
+                    xanchor='left', yanchor='top',
+                )
+                fig_pred.update_layout(
+                    title='Predicted vs Actual — outcome model Y (log scale)',
+                    xaxis_title='Predicted  log(1 + UCI pts)',
+                    yaxis_title='Actual  log(1 + UCI pts)',
+                    template='plotly_white', height=420,
+                )
+                st.plotly_chart(fig_pred, use_container_width=True)
+                st.caption(
+                    "Points on the diagonal = perfect predictions. "
+                    "Above = team scored more than expected; below = less than expected. "
+                    f"R² = {res1['dml']['r2_y']:.3f}."
+                )
+
+                # ── Worst predicted stages ──────────────────────────────
+                st.markdown("**Stages with largest prediction error**")
+                _diag_cols = ['course', 'year', 'stage_cluster_label', '_Y_actual', '_Y_pred', '_resid']
+                _diag_cols = [c for c in _diag_cols if c in _df_diag.columns]
+                _worst = (
+                    _df_diag.nlargest(10, '_abs_resid')[_diag_cols]
+                    .rename(columns={
+                        '_Y_actual': 'Y actual (log)',
+                        '_Y_pred':   'Y predicted (log)',
+                        '_resid':    'Residual',
+                    })
+                    .reset_index(drop=True)
+                )
+                if 'course' in _worst.columns:
+                    _worst['course'] = _worst['course'].str.replace('-', ' ').apply(
+                        lambda s: unicodedata.normalize('NFC', s).title()
+                    )
+                st.dataframe(_worst.style.format({
+                    'Y actual (log)': '{:.3f}',
+                    'Y predicted (log)': '{:.3f}',
+                    'Residual': '{:+.3f}',
+                }), use_container_width=True)
+                st.caption(
+                    "Positive residual = the team scored more than the model expected (positive surprise). "
+                    "Negative residual = the team underperformed relative to race context."
+                )
+
 # ════════════════════════════════════════════════════════════════════════════════
 # TAB 2 — Causal Forest
 # ════════════════════════════════════════════════════════════════════════════════
