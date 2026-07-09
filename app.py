@@ -112,6 +112,34 @@ def cached_gc_pts(rider, equipe_tuple, years):
 def cached_roster(equipe_tuple):
     return cm.get_team_roster_by_year(list(equipe_tuple))
 
+@st.cache_data(show_spinner=False)
+def load_race_results(course: str, year: int, stage_num, equipe_tuple: tuple):
+    """Load UCI pts for each team rider in a specific stage — PCS-style results."""
+    riders = cm.find_team_riders(list(equipe_tuple), min_selections=1)
+    rows = []
+    for rider in riders:
+        df = cm.load_rider(rider, equipe=list(equipe_tuple))
+        if df is None:
+            continue
+        mask = (df['course'] == course) & (df['year'].astype(int) == int(year))
+        if stage_num is not None and pd.notna(stage_num):
+            mask &= (df['stage_num'].astype(float) == float(stage_num))
+        sub = df[mask]
+        if len(sub) == 0:
+            continue
+        row = sub.iloc[0]
+        rows.append({
+            'Rider':    fmt_rider(rider),
+            'Selected': '✓' if int(row.get('selected', 0)) == 1 else '—',
+            'Rank':     int(row['rang']) if pd.notna(row.get('rang')) else None,
+            'UCI pts':  float(row.get('pts_uci', 0) or 0),
+        })
+    if not rows:
+        return None
+    df_res = pd.DataFrame(rows).sort_values('UCI pts', ascending=False).reset_index(drop=True)
+    df_res.index += 1
+    return df_res
+
 def fmt_rider(name: str) -> str:
     return unicodedata.normalize('NFC', name.replace('_', ' ')).title()
 
@@ -857,6 +885,10 @@ def _render_cf():
         if course_max_pts is not None:
             df = df.join(course_max_pts, on='course')
             df['cate_pct_max'] = (df['cate'] / df['pts_course_max'].clip(lower=1) * 100).round(1)
+            if 'pts_uci_equipe_stage' in df.columns:
+                df['pts_actual_pct_max'] = (
+                    df['pts_uci_equipe_stage'] / df['pts_course_max'].clip(lower=1) * 100
+                ).round(1)
         if selected_only:
             df = df[df['selected'] == 1]
         if year_filter:
@@ -874,6 +906,10 @@ def _render_cf():
         hover_extra['cate'] = ':.3f'
         if 'cate_pct_max' in df.columns:
             hover_extra['cate_pct_max'] = ':.1f'
+        if 'pts_actual_pct_max' in df.columns:
+            hover_extra['pts_actual_pct_max'] = ':.1f'
+        if 'pts_uci_equipe_stage' in df.columns:
+            hover_extra['pts_uci_equipe_stage'] = ':.0f'
         if x_col in df.columns:
             hover_extra[x_col] = ':.1f'
         hover_extra[color_col] = False
@@ -1002,12 +1038,6 @@ def _render_cf():
     _df_sel_only = df_cf_all[df_cf_all['selected'] == 1].copy()
     if _outcome_col in _df_sel_only.columns and 'cate' in _df_sel_only.columns:
         with st.expander("CATE vs Actual result — selected races"):
-            st.caption(
-                "Each point is a race where the rider was selected. "
-                "X = CATE predicted by the Causal Forest (estimated marginal contribution). "
-                "Y = actual team UCI points scored. "
-                "A positive correlation validates that high-CATE races do correspond to better actual results."
-            )
             _cluster_colors = {
                 '⏱️  TT':              '#9b59b6',
                 '🟢  Flat/Sprint':      '#27ae60',
@@ -1055,7 +1085,47 @@ def _render_cf():
                 template='plotly_white',
                 height=420,
             )
-            st.plotly_chart(fig_val, use_container_width=True)
+            _val_sel = st.plotly_chart(
+                fig_val, use_container_width=True,
+                on_select='rerun', key='val_scatter',
+            )
+            st.caption(
+                "Click a point to see the race profile and team results."
+            )
+
+            # ── Click → course card + team results ──────────────────────
+            _val_pts = (_val_sel.get('selection', {}).get('points') or [])
+            if _val_pts:
+                _vpt = _val_pts[0]
+                _vmatch = _df_sel_only[
+                    (_df_sel_only['cate'].round(3) == round(_vpt.get('x', 0), 3))
+                    & (_df_sel_only[_outcome_col].round(1) == round(_vpt.get('y', 0), 1))
+                ]
+                if len(_vmatch) == 0:
+                    _vmatch = _df_sel_only.iloc[
+                        [(_df_sel_only['cate'] - _vpt.get('x', 0)).abs()
+                         .add((_df_sel_only[_outcome_col] - _vpt.get('y', 0)).abs())
+                         .argmin()]
+                    ]
+                _vrow = _vmatch.iloc[0]
+                _show_course_card(
+                    _vrow, df_ref=df_cf_all, features=res1.get('features'),
+                    cf_model=res1.get('cf_model'), X_train=res1.get('X'),
+                )
+                _vcourse = _vrow.get('course', '')
+                _vyear   = _vrow.get('year', 0)
+                _vstage  = _vrow.get('stage_num', None)
+                _vteams  = tuple(sorted(p.get('teams1', tuple(sorted(teams1)))))
+                with st.spinner("Loading team results…"):
+                    _df_results = load_race_results(_vcourse, _vyear, _vstage, _vteams)
+                if _df_results is not None and len(_df_results) > 0:
+                    st.markdown(f"**Team results — {_vrow.get('course_label', _vcourse)}**")
+                    st.dataframe(
+                        _df_results.style.format({'UCI pts': '{:.0f}'}),
+                        use_container_width=True,
+                    )
+                else:
+                    st.caption("No team result data found for this stage.")
 
             # Best and worst predicted races
             _col_a, _col_b = st.columns(2)
