@@ -113,12 +113,18 @@ def cached_roster(equipe_tuple):
     return cm.get_team_roster_by_year(list(equipe_tuple))
 
 @st.cache_data(show_spinner=False)
-def load_race_results(course: str, year: int, stage_num, equipe_tuple: tuple):
-    """Load UCI pts for each team rider in a specific stage — PCS-style results."""
-    riders = cm.find_team_riders(list(equipe_tuple), min_selections=1)
+def load_race_results(course: str, year: int, stage_num, equipe_tuple: tuple, all_riders: bool = False):
+    """Load UCI pts for riders in a specific stage, sorted by rank."""
+    if all_riders:
+        riders_to_load = cm.list_all_riders()
+        equipe_filter  = None
+    else:
+        riders_to_load = cm.find_team_riders(list(equipe_tuple), min_selections=1)
+        equipe_filter  = list(equipe_tuple)
+
     rows = []
-    for rider in riders:
-        df = cm.load_rider(rider, equipe=list(equipe_tuple))
+    for rider in riders_to_load:
+        df = cm.load_rider(rider, equipe=equipe_filter)
         if df is None:
             continue
         mask = (df['course'] == course) & (df['year'].astype(int) == int(year))
@@ -129,14 +135,15 @@ def load_race_results(course: str, year: int, stage_num, equipe_tuple: tuple):
             continue
         row = sub.iloc[0]
         rows.append({
-            'Rider':    fmt_rider(rider),
-            'Selected': '✓' if int(row.get('selected', 0)) == 1 else '—',
             'Rank':     int(row['rang']) if pd.notna(row.get('rang')) else None,
+            'Rider':    fmt_rider(rider),
+            'Team':     str(row.get('equipe', '')),
             'UCI pts':  float(row.get('pts_uci', 0) or 0),
         })
     if not rows:
         return None
-    df_res = pd.DataFrame(rows).sort_values('UCI pts', ascending=False).reset_index(drop=True)
+    df_res = pd.DataFrame(rows)
+    df_res = df_res.sort_values('Rank', na_position='last').reset_index(drop=True)
     df_res.index += 1
     return df_res
 
@@ -1116,20 +1123,27 @@ def _render_cf():
                     _vrow, df_ref=df_cf_all, features=res1.get('features'),
                     cf_model=res1.get('cf_model'), X_train=res1.get('X'),
                 )
-                _vcourse = _vrow.get('course', '')
-                _vyear   = _vrow.get('year', 0)
-                _vstage  = _vrow.get('stage_num', None)
-                _vteams  = tuple(sorted(p.get('teams1', tuple(sorted(teams1)))))
-                with st.spinner("Loading team results…"):
-                    _df_results = load_race_results(_vcourse, _vyear, _vstage, _vteams)
+                _vcourse  = _vrow.get('course', '')
+                _vyear    = _vrow.get('year', 0)
+                _vstage   = _vrow.get('stage_num', None)
+                _vteams   = tuple(sorted(p.get('teams1', tuple(sorted(teams1)))))
+                _show_all = st.toggle(
+                    "Show all WorldTour riders (slower)",
+                    value=False, key='results_all_riders',
+                )
+                with st.spinner("Loading results…"):
+                    _df_results = load_race_results(
+                        _vcourse, _vyear, _vstage, _vteams, all_riders=_show_all,
+                    )
                 if _df_results is not None and len(_df_results) > 0:
-                    st.markdown(f"**Team results — {_vrow.get('course_label', _vcourse)}**")
+                    st.markdown(f"**Results — {_vrow.get('course_label', _vcourse)}**")
                     st.dataframe(
                         _df_results.style.format({'UCI pts': '{:.0f}'}),
                         use_container_width=True,
+                        hide_index=False,
                     )
                 else:
-                    st.caption("No team result data found for this stage.")
+                    st.caption("No result data found for this stage.")
 
             # Best and worst predicted races
             _col_a, _col_b = st.columns(2)
