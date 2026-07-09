@@ -885,10 +885,10 @@ def _render_cf():
         if course_max_pts is not None:
             df = df.join(course_max_pts, on='course')
             df['cate_pct_max'] = (df['cate'] / df['pts_course_max'].clip(lower=1) * 100).round(1)
-            if 'pts_uci_equipe_stage' in df.columns:
-                df['pts_actual_pct_max'] = (
-                    df['pts_uci_equipe_stage'] / df['pts_course_max'].clip(lower=1) * 100
-                ).round(1)
+        if 'pts_uci_equipe_stage' in df.columns and 'max_pts' in df.columns:
+            df['team_pct_winner'] = (
+                df['pts_uci_equipe_stage'] / df['max_pts'].replace(0, float('nan')) * 100
+            ).round(1)
         if selected_only:
             df = df[df['selected'] == 1]
         if year_filter:
@@ -906,8 +906,8 @@ def _render_cf():
         hover_extra['cate'] = ':.3f'
         if 'cate_pct_max' in df.columns:
             hover_extra['cate_pct_max'] = ':.1f'
-        if 'pts_actual_pct_max' in df.columns:
-            hover_extra['pts_actual_pct_max'] = ':.1f'
+        if 'team_pct_winner' in df.columns:
+            hover_extra['team_pct_winner'] = ':.1f'
         if 'pts_uci_equipe_stage' in df.columns:
             hover_extra['pts_uci_equipe_stage'] = ':.0f'
         if x_col in df.columns:
@@ -963,6 +963,10 @@ def _render_cf():
     df_cf_all['cate_pct_max'] = (
         df_cf_all['cate'] / df_cf_all['pts_course_max'].replace(0, float('nan')) * 100
     ).round(1)
+    if 'pts_uci_equipe_stage' in df_cf_all.columns and 'max_pts' in df_cf_all.columns:
+        df_cf_all['team_pct_winner'] = (
+            df_cf_all['pts_uci_equipe_stage'] / df_cf_all['max_pts'].replace(0, float('nan')) * 100
+        ).round(1)
     if year_filter:
         df_cf_all = df_cf_all[df_cf_all['year'].astype(int).isin(year_filter)]
 
