@@ -997,6 +997,91 @@ def _render_cf():
                           compare_df=_compare_df, compare_label=_compare_label,
                           cf_model=res1.get('cf_model'), X_train=res1.get('X'))
 
+    # ── CATE vs Actual result (selected races only) ──────────────────────────
+    _outcome_col = res1.get('outcome', 'pts_uci_equipe_stage')
+    _df_sel_only = df_cf_all[df_cf_all['selected'] == 1].copy()
+    if _outcome_col in _df_sel_only.columns and 'cate' in _df_sel_only.columns:
+        with st.expander("CATE vs Actual result — selected races"):
+            st.caption(
+                "Each point is a race where the rider was selected. "
+                "X = CATE predicted by the Causal Forest (estimated marginal contribution). "
+                "Y = actual team UCI points scored. "
+                "A positive correlation validates that high-CATE races do correspond to better actual results."
+            )
+            _cluster_colors = {
+                '⏱️  TT':              '#9b59b6',
+                '🟢  Flat/Sprint':      '#27ae60',
+                '⛰️  Medium mountain': '#e67e22',
+                '🏔️  High mountain':   '#e74c3c',
+            }
+            fig_val = go.Figure()
+            _groups = (
+                _df_sel_only['stage_cluster_label'].fillna('Unknown')
+                if 'stage_cluster_label' in _df_sel_only.columns
+                else pd.Series(['All'] * len(_df_sel_only))
+            )
+            for _cl in _groups.unique():
+                _mask = (_groups == _cl).values
+                _sub  = _df_sel_only[_mask]
+                _hover = (
+                    _sub['course_label'] if 'course_label' in _sub.columns
+                    else _sub['course']
+                )
+                fig_val.add_trace(go.Scatter(
+                    x=_sub['cate'],
+                    y=_sub[_outcome_col],
+                    mode='markers',
+                    name=str(_cl),
+                    text=_hover,
+                    hovertemplate='<b>%{text}</b><br>CATE: %{x:+.3f}<br>Actual pts: %{y:.0f}<extra></extra>',
+                    marker=dict(
+                        size=6, opacity=0.65,
+                        color=_cluster_colors.get(_cl, '#2271B3'),
+                    ),
+                ))
+            fig_val.add_vline(x=0, line_dash='dash', line_color='red', opacity=0.4)
+            _corr = _df_sel_only[['cate', _outcome_col]].dropna().corr().iloc[0, 1]
+            fig_val.add_annotation(
+                x=0.02, y=0.98, xref='paper', yref='paper',
+                text=f"Pearson r = {_corr:.3f}",
+                showarrow=False, font=dict(size=13),
+                bgcolor='rgba(255,255,255,0.85)',
+                bordercolor='#ccc', borderwidth=1,
+                xanchor='left', yanchor='top',
+            )
+            fig_val.update_layout(
+                xaxis_title='CATE (predicted marginal contribution)',
+                yaxis_title=f'Actual {_outcome_col}',
+                template='plotly_white',
+                height=420,
+            )
+            st.plotly_chart(fig_val, use_container_width=True)
+
+            # Best and worst predicted races
+            _col_a, _col_b = st.columns(2)
+            _disp_cols = [c for c in ['course_label', 'year', 'stage_cluster_label', 'cate', _outcome_col]
+                          if c in _df_sel_only.columns]
+            with _col_a:
+                st.markdown("**High CATE + high actual pts** *(model correct)*")
+                _df_sel_only['_score'] = (
+                    (_df_sel_only['cate'] - _df_sel_only['cate'].mean()) / _df_sel_only['cate'].std()
+                    + (_df_sel_only[_outcome_col] - _df_sel_only[_outcome_col].mean()) / _df_sel_only[_outcome_col].std()
+                )
+                st.dataframe(
+                    _df_sel_only.nlargest(8, '_score')[_disp_cols].reset_index(drop=True),
+                    use_container_width=True,
+                )
+            with _col_b:
+                st.markdown("**High CATE + low actual pts** *(model overestimated)*")
+                _df_sel_only['_miss'] = (
+                    (_df_sel_only['cate'] - _df_sel_only['cate'].mean()) / _df_sel_only['cate'].std()
+                    - (_df_sel_only[_outcome_col] - _df_sel_only[_outcome_col].mean()) / _df_sel_only[_outcome_col].std()
+                )
+                st.dataframe(
+                    _df_sel_only.nlargest(8, '_miss')[_disp_cols].reset_index(drop=True),
+                    use_container_width=True,
+                )
+
     # ── CATE by year / month ─────────────────────────────────────────────────
     gran_cf = st.radio(
         "Granularity", ["Year", "Year-Month"],
