@@ -113,39 +113,31 @@ def cached_roster(equipe_tuple):
     return cm.get_team_roster_by_year(list(equipe_tuple))
 
 @st.cache_data(show_spinner=False)
-def load_race_results(course: str, year: int, stage_num, equipe_tuple: tuple, all_riders: bool = False):
-    """Load UCI pts for riders in a specific stage, sorted by rank."""
-    if all_riders:
-        riders_to_load = cm.list_all_riders()
-        equipe_filter  = None
-    else:
-        riders_to_load = cm.find_team_riders(list(equipe_tuple), min_selections=1)
-        equipe_filter  = list(equipe_tuple)
+def load_race_results(course: str, year: int, stage_num):
+    """Load full race results from PCS CSV files — fast single-file read."""
+    import glob as _glob
+    base = Path(cm.BASE_DIR)
 
-    rows = []
-    for rider in riders_to_load:
-        df = cm.load_rider(rider, equipe=equipe_filter)
-        if df is None:
-            continue
-        mask = (df['course'] == course) & (df['year'].astype(int) == int(year))
-        if stage_num is not None and pd.notna(stage_num):
-            mask &= (df['stage_num'].astype(float) == float(stage_num))
-        sub = df[mask]
-        if len(sub) == 0:
-            continue
-        row = sub.iloc[0]
-        rows.append({
-            'Rank':     int(row['rang']) if pd.notna(row.get('rang')) else None,
-            'Rider':    fmt_rider(rider),
-            'Team':     str(row.get('equipe', '')),
-            'UCI pts':  float(row.get('pts_uci', 0) or 0),
-        })
-    if not rows:
+    if stage_num is not None and pd.notna(stage_num):
+        data_dir = base / f'data/pcs{int(year)}'
+        pattern  = str(data_dir / f'*stage_{int(float(stage_num))}*{course}*{int(year)}*.csv')
+    else:
+        data_dir = base / 'data/pcsall'
+        pattern  = str(data_dir / f'{course}_{int(year)}_result.csv')
+
+    files = _glob.glob(pattern)
+    if not files:
         return None
-    df_res = pd.DataFrame(rows)
-    df_res = df_res.sort_values('Rank', na_position='last').reset_index(drop=True)
-    df_res.index += 1
-    return df_res
+
+    df = pd.read_csv(files[0], low_memory=False)
+    keep = {c: c for c in ['Rnk', 'Rider', 'Team', 'UCI', 'Pnt'] if c in df.columns}
+    df = df[list(keep.keys())].copy()
+    df = df.rename(columns={'Rnk': 'Rank', 'Pnt': 'UCI pts'})
+    df['Rank']    = pd.to_numeric(df['Rank'],    errors='coerce')
+    df['UCI pts'] = pd.to_numeric(df['UCI pts'], errors='coerce').fillna(0)
+    df = df.dropna(subset=['Rank']).copy()
+    df['Rank'] = df['Rank'].astype(int)
+    return df.sort_values('Rank').reset_index(drop=True)
 
 def fmt_rider(name: str) -> str:
     return unicodedata.normalize('NFC', name.replace('_', ' ')).title()
@@ -1123,22 +1115,27 @@ def _render_cf():
                     _vrow, df_ref=df_cf_all, features=res1.get('features'),
                     cf_model=res1.get('cf_model'), X_train=res1.get('X'),
                 )
-                _vcourse  = _vrow.get('course', '')
-                _vyear    = _vrow.get('year', 0)
-                _vstage   = _vrow.get('stage_num', None)
-                _vteams   = tuple(sorted(p.get('teams1', tuple(sorted(teams1)))))
-                _show_all = st.toggle(
-                    "Show all WorldTour riders (slower)",
-                    value=False, key='results_all_riders',
-                )
+                _vcourse = _vrow.get('course', '')
+                _vyear   = _vrow.get('year', 0)
+                _vstage  = _vrow.get('stage_num', None)
                 with st.spinner("Loading results…"):
-                    _df_results = load_race_results(
-                        _vcourse, _vyear, _vstage, _vteams, all_riders=_show_all,
-                    )
+                    _df_results = load_race_results(_vcourse, _vyear, _vstage)
                 if _df_results is not None and len(_df_results) > 0:
                     st.markdown(f"**Results — {_vrow.get('course_label', _vcourse)}**")
+                    _team_only = st.toggle(
+                        "Team only", value=False, key='results_team_only',
+                    )
+                    if _team_only:
+                        _team_kw = [t.split('|')[0].strip().lower()
+                                    for t in p.get('teams1', teams1)]
+                        _mask_team = _df_results['Team'].str.lower().apply(
+                            lambda t: any(kw in t for kw in _team_kw)
+                        )
+                        _df_show = _df_results[_mask_team]
+                    else:
+                        _df_show = _df_results
                     st.dataframe(
-                        _df_results.style.format({'UCI pts': '{:.0f}'}),
+                        _df_show.style.format({'UCI pts': '{:.0f}'}),
                         use_container_width=True,
                         hide_index=False,
                     )
