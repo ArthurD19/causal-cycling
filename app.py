@@ -474,11 +474,10 @@ with tab_dml:
 
                 # Keep only races where the rider was selected
                 if 'selected' in _df_diag.columns:
-                    _df_diag = _df_diag[_df_diag['selected'] == 1].copy()
+                    _df_diag = _df_diag[_df_diag['selected'] == 1].copy().reset_index(drop=True)
                     _Y_log_actual = _df_diag['_Y_actual'].values
                     _Y_log_pred   = _df_diag['_Y_pred'].values
                     _abs_resid    = _df_diag['_abs_resid'].values
-
                 # ── Scatter predicted vs actual ─────────────────────────
                 _clusters = (
                     _df_diag['stage_cluster_label'].fillna('Unknown')
