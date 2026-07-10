@@ -660,7 +660,7 @@ def _render_cf():
         )
         return df
 
-    def _show_course_card(row, df_ref=None, features=None, compare_df=None, compare_label=None, cf_model=None, X_train=None):
+    def _show_course_card(row, df_ref=None, features=None, compare_df=None, compare_label=None, cf_model=None, X_train=None, key_suffix=''):
         with st.container(border=True):
             st.markdown(f"### {row.get('course_label', row.get('course', '?'))}")
             # CATE row — primary + comparison if Comparison mode
@@ -779,7 +779,7 @@ def _render_cf():
                     yaxis=dict(range=[_y_low, _y_high]),
                     title=dict(text=' | '.join(surf_parts), font=dict(size=12), x=0) if surf_parts else None,
                 )
-                st.plotly_chart(fig_p, use_container_width=True)
+                st.plotly_chart(fig_p, use_container_width=True, key=f'gpx_{key_suffix}')
             elif not _race_level:
                 st.caption("GPX profile not available for this race.")
 
@@ -875,7 +875,7 @@ def _render_cf():
                                 margin=dict(t=10, b=40, l=10, r=20),
                                 yaxis=dict(autorange='reversed'),
                             )
-                            st.plotly_chart(fig_shap, use_container_width=True)
+                            st.plotly_chart(fig_shap, use_container_width=True, key=f'shap_{key_suffix}')
                         except Exception as _e:
                             st.caption(f"SHAP unavailable: {_e}")
 
@@ -1034,7 +1034,8 @@ def _render_cf():
         _compare_label = _label2 if _compare_df is not None else None
         _show_course_card(match.iloc[0], df_ref=df_cf_all, features=res1.get('features'),
                           compare_df=_compare_df, compare_label=_compare_label,
-                          cf_model=res1.get('cf_model'), X_train=res1.get('X'))
+                          cf_model=res1.get('cf_model'), X_train=res1.get('X'),
+                          key_suffix='main')
 
     # ── CATE vs Actual result (selected races only) ──────────────────────────
     _outcome_col = res1.get('outcome', 'pts_uci_equipe_stage')
@@ -1114,6 +1115,7 @@ def _render_cf():
                 _show_course_card(
                     _vrow, df_ref=df_cf_all, features=res1.get('features'),
                     cf_model=res1.get('cf_model'), X_train=res1.get('X'),
+                    key_suffix='val',
                 )
                 _vcourse = _vrow.get('course', '')
                 _vyear   = _vrow.get('year', 0)
@@ -1312,7 +1314,7 @@ very different contexts → incorrect results. **Set the slider to the year he j
         rows_missed = sel_missed.get('selection', {}).get('rows', [])
         if rows_missed:
             _show_course_card(df_missed.iloc[rows_missed[0]], df_ref=df_cf_all, features=res1.get('features'),
-                              cf_model=res1.get('cf_model'), X_train=res1.get('X'))
+                              cf_model=res1.get('cf_model'), X_train=res1.get('X'), key_suffix='missed')
 
     with col_waste:
         st.markdown("**Wasted selections** *(selected, low CATE)*")
@@ -1324,7 +1326,7 @@ very different contexts → incorrect results. **Set the slider to the year he j
         rows_wasted = sel_wasted.get('selection', {}).get('rows', [])
         if rows_wasted:
             _show_course_card(df_wasted.iloc[rows_wasted[0]], df_ref=df_cf_all, features=res1.get('features'),
-                              cf_model=res1.get('cf_model'), X_train=res1.get('X'))
+                              cf_model=res1.get('cf_model'), X_train=res1.get('X'), key_suffix='wasted')
 
     # ── Variable importance (Causal Forest) ──────────────────────────────
     if 'cf_model' in res1:
