@@ -113,30 +113,26 @@ def cached_roster(equipe_tuple):
     return cm.get_team_roster_by_year(list(equipe_tuple))
 
 @st.cache_data(show_spinner=False)
-def load_race_results(course: str, year: int, stage_num):
-    """Load full race results from PCS CSV files — fast single-file read."""
-    import glob as _glob
-    base = Path(cm.BASE_DIR)
-
-    if stage_num is not None and pd.notna(stage_num):
-        data_dir = base / f'data/pcs{int(year)}'
-        pattern  = str(data_dir / f'*stage_{int(float(stage_num))}*{course}*{int(year)}*.csv')
-    else:
-        data_dir = base / 'data/pcsall'
-        pattern  = str(data_dir / f'{course}_{int(year)}_result.csv')
-
-    files = _glob.glob(pattern)
-    if not files:
+def _load_stage_results_db():
+    path = Path(cm.BASE_DIR) / 'stage_results.parquet'
+    if not path.exists():
         return None
+    return pd.read_parquet(path)
 
-    df = pd.read_csv(files[0], low_memory=False)
-    keep = {c: c for c in ['Rnk', 'Rider', 'Team', 'UCI', 'Pnt'] if c in df.columns}
-    df = df[list(keep.keys())].copy()
-    df = df.rename(columns={'Rnk': 'Rank', 'Pnt': 'UCI pts'})
-    df['Rank']    = pd.to_numeric(df['Rank'],    errors='coerce')
-    df['UCI pts'] = pd.to_numeric(df['UCI pts'], errors='coerce').fillna(0)
-    df = df.dropna(subset=['Rank']).copy()
-    df['Rank'] = df['Rank'].astype(int)
+@st.cache_data(show_spinner=False)
+def load_race_results(course: str, year: int, stage_num):
+    """Load race results from precomputed stage_results.parquet."""
+    db = _load_stage_results_db()
+    if db is None:
+        return None
+    mask = (db['course'] == course) & (db['year'] == str(int(year)))
+    if stage_num is not None and pd.notna(stage_num):
+        mask &= (db['stage_num'] == str(int(float(stage_num))))
+    else:
+        mask &= (db['stage_num'] == '')
+    df = db[mask][['Rank', 'Rider', 'Team', 'UCI pts']].copy()
+    if len(df) == 0:
+        return None
     return df.sort_values('Rank').reset_index(drop=True)
 
 def fmt_rider(name: str) -> str:
