@@ -472,11 +472,18 @@ with tab_dml:
                 _df_diag['_resid']    = _Y_resid
                 _df_diag['_abs_resid']= _abs_resid
 
+                # Keep only races where the rider was selected
+                if 'selected' in _df_diag.columns:
+                    _df_diag = _df_diag[_df_diag['selected'] == 1].copy()
+                    _Y_log_actual = _df_diag['_Y_actual'].values
+                    _Y_log_pred   = _df_diag['_Y_pred'].values
+                    _abs_resid    = _df_diag['_abs_resid'].values
+
                 # ── Scatter predicted vs actual ─────────────────────────
                 _clusters = (
                     _df_diag['stage_cluster_label'].fillna('Unknown')
                     if 'stage_cluster_label' in _df_diag.columns
-                    else pd.Series(['All'] * _n)
+                    else pd.Series(['All'] * len(_df_diag))
                 )
                 _CLUSTER_COLORS = {
                     '⏱️  TT':               '#9b59b6',
