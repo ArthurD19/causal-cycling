@@ -1317,11 +1317,16 @@ Higher AUTOC = better targeting efficiency.
             _autoc = float(np.trapz(_qini - _baseline, _fracs))
             _autoc_norm = _autoc / abs(_overall_ate) if abs(_overall_ate) > 1e-10 else float('nan')
 
+            # Normalise so both curves end at 1 (random = diagonal)
+            _norm_val = _overall_ate if abs(_overall_ate) > 1e-10 else 1.0
+            _qini_n    = _qini    / _norm_val
+            _baseline_n = _fracs  # = _baseline / _norm_val = fraction (diagonal)
+
             # Downsample for plot (max 300 pts)
             _step = max(1, _n // 300)
             _fx = _fracs[::_step]
-            _fy = _qini[::_step]
-            _by = _baseline[::_step]
+            _fy = _qini_n[::_step]
+            _by = _baseline_n[::_step]
 
             fig_qini = go.Figure()
             fig_qini.add_trace(go.Scatter(
@@ -1342,15 +1347,16 @@ Higher AUTOC = better targeting efficiency.
             fig_qini.update_layout(
                 title='QINI curve — targeting efficiency',
                 xaxis_title='Fraction of observations targeted (by descending CATE)',
-                yaxis_title='Cumulative benefit (ATE × fraction)',
+                yaxis_title='Normalised cumulative benefit (1 = overall ATE)',
                 template='plotly_white', height=360,
                 legend=dict(x=0.6, y=0.05),
             )
             st.plotly_chart(fig_qini, use_container_width=True, key='qini_plot')
             st.caption(
-                f"**AUTOC = {_autoc_norm:.3f}** — area between QINI curve and random baseline, "
-                "normalised by overall ATE. "
-                "AUTOC > 0 means CATE ordering beats random; AUTOC = 1 would be perfect targeting."
+                f"**AUTOC = {_autoc_norm:.3f}** — area between QINI curve and random baseline "
+                "(diagonal), normalised by overall ATE. "
+                "AUTOC > 0 = CATE ordering beats random selection; "
+                "AUTOC = 1 = perfect targeting (all benefit concentrated in top observations)."
             )
 
     # ── CATE by year / month ─────────────────────────────────────────────────
