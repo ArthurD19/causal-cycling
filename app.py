@@ -411,7 +411,7 @@ with tab_dml:
   elif _t1_mode and team_res1 is None:
     st.error(f"No rider with enough data for {_label1}.")
   elif not _t1_mode and res1 is None:
-    st.error(f"Insufficient data for {_label1} (fewer than 20 valid observations).")
+    st.error(f"Insufficient data for {_label1} (not enough valid observations after filtering).")
   else:
     def show_dml_metrics(res, label):
         dml = res['dml']
