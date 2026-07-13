@@ -1236,6 +1236,123 @@ def _render_cf():
                 )
                 st.caption("Correlation between predicted CATE and actual team pts — higher = CATE ranking aligns better with real results for this race type.")
 
+    # ── GATE + QINI evaluation ───────────────────────────────────────────────
+    if res1.get('dml') and 'T_resid' in res1['dml'] and 'Y_resid' in res1['dml'] and 'cate' in res1:
+        with st.expander("CATE calibration — GATE & QINI curve"):
+            st.markdown("""
+**GATE** (*Grouped Average Treatment Effects*): observations sorted into quintiles by predicted CATE.
+For each quintile, the *actual* average treatment effect is estimated from DML residuals
+(Ỹ = Y−ĝ(X), T̃ = T−m̂(X)) via the formula θ̂ = Σ(T̃·Ỹ)/Σ(T̃²).
+A well-calibrated model produces a **monotone increasing** bar chart.
+
+**QINI curve**: cumulative benefit of targeting riders by descending CATE order vs random selection.
+Higher AUTOC = better targeting efficiency.
+""")
+            _Yr = np.array(res1['dml']['Y_resid'])
+            _Tr = np.array(res1['dml']['T_resid'])
+            _cate = np.array(res1['cate'])
+            _n = len(_cate)
+
+            # ── GATE ────────────────────────────────────────────────────
+            _sort_asc = np.argsort(_cate)
+            _Yr_s = _Yr[_sort_asc]
+            _Tr_s = _Tr[_sort_asc]
+
+            _n_q = 5
+            _gate_vals, _gate_se, _gate_labels, _gate_cate_means = [], [], [], []
+            _cate_s = _cate[_sort_asc]
+
+            for _qi, _grp in enumerate(np.array_split(np.arange(_n), _n_q)):
+                _Yr_g = _Yr_s[_grp]
+                _Tr_g = _Tr_s[_grp]
+                _denom = float(np.sum(_Tr_g ** 2))
+                if _denom < 1e-10:
+                    continue
+                _th = float(np.dot(_Tr_g, _Yr_g)) / _denom
+                # Sandwich SE
+                _psi = _Tr_g * _Yr_g - _th * _Tr_g ** 2
+                _se = float(np.sqrt(np.sum(_psi ** 2))) / _denom
+                _gate_vals.append(_th)
+                _gate_se.append(_se)
+                _gate_labels.append(f"Q{_qi+1}")
+                _gate_cate_means.append(float(_cate_s[_grp].mean()))
+
+            _gate_colors = ['#27ae60' if v > 0 else '#c0392b' for v in _gate_vals]
+            fig_gate = go.Figure()
+            fig_gate.add_trace(go.Bar(
+                x=_gate_labels, y=_gate_vals,
+                error_y=dict(type='data', array=[1.96*s for s in _gate_se], visible=True,
+                             color='#555', thickness=1.5, width=6),
+                marker_color=_gate_colors,
+                hovertemplate='%{x}: ATE = %{y:+.4f}<extra></extra>',
+            ))
+            fig_gate.add_hline(y=0, line_color='#888', line_width=1)
+            fig_gate.update_layout(
+                title='GATE — actual effect per CATE quintile (log scale)',
+                xaxis_title='CATE quintile (Q1=lowest predicted → Q5=highest)',
+                yaxis_title='Estimated ATE (log pts)',
+                template='plotly_white', height=350,
+                annotations=[dict(
+                    x=_gate_labels[i], y=_gate_vals[i] + 1.96*_gate_se[i] + 0.005,
+                    text=f"τ̂={_gate_cate_means[i]:+.3f}",
+                    showarrow=False, font=dict(size=9, color='#555'), yanchor='bottom',
+                ) for i in range(len(_gate_labels))],
+            )
+            st.plotly_chart(fig_gate, use_container_width=True, key='gate_plot')
+            st.caption("Error bars = 95% CI. τ̂ above each bar = mean predicted CATE in that quintile. "
+                       "Monotone increasing = CATE correctly ranks races by causal impact.")
+
+            # ── QINI curve ──────────────────────────────────────────────
+            _sort_desc = np.argsort(-_cate)
+            _Yr_d = _Yr[_sort_desc]
+            _Tr_d = _Tr[_sort_desc]
+            _run_cov = np.cumsum(_Tr_d * _Yr_d)
+            _run_var = np.cumsum(_Tr_d ** 2)
+            _run_ate = _run_cov / np.maximum(_run_var, 1e-10)
+            _fracs = np.arange(1, _n + 1) / _n
+            _qini = _run_ate * _fracs
+
+            _overall_ate = float(np.dot(_Tr, _Yr)) / max(float(np.sum(_Tr ** 2)), 1e-10)
+            _baseline = _overall_ate * _fracs
+            _autoc = float(np.trapz(_qini - _baseline, _fracs))
+            _autoc_norm = _autoc / abs(_overall_ate) if abs(_overall_ate) > 1e-10 else float('nan')
+
+            # Downsample for plot (max 300 pts)
+            _step = max(1, _n // 300)
+            _fx = _fracs[::_step]
+            _fy = _qini[::_step]
+            _by = _baseline[::_step]
+
+            fig_qini = go.Figure()
+            fig_qini.add_trace(go.Scatter(
+                x=_fx, y=_fy, mode='lines', name='CATE ordering',
+                line=dict(color='#2271B3', width=2),
+            ))
+            fig_qini.add_trace(go.Scatter(
+                x=_fx, y=_by, mode='lines', name='Random ordering',
+                line=dict(color='#888', dash='dash', width=1.5),
+            ))
+            fig_qini.add_annotation(
+                x=0.05, y=0.95, xref='paper', yref='paper',
+                text=f"AUTOC = {_autoc_norm:.3f}",
+                showarrow=False, font=dict(size=13),
+                bgcolor='rgba(255,255,255,0.85)', bordercolor='#ccc', borderwidth=1,
+                xanchor='left', yanchor='top',
+            )
+            fig_qini.update_layout(
+                title='QINI curve — targeting efficiency',
+                xaxis_title='Fraction of observations targeted (by descending CATE)',
+                yaxis_title='Cumulative benefit (ATE × fraction)',
+                template='plotly_white', height=360,
+                legend=dict(x=0.6, y=0.05),
+            )
+            st.plotly_chart(fig_qini, use_container_width=True, key='qini_plot')
+            st.caption(
+                f"**AUTOC = {_autoc_norm:.3f}** — area between QINI curve and random baseline, "
+                "normalised by overall ATE. "
+                "AUTOC > 0 means CATE ordering beats random; AUTOC = 1 would be perfect targeting."
+            )
+
     # ── CATE by year / month ─────────────────────────────────────────────────
     gran_cf = st.radio(
         "Granularity", ["Year", "Year-Month"],
