@@ -1038,10 +1038,31 @@ def _render_cf():
             ]
         _compare_df    = df_cf2 if (p.get('mode') == "Comparison" and 'df_cf2' in dir()) else None
         _compare_label = _label2 if _compare_df is not None else None
-        _show_course_card(match.iloc[0], df_ref=df_cf_all, features=res1.get('features'),
+        _mrow = match.iloc[0]
+        _show_course_card(_mrow, df_ref=df_cf_all, features=res1.get('features'),
                           compare_df=_compare_df, compare_label=_compare_label,
                           cf_model=res1.get('cf_model'), X_train=res1.get('X'),
                           key_suffix='main')
+        with st.spinner("Loading results…"):
+            _df_results_main = load_race_results(
+                _mrow.get('course', ''), _mrow.get('year', 0), _mrow.get('stage_num', None)
+            )
+        if _df_results_main is not None:
+            st.markdown(f"**Results — {_mrow.get('course_label', _mrow.get('course', ''))}**")
+            _team_only_main = st.toggle("Team only", value=False, key='results_team_only_main')
+            if _team_only_main:
+                _team_kw = [t.split('|')[0].strip().lower() for t in p.get('teams1', teams1)]
+                _df_results_main = _df_results_main[
+                    _df_results_main['Team'].str.lower().apply(
+                        lambda t: any(kw in t for kw in _team_kw)
+                    )
+                ]
+            st.dataframe(
+                _df_results_main.style.format({'UCI pts': '{:.0f}'}),
+                use_container_width=True, hide_index=False,
+            )
+        else:
+            st.caption("No result data available for this race.")
 
     # ── CATE vs Actual result (selected races only) ──────────────────────────
     _outcome_col = res1.get('outcome', 'pts_uci_equipe_stage')
