@@ -1308,9 +1308,6 @@ very different contexts → incorrect results. **Set the slider to the year he j
             on_select='rerun', selection_mode='single-row', key='tbl_missed',
         )
         rows_missed = sel_missed.get('selection', {}).get('rows', [])
-        if rows_missed:
-            _show_course_card(df_missed.iloc[rows_missed[0]], df_ref=df_cf_all, features=res1.get('features'),
-                              cf_model=res1.get('cf_model'), X_train=res1.get('X'), key_suffix='missed')
 
     with col_waste:
         st.markdown("**Wasted selections** *(selected, low CATE)*")
@@ -1320,9 +1317,14 @@ very different contexts → incorrect results. **Set the slider to the year he j
             on_select='rerun', selection_mode='single-row', key='tbl_wasted',
         )
         rows_wasted = sel_wasted.get('selection', {}).get('rows', [])
-        if rows_wasted:
-            _show_course_card(df_wasted.iloc[rows_wasted[0]], df_ref=df_cf_all, features=res1.get('features'),
-                              cf_model=res1.get('cf_model'), X_train=res1.get('X'), key_suffix='wasted')
+
+    # Course cards shown OUTSIDE columns so they use full page width
+    if rows_missed:
+        _show_course_card(df_missed.iloc[rows_missed[0]], df_ref=df_cf_all, features=res1.get('features'),
+                          cf_model=res1.get('cf_model'), X_train=res1.get('X'), key_suffix='missed')
+    if rows_wasted:
+        _show_course_card(df_wasted.iloc[rows_wasted[0]], df_ref=df_cf_all, features=res1.get('features'),
+                          cf_model=res1.get('cf_model'), X_train=res1.get('X'), key_suffix='wasted')
 
     # ── Variable importance (Causal Forest) ──────────────────────────────
     if 'cf_model' in res1:
