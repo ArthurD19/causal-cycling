@@ -113,26 +113,20 @@ def cached_roster(equipe_tuple):
     return cm.get_team_roster_by_year(list(equipe_tuple))
 
 @st.cache_data(show_spinner=False)
-def _load_stage_results_db():
+def load_race_results(course: str, year: int, stage_num):
+    """Load race results for a specific race from precomputed stage_results.parquet.
+    The full DB is loaded, filtered, then freed — only the small result is cached."""
     path = Path(cm.BASE_DIR) / 'stage_results.parquet'
     if not path.exists():
         return None
-    return pd.read_parquet(path)
-
-@st.cache_data(show_spinner=False)
-def load_race_results(course: str, year: int, stage_num):
-    """Load race results from precomputed stage_results.parquet."""
-    db = _load_stage_results_db()
-    if db is None:
-        return None
-    mask = (db['course'] == course) & (db['year'] == str(int(year)))
-    if stage_num is not None and pd.notna(stage_num):
-        mask &= (db['stage_num'] == str(int(float(stage_num))))
-    else:
-        mask &= (db['stage_num'] == '')
+    db = pd.read_parquet(path)
+    sn = '' if (stage_num is None or (isinstance(stage_num, float) and pd.isna(stage_num))) else str(int(float(stage_num)))
+    mask = (db['course'] == course) & (db['year'] == str(int(year))) & (db['stage_num'] == sn)
     df = db[mask][['Rank', 'Rider', 'Team', 'UCI pts']].copy()
+    del db  # free the full DB immediately
     if len(df) == 0:
         return None
+    df['Rank'] = pd.to_numeric(df['Rank'], errors='coerce')
     return df.sort_values('Rank').reset_index(drop=True)
 
 def fmt_rider(name: str) -> str:
