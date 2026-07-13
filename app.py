@@ -544,6 +544,23 @@ with tab_dml:
                     f"R² = {res1['dml']['r2_y']:.3f}."
                 )
 
+                # ── Prediction quality by race type ─────────────────────
+                if 'stage_cluster_label' in _df_diag.columns:
+                    st.markdown("**Prediction quality by race type**")
+                    _by_cl = []
+                    for _cl, _g in _df_diag.groupby('stage_cluster_label'):
+                        _ya = _g['_Y_actual'].values
+                        _yp = _g['_Y_pred'].values
+                        _ss_res = ((_ya - _yp) ** 2).sum()
+                        _ss_tot = ((_ya - _ya.mean()) ** 2).sum()
+                        _r2 = 1 - _ss_res / _ss_tot if _ss_tot > 0 else float('nan')
+                        _mae = float(np.abs(_ya - _yp).mean())
+                        _by_cl.append({'Race type': _cl, 'N': len(_g), 'R²': round(_r2, 3), 'MAE (log)': round(_mae, 3)})
+                    _df_cl = pd.DataFrame(_by_cl).sort_values('R²', ascending=False).reset_index(drop=True)
+                    st.dataframe(_df_cl.style.format({'R²': '{:.3f}', 'MAE (log)': '{:.3f}'}),
+                                 use_container_width=True)
+                    st.caption("R² per race type — higher = the model predicts well for this profile. MAE in log(1+pts) units.")
+
                 # ── Worst predicted stages ──────────────────────────────
                 st.markdown("**Stages with largest prediction error**")
                 _diag_cols = ['course', 'year', 'stage_cluster_label', '_Y_actual', '_Y_pred', '_resid']
