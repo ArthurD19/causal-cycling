@@ -142,6 +142,25 @@ def load_race_results(course: str, year: int, stage_num):
     return df
 
 @st.cache_data(show_spinner=False)
+def load_gc_classification(course: str, year: int):
+    """Load GC classification from gc_results.parquet (one row per rider, type='gc')."""
+    path = Path(cm.BASE_DIR) / 'gc_results.parquet'
+    if not path.exists():
+        return None
+    db = pd.read_parquet(path)
+    mask = (db['course'] == course) & (db['year'] == str(int(year)))
+    df = db[mask][['rang', 'rider', 'equipe', 'pts_uci']].copy()
+    del db
+    if len(df) == 0:
+        return None
+    df = df.sort_values('rang').reset_index(drop=True)
+    df['rider'] = df['rider'].apply(fmt_rider)
+    df.columns = ['GC Rank', 'Rider', 'Team', 'UCI pts (GC)']
+    df['Team UCI pts (GC)'] = df.groupby('Team')['UCI pts (GC)'].transform('sum')
+    return df
+
+
+@st.cache_data(show_spinner=False)
 def load_all_race_stages(course: str, year: int):
     """Load all stage + GC results for a stage race (course + year), grouped by stage_num."""
     path = Path(cm.BASE_DIR) / 'stage_results.parquet'
@@ -1101,50 +1120,57 @@ def _render_cf():
         _race_course = _mrow.get('course', '')
 
         if _race_level:
-            # ── Race-level: show all stages + GC with stage selector ──
+            # ── Race-level: stage selector + separate GC table ───────
             with st.spinner("Loading race results…"):
-                _df_all = load_all_race_stages(_race_course, _race_year)
-            if _df_all is not None:
-                st.markdown(f"**Results — {_race_label} {_race_year}**")
-                _avail = sorted(_df_all['stage_num'].unique(), key=_stage_sort_key)
-                _stage_label_map = {
-                    s: ('GC / Overall' if s in ('', 'gc', 'GC') else f'Stage {s}')
-                    for s in _avail
-                }
-                _col_sel, _col_tog = st.columns([3, 1])
-                with _col_sel:
-                    _sel_sn = st.selectbox(
-                        "Stage", options=_avail,
-                        format_func=lambda s: _stage_label_map[s],
-                        key='race_level_stage_sel',
-                    )
-                with _col_tog:
-                    _team_only_rl = st.toggle("Team only", value=False, key='results_team_only_rl')
-                _is_gc = _sel_sn in ('', 'gc', 'GC')
-                _df_sn = _df_all[_df_all['stage_num'] == _sel_sn].drop(columns=['stage_num'])
-                if _is_gc:
-                    # Aggregate by rider across all entries (stage_num='' mixes all stage results)
-                    _df_sn = (
-                        _df_sn.groupby(['Rider', 'Team'], as_index=False)['UCI pts'].sum()
-                        .sort_values('UCI pts', ascending=False)
-                        .reset_index(drop=True)
-                    )
-                    _df_sn.insert(0, 'Rank', range(1, len(_df_sn) + 1))
-                    _df_sn['Team UCI pts'] = _df_sn.groupby('Team')['UCI pts'].transform('sum')
-                    st.caption("⚠️ Aggregated UCI points across all stages — not the official GC classification.")
-                else:
-                    _df_sn['Team UCI pts'] = _df_sn.groupby('Team')['UCI pts'].transform('sum')
-                    _df_sn = _df_sn.sort_values('Rank').reset_index(drop=True)
-                if _team_only_rl:
-                    _team_kw = [t.split('|')[0].strip().lower() for t in p.get('teams1', teams1)]
-                    _df_sn = _df_sn[_df_sn['Team'].str.lower().apply(
+                _df_all   = load_all_race_stages(_race_course, _race_year)
+                _df_gc    = load_gc_classification(_race_course, _race_year)
+            st.markdown(f"**Results — {_race_label} {_race_year}**")
+            _team_kw = [t.split('|')[0].strip().lower() for t in p.get('teams1', teams1)]
+
+            # ── GC table ─────────────────────────────────────────────
+            if _df_gc is not None:
+                st.markdown("**General Classification**")
+                _team_only_gc = st.toggle("Team only", value=False, key='results_team_only_gc')
+                _df_gc_show = _df_gc.copy()
+                if _team_only_gc:
+                    _df_gc_show = _df_gc_show[_df_gc_show['Team'].str.lower().apply(
                         lambda t: any(kw in t for kw in _team_kw)
                     )]
                 st.dataframe(
-                    _df_sn.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
-                    use_container_width=True, hide_index=False,
+                    _df_gc_show.style.format({'GC Rank': '{:.0f}', 'UCI pts (GC)': '{:.0f}', 'Team UCI pts (GC)': '{:.0f}'}),
+                    use_container_width=True, hide_index=True,
                 )
+                st.caption("⚠️ Only includes riders present in the model dataset — not the complete GC classification.")
             else:
+                st.caption("No GC data available for this race.")
+
+            # ── Stage-by-stage table ──────────────────────────────────
+            if _df_all is not None:
+                _avail = sorted(_df_all['stage_num'].unique(), key=_stage_sort_key)
+                _avail_named = [s for s in _avail if s not in ('', 'gc', 'GC')]
+                if _avail_named:
+                    st.markdown("**Stage results**")
+                    _col_sel, _col_tog = st.columns([3, 1])
+                    with _col_sel:
+                        _sel_sn = st.selectbox(
+                            "Stage", options=_avail_named,
+                            format_func=lambda s: f'Stage {s}',
+                            key='race_level_stage_sel',
+                        )
+                    with _col_tog:
+                        _team_only_rl = st.toggle("Team only", value=False, key='results_team_only_rl')
+                    _df_sn = _df_all[_df_all['stage_num'] == _sel_sn].drop(columns=['stage_num'])
+                    _df_sn['Team UCI pts'] = _df_sn.groupby('Team')['UCI pts'].transform('sum')
+                    _df_sn = _df_sn.sort_values('Rank').reset_index(drop=True)
+                    if _team_only_rl:
+                        _df_sn = _df_sn[_df_sn['Team'].str.lower().apply(
+                            lambda t: any(kw in t for kw in _team_kw)
+                        )]
+                    st.dataframe(
+                        _df_sn.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
+                        use_container_width=True, hide_index=False,
+                    )
+            if _df_gc is None and _df_all is None:
                 st.caption("No result data available for this race.")
         else:
             # ── Stage-level: single stage result ─────────────────────
