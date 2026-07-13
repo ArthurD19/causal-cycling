@@ -661,7 +661,7 @@ def load_rider(rider_name: str, equipe=None, years=None) -> pd.DataFrame | None:
 
 
 # ── Feature preparation ───────────────────────────────────────────────────────
-def prepare_features(df: pd.DataFrame, features=None, outcome=OUTCOME, essential_features=None):
+def prepare_features(df: pd.DataFrame, features=None, outcome=OUTCOME, essential_features=None, **kwargs):
     if features is None:
         features = ALL_FEATURES
     df = df.copy()
@@ -671,7 +671,8 @@ def prepare_features(df: pd.DataFrame, features=None, outcome=OUTCOME, essential
     if essential_features is None:
         essential_features = [f for f in FEATURES_RACE if f in df.columns and f != 'startlist_quality']
     df_clean = df.dropna(subset=essential_features + [outcome, TREATMENT]).reset_index(drop=True)
-    if len(df_clean) < 20:
+    min_obs = kwargs.get('min_obs', 20)
+    if len(df_clean) < min_obs:
         return None
     for col in feats:
         if col in df_clean.columns and df_clean[col].isna().any():
@@ -844,7 +845,7 @@ def run_analysis_race_level(
     if df is None:
         return None
     # essential_features=[] : on n'exclut pas les lignes sans GPX, on impute par la médiane
-    prep = prepare_features(df, features=FEATURES_RACE_LEVEL, outcome=outcome, essential_features=[])
+    prep = prepare_features(df, features=FEATURES_RACE_LEVEL, outcome=outcome, essential_features=[], min_obs=8)
     if prep is None:
         return None
     X, T, Y, df_clean, feats = prep
@@ -893,7 +894,7 @@ def run_team_analysis_race_level(
         df = load_rider_race_level(rider_name, equipe=equipe, years=None, outcome=outcome)
         if df is None:
             continue
-        prep = prepare_features(df, features=FEATURES_RACE_LEVEL, outcome=outcome, essential_features=[])
+        prep = prepare_features(df, features=FEATURES_RACE_LEVEL, outcome=outcome, essential_features=[], min_obs=8)
         if prep is None:
             continue
         X, T, Y, df_clean, _ = prep
