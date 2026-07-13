@@ -136,7 +136,10 @@ def load_race_results(course: str, year: int, stage_num):
             return rider[:-len(team)].strip()
         return rider
     df['Rider'] = df.apply(_clean, axis=1)
-    return df.sort_values('Rank').reset_index(drop=True)
+    df = df.sort_values('Rank').reset_index(drop=True)
+    # Add team total UCI pts column
+    df['Team UCI pts'] = df.groupby('Team')['UCI pts'].transform('sum')
+    return df
 
 def fmt_rider(name: str) -> str:
     return unicodedata.normalize('NFC', name.replace('_', ' ')).title()
@@ -1058,7 +1061,7 @@ def _render_cf():
                     )
                 ]
             st.dataframe(
-                _df_results_main.style.format({'UCI pts': '{:.0f}'}),
+                _df_results_main.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
                 use_container_width=True, hide_index=False,
             )
         else:
@@ -1164,7 +1167,7 @@ def _render_cf():
                     else:
                         _df_show = _df_results
                     st.dataframe(
-                        _df_show.style.format({'UCI pts': '{:.0f}'}),
+                        _df_show.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
                         use_container_width=True,
                         hide_index=False,
                     )
@@ -1285,28 +1288,15 @@ very different contexts → incorrect results. **Set the slider to the year he j
     with ctrl_col1:
         top_n = st.slider("Top N races", min_value=5, max_value=30, value=10, step=5)
 
-    # Default filter = clusters from races the rider actually attends
-    # Exclude mountain clusters if rider never attends mountain-dominant courses (GT stages)
     all_clusters = sorted(df_cf_all['stage_cluster_label'].dropna().unique().tolist()) if 'stage_cluster_label' in df_cf_all.columns else []
     if all_clusters:
-        # Races where rider was ever selected
-        active_courses = set(df_cf_all[df_cf_all['selected'] == 1]['course'].unique())
-        # For each cluster in selected=0, check if these races are "known" races for the rider
-        s0 = df_cf_all[df_cf_all['selected'] == 0].copy()
-        s0['is_known_course'] = s0['course'].isin(active_courses)
-        cluster_known_frac = s0.groupby('stage_cluster_label')['is_known_course'].mean()
-        # Default: clusters where at least 30% of the non-selected races are known courses
-        default_clusters = cluster_known_frac[cluster_known_frac >= 0.30].index.tolist()
-        if not default_clusters:
-            default_clusters = all_clusters
         with ctrl_col2:
             selected_clusters = st.multiselect(
                 "Filter by race type",
                 options=all_clusters,
-                default=default_clusters,
-                help="Default: race types the rider usually does. "
-                     "Useful to exclude entire Grand Tours he never rides "
-                     "(e.g. Van Aert doesn't ride the Giro → uncheck mountain).",
+                default=all_clusters,
+                help="Uncheck a type to exclude it from both tables "
+                     "(e.g. remove mountain stages for a classics rider).",
             )
     else:
         selected_clusters = all_clusters
