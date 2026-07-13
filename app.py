@@ -1120,9 +1120,21 @@ def _render_cf():
                     )
                 with _col_tog:
                     _team_only_rl = st.toggle("Team only", value=False, key='results_team_only_rl')
+                _is_gc = _sel_sn in ('', 'gc', 'GC')
                 _df_sn = _df_all[_df_all['stage_num'] == _sel_sn].drop(columns=['stage_num'])
-                _df_sn['Team UCI pts'] = _df_sn.groupby('Team')['UCI pts'].transform('sum')
-                _df_sn = _df_sn.sort_values('Rank').reset_index(drop=True)
+                if _is_gc:
+                    # Aggregate by rider across all entries (stage_num='' mixes all stage results)
+                    _df_sn = (
+                        _df_sn.groupby(['Rider', 'Team'], as_index=False)['UCI pts'].sum()
+                        .sort_values('UCI pts', ascending=False)
+                        .reset_index(drop=True)
+                    )
+                    _df_sn.insert(0, 'Rank', range(1, len(_df_sn) + 1))
+                    _df_sn['Team UCI pts'] = _df_sn.groupby('Team')['UCI pts'].transform('sum')
+                    st.caption("⚠️ Aggregated UCI points across all stages — not the official GC classification.")
+                else:
+                    _df_sn['Team UCI pts'] = _df_sn.groupby('Team')['UCI pts'].transform('sum')
+                    _df_sn = _df_sn.sort_values('Rank').reset_index(drop=True)
                 if _team_only_rl:
                     _team_kw = [t.split('|')[0].strip().lower() for t in p.get('teams1', teams1)]
                     _df_sn = _df_sn[_df_sn['Team'].str.lower().apply(
