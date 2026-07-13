@@ -119,7 +119,7 @@ _RACE_SUM_FEATS   = [
     'cobblestones_km', 'compacted_gravel_km',
 ]
 _RACE_FIRST_FEATS = [
-    'startlist_quality', 'forme_equipe', 'n_races_30d', 'km_30d',
+    'startlist_quality', 'n_races_30d', 'km_30d',
     'leader_played', 'is_team_leader',
 ]
 FEATURES_RACE_LEVEL = _RACE_SUM_FEATS + _RACE_FIRST_FEATS
