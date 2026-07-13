@@ -858,11 +858,12 @@ def _render_cf():
                                 "but is weaker than the rider's usual — every feature is below average."
                             )
 
-                            shap_s = (
-                                pd.Series(dict(zip(features, shap_arr)))
-                                .sort_values(key=abs, ascending=False)
-                                .head(15)
-                            )
+                            shap_s = pd.Series(dict(zip(features, shap_arr)))
+                            shap_s = shap_s.sort_values(key=abs, ascending=False)
+                            # Keep features contributing ≥1% of total absolute impact
+                            _abs_total = shap_s.abs().sum()
+                            _thresh = _abs_total * 0.01 if _abs_total > 0 else 0
+                            shap_s = shap_s[shap_s.abs() >= _thresh].head(20)
                             names  = [labels.get(f, f) for f in shap_s.index]
                             colors = ['#2d7a3a' if v > 0 else '#c0392b' for v in shap_s.values]
 
