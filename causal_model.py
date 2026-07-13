@@ -2,6 +2,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 import re
+import unicodedata
 import numpy as np
 import pandas as pd
 from pathlib import Path
@@ -15,6 +16,11 @@ from econml.dml import CausalForestDML
 BASE_DIR     = Path(__file__).parent
 RIDER_DIR    = BASE_DIR / 'rider_data'
 GC_DIR       = BASE_DIR / 'riders_gc'
+
+
+def _nfc(name: str) -> str:
+    """NFC-normalize a rider name (macOS HFS+ returns NFD, Python literals are NFC)."""
+    return unicodedata.normalize('NFC', name)
 
 # Lookup (course, year) → startlist_quality pour calculer N-1
 _sq_lookup_path  = BASE_DIR / 'race_data' / 'startlist_quality_lookup.csv'
@@ -181,7 +187,7 @@ def _build_riders_index():
             df = pd.read_csv(f, usecols=['year', 'equipe', TREATMENT], low_memory=False)
             for (equipe, year), grp in df.groupby(['equipe', 'year']):
                 rows.append({
-                    'rider':    f.stem,
+                    'rider':    _nfc(f.stem),
                     'equipe':   equipe,
                     'year':     int(year),
                     'n_sel':    int((grp[TREATMENT] == 1).sum()),
@@ -578,7 +584,7 @@ def _remap_national_teams(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def load_rider(rider_name: str, equipe=None, years=None) -> pd.DataFrame | None:
-    path = RIDER_DIR / f'{rider_name}.csv'
+    path = RIDER_DIR / f'{_nfc(rider_name)}.csv'
     if not path.exists():
         return None
     df = pd.read_csv(path, low_memory=False)
@@ -794,7 +800,7 @@ def load_rider_race_level(
     rider_name: str, equipe=None, years=None, outcome: str = 'pts_uci_equipe_gc',
 ) -> pd.DataFrame | None:
     """Charge riders_gc/{rider}.csv (une ligne par course) et joint les features GPX agrégées."""
-    gc_path = GC_DIR / f'{rider_name}.csv'
+    gc_path = GC_DIR / f'{_nfc(rider_name)}.csv'
     if not gc_path.exists():
         return None
     gc = pd.read_csv(gc_path, low_memory=False)
