@@ -1216,6 +1216,26 @@ def _render_cf():
                     use_container_width=True,
                 )
 
+            # ── Prediction quality by race type ─────────────────────────
+            if 'stage_cluster_label' in _df_sel_only.columns:
+                st.markdown("**Prediction quality by race type** *(CATE vs actual result)*")
+                _q_rows = []
+                for _cl, _g in _df_sel_only.dropna(subset=['cate', _outcome_col, 'stage_cluster_label']).groupby('stage_cluster_label'):
+                    _corr = _g[['cate', _outcome_col]].corr().iloc[0, 1] if len(_g) > 2 else float('nan')
+                    _q_rows.append({
+                        'Race type': _cl,
+                        'N': len(_g),
+                        'Mean CATE': round(float(_g['cate'].mean()), 3),
+                        'Mean actual pts': round(float(_g[_outcome_col].mean()), 1),
+                        'Correlation': round(float(_corr), 3),
+                    })
+                _df_q = pd.DataFrame(_q_rows).sort_values('Correlation', ascending=False).reset_index(drop=True)
+                st.dataframe(
+                    _df_q.style.format({'Mean CATE': '{:.3f}', 'Mean actual pts': '{:.1f}', 'Correlation': '{:.3f}'}),
+                    use_container_width=True,
+                )
+                st.caption("Correlation between predicted CATE and actual team pts — higher = CATE ranking aligns better with real results for this race type.")
+
     # ── CATE by year / month ─────────────────────────────────────────────────
     gran_cf = st.radio(
         "Granularity", ["Year", "Year-Month"],
