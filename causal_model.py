@@ -369,8 +369,11 @@ def _score_name(course_norm: str, name_norm: str, stage_str: str) -> int:
                 break
         if best:
             break
+    # Prefix bonus: GPX name starts with the exact course slug → almost certain match
+    # (e.g. "rondevanvlaanderentourdesflandres" starts with "rondevanvlaanderen")
+    if name_norm.startswith(course_norm):
+        best += 6
     # Stage bonus only when base name similarity is already meaningful (≥5 chars)
-    # Prevents "Tour de France Stage 7" from beating "Tour Auvergne" just by stage number
     if stage_str and stage_str in name_norm and best >= 5:
         best += 5
     # Penalise women/junior/espoirs races when not explicitly requested
