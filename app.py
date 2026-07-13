@@ -127,6 +127,15 @@ def load_race_results(course: str, year: int, stage_num):
     if len(df) == 0:
         return None
     df['Rank'] = pd.to_numeric(df['Rank'], errors='coerce')
+    # PCS data appends team name to rider name — strip it
+    def _clean(row):
+        rider, team = str(row['Rider']).strip(), str(row['Team']).strip()
+        if rider.endswith(' ' + team):
+            return rider[:-len(team) - 1].strip()
+        if rider.endswith(team):
+            return rider[:-len(team)].strip()
+        return rider
+    df['Rider'] = df.apply(_clean, axis=1)
     return df.sort_values('Rank').reset_index(drop=True)
 
 def fmt_rider(name: str) -> str:
