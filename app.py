@@ -1261,9 +1261,14 @@ def _render_cf():
             # ── Second scatter: CATE vs Y_resid (race-baseline removed) ──
             if 'Y_resid' in _df_sel_only.columns:
                 st.markdown("**CATE vs residual outcome** — race baseline removed")
-                st.caption(
-                    "Y-axis: Ỹ = log(1+pts) − ĝ(X), the team's performance relative "
-                    "to what the model expects for this race context (scale-independent)."
+                st.info(
+                    "**Y-axis — how to read it:** "
+                    "Ỹᵢ = log(1 + actual\_pts) − ĝ(Xᵢ), where ĝ(Xᵢ) is the model's "
+                    "baseline prediction for this race context (profile, startlist quality, classification…). "
+                    "A positive value means the team scored *more* than expected; negative means *less*. "
+                    "Unlike raw UCI points, this is comparable across all race types — a WT stage "
+                    "and a 1.Pro race are on the same scale after the baseline is removed.",
+                    icon="ℹ️",
                 )
                 fig_resid = go.Figure()
                 for _cl in _groups.unique():
@@ -1276,7 +1281,7 @@ def _render_cf():
                         mode='markers',
                         name=str(_cl),
                         text=_hover,
-                        hovertemplate='<b>%{text}</b><br>CATE: %{x:+.3f}<br>Ỹ residual: %{y:+.3f}<extra></extra>',
+                        hovertemplate='<b>%{text}</b><br>CATE: %{x:+.3f}<br>Ỹ (residual): %{y:+.3f}<extra></extra>',
                         marker=dict(size=6, opacity=0.65, color=_cluster_colors.get(_cl, '#2271B3')),
                     ))
                 fig_resid.add_vline(x=0, line_dash='dash', line_color='red', opacity=0.4)
@@ -1291,12 +1296,56 @@ def _render_cf():
                     xanchor='left', yanchor='top',
                 )
                 fig_resid.update_layout(
-                    xaxis_title='CATE (predicted marginal contribution)',
-                    yaxis_title='Ỹ = residual outcome (log scale, baseline removed)',
+                    xaxis_title='CATE (predicted marginal contribution, log scale)',
+                    yaxis_title='Ỹ = actual − expected (log scale)',
                     template='plotly_white',
                     height=420,
                 )
-                st.plotly_chart(fig_resid, use_container_width=True, key='val_scatter_resid')
+                _resid_sel = st.plotly_chart(
+                    fig_resid, use_container_width=True,
+                    on_select='rerun', key='val_scatter_resid',
+                )
+                st.caption("Click a point to see the race profile and team results.")
+
+                # ── Click handler for residual scatter ───────────────────
+                _resid_pts = (_resid_sel.get('selection', {}).get('points') or [])
+                if _resid_pts:
+                    _rpt = _resid_pts[0]
+                    _rmatch = _df_sel_only[
+                        (_df_sel_only['cate'].round(3) == round(_rpt.get('x', 0), 3))
+                        & (_df_sel_only['Y_resid'].round(3) == round(_rpt.get('y', 0), 3))
+                    ]
+                    if len(_rmatch) == 0:
+                        _rmatch = _df_sel_only.iloc[
+                            [(_df_sel_only['cate'] - _rpt.get('x', 0)).abs()
+                             .add((_df_sel_only['Y_resid'] - _rpt.get('y', 0)).abs())
+                             .argmin()]
+                        ]
+                    _rrow = _rmatch.iloc[0]
+                    _show_course_card(
+                        _rrow, df_ref=df_cf_all, features=res1.get('features'),
+                        cf_model=res1.get('cf_model'), X_train=res1.get('X'),
+                        key_suffix='resid',
+                    )
+                    _rcourse = _rrow.get('course', '')
+                    _ryear   = _rrow.get('year', 0)
+                    _rstage  = _rrow.get('stage_num', None)
+                    with st.spinner("Loading results…"):
+                        _df_results_r = load_race_results(_rcourse, _ryear, _rstage)
+                    if _df_results_r is not None and len(_df_results_r) > 0:
+                        st.markdown(f"**Results — {_rrow.get('course_label', _rcourse)}**")
+                        _team_only_r = st.toggle("Team only", value=False, key='results_team_only_resid')
+                        if _team_only_r:
+                            _team_kw_r = [t.split('|')[0].strip().lower() for t in p.get('teams1', teams1)]
+                            _df_results_r = _df_results_r[
+                                _df_results_r['Team'].str.lower().apply(
+                                    lambda t: any(kw in t for kw in _team_kw_r)
+                                )
+                            ]
+                        st.dataframe(
+                            _df_results_r.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
+                            use_container_width=True, hide_index=False,
+                        )
 
             # ── Click → course card + team results ──────────────────────
             _val_pts = (_val_sel.get('selection', {}).get('points') or [])
