@@ -1864,6 +1864,102 @@ with tab_rank:
                     use_container_width=True, hide_index=True,
                 )
 
+    # ── Team UCI Points Ranking ───────────────────────────────────────────────
+    st.divider()
+    st.subheader("Team UCI Points Ranking")
+    st.caption("Total UCI points accumulated by team, filterable by race classification and year range.")
+
+    @st.cache_data(show_spinner=False)
+    def _load_team_pts_all():
+        path = Path(cm.BASE_DIR) / 'team_stage_points.csv'
+        if not path.exists():
+            return None
+        df = pd.read_csv(path, low_memory=False)
+        df['pts_uci'] = pd.to_numeric(df['pts_uci'], errors='coerce').fillna(0)
+        df['year']    = pd.to_numeric(df['year'], errors='coerce')
+        return df
+
+    _CLASS_GROUPS = {
+        'WorldTour (UWT)': ['1.UWT', '2.UWT'],
+        'Pro Series':       ['1.Pro', '2.Pro'],
+        'HC races':         ['1.HC', '2.HC'],
+        'National Champs':  ['NC'],
+        'World Champs':     ['WC'],
+        'Cat 1':            ['1.1', '1.2', '1.2U', '1.Ncup'],
+        'Cat 2':            ['2.1', '2.2', '2.2U', '2.Ncup', 'CC'],
+    }
+
+    df_tpts = _load_team_pts_all()
+    if df_tpts is None:
+        st.info("No team points data available (team_stage_points.csv not found).")
+    else:
+        tc1, tc2, tc3 = st.columns([2, 2, 1])
+        with tc1:
+            class_options = ['All'] + list(_CLASS_GROUPS.keys()) + ['Custom']
+            sel_class = st.selectbox("Race classification", class_options, key='rank_class')
+        with tc2:
+            all_years = sorted(df_tpts['year'].dropna().unique().astype(int))
+            yr_range = st.select_slider(
+                "Year range", options=all_years,
+                value=(min(all_years), max(all_years)), key='rank_yr_team'
+            )
+        with tc3:
+            top_n_team = st.slider("Top N teams", 10, 50, 20, 5, key='rank_topn_team')
+
+        if sel_class == 'Custom':
+            all_classes = sorted(df_tpts['classification'].dropna().unique())
+            custom_classes = st.multiselect("Select classifications", all_classes, default=['1.UWT'], key='rank_custom_class')
+            class_filter = custom_classes
+        elif sel_class == 'All':
+            class_filter = None
+        else:
+            class_filter = _CLASS_GROUPS[sel_class]
+
+        df_tpts_f = df_tpts[df_tpts['year'].between(yr_range[0], yr_range[1])]
+        if class_filter:
+            df_tpts_f = df_tpts_f[df_tpts_f['classification'].isin(class_filter)]
+
+        df_team_rank = (
+            df_tpts_f.groupby('Team', as_index=False)['pts_uci']
+            .sum()
+            .sort_values('pts_uci', ascending=False)
+            .head(top_n_team)
+            .reset_index(drop=True)
+        )
+        df_team_rank.index += 1
+
+        if len(df_team_rank) == 0:
+            st.warning("No data for the selected filters.")
+        else:
+            df_plot_t = df_team_rank.sort_values('pts_uci', ascending=True)
+            fig_team = go.Figure(go.Bar(
+                x=df_plot_t['pts_uci'],
+                y=df_plot_t['Team'],
+                orientation='h',
+                marker_color='#2271B3',
+                hovertemplate='<b>%{y}</b><br>%{x:,.0f} UCI pts<extra></extra>',
+            ))
+            class_label = sel_class if sel_class != 'Custom' else ', '.join(class_filter or [])
+            fig_team.update_layout(
+                title=dict(
+                    text=f"Top {len(df_plot_t)} teams by UCI points — {class_label} ({yr_range[0]}–{yr_range[1]})",
+                    x=0, xanchor='left', font=dict(size=14),
+                ),
+                xaxis_title="Total UCI pts",
+                template='plotly_white',
+                height=max(400, len(df_plot_t) * 22),
+                margin=dict(l=200, t=60, b=50, r=20),
+            )
+            st.plotly_chart(fig_team, use_container_width=True)
+
+            with st.expander("Full table", expanded=False):
+                df_team_rank.insert(0, 'Rank', range(1, len(df_team_rank) + 1))
+                st.dataframe(
+                    df_team_rank.rename(columns={'pts_uci': 'UCI pts'})
+                    .style.format({'UCI pts': '{:,.0f}'}),
+                    use_container_width=True, hide_index=True,
+                )
+
 # ════════════════════════════════════════════════════════════════════════════════
 # TAB 0 — DESCRIPTIVE STATS (model-independent)
 # ════════════════════════════════════════════════════════════════════════════════
