@@ -1034,6 +1034,11 @@ def _render_cf():
         return fig
 
     df_cf_all = enrich_cf_cols(res1['df_clean'].copy())  # all races, for missed opportunities
+    # Attach DML residuals (aligned row-for-row with df_clean)
+    _dml_res = res1.get('dml') or {}
+    if 'Y_resid' in _dml_res and len(_dml_res['Y_resid']) == len(df_cf_all):
+        df_cf_all['Y_resid'] = np.array(_dml_res['Y_resid'])
+        df_cf_all['T_resid'] = np.array(_dml_res['T_resid'])
     # % impact: CATE as % of max pts ever scored by the team at that specific course
     course_max = df_cf_all.groupby('course')['pts_uci_equipe_stage'].max().rename('pts_course_max')
     df_cf_all = df_cf_all.join(course_max, on='course')
@@ -1251,9 +1256,47 @@ def _render_cf():
                 fig_val, use_container_width=True,
                 on_select='rerun', key='val_scatter',
             )
-            st.caption(
-                "Click a point to see the race profile and team results."
-            )
+            st.caption("Click a point to see the race profile and team results.")
+
+            # ── Second scatter: CATE vs Y_resid (race-baseline removed) ──
+            if 'Y_resid' in _df_sel_only.columns:
+                st.markdown("**CATE vs residual outcome** — race baseline removed")
+                st.caption(
+                    "Y-axis: Ỹ = log(1+pts) − ĝ(X), the team's performance relative "
+                    "to what the model expects for this race context (scale-independent)."
+                )
+                fig_resid = go.Figure()
+                for _cl in _groups.unique():
+                    _mask = (_groups == _cl).values
+                    _sub  = _df_sel_only[_mask]
+                    _hover = _sub['course_label'] if 'course_label' in _sub.columns else _sub['course']
+                    fig_resid.add_trace(go.Scatter(
+                        x=_sub['cate'],
+                        y=_sub['Y_resid'],
+                        mode='markers',
+                        name=str(_cl),
+                        text=_hover,
+                        hovertemplate='<b>%{text}</b><br>CATE: %{x:+.3f}<br>Ỹ residual: %{y:+.3f}<extra></extra>',
+                        marker=dict(size=6, opacity=0.65, color=_cluster_colors.get(_cl, '#2271B3')),
+                    ))
+                fig_resid.add_vline(x=0, line_dash='dash', line_color='red', opacity=0.4)
+                fig_resid.add_hline(y=0, line_dash='dash', line_color='gray', opacity=0.3)
+                _corr_r = _df_sel_only[['cate', 'Y_resid']].dropna().corr().iloc[0, 1]
+                fig_resid.add_annotation(
+                    x=0.02, y=0.98, xref='paper', yref='paper',
+                    text=f"Pearson r = {_corr_r:.3f}",
+                    showarrow=False, font=dict(size=13),
+                    bgcolor='rgba(255,255,255,0.85)',
+                    bordercolor='#ccc', borderwidth=1,
+                    xanchor='left', yanchor='top',
+                )
+                fig_resid.update_layout(
+                    xaxis_title='CATE (predicted marginal contribution)',
+                    yaxis_title='Ỹ = residual outcome (log scale, baseline removed)',
+                    template='plotly_white',
+                    height=420,
+                )
+                st.plotly_chart(fig_resid, use_container_width=True, key='val_scatter_resid')
 
             # ── Click → course card + team results ──────────────────────
             _val_pts = (_val_sel.get('selection', {}).get('points') or [])
