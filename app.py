@@ -126,6 +126,7 @@ def load_race_results(course: str, year: int, stage_num):
     del db  # free the full DB immediately
     if len(df) == 0:
         return None
+    df = df.drop_duplicates(subset=['Rank', 'Rider', 'Team'])
     df['Rank'] = pd.to_numeric(df['Rank'], errors='coerce')
     # PCS data appends team name to rider name — strip it
     def _clean(row):
