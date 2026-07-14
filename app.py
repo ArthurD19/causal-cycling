@@ -287,7 +287,7 @@ with st.sidebar:
     _outcomes = cm.AVAILABLE_OUTCOMES_RACE if _race_level else cm.AVAILABLE_OUTCOMES
     _outcome_labels = {
         'pts_uci_equipe_stage': 'Team pts (stage)',
-        'pts_uci_pct_max':      'Team pts (% of course record)',
+        'pts_uci_pct_max':      "Team pts (% of winner's pts)",
         'pts_uci':              "Rider's own pts",
         'pts_uci_teammates':    'Teammates pts (team − rider)',
         'pts_uci_equipe_gc':    'Team pts GC',
@@ -2337,8 +2337,8 @@ def _render_stats():
             cols[4].metric("Team UCI pts (when selected)", f"{total_pts_team_sel:.0f}",
                            help="Total team UCI points in races where this rider was selected")
         if pct_mean is not None:
-            cols[5].metric("Avg % max pts", f"{pct_mean:.1f}%",
-                           help="Average of pts_uci_equipe_stage / max possible for that race")
+            cols[5].metric("Avg % of winner's pts", f"{pct_mean:.1f}%",
+                           help="Average of team UCI pts / winner's individual pts for each race")
 
         # ── Granularity selector (shared by breakdown table + charts) ───────────
         st.subheader("Year-by-year evolution")
@@ -2433,14 +2433,14 @@ def _render_stats():
                 name='% max pts',
             ))
             fig_pct.update_layout(
-                yaxis_title='% of max possible per race',
+                yaxis_title="% of winner's pts per race",
                 xaxis_title=x_label, template='plotly_white', height=300,
                 showlegend=False,
             )
             st.plotly_chart(fig_pct, use_container_width=True)
             st.caption(
-                "For each selected race, `pts_uci_equipe_stage / max_pts_course × 100`. "
-                "A value of 100% = the team's best historical performance on that race."
+                "For each selected race: team UCI pts ÷ winner's individual UCI pts × 100. "
+                "A value of 100% means the team collected as many points as the stage/race winner individually."
             )
 
         # ── Selection rate ───────────────────────────────────────
@@ -2476,7 +2476,7 @@ def _render_stats():
 
         # ── pts_uci_pct_max distribution by race type ──────────────────
         if 'pts_uci_pct_max' in df_sel.columns and 'stage_cluster_label' in df_sel.columns:
-            st.subheader("% max pts — distribution by race type")
+            st.subheader("% of winner's pts — distribution by race type")
             pct_by_cluster = df_sel.groupby('stage_cluster_label').agg(
                 mean=('pts_uci_pct_max', 'mean'),
                 median=('pts_uci_pct_max', 'median'),
