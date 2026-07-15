@@ -112,6 +112,26 @@ def cached_gc_pts(rider, equipe_tuple, years):
 def cached_roster(equipe_tuple):
     return cm.get_team_roster_by_year(list(equipe_tuple))
 
+def _race_equipe_kw(race_row) -> str:
+    """Return a short keyword for the rider's team at a specific race (from equipe field)."""
+    eq = str(race_row.get('equipe', '')).lower()
+    # Take the first meaningful token (e.g. 'jumbo' from 'jumbo-visma', 'cofidis' from 'cofidis, solutions')
+    token = eq.replace('-', ' ').replace(',', ' ').split()[0] if eq.strip() else ''
+    return token
+
+
+def _inject_team_uci_pts(df_res: pd.DataFrame, race_row) -> pd.DataFrame:
+    """Replace Team UCI pts (which are PCS pts in the parquet) with the correct UCI team pts
+    from pts_uci_equipe_stage for the analyzed rider's team. Other teams keep their parquet sum."""
+    correct_pts = race_row.get('pts_uci_equipe_stage', None)
+    kw = _race_equipe_kw(race_row)
+    if correct_pts is not None and kw:
+        mask = df_res['Team'].str.lower().str.contains(kw, regex=False)
+        df_res = df_res.copy()
+        df_res.loc[mask, 'Team UCI pts'] = correct_pts
+    return df_res
+
+
 @st.cache_data(show_spinner=False)
 def load_race_results(course: str, year: int, stage_num):
     """Load race results for a specific race from precomputed stage_results.parquet.
@@ -1169,9 +1189,10 @@ def _render_cf():
                     _df_sn['Team UCI pts'] = _df_sn.groupby('Team')['UCI pts'].transform('sum')
                     _df_sn = _df_sn.sort_values('Rank').reset_index(drop=True)
                     if _team_only_rl:
-                        _df_sn = _df_sn[_df_sn['Team'].str.lower().apply(
-                            lambda t: any(kw in t for kw in _team_kw)
-                        )]
+                        _eq_kw_rl = _race_equipe_kw(_mrow)
+                        _df_sn = _df_sn[
+                            _df_sn['Team'].str.lower().str.contains(_eq_kw_rl, regex=False)
+                        ]
                     st.dataframe(
                         _df_sn.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
                         use_container_width=True, hide_index=False,
@@ -1186,13 +1207,12 @@ def _render_cf():
                 )
             if _df_results_main is not None:
                 st.markdown(f"**Results — {_race_label}**")
+                _df_results_main = _inject_team_uci_pts(_df_results_main, _mrow)
                 _team_only_main = st.toggle("Team only", value=False, key='results_team_only_main')
                 if _team_only_main:
-                    _team_kw = [t.split('|')[0].strip().lower() for t in p.get('teams1', teams1)]
+                    _eq_kw_main = _race_equipe_kw(_mrow)
                     _df_results_main = _df_results_main[
-                        _df_results_main['Team'].str.lower().apply(
-                            lambda t: any(kw in t for kw in _team_kw)
-                        )
+                        _df_results_main['Team'].str.lower().str.contains(_eq_kw_main, regex=False)
                     ]
                 st.dataframe(
                     _df_results_main.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
@@ -1335,13 +1355,12 @@ def _render_cf():
                         _df_results_r = load_race_results(_rcourse, _ryear, _rstage)
                     if _df_results_r is not None and len(_df_results_r) > 0:
                         st.markdown(f"**Results — {_rrow.get('course_label', _rcourse)}**")
+                        _df_results_r = _inject_team_uci_pts(_df_results_r, _rrow)
                         _team_only_r = st.toggle("Team only", value=False, key='results_team_only_resid')
                         if _team_only_r:
-                            _team_kw_r = [t.split('|')[0].strip().lower() for t in p.get('teams1', teams1)]
+                            _eq_kw_r = _race_equipe_kw(_rrow)
                             _df_results_r = _df_results_r[
-                                _df_results_r['Team'].str.lower().apply(
-                                    lambda t: any(kw in t for kw in _team_kw_r)
-                                )
+                                _df_results_r['Team'].str.lower().str.contains(_eq_kw_r, regex=False)
                             ]
                         st.dataframe(
                             _df_results_r.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
@@ -1375,16 +1394,15 @@ def _render_cf():
                     _df_results = load_race_results(_vcourse, _vyear, _vstage)
                 if _df_results is not None and len(_df_results) > 0:
                     st.markdown(f"**Results — {_vrow.get('course_label', _vcourse)}**")
+                    _df_results = _inject_team_uci_pts(_df_results, _vrow)
                     _team_only = st.toggle(
                         "Team only", value=False, key='results_team_only',
                     )
                     if _team_only:
-                        _team_kw = [t.split('|')[0].strip().lower()
-                                    for t in p.get('teams1', teams1)]
-                        _mask_team = _df_results['Team'].str.lower().apply(
-                            lambda t: any(kw in t for kw in _team_kw)
-                        )
-                        _df_show = _df_results[_mask_team]
+                        _eq_kw_v = _race_equipe_kw(_vrow)
+                        _df_show = _df_results[
+                            _df_results['Team'].str.lower().str.contains(_eq_kw_v, regex=False)
+                        ]
                     else:
                         _df_show = _df_results
                     st.dataframe(
