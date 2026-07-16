@@ -1806,26 +1806,47 @@ very different contexts → incorrect results. **Set the slider to the year he j
             if len(_df_q) >= 8:
                 try:
                     _df_q = _df_q.copy()
-                    _df_q['_q'] = pd.qcut(_df_q[sel_feat], q=4, duplicates='drop')
-                    _q_stats = (
-                        _df_q.groupby('_q', observed=True)['cate']
-                        .agg(mean='mean', std='std', n='count')
-                        .reset_index()
-                    )
-                    _q_stats['sem95'] = 1.96 * _q_stats['std'] / _q_stats['n'].pow(0.5)
                     _feat_lbl = _feat_labels.get(sel_feat, sel_feat)
-                    def _fmt_bound(v):
-                        av = abs(v)
-                        if av >= 1e9:  return f'{v/1e9:.1f}B'
-                        if av >= 1e6:  return f'{v/1e6:.1f}M'
-                        if av >= 1e3:  return f'{v/1e3:.1f}k'
-                        if av >= 100:  return f'{v:.0f}'
-                        if av >= 1:    return f'{v:.1f}'
-                        return f'{v:.2f}'
-                    _q_labels = [
-                        f"Q{i+1}: [{_fmt_bound(iv.left)} – {_fmt_bound(iv.right)}]"
-                        for i, iv in enumerate(_q_stats['_q'])
-                    ]
+                    _n_unique = _df_q[sel_feat].nunique()
+                    _is_binary = _n_unique <= 5
+
+                    if _is_binary:
+                        # Binary / low-cardinality: group by actual values
+                        _binary_labels = {1.0: 'Yes', 0.0: 'No', 1: 'Yes', 0: 'No'}
+                        _df_q['_q'] = _df_q[sel_feat].map(
+                            lambda v: _binary_labels.get(v, str(v))
+                        )
+                        _q_stats = (
+                            _df_q.groupby('_q', observed=True)['cate']
+                            .agg(mean='mean', std='std', n='count')
+                            .reset_index()
+                        )
+                        _q_stats['sem95'] = 1.96 * _q_stats['std'] / _q_stats['n'].pow(0.5)
+                        _q_labels = _q_stats['_q'].tolist()
+                        _chart_title = f'Average CATE by {_feat_lbl}'
+                    else:
+                        # Continuous: quartile binning
+                        _df_q['_q'] = pd.qcut(_df_q[sel_feat], q=4, duplicates='drop')
+                        _q_stats = (
+                            _df_q.groupby('_q', observed=True)['cate']
+                            .agg(mean='mean', std='std', n='count')
+                            .reset_index()
+                        )
+                        _q_stats['sem95'] = 1.96 * _q_stats['std'] / _q_stats['n'].pow(0.5)
+                        def _fmt_bound(v):
+                            av = abs(v)
+                            if av >= 1e9:  return f'{v/1e9:.1f}B'
+                            if av >= 1e6:  return f'{v/1e6:.1f}M'
+                            if av >= 1e3:  return f'{v/1e3:.1f}k'
+                            if av >= 100:  return f'{v:.0f}'
+                            if av >= 1:    return f'{v:.1f}'
+                            return f'{v:.2f}'
+                        _q_labels = [
+                            f"Q{i+1}: [{_fmt_bound(iv.left)} – {_fmt_bound(iv.right)}]"
+                            for i, iv in enumerate(_q_stats['_q'])
+                        ]
+                        _chart_title = f'Average CATE by {_feat_lbl} quartile'
+
                     fig_q = go.Figure(go.Bar(
                         x=_q_labels,
                         y=_q_stats['mean'].round(3),
@@ -1840,7 +1861,7 @@ very different contexts → incorrect results. **Set the slider to the year he j
                     ))
                     fig_q.add_hline(y=0, line_color='#888', line_width=1)
                     fig_q.update_layout(
-                        title=f'Average CATE by {_feat_lbl} quartile',
+                        title=_chart_title,
                         yaxis_title='Average CATE (UCI pts)',
                         xaxis_title=_feat_lbl,
                         template='plotly_white',
