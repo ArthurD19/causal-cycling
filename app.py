@@ -1166,15 +1166,28 @@ def _render_cf():
     if selected_point:
         pt = selected_point[0]
         pt_x, pt_y = pt.get('x'), pt.get('y')
-        match = df_cf_all[
-            (df_cf_all[x_col].round(3) == round(pt_x, 3))
-            & (df_cf_all['cate'].round(3) == round(pt_y, 3))
-        ]
-        if len(match) == 0:
-            match = df_cf_all.iloc[
-                [(df_cf_all[x_col] - pt_x).abs().add(
-                 (df_cf_all['cate'] - pt_y).abs()).argmin()]
+        _cate_mask = df_cf_all['cate'].round(3) == round(float(pt_y), 3)
+        try:
+            # Numeric x (continuous variables)
+            match = df_cf_all[
+                (df_cf_all[x_col].round(3) == round(float(pt_x), 3)) & _cate_mask
             ]
+            if len(match) == 0:
+                match = df_cf_all.iloc[
+                    [(df_cf_all[x_col].astype(float) - float(pt_x)).abs().add(
+                     (df_cf_all['cate'] - float(pt_y)).abs()).argmin()]
+                ]
+        except (TypeError, ValueError):
+            # Categorical/string x (year as string, stage_cluster_label, leader…)
+            match = df_cf_all[
+                (df_cf_all[x_col].astype(str) == str(pt_x)) & _cate_mask
+            ]
+            if len(match) == 0:
+                match = df_cf_all[df_cf_all[x_col].astype(str) == str(pt_x)]
+            if len(match) == 0:
+                match = df_cf_all.iloc[
+                    [(df_cf_all['cate'] - float(pt_y)).abs().argmin()]
+                ]
         _compare_df    = df_cf2 if (p.get('mode') == "Comparison" and 'df_cf2' in dir()) else None
         _compare_label = _label2 if _compare_df is not None else None
         _mrow = match.iloc[0]
