@@ -1060,7 +1060,10 @@ def _render_cf():
                         hoverinfo='skip',
                     ))
             if _violin_traces:
-                fig.data = tuple(_violin_traces) + fig.data
+                # Build a new figure with violins first, then scatter traces on top
+                _scatter_traces = list(fig.data)
+                _layout = fig.layout
+                fig = go.Figure(data=_violin_traces + _scatter_traces, layout=_layout)
 
         fig.add_hline(y=0, line_dash='dash', line_color='red', opacity=0.4)
         # Mark shared races (diamond) without going through the legend system
