@@ -1001,6 +1001,17 @@ def _render_cf():
         _BINARY_LABELS = {'selected': {0: 'Not selected', 1: 'Selected'}}
         if color_col in _BINARY_LABELS:
             df[color_col] = df[color_col].map(_BINARY_LABELS[color_col]).fillna('?')
+
+        # Detect discrete/categorical x → add violin background
+        _x_series = df[x_col].dropna() if x_col in df.columns else pd.Series(dtype=float)
+        _is_discrete = (
+            not pd.api.types.is_float_dtype(_x_series)
+            or _x_series.nunique() <= 12
+        )
+        # For numeric discrete (e.g. year), convert to string so violin + scatter share the same axis
+        if _is_discrete and pd.api.types.is_numeric_dtype(_x_series):
+            df[x_col] = df[x_col].astype(int).astype(str)
+
         hover_extra = {k: True for k in ['n_cols_hc', 'startlist_quality', 'leader_name']
                        if k in df.columns}
         hover_extra['cate'] = ':.3f'
@@ -1010,9 +1021,11 @@ def _render_cf():
             hover_extra['team_pct_winner'] = ':.1f'
         if 'pts_uci_equipe_stage' in df.columns:
             hover_extra['pts_uci_equipe_stage'] = ':.0f'
-        if x_col in df.columns:
+        if x_col in df.columns and not _is_discrete:
             hover_extra[x_col] = ':.1f'
         hover_extra[color_col] = False
+
+        _trendline = None if _is_discrete else trendline
         fig = px.scatter(
             df, x=x_col, y='cate',
             color=color_col,
@@ -1022,10 +1035,33 @@ def _render_cf():
             labels={x_col: x_col, 'cate': 'CATE (estimated UCI pts)'},
             title=f"{label} — CATE × {x_col}",
             template='plotly_white',
-            trendline=trendline,
+            trendline=_trendline,
             trendline_scope='overall',
             trendline_color_override='#222',
         )
+
+        # Insert violin traces behind the scatter for discrete x
+        if _is_discrete and x_col in df.columns:
+            _cats = sorted(df[x_col].dropna().unique(), key=str)
+            _violin_traces = []
+            for _cat in _cats:
+                _vals = df[df[x_col] == _cat]['cate'].dropna()
+                if len(_vals) >= 3:
+                    _violin_traces.append(go.Violin(
+                        x=[str(_cat)] * len(_vals),
+                        y=_vals,
+                        name=str(_cat),
+                        showlegend=False,
+                        fillcolor='rgba(150,150,150,0.15)',
+                        line_color='rgba(120,120,120,0.4)',
+                        box_visible=True,
+                        meanline_visible=True,
+                        points=False,
+                        hoverinfo='skip',
+                    ))
+            if _violin_traces:
+                fig.data = tuple(_violin_traces) + fig.data
+
         fig.add_hline(y=0, line_dash='dash', line_color='red', opacity=0.4)
         # Mark shared races (diamond) without going through the legend system
         if symbol_col and symbol_col in df.columns:
@@ -1041,7 +1077,7 @@ def _render_cf():
                 ))
         fig.update_traces(selector=dict(mode='markers', showlegend=True),
                           marker=dict(size=7, opacity=0.75))
-        if trendline == 'ols':
+        if trendline == 'ols' and not _is_discrete:
             try:
                 r2 = px.get_trendline_results(fig).iloc[0]['px_fit_results'].rsquared
                 fig.add_annotation(
