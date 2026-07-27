@@ -2136,7 +2136,62 @@ def cached_leader_per_cluster(equipe_tuple, years):
         return None
 
     all_pts = pd.concat(rows, ignore_index=True)
-    # Keep the best per (year, cluster)
+    idx     = all_pts.groupby(['year', 'stage_cluster_label'])['pts_uci'].idxmax()
+    leaders = all_pts.loc[idx].copy()
+    leaders['label'] = (
+        leaders['rider']
+        + ' ('
+        + leaders['pts_uci'].round(0).astype(int).astype(str)
+        + ')'
+    )
+    pivot = (
+        leaders
+        .pivot(index='year', columns='stage_cluster_label', values='label')
+        .reindex(columns=[c for c in _CLUSTER_ORDER if c in leaders['stage_cluster_label'].unique()])
+        .sort_index()
+    )
+    return pivot
+
+
+@st.cache_data(show_spinner=False)
+def cached_leader_per_cluster_for_rider(rider_name, years):
+    """Leader table respecting per-year team context for a specific rider.
+    For each year, only considers teammates from the rider's team that year."""
+    df_rider = cm.load_rider(rider_name)
+    if df_rider is None or len(df_rider) == 0:
+        return None
+
+    # year → equipe for this rider
+    yr_equipe = (
+        df_rider.groupby('year')['equipe']
+        .agg(lambda x: x.mode().iloc[0])
+        .to_dict()
+    )
+
+    rows = []
+    for year, equipe in yr_equipe.items():
+        if years and not (years[0] <= year <= years[1]):
+            continue
+        team_riders = cm.find_team_riders([equipe], min_selections=1)
+        for rider in team_riders:
+            df = cm.load_rider(rider, equipe=[equipe])
+            if df is None:
+                continue
+            df_sel = df[(df['year'] == year) & (df['selected'] == 1) & df['stage_cluster_label'].notna()]
+            if 'pts_uci' not in df_sel.columns or len(df_sel) == 0:
+                continue
+            agg = (
+                df_sel.groupby(['year', 'stage_cluster_label'])['pts_uci']
+                .sum()
+                .reset_index()
+            )
+            agg['rider'] = rider
+            rows.append(agg)
+
+    if not rows:
+        return None
+
+    all_pts = pd.concat(rows, ignore_index=True)
     idx     = all_pts.groupby(['year', 'stage_cluster_label'])['pts_uci'].idxmax()
     leaders = all_pts.loc[idx].copy()
     leaders['label'] = (
@@ -2305,16 +2360,10 @@ def _render_stats():
             st.divider()
             st.subheader("Leader by race type (rider UCI pts, selected)")
             with st.spinner("Loading rider data…"):
-                df_leaders = cached_leader_per_cluster(tuple(sorted(teams1)), years)
-            if df_leaders is not None and len(df_leaders) > 0:
-                # If a rider is selected, restrict rows to years when they were on this team
-                if rider1 and teams1:
-                    _df_r = cm.load_rider(rider1, equipe=list(teams1))
-                    if _df_r is not None and len(_df_r) > 0:
-                        _rider_years = set(_df_r['year'].dropna().astype(int).unique())
-                        _valid_years = [y for y in df_leaders.index if int(y) in _rider_years]
-                        if _valid_years:
-                            df_leaders = df_leaders.loc[_valid_years]
+                if rider1:
+                    df_leaders = cached_leader_per_cluster_for_rider(rider1, years)
+                else:
+                    df_leaders = cached_leader_per_cluster(tuple(sorted(teams1)), years)
                 def _fmt_leader_cell(cell):
                     if not isinstance(cell, str) or ' (' not in cell:
                         return cell
