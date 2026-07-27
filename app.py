@@ -2307,6 +2307,16 @@ def _render_stats():
             with st.spinner("Loading rider data…"):
                 df_leaders = cached_leader_per_cluster(tuple(sorted(teams1)), years)
             if df_leaders is not None and len(df_leaders) > 0:
+                # If a rider is selected, restrict rows to years when they were on this team
+                if rider1:
+                    _roster = cached_roster(tuple(sorted(teams1)))
+                    if _roster is not None:
+                        _rider_years = set(
+                            _roster.loc[_roster['rider'] == rider1, 'year'].astype(int)
+                        )
+                        _valid_years = [y for y in df_leaders.index if int(y) in _rider_years]
+                        if _valid_years:
+                            df_leaders = df_leaders.loc[_valid_years]
                 def _fmt_leader_cell(cell):
                     if not isinstance(cell, str) or ' (' not in cell:
                         return cell
