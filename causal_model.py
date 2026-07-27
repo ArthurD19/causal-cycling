@@ -103,7 +103,7 @@ FEATURES_RACE = [
     'cobblestones_last_10km', 'compacted_gravel_last_10km',
     'startlist_quality', 'startlist_quality_prev',
 ]
-FEATURES_DYNAMIC = ['forme_equipe', 'n_races_30d', 'km_30d', 'leader_played', 'is_team_leader', 'year']
+FEATURES_DYNAMIC = ['forme_equipe', 'n_races_30d', 'km_30d', 'leader_top3_present', 'is_team_leader', 'year']
 ALL_FEATURES     = FEATURES_RACE + FEATURES_DYNAMIC
 
 AVAILABLE_OUTCOMES = [
@@ -126,7 +126,7 @@ _RACE_SUM_FEATS   = [
 ]
 _RACE_FIRST_FEATS = [
     'startlist_quality', 'n_races_30d', 'km_30d',
-    'leader_played', 'is_team_leader',
+    'leader_top3_present', 'is_team_leader',
 ]
 FEATURES_RACE_LEVEL = _RACE_SUM_FEATS + _RACE_FIRST_FEATS
 
@@ -136,6 +136,13 @@ _TEAM_NAME_MAP = {
     'Team Visma | Lease a Bike Development': 'Jumbo-Visma Development Team',
 }
 _LOOKUP_CACHE = BASE_DIR / 'leader_played_lookup.parquet'
+
+# ── Leader top-3 par cluster lookup ──────────────────────────────────────────
+_LEADER_TOP3_PATH = BASE_DIR / 'leader_top3_lookup.parquet'
+_LEADER_TOP3_DF = (
+    pd.read_parquet(_LEADER_TOP3_PATH)
+    if _LEADER_TOP3_PATH.exists() else None
+)
 
 
 def _build_leader_played_lookup():
@@ -607,6 +614,17 @@ def load_rider(rider_name: str, equipe=None, years=None) -> pd.DataFrame | None:
                 df.loc[mask, 'stage_num'],
             ))
             df.loc[mask, 'leader_played'] = [LEADER_PLAYED_LOOKUP.get(k, 0) for k in keys]
+    # Join leader_top3_present — uses French CSV labels, must happen before EN conversion
+    if _LEADER_TOP3_DF is not None and 'stage_cluster_label' in df.columns:
+        _lk = _LEADER_TOP3_DF.copy()
+        _lk['stage_num'] = _lk['stage_num'].astype(str)
+        _tmp = df[['equipe', 'year', 'course', 'stage_cluster_label']].copy()
+        _tmp['stage_num'] = df['stage_num'].astype(str)
+        _tmp = _tmp.reset_index(drop=True)
+        _merged = _tmp.merge(_lk, on=['equipe', 'year', 'course', 'stage_num', 'stage_cluster_label'], how='left')
+        df = df.reset_index(drop=True)
+        df['leader_top3_present'] = _merged['leader_top3_present'].fillna(0).astype(int).values
+
     # Fix CLM misclassification: physical clustering can't distinguish flat ITTs
     # from flat road stages — use won_how / type / course name as ground truth
     if 'stage_cluster_label' in df.columns:
