@@ -1810,65 +1810,73 @@ very different contexts → incorrect results. **Set the slider to the year he j
                     _df_q = _df_q.copy()
                     _feat_lbl = _feat_labels.get(sel_feat, sel_feat)
                     _n_unique = _df_q[sel_feat].nunique()
-                    _is_binary = _n_unique <= 5
+                    _is_categorical = _n_unique <= 5
 
-                    if _is_binary:
-                        # Binary / low-cardinality: group by actual values
+                    if _is_categorical:
                         _binary_labels = {1.0: 'Yes', 0.0: 'No', 1: 'Yes', 0: 'No'}
-                        _df_q['_q'] = _df_q[sel_feat].map(
+                        _df_q['_grp'] = _df_q[sel_feat].map(
                             lambda v: _binary_labels.get(v, str(v))
                         )
-                        _q_stats = (
-                            _df_q.groupby('_q', observed=True)['cate']
-                            .agg(mean='mean', std='std', n='count')
-                            .reset_index()
-                        )
-                        _q_stats['sem95'] = 1.96 * _q_stats['std'] / _q_stats['n'].pow(0.5)
-                        _q_labels = _q_stats['_q'].tolist()
-                        _chart_title = f'Average CATE by {_feat_lbl}'
+                        _chart_title = f'CATE distribution by {_feat_lbl}'
                     else:
                         # Continuous: quartile binning
-                        _df_q['_q'] = pd.qcut(_df_q[sel_feat], q=4, duplicates='drop')
-                        _q_stats = (
-                            _df_q.groupby('_q', observed=True)['cate']
-                            .agg(mean='mean', std='std', n='count')
-                            .reset_index()
-                        )
-                        _q_stats['sem95'] = 1.96 * _q_stats['std'] / _q_stats['n'].pow(0.5)
+                        _df_q['_qbin'] = pd.qcut(_df_q[sel_feat], q=4, duplicates='drop')
                         def _fmt_bound(v):
                             av = abs(v)
-                            if av >= 1e9:  return f'{v/1e9:.1f}B'
-                            if av >= 1e6:  return f'{v/1e6:.1f}M'
                             if av >= 1e3:  return f'{v/1e3:.1f}k'
                             if av >= 100:  return f'{v:.0f}'
                             if av >= 1:    return f'{v:.1f}'
                             return f'{v:.2f}'
-                        _q_labels = [
-                            f"Q{i+1}: [{_fmt_bound(iv.left)} – {_fmt_bound(iv.right)}]"
-                            for i, iv in enumerate(_q_stats['_q'])
+                        _df_q['_grp'] = _df_q['_qbin'].apply(
+                            lambda iv: f"[{_fmt_bound(iv.left)} – {_fmt_bound(iv.right)}]"
+                        )
+                        # Preserve quartile order
+                        _bin_order = [
+                            f"[{_fmt_bound(iv.left)} – {_fmt_bound(iv.right)}]"
+                            for iv in sorted(_df_q['_qbin'].dropna().unique())
                         ]
-                        _chart_title = f'Average CATE by {_feat_lbl} quartile'
+                        _df_q['_grp'] = pd.Categorical(_df_q['_grp'], categories=_bin_order, ordered=True)
+                        _chart_title = f'CATE distribution by {_feat_lbl} quartile'
 
-                    fig_q = go.Figure(go.Bar(
-                        x=_q_labels,
-                        y=_q_stats['mean'].round(3),
-                        error_y=dict(type='data', array=_q_stats['sem95'].round(3), visible=True),
-                        marker_color=[
-                            '#2d7a3a' if v > 0 else '#c0392b'
-                            for v in _q_stats['mean']
-                        ],
-                        text=_q_stats['n'].astype(int).astype(str) + ' obs',
-                        textposition='outside',
-                        hovertemplate='%{x}<br>Avg CATE: %{y:+.3f} pts<extra></extra>',
-                    ))
-                    fig_q.add_hline(y=0, line_color='#888', line_width=1)
+                    _groups = _df_q['_grp'].unique()
+                    if hasattr(_groups, 'categories'):
+                        _groups = list(_groups.categories)
+                    else:
+                        _groups = sorted(_groups, key=str)
+
+                    _grp_means = _df_q.groupby('_grp', observed=True)['cate'].mean()
+
+                    fig_q = go.Figure()
+                    for _grp in _groups:
+                        _vals = _df_q[_df_q['_grp'] == _grp]['cate']
+                        _mean = _grp_means.get(_grp, 0)
+                        _color = '#2d7a3a' if _mean > 0 else '#c0392b'
+                        fig_q.add_trace(go.Violin(
+                            x=[str(_grp)] * len(_vals),
+                            y=_vals,
+                            name=str(_grp),
+                            box_visible=True,
+                            meanline_visible=True,
+                            fillcolor=_color,
+                            opacity=0.6,
+                            line_color=_color,
+                            showlegend=False,
+                            hovertemplate=(
+                                f'<b>{_grp}</b><br>'
+                                'CATE: %{y:+.3f}<br>'
+                                f'Mean: {_mean:+.3f}<br>'
+                                f'n={len(_vals)}<extra></extra>'
+                            ),
+                        ))
+                    fig_q.add_hline(y=0, line_color='#888', line_width=1, line_dash='dash')
                     fig_q.update_layout(
                         title=_chart_title,
-                        yaxis_title='Average CATE (UCI pts)',
+                        yaxis_title='CATE (UCI pts)',
                         xaxis_title=_feat_lbl,
                         template='plotly_white',
-                        height=350,
-                        showlegend=False,
+                        height=400,
+                        violingap=0.3,
+                        violinmode='overlay',
                     )
                     st.plotly_chart(fig_q, use_container_width=True)
                 except Exception:
