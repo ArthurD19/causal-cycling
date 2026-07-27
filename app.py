@@ -336,14 +336,12 @@ if not teams1 and not rider1:
 # ── Helper: enrich df_clean with leader name ──────────────────────────────────
 def enrich_with_leader(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
-    df['leader_name'] = df.apply(
-        lambda r: (
-            fmt_rider(leaders.get((r['equipe'], int(r['year'])), '—'))
-            if r.get('leader_played', 0) == 1
-            else '—'
-        ) if 'equipe' in df.columns else '—',
-        axis=1,
-    )
+    if 'leader_name_present' in df.columns:
+        df['leader_name'] = df['leader_name_present'].apply(
+            lambda v: fmt_rider(v) if pd.notna(v) and v else '—'
+        )
+    else:
+        df['leader_name'] = '—'
     return df
 
 @st.cache_data(show_spinner=False)
@@ -706,7 +704,7 @@ def _render_cf():
             'n_cols_cat4': 'Cat4 climbs', 'cobblestones_km': 'Cobblestones (km)',
             'compacted_gravel_km': 'Gravel (km)', 'forme_equipe': 'Team form',
             'n_races_30d': 'Races/30d', 'km_30d': 'Km/30d',
-            'is_team_leader': 'Team leader', 'leader_played': 'Leader present',
+            'is_team_leader': 'Team leader', 'leader_played': 'Leader present', 'leader_top3_present': 'Leader present (top3)',
             'gradient_last_5km': 'Final gradient (5km)',
             'altitude_max': 'Max altitude (m)', 'altitude_min': 'Min altitude (m)',
             'loc_last_col_hc': 'Last HC climb position',
@@ -740,7 +738,11 @@ def _render_cf():
 
     def enrich_cf_cols(df):
         df = enrich_with_leader(df.copy())
-        if 'leader_played' in df.columns:
+        if 'leader_top3_present' in df.columns:
+            df['leader'] = df['leader_top3_present'].map(
+                {1: 'Leader present', 0: 'No leader', 1.0: 'Leader present', 0.0: 'No leader'}
+            ).fillna('No leader')
+        elif 'leader_played' in df.columns:
             df['leader'] = df['leader_played'].map(
                 {1.0: 'Leader present', 0.0: 'No leader'}
             ).fillna('No leader')
@@ -909,7 +911,7 @@ def _render_cf():
                     'n_cols_cat4': 'Cat4 climbs', 'cobblestones_km': 'Cobblestones (km)',
                     'compacted_gravel_km': 'Gravel (km)', 'forme_equipe': 'Team form',
                     'n_races_30d': 'Races/30d', 'km_30d': 'Km/30d',
-                    'is_team_leader': 'Team leader', 'leader_played': 'Leader present',
+                    'is_team_leader': 'Team leader', 'leader_played': 'Leader present', 'leader_top3_present': 'Leader present (top3)',
                     'gradient_last_5km': 'Final gradient (5km)',
                     'altitude_max': 'Max altitude (m)', 'altitude_min': 'Min altitude (m)',
                     'loc_last_col_hc': 'Last HC climb position',
@@ -1785,7 +1787,7 @@ very different contexts → incorrect results. **Set the slider to the year he j
             'n_cols_cat4': 'Cat4 climbs', 'cobblestones_km': 'Cobblestones (km)',
             'compacted_gravel_km': 'Gravel (km)', 'forme_equipe': 'Team form',
             'n_races_30d': 'Races/30d', 'km_30d': 'Km/30d',
-            'is_team_leader': 'Team leader', 'leader_played': 'Leader present',
+            'is_team_leader': 'Team leader', 'leader_played': 'Leader present', 'leader_top3_present': 'Leader present (top3)',
             'gradient_last_5km': 'Final gradient (5km)',
             'altitude_max': 'Max altitude (m)', 'altitude_min': 'Min altitude (m)',
             'loc_last_col_hc': 'Last HC climb position',
@@ -2110,6 +2112,37 @@ def _load_team_stage_pts(equipe_tuple, years):
 _CLUSTER_ORDER = ['⏱️  TT', '🟢  Flat/Sprint', '⛰️  Medium mountain', '🏔️  High mountain']
 
 @st.cache_data(show_spinner=False)
+def cached_cluster_top3(equipe_tuple, years):
+    """Return top-3 riders per cluster from cluster_leaders.parquet for the given teams/years."""
+    cl_df = cm.get_cluster_leaders()
+    if cl_df is None:
+        return None
+    equipes = list(equipe_tuple)
+    mask = cl_df['equipe'].isin(equipes)
+    if years:
+        mask &= cl_df['year'].between(years[0], years[1])
+    sub = cl_df[mask].copy()
+    if len(sub) == 0:
+        return None
+    # Translate French cluster labels to English for display
+    _FR_EN = {
+        '🟢  Plat/Sprint':    '🟢  Flat/Sprint',
+        '⛰️  Moy. montagne':  '⛰️  Medium mountain',
+        '🏔️  Haute montagne': '🏔️  High mountain',
+        '⏱️  CLM':            '⏱️  TT',
+    }
+    sub['stage_cluster_label'] = sub['stage_cluster_label'].replace(_FR_EN)
+    for col in ['leader_1', 'leader_2', 'leader_3']:
+        sub[col] = sub[col].apply(lambda v: fmt_rider(v) if pd.notna(v) and v else '—')
+    _ORDER = ['⏱️  TT', '🟢  Flat/Sprint', '⛰️  Medium mountain', '🏔️  High mountain']
+    sub['_ord'] = sub['stage_cluster_label'].map({c: i for i, c in enumerate(_ORDER)}).fillna(99)
+    sub = sub.sort_values(['year', '_ord']).drop(columns='_ord')
+    return sub[['year', 'stage_cluster_label', 'leader_1', 'leader_2', 'leader_3']].rename(
+        columns={'stage_cluster_label': 'Stage type', 'leader_1': '#1', 'leader_2': '#2', 'leader_3': '#3'}
+    )
+
+
+@st.cache_data(show_spinner=False)
 def cached_leader_per_cluster(equipe_tuple, years):
     """For each (year, cluster), return the rider with the most UCI pts."""
     roster = cached_roster(equipe_tuple)
@@ -2355,6 +2388,22 @@ def _render_stats():
                     cat_agg = cat_agg.sort_values('_rank').drop(columns='_rank')
                     cat_agg['classification'] = cat_agg['classification'].apply(fmt_classification)
                     st.dataframe(cat_agg.head(15), use_container_width=True)
+
+            # ── Top 3 leaders per cluster ──────────────────────────
+            st.divider()
+            st.subheader("Top 3 leaders by stage type")
+            _t3_equipes = tuple(sorted(teams1)) if teams1 else tuple(get_rider_teams(rider1))
+            _t3_df = cached_cluster_top3(_t3_equipes, years)
+            if _t3_df is not None and len(_t3_df) > 0:
+                _t3_years = sorted(_t3_df['year'].unique())
+                _t3_year_sel = st.select_slider(
+                    "Year", options=_t3_years, value=_t3_years[-1], key='top3_year_sel'
+                ) if len(_t3_years) > 1 else _t3_years[0]
+                _t3_show = _t3_df[_t3_df['year'] == _t3_year_sel].drop(columns='year')
+                st.dataframe(_t3_show.set_index('Stage type'), use_container_width=True)
+                st.caption("Top 3 riders by cumulative UCI pts for each stage type (cluster-specific leaders).")
+            else:
+                st.info("No cluster leaders data available.")
 
             # ── Leader by cluster by year ──────────────────────────
             st.divider()

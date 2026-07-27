@@ -137,11 +137,17 @@ _TEAM_NAME_MAP = {
 }
 _LOOKUP_CACHE = BASE_DIR / 'leader_played_lookup.parquet'
 
-# ── Leader top-3 par cluster lookup ──────────────────────────────────────────
+# ── Leader top-3 par cluster lookups ─────────────────────────────────────────
 _LEADER_TOP3_PATH = BASE_DIR / 'leader_top3_lookup.parquet'
 _LEADER_TOP3_DF = (
     pd.read_parquet(_LEADER_TOP3_PATH)
     if _LEADER_TOP3_PATH.exists() else None
+)
+
+_LEADER_NAME_PATH = BASE_DIR / 'leader_name_lookup.parquet'
+_LEADER_NAME_DF = (
+    pd.read_parquet(_LEADER_NAME_PATH)
+    if _LEADER_NAME_PATH.exists() else None
 )
 
 
@@ -550,6 +556,17 @@ def get_team_year_leaders() -> dict:
     return {(row.team, int(row.year)): row.leader_1_rider for row in tl.itertuples()}
 
 
+def get_cluster_leaders() -> pd.DataFrame | None:
+    """Returns cluster_leaders.parquet: top3 riders per (equipe, year, cluster).
+
+    Columns: equipe, year, stage_cluster_label (French), leader_1, leader_2, leader_3.
+    """
+    path = BASE_DIR / 'cluster_leaders.parquet'
+    if not path.exists():
+        return None
+    return pd.read_parquet(path)
+
+
 # ── Data loading ──────────────────────────────────────────────────────────────
 def _remap_national_teams(df: pd.DataFrame) -> pd.DataFrame:
     """Remap national team rows to the rider's pro team for that year.
@@ -614,16 +631,24 @@ def load_rider(rider_name: str, equipe=None, years=None) -> pd.DataFrame | None:
                 df.loc[mask, 'stage_num'],
             ))
             df.loc[mask, 'leader_played'] = [LEADER_PLAYED_LOOKUP.get(k, 0) for k in keys]
-    # Join leader_top3_present — uses French CSV labels, must happen before EN conversion
-    if _LEADER_TOP3_DF is not None and 'stage_cluster_label' in df.columns:
-        _lk = _LEADER_TOP3_DF.copy()
-        _lk['stage_num'] = _lk['stage_num'].astype(str)
+    # Join leader_top3_present + leader_name_present — French labels, before EN conversion
+    if 'stage_cluster_label' in df.columns:
         _tmp = df[['equipe', 'year', 'course', 'stage_cluster_label']].copy()
         _tmp['stage_num'] = df['stage_num'].astype(str)
         _tmp = _tmp.reset_index(drop=True)
-        _merged = _tmp.merge(_lk, on=['equipe', 'year', 'course', 'stage_num', 'stage_cluster_label'], how='left')
         df = df.reset_index(drop=True)
-        df['leader_top3_present'] = _merged['leader_top3_present'].fillna(0).astype(int).values
+
+        if _LEADER_TOP3_DF is not None:
+            _lk = _LEADER_TOP3_DF.copy()
+            _lk['stage_num'] = _lk['stage_num'].astype(str)
+            _m = _tmp.merge(_lk, on=['equipe', 'year', 'course', 'stage_num', 'stage_cluster_label'], how='left')
+            df['leader_top3_present'] = _m['leader_top3_present'].fillna(0).astype(int).values
+
+        if _LEADER_NAME_DF is not None:
+            _ln = _LEADER_NAME_DF.copy()
+            _ln['stage_num'] = _ln['stage_num'].astype(str)
+            _mn = _tmp.merge(_ln, on=['equipe', 'year', 'course', 'stage_num', 'stage_cluster_label'], how='left')
+            df['leader_name_present'] = _mn['leader_name_present'].values
 
     # Fix CLM misclassification: physical clustering can't distinguish flat ITTs
     # from flat road stages — use won_how / type / course name as ground truth
