@@ -2364,6 +2364,7 @@ def _render_stats():
                     df_leaders = cached_leader_per_cluster_for_rider(rider1, years)
                 else:
                     df_leaders = cached_leader_per_cluster(tuple(sorted(teams1)), years)
+            if df_leaders is not None and len(df_leaders) > 0:
                 def _fmt_leader_cell(cell):
                     if not isinstance(cell, str) or ' (' not in cell:
                         return cell
