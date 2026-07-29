@@ -121,8 +121,8 @@ def _race_equipe_kw(race_row) -> str:
 
 
 def _inject_team_uci_pts(df_res: pd.DataFrame, race_row) -> pd.DataFrame:
-    """Replace Team UCI pts (which are PCS pts in the parquet) with the correct UCI team pts
-    from pts_uci_equipe_stage for the analyzed rider's team. Other teams keep their parquet sum."""
+    """Override Team UCI pts for the analyzed rider's team with the real value
+    from pts_uci_equipe_stage (which is the authoritative model value)."""
     correct_pts = race_row.get('pts_uci_equipe_stage', None)
     kw = _race_equipe_kw(race_row)
     if correct_pts is not None and kw:
@@ -130,6 +130,42 @@ def _inject_team_uci_pts(df_res: pd.DataFrame, race_row) -> pd.DataFrame:
         df_res = df_res.copy()
         df_res.loc[mask, 'Team UCI pts'] = correct_pts
     return df_res
+
+
+def _pcs_name_to_slug(name: str) -> str:
+    """Convert cleaned PCS rider name (Lastname Firstname) to CSV slug."""
+    return name.lower().replace(' ', '_')
+
+
+def _enrich_uci_pts(df: pd.DataFrame, course: str, year: int, stage_num) -> pd.DataFrame:
+    """Replace PCS pts in 'UCI pts' column with real UCI pts from rider CSVs.
+    Riders not in our dataset keep NaN."""
+    rider_dir = Path(cm.BASE_DIR) / 'rider_data'
+    sn_val = None if (stage_num is None or (isinstance(stage_num, float) and pd.isna(stage_num))) \
+        else float(stage_num)
+
+    uci_map = {}
+    for name in df['Rider'].unique():
+        slug = _pcs_name_to_slug(name)
+        csv_path = rider_dir / f'{slug}.csv'
+        if not csv_path.exists():
+            continue
+        try:
+            rdf = pd.read_csv(csv_path, usecols=['course', 'year', 'stage_num', 'pts_uci'])
+            mask = (rdf['course'] == course) & (rdf['year'] == int(year))
+            if sn_val is not None:
+                mask &= (rdf['stage_num'] == sn_val)
+            else:
+                mask &= rdf['stage_num'].isna()
+            rows = rdf[mask]
+            if not rows.empty:
+                uci_map[name] = float(rows.iloc[0]['pts_uci'])
+        except Exception:
+            pass
+
+    df['UCI pts'] = df['Rider'].map(uci_map)
+    df['Team UCI pts'] = df.groupby('Team')['UCI pts'].transform('sum')
+    return df
 
 
 @st.cache_data(show_spinner=False)
@@ -143,12 +179,11 @@ def load_race_results(course: str, year: int, stage_num):
     sn = '' if (stage_num is None or (isinstance(stage_num, float) and pd.isna(stage_num))) else str(int(float(stage_num)))
     mask = (db['course'] == course) & (db['year'] == str(int(year))) & (db['stage_num'] == sn)
     df = db[mask][['Rank', 'Rider', 'Team', 'UCI pts']].copy()
-    del db  # free the full DB immediately
+    del db
     if len(df) == 0:
         return None
     df = df.drop_duplicates(subset=['Rank', 'Rider', 'Team'])
     df['Rank'] = pd.to_numeric(df['Rank'], errors='coerce')
-    # PCS data appends team name to rider name — strip it
     def _clean(row):
         rider, team = str(row['Rider']).strip(), str(row['Team']).strip()
         if rider.endswith(' ' + team):
@@ -158,8 +193,7 @@ def load_race_results(course: str, year: int, stage_num):
         return rider
     df['Rider'] = df.apply(_clean, axis=1)
     df = df.sort_values('Rank').reset_index(drop=True)
-    # Add team total UCI pts column
-    df['Team UCI pts'] = df.groupby('Team')['UCI pts'].transform('sum')
+    df = _enrich_uci_pts(df, course, year, stage_num)
     return df
 
 @st.cache_data(show_spinner=False)
@@ -202,7 +236,13 @@ def load_all_race_stages(course: str, year: int):
             return rider[:-len(team)].strip()
         return rider
     df['Rider'] = df.apply(_clean, axis=1)
-    df['UCI pts'] = pd.to_numeric(df['UCI pts'], errors='coerce').fillna(0)
+    # Replace PCS pts with real UCI pts per stage
+    enriched = []
+    for sn, grp in df.groupby('stage_num', sort=False):
+        sn_num = None if sn in ('', 'gc', 'GC') else sn
+        grp = _enrich_uci_pts(grp.copy(), course, year, sn_num)
+        enriched.append(grp)
+    df = pd.concat(enriched, ignore_index=True) if enriched else df
     return df
 
 
@@ -937,6 +977,7 @@ def _render_cf():
                             bg = X_train[rng.choice(len(X_train), n_bg, replace=False)]
 
                             explainer = _shap.KernelExplainer(_cf_predict, bg)
+                            np.random.seed(42)
                             sv = explainer.shap_values(x_vals, nsamples=200, silent=True)
                             shap_arr = np.array(sv[0] if isinstance(sv, list) else sv[0])
 
@@ -1248,7 +1289,7 @@ def _render_cf():
                             _df_sn['Team'].str.lower().str.contains(_eq_kw_rl, regex=False)
                         ]
                     st.dataframe(
-                        _df_sn.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
+                        _df_sn.style.format({'UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}', 'Team UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}'}),
                         use_container_width=True, hide_index=False,
                     )
             if _df_gc is None and _df_all is None:
@@ -1269,7 +1310,7 @@ def _render_cf():
                         _df_results_main['Team'].str.lower().str.contains(_eq_kw_main, regex=False)
                     ]
                 st.dataframe(
-                    _df_results_main.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
+                    _df_results_main.style.format({'UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}', 'Team UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}'}),
                     use_container_width=True, hide_index=False,
                 )
             else:
@@ -1417,7 +1458,7 @@ def _render_cf():
                                 _df_results_r['Team'].str.lower().str.contains(_eq_kw_r, regex=False)
                             ]
                         st.dataframe(
-                            _df_results_r.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
+                            _df_results_r.style.format({'UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}', 'Team UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}'}),
                             use_container_width=True, hide_index=False,
                         )
 
@@ -1460,7 +1501,7 @@ def _render_cf():
                     else:
                         _df_show = _df_results
                     st.dataframe(
-                        _df_show.style.format({'UCI pts': '{:.0f}', 'Team UCI pts': '{:.0f}'}),
+                        _df_show.style.format({'UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}', 'Team UCI pts': lambda x: '-' if pd.isna(x) else f'{x:.0f}'}),
                         use_container_width=True,
                         hide_index=False,
                     )
