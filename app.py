@@ -172,7 +172,7 @@ def _enrich_uci_pts(df: pd.DataFrame, course: str, year: int, stage_num) -> pd.D
 def load_race_results(course: str, year: int, stage_num):
     """Load race results for a specific race from precomputed stage_results.parquet.
     The full DB is loaded, filtered, then freed — only the small result is cached."""
-    path = Path(cm.BASE_DIR) / 'stage_results.parquet'
+    path = Path(cm.DATA_APP_DIR) / 'stage_results.parquet'
     if not path.exists():
         return None
     db = pd.read_parquet(path)
@@ -199,7 +199,7 @@ def load_race_results(course: str, year: int, stage_num):
 @st.cache_data(show_spinner=False)
 def load_gc_classification(course: str, year: int):
     """Load GC classification from gc_results.parquet (one row per rider, type='gc')."""
-    path = Path(cm.BASE_DIR) / 'gc_results.parquet'
+    path = Path(cm.DATA_APP_DIR) / 'gc_results.parquet'
     if not path.exists():
         return None
     db = pd.read_parquet(path)
@@ -218,7 +218,7 @@ def load_gc_classification(course: str, year: int):
 @st.cache_data(show_spinner=False)
 def load_all_race_stages(course: str, year: int):
     """Load all stage + GC results for a stage race (course + year), grouped by stage_num."""
-    path = Path(cm.BASE_DIR) / 'stage_results.parquet'
+    path = Path(cm.DATA_APP_DIR) / 'stage_results.parquet'
     if not path.exists():
         return None
     db = pd.read_parquet(path)
@@ -1983,7 +1983,7 @@ with tab_cf:
 # ════════════════════════════════════════════════════════════════════════════════
 @st.cache_data(show_spinner=False)
 def _load_ate_results():
-    path = Path(cm.BASE_DIR) / 'riders_ate_results.csv'
+    path = Path(cm.DATA_APP_DIR) / 'riders_ate_results.csv'
     if not path.exists():
         return None
     df = pd.read_csv(path)
@@ -2106,7 +2106,7 @@ with tab_rank:
 
     @st.cache_data(show_spinner=False)
     def _load_team_pts_all():
-        path = Path(cm.BASE_DIR) / 'team_stage_points.csv'
+        path = Path(cm.DATA_APP_DIR) / 'team_stage_points.csv'
         if not path.exists():
             return None
         df = pd.read_csv(path, low_memory=False)
@@ -2200,7 +2200,7 @@ with tab_rank:
 # ════════════════════════════════════════════════════════════════════════════════
 @st.cache_data(show_spinner=False)
 def _load_team_stage_pts(equipe_tuple, years):
-    path = Path(cm.BASE_DIR) / 'team_stage_points.csv'
+    path = Path(cm.DATA_APP_DIR) / 'team_stage_points.csv'
     if not path.exists():
         return None
     df = pd.read_csv(path, low_memory=False)

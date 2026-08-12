@@ -16,6 +16,7 @@ from econml.dml import CausalForestDML
 BASE_DIR     = Path(__file__).parent
 RIDER_DIR    = BASE_DIR / 'rider_data'
 GC_DIR       = BASE_DIR / 'riders_gc'
+DATA_APP_DIR = BASE_DIR / 'data_app'
 
 
 def _nfc(name: str) -> str:
@@ -135,16 +136,16 @@ _TEAM_NAME_MAP = {
     'Team Visma | Lease a Bike': 'Team Visma',
     'Team Visma | Lease a Bike Development': 'Jumbo-Visma Development Team',
 }
-_LOOKUP_CACHE = BASE_DIR / 'leader_played_lookup.parquet'
+_LOOKUP_CACHE = DATA_APP_DIR / 'leader_played_lookup.parquet'
 
 # ── Leader top-3 par cluster lookups ─────────────────────────────────────────
-_LEADER_TOP3_PATH = BASE_DIR / 'leader_top3_lookup.parquet'
+_LEADER_TOP3_PATH = DATA_APP_DIR / 'leader_top3_lookup.parquet'
 _LEADER_TOP3_DF = (
     pd.read_parquet(_LEADER_TOP3_PATH)
     if _LEADER_TOP3_PATH.exists() else None
 )
 
-_LEADER_NAME_PATH = BASE_DIR / 'leader_name_lookup.parquet'
+_LEADER_NAME_PATH = DATA_APP_DIR / 'leader_name_lookup.parquet'
 _LEADER_NAME_DF = (
     pd.read_parquet(_LEADER_NAME_PATH)
     if _LEADER_NAME_PATH.exists() else None
@@ -158,7 +159,7 @@ def _build_leader_played_lookup():
             (row.equipe, int(row.year), row.course, row.stage_num): int(row.is_leader)
             for row in df.itertuples()
         }
-    tl_path = BASE_DIR / 'team_leaders.csv'
+    tl_path = DATA_APP_DIR / 'team_leaders.csv'
     if not tl_path.exists():
         return {}
     tl = pd.read_csv(tl_path)[['team', 'year', 'leader_1_rider']]
@@ -188,7 +189,7 @@ LEADER_PLAYED_LOOKUP = _build_leader_played_lookup()
 
 
 # ── Riders index ──────────────────────────────────────────────────────────────
-_INDEX_CACHE = BASE_DIR / 'riders_index.parquet'
+_INDEX_CACHE = DATA_APP_DIR / 'riders_index.parquet'
 
 
 def _build_riders_index():
@@ -303,7 +304,7 @@ def get_team_roster_by_year(equipe) -> pd.DataFrame:
 # ── GPX index & profile loading ───────────────────────────────────────────────
 GPX_DIR_ELE2  = BASE_DIR / 'data' / 'gpx_files_ele2'   # {day}_{month}_{year}_{Name}.gpx  (2024-2025)
 GPX_DIR_2     = BASE_DIR / 'data' / 'gpx_files_2'       # {year} {race_name}.gpx           (2017-2025)
-_GPX_INDEX_CACHE = BASE_DIR / 'gpx_index.parquet'
+_GPX_INDEX_CACHE = DATA_APP_DIR / 'gpx_index.parquet'
 _GPX_INDEX = None
 
 
@@ -496,7 +497,7 @@ def _get_gpx_profiles() -> pd.DataFrame | None:
     global _GPX_PROFILES
     if _GPX_PROFILES is not None:
         return _GPX_PROFILES
-    parquet_path = BASE_DIR / 'gpx_profiles.parquet'
+    parquet_path = DATA_APP_DIR / 'gpx_profiles.parquet'
     if parquet_path.exists():
         _GPX_PROFILES = pd.read_parquet(parquet_path)
     return _GPX_PROFILES
@@ -549,7 +550,7 @@ def load_gpx_profile(course: str, date_val, stage_num=None,
 
 def get_team_year_leaders() -> dict:
     """Returns {(team, year): leader_1_rider} from team_leaders.csv."""
-    path = BASE_DIR / 'team_leaders.csv'
+    path = DATA_APP_DIR / 'team_leaders.csv'
     if not path.exists():
         return {}
     tl = pd.read_csv(path)[['team', 'year', 'leader_1_rider']]
@@ -561,7 +562,7 @@ def get_cluster_leaders() -> pd.DataFrame | None:
 
     Columns: equipe, year, stage_cluster_label (French), leader_1, leader_2, leader_3.
     """
-    path = BASE_DIR / 'cluster_leaders.parquet'
+    path = DATA_APP_DIR / 'cluster_leaders.parquet'
     if not path.exists():
         return None
     return pd.read_parquet(path)

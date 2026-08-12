@@ -21,7 +21,7 @@ GPX_DIRS = [
     BASE_DIR / 'data' / 'gpx_files_ele2',
     BASE_DIR / 'data' / 'gpx_files_2',
 ]
-OUT_PATH  = BASE_DIR / 'gpx_profiles.parquet'
+OUT_PATH  = BASE_DIR / 'data_app' / 'gpx_profiles.parquet'
 MAX_PTS   = 600
 
 

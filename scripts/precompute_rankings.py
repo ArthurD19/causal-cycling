@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR))
 import causal_model as cm
 
-OUTPUT_FILE = BASE_DIR / 'riders_ate_results.csv'
+OUTPUT_FILE = BASE_DIR / 'data_app' / 'riders_ate_results.csv'
 N_BOOT      = 100   # reduced vs default (200) for speed; enough for stable CIs
 N_TREES     = 100   # reduced vs default (300) for CF ranking; stable enough for comparison
 
