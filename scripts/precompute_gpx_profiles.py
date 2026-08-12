@@ -5,7 +5,7 @@ Reads every .gpx in gpx_files_2/ and gpx_files_ele2/, extracts
 (distance_km, elevation), and writes a single gpx_profiles.parquet.
 
 Run once:
-    python precompute_gpx_profiles.py
+    python scripts/precompute_gpx_profiles.py
 
 The resulting file is used by load_gpx_profile() instead of parsing
 raw GPX files at runtime — reducing the required data from ~11 GB to ~30 MB.
@@ -16,7 +16,7 @@ import math
 from pathlib import Path
 import pandas as pd
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 GPX_DIRS = [
     BASE_DIR / 'data' / 'gpx_files_ele2',
     BASE_DIR / 'data' / 'gpx_files_2',

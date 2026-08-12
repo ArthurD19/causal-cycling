@@ -8,18 +8,19 @@ Handles:
   - Scaling cases (women's GPX): scale cumulative features by real_dist / gpx_dist
 
 Run:
-    python fix_more_missing_gpx.py
+    python scripts/fix_more_missing_gpx.py
 """
 
 import xml.etree.ElementTree as ET
 import math
+import sys
 import numpy as np
 import pandas as pd
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR))
 import causal_model as cm
-
-BASE_DIR = Path(__file__).parent
 
 # ── One-day races ────────────────────────────────────────────────────────────
 # (course, year, date)

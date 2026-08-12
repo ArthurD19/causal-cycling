@@ -4,9 +4,9 @@ Results are saved incrementally to riders_ate_results.csv.
 Re-running the script skips already-computed riders (resumable).
 
 Usage:
-    python precompute_rankings.py
-    python precompute_rankings.py --no-cf      # DML only, faster
-    python precompute_rankings.py --reset      # recompute everything from scratch
+    python scripts/precompute_rankings.py
+    python scripts/precompute_rankings.py --no-cf      # DML only, faster
+    python scripts/precompute_rankings.py --reset      # recompute everything from scratch
 """
 
 import argparse
@@ -16,9 +16,11 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR))
 import causal_model as cm
 
-OUTPUT_FILE = Path(__file__).parent / 'riders_ate_results.csv'
+OUTPUT_FILE = BASE_DIR / 'riders_ate_results.csv'
 N_BOOT      = 100   # reduced vs default (200) for speed; enough for stable CIs
 N_TREES     = 100   # reduced vs default (300) for CF ranking; stable enough for comparison
 

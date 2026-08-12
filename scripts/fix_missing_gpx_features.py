@@ -9,18 +9,19 @@ Affected races:
   - antwerp-port-epic      2020, 2021, 2022, 2023, 2024, 2025
 
 Run:
-    python fix_missing_gpx_features.py
+    python scripts/fix_missing_gpx_features.py
 """
 
 import xml.etree.ElementTree as ET
 import math
+import sys
 import numpy as np
 import pandas as pd
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR))
 import causal_model as cm
-
-BASE_DIR = Path(__file__).parent
 
 TARGETS = [
     ('dwars-door-vlaanderen', 2018, '2018-03-28'),

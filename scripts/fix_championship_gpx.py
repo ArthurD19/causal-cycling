@@ -11,18 +11,19 @@ than the real race. This script patches rider CSVs by:
      unchanged — the finish circuit is the same regardless of the number of laps.
 
 Run:
-    python fix_championship_gpx.py
+    python scripts/fix_championship_gpx.py
 """
 
 import math
+import sys
 import xml.etree.ElementTree as ET
 import numpy as np
 import pandas as pd
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR))
 import causal_model as cm
-
-BASE_DIR = Path(__file__).parent
 
 # Real men's elite distances (km)
 REAL_DISTANCES = {

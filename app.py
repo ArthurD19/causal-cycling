@@ -1997,7 +1997,7 @@ def _load_ate_results():
 with tab_rank:
     df_rank = _load_ate_results()
     if df_rank is None:
-        st.info("No ranking data yet. Run `python precompute_rankings.py` to generate it.")
+        st.info("No ranking data yet. Run `python scripts/precompute_rankings.py` to generate it.")
     else:
         st.subheader("WorldTour Rankings — ATE (Average Treatment Effect)")
         st.caption(
